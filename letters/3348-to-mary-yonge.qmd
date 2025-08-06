@@ -1,0 +1,35 @@
+---
+date: '1897-05-13'
+display-date: May 13th [1897]
+from-address: Elderfield Otterbourne
+manuscript-location: MS West Devon Area Record Office Acc No 308
+original-date: '2010-10-06 16:09:55'
+title: To Mary Yonge
+wordpress-id: 3348
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mary](../persons.html#1626)
+I hope you accomplished meeting [Jane Moore](../persons.html#1042) after all, though the hitting off the right time with any Colborne is so difficult, I wonder whether Jane looks as bright and fresh as ever.
+
+We are going through a grave time- When the Woollcombes came at the end of April, [Gertrude](../persons.html#1462) was in the midst of a very bad sick fit, however she began to revive, and they went away on Monday 3d leaving her on the mend, but on the Saturday she was so ill that we telegraphed, and [Mary](../persons.html#1558) came back, and I do not think will leave her again.
+
+There is one day better and another worse.
+
+Yesterday was a very good day, when she enjoyed reading and seeing flowers and [Alethea](../persons.html#182) but it was a bad night and she is very tired today hardly speaking.
+
+The Bowleses began their spring cleaning on the 3d, the two little girls going with the nurse to a lodging at Dorking, Alethea and the baby to [Mrs Collins](../persons.html#2168) at the post office, and [Henry](../persons.html#184), with [Reginald](../persons.html#189) to Guildford.
+
+He had provided for last Sunday but hearing how ill Gertrude was, he came back on Monday, and we had the HC on Tuesday morning, but as she was better, he is gone back to Guildford now till Saturday as with a telegraph, he can get back in two hours.
+
+Mary Woollcombe is everything to Gertrude and with [Palmer](../persons.html#2169) she needs no one else- I am glad to say that [Mr Wither](../persons.html#1544) has at last consented to have a Curate.
+
+He is 88 and it really is necessary though he is in good health only very heavy and unwieldy, but he has a Bath chair which he much enjoys.
+
+My banksias are in great beauty, but I fear the frost did much harm last night
+your most affectionate
+
+C M Yonge

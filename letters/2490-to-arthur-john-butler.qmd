@@ -1,0 +1,37 @@
+---
+date: '1874-02-12'
+display-date: Febry 12th [1874]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Mrs Caroline Fairclough/27
+original-date: '2011-07-11 13:48:18'
+title: To Arthur John Butler
+wordpress-id: 2490
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Arthur](../persons.html#238)
+I should have written yesterday only that the [Bp of Salisbury](../persons.html#1015) came to see a sick old farming man, and was a sight for sair een, who took up all my morning. I shall look out for the Maypole - my Sub is going to bring up the weeded [Spiders](../others.html#116) this afternoon- 17 Chrysostoms! I think your Spider will have five competitors with the Aryans. I fully expect someone will take them for the heretics - as by the bye someone did by your friends the Dolomites.[^1]
+Well, I congratulate you with all my heart and hope some day I may be worthy to hear the rest of her name[^2]
+Wat Tyler had not always been a tyler but had been abroad in the service of a merchant- (Query was he the original mad hatter?) [^3] So he must have learnt to ride on that expedition any way, and it was hard if he could not pick up a horse on his expeditions to London. I think I shall set that rebellion as a question to the Spiders only I can’t do it yet as one spider is gone to Bermuda, and another to Cannes, and they had their questions before hand, I must stick to what I have given them.
+
+There are about 80 in all, but happily they never answer all at once.
+yours very sincerely
+[the letter is unsigned, though the paper is whole]
+
+[^1]: The questions which members of the Spider Society had to answer included \'Write the life of St.
+
+Chrysostom\' (January 1874) and \'Classify the Aryan Languages\' (February 1874).
+
+In the MP (April 1874) 4-6, the best answer to the latter question was printed; it is signed \'May-Pole\', but perhaps on the evidence of this letter may be attributed to Arthur Butler.
+
+Butler was fond of climbing and had travelled in the Dolomites.
+
+The confusion between the Aryan heretics and the Aryan languages was the kind of joke CMY particularly enjoyed.
+
+[^2]: Arthur Butler became engaged (8 February 1874) to Mary Caroline Humphry, whom he married on 6 April 1875.
+
+[^3]: The biography of Wat Tyler (d.1381), leader of the Peasants\' Revolt, is obscure.
+

@@ -1,0 +1,36 @@
+---
+date: '1868-12-01'
+display-date: Decr 3d [1868]
+from-address: Puslinch Yealmpton
+manuscript-location: MS Mrs Clare Roels
+original-date: '2010-06-18 09:55:01'
+title: "To Christabel Rose Coleridge\t"
+wordpress-id: 2294
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+Thank you and [Edith](../persons.html#331) for taking the Bandits’ Bride[^2], I hope your collections will prosper.
+
+We have £163, and want £700 if we build a masters house, £400 if we content ourselves with a school
+Have you written to [Miss Arnold](../persons.html#1467), or shall I accepting [Miss Clarke](../persons.html#300) I find [Grace Latham](../persons.html#2024) has not time, so perhaps we had better accept [Miss Budd](../persons.html#219) and [Miss Llewellyn](../persons.html#2025).
+
+Scotland has sunk away from us, so I suppose Wales is coming instead The other perhaps we had better reject on the grounds of not being a round dozen. I think twelve is the right number.
+
+Since September December is begun I shall send you Mother Goose’s own questions, to save one writing out of them.[^3]
+‘Give a history of the art of letter-writing with an account of the most noted letters and correspondents ancient and modern.
+
+What are the synonyms of Beauty – give their derivation, history and shades of meaning
+your affectionate
+Mother Goose
+This ought to have gone yesterday
+
+[^1]: Black-edged paper.
+
+[^2]: A reference to the photograph of CMY which she was selling in aid of the proposed school in connection with the [Church of the Resurrection](../others.html#188), Eastleigh.
+
+[^3]: The letter is concerned with the administration of the [Gosling Society](../others.html#104), of which Coleridge was secretary.
+

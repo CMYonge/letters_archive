@@ -1,0 +1,32 @@
+---
+date: '1874-01-20'
+display-date: Jany 20th 1874
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Bodleian Library, Oxford: Ms. Eng. lett. e.116 ff166-68.'
+original-date: '2011-07-11 13:14:51'
+title: To the Hon. Laura Elizabeth Palmer
+wordpress-id: 2487
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Palmer](../persons.html#1238)
+I am delighted with both your papers, I did not write before as I wanted to read them aloud to [my invalid friend](../persons.html#1462), and we enjoyed them very much. I did not find out that the thundering Legion was coming till the clouds were at the Carpathian mountains.
+
+Una and her knight I like very much too and shall be glad to keep them and put them in[^2] I do not see much likeness to Minne’s knight, which as I dare say [Mildred Coleridge](../persons.html#17) told you was written by her cousin [Christabel](../persons.html#329)
+What a delightful treasure trove. I hope the British museum does not deprive you of them all.
+
+We had some charming lectures on coins at Winchester a year or two ago, when we were shewn some after the Romans were gone where the head and superscription were copied meaninglessly and there was a runic (no old Saxon) inscription on the other side of the coin, purporting it to be issued by old Penda.
+
+Is not this true English love of precedent, combined with practical sense?
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Envelope addressed to ‘The Honble/ Laura Palmer/ 30 Portland Place,/ London W’, and postmarked ‘Winchester/JA 20/74’.
+
+[^2]: \'Knight-Errantry, or, The Red Cross Knight and Una, 1852\' appeared in MP (May 1874) 487-492, but the other paper is less easy to identify.
+

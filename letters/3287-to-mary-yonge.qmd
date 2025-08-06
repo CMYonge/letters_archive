@@ -1,0 +1,30 @@
+---
+date: '1895-03-17'
+display-date: March 17th [1895]
+from-address: Elderfield
+manuscript-location: MS West Devon Area Record Office Ac 1092/20
+original-date: '2010-09-07 13:26:05'
+title: To Mary Yonge
+wordpress-id: 3287
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mary](../persons.html#1626)
+One knew only too well what it must come to, and that the wounds one knew so well were being opened.
+
+Poor [Charlotte](../persons.html#1587), one cannot help thinking of her above all though the heaviest loss is to the poor little [Cordelia](../persons.html#1364), next to her [father](../persons.html#2145), but a mother to a girl so young is an inexpressible loss.[^1]
+‘The clouds return after the rain’[^2] After all those for whom one grieves the most, are those who have had the least sorrow and pain-
+I have been all the morning at the school inspection and this is a sort of hurry - Oh! it is a great grief the brothers and sisters all looked up so to [Katharine](../persons.html#1365) and I don’t think that the thread had been broken by her marriage. I suppose that influenza always does attack the most tender parts, but I had a shadow of hope that there might be some fresh form of treatment since former sorrows.
+your most loving
+
+C M Yonge
+
+[^1]: Katharine (Yonge) Steer (1863/4-1895), eldest child of Duke and Charlotte Yonge, died on 16 March 1895.
+
+She had married Dr Adam Steer, a surgeon, in 1886, and had a heart murmur after getting yellow fever in Jamaica; she had died of influenza; after her death the insurance company refused to pay out her life policy, claiming non-disclosure, see The Times (25 July 1896).
+
+[^2]: Ecclesiastes 12: 1-2 \'Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them; While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain\'.
+

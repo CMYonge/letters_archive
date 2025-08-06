@@ -1,0 +1,33 @@
+---
+date: '1864-01-04'
+display-date: Jany 4th [1864]
+from-address: Elderfield
+manuscript-location: MS Mrs Clare Roels
+original-date: '2010-05-20 10:41:42'
+title: To Christabel Rose Coleridge
+wordpress-id: 1924
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+I hope you have the [Barnacle](../others.html#89) by this time.
+
+It was to set off on the 2nd having been detained to have sufficient time for pressing.
+
+Thanks for your [answers](../others.html#104) which are the first to come for that set of questions, and so serve as the next egg. I think you must be very sorry to leave [St Marks](../others.html#66) and its beautiful services. I am afraid you cannot hope to equal them any where else, though I suppose Hanwell must be a place where it is quite possible to get up a choir[^2]
+your affectionate
+Mother Goose
+
+[^1]: Black-edged paper.
+
+[^2]: Christabel’s father, the [Reverend Derwent Coleridge](../persons.html#1900) (1800-1883), had just resigned indignantly from his job as head of St.
+
+Mark’s College, Chelsea.
+
+The services at St.
+
+Mark’s and the musical instruction given to trainee teachers helped to bring about the transformation of music teaching in schools and the revival of choral services in the Church of England, described in Benarr Rainbow, The Choral Revival in the Anglican Church (1839-1872) (1970).
+

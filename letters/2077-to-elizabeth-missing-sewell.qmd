@@ -1,0 +1,33 @@
+---
+date: '1865-10-27'
+display-date: Oct 27th [1865]
+from-address: Crookham
+manuscript-location: 'MS Girton College Cambridge, Yonge VI 1 '
+original-date: '2010-06-03 12:56:56'
+title: "To Elizabeth Missing Sewell\t\t"
+wordpress-id: 2077
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Sewell](../persons.html#1301),
+I have meant to write to you for a long time past, but you know how one’s good intentions fail one when one is holiday making.
+
+However my holiday comes to an end tomorrow, and I hope to be heartily at work again next week.[^1] Meantime, I ought to have long ago confessed that it was all a delusion of mine about that Lanfranc article. [John Coleridge](../persons.html#343) had meant to write one, and talked it over, and my memory confounded his real article on St Cuthbert and this intention, so as to make up the fancy - I hope it has not given you any trouble or put out your arrangements - The St Anselm came from hence, as I think I made known.[^2] I am quite ready to go to work when I come home, and will send for any books that may be wanted from the [London library](../others.html#29) - Any time that you can come for another study of the subject, we shall be very glad to see you, and I hope I shall be less stupid than I was last time. I am sure it will not be for want of idleness if I am not.
+
+Yours very sincerely
+
+C M Yonge
+
+[^1]: On their [Historical Selections](../books.html#71).
+
+[^2]: This is a little obscure and may be a misreading.
+
+The life of St.
+
+Anselm in the published book was taken from the Rev.
+
+Richard Church, Essays and Reviews (1854)
+

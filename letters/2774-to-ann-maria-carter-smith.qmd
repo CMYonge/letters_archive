@@ -1,0 +1,26 @@
+---
+date: '1883-06-06'
+display-date: June 6th [1883]
+from-address: Elderfield
+manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1883/ 2
+original-date: '2011-09-21 11:30:21'
+title: To Ann Maria Carter Smith
+wordpress-id: 2774
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Smith](../persons.html#263)
+Many thanks for Delicia, who is very pretty, and I shall be very glad of her when I can put her in.[^2]
+I envy the spirit of the people who finished their Whitsuntide decorations before the early service. I am thankful enough to get them all done on Saturday
+
+yours sincerely
+
+C M Yonge
+
+[^1]: A silurian envelope with a long flap for writing on, the outside addressed to Miss Carter Smith/ Thistleworth/ Stevenage and postmarked Winchester 6 June and Stevenage 7 June 1883.
+
+[^2]: In fact Delicia Darling: A Kentish Medley did not appear in MP until August 1886.
+

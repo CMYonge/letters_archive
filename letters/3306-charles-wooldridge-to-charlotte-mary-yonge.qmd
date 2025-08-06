@@ -1,0 +1,24 @@
+---
+date: '1896-01-22'
+display-date: Jan 22 1896
+from-address: ''
+manuscript-location: Copy outletter book, Hampshire Record Office 70M92W/60/214
+original-date: '2010-09-07 14:24:46'
+title: Charles Wooldridge to Charlotte Mary Yonge
+wordpress-id: 3306
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam
+The insurances existing are as follow
+£360 in premises occupied by Hicks.
+£1700 on Rising Sun & various cottages
+£300 on House occupied by Mimksn [?]
+I do not appear to have any insurances on your own House or the contents Shall I get you a Policy for it & contents or only for £200 on Contents
+I am yours faithy
+[Chas Wooldridge](../persons.html#2094)
+Miss Yonge
+£200 seems to me rather a small sum

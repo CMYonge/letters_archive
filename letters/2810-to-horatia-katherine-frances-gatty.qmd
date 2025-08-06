@@ -1,0 +1,30 @@
+---
+date: '1885-06-10'
+display-date: June 10th 1885
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Princeton University, Parrish Collection
+original-date: '2011-09-27 13:20:01'
+title: To Horatia Katherine Frances Gatty
+wordpress-id: 2810
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Gatty](../persons.html#469)
+‘A bit of Green’ was only in the number preceding ‘the Blackbird’s Nest’- July 1861.[^1] I had been on the like quest for the sake of the few words I have said in a conversation on books in the August number, I should have done so in the July one only that it was another persons conversation into which [it] would not fit
+I did not write to you for what can I say but how grieved I am, as if a bright light had been taken away, or more truly a lamp become a star, as in that poem of BM’s.
+
+Almost every letter I get has some note of mourning for [one ](../persons.html#494)who had become dear to so many
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Juliana Ewing had died on 13 May 1885.
+
+Her sister Horatia was probably gathering material for her Juliana Horatia Ewing and Her Books (1885). \'A Bit of Green\' and \'The Blackbird\'s Nest\' had been Ewing\'s two earliest contributions to MP.
+
+In [\'A Conversation on Books\' ](../books.html#280)MP 3s 10 (August 1885) 62, Arachne discusses Ewing\'s career, expressing \'our grief that one to whom we all owe so much, should have been taken from us so early.\'
+

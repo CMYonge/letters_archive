@@ -1,0 +1,26 @@
+---
+date: '1864-10-28'
+display-date: Oct 28th 1864
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e 86. '
+original-date: '2011-02-02 12:17:19'
+title: To the Reverend John Frewen Moor
+wordpress-id: 1986
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Moor](../persons.html#1046)
+I am sorry to say that I had sent the £600 a year question away, but I think you may safely assume that the clergyman lives in the country, and has a house, and glebe - and that the three sons are of an age to be educated - I cannot get at the propounder of the question, or I would have asked her[^1]
+With many thanks
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: One of the arithmetic questions over which they were cooperating.
+
+See the letters to Moor dated June and 23 November 1864.
+

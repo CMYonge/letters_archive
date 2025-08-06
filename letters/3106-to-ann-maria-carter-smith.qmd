@@ -1,0 +1,31 @@
+---
+date: '1857-09-14'
+display-date: Sept 14th 1857
+from-address: ''
+manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1857/ 3
+original-date: '2010-04-26 11:24:54'
+title: To Ann Maria Carter Smith
+wordpress-id: 3106
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Miss Smith](../persons.html#263)
+I hope that in a day or two you will receive the proof of your [Royal Household](../others.html#262), which I should be much obliged to you to look over and return to
+
+[Messrs Mozley](../others.html#108)
+
+Friar Gate
+
+Derby
+
+I am setting off to see the Manchester Exhibition[^1] and from thence most probably to Ireland, so that you may judge my time and head are not in the most favorable state for correcting
+
+yours sincerely
+
+C M Yonge
+
+[^1]: The Manchester Art Treasures Exhibition, which had opened in May 1857.
+

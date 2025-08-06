@@ -1,0 +1,25 @@
+---
+date: '1900-04-14'
+display-date: April 14th 1900
+from-address: Elderfield Otterbourne Winchester
+manuscript-location: MS Princeton University, Parrish Collection
+original-date: '2010-10-18 12:37:43'
+title: To Earl Nelson
+wordpress-id: 3452
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Lord Nelson](../persons.html#1081)
+I have been thinking of writing to you ever since I saw this grievous loss in the paper, and Easter eve seems to bear it the more in upon me, for surely no one can be more at peace in the home consecrated by this day than [that gentle dutiful spirit](../persons.html#164).[^1] I remember her ever since she was a little thing of four or five years old in her striped frock, and ever since it has been a great pleasure to see her whenever we met at our various functions at Winchester and Southampton; and to hear of everyone - recollecting the old friendship of our mothers, and the days of Brickworth. I can hardly believe that I shall never meet her bright eyes again, and I do not know how to think of [Mr Blunt](../persons.html#2077) and the desolation of the happy home.
+[Jane Montgomery Moore](../persons.html#1042) wrote to me from Ramsgate otherwise I have heard nothing.
+
+At our age we seem to be ‘in the front’ with the comrades of our lives dropping fast away
+Yours very sincerely
+
+C M Yonge
+
+[^1]: This is a letter of condolence on the death of his sister Lady Susan Blunt.
+

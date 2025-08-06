@@ -1,0 +1,73 @@
+---
+date: '1871-12-30'
+display-date: December 30 [1871]
+from-address: Elderfield, Otterbourne, Winchester
+manuscript-location: MS location unknown.  Printed in Coleridge, [[otherbook:40]<i>Life</i>],
+  269-70
+original-date: '2011-06-14 09:03:47'
+title: To Mary Anne Dyson
+wordpress-id: 2429
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Marianne](../persons.html#464)
+I have had a beautiful letter from [Lady Martin](../persons.html#970), which I think you must see as well as [Mrs.
+
+Moberly](../persons.html#1019)'s equally beautiful comment on it. [^1] The palm and the white garment and the crystal sea seem to come like music back in answer to the 'Who knows' in the [Lyra Innocentium](../others.html#232)![^2] I have been living in it a great deal with the Wilsons who were at the Park, their hearts full of it.[^3] The [Bishop of Lichfield](../persons.html#1295) has written me the kindest of notes to ask me there to look at their letters, and talk over the life, and I have offered myself for Monday the 6th, although I cannot stay over a Sunday in the change of school-mistresses. [^4] I think a week now may do more than a longer time when he has less leisure.
+
+Would Miss Palmer[^5] be so kind as to tell me her way of getting there - through Oxford, is it not? - and which are the most amiable trains.
+
+The Hursley acting was grand, She Stoops to Conquer first, and then from Midsummer Night's Dream all the fairy part and the play, only Arthur had adapted it so as to put the play itself instead of the rehearsal.
+
+He and Ellie had painted a most lovely scene, with a moon and a bank.
+
+He was Oberon and she Titania, and the other fairies were twins and Youngs.
+
+The beauty of the thing was wondrous, Charlie was Bottom, and had such an Ass's head, and Wall, Moonshine, and Lion were splendid.[^6]
+Mr.
+
+Wilson is looking for a careful manservant for Dr.
+
+Pusey, who has had two deaths in a week in his house, one of the servant who looked after him and managed opening the door to people who want interviews.
+I had a talk about P.
+
+Pusey's letter, not that I have ever found it.[^6] We did not get to bed till one o'clock, and though I did not get up till 8.30, I am stiff with sleepiness and stupidity to-night.
+
+Here is a woman dying (I fear) the village of a brain attack.
+
+She sent for [Mr.
+
+Elgee](../persons.html#478) yesterday, but all her talk was verse, and this morning she said [Mr.
+
+Wither](../persons.html#1544) had been at her bedside all night, praying for her.
+
+Your most affectionate
+C. M.
+
+Yonge
+
+[^1]: Mary Parker, wife of Sir William Martin (1807-1880), lord chief justice of New Zealand, friend of Bishop Selwyn.
+
+The Martins retired to Torquay in the 1870s.
+
+Lady Martin contributed several passages to CMY\'s [Life of John Coleridge Patteson](../books.html#102).
+
+[^2]: John Keble, ‘The Saints’ Infancy’ ll.13-16, from Lyra Innocentium: ‘Who knows but maiden mild or smiling boy,/ Our own entrusted care and joy, / By His electing grace / May with His martyrs find their glorious place?’
+
+[^3]: The Rev. [R. F.
+
+Wilson](../persons.html#1541) and [his wife Maria](../persons.html#1539) were staying with the Heathcotes at Hursley Park.
+
+[^4]: The Bishop of Lichfield was George Augustus Selwyn, the former Primate of New Zealand who had appointed Patteson.
+
+The \'change of schoolmistresses\' refers to the controversial reform of [Otterbourne School](../others.html#107), events which inspired CMY\'s later novel [Our New Mistress](../books.html#198).
+
+[^5]: [Mary Anne Palmer](../persons.html#1132) (1805/6-1884), a neighbour of Mary Anne Dyson’s, whose sister Caroline (Palmer) Abraham was married to Selwyn’s former chaplain, who also lived in Lichfield.
+
+[^6]: The reference may be to Philip Pusey (1799-1855), agricultural expert and elder brother of the Rev.
+
+Dr Edward Bouverie Pusey, though the latter also had a son named Philip.
+

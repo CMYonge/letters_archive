@@ -1,0 +1,20 @@
+---
+date: '1860-01-01'
+display-date: '[1860s]'
+from-address: ''
+manuscript-location: MS  Harry Ransom Humanities Research Center, University of Texas,
+  Austin
+original-date: '2010-06-26 09:05:58'
+title: To Christabel Rose Coleridge?
+wordpress-id: 3562
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[probably to [Christabel Coleridge](../persons.html#329), secretary of the [Gosling Society](../others.html#104)]The first instalment of[ Barnacle](../others.html#89) is come
+
+Yours affectionately
+
+C M Yonge

@@ -1,0 +1,38 @@
+---
+date: '1893-09-01'
+display-date: '[September 1893]'
+from-address: ''
+manuscript-location: "MS location unknown. Printed in the <i>[[other:72]Girls\u2019\
+  \ Friendly Society Associates\u2019 Journal and Advertiser]</i> (September  1893)\
+  \ 165."
+original-date: '2010-06-04 13:58:52'
+title: "To the Editor of the <i>Girls\u2019 Friendly Society Associates\u2019 Journal</i>"
+wordpress-id: 9374
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+HONOUR!
+
+Madam,-
+I should like to ask associates to try to instil notions of Honour towards employers into their Members and Candidates.
+
+Instances come before me continually of persons deserted by their servants without notice.
+
+One invalid was left alone in the house till the milkman called for help; another lady, a most kind one, found, on the day of a dinner-party, two raw chickens in the kitchen and nothing else by way of preparation- the maids gone!
+
+Two girls I have known, have, for some fancy gone off from their situations before a fortnight was over simply because they did not like them.
+
+The old idea of at least giving a month’s notice seems to be exploded. I do not believe these girls were [G.F.S.](../others.html#23) Members: but I have known one who ran away from her first place, and very nearly did so from her second, for really no valid cause.
+
+The young things do not seem to understand that they are really pledged, and that having made an engagement they are bound by it.
+
+Associates are sometimes in difficulties, when an imprudent girl has hastily taken a situation, and it may be needful to free her from it, but she should be made to understand that the breaking of an engagement is a serious thing, and if a little hardship be the consequence, not evil associations, she should endure it for a month.
+
+Nor should she be allowed after acceptance of an offer to set it aside for one more tempting, though the refusal may be a trial to her Associate.	
+
+C. M.
+
+Yonge.

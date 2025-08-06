@@ -1,0 +1,29 @@
+---
+date: '1867-01-17'
+display-date: Jany 17th [1867]
+from-address: '[Elderfield, Otterbourne, Winchester.[[footnote:1]]]'
+manuscript-location: 'MS British Library Add MSS 54920: 172-173'
+original-date: '2010-06-09 14:18:26'
+title: To Alexander Macmillan
+wordpress-id: 2146
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939),
+Would you be so kind as to send an order for me for Sir F.
+
+Palgraves History of Normandy and England. I cannot get my [Cameo’s](../books.html#73) [sic] correct without it, and [Dr Moberly](../persons.html#1015)’s copy on which I reckoned proves to be packed up for leaving Winchester so as to be unobtainable. I can do nothing till I get it, and though I could order it from the [London Library](../others.html#29), one is kept often very long waiting for that kind of book.
+
+If I knew who was the publisher I would write direct, but I cannot remember.
+
+Pray tell [Mrs Craik](../persons.html#378) when you see her that [Mme de Witt](../persons.html#423) writes to me that [M Guizot](../persons.html#597) considers her 'Two Marriages' 'comme un chef d’ouvre' [sic]
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: The printed address has been cut out of the MS.
+

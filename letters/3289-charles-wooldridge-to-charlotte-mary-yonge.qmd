@@ -1,0 +1,24 @@
+---
+date: '1895-04-04'
+display-date: Apr 4 1895
+from-address: ''
+manuscript-location: Copy outletter book, Hampshire Record Office 70M92W/58/492
+original-date: '2010-09-07 13:35:20'
+title: Charles Wooldridge to Charlotte Mary Yonge
+wordpress-id: 3289
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam
+I have received all the documents from the Insurance Company & also the policy on [Mrs Yonge](../persons.html#1604)’s life.
+
+As I presume the £1000 is still due to you from Mrs Yonge shall you wish to have the policy transferred into your name so as to afford you a security for the amount of any interest or premiums you have paid, or how would you like to have this arranged.[^1]
+I am yours faithy
+[Chas Wooldridge](../persons.html#2094)
+Miss Yonge
+
+[^1]: This relates to a policy on the life of CMY\'s sister-in-law Emma Frances Yonge.
+

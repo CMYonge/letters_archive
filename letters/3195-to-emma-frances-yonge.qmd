@@ -1,0 +1,26 @@
+---
+date: '1892-04-01'
+display-date: '[April 1892[[footnote:1]]]'
+from-address: ''
+manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  336
+original-date: '2010-07-09 21:31:50'
+title: To Emma Frances Yonge
+wordpress-id: 3195
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Frances](../persons.html#1604)
+We buried the poor old fellow with all honours. [Charles](../persons.html#2111) wheeled down the barrow, I followed, and we put him where his predecessors are, coming on two of their coffins before we found the right place.
+
+Poor old fellow, he loved his own way, and it was well for all that he should not grown old.
+
+[^1]: Dated from the reference to the departure of the Rev.
+
+Henry Brock in 1892.
+
+The \'poor old fellow\' was a dog named Graf.
+

@@ -1,0 +1,34 @@
+---
+date: '1867-07-25'
+display-date: July 25. 1867.
+from-address: ''
+manuscript-location: 'Copy outletter book British Library Add MSS.55387 (1): P. 389'
+original-date: '2010-06-10 18:45:07'
+title: Alexander Macmillan to Charlotte Mary Yonge
+wordpress-id: 2199
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Miss Yonge	
+The parcel for [Miss Lewis](../persons.html#873) reached Tooting safely, and will not in the least inconvenience [me](../persons.html#939).[^1] I will endeavour to deliver it early after my arrival.
+I have read the [Story of the Scotch girl](../others.html#193).
+
+It is very interesting - rather sensational in fact. [Robespierre](../persons.html#2420), [Danton](../persons.html#2421), [Napoleon](../persons.html#2207), the Guillotine 'La Lanterne,' a sprinkling of smugglers with a slight dash of wreckers, highly toned Irish, Scotch, French nationalities, a mad woman, suicide, a murder or two &c &c. make up a dish that certainly cannot be considered savourless.
+
+There is no great reach of thought, as [Mrs Lewes](../persons.html#1994), or [Mrs Gaskell](../persons.html#1965) have, nor anything like grace & delicacy of touch of [Miss Thackeray](../persons.html#1240) but it looks to me vigorous firm drawing. I am getting a friend, a critic by profession to look at it.
+
+My reading was too much in novel reading vein to enable me to judge.
+
+Besides it was done between 11p.m. and 2 a.m. after a [illegible] of day
+We shall communicate direct with her.
+
+Yours very sincerely
+A.
+
+Macmillan
+
+[^1]: CMY had asked him to deliver an illumination to her friend Miss Lewis in Philadelphia.
+

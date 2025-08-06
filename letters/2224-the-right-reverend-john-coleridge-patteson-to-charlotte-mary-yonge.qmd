@@ -1,0 +1,203 @@
+---
+date: '1867-12-25'
+display-date: Christmas Day [25 December], 1867.
+from-address: Norfolk Island
+manuscript-location: MS location unknown. Printed in Yonge, <i>[[cmybook:102]Life
+  of John Coleridge Patteson]</i>, II, 291-9.
+original-date: '2010-06-14 11:20:16'
+title: The Right Reverend John Coleridge Patteson to Charlotte Mary Yonge
+wordpress-id: 2224
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Cousin,
+One line to you to-day of Christmas feelings and blessings.
+
+Indeed, you are daily in [my](../persons.html#1155) thoughts and prayers.
+
+You would have rejoiced could you have seen us last Sunday or this morning at 7 A.M.
+
+Our fourteen Melanesian Communicants so reverent, and (apparently) earnest.
+
+On Sunday I ordained [Mr.
+
+Palmer](../persons.html#1884) Priest, [Mr.
+
+Atkin](../persons.html#1979) and [Mr.
+
+Brooke](../persons.html#1981) Deacons.
+
+The service was a solemn one, in the Norfolk Island Church, the people joining heartily in the first ordination they had seen; [Codrington](../persons.html#312)’s sermon excellent, the singing good and thoroughly congregational, and the whole body of confirmed persons remaining to receive the Holy Communion.
+
+Our own little Chapel is very well decorated (Codrington again the leader) with fronds of tree-ferns, arums, and lilies; ‘Emmanuel, God amemina’ (with us), in large letters over the altar.
+
+And now (9.30P.M.) they are practising Christmas hymns in Mota for our 11 A.M. service.
+
+Then we have a regular feast, and make the day a really memorable one for them.
+
+The change from the old to the new state of things, as far as our Banks Islanders are concerned, is indeed most thankworthy. I feel that there is great probability of [George Sarawia](../persons.html#1980)’s ordination before long.
+
+This next year he will be left alone (as far as we whites are concerned) at [Mota](../others.html#150), and I shall be able to judge, I hope, of his fitness for carrying on the work there.
+
+If it be God’s will to give him health of body and the will and power to serve Him, then he ought to be ordained.
+
+He is an excellent fellow, thoughtful, sensible, and my right hand among the Melanesians for years.
+
+His wife, [Sara Irotaviro](../persons.html#2002), a nice gentle creature, with now a fine little boy some seven months old.
+
+She is not at all equal to George in intelligence, and is more native in habits, &c.
+
+But I think that she will do her best.
+
+You know I have long felt that there is almost harm done by trying to make these islanders like English people.
+
+All that is needful for decency and propriety in the arrangement of houses, in dress, &c., we must get them to adopt, but they are to be Melanesian, not English Christians.
+
+We are so far removed from them in matters not at all necessarily connected with Christianity, that unless we can denationalise ourselves and eliminate all that belongs to us as English, and not as Christians, we cannot be to them what a well-instructed fellow-countryman may be.
+
+He is nearer to them.
+
+They understand him.
+
+He brings the teaching to them in a practical and intelligible form.
+I hope and pray that dear old George may be the first of such a band of fellow-workers.
+
+Others--[Henry Tagalana](../persons.html#1975), who is, I suppose, about eighteen, [Fisher Pantatun](../persons.html#2005), about twenty-one, [Edward Wogale ](../persons.html#2003)(George’s own brother), about sixteen, [Robert Pantatun](../persons.html#2004), about eighteen--are excellent, all that I could wish; and many younger ones are coming up.
+
+They stay with us voluntarily two or three years now without any going home, and the little ones read and write surprisingly well.
+
+They come to me very often and say, ‘Bishop, I wish to stop here again this winter.’
+They come for help of the best kind.
+
+They have their little printed private prayers, but some are not content with this.
+
+Marosgagalo came last week with a slip of paper--
+‘Well, Maros, what is it? ‘
+He is a shy little fellow who has been crippled with rheumatism.
+‘Please write me my prayer.’
+And as my room opens into the Chapel, and they are told to use that at all times (their sleeping-rooms not allowing much privacy), I know how they habitually come into it early (at 5 A.M.) and late at night for their private prayers.
+
+You cannot go into the Chapel between 5 and 6.30 A.M. without seeing two or three kneeling about in different corners.
+
+As for their intelligence, I ought to find time to send you a full account of them, translations of their answers, papers, &c., but you must be content to know that I am sure they can reason well upon facts and statements, that they are (the first class) quite able to understand all the simpler theological teaching which you would expect Communicants and (I pray) future clergymen to understand.
+
+Of some six or seven I can thus speak with great confidence, but I think that the little fellows may be better educated still, for they are with us before they have so much lee-way to make up--jolly little fellows, bright and sharp.
+
+The whole of the third Banks Island class (eight of them) have been with me for eighteen months, and they have all volunteered to stay for eighteen months more.
+
+They ought to know a great deal at the end of that time, then they will go home almost to a certainty only for two or three months, and come back again for another long spell.
+
+All this is hopeful, and we have much to be thankful for indeed; but I see no immediate prospect of anything like this in the other islands at present.
+
+We know very many of the islanders and more or less of their languages; we have scholars who read and write, and stop here with us, and who are learning a good deal individually, but I have as yet no sense of any hold gained upon the people generally.
+
+We are good friends, they like us, trust young-people with us, but they don’t understand our object in coming among them properly.
+
+The trade and the excitement of our visit has a good deal to do with their willingness to receive us and to give us children and young men.
+
+They behave very well when here, and their people treat us well when we are with them.
+
+But as yet I see no religious feeling, no apprehension of the reality of the teaching: they know in one sense, and they answer questions about the meaning of the Creed, &c., but they would soon fall again into heathen ways, and their people show no disposition to abandon heathen ways.
+
+In all this there is nothing to surprise or discourage us.
+
+It must be slow work, carried on without observation amidst many failures and losses and disappointments.
+
+If I wished to attribute to secondary causes any of the results we notice, I might say that our having lived at Mota two or three months each year has had a great deal to do with the difference between the Banks and the other islanders.
+
+It may be that, could we manage to live in Bauro, or Anudha, or Mahaga, or Whitsuntide, or Lepers’ Island, or Espiritu Santo, we might see soon some such change take place as we notice in Mota; but all that is uncertain, and such thoughts are useless.
+
+We must indeed live in those other islands as soon as we can, but it is hard to find men able to do so, and only a few of the islands are ripe for the attempt.
+I feel often like a horse going his regular rounds, almost mechanically.
+
+Every part of the day is occupied, and I am too tired at night to think freshly.
+
+So that I am often like one in a dream, and scarcely realise what I am about.
+
+Then comes a time when I wish to write, e.g. (as to you now) about the Mission, and it seems so hard to myself to see my way, and so impossible to make others see what is in my mind about it.
+
+Sometimes I think these Banks Islanders may be evangelists beyond the limits of their own islands.
+
+So many of the natives of other islands live here with them, and speak the language of Mota, and then they have so much more in common with them than with us, and the climate and food and mode of life generally are familiar to them alike. I think this may come to pass some day; I feel almost sure that I had better work on with promising islanders than attempt to train up English boys, of which I once thought. I am more and more confirmed in my belief that what one wants is a few right-minded, well-educated English clergymen, and then for all the rest trust to native agency.
+
+When I think of [Mr.
+
+Robertson](../persons.html#1953) and such men, and think how they work on, it encourages me.
+
+And so, where do I hear of men who have so many comforts, so great immunity from hardship and danger as we enjoy?
+
+This is nothing to the case of a London parish.
+[Fanny ](../persons.html#1151)has sent me out my old engravings, which I like to look at once more, although there is only one really good one among them, and yet I don’t like to think of her no longer having them. I have also a nice selection of photographs just sent out, among which the cartoons from Hampton Court are especially good.
+
+That grand figure of St.
+
+Paul at Athens, which Raphael copied from Masaccio’s fresco, always was a favourite of mine.
+I feel at home here, more so than in any place since I left England; but I hope that I may be able to spend longer intervals in the islands than the mere sixteen or eighteen weeks of the voyage, if I have still my health and strength.
+
+But I think sometimes that I can’t last always; I unconsciously leave off doing things, and wake up to find that I am shirking work.
+
+Holy Innocents’ Day. I don’t think I have sufficiently considered your feelings in suffering the change of name in the Mission School that took place, and I am rather troubled about it. I came back from the last voyage to find that as I had selected a site for the buildings on St.
+
+Barnabas Day, which was, by a coincidence, the day I spent here on my outward voyage in 1866, the people had all named the place St.
+
+Barnabas.
+
+Then came the thought of the meetings on St.
+
+Barnabas, and the appropriateness of the Missionary Apostle’s name, and I, without thinking enough about it, acquiesced in the change of name.[^1] I should have consulted you,--not that you will feel yourself injured, I well know; but for all that, I ought to have done it.
+
+It was the more due to you, because you won’t claim any right to be consulted. I am really sorry for it, and somewhat troubled in mind.
+
+The occasional notices of [Mr.](../persons.html#798) and [Mrs.
+
+Keble](../persons.html#795) in your letters, and the full account of him and her as their end drew nigh, is very touching.
+
+How much, how very much there is that I should like to ask him now!
+
+How I could sit at his feet and listen to him!
+
+These are great subjects that I have neither time nor brains to deal with, and there is no one here who can give me all the help I want. I think a good deal about Ritualism, more about Union, most about the Eucharistic question; but I need some one with whom to talk out these matters.
+
+When I have worked out the mind of Hooker, Bull, Waterland, &c., and read Freeman’s ‘Principles,’ and [Pusey](../persons.html#1215)’s books, and Mr.
+
+Keble’s, &c., then I want to think it out with the aid of a really well-read man.
+
+It is clearly better not to view such holy subjects in connection with controversy; but then comes the thought—‘How is Christendom to be united when this diversity exists on so great a point?’ And then one must know what the diversity really amounts to, and then the study becomes a very laborious and intricate enquiry into the ecclesiastical literature of centuries.
+
+Curiously enough, I am still waiting for the book I so much want, Mr.
+
+Keble’s book on ‘Eucharistic Adoration’ I had a copy, of course, but I lent it to some one. I lose a good many books in that way.
+
+The extraordinary change in the last thirty years will of course mark this time hereafter as one of the most noticeable periods in the history of the Church, indeed one can’t fail to see it, which is not always the case with persons living in the time of great events.
+
+The bold, outspoken conduct of earnest men, the searching deeply into principles, the comparative rejection of conventionalities, local prejudices, exclusive forms of thought and practice, must strike everyone.
+
+But one misses the guiding, restraining hand . . . the man in the Church corresponding to ‘the Duke’ at one time in the State, the authority.
+
+One thing I do think, that the being conversant only with thoughtful educated Christians may result in a person ignoring the simpler idea of the Eucharist which does not in the least divest it of its mysterious character, but rather, recognising the mystery, seeks for no solution of it.
+
+How can I teach my fifteen Melanesian Communicants the points which I suppose an advanced Ritualist would regard as most essential?
+
+But I can give them the actual words of some of the ancient, really ancient, Liturgies, and teach them what Christ said, and St.
+
+Paul said, and the Church of England says, and bid them acquiesce in the mystery.
+
+Yet I would fain know more. I quite long for a talk with Mr.
+
+Keble.
+
+Predisposed on every account to think that he must be right, I am not sure that I know what he held to be the truth, nor am I quite sure that I would see it without much explanation; but to these holy men so much is revealed that one has no right to expect to know.
+
+What he held was in him at all events combined with all that a man may have of humility, and learning, and eagerness for union with God.[^2]
+
+[^1]: The old school near Auckland had been called St.
+
+Andrew’s, after the church founded in [The Daisy Chain](../books.html#24), from the proceeds of which it had been built. CMY notes ‘He need not have been sorry. I give this to show his kind scrupulous consideration; but I, like everyone else, could not help feeling that it was more fitting that the germ of a missionary theological college should not bear a name even in allusion to a work of fiction.’
+
+[^2]: CMY notes (Life of John Coleridge Patteson II, 299): ‘The conclusion is missing. I think it asked for a copy of ‘Eucharistic Adoration’ and also whether I could state Mr.
+
+Keble’s opinions as expressed in direct teaching or conversation on the subject.’
+

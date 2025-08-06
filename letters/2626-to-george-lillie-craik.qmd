@@ -1,0 +1,24 @@
+---
+date: '1878-04-01'
+display-date: April 3d 1878
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54921: 60 '
+original-date: '2011-08-08 12:29:18'
+title: To George Lillie Craik
+wordpress-id: 2626
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+Should not the title be ['The Story of the Moors and Christians in Spain'](../books.html#126) A Story looks as if it were fiction
+
+Yours truly
+
+C M Yonge		
+I shall send the proof tomorrow
+
+[^1]: Black-edged paper.
+

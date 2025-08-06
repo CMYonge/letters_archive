@@ -1,0 +1,20 @@
+---
+date: '1890-10-09'
+display-date: Oct 9th [1890s?]
+from-address: Elderfield
+manuscript-location: MS Cheltenham Ladies College 0941/188
+original-date: '2010-11-11 14:58:32'
+title: To Mrs Lange
+wordpress-id: 3577
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Mrs Lange
+I send you what the Author writes about Mental Purity and will tell the publisher what you say; though I am doubtful whether its publication as a leaflet can be managed
+
+yours truly
+
+C M Yonge

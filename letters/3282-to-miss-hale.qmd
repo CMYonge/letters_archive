@@ -1,0 +1,23 @@
+---
+date: '1895-01-26'
+display-date: Jan 26th 1895
+from-address: Elderfield Otterbourne
+manuscript-location: MS Oriel College, Oxford
+original-date: '2010-08-14 14:28:36'
+title: To Miss Hale
+wordpress-id: 3282
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Miss Hale](../persons.html#605)
+Thank you for your very interesting letter. I am amused at what you say of [Mr Keble](../persons.html#798) calling his father the Governor.[^1] I should think it was a domestic name, invented before the slang term arose. I know the family were fond, in their old Fairford days- of pet nicknames and that J K himself was called by his sisters ‘Charles’ for no reason that their friends the Dysons could trace. I knew all the family like relations after they were at Hursley and especially loved [Miss Elizabeth Keble](../persons.html#796).
+
+yours sincerely
+
+C M Yonge
+
+[^1]: The OED has citations of governor 7b colloq. ‘applied by young men to their fathers’ from 1827, which suggests that CMY may have been mistaken in thinking Keble (b. 1792) could not have used it in that sense.
+

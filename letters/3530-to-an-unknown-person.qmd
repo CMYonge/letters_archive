@@ -1,0 +1,19 @@
+---
+date: '1875-01-01'
+display-date: '[after 1875]'
+from-address: ''
+manuscript-location: MS fragment Princeton University, Parrish Collection
+original-date: '2011-09-12 13:22:16'
+title: To an Unknown Person
+wordpress-id: 3530
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+the Grange - [Mrs Shipley](../persons.html#2324) called while I was out, decorating yesterday perhaps with a view to [G F S](../others.html#23)
+
+Yours affectionately
+
+C M Yonge

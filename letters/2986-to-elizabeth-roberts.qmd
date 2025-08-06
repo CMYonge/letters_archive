@@ -1,0 +1,37 @@
+---
+date: '1852-02-17'
+display-date: Febry 17th [1852]
+from-address: Otterbourn
+manuscript-location: 'MS Huntington Library: Yonge Letters'
+original-date: '2010-03-19 15:15:24'
+title: To Elizabeth Roberts
+wordpress-id: 2986
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Madam](../persons.html#1243),
+I waited to thank you for the kind manner in which you answered my last note, until I could send you the [proofs](../others.html#225) for the present month. I think the St Patrick division a particularly interesting one, and take great delight in the Star of Bethlehem. I have taken out the S in the name of the poet [Wither](../persons.html#1686), as I believe it has no right there. I know several of his descendants[^1] who do not at all approve of seeing it added to their name. I think I previously mentioned that I thought it better to omit the concluding sentence on the Marygold, and I have put a mark to one part about Pope Zachary, as I think it doubtful whether there is any use in allowing it to stand, but this is for your consideration.[^2]
+
+Thank you for the particulars you have been so kind as to send me. I hope we may arrive at greater prosperity in time, but I think it something not to have absolutely failed, as I believe there is always a good deal of risk in commencing a periodical.
+
+Also I suppose it is hardly to be expected that one of these religious views should have as wide a circulation as some of those you mention. [Chambers](../others.html#56) I prefer much to [Sharpe](../others.html#86), excepting the stories[^3], and I think nothing seems so widely read among those classes whom it is so difficult to reach, as the ‘[Family Friend’](../others.html#70) which has lately improved a good deal.
+
+I am not sure whether I may not have to ask you another question if you will be kind enough to answer it on behalf of my contributors to whom it is an object to obtain some tolerable payment quickly.
+
+It is only whether papers would be likely to be attended to if sent without any introduction or recommendation
+
+I remain yours very much obliged
+
+C M Yonge
+
+[^1]: The Rev. [William Bigg Wither](../persons.html#1544), curate of Otterbourne, and his family, were related to George Wither (1588-1667).
+
+[^2]: Saint Zachary was pope from 741 to 752.
+
+[^3]: These three magazines were all aimed at a fairly popular audience.
+
+Sharpe\'s Magazine included stories by [Menella Bute Smedley](../persons.html#2346), whose work CMY praised in early issues of MP.
+

@@ -1,0 +1,25 @@
+---
+date: '1870-05-27'
+display-date: 'May 27th [1870] '
+from-address: 'Ottery '
+manuscript-location: 'MS  British Library Add MSS 54920: 239  '
+original-date: '2011-03-02 10:29:15'
+title: 'To Alexander Macmillan '
+wordpress-id: 2380
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939)
+I agree with [Miss Sewell ](../persons.html#1301)as to the alteration, otherwise it will do very nicely. I hope to be at home on the 1st or 2nd of June[^2]
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Black-edged paper.
+
+[^2]: The book in question must have been [European History](../books.html#82) (1870).
+

@@ -1,0 +1,37 @@
+---
+date: '1897-09-20'
+display-date: 'Sept 20th 1897  '
+from-address: Elderfield Otterbourne Winchester
+manuscript-location: 'MS Bodleian Library, Oxford: Ms. Eng. lett. e. 118 ff131-2'
+original-date: '2011-02-02 12:02:05'
+title: To Louisa Fanny Field
+wordpress-id: 3358
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Madam](../persons.html#507)
+Q Q belonged to some relations of mine, and was much liked, and I think borrowed by my [Mother](../persons.html#1606).[^1] I well remember the story of the child who dealt in imperfections and was taught to persevere by having a perfect article given her whenever she completed anything. I do not think it disquieted me but was rather a stimulus but then I was not a modern child. I believe I rather confuse Q Q with Charlotte Elizabeth’s Listener which dealt in much the same little essays, but Q Q must have been much the cleverest[^2]
+I send you a few stray numbers of [Mothers in Council](../others.html#82). I think they will shew pretty well that the scope of the [Mothers Union](../others.html#31) includes the Educated classes - a great many ladies of rank as you can tell them - and the card and teaching are adapted to them
+The [Parents Union](../others.html#34) is undenominational in principle.
+
+The numbers of the [Magazine](../others.html#218) I have seen had one or two very good things in it, but other undesirable ones, and what I always think undesirable children’s competitions and those means of being popular.
+[Mrs Sumner](../persons.html#1381) certainly began on the poorer mothers but the sense of the need has made her try everywhere to begin in each place with the lady mothers, for their own sake, as much as those of other classes especially that most difficult one which insists on being treated as ladies.
+
+But the instances are numerous of actual ladies needing reminders of duty
+
+Yours sincerely
+
+C M Yonge
+Q Q shall appear, but I am not sure as to the number
+
+[^1]: Jane Taylor, [[otherbook:]The Contributions of Q. Q. to a Periodical Work, with some pieces not before published] 2 vols (London: Holdsworth 1824).
+
+The article referred to was Mrs E. M.
+
+Field, ‘The Contributions of Q Q’ Mothers in Council 8 (October 1898) 234-241.
+
+[^2]: This was the pseudonym of Charlotte Elizabeth Tonna (1790-1846). ‘The Listener’, though it sounds like the name of a journal here, cannot be found through COPAC, and seems to have been a name appropriated during Tonna’s life time by Caroline Fry (afterwards Wilson) who wrote a poem of that name.
+

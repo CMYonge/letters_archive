@@ -1,0 +1,27 @@
+---
+date: '1862-11-24'
+display-date: Novr 24th 1862
+from-address: 'Otterbourne, Winchester. '
+manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1862/6
+original-date: '2010-05-13 14:04:58'
+title: To Ann Maria Carter Smith
+wordpress-id: 1879
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Smith](../persons.html#263)
+Here is a note for [Mr Bourne](../persons.html#178) that I hope may do good service. I am not inclined to augur ill from the selling off of Aggesden, for of course tales do cease to sell after a time, and [Parker](../persons.html#1144) certainly has published three or four one volume ones since his [son](../persons.html#1143)’s death, such as Baby Bianca, Martha Brown, or the Queen’s Maries.
+I am glad you will kill Mrs Forrest, only recollect to alter Victoria’s saying she would go to her. I am afraid the title would be ‘stuck at’. I should almost like to call it by some name that shewed what was the drift, such as ‘Sternness or Weakness?’ I am tired of names of places and people. I believe you are right not to put [Wishop](../others.html#257) in [your collection](../others.html#31), as you have one long autobiographical story Somehow I cannot change from one I to another at once in the same book, but I rather think I liked Wishop the best of these two the moral about Kate’s government was so good.
+[Mr Mozley](../persons.html#1065) talked to me a little about [Who will go and do likewise](../others.html#265) when I was at Derby, but I do not think he perceived how much people like it.
+
+If you have another copy of a short story about a Rachel that you once offered the [M P](../others.html#52), I think [Good Words](../others.html#73) might be worth the risk as its pay is high
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Envelope addressed to Miss Smith/ 8 Wellington Road/ Charlton/ SE postmarked Winchester 24 November 1862 and London SE 25 November 1862.
+

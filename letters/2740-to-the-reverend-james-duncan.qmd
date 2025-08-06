@@ -1,0 +1,34 @@
+---
+date: '1882-01-05'
+display-date: Jan 5th 1882
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS UCLA: collection 100: box 95'
+original-date: '2011-09-16 11:18:45'
+title: To the Reverend James Duncan
+wordpress-id: 2740
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Duncan](../persons.html#448)
+I am glad you have come to another edition.[^1] I am looking at the corrections, beginning at the end and hoping to finish by post time.
+
+Sir Walter Scott spells Stewart thus—and I was told that Stuart was only adopted when the family forgot the proper spelling of their name in France.
+I made the genealogy through the Scottish kings instead of through the wife of Henry I better to introduce their names and as more direct.
+I cannot think how those errors were left in the genealogy. I have set them right also Cyprus.
+
+In 173, I think we may let George III’s character alone. I have no doubt he did raise the tone of his court.
+
+All the other things are slips which I am very glad to set right.
+
+Yours sincerely
+
+C M Yonge
+I thought it was better at p 212 to say the Duke of Wellington soon became Prime Minister than to put in an unimportant name.
+
+[^1]: Duncan was the secretary of the [National Society](../others.html#32), the publisher of CMY\'s [English History Reading Books](../books.html#150).
+
+The work under discussion is Part IV, the Fifth Standard: \'The History of Modern England from the time of Henry VII\'.
+

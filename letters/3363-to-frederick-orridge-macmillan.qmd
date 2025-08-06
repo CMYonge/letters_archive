@@ -1,0 +1,35 @@
+---
+date: '1897-12-14'
+display-date: Decr 14th 1897
+from-address: Elderfield Otterbourne Winchester
+manuscript-location: 'MS British Library  Add MSS 54921: 229-30'
+original-date: '2010-10-07 14:06:34'
+title: To Frederick Orridge Macmillan
+wordpress-id: 3363
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#942)
+One of my very first ventures in publishing was [‘Kenneth: or the Rear Guard of the Grand Army’](../books.html#10). [J.H.
+
+Parker](../persons.html#1142) of Oxford published it, on the half profits system, I retaining the copyright.
+
+There were two or three editions but it has gone out of print, though I am sometimes asked how to get it.
+
+Also, about 1850 and 52, [Masters](../persons.html#981) published[ Henrietta’s Wish](../books.html#11), and [the Two Guardians](../books.html#13), republished from the [Churchman’s Companion](../others.html#62).
+
+Both had fair success, and he gave me £20 and £25 for each successive edition I think three. I have heard no more of them for many years and now I learn that his successor has given up the publishing business and I believe the stock is handed to Mowbray.
+
+The Copyright is mine.
+I hear of enquiries for the books at times.
+
+Would it be worth while for you to try to recover them?
+
+The [Bishop of Quebec](../persons.html#456) has just asked me to let him have a former tale of mine for a Church paper. I have recommended him Kenneth, as there is much adventure but I have come to perceive that there are many mistakes, so that I do not so much care to have it revived as the other two, which I really think worth renewing
+
+Yours truly
+
+C M Yonge

@@ -1,0 +1,35 @@
+---
+date: '1864-02-26'
+display-date: Febry 26th 1864
+from-address: Elderfield Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54920: 21-22'
+original-date: '2010-05-20 17:05:39'
+title: To Alexander Macmillan
+wordpress-id: 1940
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Macmillan](../persons.html#939),
+I suppose [the Trial](../books.html#53) ought to be stereotyped that it may stand on the same footing with the other books.
+
+In all the former cases I have been at the whole expense of printing, paper, binding &c, and have thus had [all the profits](../others.html#160), except the commission on the sales - I think the arrangement with regard to the Trial was that I was to receive £200 for 2,000 copies; I conclude therefore that the £68 would be separately my purchase of the stereotype plates - It makes a considerable diminution of the profits of the first edition, but it is certainly a necessary one and I agree to the arrangement.
+I am glad you decided against [illustrations](../others.html#167) for the [Little Duke](../books.html#20). [Mrs Blackburn](../persons.html#159)’s were not very successful, though she had been so kind about them that I should hardly have liked to put out others by a different hand without first giving her the option.
+
+Those to the [Lances of Lynwood](../books.html#23) are much better, but she is never really at home without animals as her subject.
+I think I prefer [Golden Deeds](../books.html#51) to noble deeds, but that may be only because I have thought of the incidents by the former title, and besides it is a little more uncommon and vague - which last is a gain in a miscellaneous sort of collection, and gives a certain sense of freedom in gathering them. I have a delightful letter about them from [Mrs Macmillan](../persons.html#941) which I am going to answer at once.
+
+There are some grand incidents in the [Indian Mutiny](../others.html#134) such as [Lieutenant Willoughby](../persons.html#1904)’s destruction of the powder at Delhi, Dr Hay remaining with the sick at Benares, and a young officer’s escape carrying a little girl of 3 years old.[^2] But I never saw them but in the Times, and I suppose the only chance of getting the sight of them again would be in some library when I am in London again.
+
+Yours faithfully
+C. M.
+
+Yonge		
+There are two chapters of the Trial still to come
+
+[^1]: Black-edged paper.
+
+[^2]: All three incidents are included in A Book of Golden Deeds.
+

@@ -1,0 +1,32 @@
+---
+date: '1877-07-12'
+display-date: 'July 12th 1877 '
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: 'MS British Library Add MSS 54921: 22-23  '
+original-date: '2011-08-04 13:33:41'
+title: 'To George Lillie Craik '
+wordpress-id: 2588
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+Many thanks for your letter, I send the [agreement](../others.html#160), with which I am quite satisfied. I also send by train four nos of the [Christian Remembrancer](../others.html#59) containing four papers
+Folk Lore & Old Stories
+[Lord Seaton & his Regiment](../books.html#66)
+[The La Ferronays family](../books.html#64)
+[Eugenie de Guérin](../books.html#50)
+There are also- only I have not disinterred them [Miss Sewell’s Principles of Education](../books.html#302) and the [Life of Bishop Mackenzie](../books.html#52) but these will be enough for you to see whether they are available.[^1]
+The Ghosts as you see are in Folk Lore.
+
+If advisable I could expand that a good deal - and make a little volume of it.
+I have not signed the agreement as I should like you to fill it up first lest I should do it incorrectly
+
+Yours truly
+
+C M Yonge
+
+[^1]: CMY wanted Macmillans to publish a volume of her unpublished non-fiction articles, but the idea never came to anything.
+

@@ -1,0 +1,25 @@
+---
+date: '1880-06-16'
+display-date: June 16th 1880
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Harry Ransom Humanities Research Center, University of Texas.
+  C. R. Coleridge Collection.
+original-date: '2011-09-14 10:34:05'
+title: To an Unknown Woman
+wordpress-id: 2710
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Miss [name erased]
+I am so sorry, but I am going to London on Monday for the [G F S](../others.html#23) affairs, and I do not come home till Saturday.
+
+If you are going out on an expedition could you not take me on your way back? I come home on the 27th, and on any day but the 29th shall be at home.
+
+At least I have promised to take [my niece](../persons.html#1613) in one day of the Assize week to see [Lord Coleridge](../persons.html#343) in court, and I am not quite sure which that will be
+
+Yours sincerely
+
+CM Yonge

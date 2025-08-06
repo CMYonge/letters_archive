@@ -1,0 +1,38 @@
+---
+date: '1895-10-14'
+display-date: Oct 14th [1895]
+from-address: Elderfield Otterbourne
+manuscript-location: 'MS British Library  Add MSS 54921: 218'
+original-date: '2010-09-07 14:04:15'
+title: To Frederick Orridge Macmillan
+wordpress-id: 3300
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#942)
+I have a story within three or four short chapters of completion, which I should like to mention in case it should come within the scope of any autumn arrangements.
+I think the title might be ‘A Release’.[^1] It is founded on a story that [Guizot](../persons.html#597) once told me that [Mongolfier](../persons.html#1036), the aëronaut gained the affections of a noble young lady, whose parents forced her to become a nun.
+
+She appealed to the Pope who absolved her, and they were married.
+I asked [Madame de Witt](../persons.html#423) if I might use the story, and she said yes, but not the name as there are Mongolfiers still living.[^2]
+It is about half as long as the [Long Vacation](../books.html#237) too long for the present arrangements of the [Monthly Packet](../others.html#52), for which I began it.
+
+Had it better be published by you as it is, or go into any periodical first.
+
+One title might be ‘Caroline’s French Kindred’ Caroline is English, but the moving spirit.
+
+When published in a volume it would begin with the Christmas number story ‘Caroline’s Defiance in which she first appeared - Christmas 1893.
+
+Yours truly
+
+C M Yonge
+
+[^1]: [The Release, or, Caroline\'s French Kindred](../books.html#239) (London: Macmillan 1896).
+
+Part 1 appeared in MP (Christmas 1894) under the title ‘Caroline\'s Defiance’.
+
+[^2]: The story of the marriage between Jacques-Étienne Montgolfier (1745-1799) and Mademoiselle Brun (d.1845) who had been a nun, is told by Bessie Belloc, In a Walled Garden (London: Ward 1895), 119.
+

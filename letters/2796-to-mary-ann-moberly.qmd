@@ -1,0 +1,23 @@
+---
+date: '1884-01-01'
+display-date: '[1884] [[footnote:1]]'
+from-address: ''
+manuscript-location: 'MS location unknown.  This fragment printed in [[otherbook:122]<i>Dulce
+  Domum</i>], 280. '
+original-date: '2011-09-26 15:05:23'
+title: 'To Mary Ann Moberly '
+wordpress-id: 2796
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[To [Mary Ann Moberly](../persons.html#1019)]Many, many thanks for the beautiful little miniature of a holy life.[^2] I do think the last half-century must have been a period of saints, when we think of the many blessed ones we have known.
+
+Nothing so causes me to realise the ten thousand times ten thousand in the Revelation than the ‘Bollandist Lives of Saints’ in about 150 years, having got no further than C, and those only canonised Roman Catholic saints with their names recorded.
+
+[^1]: The position in Dulce Domum indicates 1884.
+
+[^2]: The book was evidently [Frances Awdry](../persons.html#82)\'s biography of [Anne Mackenzie](../persons.html#930).
+

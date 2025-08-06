@@ -1,0 +1,22 @@
+---
+date: '1900-01-16'
+display-date: Jan 16 1900
+from-address: Elderfield Otterbourne
+manuscript-location: MS Girton College Cambridge, Yonge XIV 3
+original-date: '2010-10-11 14:38:53'
+title: To Lady Brandreth
+wordpress-id: 3439
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Lady Brandreth](../persons.html#208),
+I hope in time to accomplish meeting you and conferring about the [G F S](../others.html#23) affairs!
+I have never had the specimen packet, not having been the Branch associate for Literature. I think [Miss Stanford](../persons.html#2209) has it for Winchester Country and [Miss Carey](../persons.html#2210) for the City
+
+Yours sincerely
+C.M.
+
+Yonge

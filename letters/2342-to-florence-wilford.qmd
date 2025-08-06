@@ -1,0 +1,37 @@
+---
+date: '1869-09-20'
+display-date: September 20, 1869.
+from-address: Elderfield, Otterbourne, Winchester
+manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  316
+original-date: '2010-06-23 12:12:25'
+title: "To Florence Wilford\t\t"
+wordpress-id: 2342
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Florence](../persons.html#1520)
+Thank you for your kind note; I am glad you are at St.
+
+Cross again. I will try to come and see you as soon as I can.
+
+My dear cousin [Anne](../persons.html#1582) had not been strong for many years, but was quite in her usual health till forty-eight hours before the end.
+
+Then as she was going upstairs at night a dreadful attack in the head came on, just what several of the family have had before, and it was very soon quite hopeless, and after the first few hours there was no apparent consciousness.
+
+Of course when the first letter had reached me all was really over, though I had one day of preparation - I cannot call it suspense.
+
+It is the loss of my very earliest and greatest sister-like friend, and would have been much harder to bear if I had not seen much reason last year to fear for her much suffering in health and spirits.
+
+Her [father](../persons.html#1623) has three left out of his ten children; he is bearing up beautifully, and so is his great mainstay, his daughter [Mary](../persons.html#1626), but it is such desolation to the house really that I can hardly bear to dwell on it.[^1] I had been at home not quite a week, having enjoyed the journey very much, and I shall greatly like to talk it over with you, and to hear what you have been doing in the meantime.
+
+Your affectionate
+C. M.
+
+Yonge
+
+[^1]: Apart from Mary Yonge, the surviving Puslinch cousins were the Rev. [Duke Yonge](../persons.html#1599) and the youngest sister, [Frances](../persons.html#1605), who was retarded.
+

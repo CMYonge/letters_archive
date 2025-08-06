@@ -1,0 +1,19 @@
+---
+date: '1839-01-01'
+display-date: '[1839]'
+from-address: ''
+manuscript-location: MS location unknown.  This fragment printed by Coleridge, <i>[[otherbook:40]Life]</i>,
+  140.
+original-date: '2010-03-12 13:50:03'
+title: To Anne Yonge
+wordpress-id: 2941
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[To [Anne Yonge](../persons.html#1582)]At the Hall[^1] is a beautiful picture of [King Charles](../persons.html#1768) the martyr, a full-length, and with the beautiful forehead we always see him drawn with.
+
+[^1]: West Dean, near Chichester, Sussex, where they were staying with CMY’s godmother [Caroline Vernon Harcourt](../persons.html#1422), sister of its owner, Lord Selsey.
+

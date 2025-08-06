@@ -1,0 +1,25 @@
+---
+date: '1865-04-25'
+display-date: April 25th 1865
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54920: 75-76 '
+original-date: '2010-05-25 10:20:55'
+title: To Alexander Macmillan
+wordpress-id: 2019
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Macmillan](../persons.html#939),
+Thanks, I should prefer having the [monthly sum](../others.html#160) in cheques here, but the £200 to be paid to [Messrs Hoare](../others.html#169). I hope the proofs are coming though it is rather late if the [Dove](../books.html#62) is to come out this [month](../others.html#78). I am afraid there are some anachronisms in it, and I did not give it the looking over that I should have done if I had thought of not seeing it again.
+
+Here are these two chapters of [Bethlehem](../others.html#177), I would have sent Abraham, but I could not get him finished today.
+
+His chapter will be more descriptive.
+I think I must do the preparation through the Israelites first before that of the heathen world, because in point of time Israelite history comes before Gentile history. I thought of trying to give a highly drawn out picture of each stage of Jewish prophecy - the next after Abraham to be the death bed of Jacob.
+
+Yours sincerely
+
+C M Yonge

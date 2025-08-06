@@ -1,0 +1,30 @@
+---
+date: '1868-06-02'
+display-date: 2 June 1868
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Charlotte Mitchell
+original-date: '2010-06-16 09:09:56'
+title: "To Edith Sophia Jacob\t\t\t"
+wordpress-id: 2251
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Edith](../persons.html#749),
+The Gates of Paradise came this morning and a very pretty little book they make. I don’t think one would guess the drawing had been finished in bed! I wish I could come and see you, and thank you for them but [Mamma](../persons.html#1606) has to take a drive every day and is not fit to get out of the carriage so that I can only take her within moderate distances, and we see a great deal of the Winchester road, in fact I think I should have a carrier’s licence I do so many commissions.
+
+If you were at Winchester I could get at you, not that I do do much but shop there, fetch magazines and the like. I suppose it is [Miss Agnes Jones](../persons.html#2011) at Liverpool of whom [Miss Nightingale](../persons.html#1086) gives that beautiful account in [Good Words](../others.html#73), but it is with a good deal of the scolding Nightingale note too.[^1] Really I suppose it is not a large proportion of women who have the qualities of professional nurse that she calls for people able to cope with large numbers of sick.
+
+They must be very sensible and clear headed to begin with and that is not the commonest thing in the world.
+
+After all conglomerations of people are the real misfortune of the time
+your affectionate
+
+C M Yonge
+
+[^1]: Agnes Jones (1832- 19 February 1868), lady superintendent of the Liverpool Workhouse Infirmary.
+
+Florence Nightingale’s article ‘Una and the Lion’ Good Words 9 (1868) 360-6 described her career without mentioning her by name.
+

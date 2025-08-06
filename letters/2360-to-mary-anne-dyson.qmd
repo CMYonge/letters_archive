@@ -1,0 +1,48 @@
+---
+date: '1869-12-16'
+display-date: December 16 [1869]
+from-address: Elderfield, Otterbourne, Winchester
+manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  260
+original-date: '2010-06-24 14:45:15'
+title: To Mary Anne Dyson
+wordpress-id: 2360
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Marianne](../persons.html#464)
+Well, we have our [Bishop](../persons.html#1512), and I feel we really have.[^1] I never saw a Bishop in our throne, and I never saw the Cathedral like what it was to-day. I really feel some parts of the day were among the best delights of my life.
+
+To see that dear old Cathedral which in some respects is one of the things I love above all, doing as it ought to do, and ringing from everywhere with its voice, and overflowing with white robes, was something precious and delightful beyond all.
+
+That whole space where the boys sit was one mass of clergy, and the effect was beautiful, the flow of the stoles and the hoods was so graceful.
+
+But that was not the best, the swell of voices in the Psalms gathering up the notes from the choir was so wonderful, and at the end the Hallelujah Chorus, sung by all who could sing, was magnificent.
+
+The anthem was that piece of St.
+
+Peter that ends with the grass withereth, etc.[^2] At first it rather startled me, till I thought of St.
+
+Swithin and William of Wykeham, and Beaufort and Fox and Andrews, and all coming and being enthroned and passing away, and the Te Deum and Creed and Psalms and all the rest keeping the same.
+
+There was no sermon, indeed the service lasted from 11.30 till 2. I was very well off for seeing - in that seat where I think I took you last time we went together, just opposite the throne, but certainly ecclesiastical functions take a good deal out of one, I have not been so tired I don’t know when.
+
+Happily this fierce rain did not come on till the procession to St.
+
+Lawrence was over.
+
+The old [Dean](../persons.html#542) did everything, and was at the [Mayor](../persons.html#2071)’s dejeuner when I came away from the Deanery. I just shook hands with the Bishop.[^3]
+
+[^1]: Samuel Wilberforce, formerly Bishop of Oxford, was enthroned as Bishop of Winchester on 16 December 1869.
+
+[^2]: Peter: 1, 24: For all flesh is grass, and all the glory of man as the flower of grass.
+
+The grass withereth, and the flower thereof falleth away:
+
+[^3]: The Very Rev.
+
+Thomas Garnier (1776-1873), dean of Winchester since 1840, not described as old flippantly.
+

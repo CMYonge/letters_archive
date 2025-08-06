@@ -1,0 +1,18 @@
+---
+date: '1864-07-11'
+display-date: '[11 July 1864]'
+from-address: ''
+manuscript-location: 'MS Westcountry Studies Library, Exeter/ Yonge 1864/ 6 '
+original-date: '2011-10-10 12:29:27'
+title: To Ann Maria Carter Smith
+wordpress-id: 1962
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[empty envelope]
+
+[^1]: Empty envelope, addressed to Miss Smith/ Clare Hall/ Cambridge and postmarked Winchester 11 July 1864 and Cambridge 13 July 1864.
+

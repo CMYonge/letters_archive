@@ -1,0 +1,25 @@
+---
+date: '1888-11-01'
+display-date: Nov 1st  [1888]
+from-address: Elderfield
+manuscript-location: MS Girton College Cambridge, Yonge IV 10
+original-date: '2011-10-06 09:11:12'
+title: To Arthur Donald Innes
+wordpress-id: 2895
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Innes](../persons.html#744)
+I think you must have heard from [Mrs Lennard](../persons.html#121) by this time, as she mentioned, in a letter I had yesterday, having heard from you. I was out all day and could not write.
+[Miss Hugessen](../persons.html#820) is ill and cannot do her paper this month but there are to be retrospective questions. I think the same notice will do. I will write the notices but I think I shall have to ask for an additional sheet as so much has to be finished
+A lady complains of a book by [the author](../persons.html#1467) of Robert Elsmere being there advertised on [the Packet](../others.html#52) I mean.
+
+Yours truly
+
+C M Yonge
+
+[^1]: 
+

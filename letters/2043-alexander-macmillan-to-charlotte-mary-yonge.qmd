@@ -1,0 +1,30 @@
+---
+date: '1865-06-15'
+display-date: June 15. 1865
+from-address: ''
+manuscript-location: 'Copy outletter book British Library Add MSS. 55384 (2): P. 572'
+original-date: '2010-05-26 11:43:14'
+title: Alexander Macmillan to Charlotte Mary Yonge
+wordpress-id: 2043
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Miss Yonge	
+Any idea of a [book](../books.html#71) that commended itself to you and [Miss Sewell](../persons.html#1301) as adapted to girls reading must be a good idea.
+
+Also my [sister-in-law](../persons.html#941) to whom [I](../persons.html#939) have mentioned the idea & also shown your letter seems greatly pleased with it.
+
+To myself I am afraid that besides the obvious difficulty which Miss Sewell perceives of getting it in due company, there is another which has put itself before me strongly, the danger, namely, of making the story patchy, both from the necessary gaps, and from the variation in style.
+
+However there are so many obvious advantages to the plan, and I am sure you & Miss Sewell would be as careful of harmony and symmetry as I am, and would work the whole into a beautiful mosaic. I think Miss Sewells friends suggestion of taking a bit of the history exceedingly good, but it would I believe be better if a whole subject could be given, as the Conquest itself or the wars between England & Scotland or between England & France, or the wars of the Roses.
+
+Something at least that would give an idea of a completer book. I would most willingly undertake such a work, and give its getting up and making-known my best attention. I do not know what sort of engagement you would like on such work, but we could either buy an edition or give a royalty per copy on any other system that you [and] Miss Sewell might think best.
+I shall be very glad indeed to hear further from you on the subject.
+I am dear Miss Yonge
+Yours very faithfully
+A.
+
+Macmillan

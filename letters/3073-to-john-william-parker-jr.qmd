@@ -1,0 +1,27 @@
+---
+date: '1855-10-31'
+display-date: Oct 31st 1855
+from-address: Otterbourne
+manuscript-location: MS Mitchell Library,  State Library of New South Wales. A1 p
+  7,  Reel CY1592  17-18.
+original-date: '2010-04-22 11:09:05'
+title: To John William Parker, Jr.
+wordpress-id: 3073
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Sir](../persons.html#1143)
+I am much obliged by your flattering offer but I do not wish to depart from my rule of never parting with my copyright
+
+My present view is to print 5000 at my own cost, requesting you to publish them on commission.
+
+My own work in the M.S is not fully completed but I hope soon to have it ready
+
+Yours truly
+
+C M Yonge
+
+I should be obliged if you would send me a copy of [Redclyffe](../books.html#15) [Heartsease](../books.html#19) & the [Little Duke](../books.html#20)

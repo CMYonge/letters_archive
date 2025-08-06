@@ -1,0 +1,35 @@
+---
+date: '1894-12-29'
+display-date: Decr 29th [1894]
+from-address: Elderfield
+manuscript-location: MS Princeton University, Parrish Collection
+original-date: '2010-08-14 14:04:11'
+title: To Jemima Blackburn
+wordpress-id: 3277
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mrs Blackburn](../persons.html#159)
+It was very pleasant to see your writing again after so many years!
+
+Our intercourse used to be in the early ages, though I have kept up hearing of you from [Lady Blachford](../persons.html#1253), whom I saw last summer settle again at Cornwood to the great joy of the inhabitants.[^1]
+I am glad you are to bring out so many of your works. I hope that congregation of terns that I once saw in your sketch book will be among them How I should have liked you to have illustrated [Pickle and his Page boy](../books.html#154), but it was as cheap as possible and without ‘pictures’.
+
+We had a little taste of your storm here but it did not do much harm beyond blowing down an erection of rose trees, which had grown rotten.
+
+The blizzard of three years ago is the memorable one, especially in Devonshire, where the mischief was wonderful and not only were whole woods blown down, but trains were snowed up and people subsisted on Devon cream and samples of cocoa.
+
+But Winchester mourns for the burning down of ‘the Kings House’ i.e. the barracks one wing completed by Charles II of an intended Versailles[^2]
+You may see the building of it in [‘the Reputed Changeling’](../books.html#205) We fear it will never be rebuilt for it is inconvenient - I have known a man like [‘That Stick’](../books.html#226) a peer late in life, a gentleman but of middle class occupations a good man
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: CMY and Blackburn had first met while staying with the Rogers family in London in the 1840s.
+
+[^2]: In 1894.
+

@@ -1,0 +1,29 @@
+---
+date: '1864-11-04'
+display-date: Novr 4th 1864
+from-address: ''
+manuscript-location: 'MS Princeton University, Parrish CollectionC0171: Box 29: Author
+  Files Wood-Yonge: '
+original-date: '2010-05-22 17:46:36'
+title: "To an Unknown Man\t\t\t\t"
+wordpress-id: 1990
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Sir,
+I am much obliged for all your kind observations upon the [Christian Names](../books.html#48), a work which I know it was very presumptuous in me to undertake, with so little real knowledge as I possess of more than general principles and a few scattered details.
+I am glad you exonerate the original thief from being a robber. I went upon the authority of the late [Professor Munch](../persons.html#1071) of Christiana, who gave me much kind help. I had thought Walthiof a slaughter thief, but he considered the first syllable to be Weal, not Tal.
+
+The likeness to theow had struck me.
+I know the Celtic part of the book is by far the worst. I could get nothing satisfactory by way of key, and [Dr O’Donovan](../persons.html#1916) who had promised to look over the Irish part, died before it was ready for him.
+
+Una was on his authority and for the rest, I picked out what I could from his papers on Irish names, and from notes to publications of the Irish society, verifying where I could by the Highland Society’s dictionary, I think I was even worse off with the Cymric names, having no authority but Celtic researches and [Owen Pugh](../persons.html#1917), and just knowing that modern discoveries had thrown them over, so that it was blundering in the dark, and getting derivations where I could from Rees, the notes to the Mabinogion, Villemarqué &c.
+I suppose Perceval was connected with the Sangréal in Bretagne from the sound of his name, - But the correspondance [sic] with the homely tale of Perronik shows a curious persistence in the use of that first syllable Per as connected with the bowl, though of course that may only be as a corruption of Perceval into a common village name.
+I hope if I ever have the opportunity of putting forth a second edition to remedy the blunder as to the Brut, and to make use of any other corrections you may be kind enough to send me.
+
+Yours much obliged
+
+C M Yonge

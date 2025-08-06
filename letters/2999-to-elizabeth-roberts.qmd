@@ -1,0 +1,20 @@
+---
+date: '1852-09-11'
+display-date: Sept 11th [1852]
+from-address: Otterbourn
+manuscript-location: 'MS Huntington Library: Yonge Letters'
+original-date: '2010-03-22 09:55:46'
+title: To Elizabeth Roberts
+wordpress-id: 2999
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Madam](../persons.html#1243),
+I send your pretty little [garland](../others.html#225) for October, hoping it will find you improved in health
+
+Yours sincerely
+
+C M Yonge

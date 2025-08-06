@@ -1,0 +1,29 @@
+---
+date: '1870-08-06'
+display-date: Aug 6th [1870?[[footnote:2]]]
+from-address: Elderfield,  Otterbourne, Winchester.
+manuscript-location: MS Lambeth Palace Library Keble Deposit 4/143
+original-date: '2011-03-08 10:13:34'
+title: To Elizabeth Jane Keble
+wordpress-id: 2386
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mrs Keble](../persons.html#797)
+How very stupid and ungrateful you must have thought me, but I never saw [your Son](../persons.html#799)’s letter when I opened – and answered yours, and only found it this morning.
+
+It satisfies me all the more as being what I was always inclined to think.
+
+yours affectionately
+
+C M Yonge
+
+[^1]: Elizabeth Jane Clarke (1804–1870) married (1835) the Reverend Thomas Keble, younger brother of John Keble who married her younger sister Charlotte in 1835.
+
+[^2]: Probably after John Keble\'s death in 1866 and before Elizabeth Keble\'s death in September 1870.
+
+Placed here on the assumption that it relates to the composition of [Musings over the \'Christian Year\'](../books.html#88) (1871).
+

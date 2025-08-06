@@ -1,0 +1,42 @@
+---
+date: '1886-02-27'
+display-date: 'February 27 [1886]] '
+from-address: Elderfield,
+manuscript-location: MS location unknown, printed in Coleridge, [[otherbook:40]<i>Life</i>],
+  308.
+original-date: '2011-10-07 15:37:41'
+title: To Elizabeth Barnett
+wordpress-id: 2926
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Lizzie](../persons.html#113)-
+. . .
+
+It is of no use to debate about [W. E. G.](../persons.html#1653) You know even dear [M. A.](../persons.html#464) and I had to avoid the subject, so I am not likely to be more convinced now of anything but that he deceives himself most of all, and takes love of power and popularity and hatred of Conservatives for love of right.
+I have the outline of a story for the Xmas number (begun before your letter about High Arts, etc.) about a girl who abandons her mother to study it. I don't know if it will come to good, for I am slipping behind the modern world.-
+Your affectionate
+C. M.
+
+Yonge
+Do you remember [Mr.
+
+St.
+
+John Tyrwhitt](../persons.html#1428) about the Greek perfection of form in Art, and the Christian ideality of countenance?[^2] Do not girls who outrage their feminine instincts throw away all hope of that higher thing?
+
+[^1]: The letter has been dated on the assumption that the story referred to is \'Mrs.
+
+Batseyes\', which was published in MP (Christmas 1886) and reprinted in [More Bywords](../books.html#209) (1890).
+
+[^2]: The Rev.
+
+Richard St.
+
+John Tyrwhitt (1827-1895), MP contributor, art historian and vicar of St.
+
+Mary Magdalen, Oxford, published a number of books on aesthetics and theology, to one of which CMY evidently refers here.
+

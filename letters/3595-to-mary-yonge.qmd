@@ -1,0 +1,23 @@
+---
+date: '1899-01-01'
+display-date: '[1899-1900?]'
+from-address: ''
+manuscript-location: MS West Devon Area Record Office Acc No 308
+original-date: '2010-03-02 14:52:11'
+title: To Mary Yonge
+wordpress-id: 3595
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[To [Mary Yonge](../persons.html#1626)]with the 7th division - We have had a great deal of slight illness here, my cook is just up again from influenza, and a great many people in the village have been having it, nonetheless there were 110 Communicants yesterday, 40 of them at 6.30- We dined at one at the Vicarage all the children now being old enough to be there, the little one, [Joan](../persons.html#186) is such a good little gentle thing never any trouble. [Margaret](../persons.html#185) is high spirited and not easy to manage, but the two elder ones are quite discreet personages and come up the village by themselves and go to Church.[^1] I believe [Reginald](../persons.html#189) is to go to school at Easter and a great loss he will be, but he wants boy companions
+your affectionate
+
+C M Yonge
+
+[^1]: Marjory Joan Georgina Bowles (1896-1979), Margaret Ernestine Bowles (1894-1984), [Cicely Gertrude Bowles](../persons.html#183) (1890-1974) and Reginald Julian Albany Bowles (1891-1916) were CMY\'s great-nieces and great-nephew, children of the Rev.
+
+Henry Bowles and Alethea Yonge.
+

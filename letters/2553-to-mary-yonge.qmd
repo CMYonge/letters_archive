@@ -1,0 +1,26 @@
+---
+date: '1876-05-08'
+display-date: May 8 th [1876]
+from-address: Elderfield
+manuscript-location: 'MS Plymouth and West Devon Area Record Office Acc No 308: 8-5-76'
+original-date: '2011-07-15 11:24:25'
+title: To Mary Yonge
+wordpress-id: 2553
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mary](../persons.html#1626)
+All thanks for your letter, I think matters are looking better and that something less than £2000 will clear it all, but we cannot be sure till after the 24th, at any rate [Julian](../persons.html#1624) is in much better spirits about it. [Maurice](../persons.html#1630) must have gone to school any way, so that is the least part of the trouble, and I do not think [Anne Parnell ](../persons.html#2070)much to be regretted for she had got to domineer over [Frances ](../persons.html#1604)very much and spoilt Maurice and [George](../persons.html#1610), while she has never been kind to [Alethea](../persons.html#182) and hardly to poor little [Joanna](../persons.html#388), but Frances never would see it, and feels the loss very much; but happily a very nice person whom they took as sempstress stays on and will see to the children Nurses must be scarce for Frances had 24 applications for her by one post. I think her an excellent nurse for a little baby, but not good for bigger children
+I must tell you about the May garlands of this year I had just had a letter begging for flowers for a hospital of incurable children in London, and Alethea, Maurice and [Georgina Halliday](../persons.html#952) came up to us with beautiful garlands of fresh flowers chiefly polyanthus, which after exhibition they presented to us, and when the village children came I asked the elder girls to bring me any cowslips &c that were fresh enough after the round of the houses they take them to, so we packed up a beautiful box, and I think I must send you the letter of thanks it is so pretty.
+
+You need not return it, for after reading it to the children we took a copy to send into our parish magazine.
+
+Since I began my letter I had a talk with [Mr Jones Bateman](../persons.html#785) who says if all goes right, Julian need not have called himself a bankrupt at all, and will not be one.
+
+There is one dangerous person, who has done a good deal of the mischief, and if he does no further harm we shall be well out of it.
+your affectionate cousin
+
+C M Yonge

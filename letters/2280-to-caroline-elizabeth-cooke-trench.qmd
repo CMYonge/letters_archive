@@ -1,0 +1,88 @@
+---
+date: '1868-10-08'
+display-date: October 8, 1868
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: "MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i>\_\
+  297-9"
+original-date: '2010-06-16 15:23:29'
+title: "To Caroline Elizabeth Cooke-Trench\t\t"
+wordpress-id: 2280
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Caroline](../persons.html#367)
+It did indeed seem to be bringing sorrow upon sorrow when that account came of your dear [father](../persons.html#669), and one recollected all that he was to us in 1854, and indeed ever since, and the accounts since have been a great cheer.[^1] It is strange that scarcely any of our own specially near and dear friends who were round us fourteen years ago were either left or at hand, [Dr.
+
+Moberly](../persons.html#1015) even out of reach, and [Mr.
+
+Wilson](../persons.html#1514) also for the time, and then came the heavy tidings from Malvern to press all more sadly.
+
+But then I think the relief of a respite is always a help in other things, and the better tidings were very brightening.
+I think Mr.
+
+Wilson must have told you something of how it was all last spring and summer, no disease, no suffering, no aberration, but a universal enfeebling, more like the description in the Book of Ecclesiastes[^2] than anything else, every month, almost every week, carrying some strength with it, but without any pain, or the least care or even discomfort except occasionally from restlessness.
+
+The chief seats of weakness were the legs, and the speech.
+
+She came from leaning on one arm to needing two, and then to being carried.
+
+And unwillingness to speak was one of the first symptoms, and gradually came to almost entire loss of power of speaking, though she understood all that was said to her, and smiled and responded up to the last.
+
+The smile never failed, nor the patience, but latterly the weariness of great weakness came, and I think she felt like one drifting away, for she seemed always wanting to hold by my hand, or have me in sight, and was distressed to see any of us go out of the room.
+
+You know how little caressing her ways were compared with others, but now she seemed to cling to caresses, and [Frances](../persons.html#1604)’s pretty, tender, fondling ways were a great solace and pleasure to her. I do not think she ever really mistook any one, though she always called me Alethea after her [sister](../persons.html#1580).
+
+She had been out for a long turn in a donkey chair on Saturday, and really seemed refreshed and revived, and on the Sunday she had two turns round the field, and would have been out longer but for the rain; it was rather a good day with her, but was followed by a restless night.
+
+However her smile was ready in the morning, when I told her that [Anne Yonge ](../persons.html#1582)was coming that day. [Alice Moberly](../persons.html#1025) was most kindly staying till she could come.
+
+That was the last smile I saw.
+
+The getting partly dressed and the breakfasting went on as usual, and we had just begun the day’s sitting with her, when a convulsive attack came on, and from that time there was no consciousness even for a moment. I do not think it was very violent, for the thing, but I was kept out of the room through the earlier part of the time.
+
+Afterwards there was nothing but a silent, still unconscious breathing away of life, and she was gone about five hours from the first attack.
+
+St.
+
+Michael’s Eve [Mr.
+
+Wither](../persons.html#1544) read the collect, and surely the angels did succour and defend.[^3] On Friday we laid her where I think she always thought of her home.
+
+The real companionship had gone so long before that that I do not feel any sudden loneliness as yet, and I have Anne Yonge with me for a month; I think I shall go back to Puslinch with her, but return about Advent. I want to have faced the emptiness of the house.
+
+Shall you be coming over in the course of the winter? I should be sorry to miss you.
+
+You must have been much helped by having Mr.
+
+Wilson with you during those days of suspense.
+
+Is he with you still?
+
+If so give him my love, and tell him I did not answer his letter because I was not sure where to find him, but I shall be very glad when he is near again.
+
+Your very affectionate
+C. M.
+
+Yonge
+
+[^1]: CMY\'s mother died on 28 September 1868.
+
+Caroline Cooke-Trench was Sir William Heathcote’s daughter by his first marriage.
+
+He had been a great friend of CMY\'s father [WCY](../persons.html#1631), who had died in 1854.
+
+The later references in the letter suggest that Heathcote was at Malvern for his health.
+
+[^2]: Perhaps Ecclesiastes 12: 1 \'Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them\' or 12:5: \'and the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets.\'
+
+[^3]: The Collect for St.
+
+Michael\'s day in the Book of Common Prayer:
+
+O EVERLASTING God, who hast ordained and constituted the services of Angels and men in a wonderful order; Mercifully grant that, as thy holy Angels always do thee service in heaven, so, by thy appointment, they may succour and defend us on earth; through Jesus Christ our Lord.
+
+Amen.
+

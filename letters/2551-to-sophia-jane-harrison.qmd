@@ -1,0 +1,25 @@
+---
+date: '1876-05-02'
+display-date: May 2nd 1876
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Miss Barbara Dennis/2 '
+original-date: '2011-07-15 10:42:23'
+title: To Sophia Jane Harrison?
+wordpress-id: 2551
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mrs Harrison](../persons.html#638)[^1]
+A great many thanks for the exceedingly nice frame, and all the arrangements for setting up the collects. I waited to thank you till they actually appeared so that I might acknowledge them at the same time.
+
+They are very nice and I am sure they will be a great pleasure to many, and help out many a Sunday
+
+yours affectionately
+
+C M Yonge
+
+[^1]: Sophia Jane (Collinson) Harrison (1826-1891), wife of the railway engineer Thomas Elliot Harrison (1808-1888) was certainly a correspondent of CMY\'s and a philanthropist, but proof is lacking that this letter is definitely to her.
+

@@ -1,0 +1,45 @@
+---
+date: '1894-02-06'
+display-date: Feb 6th [1894]
+from-address: Elderfield Otterbourne Winchester
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e.174 ff 131-2'
+original-date: '2011-12-16 12:45:31'
+title: To the Reverend John Frederick Watkinson Bullock
+wordpress-id: 3246
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Bullock](../persons.html#221),
+I will try to write Abp Sancroft[^1], and [Bp Mackenzie](../persons.html#929) but have you thought of asking [Miss Awdry](../persons.html#82), Notton, Chippenham.
+
+She is the author of [‘An Elder Sister’](../persons.html#687) and would do [Anne Mackenzie](../persons.html#930)’s life excellently.
+
+She could also do well [Henrietta Robertson](../persons.html#1952), a grand missionary worker.
+
+And have you thought of [Mrs Macdougal](../persons.html#1949) who sacrificed so much-?
+
+Miss Awdry could well do all these.
+
+She edited the [Gospel Missionary](../others.html#227) till lately when it was decided that the Editor must live in London.
+I hope you will take [Miss Havergal](../persons.html#2091).
+
+You know there are two hymns of hers in A and M - and the way she took her poetical and musical powers as gifts to be used always struck me as most beautiful.
+I see what you mean about [Miss Sellon](../persons.html#1294), as the work and victory she effected, but after much enthusiasm about her, I own I was much disappointed (as were others) when she came to Hursley to see her [Sisters](../others.html#46) off to Honolulu.
+
+Being such an invalid herself, she did not know what was to be expected of her Sisters.
+
+However she fought the battle. I see [Lincoln diocesan mag](../others.html#228) has a life of [Dean Butler](../persons.html#244).
+
+Could you get leave to use that?
+
+Yours truly
+
+C M Yonge
+
+[^1]: William Sancroft (1617-1693), archbishop of Canterbury.
+
+The proposed biographies, of which CMY wrote several, were for the [\'Biographies of Eminent Anglicans\' ](../books.html#358)series, which were intended to form part of Bullock\'s Daily Lections project, but were not in fact published.
+

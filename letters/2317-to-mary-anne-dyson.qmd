@@ -1,0 +1,39 @@
+---
+date: '1869-06-07'
+display-date: June 7. [1869]
+from-address: Wantage,
+manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  p. 259
+original-date: '2010-06-22 12:19:28'
+title: "To Mary Anne Dyson\t\t\t"
+wordpress-id: 2317
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Marianne](../persons.html#464)-
+We have had a very successful time, so successful that I have had no time for letter-writing or anything else, but I have been most enjoying myself. I did just shake hands with [Dr.
+
+Pusey](../persons.html#1215), in his red doctor’s gown, and moreover heard him speak about the Palestine---no, the Sinai exploration.[^1]
+
+9th.---There, I wrote on Monday, and not a bit of time have I had to write since, but I am enjoying all things. I think the eager life here just suits me, from the wonderful unflagging feeling about it.
+
+It is so much the sparkling, hurrying stream.[^2]
+
+I know it is a delusion to hope to make this letter longer, so I shall not try---
+
+Your most affectionate
+C. M. YONGE
+
+[^1]: The universities of Oxford and Cambridge had recently voted money for the purchase in the Near East of Arabic and other ancient manuscripts.
+
+There was also a geographical survey being made of the Sinai peninsula, which it was hoped would shed light on the history and geography of the Old Testament.
+
+[^2]: If this is a quotation it is unidentified, but it clearly refers to the elaborate parish arrangements which the [Reverend William Butler](../persons.html#244) and his family had established in Wantage.
+
+These included schools, welfare workers and a nunnery, the [Community of St.
+
+Mary the Virgin](../others.html#21), of which CMY at about this time became an Associate Member.
+

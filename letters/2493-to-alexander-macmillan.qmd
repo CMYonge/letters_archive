@@ -1,0 +1,25 @@
+---
+date: '1874-03-01'
+display-date: March 3d 1874
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: 'MS British Library Add MSS 54921: 3-4 '
+original-date: '2011-07-11 15:06:16'
+title: To Alexander Macmillan
+wordpress-id: 2493
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939)
+I send the two vols of [Bishop Patteson](../books.html#102) by train today, having done all the abridging that I think they will bear, I believe it is about 100pp in each volume, and a good many lines besides so that with smaller type and thinner paper I think it will be reduced enough.
+
+Since I began this has come the enquiry after the author of the Children of the Forest or the Three Knights.[^1] I cannot recollect anything about her, nor that the story of that title has been in the Monthly Packet
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: ‘The Children in the Forest’, a translation from the German by C.P., had appeared in MP (November 1856), 376-384.
+

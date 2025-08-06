@@ -1,0 +1,26 @@
+---
+date: '1866-03-19'
+display-date: March 19th [1866]
+from-address: ''
+manuscript-location: MS Charlotte Mitchell/Cobweb-8
+original-date: '2010-06-07 11:57:11'
+title: To Katharine Olive Helmore
+wordpress-id: 2107
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Cobweb](../persons.html#675),
+You have been very ill used, but first [Fanny Patteson](../persons.html#1151) was here, and I was idle, and since that I have not been well and have been more idle.
+
+The Acrostic is capital – I always like those that are all quotation- and I am very glad to see the composers going on, this last is a very entertaining piece[^1]
+Pray excuse my great stupidity
+your affectionate
+[Mother Goose](../others.html#104)
+
+[^1]: Tiny blue envelope 92mm x 54mm addressed to Miss Helmore/ Cheyne Walk/Chelsea/ London/ S.W. postmarked Winchester 19 March 1866 and London 20 March 1866.
+
+[^2]: Helmore was contributing a series of articles on composers to the [Barnacle](../others.html#89).
+

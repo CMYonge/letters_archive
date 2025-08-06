@@ -1,0 +1,28 @@
+---
+date: '1866-01-12'
+display-date: '[12 January 1866]'
+from-address: ''
+manuscript-location: MS Mrs Clare Roels
+original-date: '2010-06-05 16:42:47'
+title: "To Christabel Rose Coleridge\t\t\t"
+wordpress-id: 2098
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329),
+I should have said that I think you must specify your stones, there are such a frightful number- Pray have opal and turquoise- One for its weird history, the other for its nature- but exclude all the stupid ones, like garnets &c or we shall be swamped - I shall send the parcel on Monday - Meantime I send you the grand Goslings acceptance[^2] - I think [Fernseed](../persons.html#1160) must be her name - [Ladyfern](../persons.html#455) & [Magpie](../persons.html#896) keep on after all.
+
+This Fernseed is to be directed to as
+Miss Peard
+Sparnow
+Torquay
+your affectionate
+Mother Goose
+
+[^1]: Endorsed ‘January 12 1866’.
+
+[^2]: Frances Peard’s answer to CMY’s request that she join the [Gosling Society](../others.html#104).
+

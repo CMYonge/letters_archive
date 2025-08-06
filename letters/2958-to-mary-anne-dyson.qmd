@@ -1,0 +1,38 @@
+---
+date: '1846-12-01'
+display-date: Sunday [December] 1846.
+from-address: ''
+manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  156-157
+original-date: '2010-03-17 09:46:51'
+title: To Mary Anne Dyson
+wordpress-id: 2958
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Driver](../persons.html#464)[^1]
+I never expected [Henrietta](../books.html#11)[^2] to produce such pretty fruits. I am delighted with it. I wish you would give Linny[^3] [Sintram](../others.html#102)[^4] to read, and see what she would make of it.
+
+Ours are hearing it with great satisfaction.
+
+The Tree was very successful; the gentlemen would come to look on, which made the children very silent, but they were exceedingly happy. [Mr.
+
+Wither](../persons.html#1544) cut down the fruit, and there was much fun, They had calf manners exactly, merry and joyous, whispering to each other, and never pushing forward, altogether very nice.
+
+They had two pomegranates for tea, which Fanny told them came from Spain; then they looked at certain Indian birds of which they are never tired, and at my shells, some of which were so little that Lucy marvelled how a fish could be got into them.
+
+And the evening was filled up with dissected maps.
+
+[^1]: CMY called Dyson ‘Driver’ and signed herself ‘Slave.’
+
+[^2]: CMY’s story Henrietta’s Wish, or, Domineering: A Tale, which was serialized in the Churchman’s Companion, January 1849-May 1850, and published in volume form in 1850.
+
+[^3]: One of Dyson’s pupils, who were nicknamed ‘the calves’.
+
+[^4]: Friedrich, Baron de la Motte Fouqué, Sintram und seine Gefährten (1811).
+
+The Tractarians had a cult of La Motte Fouqué; Dyson’s own [Ivo and Verena, or, The Snowdrop](../others.html#58) (London: Burns 1842) is a children’s version of of one of his allegorical romances.
+

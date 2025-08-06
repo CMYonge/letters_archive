@@ -1,0 +1,46 @@
+---
+date: '1898-12-09'
+display-date: Decr 9th  [1898]
+from-address: Elderfield
+manuscript-location: MS Mrs Clare Roels/75
+original-date: '2010-07-02 09:32:59'
+title: To Christabel Rose Coleridge
+wordpress-id: 3388
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [C C](../persons.html#329)
+Poor dear [Sophy](../persons.html#974), she has been a heavy weight on many minds from the time of [Pena](../persons.html#973)’s death, in a remarkable way considering the clever, able woman she was.[^1] I heard of her release, for such it was from [Mary Yonge](../persons.html#1626) who wanted much, as well as [Charlotte](../persons.html#1587) to come to the funeral, but happily the two witheld each other, in the fogs and the rain and the wet grass, so it was a very good thing they prevented each other-
+I am glad [Fanny](../persons.html#1151) was there.
+
+You have a splendid possession, according to this advt.
+
+Mine is only seven volumes.
+
+Here is an entertaining letter from Margaret; what storms!
+I think SS Agnes and Margaret were rather RC saints for Irish to swallow and I would eliminate Hope Carlyon if possible She seems to me in SPCK to be of a very low order of sense.[^2] The Elf is a very beautiful idea, though practically I doubt a birth deformed person being so amiable, I think the temper is generally astray and no wonder.
+
+Yes, it is a good number for Christmas.
+
+La Belle Louise is a charming story, and the Household Emergency capital- the others, even [FMP](../persons.html#1160)’s, very fair commonplace- but it is very good altogether.[^3] Cupid is getting better, but had not been dressed when last we heard of him, it was really a sharp attack, and it was well he had his Granny.
+I have written a thing for the G L, on the century and am asked to write one for the [Girls’ Realm](../others.html#210)
+‘A Girls’ Experiment’ [RTS](../others.html#35) is really good for either degree of girl.
+
+The Whipping boy Wells Gardner is also good. [Mary Bramston](../persons.html#198) thinks it possible for Elementary [RU](../others.html#211)
+your affte
+
+C M Yonge
+
+[^1]: Sophia (Coleridge) Martyn (d. 1898) was the mother of Paulina Martyn ‘Pena’ (1843-1887), one of the founder Goslings.
+
+She was a first cousin of Mary Coleridge and Fanny Patteson.
+
+[^2]: This sentence evidently refers to a review article, perhaps \'Book Notes\' MP (December 1898) 715-6, which mentions approvingly The Whipping-Boy.
+
+Hope Carlyon was the author of a number of works including The Great Storm: A Tale for Mother’s Meetings (London, SPCK 1897).
+
+[^3]: MP (Christmas 1898) included the \'Elf: The Christmas Number Prize Story\'; an anonymous story called \'La Belle Louise\'; Nora Kilnorth, \'A Household Emergency\'; and Frances Mary Peard, \'The Man in India\'.
+

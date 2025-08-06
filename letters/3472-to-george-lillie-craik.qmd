@@ -1,0 +1,25 @@
+---
+date: '1900-10-09'
+display-date: Oct 9th 1900
+from-address: Elderfield Otterbourne
+manuscript-location: MS Reading University Library 1448/119
+original-date: '2011-02-02 11:48:08'
+title: To George Lillie Craik
+wordpress-id: 3472
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#279)
+It was like old times to see your writing again. I have no doubt that it is right about [Forget me nots ](../books.html#330)but I see so many stories advertised even before they are really finished in their serials that I thought it was time to see about the matter.
+
+In fact it is a ‘goody story’ only about school mistresses and quite short. I think it might in time be published together with some of the [Innes](../persons.html#744)’ books, which have had a large sale once, and are now and then asked for
+My books have certainly kept up much better than I ever dared to expect, but I doubt whether I shall ever manage another long story, and I ought to be satisfied with 50 years of work and success.
+I have been asked several times for a cheap edition of [Bp Patteson](../books.html#102), but I see there are 200 still in stock, so I suppose it is of no use to think about it.
+I am perfectly well, thank you but slower in all things than I used to be
+
+yours sincerely
+
+C M Yonge

@@ -1,0 +1,30 @@
+---
+date: '1861-03-14'
+display-date: March 14th 1861
+from-address: Otterbourne, Winchester
+manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1861/5
+original-date: '2010-05-07 14:01:11'
+title: To Ann Maria Carter Smith
+wordpress-id: 1823
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Smith](../persons.html#263)
+I am sure it is due that you should have the reading of this letter and the administration of the £10 as you must know much better how to reach the destitute families than I do, and [the donor](../persons.html#482) will I am sure be well pleased to hear it is in the hands of [Frances Dysart](../others.html#265)’s author.[^1] If you will be so kind as to undertake it, I will write to her by the next mail, and tell her to send me the money.
+
+And will you send me such particulars as would answer the question whether £10 would provide one or two families - things are at such different prices here that I have no idea.
+
+Is it not a pleasant fruit of Frances’s example
+Many thanks for the information about the Clothing Society. I have since got a full and explicit account from [Mrs Laurie](../persons.html#847), the lady of Life in the Factories, which will I think answer all that the lady need enquire with the help of a few notes from the letter of a country clergyman’s daughter.
+
+The Clothing Society is an excellent notion. I thought the proofs of On the Banks of the Thorne would have come by this time but they are late this month
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Ann Carter Smith\'s story, ‘Will no one do likewise?: A Tale of East London Life’, MP (Jan-Sept 1859), had inspired a [Mrs Elphinstone](../persons.html#482), a lady living in India, to send £10 to the Packet to be spent on deserving East London cases of distress.
+

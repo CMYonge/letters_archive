@@ -1,0 +1,30 @@
+---
+date: '1868-01-01'
+display-date: '[1868]'
+from-address: ''
+manuscript-location: MS Charlotte Mitchell
+original-date: '2010-06-16 09:02:29'
+title: "To Edith Sophia Jacob\t\t"
+wordpress-id: 2250
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Amiable Beloved
+Can dear Eyes feel great hope in joy kindling lonely Margaretta’s notions of procuring quarters reposefully secure through united votes with xpressed youthful zeal - ?
+
+The alphabet will not serve me to express that I never gave [you](../persons.html#749) the direction to the lady who will try to get votes for [Miss Erle](../persons.html#2010), and here it is.[^1] [Mamma](../persons.html#1606) is very well and bright.
+
+The Chair is to be sent for to be inspected at home
+your affectionate
+
+C M Yonge
+The address is
+[Miss Carter Smith](../persons.html#263)
+8 Wellington Road
+Charlton
+
+[^1]: Jacob is evidently seeking the admission of Miss Erle, whose first name was presumably Margaretta or Margaret, to a home for incurables. CMY had a subscriber\'s vote at the [Royal Hospital for Incurables](../others.html#37), but the [Home for Incurable and Infirm Women](../others.html#26) is another possibility.
+

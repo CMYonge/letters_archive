@@ -1,0 +1,27 @@
+---
+date: '1870-04-14'
+display-date: April 14 1870
+from-address: 'Elderfield, Otterbourne, Winchester  '
+manuscript-location: 'MS Yale University, Beinecke Library '
+original-date: '2014-05-07 14:42:56'
+title: To an Unknown Woman
+wordpress-id: 19342
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Madam
+
+I am afraid that I cannot vote for your protegé as I have promised my vote to a boy some relations are interested in.
+
+In all Sir Walter Scott’s works the royal family of Scotland are spelt Stewart, and I was assured by a Scotch lady that Stuart was only a modern variety adopted in France
+
+yours truly
+
+C M Yonge
+
+&nbsp;
+
+&nbsp;

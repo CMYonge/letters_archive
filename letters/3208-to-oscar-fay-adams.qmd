@@ -1,0 +1,27 @@
+---
+date: '1892-12-15'
+display-date: Decr 15th 1892
+from-address: Elderfield Otterbourne Winchester
+manuscript-location: MS Harvard University, Houghton Library
+original-date: '2010-07-18 15:04:46'
+title: To Oscar Fay Adams
+wordpress-id: 3208
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear[ Mr Adams](../persons.html#16)
+I think such papers as you kindly propose would be very valuable but my colleague, Miss [Christabel Coleridge](../persons.html#329) must be consulted, and likewise the publisher Mr [Arthur D Innes](../persons.html#744), 31 Bedford St Strand[^1]
+I think as you are in London it might simplify matters if you would call on him, as he would tell you about length of papers and terms and I believe we would find the papers very interesting
+Miss Coleridge lives at Cheyne Torquay so is rather out of reach unless you have yet to visit Exeter, Ottery St Mary Church and Truro
+
+yours truly
+
+C M Yonge
+
+[^1]: Oscar Fay Adams (1855-1919), American writer, contributed four articles on American subjects to [MP](../others.html#52) in 1893-4.
+
+He had first approached CMY when researching his biography of Jane Austen in the Winchester area.
+

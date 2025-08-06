@@ -1,0 +1,29 @@
+---
+date: '1872-04-04'
+display-date: '[4 April 1872?]'
+from-address: ''
+manuscript-location: 'MS UCLA: collection 100: box 95'
+original-date: '2011-06-15 11:53:27'
+title: To Elizabeth Missing Sewell
+wordpress-id: 2441
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Miss Sewell,
+Will not this do?
+
+The M.S is come?
+
+Hoping for you on the 25th
+
+Yours affectionately
+
+C M Yonge
+
+[^1]: An envelope, which may go with this note, is postmarked Winchester 4 Ap 17 72, and addressed to “Miss E M Sewell/Bonchurch/I of Wight”.
+
+Otherwise it seems more likely that the note dates from their collaboration in 1867-8.
+

@@ -1,0 +1,39 @@
+---
+title: "The Letters of Charlotte Mary Yonge"
+---
+
+Welcome to the digital collection of the correspondence of Charlotte Mary Yonge (1823-1901), English novelist, historian, and educator.
+
+## About Charlotte Mary Yonge
+
+Charlotte Mary Yonge was a prolific English novelist, best known for her family saga *The Heir of Redclyffe* (1853) and her large family of children's books. She wrote over 160 works, including novels, textbooks, and historical works, most of them for a Christian audience.
+
+## About This Collection
+
+This website contains 1,918 letters from Charlotte Mary Yonge's correspondence, originally compiled and digitized by the Centre for 21st Century Humanities at the University of Newcastle, Australia. The letters span her lifetime and provide insight into Victorian literary culture, education, and religious life.
+
+### Features
+
+- **Searchable Letters**: Browse and search through all letters by date, correspondent, or content
+- **Person References**: Biographical information about people mentioned in the letters
+- **Book References**: Information about Charlotte Mary Yonge's published works
+- **Institutional References**: Information about organizations, societies, and institutions mentioned
+- **Scholarly Annotations**: Footnotes and editorial commentary from the original compilation
+
+## Navigation
+
+- [**Letters Index**](letters-index.qmd) - Browse all letters chronologically
+- [**Persons**](persons.qmd) - People referenced in the correspondence
+- [**Books**](books.qmd) - Charlotte Mary Yonge's published works
+- [**References**](others.qmd) - Institutions and other entities mentioned
+- [**About**](about.qmd) - More information about this digital edition
+
+## Citation
+
+When citing letters from this collection, please use the following format:
+
+> Charlotte Mary Yonge, Letter to [Recipient], [Date], The Letters of Charlotte Mary Yonge Digital Collection, [URL].
+
+---
+
+*This digital edition was migrated from the original WordPress site to ensure long-term preservation and accessibility.*

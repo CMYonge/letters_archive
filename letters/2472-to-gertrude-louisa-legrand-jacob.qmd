@@ -1,0 +1,30 @@
+---
+date: '1873-04-30'
+display-date: April 30th [1873]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Charlotte Mitchell
+original-date: '2011-07-11 10:48:14'
+title: To Gertrude Louisa LeGrand Jacob
+wordpress-id: 2472
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Gertrude](../persons.html#751)
+I hope your chapter[^1] will be of a length that will fit happily into July. I will do my best for its coming in.
+
+Here is your Twilight[^2] which please look over, and it will get in when there is room. I do not think I am likely to come to London I have had two outings - to Chichester in Easter week and last week to the laying the 1st stone of [Keble Chapel](../others.html#5) and I don't think I shall make much of an expedition till the opening of [Mr Wither](../persons.html#1544)'s Church I wish Crawley was on this side Winchester[^3]
+yours very sincerely
+
+C M Yonge
+
+[^1]: The first chapter of G.L.J., \'The English Raja: James Brooke\', was published in MP 16 (August 1873) 135-46, which ran until August 1874, and was published as Gertrude L.
+
+Jacob, The Raja of Saráwak : An account of Sir James Brooke, K.C.B., LL.D., given chiefly through letters and journals (London: Macmillan 1876).
+
+[^2]: G. L. J., \'Twilight\' MP ns 16 (July 1873) 100-104.
+
+[^3]: Jacob\'s father was Rector of Crawley, near Winchester.
+

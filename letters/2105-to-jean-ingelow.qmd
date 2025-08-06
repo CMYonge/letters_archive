@@ -1,0 +1,28 @@
+---
+date: '1866-02-21'
+display-date: Feb 21st 1866
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS BL Add.70949 f.387
+original-date: '2010-06-07 11:29:14'
+title: To Jean Ingelow
+wordpress-id: 2105
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Ingelow](../persons.html#741)
+This is [Mr Stone](../persons.html#1371)’s answer about the knight of Intercession.
+
+It seems to be one of the legends that evades all search.
+
+How would it be to send a question to Notes and Queries?
+I have been wishing to tell you that the last sermon that I heard [Mr Keble](../persons.html#798) preach, a year and half ago, - one on the anniversary of his Church Consecration, he brought in a sentence about the Church bells sounding on the ear of travellers in the desert, and he told me afterwards that it came out of ‘the one story by two Authors’.[^1]
+
+yours sincerely
+
+C M Yonge
+
+[^1]: One story by two authors; or, A tale without a moral by Jean Ingelow and Frances Mary Levett was serialised in MP 1860-61 and published \'with additions\' in 1862.
+

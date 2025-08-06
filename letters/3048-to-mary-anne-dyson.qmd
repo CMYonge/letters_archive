@@ -1,0 +1,155 @@
+---
+date: '1854-06-09'
+display-date: June 9, 1854
+from-address: Otterbourne
+manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  206-9
+original-date: '2010-04-19 13:36:22'
+title: To Mary Anne Dyson
+wordpress-id: 3048
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Marianne](../persons.html#464)
+. . .
+
+But all this time you have not heard how I had three walks between [College](../others.html#50) and St.
+
+John's house arm-in-arm with [the Bishop](../persons.html#1295)![^1] Don't you call that preferment?
+
+We went to the Cathedral with the troop of Moberlys, and I am glad my first sight of him was in his lawn sleeves. I never saw a face of which one would so much say it was inspired. I was surprised to see so much youthfulness of complexion, I don't mean redness, but that fresh fair clearness that one would not have expected after being so much exposed, and his hair quite bright brown. ‘How beautiful he is’, [Mrs.
+
+Keble](../persons.html#795) and I said to each other.
+
+She thinks his head like some print of an Apostle, and says she cannot imagine any savage resisting his eye.
+
+It is such a striking eye, so calm and yet so keen. I thought, though the colouring and form were very different, it had a likeness in expression to papa's, the repose and yet the quick observance.
+
+Mrs. K[eble]. thought the same.
+
+The print is just like, except that from being a full face you would not know from it that the chin projects somewhat.
+
+Calfdom ought to report the sermon, so I will not, except that it was a very grand one, and it showed me how able [Mrs.
+
+Abraham](../persons.html#3)'s abstracts are.[^2] His speech at the meeting was quite the daughter of the sermon, saying all that was not fit for the Cathedral in the same spirit.
+
+But I had better tell you in more order, how after Cathedral we went to the College, and I shrank into the Moberly home to avoid the mighty luncheon at [the Warden](../persons.html#118)'s. I had previously given [Dr.
+
+Moberly](../persons.html#1015) £146: 10s. for [Maggie](../persons.html#83) to present in an envelope, whereon mamma had written ‘Towards the vessel for the Island Mission.’[^3] Dr. M[oberly]. was as kind as possible, and managed beautifully; after luncheon he took Maggie in his arms, and [Emily](../persons.html#81) in his hand, and went into the Warden's garden, where he let me creep off out of the way into the path by the river, and sent [Johnnie](../persons.html#1296), who was cutting capers on the lawn, to fetch out his papa and mamma.
+
+So then on the lawn, where there were no spectators but [Mary Barter](../persons.html#1755), they made the dear little Maggie trot up and give it to him, and he took her up and kissed her, and I believe Dr.
+
+Moberly told him how it began, etc., so after a little delay Dr. M[oberly]. called Alice, who was with me, and we turned and met, and Dr. M[oberly]. introduced us, and Johnnie came and shook hands, and the Bishop talked to me of my [Uncle Charles](../persons.html#1586) who was his Eton tutor, and of all my Eton cousins, till the Warden came to call us to the meeting. [Mrs.
+
+Selwyn](../persons.html#1297) did not go, and the Bishop took me, and was as kind to me as if I had been [Wabisana](../persons.html#1447).[^4] [Anne](../persons.html#1582) had the Warden to walk with.
+
+At the meeting I happily pitched into a corner between the Kebles, and all the little whispering comments were delightful . . .
+
+The grand old Warden returned thanks in a glorious speech, especially where he said what the heathen wanted was not only money but men, not only men but gentlemen, yes gentlemen, for a true gentleman was the perfection of the Christian law, Honour all men, love the brotherhood.
+
+Honour all men by being ready to do the least service for the poorest savage.
+
+It was all with the quiver of earnestness from the bottom of his great warm heart.
+
+That was all of note, and then came the going home.
+
+The Bishop asked me if I was going back to the College, and when I said yes, if I would come with him. I asked if the Miss Palmers[^5] were there, and he said yes, just behind us, so he introduced us in the street, and we said we should meet in the evening, and off we walked again, and met [Mr.
+
+Keble](../persons.html#798) in a narrow alley with [Mrs. K](../persons.html#795).'s shawl on his arm, and his eyes dancing partly to congratulate me, I think.
+
+It was real good talk that I got, about the doings in N[ew]. Z[ealand]. I went in at the Moberlys, where the children, who are very fond of Anne, were showing her over the house.
+
+Mrs.
+
+Selwyn had had half an hour's little private meeting with [Mrs.
+
+Moberly](../persons.html#1019), who saw no one else, not even the farm children.[^6] At five we (Miss Croker), [Alice](../persons.html#1025), Anne, Dr. M[oberly]. and I) went to the cram-full drawing-room at the Warden's, and there I sat next [Miss M. A.
+
+Palmer](../persons.html#1132) on the ottoman, and had a talk about you, etc., and I saw a little of Mrs.
+
+Selwyn, who has been introduced to [Prince Albert](../persons.html#1736) and one of the princes, and rejoices in having it to tell her N[ew]. Z[ealand]. folk.[^7] She looks thin and brown, but her eyes do sparkle, and I can quite see how she makes beds instead of difficulties.
+
+Johnnie was lost.
+
+He had been sleeping by the water, and seems to go about rather as if he was exploring a savage country.
+
+Mary Barter found him creeping on all fours upstairs, and asked if he knew his way. 'Oh no, but I shall soon find it.' Every one is charmed with him, but he preserves his loyalty to N[ew]. Z[ealand]. and will not admire too much. A mighty long, not in time but in length of table, dinner in the gallery.
+
+The Bishop had [Lady Eleanor Wodehouse](../persons.html#1547) for his neighbour. I should have said she came to shake hands with me, but I could get no talk with her as we were on opposite sides of a street of ladies seated (I mean in the drawing-room) with gentlemen meandering between. [Mrs.
+
+Williams](../persons.html#1524) was on the Bishop's other side, which I was glad of, as she could not go to meetings. I was next to [Mr.
+
+Woodcock](../persons.html#1553).
+
+After dinner every one scrambled to get ready for the meeting, and for a wonder, Anne and I fell in with the Warden and Bishop again. ‘Happy girl,’ said the Warden to me, while the Bishop was looking out a Maori letter to show at the meeting.
+
+Then the Warden began to lament over having to take the chair. 'Never mind,' said the Bishop, ‘you have an Artesian well, and it is the warmest near the source.’ The Bishop said he was so struck with that warm earnest way the Warden reads family prayers in.
+
+Then, in walking on, the Bishop spoke about the money, saying it was so much he almost scrupled at it, but all in the kindest way, and sending thanks to mamma for her interest in the matter, and it ended in his saying, ‘I suppose I am joint heir with the heir of Redclyffe,’ which delights mamma particularly.
+
+He has the price of the old ship ready towards the new, and good hopes of doing it; indeed he said he had never known what it was to want, though he had often not known whence the supplies would come.
+
+At the evening meeting he told more anecdotes, all Maori history, and some Maori stories, and the like, and at 9 1/2 it was over.
+
+Anne, [Mr.
+
+Wither](../persons.html#1544), and I came home, and there was [mamma](../persons.html#1606) quite ready for our news.
+
+We feel much as if we had been to a ball, but are off to Hursley at six, hoping to see more of Mrs.
+
+Selwyn and Johnnie.
+
+You shall have a supplement on the subject perhaps to-morrow.
+
+Mr.
+
+Keble sent us a beautiful letter to read from [Colonel Wilbraham](../persons.html#1515), telling of the service [Julian](../persons.html#1624) mentioned.
+
+It was in the hall of a Turkish barrack, a deal table for an altar, great numbers of officers present, and as they had no benches, all stood till the confession, and then at the kneeling the clank of so many swords on the floor was, he said, a very impressive sound.
+
+Full half the Rifle officers were there. I am glad he goes in the same division; it is so pleasant to get his side news of Julian, besides the value of such a friend.
+
+He has had much talk with Greeks and Greek clergy, and finds them quite against the Russians, because of[ Nicholas](../persons.html#1085)' usurping authority over the Church.[^8] One old priest showed him his church and school, and was delighted to see his little Greek Testament, and compare it with his great book in church.
+
+They are all gone to Varna now, and perhaps on to relieve Silistria. I fear it will be long before we can have other letters.
+
+Your most affectionate
+C. M. Y.
+
+[^1]: The Bishop of New Zealand, George Augustus Selwyn (1809-1878).
+
+[^2]: The implication is that Dyson’s pupils had attended the service.
+
+Caroline Harriet (Palmer) Abraham (d.1877), wife of another New Zealand missionary, the Rev.
+
+Charles John Abraham (1814-1903).
+
+[^3]: There are some inaccurate accounts of Yonge\'s charitable donations to the Melanesian Mission.
+
+This sum of £146: 10s, profits from [The Heir of Redclyffe](../books.html#15), provided part of the purchase price of the Southern Cross.
+
+Later Yonge gave the profits from The Daisy Chain to the mission, which paid them an annual income, and which became a specific bequest in her will.
+
+Another account of this presentation is in [Dulce Domum](../others.html#122) 112-3n.
+
+[^4]: Caroline Wabisane, a native of the island called by Selwyn Nengonè, now New Caledonia, the fiancée of George Siapo (d. 1853) an early convert; she was educated at St.
+
+John\'s College and christened after Mrs Abraham; following Siapo\'s premature death she married a Maori named Simeona: Life of John Coleridge Patteson I, 196, 284.
+
+[^5]: Mary Anne (1805/6-1884) and [Louisa Catherine Palmer](../persons.html#1131) (d. 1868) were sisters of Caroline Harriet Abraham and daughters of Sir Charles Thomas Palmer, 2nd Bt..; they were also first cousins to Mrs Selwyn.
+
+[^6]: Mary Ann Moberly had recently given birth to her fifteenth and youngest child.
+
+Nonetheless, this is perhaps an implied criticism of her relationship with her children, which was (reading between the lines of Dulce Domum) rather distant.
+
+The Moberlys rented a farm in Hursley parish for the summer holidays, and the \'farm children\' are probably the younger ones, whom Mrs Moberly would not have seen for some days.
+
+[^7]: \'Miss Croker\' might be a mistranscription by Coleridge of \'[Miss Crokat](../persons.html#1711)\', sister of Mary Ann Moberly.
+
+[^8]: The significance of this point is explained by the colonel\'s sister Frances Wilbraham in her contribution to [Musings over the Christian Year](../books.html#88), lxix.
+
+Keble disliked the Crimean War, in which CMY\'s brother Julian was fighting: \'It grieved him sorely that England should have been compelled to league herself with a Mahometan power against another Christian nation.\'
+

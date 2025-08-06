@@ -1,0 +1,32 @@
+---
+date: '1886-11-12'
+display-date: November 12. [1886]
+from-address: 'Elderfield, '
+manuscript-location: MS location unknown.  Printed in Coleridge, [[otherbook:40]<i>Life</i>],
+  306.
+original-date: '2011-09-30 10:53:36'
+title: To Elizabeth Barnett
+wordpress-id: 2845
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Lizzie](../persons.html#113)-
+. . .
+
+Yes, I saw the [Spectator](../others.html#180) on [Chantry House](../books.html#186), but indeed I did not put in the ghost for the sake of variety or sensation, but to work out my own belief and theory. I could tell you things I quite believe that chime with it.
+
+One I must tell, not that it is a ghost probably, it is so curious.
+
+The poor people in the Torquay outskirts think a thing walks in the few remaining woods of the Abbey which they call a Widdrington.[^1] Now [Miss Roberts](../persons.html#1244) has hunted up that the last Abbot was accused before Henry VIII. of having murdered a monk named Widdrington, whom however he produced safe and sound.
+
+Don't you think the live man must have been seen after he was thought dead and so left his name? -
+Your most affectionate
+C. M. YONGE.
+
+[^1]: Christabel Coleridge, who lived many years in Torquay, commented ‘I have never come across this belief.’ A similar story is told of a fourteenth-century abbot by J. T.
+
+White, History of Torquay (1878), 26, but the allegedly murdered man\'s name was Hastings.
+

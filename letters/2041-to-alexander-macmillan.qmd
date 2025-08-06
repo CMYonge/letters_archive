@@ -1,0 +1,44 @@
+---
+date: '1865-06-06'
+display-date: June 6th 1865
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54920: 92-93 '
+original-date: '2010-05-26 11:33:52'
+title: To Alexander Macmillan
+wordpress-id: 2041
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Macmillan](../persons.html#939),
+You are very kind about the undertaking, and I certainly should much regret giving it up, if those very capricious things ideas can be brought into accordance with the plan.
+
+But if it will not disturb your arrangements very much, I think I had better look to its completion for the autumn of 1866, rather than the autumn of 1865. I never have quite so much time in the summer, or rather the time I have is apt to be broken up by friends in the house, and all the enjoyments that country summers bring, and it gets frittered into little pieces, serviceable chiefly for re-writings or scrappy things.
+
+The [Golden Deeds](../books.html#51) being all fragments could be done very well in such a summer, but I should like to simmer on the present work till the quiet time I hope for in the autumn.
+I am going to spend September at my [uncle](../persons.html#1623)’s in Devonshire, and I do not look to being able to do settled work that takes much head till I come home. I should like to leave [Bethlehem](../others.html#177) alone till then,[^1] and mean time clear out of its way the [Dove in the Eagle’s Nest](../books.html#62), and all the small matters that if not done before hand take up and dissipate one’s mind from the main matter in hand, as perhaps they have been doing now.
+
+Meantime I will read, think, over what I have done, and try to work it better and closer together when I return to it.
+
+This will make some delay, but I think it will turn out better in the end.
+
+No, I did not by any means think you wished me to make cradle songs. I understood it as meaning wrought up descriptive meditation but I am afraid meditation is less my line than narrative, and some bits of descriptive narrative I have quite in my head - but I think time is wanting to bring them right.
+
+This little book certainly does interfere with our name, I generally find that when I have written half through, a book will name itself and it might be so with this.
+
+The Child of the Promise has come into my head at this moment as nearest to the mark, but very likely something better may be thought of. I have gone over the corrections of the first chapter, and certainly mine dealt too much in very short sentences. I think that the whole book ought to be written and kneaded up together, and that first chapter, when one was thoroughly imbued with its spirit. I have been interrupted and could not write till today.
+
+Thank you for Stanley’s Sermons. I will read and go well into his Bethlehem.
+
+How beautiful the illustrations are in Mr Murray’s New Testament, which I have just got.
+
+There is much to be studied out of them.
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: In fact CMY never returned to the Bethlehem project.
+

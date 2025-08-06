@@ -1,0 +1,33 @@
+---
+date: '1849-06-01'
+display-date: '[June 1849[[footnote:1]]]'
+from-address: ''
+manuscript-location: MS location unknown.  This fragment printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  159
+original-date: '2010-03-19 10:13:14'
+title: To Mary Anne Dyson
+wordpress-id: 2963
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+I send a [Château de Melville](../books.html#1), and if you do not stick fast in it I should be amused to hear if you can identify the people with the Magnanimous Mohuns[^2] in their youth, that is to say, tell which is the origin of which. I have a most funny series of MSS. connecting them, which my executors may hereafter publish as a curious piece of literary history- I don’t mean that I keep them for the purpose, only they are so comical that I cannot find it in my heart to throw them away, such absurd pieces of advice as the old people do give! and the pathetic parts so ridiculous.[^3] You will meet with the origin of Ben and Philip there.[^4] What exquisite weather!
+
+Wish for it to last till after St.
+
+Peter, when we are to have a grand picnicking with all the Hursley public at Merdon Castle, fifteen or sixteen[ Winchester](../others.html#50) boys to go home in an omnibus. I think I deserve a good long letter as a reward for this one.
+
+Don’t you long to see [Prince Rupert](../others.html#175)?
+
+[^1]: The reference to St.
+
+Peter’s Day (30 June) suggests the month, and the reference to Prince Rupert the year.
+
+[^2]: The point is that the Mohun family in [Scenes and Characters](../others.html#3) (1847) are descendants of the characters in Le Château de Melville (1838).
+
+[^3]: CRC’s note: ‘not in existence’.
+
+[^4]: The fourth story in ‘[Langley School](../books.html#9) (1850), which originally appeared in the [Magazine for the Young](../others.html#79) (December 1846).
+

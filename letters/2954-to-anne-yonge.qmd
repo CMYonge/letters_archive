@@ -1,0 +1,29 @@
+---
+date: '1845-10-01'
+display-date: '[?October ?November 1845]'
+from-address: ''
+manuscript-location: 'MS [fragment]  West Devon Record Office Acc No 308: Oct/Nov/45'
+original-date: '2010-03-16 14:58:26'
+title: To Anne Yonge
+wordpress-id: 2954
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[To [Anne Yonge](../persons.html#1582) I send you the Lichfield children[^1] What the [Christian Remembrancer](../others.html#59) says of the Birthday[^2] is that it is too transparently instructive, and I must write out a little bit which exactly expresses what I was always trying to say to you. ‘The Conversation of the well informed man, whose words flow on because his mind impels them is more valuable in hours of relaxation than the set lecture composed to meet the comprehension of the audience
+‘There is much that we can learn only by direct work, by consecutive thought and laborious investigation; there is also much that we can learn; almost unconsciously, by the ever changing flow of events, by the thousand little circumstances which scarce attract our notice at the time, and retain no place in our memory afterwards, but which have contributed, almost without our knowledge, each by its own slight and silent impression upon to change and mould our character This latter kind may be gained, perhaps even better, by the indirect instruction of tale or song.
+
+The one can scarcely be conveyed in any other form than that of the direct lecture, the other is more widely impressed on us by the exhibition of life and action- It is in short an effort to enable the young to evade the necessity of actual trial, and make the experience of others their own, not by a mere acceptance of its results (a process almost proverbially impossible) but by a safe, because a mimic passage through the fiery ordeal.’
+[Mamma](../persons.html#1606) is immersed in accounts; she desires her thanks for [Mary](../persons.html#1626)’s letter and her love to [Jane](../persons.html#1616), and mine also If it is not over weight I will put in a patch for [Frances](../persons.html#1605)[^3]
+[no signature]
+
+[^1]: The reference is not clear, but it may perhaps have been to a sketch or print of a sculpture of two children by Francis Chantrey in Lichfield Cathedral, or to a poem, which CMY was later to make the epigraph to [The Daisy Chain](../books.html#24), Chapter 14, entitled ‘Lines on a monument at Lichfield’.
+
+[^2]: [The Birthday: A Tale for the Young](../others.html#84) (1844), an anonymous work by Lady Harriet Howard, was reviewed just after Abbeychurch in ‘Books for the Young’Christian Remembrancer 10 (October 1845) 377-407.
+
+The words ‘too transparently instructive’ appear on p. 391; the passage quoted with a few omissions here is part of a summing up on page 407.
+
+[^3]: Anne\'s sisters.
+

@@ -1,0 +1,25 @@
+---
+date: '1871-08-01'
+display-date: Aug 1st [?1871]
+from-address: Elderfield, Otterbourne, Winchester
+manuscript-location: MS New York Public Library, De Coursey Fales Collection/3
+original-date: '2011-06-08 15:40:16'
+title: To an Unknown Woman
+wordpress-id: 2413
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam,
+The Daisy Chain cot in which I am specially interested is in the [Belgravian Children’s Hospital ](../others.html#17) 1 Cumberland Street Belgrave Square[^1] Anything addressed to [Miss Munro](../persons.html#2272) - at this direction, for the inmates will be gratefully accepted The [Children’s Hospital at Great Ormond Street](../others.html#3) has two [Aunt Judy](../others.html#54) cots which seem to be always well supplied
+With many thanks
+
+yours truly
+
+C M Yonge
+A little girl from this place was for two months at the Belgravian Hospital and was extremely happy
+
+[^1]: An appeal for a Daisy Chain cot to be founded at Cumberland Street Children’s Hospital appeared in MP (1 January 1871) 92-5.
+

@@ -1,0 +1,19 @@
+---
+date: '1869-09-02'
+display-date: Sept 2nd [1869]
+from-address: Testwood
+manuscript-location: 'MS British Library Add MSS 54920: 232'
+original-date: '2010-06-23 10:33:32'
+title: "To Messrs Macmillan\t\t\t"
+wordpress-id: 2337
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Miss Yonge would be much obliged if [Messrs Macmillan](../others.html#111) would send three copies of the [Heir of Redclyffe](../books.html#15) directed to
+[Miss Buffham](../persons.html#2048)
+[Miss Sturges Bourne](../persons.html#1379)’s
+Testwood
+Southampton

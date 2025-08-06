@@ -1,0 +1,25 @@
+---
+date: '1868-03-04'
+display-date: March 4 1868
+from-address: ''
+manuscript-location: 'Copy outletter book British Library Add MSS.55388 (1): P.88'
+original-date: '2010-06-15 11:04:03'
+title: Alexander Macmillan to Charlotte Mary Yonge
+wordpress-id: 2236
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Miss Yonge,
+We shall soon be out with the [Cameos](../books.html#73).
+
+It has occurred to me that we ought to put the period over which the narratives extend, on the title page.
+
+Will you kindly add it to the enclosed proof.
+
+Yours very truly
+[A.
+
+Macmillan](../persons.html#939)

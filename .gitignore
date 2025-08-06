@@ -1,0 +1,105 @@
+# Quarto generated files
+_site/
+_book/
+.quarto/
+
+# R/RStudio files
+.Rproj.user/
+*.Rproj
+.RData
+.Rhistory
+.Rapp.history
+.httr-oauth
+
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-workspace
+.sublime-project
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.aux
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.toc
+*.vrb
+*.bbl
+*.blg
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Archive files
+*.zip
+*.tar.gz
+*.7z
+*.rar
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Cache directories
+.cache/
+.parcel-cache/
+
+# Build artifacts
+dist/
+build/
+
+# Documentation builds (if using other doc generators)
+docs/_build/
+site/
+
+# Local development
+.local/
+
+/.quarto/

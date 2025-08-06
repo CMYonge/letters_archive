@@ -1,0 +1,32 @@
+---
+date: '1859-03-09'
+display-date: 'Ash Wednesday [9 March 1859] '
+from-address: Otterbourn
+manuscript-location: 'MS Hampshire Record Office: Sturges Bourne Collection: 9M55
+  F55 1p2'
+original-date: '2010-04-28 13:17:16'
+title: To Anne Sturges Bourne
+wordpress-id: 3125
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Bourne](../persons.html#1379),
+Our difficulties are so far lessened that the married servant I mentioned once to you can come for a few months to teach both house and kitchen work, so I do not think we shall take a laundress unless some very splendid ready made article should turn up, as we do not want to have too many people about, & hope to keep [Mrs Attwood](../persons.html#75) till after June, for the sake of experience & sick cookery.
+[Frances](../persons.html#1604) is very well & strong so I daresay it will go very well In the mean time there are great alterations, as the march of luxury prevents modern babies from living as [Julian](../persons.html#1624) and I did.[^1]
+I am afraid the dirt was the part that was literally true of [the Paul here](../books.html#36) - in fact, with Wm Smith always abusing him, & putting forward the shoe transaction, it was not till quite the end of his stay that [Mr Wither](../persons.html#1544) perceived how good a boy he was, rather from the reports of the other boys than what he saw of him, and the washing & dressing were exactly the main facts.
+I suppose it was so with Mr Cope - and I don’t think either that Mr Cope any power with Lady Jane - who held him as elderly ladies often do youthful curates - especially considering little Miss Jane.
+I always feel it fair to say that I have treated poor ‘Farmer Willum’, as the people call him rather as [Miss Brontë ](../persons.html#1810)did the Yorkshire school, he was hard, but not so hard and the eggs, though truly made the accusation, were the excuse in spring not autumn.
+
+Another thing made it impossible to help him, his odd proud independence which spurned gifts & even a supper at Mr Wither’s. I should not have believed in him if he had been in a book. [East London](../others.html#265) is by a [clergyman’s daughter](../persons.html#263) there, real experiences. [Miss Taylor](../persons.html#1397) has been ill and I fear will not do much more though she hopes to finish [the oak](../others.html#162). I send a trilobite explained by a lecture at [Winchester College](../others.html#50), & an edifying monster he was - if ever I do the crustacea it will be nice to get him, I am glad the Salsburgs do not come only 1 year apart.
+
+Remember us if a nurse turns up - we are afraid of a great lady.
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: CMY\'s sister-in-law Frances Yonge was expecting a baby, William Coulthard Yonge (September-November 1859).
+

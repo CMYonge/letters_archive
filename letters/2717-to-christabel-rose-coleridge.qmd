@@ -1,0 +1,48 @@
+---
+date: '1881-02-13'
+display-date: Feb 13th 1881
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Mrs Clare Roels
+original-date: '2011-09-14 15:14:34'
+title: To Christabel Rose Coleridge
+wordpress-id: 2717
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+I heard of both your troubles from [Mary Lund](../persons.html#907), [Miss Finlaison](../persons.html#512)’s scholar whose [brother](../persons.html#908) is with [Ernest](../persons.html#336), but I much doubted where you were.[^1] I dare say your coming home made a change that was good and refreshing to all.
+
+It was sad indeed to lose [this second boy](../persons.html#342), after all the sorrow for the [first](../persons.html#342) I hope [the little girl](../persons.html#346) is strong.[^2]
+The Squire has spread happily into three volumes.
+
+Miss Ingelow is doubtless provoking in making the mother open her heart to both the children.[^3] I have meditated long on yours, and have come to the conclusion that both being born in consequence of the same overturn was awkward, and I think it would have been better to have made the visitor arrive first as the other lady was ‘took bad’.
+
+Happily mixtures cant often happen it is so hard to bring them about! [Money Spinner](../persons.html#958) has done a delightful fancy work conversation with Julia &c in it[^4]
+your affectionate
+
+C M Yonge
+Monday.
+
+Can you think of any clergyman who could come at once and help [Mr Elgie](../persons.html#478) for a few weeks lodging at the school masters.
+
+Confirmation classes and Lent and all his music and he is vexing himself much. I thought it just possible a St Johns curate might be disengaged.
+
+What a misfortune that was in Torquay.
+
+[^1]: Mary Lund, aged 16 in the 1881 census, was the oldest boarder at Miss Finlaison’s school.
+
+Her brother, aged 17, is recorded as one of the 6 boarders at the home of Christabel\'s brother Ernest Coleridge.
+
+[^2]: The Ernest Coleridges had just lost their second son John Derwent Coleridge (26 May 1880-23 January 1881), following the death of his elder brother Thomas Drake Coleridge (18 February-2 July 1877), but still had a daughter, Margaret Eulalia Coleridge (1878-1960).
+
+The other trouble was probably the death of Christabel and Ernest\'s n\'er do well brother Derwent in Sydney, N.S.W. on 5 December 1880.
+
+[^3]: This seems to be an allusion to Jean Ingelow\'s novel Don John (1881).
+
+[^4]: One of the [Spider](../others.html#116) subjects for December 1880 (published in MP January 1881) was ‘The pros and cons of fancy work’.
+
+The answer given by Money Spinner (Miss Marriott) was printed in MP 3s 1 (March 1881) 305-8.
+

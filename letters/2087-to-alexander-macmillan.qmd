@@ -1,0 +1,30 @@
+---
+date: '1865-12-19'
+display-date: Decr 19th [1865]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54920: 126-7 '
+original-date: '2010-06-05 11:20:26'
+title: "To Alexander Macmillan\t\t\t"
+wordpress-id: 2087
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939),
+I shall be very glad to mark off the chapters that would suit best for the school abridgement of [Golden Deeds](../books.html#51).
+
+Having tried some on my own school children I can do it the better. I should fancy the reading book [Mr Lea](../persons.html#853) proposes to be something of what [Dr Vaughan](../persons.html#1439) was about, and I also know a lady who I believe has one in hand.
+
+Tell me how soon you would like to have a selection made, and also how many chapters would suit your purposes. I don’t think one could find many very striking money Golden Deeds.
+
+Perhaps Mr Budgett’s throwing all his adulterated pepper and sugar into the Bristol Channel is the best on record.[^1] There is a curious story in Lady Pomfret’s letters of a man who made restitution of Church Property. I looked it out for the Golden Deeds but the motives would not have been enough understood.
+
+Yours sincerely
+
+C M Yonge
+Many thanks for Mr Lea’s pamphlet. I am just going to read it, I have not heard of Meltrai for a long time.
+
+[^1]: Samuel Budgett (1794–1851), the subject of the bestselling biography by William Arthur, The Successful Merchant (London 1852).
+

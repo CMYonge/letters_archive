@@ -1,0 +1,27 @@
+---
+date: '1861-03-02'
+display-date: March 2nd 1861
+from-address: Otterbourne, Winchester.
+manuscript-location: 'MS Westcountry Studies Library, Exeter/ 1861/1 '
+original-date: '2010-05-07 13:38:29'
+title: To Ann Maria Carter Smith
+wordpress-id: 1820
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Smith](../persons.html#263)
+I did not write yesterday because the parcel was not come, but it is here all safe this morning though I can only testify to the beautiful clear MS as yet.
+
+It was rather over weight, which perhaps was the reason of the delay. I think it is possible this may account for the lamented loss of the Wynnes, as the post will not convey things beyond a certain amount overweight. I once nearly lost all the [Packet](../others.html#52) proofs that way, the stamp having fallen off, but luckily there was a direction inside, so they wrote to me and I redeemed it. I have sent your first two chapters to Derby to be printed, though I don’t much think there will be space in April, as the Easter story must come in then It was that sent me by [Mrs Carr](../persons.html#259) about whom you wrote to me, and whose [friend](../persons.html#1259) seems to be a mine of Russian curiosities.
+
+Do you know anything about evening sewing classes - a lady wants counsel in the notices to correspondents in the M P upon setting one up, and as I know nothing myself, I shall be grateful for any experience you can give or direct me to. I sent Aggesden to a friend in America who likes it very much as also the Wynnes.
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Envelope addressed to Miss Ann (paper torn)/ Rectory/ Old Charlton/ SE and postmarked Winchester and London SE 4 March 1861.
+

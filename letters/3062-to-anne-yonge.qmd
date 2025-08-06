@@ -1,0 +1,42 @@
+---
+date: '1855-03-23'
+display-date: Friday [23 March 1855]
+from-address: Otterbourn
+manuscript-location: MS West Devon Record Office Acc 1092/12
+original-date: '2010-04-21 08:40:00'
+title: To Anne Yonge
+wordpress-id: 3062
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Anne](../persons.html#1582)
+I must write a word or two before Church. I do not think I dared to expect better than this, and I do hope that at least the suffering is not what it was the day before.[^1] It is the Cross at least, and she has been bearing it so in patience and meekness all her days that one thinks of her as one made meet. I am glad that [Alethea](../persons.html#27) is coming to you. I think I am relieved that the violent attack did not come at the periodical time, and that it does seem gentler now.
+
+But I don’t know how to write. [Mamma](../persons.html#1606) is well, and liked hearing the N Z journals.
+
+The Selwyns left Hursley too early to be seen, so the Miss Palmers went to meet them at Winchester at 9.25. [Mrs Keble](../persons.html#795) was well enough to enjoy her evening with them.
+
+They went to the Moberlys, & the [Bishop](../persons.html#1295) took 9 of the little hands together in his, & blessed them – it was all the young ones except [the baby](../persons.html#1026) and [Margaret](../persons.html#83), who was afraid.
+
+The [Wigram](../others.html#157)s pay all the expenses of the Southern Cross till she or such another reach NZ.[^3] I say all this because you may be able to care to read it, otherwise it will not trouble you.
+I have one of those 4 sermons of the Bishop from himself.
+
+Our good old friend [Mrs Heathcote](../persons.html#658) died this morning.[^2] She had had some sleepless nights, and [Mr Wither](../persons.html#1544) thought her failing when he saw her yesterday but she was in better spirits & asked him to send her a fast day service, as they had missed having any at the Park. I do not think Mamma is knocking up.
+
+She & [Julian](../persons.html#1624) have been looking over the boxes of papers almost all day.
+
+Goodbye my dear Anne. I can only pray for you all.
+your most affectionate
+CMY
+
+[^1]: Anne was nursing her sister [Jane Duke Yonge](../persons.html#1616) (1820/1-27 March 1855).
+
+[^2]: Elizabeth (Bigg) Heathcote (1773-23 March 1855), Sir William’s mother.
+
+[^3]: Messrs.
+
+Wigram were the shipbuilders who had built the missionary ship, the Southern Cross.
+

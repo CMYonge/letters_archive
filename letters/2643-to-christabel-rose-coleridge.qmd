@@ -1,0 +1,26 @@
+---
+date: '1878-09-23'
+display-date: Sept 23 rd 1878
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Mrs Clare Roels
+original-date: '2011-09-08 11:25:48'
+title: To Christabel Rose Coleridge
+wordpress-id: 2643
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+
+I do not think I have ever answered you about Cherry, but I have had my cousin [Duke Yonge](../persons.html#1599) here, and then a fierce Saturday of harvest decorations which raged from morn till dewy eve and by means of bulrushes, berries wheat, and those arching grasses at whose gathering I think you assisted turned out well.[^1] I begin to think now that I did write, but I cant make sure, and so I go on to say that I shall welcome Cherry after Heriots choice and all the more if you can cut Ruth down.
+
+Are you looking for a curate, for there is rather a good Irish friend of [Miss Finlaison](../persons.html#512)s a Mr Arthur Young going to leave Alresford for the odd reason that the old Rector does not like his doing so much in the schools.
+
+your affectionate
+
+C M Yonge
+
+[^1]: CMY was offering to serialize Coleridge\'s novel An English Squire in MP in succession to Rosa Nouchette Carey\'s Heriot\'s Choice.
+

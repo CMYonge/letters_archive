@@ -1,0 +1,31 @@
+---
+date: '1863-10-29'
+display-date: Oct 29th [1863]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1863/7
+original-date: '2010-05-19 09:53:49'
+title: "To Ann Maria Carter Smith\t\t\t"
+wordpress-id: 1911
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Smith](../persons.html#263)
+I have kept your French journal a terrible time, and I am sorry to say I cannot get it in after all.
+
+It is rather too much trodden ground, and even you cannot make it new enough. I think you will soon get a huge piece of the Banks of the Thorne to finish them with the year if possible, and then we begin on our new principles. I hope the enclosed yellow paper[^2] will attract subscribers. I have been getting the attempt made, and the [Editor](../persons.html#1073) will I think manage it very well, as a sort of [newspaper magazine](../others.html#69), to be safe to let schoolroom girls read.
+
+If you can contribute any descriptions of great popular days like some you have sometimes sent me it will be very grateful
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Envelope addressed to Miss Smith/ 8 Wellington Road/ Old Charlton/ SE and postmarked Winchester 29 October 1863 and London SE 30 October 1863.
+
+[^2]: The envelope for this letter also contains a single sheet of yellow paper printed on both sides with an advertisement for “Events of the Month: A Magazine of News, Literature, Science, and General Information; Designed for Youthful Readers to be published by John and Charles Mozley, starting January 1st, 1864.
+
+Price sixpence.” It was edited by Henrietta Murray and ran from Jan. 1864 to Jan. . 1865. CMY later described it to Macmillan (3 June 1864) as “a sort of school room Athenaeum”, and tried unsuccessfully to get him to take it over when the Mozleys abandoned it.(see Macmillan to CMY 17 January 1865).
+

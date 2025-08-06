@@ -1,0 +1,38 @@
+---
+date: '1853-01-01'
+display-date: '1853'
+from-address: Otterbourne
+manuscript-location: MS location unknown.  Printed in Coleridge, <i>Life</i> 189-9
+original-date: '2010-03-24 14:44:10'
+title: To Mary Anne Dyson
+wordpress-id: 3019
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Marianne](../persons.html#464)
+That Bild-worship question is, as you know, a puzzle to me; I am not quite sure that Dorothea[^1] is an exemplification of it, because her Bilds were not so much Bilds as human attachments.
+
+Mr.
+
+Llewellyn was her lover, and it was marrying love she had for him; on Owen she fastened herself with something of maternal spoiling; her real reliance was on Bertram Charlecote, and he died instead of disappointing her. I believe she put her trust for happiness rather than for guidance, and I suspect it was idols rather than popes that she made, the true genuine safe confidence in Bertram being a different and soberer thing than her feeling for either of the Llewellyns.
+
+Of course, example and all we are told about it shows that, to a certain extent, Bilds are right, but somehow, whether it may be coldness or self-sufficiency I don't know; I don't think I go as far in it as you do in theory. I know women have a tendency that way, and it frightens me, because the most sensible and strong-minded are liable to be led astray; but I do not think it is such an order of nature as to make it a thing to be preached against and struggled against. I always remember one of [Dr.
+
+Pusey](../persons.html#1215)'s letters that speaks of the desire for guidance, a good thing in itself, turning to be a temptation. I am very much afraid of live Bilds; you say, what makes you safe, have a standard external to your Bild, and do not make the Bild the standard, but I think considering the way of womenkind, that should be the prominent maxim, not only the qualifying one.
+
+You being strong and sensible yourself, the Bild worship has done you no harm, but for women with less soundness, to carry it as far as you do would be dangerous: I believe that is the mind of your impertinent Slave.
+
+The holy saving example in living people is what I fully recognise as you spoke of it, and I think you will see it in what Dorothea is to Lucy, or what [Guy](../books.html#15) was to Charles, but there I think it ought to stop, and pope-making be treated in different degrees as silly, melancholy, or wrong, an infirmity.
+I fancy all this is very arrogant, especially as I really do not know how far a woman's strength of sense and discrimination goes, and have no certainty of not going off headlong into something very foolish, fancying it right. I don't think I could while I have [papa](../persons.html#1631) to steady me, but I don't hold that as worship, first because he is my father, and second because I don't think he is my pope.
+
+Whether I have said what I mean I don't know.
+your most affectionate
+C. M.
+
+Yonge
+
+[^1]: The heroine of the book published in 1860 as [Hopes and Fears, or, Scenes from the Life of a Spinster](../books.html#37) and there renamed Honor.
+

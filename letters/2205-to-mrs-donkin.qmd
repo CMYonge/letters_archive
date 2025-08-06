@@ -1,0 +1,29 @@
+---
+date: '1867-08-16'
+display-date: Aug 16th [1867]
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: 'MS Historical Society of Pennsylvania: Gratz Collection: Case
+  10, Box 36. British Authors '
+original-date: '2010-06-13 09:03:55'
+title: To Mrs Donkin
+wordpress-id: 2205
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mrs Donkin](../persons.html#441),
+As soon as may be I will get the Summer Vacation sent to the press, but it cannot be before October at soonest that I send it - as all these remarkable events have thrown other M S back. I have a Naval Review just come, to complete the series you began.
+
+By the by, it was a Woolwich cadet’s uniform that [prince Arthur](../persons.html#1997) wore - as the [daughter](../persons.html#1520) of the late [commandant](../persons.html#1521) specially begged me to observe. I wonder whether the Prince will criticise it too.
+I was not sure enough where you were to send you the proofs, as there was no time to spend in their wanderings
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Unidentified.
+
+[^3]: ‘The naval review’, by A sailor’s daughter, had appeared in MP in September.
+

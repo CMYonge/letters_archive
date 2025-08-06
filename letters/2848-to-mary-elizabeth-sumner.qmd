@@ -1,0 +1,23 @@
+---
+date: '1887-01-10'
+display-date: Jan 10th 1887
+from-address: Elderfield Otterbourne Winchester.
+manuscript-location: MS Trinity College, Cambridge Cullum Q81
+original-date: '2011-09-30 11:06:03'
+title: To Mary Elizabeth Sumner
+wordpress-id: 2848
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mrs Sumner](../persons.html#1381)
+I shall be very happy to come to luncheon on Thursday Please do not wait for me if I am a few minutes late for I shall not be able to set off till 12.30, and the roads may be as bad as they are today!
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Envelope addressed to Mrs Sumner/ The Close/ Winchester and postmarked Winchester 10 January 1887.
+

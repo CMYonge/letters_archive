@@ -1,0 +1,25 @@
+---
+date: '1888-03-14'
+display-date: March 14th 1888
+from-address: Elderfield
+manuscript-location: 'MS UCLA: collection 100: box 95'
+original-date: '2011-10-03 20:47:47'
+title: To Anna Butler?
+wordpress-id: 2877
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Butler](../persons.html#237)
+I am afraid that there would not be good room for your paper till the end of the year—I mean Jany 1889. I agree with you that those old letters are full of deep interest, and such curiously unexpected traits come out in them.
+
+You will see in a note in the next [Monthly Packet](../others.html#52) a very odd thing just disinterred out of some papers of my great-great-great grandfather about a tradition of Becket.[^1]
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: In a [note](../books.html#277) signed by C.M.Y. appended to \'The Canterbury Relics\' in MP 3s 15 (April 1888) 368, she quotes from the diary of James Yonge (1647-1721) his seeing a dark line of corn in a field which was supposed to mark a path taken by Thomas à Becket.
+

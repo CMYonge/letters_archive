@@ -1,0 +1,32 @@
+---
+date: '1884-02-09'
+display-date: Feb 9th 1884
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS UCLA: collection 100: box 95'
+original-date: '2011-09-21 15:49:27'
+title: To Louisa Jane Bennett?
+wordpress-id: 2786
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Miss Bennett[^1]
+The work on the retable is all right, but as the stuff is of the same length as the superfrontal it also wants taking in at the corners.
+
+Of course we could do this at home and I am not sure that I should have sent it, but I desired the Altar cloth to be packed and both sent together.
+
+So perhaps it would be best to take it in a little, for it looks untidy as it is.
+I am very sorry to have given all this trouble.
+
+Our Altar is a small one and cannot be made larger because of the place into which it fits.
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Perhaps [Louisa Jane Bennett](../persons.html#2356), Hon.
+
+Lady Superintendent of the Wimbledon Art College for Ladies, in whose activities the MP consistently took an interest during the 1880s.
+

@@ -1,0 +1,29 @@
+---
+date: '1883-10-01'
+display-date: Oct 1st 1883
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e 86.'
+original-date: '2011-09-21 12:01:23'
+title: To the Reverend Charles Moor
+wordpress-id: 2779
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Charles](../persons.html#1043),
+I think I can let you have a story called Burrs, about choir boys if you like to have it.
+
+It will be published as part of a volume called [Langley Adventures](../books.html#163) about Christmas but you will have the start
+
+Yours truly
+
+C M Yonge
+
+[^1]: Envelope addressed to ‘The Revd/ C Moor/Grimsby/ Lincolnshire’ and postmarked Winchester 1 October 1883.
+
+Charles Moor (b. 1857/8) was the son of the Rev.
+
+John Frewen Moor, and was perhaps running a parish magazine.
+

@@ -1,0 +1,26 @@
+---
+date: '1863-11-25'
+display-date: 'Nov: 25. 1863'
+from-address: ''
+manuscript-location: Copy outletter book British Library Add MSS.55381 (2) p. 671
+original-date: '2010-05-19 13:50:07'
+title: Alexander Macmillan to Charlotte Mary Yonge
+wordpress-id: 1918
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam,		
+[I](../persons.html#939) am almost certain to be free any day next week, and shall be glad to see your [brother](../persons.html#1624) any time from 11 till 5 that he may mention.
+
+The only chance is I may be called to Oxford one day next week & do not in the least know which day.
+
+So if your brother would kind[ly] name one, with another as an alternative, I will let him know the moment I learn in case the one he [illegible] should be the one on which I am to be away
+I am, dear Madam,
+Very respectfully yours
+Alex.
+
+Macmillan
+Miss Yonge Elderfield Otterbourne Winchester

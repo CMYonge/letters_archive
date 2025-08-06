@@ -1,0 +1,28 @@
+---
+date: '1864-05-07'
+display-date: May 7th [1864]
+from-address: ''
+manuscript-location: 'MS British Library Add MSS 54920: 25'
+original-date: '2010-05-21 14:20:00'
+title: "To Alexander Macmillan\t\t"
+wordpress-id: 1953
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939),
+I should be much obliged if you would send a copy of [the Trial](../books.html#53) to [M.
+
+Guizot](../persons.html#597)’s daughter
+[Madame de Witt](../persons.html#423)
+Val Richer
+Lisieux
+Calvados
+France
+as she wishes to translate the book. I believe I sent before the list of copies that I should like to have sent out. I hope the book will appear soon now
+Yours faithfully
+C.M.
+
+Yonge

@@ -1,0 +1,34 @@
+---
+date: '1891-08-20'
+display-date: Aug 20th [1891-3]
+from-address: Elderfield Otterbourne
+manuscript-location: MS Rosemary, Viscountess Chaplin
+original-date: '2010-03-04 13:04:09'
+title: To Miss Cox
+wordpress-id: 3608
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Miss Cox](../persons.html#1642)
+I cannot promise to vote for [Anne Fay](../persons.html#1679) but she interests me much, as I have seen a good deal of the same kind of illness and I will see whether it is possible.
+I well remember the days of the Cardioscope, which I think was one of the best ideas [we](../others.html#52) ever had.[^1] I have now a [fellow Editor](../persons.html#329) who has taken the MSS especially of poetry. I think she must have your verses
+
+yours truly
+
+C M Yonge
+
+[^1]: ‘The Cardioscope’ was a series in MP (July-November 1851).
+
+The idea was that an instrument could test the feelings of the human heart as a stethoscope does.
+
+There is a volume of poems, 1887, by Agnes Cox. CMY is evidently being asked to cast a vote in favour of Anne Fay for admission to some hospital or almshouse.
+
+There is a probable contributor called [Harriet Lucy Cox](../persons.html#375) (b.
+
+Waddesdon 1825/6) who later married the Rev.
+
+Arthur Baker (1817-1868) and transcribed books into Braille; it is possible that she may have been the author of ‘The Cardioscope’, and a relation of this Miss Cox.
+

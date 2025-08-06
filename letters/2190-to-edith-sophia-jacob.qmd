@@ -1,0 +1,50 @@
+---
+date: '1867-07-16'
+display-date: 16 July [1867]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Charlotte Mitchell
+original-date: '2010-06-10 17:43:11'
+title: "To Edith Sophia Jacob\t\t\t"
+wordpress-id: 2190
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Edith](../persons.html#749)
+It is a sweet little sad face with the Passion flowers, and we have put it in for Lent.[^1] The last verses of the Lenten hymn far on in the book seem to suit it so well.
+
+Our criticism was that the glory makes rather a strong line against the right, and perhaps next time you come might be a little toned down, but it is after all the mediaeval habit.
+
+The Haughton girl[^2] is come. I have not seen her but she is liked so far at the other house.
+
+We are just going for our last tea drinking at the farm.
+
+Campanella turns out charming, and very original.[^3] I only wish I could put her in sooner.
+
+My [friend](../persons.html#126) is much obliged for being put on the scent of the Prince Consort’s speeches.[^4] She has all but done her [clerical charities](../others.html#190) enough to shew them to [Rivington](../persons.html#1991) as a specimen
+
+yours affectionately
+
+C M Yonge
+I cannot get any particulars of the tea party, but [Miss Thomas](../persons.html#392)’s books are wonderfully horrid. [Mamma](../persons.html#1606) has stuck in one, after observing that [Mr Cudlip](../persons.html#393) will have to begin by teaching her the 3d commandment; and in the one my [uncle](../persons.html#1623) read, & which is here now a clergyman fairly turns sceptic, and quits his profession because a young lady jilts him He was no great loss for at his best, he taught the girls in the village that their sins before their confirmation were the concern of their godfathers and godmothers[^5] [Miss Mackenzie](../persons.html#930) goes to Domum and her [nephew](../persons.html#451) comes to us for that evening. I suppose he must learn some more [illegible][^6]
+
+[^1]: Probably an illustrated card that CMY placed in the hymn book she used regularly.
+
+[^2]: Perhaps the nursery maid referred to in the letter of 12 June 1867.
+
+[^3]: Annotated in another hand ‘(a story sent for the Monthly Packet)’,
+
+[^4]: Annotated in another hand: “(The ‘friend’ & Miss Yonge are doing a book of the Charities of England & I recommended a bit out of one of the Prince’s speeches at ‘Sons of the Clergy’[)]”.
+
+The Corporation of the Sons of the Clergy was a Church of England charity.
+
+[^5]: The sensation novelist Annie Hall Thomas (1836-1918) married in 1867 the Rev.
+
+Pender Hodge Cudlip (1835-1911), who was curate of Yealmpton, near Puslinch.
+
+Other people apart from CMY and her family were scandalized by the fast tone of Annie Thomas’s fiction; she was also very prolific, and had already published Lady Lorme (1863), The Cross of Honour (1863), Denis Donne (1864), Bertie Bray (1864), A Dangerous Secret (1864) Sir Victor’s Choice (1864), On Guard (1865), Theo Leigh (1865), Barry O’ Byrne (1865), Walter Goring (1866), Played Out (1866), and Called to Account (1867), one of which presumably must be the novel described.
+
+[^6]: Domum was a festival at [Winchester College](../others.html#50); Anne Mackenzie, who was staying in Hursley, had evidently asked CMY and her mother to look after her invalid nephew George Dundas (1844-1869).
+

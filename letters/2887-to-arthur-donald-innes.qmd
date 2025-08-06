@@ -1,0 +1,31 @@
+---
+date: '1888-07-01'
+display-date: July 3d [1888]
+from-address: Elderfield
+manuscript-location: MS Girton College Cambridge, Yonge IV 4
+original-date: '2011-10-04 15:06:48'
+title: To Arthur Donald Innes
+wordpress-id: 2887
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear[ Mr Innes](../persons.html#744),
+People are continually writing in the Autumn to ask me to tell them of cheap easy dramas to be acted by their pupils - gentle or simple. I have just had to decline two such plays for the [Packet](../others.html#52) because I do not think they suit in a magazine and I have no room but I do believe that to published them in a very cheap form at so much per dozen copies in good time before Christmas would answer well.
+
+One is Eastern, written for Bible class boys by [Miss Wood](../persons.html#1550), Elmwood, Bromley Road, Beckenham, the same who made the grand pictorial map of Palestine.
+
+It has been acted by them and I know of many people who want such things - If you would write to her she would send it.
+
+The other is drawing room - founded on the White Cat, and is by Miss [Constance Prevost](../persons.html#1207)[^1], Abbey Grange[,] Street, Somerset.
+
+She is a grand-niece of [Mr Keble](../persons.html#798) and of considerable ability
+
+Yours truly
+
+C M Yonge
+
+[^1]: This play was published in Prevost\'s Terra Cotta Plays (1888).
+

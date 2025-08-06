@@ -1,0 +1,26 @@
+---
+date: '1870-08-02'
+display-date: August 2, 1870.
+from-address: 'Elderfield, Otterbourne, Winchester, '
+manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  p.300
+original-date: '2011-03-08 10:08:27'
+title: To Sir William Heathcote, Bt.
+wordpress-id: 2385
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Sir William](../persons.html#669)-
+I hope it is not very presumptuous to follow my impulse of not exactly congratulating you, but expressing my great pleasure in the award of this mark of honour[^1] to you, coming, it seems to me, in an especially gratifying manner, as being so entirely free from all connection with party and at a time when I suppose it cannot be as a matter of course, but as showing how high real merit and desert can stand above politics.
+I do not know whether this is all my ignorance, but the feeling that the tidings gave me could not but long to express itself, more especially when I seem to see again the look of intense happy emotion that it would have brought into [my father](../persons.html#1631)'s eyes.
+
+Forgive me if I have said what I ought not, I really could not help it-
+
+Yours affectionately,
+C. M. YONGE.
+
+[^1]: CRC’s note: He was sworn of the Privy Council.
+

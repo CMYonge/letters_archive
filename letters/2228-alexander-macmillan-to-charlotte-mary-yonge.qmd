@@ -1,0 +1,32 @@
+---
+date: '1868-01-06'
+display-date: Jan. 6. 1868.
+from-address: ''
+manuscript-location: 'Copy outletter book British Library Add MSS.55387 (2): P. 845'
+original-date: '2010-06-14 18:04:35'
+title: Alexander Macmillan to Charlotte Mary Yonge
+wordpress-id: 2228
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Miss Yonge	
+You shall have all the new matter in slips and the old sheets as they were so that the inserting may be all made at once when it is finally settled what these are to be. [I](../persons.html#939) have no doubt the result will be a very satisfactory [volume](../books.html#72) of which we will be proud.
+
+Later down I hope you will get [illegible] your more modern [volume](../books.html#90).[^1]
+In the meantime there is a small point which I would be glad if you would kindly attend to.
+
+It is this: We should have one [illustration](../others.html#167) in each part, and would be glad if we could that the subject should [illegible] but should be in the part.
+
+It does not greatly matter if this turns out impossible with due regard to the exigencies of the story itself.
+
+But if it could be done it might be [illegible] Would you look at the two which I enclose, and also when ready could you write the subject underneath, and the page it faces. I hope this is not too [illegible] to you.
+
+You have no [illegible] of provincial critical ignorance Every [illegible] can do great feats in this way [Rest of letter indecipherable]
+
+[^1]: CMY\'s Pupils of St.
+
+John the Divine was appearing in [Macmillan\'s Sunday Library](../others.html#145) series, to which she later contributed Pioneers and Founders on a more modern topic.
+

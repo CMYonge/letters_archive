@@ -1,0 +1,54 @@
+---
+date: '1896-12-12'
+display-date: December 12, 1896
+from-address: Elderfield
+manuscript-location: MS location unknown.  Printed in Coleridge, [[otherbook:40]<i>Life</i>],
+  315
+original-date: '2010-10-04 13:59:45'
+title: To Edith Emma Knight
+wordpress-id: 3336
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Emma](../persons.html#822)[^1]
+I may write a Sunday letter to say how much it has been to me to read such a record of the good old days of [Nest](../others.html#121), and all the wonderful ‘go’ there was at Wantage.[^2] It was like the sparkling stream, and the clear, still, reflecting pool, both equally pure, but one full of ripples, broken but bright, and the other silent and meditative.
+
+And what a development!
+
+Certainly prayer and grind do turn the wheels! I wish [Dr.
+
+Pusey](../persons.html#1215) could have been done so as to leave a clearer, stronger impression; I am afraid his life does not give a sense of attractiveness, partly from the brunt of the battles so falling on him, and partly from the sadness of his home life.
+
+The Wilsons used to speak of cheerful breakfasts, but how far was that [Mr.
+
+Wilson](../persons.html#1541)'s own cheeriness diffused? I never knew him, only shook hands with him once, at [Mr.
+
+Keble](../persons.html#798)'s [funeral](../others.html#184).
+
+And I don't think he was a judge of character.
+--- told me that ‘one of the most saintly women she knew’ was one of those who could not teach O[ld]. T[estament]. I don't think saintship could exclude full faith!
+
+There is a horrid book, Womanhood in the Old Testament by [Dr.
+
+Horton](../persons.html#716), which I wish [Arthur](../persons.html#238) or somebody would cut up.[^3] It divides the narratives up, as by the J, E, or P writers, and then goes on upon the women, Sarah, Rebekah, and all, as if they were Shakespeare's heroines, patronising and admiring the skill of the author, and finally saying that the book Esther is the same sort of thing as Peter Halkett or Marcella.
+
+Much love to your [aunt](../persons.html#113) and [Mary](../persons.html#242).
+
+The former will be glad to hear that though [Helen](../persons.html#1613) goes home this week, I shall have a nice young cousin here for Christmas.
+
+Your affectionate
+C. M.
+
+Yonge
+
+[^1]: Edith Emma Butler (1851-1936), second surviving daughter of the Butlers, married Lewis Knight.
+
+She lent CMY\'s letters to her aunt Elizabeth Barnett to both Christabel Coleridge and Ethel Romanes for their biographies, but their present whereabouts are unknown.
+
+[^2]: Evidently CMY had been given an advance copy of [Life and Letters of William John Butler](../others.html#26) (London Macmillan 1897), which includes letters from Dean Butler to her, and also a short memoir by her.
+
+[^3]: Coleridge prints ‘Hodder’ but the book must be Robert Forman Horton, Women of the Old Testament: Studies in Womanhood (London: Service and Paton 1897), of which CMY had perhaps received an advance copy.
+

@@ -1,0 +1,38 @@
+---
+date: '1878-03-11'
+display-date: March 11th 1878
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54921: 50-51 '
+original-date: '2011-08-08 11:46:18'
+title: To George Lillie Craik
+wordpress-id: 2620
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+
+I see you are advertising a new edition of the [Christian names](../books.html#48). I hope the printing has not gone too far for the corrections to be put in. I have a copy perfectly full of them.
+
+The Greek has all manner of wrong accents.
+
+The [Saturday ](../others.html#99)complained of 'the frightful look of the Greek'[^2] I have the vols all corrected and have been longing for a chance to set them right.
+
+Then all that about the letters of the alphabet ought to be made away with, for I puzzled it out in ignorance of Grimm’s law, and am ashamed of it now, and there are hundreds of other blunders.
+
+So I trust it is not too late to correct them.
+
+There is also a mistake in [Pioneers and Founders](../books.html#90) where I said [Thomas Scott](../persons.html#2315) was a Dissenter which was not true I promised to rectify this when I could but there is nothing so hard as trying to catch an edition for alteration.
+
+[The Story of the Moors](../books.html#126) is nearly ready to send you. I should like however first to see Major Osborns Islam (Vol 1) It might take a more philosophical view than the authorities I am using
+
+Yours truly
+
+C M Yonge
+
+[^1]: Black-edged paper.
+
+[^2]: \'Miss Yonge\'s History of Christian Names\' Saturday Review (ii July 1863), 58-60, 59, had referred to \'the frightful look of Miss Yonge\'s Greek\'.
+

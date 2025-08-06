@@ -1,0 +1,53 @@
+---
+date: '1886-06-01'
+display-date: June 1st [?1886]
+from-address: Elderfield
+manuscript-location: MS Princeton University, Parrish Collection
+original-date: '2011-09-13 10:52:47'
+title: To Sophia Jane Harrison
+wordpress-id: 2831
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mrs Harrison](../persons.html#638)
+Thank you so much for my [God daughter](../persons.html#2022)’s photograph.
+
+Alas! I have been a very bad Godmother to her, never having a chance to come in her way, but I go so little from home and when I do, it is always to my own people in Devon.
+I have not been to London even for three years!
+
+Unluckily I just missed [Mrs Bland](../persons.html#2326) when she was staying with the Bakers at Winchester.
+
+By the by, my youngest niece, [Joanna](../persons.html#388), spends from Monday to Friday every week under [Agnes Baker](../persons.html#95)’s teaching, and very good it is for her.[^2] How young things do grow up. I have one [married niece](../persons.html#182) now- her [husband](../persons.html#184) is an excellent young clergyman in Devonshire, and her [father](../persons.html#1624) and [mother](../persons.html#1604) are just gone to stay with her, but it does not seem as if there were to be any grand children.[^3] You must rejoice in beginning again with two sets so near you.[^4] I have heard Grandparents call it the most delightful relationship in the world- all the pleasure without the responsibility, and I think daughter’s children are more delightful than son’s, because there is less chance of differences of opinion about them!
+I had a little correspondence with Mrs De Winton a little while ago about the Mother’s Union Please give my love to dear [Margaret Wilcox](../persons.html#1517), and tell her how sorry I am to hear she is such a sufferer.[^5] There are sad changes in that family since they struck me as all so good, and bright and happy in those years long ago
+
+yours affectionately
+
+C M Yonge
+
+[^1]: Sophia Jane (Collinson) (1826-1891), daughter of the Rev.
+
+John Collinson, Rector of Boldon, and Amelia King, married (6 Jan 1859), as his second wife, Thomas Elliot Harrison (1808-1888), of Whitburn, Sunderland-on-Wear, a distinguished railway engineer and entrepreneur.
+
+They had two sons and four daughters.
+
+She herself was one of a large family; Mrs Bland was her sister, and she had had two sisters, [Julia](../persons.html#2327) and [Thomasine](../persons.html#417), called Mrs de Winton, but the latter is referred to here. CMY’s friendship with the family is chronicled in her autobiography (Coleridge, [Life](../others.html#40), 31-2), and in her brief essay on the novels of Julia de Winton, later Stretton, ‘Mrs Stretton’ in [Women Novelists of Queen Victoria’s Reign](../books.html#244) (1897), 204-10.
+
+The genealogy of the Harrisons and their connexions is exhaustively explored by George H.
+
+Graham, ‘The The Thompsons, Shipbuilders of Sunderland’ at http://members.cox.net/ghgraham/
+
+[^2]: Probably to be identified as Agnes Baker (b.1863/4), daughter of the Rev.
+
+James Baker of Clifton Lodge, Winchester, who is described, like her sister Emily (b. 1858/9) in the 1891 census as a Teacher of Music.
+
+[^3]: Alethea Yonge had married (September 1884) the Rev.
+
+Henry Bowles.
+
+[^4]: Sophia Harrison’s daughter Sophia Agneta married (December 1884) William King, and her daughter Emily Cecilia married (January quarter 1886) James Laing.
+
+[^5]: Margaret Wilcox (1836-1887), first cousin of Lewis Carroll, lived at Whitburn near the Harrisons, and was one of the eldest of a family of 13. CMY had a great weakness for such families.
+

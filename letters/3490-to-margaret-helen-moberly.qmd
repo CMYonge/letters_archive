@@ -1,0 +1,17 @@
+---
+date: '1850-06-01'
+display-date: June 1st [1850s?]
+from-address: ''
+manuscript-location: 'MS location unknown. Photocopies lent by Barbara Dennis: Maggie/4'
+original-date: '2010-04-28 16:02:25'
+title: To Margaret Helen Moberly
+wordpress-id: 3490
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Maggie](../persons.html#83)
+This ought to have been your birthday but printers are slow folk, and I am a hurried one at this moment, so no more can you have now but good wishes from
+your affectionate godmother

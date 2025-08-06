@@ -1,0 +1,19 @@
+---
+date: '1871-01-01'
+display-date: '[?1871]'
+from-address: ''
+manuscript-location: MS location unknown.  This fragment quoted in Mare and Percival,
+  [[otherbook:598]<i>Victorian Best-Seller</i>], 215.
+original-date: '2011-06-02 12:27:00'
+title: To ?Selina Heathcote
+wordpress-id: 2397
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+There seems so much to do here, and with an old mind like mine, it is difficult to take in fresh impressions.[^1]
+
+[^1]: ‘When two years after the French visit, the Heathcotes asked Charlotte Yonge to winter in Rome with them, she declined on the grounds that . . .’ Mare and Percival, Victorian Best-Seller, 215.
+

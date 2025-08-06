@@ -1,0 +1,25 @@
+---
+date: '1867-10-12'
+display-date: Oct 12th 1867
+from-address: Puslinch Yealmpton
+manuscript-location: MS Mrs Clare Roels
+original-date: '2010-06-13 17:31:00'
+title: "To Christabel Rose Coleridge\t\t\t"
+wordpress-id: 2212
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+If it is copyright, I think they ought to give you at least £10, you did not sell your copyright to the Eagle and it may sometimes make a difference in case of one’s wanting to collect short stories together into a volume[^1]
+I do not know if this is the right sum, but it seems to me about fair
+
+yours affectionately and much hurried
+
+C M Yonge
+I shall be here till the 30th so the answer had better come here.
+
+[^1]: Probably the question was how much Warne should pay Coleridge for the copyright of Giftie, in comparison with whatever had been paid by CMY for the publication of ‘The Eagle of one house is the Goose of another’ in MP.
+

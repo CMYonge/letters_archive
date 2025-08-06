@@ -1,0 +1,26 @@
+---
+date: '1896-12-15'
+display-date: December 15 (1896)
+from-address: Elderfield, Otterbourne
+manuscript-location: MS location unknown.  Printed in Coleridge, [[otherbook:40]<i>Life</i>],  341
+original-date: '2010-10-04 14:02:51'
+title: To Mary Elizabeth Christie
+wordpress-id: 3337
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Miss Christie](../persons.html#294)-
+If I could I would help you to an autograph, but I have long ago given away such of [Mr.
+
+Keble](../persons.html#798)'s as were not too personal and precious, and I do not think I have any left except some scraps of correction on the proofs of hymns in the [Child's Christian Year](../others.html#186), such as you would hardly care for.
+I well know the pressure of [Guardian](../others.html#75) books, but as I am as devoted to Sunday-school work at seventy as I was at seven I am always sustained by the hope of finding something appropriate thereto, and at this time of year this carries me through floods of milk and water and spoon meat.
+
+It is much to come on one really superior book in a batch.
+
+No wonder you cannot read or write with a holiday boy to ‘tackle,’ as our old women say.-
+
+Yours truly,
+C. M. YONGE

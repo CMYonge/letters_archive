@@ -1,0 +1,46 @@
+---
+date: '1887-11-04'
+display-date: Novr 4th [1887]
+from-address: Elderfield
+manuscript-location: MS Girton College Cambridge, Yonge V 2
+original-date: '2011-10-03 13:06:41'
+title: To John Henry Ingram
+wordpress-id: 2869
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Ingram](../persons.html#743)
+
+Our proofs have crossed so I will keep the present ones till your corrections have arrived -[^1]
+
+You will see that I had set right several of the matters you noticed. I will change paved the way into facilitated.
+
+Only will you do so in the proof you have for I think that will least confuse the printers.
+
+The sentence about principles and cornerstones is quotation so Bishop Horne is accountable for it, and as the Psalm allusion is characteristic of him I do not think it can be altered.
+
+Metaphors are dangerous. I think I corrected all the other points, but I will keep the sheets to compare with the revise.
+
+Yours truly
+
+C M Yonge
+
+Proofs received by 2 post Heine was an unjustifiable misprint for Paine If people do not remember dates, the reference to the Reign of Terror is useful
+
+I do not see the difficulty about Cadell’s speech.
+
+There was such a heavy loss upon the C R Tracts that it would take more than £500 above the subscription
+
+Ma’am Baker is as Paley writes it - no doubt what she was called
+
+A spinning wheel really cost 4/6
+
+[^1]: Envelope attached is addressed to ‘J Ingram Esq/179 Albion Road/ Stoke Newington/ London and post marked Winchester and London 4 and 5 November 1887.
+
+[^2]: These were the proof\'s of CMY\'s [Hannah More](../books.html#199) (1888), published in George Allen\'s \'Eminent Women\' series edited by J. H.
+
+Ingram.
+

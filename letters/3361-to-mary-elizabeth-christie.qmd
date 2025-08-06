@@ -1,0 +1,53 @@
+---
+date: '1897-11-19'
+display-date: November 19, 1897.
+from-address: Elderfield, Otterbourne
+manuscript-location: MS location unknown.  Printed in Coleridge,[[otherbook:40] <i>Life</i>],
+  341
+original-date: '2010-10-07 13:49:49'
+title: To Mary Elizabeth Christie
+wordpress-id: 3361
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Christie](../persons.html#294)
+I had just been thinking of you, being reminded of your work by the review of [Mrs.
+
+Ritchie](../persons.html#1240)'s book, one which carries one along with it entirely, though I am not sure that her power is not greater in sketches of character in real life than in the construction of stories.[^1] Indeed she is too true to nature to satisfy one always with poetical justice, which, after all, one does love.
+
+The sketch of Miss Mitford is specially good. I remember a sense of disappointment as I drove through 'Our village' to see how small and narrow it was, after what those rose-coloured spectacles had shown.[^2]
+I hope you are going to 'do' [Mrs Oliphant](../persons.html#1101) in the same manner.
+
+She is a person who always puzzles me, partly because she can rise so much higher than what I suppose are 'pot-boilers,' half of which I have never read.
+
+The Beleaguered City seems to me the best of all her work - yet there she seems, as I have heard it observed of her other works, to sit outside and look at enthusiasm (often on the seamy side) and not share in it.
+
+The shrewdness and ironical observation are charming, but I could never love her books or people except the two old people in Valentine.
+
+Those 'Lookers On' in [Blackwood](../others.html#148) are some of her best writing, giving scope for her peculiar tone and high principle.
+
+But she never understood English poor, and though she could deal with Scotch servants, she always made unpleasant pictures of the English poor when they are needed by the story - nor is she generally good to clergymen's wives.
+
+About the [Fairy Bower](../others.html#240), I have been thinking a good deal over it, and I think if you do not feel as if you had time to undertake it that I should like to write a notice myself at some length, as remembering something of the state of society and thought at the time the books were written.
+
+Like you I have to attend to what is sent me, but they keep me a good deal on children and poor people's books, and I don't complain, for I really want them for various libraries and school gifts.
+
+But I get very frivolous about Christmas, though really children's books are better to read than most novels of the day.
+
+Don't you think that throwing over the dread of vulgarity has had a good deal to do with the want of refinement of speech, together with the relaxation of the strictness of Evangelicalism which really made a conscientious life easier on the total abstinence principle.
+I have had a sorrowful year in the death of the[ invalid friend](../persons.html#1462) who lived with me, and was my memory, and since that my relations have given me a good deal of variety, hardly favourable to work!
+
+Yours sincerely
+C. M.
+
+Yonge
+
+[^1]: The book referred to here may be the new edition of the novel Old Kensington, (London: Smith Elder 1898) published as the first volume of Anne Thackeray Ritchie\'s collected works.
+
+Mary Christie had perhaps reviewed it in the Guardian.
+
+[^2]: Mary Russell Mitford, Our Village had been recently reprinted with an introduction by Anne Thackeray Ritchie.
+

@@ -1,0 +1,32 @@
+---
+date: '1867-09-04'
+display-date: Sept 4th 1867
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
+original-date: '2010-06-13 09:20:02'
+title: "To Robert Brett\t\t\t\t"
+wordpress-id: 2206
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Brett](../persons.html#210),
+I am told that to your other labours, you add that of acting for a [Society](../others.html#194) for the promotion of Churches entirely free and unappropriated[^1]
+I am very much interested in building such a [Church](../others.html#188) at Eastleigh, better known as the Bishopstoke Junction station, where there is a large and fast encreasing [sic] colony of railway men, 3 miles from the parish Church (South Stoneham) and two miles from any other.
+
+We laid the first stones of a small new Church on the Feast of St Bartholomew, the seats are entirely free and we should be grateful for a grant.
+
+If there is a form of application to filled up, perhaps you would be so kind as to send it to me, when I would get it filled up and signed by the [Vicar of South Stoneham](../persons.html#636).
+
+The endowment is secured by the [Bishop](../persons.html#1383) giving up the great tithes of two adjoining farms, which belong to the See, and by £40 which the Vicar proposed to give up but the [owner](../persons.html#282) of the land makes up instead, so that there will be £120 per annum.
+
+The name is the Church of the Resurrection.
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: i.e. pew rents were not paid and seating was free to all.
+

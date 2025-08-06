@@ -1,0 +1,31 @@
+---
+date: '1870-02-10'
+display-date: Febry 10th [1870s?]
+from-address: Elderfield
+manuscript-location: MS Harry Ransom Humanities Research Center, University of Texas,
+  Austin
+original-date: '2011-10-13 10:33:20'
+title: "To the Author of \u2018Ella\u2019s Dream\u2019"
+wordpress-id: 3576
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Sir,
+
+Many thanks for your paper, which shall certainly go into the [Monthly Packet](../others.html#52). I have been asked to call for some such spoon meat for [a packet of small books](../books.html#211) for [Mr Warne](../persons.html#1433), and as your Elsie’s Dream seems to me just the right thing in length and material for the purpose, I venture to ask if you would object to its so appearing instead of in the Monthly Packet.[^1] Mr Warne promises £2 for each tale, and I think in this manner it will probably sooner appear.
+
+yours truly
+
+C M Yonge
+
+&nbsp;
+
+[^1]: There was more than one series of ‘Warne’s Victoria Toy Books: A Packet of Twelve Nursery Stories’, and they are treated variously by cataloguers, since they appeared as ‘Edited by the Author of The Heir of Redclyffe’.
+
+Some assume this means that CMY wrote them.
+
+According to WorldCat the only surviving copy of Ella’s Dream is owned by the University of Florida.
+

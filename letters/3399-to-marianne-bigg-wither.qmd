@@ -1,0 +1,21 @@
+---
+date: '1899-03-17'
+display-date: March 17 [1899]
+from-address: ''
+manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  p. 330
+original-date: '2010-03-04 15:14:07'
+title: To Marianne Bigg Wither
+wordpress-id: 3399
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[To [Marianne Bigg Wither](../persons.html#1546) about the death of her brother the Rev. [William Bigg Wither](../persons.html#1544).]
+I had not heard for a fortnight, and had just made up my mind to write to ask [Raby](../persons.html#1221) whether you knew anything, and when I saw your writing I knew how it must be.
+
+This gradual, gentle sinking is the most merciful way of going one can think of, though I hope that there may not be the restlessness that belongs to weakness and is so very distressing. I shall ask [Henry Bowles](../persons.html#184) to pray for him, especially on Sunday when the people are there. I hope it is peaceful sleepiness, and that [your niece](../persons.html#1089) or one of the nephews can be with him.
+
+The last letter I had, now more than a fortnight ago, spoke of going to church at eleven and preaching from his chair.

@@ -1,0 +1,64 @@
+---
+date: '1871-02-16'
+display-date: February 16th, 1871.
+from-address: Norfolk Island
+manuscript-location: MS location unknown.  Printed in Yonge, <i>Life of John Coleridge
+  Patteson</i>, II,  508-9.
+original-date: '2011-06-02 12:45:53'
+title: The Right Reverend John Coleridge Patteson to Charlotte Mary Yonge
+wordpress-id: 2398
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Cousin,
+I must not leave your letter of last October without an instalment of an answer, though this is only a chance opportunity of sending letters by a whaler, and I have only ten minutes.
+
+Your account of the Southampton Congress is a regular picture. I think I can see the Bishops of [Winton](../persons.html#1512), [Sarum](../persons.html#1015), and [Oxon](../persons.html#926); and all that you say by way of comment on what is going on in the Church at home interests me exceedingly.
+
+You can't think what a treat your letters are.
+
+You see [Mr.
+
+Codrington](../persons.html#312) is the only one of my age, and (so to say) education here, and so to commune with one who thinks much on these matters, which of course have the deepest interest for me, is very pleasant and useful.
+
+On this account I do so value the Bishop of Salisbury's letters, and it is so very kind of him to write to me in the midst of the overwhelming occupations of an English diocese.
+I don't think you have mentioned [Dr.
+
+Vaughan](../persons.html#1439). I read his books with much interest.
+
+He doesn't belong to the Keble theology; but he seems to me to be a thoughtful, useful, and eminently practical writer.
+
+He seems to know what men are thinking of, and to grapple with their difficulties. I am pleased with a little book, by Canon Norris, 'Key to the New Testament': the work of a man who has read a good deal, and thought much.
+
+He condenses into a 2s. 6d. book the work of years.
+
+You are all alive now, trying to work up your parochial schools to 'efficiency' mark--rather you were doing so, for I think there was only time allowed up to December 31, 1870. I hope that the efforts were successful.
+
+At such times one wishes to see great noble gifts, men of great riches giving their £10,000 to a common fund.
+
+Then I remember that the claims and calls are so numerous in England, that very wealthy men can hardly give in that way.
+
+Certainly I am spared the temptation myself of seeing the luxury and extravagance which must tempt one to feel hard and bitter, I should fear.
+
+We go on quietly and happily.
+
+You know our school is large.
+
+Thank God, we are all well, save dear old [Fisher](../persons.html#2005), who met with a sad boating accident last week. A coil of the boat raft caught his ankle as the strain was suddenly tightened by a rather heavy sea, and literally tore the front part of his foot completely off, besides dislocating and fracturing the ankle-bone.
+
+He bears the pain well, and he is doing very well; but there may be latent tetanus, and I shall not feel easy for ten days more yet.
+
+His smile was pleasant, and his grasp of the hand was an indication of his faith and trust, as he answered my remark, 'You know Fisher, He does nothing without a reason: you remember our talk about the sparrows and the hairs of our heads.'
+'I know,' was all he said; but the look was a whole volume. ...
+
+Your Charlotte is Fisher's wife, you know, and a worthy good creature she is.
+
+Poor old Fisher, the first time I saw tears on his cheeks was when his wife met him being carried up, and I took her to him.
+
+The mail goes.
+
+Your affectionate Cousin,
+J. C. PATTESON.

@@ -1,0 +1,33 @@
+---
+date: '1865-06-01'
+display-date: June 23d [1865]
+from-address: Elderfield
+manuscript-location: 'MS British Library Add MSS 54920: 97-98 '
+original-date: '2010-05-26 12:55:12'
+title: To Alexander Macmillan
+wordpress-id: 2047
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939)
+Somehow my direction book has been faithless and I have missed [Mr Masson](../persons.html#980)’s address, so I am sending the new chapters of [Dove](../books.html#62) etc. direct to you. I am afraid the story may be thought to flag a little just here, but I could not help it, and there is plenty of incident to come after the next division.
+I think [Miss Sewell](../persons.html#1301)’s idea was to divide by periods.[^1] I think I should have ended the stage in the constitutional existence/history not with Montfort’s death but with the establishing of his measures under Edward I, but I shall know more of Miss Sewell’s plan by this day week.
+
+This year’s [Monthly Packet](../others.html#52) has a story of mine about the Sons of Montfort which I want to bring out at Christmas in the same shape with the [Little Duke](../books.html#20) and [Lances of Lynwood](../books.html#23).
+
+It is called the [Prince and the Page](../books.html#61), and is/has long been all written, though I had rather it did not appear till December, when the last chapter will have come out in the Monthly Packet.
+I am promised some illustrations the first of which is excellent.
+
+What would be the cost of photozincography, and how soon should they be sent if such were the medium?[^2]
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: She and Elizabeth Sewell were planning the work which became [Historical Selections](../books.html#71).
+
+[^2]: Photozincography, or the creation of relief photographic images on zinc plates which could then be printed from, had been invented in the late 1850s to use for the reproduction of maps.
+

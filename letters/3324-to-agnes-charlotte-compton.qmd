@@ -1,0 +1,27 @@
+---
+date: '1896-04-18'
+display-date: April 18th [1896]
+from-address: G F S Elderfield Otterbourne Winchester
+manuscript-location: 'MS UCLA: collection 100: box 95'
+original-date: '2010-09-10 14:45:09'
+title: To Agnes Charlotte Compton
+wordpress-id: 3324
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Compton](../persons.html#364)
+Would you be so kind as to answer this lady, as you understand the [Reading Union](../others.html#211) much better than I do
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Agnes Charlotte Compton (b. 1863), daughter of the Rev.
+
+John Compton, Rector of Minstead with Lyndhurst.
+
+[^2]: Envelope postmarked Winchester 2.45.PM Ap 18 96 and addressed ‘Miss A C Compton/Rectory/ Minstead/Lyndhurst’ and forwarded to ‘c/o Canon Lucas/Shortlands/Kent’.
+

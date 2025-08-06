@@ -1,0 +1,27 @@
+---
+date: '1854-05-31'
+display-date: May 31st [1854?][[footnote:1]]
+from-address: Dogmersfield
+manuscript-location: MS Royal Institution of Cornwall, Enys No. 1428
+original-date: '2010-04-28 16:04:33'
+title: To an Unknown Woman
+wordpress-id: 3492
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Madam
+I am much obliged for your great kindness in allowing [my mother](../persons.html#1606) and myself the perusal of the enclosed valuable letter. I have been from home for some days, or I would sooner have returned it, and expressed our best thanks for the favour of its perusal
+
+yours much obliged
+
+C M Yonge
+
+[^1]: The mourning paper and ‘my mother and myself’ suggest a date after the death of WCY (26 February 1854).
+
+[^2]: Black-edged paper.
+
+The letter has been sold by the owner since we transcribed it and is no longer held by the Courtney Library.
+

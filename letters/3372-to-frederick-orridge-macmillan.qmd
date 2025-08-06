@@ -1,0 +1,23 @@
+---
+date: '1898-03-01'
+display-date: Mar 6d [1898]
+from-address: 'Elderfield Otterbourne '
+manuscript-location: 'MS British Library  Add MSS 54921: 232-3'
+original-date: '2010-10-07 15:56:59'
+title: 'To Frederick Orridge Macmillan '
+wordpress-id: 3372
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#942)
+I have been so often asked for a cheaper edition of my novels that I am delighted to hear that you are beginning on one of them, and I hope it will answer so well that you may follow it up with others
+I hope by the 1st of July to send you the ['Parishes of John Keble’](../books.html#247).
+
+It is being looked over by the Heathcote family now, and I shall not have it back till the 18th when I hope to put the last touches. A great deal of curious history has come out about the various old houses and the book will be of more general interest than I thought at first. I send another instalment of the [Cameos](../books.html#249) for the printers
+
+Yours sincerely
+
+C M Yonge

@@ -1,0 +1,25 @@
+---
+date: '1892-03-11'
+display-date: March 11th [1892-1893?][[footnote:1]]
+from-address: Elderfield Otterbourne
+manuscript-location: MS Charlotte Mitchell/25
+original-date: '2010-03-04 13:16:04'
+title: To an Unknown Woman
+wordpress-id: 3611
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam
+If my [coadjutors](../persons.html#229) can make room your paper shall go [in](../others.html#52) but there is a sad crowd of appeals
+
+yours truly
+
+C M Yonge
+
+[^1]: ‘Coadjutors’ presumably means [A.D.
+
+Innes](../persons.html#744) and [Christabel Coleridge](../persons.html#329), and suggests the letter dates from about 1893.
+

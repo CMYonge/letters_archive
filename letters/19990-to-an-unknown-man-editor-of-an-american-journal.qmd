@@ -1,0 +1,36 @@
+---
+date: '1880-08-20'
+display-date: Aug 20th 1880
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Yale University, Beinecke Library '
+original-date: '2015-07-09 23:45:59'
+title: To an Unknown Man (Editor of an American Journal)
+wordpress-id: 19990
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Sir
+Herewith I send copied out for me by a friend, a story for your Christmas number.[^1] I hope you will not think it either too long or too much of a child’s story.
+
+The whole description of the carol singing past and present is from actual nature here.  I have myself heard the verses about ‘Divers’ sung  The Wolf incident likewise happened in this neighbourhood but ended in the fierce dog being killed.
+
+If you accept it, I should like to have a parcel of Christmas carols in due time, and a couple of copies of the Christmas number itself as part of the payment  I hope soon to send you a short story of an adventure connected with the camp at Aldershot which I heard of the other day[^2]
+
+yours truly
+
+C M Yonge
+ 
+30th  Your kind letter and the advertisements have just arrived.
+
+Thank you for what you say.  I have had some remuneration voluntarily offered for some of my earlier books and both [Mr Macmillan](../persons.html#939) and [Marcus Ward](../others.html#236) make arrangements in America which are considered in the remuneration they give me.
+
+The [ American history](../books.html#168) has been revised by an American clergyman.  I believe its publication in America will precede that in England.
+&nbsp;
+
+[^1]: This story was probably “Wolf” which in 1881 was published both [separately](../books.html#145) and in the collection [Lads and Lasses of Langley](../books.html#139).
+
+[^2]: This is probably “Drumbledore Bill” which was also included in [Lads and Lasses of Langley](../books.html#139).
+

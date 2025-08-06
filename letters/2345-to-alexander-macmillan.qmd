@@ -1,0 +1,40 @@
+---
+date: '1869-09-30'
+display-date: Sept 30th [1869]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54920: 233-4'
+original-date: '2010-06-23 12:51:21'
+title: "To Alexander Macmillan\t\t"
+wordpress-id: 2345
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Macmillan](../persons.html#939)
+I shall see [Miss Johns](../persons.html#887) on Saturday and have a consultation with her.
+I have been prevented from setting about the [Storehouse](../books.html#83) by the almost sudden death - the first day of this month - of [one](../persons.html#1582) of my dear cousins - the one on whom I relied for looking out the copies of the books that I was to have from [Puslinch](../others.html#123). I have not been willing to trouble her [sister](../persons.html#1626) to hunt them out - and I am afraid the Elements of Morality cannot be had anywhere else. (I do not mean the Blossoms of Morality). I will however ask for it in a day or two.
+
+One or two more questions before I definitely arrange.
+
+Shall we have Goody Two Shoes.
+
+It is more of a classic than any other, but has been often reprinted - spoiling the ghost, and can it be made out if Philip Quarl is Defoe’s - I cannot find it in the list of his works.[^1]
+Also after how many years is it safe to take no notice of copy right.
+
+What is to be done about [illustrations](../others.html#167) and in borrowing the books that cannot be bought.
+
+What assurance can I give of their being returned uninjured or must I get them copies. [Mr Craik](../persons.html#379) shewed me a copy of Blossoms of Morality with cuts by [Bewick](../persons.html#2050). I thought of taking a few of the stories, can the illustrations to them be copied.
+I think I must ask to know all this before I can fairly arrange the list of books, but I am writing for some that I can borrow.
+
+The post has not yet brought [M.
+
+Huard](../persons.html#2051)’s designs. I must write again when they come. I believe the [second part of Historical Selections](../books.html#82) is almost ready
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: All the stories mentioned here were included in either the first or [second](../books.html#96) Storehouse of Stories.
+

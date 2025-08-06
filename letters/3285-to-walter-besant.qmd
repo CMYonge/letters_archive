@@ -1,0 +1,26 @@
+---
+date: '1895-03-09'
+display-date: March 9th 1895
+from-address: Elderfield Otterbourne Winchester
+manuscript-location: MS Princeton University, Parrish Collection
+original-date: '2010-09-07 13:17:52'
+title: To Walter Besant
+wordpress-id: 3285
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Sir](../persons.html#1652)[^1]
+The kindness of your letter to me emboldens me to send you some observations on the present state of criticism with my name.[^2] I have done a good deal of criticism and was for many years an editor besides what I have endured as an author and I can certainly declare that former criticism was really useful to me while what I see now can do good to no one except as an advertisement. I have long wished to protest against spoiling stories by composing to satisfy magazine
+
+Yours truly
+
+C M Yonge		
+I hope your attack of the pestilence has passed off as well as mine has.
+
+[^1]: Besant was knighted in the Queen’s Birthday Honours this year (24 May 1895).
+
+[^2]: Possibly for publication in the Author, the organ of the Society of Authors, edited by Besant.
+

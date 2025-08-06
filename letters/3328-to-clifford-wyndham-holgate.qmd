@@ -1,0 +1,37 @@
+---
+date: '1896-06-02'
+display-date: June 2nd 1896
+from-address: Elderfield  Otterbourne Winchester
+manuscript-location: MS Princeton University, Parrish Collection
+original-date: '2010-09-30 11:48:23'
+title: To Clifford Wyndham Holgate
+wordpress-id: 3328
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear[ Mr Holgate](../persons.html#1643)
+This is really only an abridgement of the [article](../books.html#66) in the Christian Remembrancer, except that I added the going to Winchester College chapel in 1854. I signed the paper because once or twice I found myself writing I to a personal reminiscence, but it can be altered if you wish it.[^1] I think [Lord Seaton](../persons.html#313)’s personal appearance is fully described in the paper.
+
+He was the most striking old man I ever saw.
+
+The best likeness of him is one of [Richmond](../persons.html#1731)’s Crayons. I have an engraving of it, I think the original is at [Beechwood](../others.html#126), but I am not sure.
+
+There is another print that I do not like so much, and a full length picture which I believe was done for the United Services Club.
+
+There is a print from that but I do not like it - it is in Life Guards uniform and that being cavalry - is apt to look awkward on an infantry man.
+
+There is another small portrait of him at [Puslinch](../others.html#123), a much younger man - but I never realized it, never having known him till his return from Canada.
+
+My [mother](../persons.html#1606) was [his step father](../persons.html#106)’s youngest daughter, my [father](../persons.html#1631) was in his regiment, and was first cousin to his [wife](../persons.html#314).
+
+Anything about the pictures might best be learnt from [the present Lord Seaton](../persons.html#318), Beechwood Plympton
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: This letter, and the preceding one to Holgate, evidently relate to an untraced article by CMY on Lord Seaton.
+

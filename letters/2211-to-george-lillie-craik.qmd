@@ -1,0 +1,32 @@
+---
+date: '1867-10-12'
+display-date: Oct 12th 1867
+from-address: Puslinch Yealmpton
+manuscript-location: 'MS British Library Add MSS 54920: 190-191'
+original-date: '2010-06-13 17:26:24'
+title: "To George Lillie Craik\t\t\t\t\t"
+wordpress-id: 2211
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+I am very happy to agree to this arrangement and thank you for providing the early sheets.
+
+Is it not however Holland that is concerned and not Denmark?
+I am in a difficulty of my own making. I signed an agreement in the spring with one [Mr Hugo Borges](../persons.html#174) that he should have the early sheets of the [Chaplet of Pearls](../books.html#69) to translate for a Roman Cronik as he calls it, which he and another German are bringing out in Berlin.
+
+Unluckily, forgetting that the story might begin when I was from home, I left his letter and address behind me locked up, and now I do not know how he is to be reached - unless [Mr Williams](../persons.html#1964) might know the name among the Berlin booksellers.
+
+He was to be in partnership with one [Mr Otto ----](../persons.html#522) whose surname I unhappily cannot remember, but if the Roman cronik has succeeded perhaps you may know its publisher,[^1] in which case I should be glad if you would cause the sheets to be sent, and also let me have the address, as I ought to write and I do not expect to be at home till near the middle of next month
+Yours faithfully
+
+C M Yonge		
+Sheets should also be sent to [M.
+
+Tauchnitz](../persons.html#1396), and to [Mr Layton](../persons.html#852) [Appletons](../others.html#142) agent.
+
+[^1]: The letter is endorsed ‘Roman Magazine & Roman Zeitung publ by Otto Franke probably Borges is the translator’.
+

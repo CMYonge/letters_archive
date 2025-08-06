@@ -1,0 +1,26 @@
+---
+date: '1886-01-05'
+display-date: Jany 5th 1886
+from-address: Elderfield
+manuscript-location: 'MS British Library Add MSS 54921: 138-9'
+original-date: '2011-09-28 12:06:21'
+title: To George Lillie Craik
+wordpress-id: 2824
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+I am very happy to accept your offer of [£25 ](../others.html#160)for the Australian edition of [Chantry House](../books.html#186).
+I wish I could disinter A Citizen’s account of the Bristol riots of 1832.[^1] It is referred to in the Life of Bishop Gray and said to be excellent; but I could not get it from the [London Library](../others.html#29), and I wish I could see it before the proofs of that Chapter of Chantry House are irrevocable.
+
+Yours very truly
+
+C M Yonge
+
+[^1]: Perhaps John Eagles, The Bristol riots, their causes, progress, and consequences.
+
+By a citizen (Bristol, Gutch and Martin 1832).
+

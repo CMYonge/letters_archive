@@ -1,0 +1,39 @@
+---
+date: '1865-01-01'
+display-date: Jany 23d 1865
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Mrs Clare Roels
+original-date: '2010-05-24 09:25:43'
+title: "To Christabel Rose Coleridge\t\t "
+wordpress-id: 2003
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel,](../persons.html#329)
+Here is the first Golden egg that a Gosling has yet laid, though I am afraid it is only a paper one!
+
+Many thanks to you for the Eagle that contributed to it[^1].
+
+You know that I have got a new [Gosling](../others.html#104)- [Elizabeth Catharine Yonge](../persons.html#1603), Eton - to the brood the Cobra di Capello- (because she wears spectacles)[^2] She is only 15, but will be a capital one in time.
+
+She is staying here now, so your Sidney questions will be the first she will see. I hope to take her up to be introduced to [Kittiwake](../persons.html#887)- Have you got the [Barnacle](../others.html#89) yet?
+
+your affectionate
+
+C M Yonge
+
+[^1]: ‘The Eagle of one house is the Goose of Another\'.
+
+She had evidently contributed to MP, and the \'golden egg\' enclosed with the letter was a cheque to Coleridge for £5 which was cashed on 17 February.
+
+The story had appeared in December 1864 and was later reprinted in Coleridge\'s The Face of Carlyon and Other Stories (1875).
+
+[^2]: The gosling, Elizabeth Catherine Yonge (1847/8-1905).
+
+In fact she called herself Cricket.
+
+Census returns suggest that she was born in 1847/8 so she may have been older than CMY thought.
+

@@ -1,0 +1,22 @@
+---
+date: '1877-05-01'
+display-date: '[May 1877]  '
+from-address: ''
+manuscript-location: 'MS British Library Add MSS 54921: 17 '
+original-date: '2011-08-03 18:22:50'
+title: 'To Messrs Macmillan '
+wordpress-id: 2579
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Miss Yonge would be obliged if [Messrs Macmillan](../others.html#111) would send copies of each of her works to
+Sister Elizabeth
+[St Mary’s](../others.html#21) Home
+Wantage
+Also one copy of [the Heir of Redclyffe](../books.html#15) for herself
+
+[^1]: Endorsed ‘Rail/28 5/77’ and (against ‘herself’) ‘Post 28/5/77’.
+

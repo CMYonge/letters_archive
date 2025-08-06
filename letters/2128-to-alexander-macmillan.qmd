@@ -1,0 +1,31 @@
+---
+date: '1866-07-04'
+display-date: July 4th [1866]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54920: 158-159'
+original-date: '2010-06-09 09:51:03'
+title: To Alexander Macmillan
+wordpress-id: 2128
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939),
+I have now had time to think over the [Book of Heroes](../books.html#80), and have been making out a list of those whom I think worthy of the name.
+
+But two or three difficulties occur to me.
+
+In the first place is not the name too much like Mr Kingsley’s mythological book?
+
+People could never be expected to keep 'the Heroes' and the Book of the Heroes distinct in their minds. I think if I had my way I would call it 'the Book of True Chivalry.'
+I find that my notion of parallels will not do, there are not enough really alike and sometimes though there may be a resemblance it may not be to a hero - e g I always thought Belisarius and Marlborough much alike, but Belisarius was a hero, and Marlborough not. I think I have counted up nearly fifty good subjects, but of course any life of each as a real biography could not be given in the compress or even two of your volumes.
+
+So it seems to me that the best plan will be that which occurred to me at first about the [Golden Deeds](../books.html#51), though I gave it up there on finding that each Deed wanted separate working out. I think I would rather try to write a history of the heroic character, as it varied under different influences and times - such as the rigid obedience of the Hebrew hero, as in Joshua and David - the statesman mixture in the great men of Greece, the Roman devotion to the country - then the passive element coming in with Christianity as in the days of martyrdom - the Northern sense of honor[sic] creating chivalry, and consecrating it - the perpetual past dream of a once existing perfect chivalry &c - the change of warfare and the different kind of prowess it needed &c, all illustrated by sketches of the great men and their doings, and allusions to others who need not be brought in so fully. I am afraid this is not quite [Mr Craik](../persons.html#379)’s idea, but it seems to me that it would be more feasible for me to work it out in any reasonable space.
+
+Thanks for sending me the [British Quarterly](../others.html#90)’s good words for the [Dove](../books.html#62)
+
+Yours sincerely
+
+C M Yonge

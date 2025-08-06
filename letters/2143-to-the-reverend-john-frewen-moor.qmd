@@ -1,0 +1,25 @@
+---
+date: '1867-01-01'
+display-date: Jan 3d [1867]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e 86. '
+original-date: '2011-02-02 12:13:23'
+title: "To the Reverend John Frewen Moor\t\t "
+wordpress-id: 2143
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Moor](../persons.html#1046)
+Your opinion so entirely coincides with ours that I almost had my pen in my hand to write to you to say that we had only ten girls and five boys at school yesterday, and that I could conceive no variety of weather that will make the way passable for you and your spectators between this and tomorrow evening, and so that I had sent out messages to say the Lantern was adjourned.[^2] I am a little afraid of fixing the 15th because it may be the servants’ evening at the Park to which they invite [Mary Plumridge](../persons.html#1178), and on the whole I think it will be wise to leave the day unfixed till we see our way a little more clearly, and have it in the week after that - I think I never saw such an impassable snow, hardly any vehicles manage to go by, and no one but the postman and [Mr Wither](../persons.html#1544) contrive to stir
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Envelope addressed to \'The Revd/ J F Moor/Ampfield Parsonage/ Romsey.\' and postmarked Winchester Ja 3/67.
+
+[^2]: The parish entertainment being arranged in letter to Moor, 28 December 1866.
+

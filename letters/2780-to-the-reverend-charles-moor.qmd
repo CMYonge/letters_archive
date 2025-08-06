@@ -1,0 +1,34 @@
+---
+date: '1883-10-08'
+display-date: Oct 8th [1883]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e 86. '
+original-date: '2011-09-21 12:03:08'
+title: To the Reverend Charles Moor
+wordpress-id: 2780
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Charles](../persons.html#1043),
+
+&nbsp;
+
+I send you the M S of the story of Burrs hoping that it may help your Christmas number, and not be too youthful
+
+Thank you for the Magazine
+
+Yours truly
+
+C M Yonge
+
+Some of the pencil numbers are missing but the arrangement is all right
+
+[^1]: Envelope addressed to ‘The Revd/ C Moor/Great Grimsby.
+
+Postmarked Winchester Oc 8/83.
+
+[^2]: Charles Moor, who was perhaps running a parish magazine, had asked her for a story, and she sent him the MS of one which was about to be published in [Langley Adventures](../books.html#163).
+

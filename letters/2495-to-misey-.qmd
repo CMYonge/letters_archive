@@ -1,0 +1,32 @@
+---
+date: '1874-03-24'
+display-date: March 24th 1874
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Charlotte Mitchell/5
+original-date: '2011-07-12 09:29:46'
+title: To Misey ----
+wordpress-id: 2495
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Misey](../persons.html#2293)
+Here is a note from Mr Gurney.[^1] I send it in case you should be changing your address, in which case it might not be so safe to let him write direct even under the care of the Angels.
+I was at Rownhams yesterday, and was sorry to hear of the new sorrow.[^2] [Maria](../persons.html#1539) had had a cold, but was nearly well, [Mr Wilson](../persons.html#1541) has left off crutch in the house
+
+yours affectionately
+
+C M Yonge
+
+[^1]: This may be a reference to [the Rev.
+
+Alfred Gurney](../persons.html#601), but the letter is hard to interpret.
+
+[^2]: This sounds like a reference to a family bereavement.
+
+Maria Wilson was related by marriage to [Frances Dorothy Moor](../persons.html#1044), whose son John Frewen Moor jr. tragically drowned in 1874.
+
+Possibly \'Misey\' was related to the Moor family.
+

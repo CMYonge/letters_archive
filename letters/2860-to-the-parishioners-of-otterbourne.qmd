@@ -1,0 +1,93 @@
+---
+date: '1887-01-01'
+display-date: '1887'
+from-address: ''
+manuscript-location: Printed in the [[other:85]<i>Otterbourne Parish Magazine</i>]
+  (June 1887)
+original-date: '2011-09-30 13:56:55'
+title: To the Parishioners of Otterbourne
+wordpress-id: 2860
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Otterbourne Readers,
+All I can give you this time to read is a little account of some of my doings while I have been away from home. I began with a visit of two days to the good [Bishop of Bedford](../persons.html#722), who though bearing that title has really been an assistant to the Bishop of London, till now, when he is gone to the new see of Wakefield, in Yorkshire.[^1] One of the places I saw while with him was the Children's Hospital at Shadwell, part of the East End of London.
+
+It has four storeys.
+
+In the lowest is the receiving room where out-patients come, all women or children under 14.
+
+Above is the ward for little boys.
+
+It was just then tea time, and one little man of nine years old, but sadly undersized, was standing up in his little red dressing-gown, feeding with a spoon a timid one, who could only lie on his back and open his mouth like a young bird.
+
+One or two were dressed and sitting up at the table, and on the whole there was a look of cheerfulness and recovery.
+
+Some were soon to go into the country for a change.
+
+The girls' ward above was sadder, for the first thing we heard was a loud moaning which came from a poor little maid lying very flat in her cot, quite unconscious apparently, but constantly making these sad sounds, from having water on the brain.
+
+The other children, however, did not seem to mind it.
+
+Perhaps they were accustomed to louder and worse noises in their homes.
+
+Many had bronchitis, or inflammation on the lungs.
+
+Some who were better sat up and played, or enjoyed the meal laid on a board across their cribs, and one pretty little woman said she was going into the country, and had been there before.
+
+The sad thing is that in their wretched unhealthy homes the poor children soon fall sick again and come back, and indeed the hospital ward with the flowers, the toys and the gentle young nurses is by far the pleasantest place they know.
+
+In the baby ward a nurse was hushing off to sleep a creature who had just had an operation on her palate under chloroform.
+
+That was the saddest place of all.
+
+Only two looked at all cheery, one little fellow of one or two, with beautiful curly hair, who sat up on his crib nursing two club-feet, of which he seemed rather proud, and another with a frame over a little broken leg. A poor little being of seven weeks old had a wizened face like a starved monkey, and altogether it was piteous to see what babies can be instead of the fat rosy creatures to which we are used - poor little things born only to be victims to the unwholesome lives of their parents - at least in this world, but their spirits have a better one opened to them.
+
+The streets we passed through were mostly of two-storied houses, with good sash-windows, but the lady I was with, who knew them well, said that they were not nearly so nice within as without.
+
+They have four rooms.
+
+The more comfortable families have two, but most only one room.
+
+After this it was pleasant to visit the People's Palace, a beautiful large hall with rooms attached, arranged on purpose that for only 2s. 6d. a year there may be access to books, newspapers, music, and all sorts of innocent pleasures.[^2] There are refreshment rooms where any good food or drink (not alcoholic) can be had, and so happily and well has all be conducted that since last October there have been three million entrances, and not once have the police been called for!
+
+Those were my London sights.
+
+My country ones have been of a different sort.
+
+There were Devonshire hills so steep that a Hampshire horse would stand still and stare at them in despair.
+
+The road at Combe Martin is a shelf cut out winding round the side of a slaty hill, quite as steep above as St.
+
+Catherine's, and below a sheer precipice, clothed, however, with trees, so that we looked into the tops of the trees. I never saw such wood sorrel anywhere as grew along the banks, but it seemed to be instead of wood anemonies.[sic] The primroses are very large indeed.
+
+The coast is all made, as it were, of very coarse slates set up sloping, so that the upper surface is formed of their crumbled edges; and between the steep hills wind dear little streams bordered by narrow green meadows, where the red Devon cattle feed.
+
+They manure the land with seaweed on the sloping fields, and grow excellent potatoes.
+
+We saw people gathering in the weed, when we went down to the narrow little bay shut in by these slaty cliffs, and we also saw a man stick his knife in under the limpet shells on the rocks, eat up the inhabitant alive and raw out of his castle, and throw the shell away!
+I should like to tell you about the Rogation-tide and Ascension-day I spent at Torquay, going to a most beautiful church, St.
+
+Luke's.
+
+There was a special service on each Rogation-day, with intercessions - Monday for the crops, Tuesday for Missions, Wednesday for the Parish Work.
+
+And on Ascension-day the singing was very grand and uplifting.
+
+But there is no room to put in more than one thought in a sermon, which struck me, and chimed in with the hymn, 'Nearer, my God, to Thee.' It was on Jacob's dream, and we were reminded that the bottom of the ladder to heaven would seem to be formed of the big broken stones around him, and thus that our troubles and obstacles will, if rightly used, become 'steps unto heaven' - the foot of the ladder reaching to our God.
+I think the gracious rain falling now must be a merciful answer to the prayers in our churches for fruitful seasons.
+
+Your old Friend
+C. M. Y.
+
+[^1]: The Rt.
+
+Rev.
+
+William Walsham How (1823-1897), bishop of Bedford 1879-1887, and bishop of Wakefield, 1888-1897.
+
+[^2]: The People’s Palace, founded in 1887 for the recreation and instruction of the people of the East End of London, now houses the Great Hall of Queen Mary College, University of London.
+

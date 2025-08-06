@@ -1,0 +1,36 @@
+---
+date: '1865-11-28'
+display-date: Novr 28th [1865?][[footnote:1]]
+from-address: ''
+manuscript-location: 'MS location unknown. Photocopies lent by Barbara Dennis: Maggie/3'
+original-date: '2010-06-03 20:06:10'
+title: To Margaret Helen Moberly
+wordpress-id: 2082
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Maggie](../persons.html#83)
+I am extremely disappointed not to be able to come in today, when I had so fully reckoned on doing so, even for months past.
+
+All the more because I believe that [Edith](../persons.html#1012) and I are your only remaining sponsors.
+
+But no doubt there are more prevailing prayers offered by those out of our sight. I have still the Daisy Cross that was a memorial of your Baptism, and called forth (I believe) those pretty daisy verses from your Godfather. I send you Bishop Wilson.[^2] Such an one [sic] was given me in readings for my Confirmation by my dear [Godmother](../persons.html#777) who did not live to see it
+your loving godmother
+
+C M Yonge
+
+[^1]: The dating of this letter obviously depends on the date of the confirmation of Maggie Moberly and the identity of her godparents.
+
+If the \'daisy\' verses were written by Keble, it must post-date his death in March 1866.
+
+[^2]: The Tractarians venerated the memory of the Rt.
+
+Rev.
+
+Thomas Wilson (1663-1755), Bishop of Sodor and Man, and Keble published a biography of him.
+
+The book given CMY by her godmother and aunt Charlotte Jones was perhaps his A Short and Plain Instruction for the Better Understanding of the Lord\'s Supper (1734).
+

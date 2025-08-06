@@ -1,0 +1,26 @@
+---
+date: '1867-07-29'
+display-date: 'July 29th [1867] '
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54920: 188-189'
+original-date: '2010-06-10 18:58:07'
+title: "To Alexander Macmillan\t\t"
+wordpress-id: 2200
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939),
+I am getting well again, and gone to work again.[^1] Clement of Alexandria is the first authority for the robber story, but Eusebius takes it from him. I have a queer old translation of Eusebius, Socrates and Co - from which I really did expand the account, and so I think I had better leave Eusebius, as it looks less as if it all came out of Smith’s dictionary as in fact much necessarily does.
+I am glad you and [Mr Masson](../persons.html#980) consent to the [Chaplet of Pearls](../books.html#69) - it really was a material chaplet, and if it were coming at once in a book by itself, I should begin by quoting [Froissart](../others.html#219)’s old French about it. I suppose by your account there is power in the [Scotch girl](../others.html#193) that wants toning down.
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: She was working on [The Pupils of St.
+
+John the Divine](../books.html#72).
+

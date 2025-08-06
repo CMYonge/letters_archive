@@ -1,0 +1,69 @@
+---
+date: '1854-04-21'
+display-date: April 21st  [1854]
+from-address: Otterbourn
+manuscript-location: 'MS University of Illinois, Urbana Champaign: Letter 2. '
+original-date: '2010-04-14 11:48:09'
+title: To Jemima Blackburn
+wordpress-id: 3041
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mrs Blackburn](../persons.html#159)
+I have bought myself a [Grimm](../others.html#243), and studied all the Thumbs that have come in my way, and have come to the conclusion that the way to make him pretty will be after all as you suggested, to begin with King Arthur.
+
+The unmitigated nursery legend with all the swallowing and the tricks is not poetical, and must have been vulgarized.
+
+So I will take what of Round table stories will suit, and work in [Tom Thumb](../books.html#21) with them.
+
+So we might have Merlin and the Lady Vivian enchanting him into the monument, which would be a famous subject, also the giant whose cloak was made of kin’s beards, and best of all the great hand that came and snatched away Excalibar. I hope you will choose that for an [illustration](../others.html#167), the river and scenery might be made so beautiful. I fancy Tom might be legitimately carried to court by the men who in Grimm bought him when he was riding in his father’s hat.
+
+It would get him there better than the complication of giant and pike devouring him, and morality would not suffer as it does by his cheating the men.
+
+Moreover I have a strong inclination to do away with King Thunderstone who seems to me a needless and nonsensical person, Arthur and Guenever would do just as well for the king and queen throughout but it is a difficulty as I have scruples as to taking liberties with ancient tales
+The Saint Greal I should avoid entirely, as not fit for a fairy tale, but a sketch of the Round Table would be a prize to many.
+
+Soon I hope absolutely to begin, but this is an unsettled week, and I have a story of my own that I want to finish overlooking, only if you are ready to make further designs. I thought you would like to know this notion.
+
+The [Percy ballads](../others.html#132) are the place for getting at the story of Excalibur and I have rather a hankering for the Loathly lady, but I cannot tell till the work is in hand.[^2]
+How do the bible pictures get on? I am going to set about collecting a Sunday scrap book for a little [goddaughter](../persons.html#83) of mine, and try to make it a series of Scripture history, so this gives me a double interest in your intentions. I think you said that you had Elijah’s ravens, and have you the Ass and Lion in the Disobedient prophet?
+
+Your own list I knew in a moment must [gap in MS] knife. I thought of a gun but concluded that bows and arrows might be made with a knife.
+I hope your Cows are behaving better.
+
+Somewhere I have heard of a notion that that effect is produced on a neighbour’s cows by a man throwing a stone or bit of turf into his field on some day in the spring. I forget which. [gap in MS]
+covering its young,’ and for the other, might it not be planting the twig, as in Ezekiel? I suppose you will have the Ostrich in Job, and oh!
+
+What a grand picture the Lions in the ruins of Babylon would make, see the[ Christian Year](../others.html#95) for Whit Monday.
+
+My plans only go as far as collecting tolerable prints and putting them into a book in their order, and as my little Margaret will be two years old tomorrow, I look to getting it done in a year’s time, if I can, and if I can afford it. I like your idea of the verses, I hope you will put them as mottoes to your present work, but I do not think I shall imitate it in my Sunday picture book, as the shewing it to her will not be in my own hands, and I think [her mother](../persons.html#1019) had rather have her Scripture reading in her own hands.
+I hope you will make the texts be the whole explanation of your animals, they will come so much better than any description. I shall be delighted to see your doings in that way, if you are so kind as to send them to me. I never saw the Scottish paraphrase you mention.
+
+Your occupations put me in mind of Mrs Grant’s [letters from the mountains](../others.html#74), they are so unlike our English farming doings.
+
+Are you thinking about hay yet, our grass has made a start since the rain, which has set the nightingales singing all night.
+
+Oh! I hope you will have the swallow knowing the time of her coming.
+
+We have a perfect Petra of Sand Martins in a bank close by us
+
+Yours sincerely
+
+C M Yonge
+Thank you for your kind enquiry for[ my brother](../persons.html#1624).
+
+He is at Gallipoli, and writes in very good spirits. I fancy [Our Own Correspondant](../persons.html#1270) [sic] is too fat for campaigning.[^2] Julian makes no complaints, and describes himself as sheltering the big drum in his tent, & only wanting a bed stead to raise him above the centipeds [sic].
+
+Chobham was a useful little rehearsal last summer.
+
+[^1]: Black-edged paper.
+
+One of the sheets of this letter has been partially cut away, leaving two gaps in the text.
+
+It is also possible that there may be a sheet missing after the second gap.
+
+[^2]: William Howard Russell (1820–1907), the Times correspondent, had criticized the conduct of the war.
+

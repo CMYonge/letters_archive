@@ -1,0 +1,19 @@
+---
+date: Undated
+display-date: Undated
+from-address: ''
+manuscript-location: MS fragment  Princeton University, Parrish Collection
+original-date: '2011-10-10 13:33:10'
+title: To an Unknown Person
+wordpress-id: 3532
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+I am much hurried and can hardly answer letters
+
+Yours truly
+
+C M Yonge

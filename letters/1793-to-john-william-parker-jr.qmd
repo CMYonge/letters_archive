@@ -1,0 +1,32 @@
+---
+date: '1860-06-05'
+display-date: June 5th 1860
+from-address: Otterbourne, Winchester.
+manuscript-location: MS Huntington Library
+original-date: '2010-05-05 11:01:59'
+title: 'To John William Parker, Jr. '
+wordpress-id: 1793
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Sir](../persons.html#1143),
+I have authorized [M.
+
+Tauchnitz](../persons.html#1396) to republish “[The Little Duke](../books.html#20),” and Mr [Sydney Williams](../persons.html#1964) tells me that he is about to apply to you for a cast of the frontispiece - I am afraid however that the lithographs can be no longer renewed, and I must reply to him that only the vignette of the little page is still to be had. I believe [Mrs Blackburn](../persons.html#159) had the stones broken up after the 2nd or 3rd edition.[^1]
+From what I hear, I cannot but hope that Mlle Mori is in a more prosperous state than when last you wrote, the [Saturday Review](../others.html#99) was so favorable[^2] [sic], and after that and the [Guardian](../others.html#75), the private opinions I have heard certainly became much more laudatory - I believe [Miss Roberts](../persons.html#1244) is just now in England, and I cannot but hope she will find her book a greater success than seemed at one time likely.
+I hope by Christmas to have a [story of my own](../books.html#38) ready for separate publication - now coming out in the [Monthly Packet](../others.html#52)
+Yours faithfully
+
+C M Yonge
+
+[^1]: Jemima Blackburn had provided lithographic illustrations for The Little Duke.
+
+The technology involved acid-burning a drawing using an oil-based medium on to limestone slabs for printing.
+
+It would seem from this and later discussions that the stones remained the property of the artist, and that Blackburn did not preserve hers for long.
+
+[^2]: Saturday Review (5 May 1860) 577-8.
+

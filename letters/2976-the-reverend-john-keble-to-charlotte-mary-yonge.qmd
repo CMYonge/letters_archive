@@ -1,0 +1,36 @@
+---
+date: '1851-06-30'
+display-date: 30 June, 1851.
+from-address: Hursley
+manuscript-location: MS location unknown.  Printed in <i>Musings over the Christian
+  Year</i> xxvi-xxvii.
+original-date: '2010-03-19 13:13:16'
+title: The Reverend John Keble to Charlotte Mary Yonge
+wordpress-id: 2976
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Charlotte,
+I hope I have not put you out by keeping [this](../books.html#33) so long. I have been rather more busy than usual.
+
+This is an interesting matter, and I wish I had more time and knowledge for it.[^1] It will do very well as you have put it.
+
+But against a reprint, or with a view to a supplementary dialogue, it may be well to consider (what is implied in the word Moral, which I have inserted in one place) that Religion begins when we believe that God is good, and that the prevailing form of irreligion in the world has not been disbelief of a natural Governor, but a notion of an Evil Principle in one form or another.
+
+See Bp.
+
+Butler’s [Analogy](../others.html#28), part i.[^2]
+It occurred to me whether, when the ladies quote Greek, they had not better say they have heard their fathers and brothers say things.
+
+Always yours affectionately
+[J. K.](../persons.html#798)
+
+[^1]: CMY introduced the letter as ‘called forth by that conversation on the first article of the Creed’, ‘The Creed’ No VII in the series ‘Conversations on the Catechism’, which appeared in MP 2 (July 1851)5-16.
+
+It was her practice to submit these articles to Keble for approval.
+
+[^2]: Joseph Butler, The Analogy of Religion, Natural and Revealed, to the Constitution and Course of Nature (1736).
+

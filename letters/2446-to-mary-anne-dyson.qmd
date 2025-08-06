@@ -1,0 +1,31 @@
+---
+date: '1872-05-11'
+display-date: May 11 [1872]
+from-address: Elderfield, Otterbourne, Winchester
+manuscript-location: MS location unknown.  Printed in Coleridge, [[otherbook:40]<i>Life</i>],
+  272
+original-date: '2011-06-15 12:30:19'
+title: To Mary Anne Dyson
+wordpress-id: 2446
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Marianne](../persons.html#464),
+It seems a long time since I have written - in fact [Miss Wordsworth](../persons.html#1566) hardly let me do anything for talking. I have not taken to a person so much for a great while past; she is so good and so sensible, and, what I was far from expecting, so funny, and her fervent love and devotion to her [father](../persons.html#1565) are so very charming, and her last evening she made such a sweet outpour of her Bild worship of him, and her happy home, which has never had a sorrow on it in thirty-two years, and I suppose she took to me, for she ended by saying she never thought she could get to love anyone so much in four days.
+
+She carried off lots of wild flowers to the Westminster Hospital.
+
+Wednesday we dressed the church for Ascension Day, when, as evening church was late, we had time for a most exquisite drive through Hursley and Ampfield, all the oak woods being the most marvellous colours of gold and red, and yesterday we went to St.
+
+Cross.
+
+So I hear [Stephen Lovelock](../persons.html#2282) is to take care of the Elgee pony. [Miss Poole](../persons.html#1187) and I read [Sintram](../others.html#102) up to his storm to-day, but as [Gertrude](../persons.html#1462) does two pages a day at Storringham she will beat us.[^1] She comes here the very day I come home from you, and [Miss Roberts](../persons.html#1244) on the Monday after.
+
+Your affectionate
+C. M. Y.
+
+[^1]: Perhaps Harriet Poole (b. 1843/4), a governess whose sister Alice subsequently joined the Gosling society.
+

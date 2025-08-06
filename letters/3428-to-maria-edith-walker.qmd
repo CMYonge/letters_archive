@@ -1,0 +1,51 @@
+---
+date: '1899-09-22'
+display-date: Sept 22 1899
+from-address: Elderfield Otterbourne Winchester
+manuscript-location: MS  West Sussex County Record Office/ Add. 16,944/3
+original-date: '2011-10-14 19:43:36'
+title: To  Maria Edith Walker
+wordpress-id: 3428
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Miss Walker](../persons.html#2234)
+I should like much to know your [Grandmother](../persons.html#2199)’s name, in case I should have heard of her from my [mother](../persons.html#1606).
+
+The curious thing is that my mother had no idea that she was a success.
+
+She was very miserable at school, being really too delicate for the treatment of those days and never well in London.
+
+She thought her lessons were always marked ‘très mediocre’, and her comfort was watching the hands of the watch, and sometimes getting a walk with her step brother afterwards [Lord Seaton](../persons.html#313) - who told me some 50 years later that it had been a mistake to send her to school for she was too clever for most of her companions.
+
+She was extremely surprised when I repeated it to her, for I do not think she had the least idea that she was clever or an example, though the school certainly did remove from some church in consequence of some home report of the doctrine.
+
+The only schoolfellows whose names I remember to have heard her mention were Charlotte and [Mary Anne Mapletoft](../persons.html#412).
+
+Mary Anne married [Dr Davys](../persons.html#411), the Queen’s tutor, and afterwards Bishop of Peterborough.
+
+The friendship was kept up, and the daughters were great friends of mine.
+
+One granddaughter [Edith Argles](../persons.html#56), is on the Calcutta Mission.
+I do not know Tongue grass I think it must be an Irish name for it is in neither of my books.
+
+Playing at travellers may be the game analogous to the Old Coach, where the players jumped up if the place was mentioned, or the one you describe.
+
+My cousins had one of the wonders of nature volcanoes &c, and another where the padlock sent one back to find the key, both moulded on the game of the Goose.
+I think my mother once acted ‘Iras’ at the school[^1] Do you remember Miss Mitford’s account of the ‘Search after Happiness’ at her school at Reading?[^2] They call it laylock here, but certainly not with the circumlocution as to the colour! I regret the laylock prints people used to wear
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Shakespeare’s Antony and Cleopatra seems an odd choice for a girls’ school, and this may be a misreading.
+
+[^2]: Hannah More, A Search after Happiness: A Pastoral, in three dialogues.
+
+By a young Lady (Bristol: Farley 1773).
+
+Mary Russell Mitford gives a description of its being performed at her school in \'Early Recollections\', published in the second volume (1826) of Our Village.
+

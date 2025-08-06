@@ -1,0 +1,36 @@
+---
+date: '1868-05-06'
+display-date: May 6th 1868
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Princeton University, Parrish Collection, C0171: Box 29'
+original-date: '2010-06-15 14:25:38'
+title: To Florence Wilford
+wordpress-id: 2244
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Florence](../persons.html#1520),
+You wrote just in time for the pattern. I am going to send it tomorrow.
+
+There are five stitches between the outsides of each medallion and five rows of red beyond them at the top and bottom.
+I am glad you have brought back your invalid safe and better and I wish you could speak better of your eldest [sister](../persons.html#1519).
+
+Is [Mrs Cristall](../persons.html#384) pretty well again.
+
+Yes, I was at Oxford.[^1] I think that E was meant for [Miss Sewell](../persons.html#1305), though as it happened the one who was there was the only one whose name does not begin with E. out of all the Aunts and nieces.[^2] I was sitting just by her too. I went up at 9 o’clock and was in time for everything except the first clauses of the Litany. I never knew anything so perfect or so consoling and brightening as was the entire day - the speeches were so admirable but the chants at the stone laying were the point above all.
+
+The verses sung were by [Mr Bright](../persons.html#199) of University whose poems you liked so much.
+
+Your affectionate
+
+C M Yonge
+
+[^1]: For the laying of the first stone of Keble College, Oxford.
+
+[^2]: Janetta Sewell, who kept house for her brother, the Warden of New College, Oxford, sister of Elizabeth Missing, Ellen and Emma Sewell and aunt of Eleanor Sewell.
+
+[^3]: William Bright (1824–1901), of University College, Oxford, who had published Hymns and Other Poems (London: Rivington 1866).
+

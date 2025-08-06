@@ -1,0 +1,32 @@
+---
+date: '1885-11-17'
+display-date: Novr 17th 1885
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54921: 135-6'
+original-date: '2011-09-28 11:48:59'
+title: To George Lillie Craik
+wordpress-id: 2820
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#279)
+The story I wrote to you about will be ready in less than a week.
+
+If I am not getting like the Archbishop of Granada, I think it is better than my last two or three.[^1] Shall I send it up to the printers?
+
+Which would be the most taking first title- [Chantry House](../books.html#186) or the Mullion Chambers The second title must be the same in any case - the ConfessionsNarrative of A Garrulous old man.
+
+The time of the story is from 1827 to 47 - the narrative of the deformed brother of the hero who having been dismissed from the navy for boyish cowardice at Navarino has to redeem his character and having that sensitive temperament that is sensible to spectral impressions, is more aware than others of a ghost - whose history has to be found out and wrongs redressed.
+
+Of course the house is Chantry house, the haunted room the Mullion Chamber.
+I began it by the first name, and that occurs in the first pages, the other not for some time, but it is an open question which is best
+
+Yours truly
+
+C M Yonge
+
+[^1]: The Archbishop is a vain character in Lesage\'s Gil Blas (1715-1735).
+

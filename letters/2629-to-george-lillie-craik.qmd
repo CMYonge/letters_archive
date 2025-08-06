@@ -1,0 +1,28 @@
+---
+date: April 25th [187?] [[footnote:1]]
+display-date: April 25th [187?] [[footnote:1]]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54921: 9 '
+original-date: '2011-08-08 12:35:38'
+title: To George Lillie Craik
+wordpress-id: 2629
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379),
+
+I am much obliged for the cheque, I feel as if I hardly deserved it after all the trouble I have given [Mr Freeman](../persons.html#523).[^2]
+
+Yours truly
+
+C M Yonge
+
+[^1]: The year is hard to read and the letter has been filed under 1875.
+
+[^2]: CMY\'s [History of France](../books.html#99) had been heavily revised after criticism from E. A.
+
+Freeman, the editor of the \'Historical Course for Schools\' series.
+

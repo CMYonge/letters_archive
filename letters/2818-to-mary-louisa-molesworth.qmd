@@ -1,0 +1,28 @@
+---
+date: '1885-11-09'
+display-date: 'Novr 9th [1885] '
+from-address: Elderfield Otterbourne Winchester
+manuscript-location: MS Princeton University, Parrish Collection
+original-date: '2011-09-28 11:29:48'
+title: To Mary Louisa Molesworth
+wordpress-id: 2818
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mrs Molesworth](../persons.html#1028)
+I am very sorry there has been such a delay in answering your letter.
+
+All those directed to the office were delaying in coming to me by a mistake
+I shall be very glad to see your MS if you will still send it to me, it had better come direct here, to save time[^2]
+
+Yours truly
+
+C M Yonge
+
+[^1]: Envelope addressed to ‘Mrs Molesworth 85 Lexham Gardens/Kensington/ W London’ postmarked No 10 85.
+
+[^2]: Mary Louisa Molesworth, \'One Sunday Morning\' MP 3s 11 (April 1886) 327-337.
+

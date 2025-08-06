@@ -1,0 +1,24 @@
+---
+date: '1852-11-01'
+display-date: Novr 22d [1852]
+from-address: 'Otterbourn '
+manuscript-location: 'MS Huntington Library: Yonge Letters '
+original-date: '2010-03-22 10:21:48'
+title: To Elizabeth Roberts
+wordpress-id: 3004
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Madam](../persons.html#1243),
+The wreaths for these autumn months have been so much smaller that I am sorry to say that there is [only 7/6](../others.html#102) to send you for this quarter, and here are P.O. stamps to that amount. I have not yet heard what we shall be able to do next year. I think that '[the Lesser Holydays](../others.html#234)’ is the name that best approves itself to me, what do you think of it. I know the poem of [Mary Howitt](../persons.html#1729)’s you mention, but we have it not in the house nor do I know where I read it.
+
+If ever I come on it I will send it to you.
+
+With many thanks for your [Garland](../others.html#225), which has been one of the choicest possessions of this years [Packet](../others.html#52)
+
+Yours sincerely
+
+C M Yonge

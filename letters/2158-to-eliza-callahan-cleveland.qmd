@@ -1,0 +1,31 @@
+---
+date: '1867-03-27'
+display-date: March 27th 1867
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
+original-date: '2010-06-10 09:11:51'
+title: "To Eliza Callahan Cleveland\t\t\t"
+wordpress-id: 2158
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Cleveland](../persons.html#307),	
+I am greatly obliged by your kind notes, and the books which give a very sad and interesting picture. I have read about half through the first volume, and have been greatly interested by many of the lives.
+
+Thanks too for the permission to use those sketches of the good works done among the negroes for [Mission Life](../others.html#80), it is a very good magazine, edited by the Reverend [J.W.
+
+Halcombe](../persons.html#604), and published by Rivington, and it would be a very good thing to make it known in America.
+
+Any more particulars you could send for it would be most gratefully accepted for it does not confine itself to the work of our [Society for the Propagation of the Gospel](../others.html#41), but goes into the history of older Missions biographies of Missionaries and the like
+With many thanks
+
+Yours sincerely
+
+C M Yonge
+Many, many thanks to Mrs Robbins.[^2] I read those reports with great respect and enjoyment.
+
+[^1]: Unidentified, but possibly the children’s writer [Sarah Cook (Stuart) Robbins](../persons.html#1983) (1817-1910).
+

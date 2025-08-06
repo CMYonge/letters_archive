@@ -1,0 +1,26 @@
+---
+date: '1860-03-16'
+display-date: March 16th 1860
+from-address: Otterbourne, Winchester.
+manuscript-location: 'Princeton University, Parrish Collection, C0171: Box 29'
+original-date: '2010-05-04 13:26:03'
+title: "To John William Parker, Jr.\t\t\t\t\t\t "
+wordpress-id: 1786
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Sir](../persons.html#1143)
+
+If you are writing to [Tauchnitz](../persons.html#1396),[^1] I hope you will be kind enough to express my best thanks for the very curious and prettily got up book which I am much obliged to you for forwarding to me, the binding is beautiful, and there is much interest in the comparison of the contents. I thank you too for the enclosed review of [Miss Roberts](../persons.html#1244)’ book. I have not heard from her for so long that I begin to think she must be on her way home, and so do not write to her
+
+Yours faithfully
+
+C.M.
+
+Yonge
+
+[^1]: A Leipzig publishing firm, headed by Bernhard, Baron von Tauchnitz (1816-1895), which circulated paperback reprints of many English novels on the continent.
+

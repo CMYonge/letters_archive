@@ -1,0 +1,32 @@
+---
+date: '1869-02-13'
+display-date: Feb 13th [1869]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Columbia University Library, New York: Lohf Collection '
+original-date: '2011-10-10 16:43:05'
+title: To Ann Maria Carter Smith
+wordpress-id: 2301
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Smith](../persons.html#263),
+
+I hope you and the Incurable List are safe together somewhere![^2] I had no list of my own so I asked a friend to send you hers, and owing to some blundering of mine I really do not know whether she sent it to Wilden manor or to Charlton.
+
+Will you kindly when you have looked it over return it addressed
+
+[Miss Jacob](../persons.html#749)
+Crawley Rectory
+Winchester
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Black-edged paper.
+
+[^2]: The \'incurable list\' was evidently a list of candidates for admission to an asylum; perhaps either the [Home for Incurable and Infirm Women](../others.html#26) or the [Royal Hospital for Incurables](../others.html#37).
+

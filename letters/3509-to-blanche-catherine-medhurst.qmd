@@ -1,0 +1,24 @@
+---
+date: '1880-02-07'
+display-date: Feb 7th [1880s?]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
+original-date: '2011-10-10 13:11:22'
+title: To Blanche Catherine Medhurst
+wordpress-id: 3509
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Miss Medhurst](../persons.html#988)
+Many thanks for your little books.
+I dare say you will go on and prosper
+
+Yours truly
+
+C M Yonge
+
+[^1]: Although it is impossible to date this note precisely or identify the \'little books\', Medhurst\'s association with CMY and MP dates from 1874-1890.
+

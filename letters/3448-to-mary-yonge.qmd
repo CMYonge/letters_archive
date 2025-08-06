@@ -1,0 +1,25 @@
+---
+date: '1900-03-24'
+display-date: March 24 [1900]
+from-address: Elderfield
+manuscript-location: MS West Devon Area Record Office
+original-date: '2010-10-13 09:52:44'
+title: To Mary Yonge
+wordpress-id: 3448
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mary](../persons.html#1626)
+I am out in the drawing room again but no farther till the wind changes, and the cough departs, but [Helen](../persons.html#1613) is coming to look after me on Monday, and [Miss Finlaison](../persons.html#512) has done so most kindly.
+
+By the by I never have had a headache all through so I don’t know how she came to [illegible] it- I hope [Sydney](../persons.html#2178) is better - [Augusta](../persons.html#1180) has begun to write letters again - All the spring seems cut short by the weather except the catkins.
+I am sorry to miss the Friday evening sermons which are on popular sayings
+All is not gold that glitters
+A friend in need is a friend indeed
+Time and Tide wait for nobody – I only heard the first and second and liked them much
+your most affectionate
+
+C M Yonge

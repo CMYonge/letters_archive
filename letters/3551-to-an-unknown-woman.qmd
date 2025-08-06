@@ -1,0 +1,23 @@
+---
+date: '1853-02-09'
+display-date: Feb 9th [after 1853]
+from-address: ''
+manuscript-location: 'MS New York Public Library: Berg Collection '
+original-date: '2011-02-02 11:38:11'
+title: To an Unknown Woman
+wordpress-id: 3551
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Madam
+I am obliged by your MS, but Alexandrine des Escherolles has been already translated. [^1]
+
+Yours truly
+
+C M Yonge
+
+[^1]: Private Trials and Public Calamities or, The early life of Alexandrine des Écherolles, during the troubles of the first French revolution 2 vols (London: Bentley 1853), a translation by Anne Percy of Alexandrine des Écherolles, Quelques années de ma vie (Moulins 1843).
+

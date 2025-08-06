@@ -1,0 +1,38 @@
+---
+date: '1898-09-25'
+display-date: Sept 25th 1898
+from-address: Elderfield Otterbourne
+manuscript-location: 'MS UCLA: collection 100: box 95'
+original-date: '2010-06-30 11:48:23'
+title: To the Countess of Glasgow
+wordpress-id: 3381
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Lady Glasgow](../persons.html#566)[^1]
+That is a beautiful testimony from the Scotsman to the great work at Sta.
+
+Cruz, [Bishop Cecil Wilson](../persons.html#1651) is keeping it up, and now it is under British protection his work will be the less hindered. I believe the Church to be built in memory of [Bp John Selwyn](../persons.html#1296) is to be in the island of Florida, where there is a considerable number of scholars.
+
+He says that everywhere the teaching of Christianity is called by even the heathen the preaching of Peace.
+
+Sometimes a village sends a deputation to ask for the Preaching of Peace, and really they do begin by giving up wars and deadly feuds—also by keeping the Sabbath, which last is so congenial to their laziness that they make two or three Sabbaths in a week.
+
+Hursley is preparing for a great celebration of the 50th Anniversary of the Consecration of the Church on the 24th of October.
+
+We are to hear of South Africa on Sunday week.
+
+No doubt you have seen the [book on the University Mission](../books.html#245) which is just coming to a second edition.
+I am afraid people think there is too much good advice in [Mothers in Council](../others.html#82), and want more variety.
+
+There is an interesting appeal for the deaf and dumb mothers coming in the next number.
+
+Yours very sincerely
+
+C M Yonge
+
+[^1]: Montagu Abercromby (1835/6–1931) married (1856) the 6th Earl of Glasgow (1825-1890), a leading Scottish Tractarian; she was the niece of [Alexander Penrose Forbes](../persons.html#516), Bishop of Brechin, whose attempts to sustain Scottish Tractarianism were so dear to [Keble](../persons.html#798)\'s heart.
+

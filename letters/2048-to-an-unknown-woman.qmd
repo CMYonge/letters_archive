@@ -1,0 +1,24 @@
+---
+date: '1864-06-01'
+display-date: June 23d [1864?]
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: 'MS Columbia University Library, New York: Samuels, J.H. Collection '
+original-date: '2011-10-10 16:41:50'
+title: To an Unknown Woman
+wordpress-id: 2048
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Madam,
+I send herewith a copy of [Heartsease leaves](../books.html#45), but I am afraid I must ask you to return it. I had some copies once sold for a bazaar, but they are all gone now, except one or two for home consumption of which I send one.
+I am glad that the [Christian names](../books.html#48) gave you any amusement
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: This letter evidently predates the republication of Last Heartsease Leaves as \'Lost Heartsease Leaves\' in Events of the Month (January 1865).
+

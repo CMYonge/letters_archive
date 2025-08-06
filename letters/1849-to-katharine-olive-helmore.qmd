@@ -1,0 +1,33 @@
+---
+date: '1861-12-26'
+display-date: St Stephen [26 December 1861]
+from-address: Otterbourn
+manuscript-location: MS Charlotte Mitchell/Cobweb-3
+original-date: '2010-05-11 17:27:51'
+title: "To Katharine Olive Helmore\t\t\t\t\t "
+wordpress-id: 1849
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Cobweb](../persons.html#675),
+Many thanks for your share of the photograph book[^2], which is a very pleasant possession though my view of your self was so fleeting that I am no judge of the likeness- I was in hopes of being able to send a photograph of myself to all [my faithful brood](../others.html#104), but the man at Plymouth after keeping us waiting for two months for some copies, announced that the negative was broken.
+
+There had been two done, one of me alone, and one of my mother and myself together, and it is the single one that he says is broken.
+
+We did not give my address, except to Puslinch, not wishing him to make a lion of poor old Mother Goose, so I am rather amazed to hear that he has been disposing of me -[^3] Will you please let me know by return of post whether the one you have is the two figure one or if it is only one let me see whether it is my real self. I will faithfully send it back, but I should like to make out about it-
+You are at present at the head of the poll for the prize questions, that is to say you have three votes, and [Firefly](../persons.html#1168) two [Chelsea Delf](../persons.html#329) two, all the others do not rise above one, but [Lady Bird](../persons.html#17) and the [Secretary](../persons.html#351) have not voted yet, and I am afraid I shall not be able to tell you the result till Monday at soonest[.] I am in the midst of studying the questions of this month-
+Please thank Chelsea Delf for photograph and note and tell her I would write but that I have so many notes today to do, that I fear there will be no time
+your affectionate
+Mother Goose
+
+[^1]: With associated blue envelope 78mm x 135mm addressed to Miss Helmore/ Cheyne Walk/ Chelsea/ SW, postmarked Winchester 26 Dec 1861 and London 27 December 1861.
+
+[^2]: The Goslings had presented CMY with an album of their photographs.
+
+See the letter to Henrietta Fursdon (31 December 1861).
+
+[^3]: The mothers of Katharine Helmore and Christabel Coleridge (whose Gosling name was Chelsea Delf) were sisters called Pridham and came from Plymouth, which probably explains how Cobweb obtained this photograph. A studio photograph of CMY standing, with FMY seated, in the Yonge collection, Plymouth and West Devon Record Office, is probably one of the images referred to here. CMY was evidently unhappy that images of her were being sold by the photographer: here the word \'lion\' means \'celebrity\'.
+

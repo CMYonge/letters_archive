@@ -1,0 +1,37 @@
+---
+date: '1867-10-01'
+display-date: '[late October] 1867'
+from-address: '[[other:196]Weston] St Mary Church Torquay '
+manuscript-location: 'MS British Library Add MSS 54920: 192-193'
+original-date: '2010-06-13 17:36:57'
+title: "To Alexander Macmillan\t\t\t\t"
+wordpress-id: 2213
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939)
+I am glad to hear of your prosperous return and thank you much for having safely conveyed the parcel to [Miss Lewis](../persons.html#873).[^2]
+
+I am much dismayed to find that what I have written for the [Pupils of St John](../books.html#72) is insufficient.
+
+If I had only been told so when I sent in my MS, I should have been at home among my books and have had plenty of time and convenience for expanding it, but now when I am from home, only two months from Christmas, I do think it is hard to have the discovery suddenly made, when you know I had abridged it by [Miss Martin](../persons.html#971)’s special desire.
+
+If I had known it in time, I could have thought out what expansions and additions to make.
+
+Now I hardly see what to do, for here I can do nothing and I do not get home till the 12th and then I have much to do, as well as having visitors in the house.
+
+Can you pick /put\ any one else’s book first or give me another month? I can hardly fancy Miss Martin could have understood the time and trouble it costs to look up such a subject or she would have told me that this 150pp more was wanted at least six weeks ago. I am quite willing to give up a third of the sum I was to have for it, if you decide on publishing it as it is, or I will try to get it ready for the 1st of February, but I am too much interrupted here to be able to think how the enlargement is to be effected.
+
+Will you kindly have the new no of the [magazine](../others.html#78) sent to me here.
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Endorsed ‘Macmillan replied 1 Nov’.
+
+[^2]: CMY\'s friend in Philadelphia, to whom Macmillan had, at CMY’s request, delivered \'a roll of paper containing an illumination\'.
+

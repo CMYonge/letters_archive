@@ -1,0 +1,24 @@
+---
+date: '1899-01-02'
+display-date: Jan 2 1899
+from-address: Elderfield Otterbourne Winchester
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e.174 ff 162-3'
+original-date: '2011-12-16 12:52:54'
+title: To the Reverend John Frederick Watkinson Bullock
+wordpress-id: 3392
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Bullock](../persons.html#221),
+I am glad you have succeeded at last in getting an opportunity for publishing[^1]
+Certainly executors are very troublesome to deal with as they are not acting for themselves. I am sending an order paper for one person, a cousin, who I hope may have one
+
+Yours truly
+
+C M Yonge
+
+[^1]: CMY refers to Bullock\'s Daily Lections project, to which she was contributing.
+

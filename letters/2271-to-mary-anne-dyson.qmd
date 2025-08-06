@@ -1,0 +1,38 @@
+---
+date: '1868-09-30'
+display-date: September 30, 1868
+from-address: Elderfield, Otterbourne, Winchester
+manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  235
+original-date: '2010-06-16 13:24:16'
+title: "To Mary Anne Dyson\t\t\t\t"
+wordpress-id: 2271
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Marianne](../persons.html#464)
+[Mr.
+
+Wither](../persons.html#1544) is at the [Hospital](../others.html#36) to-day or he would have written to you; he will write on Saturday.
+
+Meantime there is only to say that we are quiet and even cheerful, going to church and walking in the garden and talking over many things. [Julian](../persons.html#1624) and [Frances](../persons.html#1604) all kindness. I shall probably return to [Puslinch](../others.html#123) with [Anne](../persons.html#1582), but there is much to set in order, and Julian and I are executors together. I shall have the same income that she had besides my own, and I feel as if all directed me to go on in the same way here, where the lack of any other lady to deal with the parish makes me almost necessary, and besides, it helps Julian.
+
+[Harriet](../persons.html#1359) is full of keen sorrow.
+
+She is to make a visit to her aunt in Wiltshire when the stress of work is over.
+
+I think I should be here full a month before going, Anne with me.
+
+The present feeling is weight on all, but still peace and joy.
+
+Poor [Mrs.
+
+Hawkins](../persons.html#645).
+
+Your most affectionate
+C. M.
+
+Yonge

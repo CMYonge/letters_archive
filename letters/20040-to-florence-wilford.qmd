@@ -1,0 +1,34 @@
+---
+date: '1874-09-28'
+display-date: September 28th 1874
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: MS Pierpont Morgan Library, New York, MA 2768
+original-date: '2015-07-26 02:36:30'
+title: To Florence Wilford (?)
+wordpress-id: 20040
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Florence](../persons.html#1520)
+
+Publishing on commission does mean taking the risk and paying a percentage, above the expenses to the publisher.
+
+It is what I often do, always with [Mozley](../others.html#108)  The round sum for each edition is pleasant, and I don’t think you would get so much in the end by this as by selling copy right.
+
+But if Mr Cowie[^1] has answered you and is considering is there much use in my writing to him.  I would do it if it were to ensure his attention, but I think he will give that, and if one writes without necessity, it is rather wasting one’s recommending power and making it less effective when it is really needed  I wish [Ward](../others.html#235) would take the story, but he declined Chardham Fair,[^2] which I thought would have made beautiful illustrations and he has taken such stupid stories instead that I cannot judge of him
+
+your affectionate
+
+C M Yonge
+
+&nbsp;
+
+[^1]: ‘Mozley, Cowie and Smith’ appears briefly in 1874 as the imprint of the firm that was formerly [John & Charles Mozley](../others.html#108) (1845-1874) and became Mozley & Smith in 1875.
+
+Mr Cowie may have been the “foreman they took into partnership [who] immediately went mad, and upset the arrangements - and they had to go on paying him as partner after he was in an asylum, till the firm could be dissolved.” [CMY to Bartholomew Price 1882]
+
+[^2]: Evelyn Tod, Chardham Fair, an historical tale serialised in MP from January - September1873.
+

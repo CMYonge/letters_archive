@@ -1,0 +1,32 @@
+---
+date: '1890-02-01'
+display-date: '[February 1890]'
+from-address: ''
+manuscript-location: "MS location unknown. Printed in the <i>[[other:72]Girls\u2019\
+  \ Friendly Society Associates\u2019 Journal and Advertiser]</i> (February 1890)\
+  \ 23."
+original-date: '2010-06-04 20:23:46'
+title: "To the Editor of the <i>Girls\u2019 Friendly Society Associates\u2019 Journal</i>"
+wordpress-id: 9418
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+THE WOMEN’S REBELLION
+
+Dear Madam,-
+In the criticism of the Christmas number of the [Monthly Packet](../others.html#52), ‘The Women's Rebellion’ is said to be incorrect because parish priests are always secular clergy.[^1] What may have been the ecclesiastical arrangements I do not know, but the [author](../persons.html#198), who well knows the north of Italy, has seen several parishes in charge of Capuchin friars; for instance Bordighiera.
+
+The incident really happened.
+
+I remain, &c.,
+C.M.
+
+Yonge.
+
+[^1]: This letter is followed on the same page with a letter headed \'AN APOLOGY\' and signed \'Your penitent Reviewer\'.
+
+The author says she consulted \'two Roman Catholics, a Frenchwoman and an Italian,\' who both \'held my view\', but admits that \'as facts are \"stubborn things,\" we are obviously as wrong as the authoress of the Women’s Rebellion is right.\'
+

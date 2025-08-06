@@ -1,0 +1,33 @@
+---
+date: '1892-03-04'
+display-date: March 4th 1892
+from-address: Elderfield
+manuscript-location: 'MS Girton College Cambridge, Yonge VIII 7  '
+original-date: '2010-07-07 15:10:34'
+title: To the Reverend William Parsons Warburton
+wordpress-id: 3192
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Warburton](../persons.html#1466)
+Tentatively I put the close of the Council of Trent as the end of the Church History Period - Also I mentioned Gardiner’s School history, not that I have seen it, but I have been told that it is remarkably fair and good about Cranmer.
+
+Did you hear this story
+Inspector -What was the first effect of Mary’s accession?
+
+Class - Several Bishops lost their sees.
+
+Inspector - Well, what does that mean?
+
+Silence -One boy at last
+They had their eyes put out
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Black-edged paper.
+

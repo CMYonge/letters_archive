@@ -1,0 +1,26 @@
+---
+date: '1876-01-29'
+display-date: Jany 29th 1876
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Humanities Research Center, University of Texas, Austin, Charlotte
+  M. Yonge collection/4
+original-date: '2011-07-14 09:54:03'
+title: To Louisa Lilias Greene
+wordpress-id: 2540
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mrs Greene](../persons.html#583)
+It is very prettily described but I am afraid the revulsion of feeling is too painful so I think I had better not accept it.
+
+The Copyright of your stories remains with you, and you are quite welcome to publish them separately[^1]
+
+yours truly
+
+C M Yonge
+
+[^1]: Greene had contributed a story, \'The Haunted Sacks\' to MP (Christmas 1875) which was reprinted in her God\'s Silver, or, Youthful Days (1877).
+

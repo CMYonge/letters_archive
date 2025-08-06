@@ -1,0 +1,27 @@
+---
+date: '1889-02-21'
+display-date: Febry 21st 1889
+from-address: Elderfield  Otterbourne
+manuscript-location: MS Princeton University, Parrish Collection
+original-date: '2011-10-06 10:29:35'
+title: 'To Charles Thomas John Hiatt '
+wordpress-id: 2902
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[Sir](../persons.html#2382)
+My only [paper](../books.html#268) in [Atalanta](../others.html#53) is on the Life of [Mr Keble](../persons.html#798).
+
+Those on Novel writing are by Mr [Walter Besant](../persons.html#1652)[^2]
+
+Yours truly
+
+C M Yonge
+
+[^1]: Envelope addressed to \'C T Hiatt Esq/ Sandon/ Wellington/ Salop\' and postmarked 1889.
+
+[^2]: This was an autograph hunter\'s trick to get a signature, see Martin Ray, \'Thomas Hardy\'s Letter to Charles Hiatt\' Notes and Queries 53 (2006), 338.
+

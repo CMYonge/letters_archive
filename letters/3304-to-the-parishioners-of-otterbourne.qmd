@@ -1,0 +1,19 @@
+---
+date: '1895-12-01'
+display-date: December 1895
+from-address: ''
+manuscript-location: Printed in the Otterbourne Parish Magazine (December 1895)
+original-date: '2010-09-07 14:18:53'
+title: To the Parishioners of Otterbourne
+wordpress-id: 3304
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Old Friends, -
+Will all of you who wish for the dole come to me before eleven o 'clock, and not send by children.
+
+Last year many boys came, who, I am sure were not sent by their mothers, and only heard of sixpences given. I should be very sorry to give up the dole that my [grandmother](../persons.html#103) found established eighty years ago, but the whole condition of the parish has altered, and I can only give to the old inhabitants of Otterbourne itself, and such of them as 6d. is really helpful to, though I am sure they know that they and all have my hearty Christmas love and wishes.
+C. M. YONGE.

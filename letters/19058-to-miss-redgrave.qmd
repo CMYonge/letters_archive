@@ -1,0 +1,29 @@
+---
+date: '1862-11-01'
+display-date: Nov 3d 1862
+from-address: Otterbourne, Winchester.
+manuscript-location: MS Charlotte Mitchell
+original-date: '2011-11-22 15:50:20'
+title: To Miss Redgrave
+wordpress-id: 19058
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Miss Redgrave](../persons.html#2411),
+I like your plea for the Hedgerow very much indeed and hope to put it in whenever there is room.
+
+Was that old man a real character, if he was, should there not be a note to say so.
+
+It would so much enhance the interest[^1]
+
+yours sincerely
+
+C M Yonge
+
+[^1]: This article cannot be identified in MP. CMY\'s correspondent may possibly be the Elizabeth Redgrave whose The Word and the Work, or, The Harmony of Scripture with Geological Discoveries (London: Mozley 1860) was praised in MP (January 1860), 111.
+
+It was described as \'a series of conversations between a clergyman and a mechanic, intended to popularize Hugh Miller\'s views of the Periods of Creation, and to show how they may be reconciled with the Scriptural narrative.\'
+

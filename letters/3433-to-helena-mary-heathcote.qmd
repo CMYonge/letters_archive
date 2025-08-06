@@ -1,0 +1,28 @@
+---
+date: '1899-11-04'
+display-date: November 4, 1899.
+from-address: Elderfield, Otterbourne
+manuscript-location: MS location unknown. Printed in Coleridge, [[otherbook:40]<i>Life</i>],
+  304
+original-date: '2010-10-11 13:09:27'
+title: To Helena Mary Heathcote
+wordpress-id: 3433
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Ellie](../persons.html#663)-
+Thank you for your letter.
+
+We have heard nothing more, and hardly look for anything, and indeed there had been only one letter from [him](../persons.html#1610) since he joined [Baden-Powell](../persons.html#2202), but that was enough to leave us no doubt that it is himself. [^1] I am so glad he had that year at home after the Matabele War.
+
+He was very much loved here.
+
+There was to have been a ‘Social Evening,’ but the people begged to put it off for they could not enjoy it.-
+Your affectionate
+C. M. YONGE.
+
+[^1]: CMY\'s nephew George Yonge, killed on 22 October 1899 at Crocodile River, Rhodesia, during the Boer War.
+

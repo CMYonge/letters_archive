@@ -1,0 +1,20 @@
+---
+date: Augst 1st [n.y.]
+display-date: Augst 1st [n.y.]
+from-address: Elderfield
+manuscript-location: University of Tennessee Special Collections Library
+original-date: '2011-10-10 13:30:57'
+title: To an Unknown Woman
+wordpress-id: 3517
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam
+I am obliged by your M S, but I have no space for it
+
+yours truly
+
+C M Yonge

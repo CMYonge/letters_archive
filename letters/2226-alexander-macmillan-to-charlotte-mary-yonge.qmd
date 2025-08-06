@@ -1,0 +1,39 @@
+---
+date: '1867-12-31'
+display-date: Dec.31. 1867.
+from-address: ''
+manuscript-location: 'Copy outletter book British Library Add MSS.55387 (2): P. 827'
+original-date: '2010-06-14 17:52:40'
+title: Alexander Macmillan to Charlotte Mary Yonge
+wordpress-id: 2226
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Miss Yonge	
+Thanks for your latest letter.[^1][ I ](../persons.html#939)will have the setting up of the Epistle seen to at once.
+
+Indeed you are a valuable ally for us, in our scheme.
+
+The man after all is never very far from the Child, and however much we learn we cannot unlearn what is worth all the learning in the world, the common humanity the recognition and expression of which in words is what we call genius.
+
+Indeed it was no concise instinct that led me to ask you to open our [series](../others.html#145).
+
+But it is absurd for me to speak as if you were not learned even in the sense I mean.
+
+No learnedest man could have put in the touches with such [illegible] & delicate truth than you, had we only had a clearer understanding.
+
+About the translation I dont think there can be much difficulty. I will cut it up as you prefer, and you can easily give it the antiquarian air you speak of. I will ask a friend to look over it.
+
+All best New Year blessings be with you
+Yours faithfully
+Alex.
+
+Macmillan
+
+[^1]: There are no letters from CMY in the Macmillan archives between December 4 1867 and May 5 1868, even though there are copies in the outletter book of 11 written by Macmillan on issues relating to the final publication of [The Pupils of St John](../books.html#72) (the opening volume in Macmillan\'s Sunday Library series), and to the progress of her [Cameos from English History](../books.html#73) and of the [Historical Selections](../books.html#71) she was editing with[Elizabeth Sewell](../persons.html#1301).
+
+One possibility is that Macmillan gave the letters to [Frances Martin](../persons.html#971).
+

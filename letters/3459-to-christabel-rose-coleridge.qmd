@@ -1,0 +1,37 @@
+---
+date: '1900-05-14'
+display-date: May 14 [1900]
+from-address: Elderfield
+manuscript-location: MS Mrs Clare Roels/96.  Printed by Coleridge, [[otherbook:40]<i>Life</i>],
+  344, and dated by her 1900
+original-date: '2010-10-20 11:19:34'
+title: To Christabel Rose Coleridge
+wordpress-id: 3459
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [C C](../persons.html#329)
+No, you did not send me a notice of Red Pottage I am thankful you did not for that and [Canon Lias](../persons.html#2227) would have been enough to tear [M in C](../others.html#82) to pieces.[^1] However he thinks too much fuss is made about the MS in the brother’s house.
+
+Do you remember [Edna Lyall](../persons.html#2228) subscribing to [Bradlaugh](../persons.html#2229) from [Canon Crowfoot](../persons.html#2230)’s house at Lincoln[^2]
+But I think people with Consciences ought to reflect on the harm they do to morbid imaginations by dwelling on suicide, and I do think that contemplation of sin is not the way to purity of heart.
+[Rosina](../persons.html#418) has had very good marks for all her [R U ](../others.html#211)work, once 100 once 99 - never less than 70, the last on the Little Treasury was 89[^3] but I think it is rather hard to be censored for not being long enough when there were orders only to use two sheets, and every corner was filled.
+
+She was told she should have paraphrased the Bar, and there was no room to have done it, though she explained and commented on it.[^4] The same with a bit of Church history.
+
+Her writing is not small, so some may have had room but I think they must have compared B with A She does not mean to try again as the writing takes too much time but goes on reading with me, and we have just begun [Sintram](../others.html#102)
+your affte
+
+C M Yonge
+
+[^1]: Lias had reviewed Red Pottage unfavourably in Mothers in Council, and Coleridge, who was a friend of its author, admired it.
+
+[^2]: A letter from \'Edna Lyall\' was published inthe Pall Mall Gazette (24 June 1891), 2, endorsing an appeal for funds to support Bradlaugh\'s surviving daughter, to which she herself subscribed, although she was a pious Anglican and he was a notorious atheist.
+
+[^3]: Her kitchen-maid, whom she was coaching for the Girls\' Friendly Society Reading Union.
+
+[^4]: The task was perhaps to paraphrase Tennyson\'s poem \'Crossing the Bar\'
+

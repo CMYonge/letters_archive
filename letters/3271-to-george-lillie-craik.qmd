@@ -1,0 +1,24 @@
+---
+date: '1894-07-21'
+display-date: July 21st 1894
+from-address: Elderfield Otterbourne Winchester
+manuscript-location: 'MS British Library  Add MSS 54921: 208-9'
+original-date: '2010-08-14 11:19:33'
+title: To George Lillie Craik
+wordpress-id: 3271
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+I see that your [‘house’](../others.html#111) appears in the list of subscribers to the [Surgical Aid Society](../others.html#16).
+
+Do you think one or more letters could be spared to me? A little child was sent from the Society for protecting [Waifs and Strays](../others.html#2) with a lame foot paralysed after measles- to be boarded at a cottage here.
+
+She is now in the [Orthopaedic hospital](../others.html#9), but she requires a boot and irons, and the expense is heavy, so that we should be very thankful for any letters to the surgical aid society to help us with it
+
+Yours truly
+
+C M Yonge

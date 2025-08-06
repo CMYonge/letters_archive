@@ -1,0 +1,21 @@
+---
+date: '1884-03-30'
+display-date: March 30 1884
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Charlotte Mitchell. '
+original-date: '2015-03-09 13:53:53'
+title: To Florence Horatia Nelson Suckling
+wordpress-id: 19866
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mrs Suckling](../persons.html#1380)
+
+Would you be so kind as to send the prospectus or at any rate some papers about the [Band of Mercy](../others.html#265) to [Mr Streatfield](../persons.html#2438) the clergyman of Kingsworthy (Winchester)  I am afraid I dont know his Christian name, but he seemed much inclined to join it with his schoolchildren, and I promised him to ask you to send him the papers
+
+yours truly
+
+C M Yonge

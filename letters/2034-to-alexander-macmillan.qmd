@@ -1,0 +1,35 @@
+---
+date: '1865-05-17'
+display-date: May 17th 1865
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54920: 86-87 '
+original-date: '2010-05-25 18:31:23'
+title: To Alexander Macmillan
+wordpress-id: 2034
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Macmillan](../persons.html#939),
+Thank you for Mr Trevelyan’s Cawnpore, which will I am sure be terribly engrossing reading.[^1]
+I waited to write both because I was trying to satisfy myself with the beginning of [Moses](../others.html#177), and because I wanted to see what the [London Library](../others.html#29) would send me.
+
+And the latter is just at present - Nothing, so I should be very much obliged if you would lend me Stanley’s Sermons in Palestine and Thomson’s and Kitto’s books - which would be a great help. I have been writing and re writing the early part of Moses, and trying to settle how much about Egypt to put in, and at present I think it seems safest not to meddle with the uncertain chronology by trying to identify the Pharaohs in such a book as this.
+
+All that can be said for them /now\ has been so well said in Miss Keary’s book. I am trying to illustrate the religion of the desert tribes of Moses 40 years waiting out of the Book of Job.
+
+Then I don’t think I shall say much of the Israelite wanderings, except marking what in the Law was preparation.
+
+Children /or young people\ know the narrative but do not know the core of the history - the preparation.
+I believe a parcel of books is coming to me from [Mme de Witt](../persons.html#423), directed to your care.
+
+Will you kindly let them come through [Messrs Nutt](../others.html#178).
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: She was writing a [review](../books.html#59) of Trevelyan\'s book about the massacre at Cawnpore during the [Indian Mutiny](../others.html#134).
+

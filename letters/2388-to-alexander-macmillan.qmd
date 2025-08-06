@@ -1,0 +1,25 @@
+---
+date: '1870-09-13'
+display-date: Sept 13th [1870]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Princeton University, Parrish Collection, C0171: Box 29'
+original-date: '2011-06-02 11:15:37'
+title: To Alexander Macmillan,
+wordpress-id: 2388
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939),
+Have you made any arrangements with American publishers about my [Scripture Readings](../books.html#87)? I think I might perhaps do so, but I should like first to know whether you have any views.
+[Miss Sewell](../persons.html#1301) is very anxious to know when the [selections](../books.html#82) are to come.
+I suspect you are from home.
+
+Yours truly
+
+C M Yonge
+
+[^1]: Black-edged paper.
+

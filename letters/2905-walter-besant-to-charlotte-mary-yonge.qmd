@@ -1,0 +1,20 @@
+---
+date: '1889-04-08'
+display-date: April. 8. 1889.
+from-address: "Incoporated [[other:44]Society of Authors], 4, Portugal Street, Lincoln\u2019\
+  s Inn Fields, W. C."
+manuscript-location: MS Harry Ransom Humanities Research Center, University of Texas,
+  Austin.
+original-date: '2011-10-06 10:39:50'
+title: Walter Besant to Charlotte Mary Yonge
+wordpress-id: 2905
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Miss Yonge
+Will you kindly read the enclosed and if you approve of the petition will you kindly sign it and send it back to me here?
+very truly yours
+[Walter Besant](../persons.html#1652)

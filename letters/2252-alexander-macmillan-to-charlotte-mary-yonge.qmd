@@ -1,0 +1,21 @@
+---
+date: '1868-06-10'
+display-date: ' June 10 1868'
+from-address: ''
+manuscript-location: Copy outletter book British Library Add MSS.55387 (1) P. 447
+original-date: '2010-06-16 09:11:18'
+title: 'Alexander Macmillan to Charlotte Mary Yonge   '
+wordpress-id: 2252
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Miss Yonge,
+I shall certainly be here between 3& 5 on Friday, unless something quite unforeseen falls out, and be very glad to see you.
+
+Yours very faithfully
+[A.
+
+Macmillan](../persons.html#939)

@@ -1,0 +1,23 @@
+---
+date: '1884-01-01'
+display-date: Jany 23d 1884
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS UCLA: collection 100: box 95'
+original-date: '2011-09-21 15:32:23'
+title: To Walter Besant?
+wordpress-id: 2785
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[Sir](../persons.html#1652)
+I should be very glad of the establishment of the copy right system with [America ](../others.html#172)but I should like to have more information before joining the [Company of Authors](../others.html#44).
+
+Yours truly
+
+C M Yonge
+
+[^1]: The letter evidently relates to the foundation of the Society of Authors in 1884; Besant was the prime mover in the organisation but the letter may have been addressed to a colleague.
+

@@ -1,0 +1,29 @@
+---
+date: '1874-05-13'
+display-date: May 13 1874
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Eton College, ALS to AIT.
+original-date: '2011-07-12 10:57:43'
+title: To Anne Isabella Thackeray
+wordpress-id: 2502
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Thackeray](../persons.html#1240)
+Did you have a silver gilt button for fastening a glove the day you were here?
+
+We found one the next morning but as we had some visitors after you.
+
+We waited to ask them, and one of them was gone away, and could not be applied to.
+I conclude you are still in your old home, and shall therefore address to you there.
+
+Yours sincerely
+
+C M Yonge
+I have actually spoilt an envelope by directing to you at Old Kensington![^1]
+
+[^1]: One of CMY\'s correspondent\'s best-known novels was Old Kensington.
+

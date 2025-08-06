@@ -1,0 +1,23 @@
+---
+date: '1877-01-19'
+display-date: Jany 19th 1877
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Yale University, Beinecke Library '
+original-date: '2015-07-20 18:48:54'
+title: To an unknown man
+wordpress-id: 20015
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Sir
+
+I am grateful for what you say of the [Scripture Readings](../books.html#87), I did consider of the use of paragraphs, but as I meant the book primarily for school reading I though the loss of verses would be inconvenient, and I myself do not like using a paragraph Bible because I can never find anything quickly in it
+
+Perhaps I was actuated by my childish dislike to Lloyd’s Bible which used to seem to me unnatural.
+
+yours truly
+
+C M Yonge

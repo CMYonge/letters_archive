@@ -1,0 +1,32 @@
+---
+date: '1893-12-01'
+display-date: '[December 1893]'
+from-address: ''
+manuscript-location: MS West Devon Area Record Office Ac 1092/28
+original-date: '2010-07-29 16:06:43'
+title: To Dorothea Yonge
+wordpress-id: 3240
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Dorothy](../persons.html#851)
+I could not but be quite sure what the contents of your letter would be.
+
+It is a peaceful end at last, to a life that was always kept happy and innocent.
+
+The real sorrow can only be for [Mary](../persons.html#1626), who must miss that one thought and care so dreadfully, though after all there is great comfort in knowing that she has not to leave [Frances](../persons.html#1605).[^2] I only hope she will not break down after the long strain. I am glad you are able to be with her, but it is a most sad time for you all and especially for your [Mother](../persons.html#1587). I have been constantly thinking of her and of [Geoffrey](../persons.html#1609) both my Godchildren[^3]
+your affectionate
+
+C M Yonge
+
+[^1]: With envelope addressed to Miss Dorothea Yonge
+
+[^2]: Frances Elizabeth Yonge (1829-3 December 1893), Mary’s youngest and last surviving sister, aunt of Dorothy Yonge.
+
+In her memoirs CMY comments that she had been permanently affected by measles in childhood, which sounds as if she was mentally deficient.
+
+[^3]: Geoffrey Yonge (1867-24 December 1893), Dorothy’s third brother, a curate, was presumably already ill.
+

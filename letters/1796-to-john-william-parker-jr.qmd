@@ -1,0 +1,40 @@
+---
+date: '1860-07-05'
+display-date: July 5th 1860
+from-address: Otterbourne,Winchester.
+manuscript-location: 'MS Historical Society of Pennsylvania: Gratz Collection: Case
+  107, Box 1 '
+original-date: '2010-05-05 11:32:10'
+title: 'To John William Parker, Jr. '
+wordpress-id: 1796
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Sir](../persons.html#1143),
+I am obliged for your letter received this morning, and will decide on bringing out [Hopes and Fears](../books.html#37) as soon as possible.[^2] I will send the chapters from the [Constitutional Press](../others.html#65) to be reprinted as soon as I have looked over them. I think that the first edition should certainly be in two volumes uniform with the others, but after the experience of [Dynevor Terrace](../books.html#27),[^3] I am not inclined to make the number of copies more than 3000 at the most.
+
+Sheets should be sent to [Mr Layton](../persons.html#852), Messrs [Appleton](../others.html#142)’s agent.[^4] I had made arrangements with him before, but a periodical by some other firm has been bringing the story out, without any permission from me, and I rather rejoice in its being disappointed.
+I will send the chapters early next week
+Yours faithfully
+
+C M Yonge
+
+[^1]: Printed by David Bonnell Green, [ \'Two Popular Novelists of the ‘Fifties and Their Publisher: Letters from G. J.
+
+Whyte Melville and Charlotte M.
+
+Yonge to John William Parker, Jr.\'](../others.html#75) Notes & Queries. 10:450-454. 1963.
+
+[^2]: It appeared later in 1860.
+
+[^3]: Published in 1857.
+
+[^4]: Charles Layton, agent of Daniel Appleton and Co. of New York. see The George Eliot Letters, ed.
+
+Gordon S.
+
+Haight (New Haven, 1954-56), III, 268, n. 4.
+

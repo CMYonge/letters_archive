@@ -1,0 +1,18 @@
+---
+date: '1890-01-01'
+display-date: '[1890s?]'
+from-address: ''
+manuscript-location: 'MS Bodleian Library, Oxford: English Letters: e.174 ff177'
+original-date: '2010-03-02 15:02:30'
+title: To the Reverend John Frederick Watkinson Bullock
+wordpress-id: 3597
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Will this answer the purpose?
+C. M.
+
+Yonge

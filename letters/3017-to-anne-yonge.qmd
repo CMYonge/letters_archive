@@ -1,0 +1,53 @@
+---
+date: '1853-12-14'
+display-date: Decr 14th [1853]
+from-address: Otterbourn
+manuscript-location: MS West Devon Record Office Acc 1092/9
+original-date: '2010-03-23 14:05:59'
+title: To Anne Yonge
+wordpress-id: 3017
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Anne](../persons.html#1582)
+I was very busy yesterday or I should have thanked you for your two notes, I thought it was a long time since we had heard from [Deer Park](../others.html#125), and had written to [Cordelia](../persons.html#319)[^1] the same day I wrote that scramble to you, though without any notion that there was anything the matter, I wonder whether [Edmund](../persons.html#322) had at all over done the cold water system, one is so very sorry to think of the good that he gained at Malvern being undone. I hope Cordelia’s London doctor may do as much for her as [Mrs Wilson](../persons.html#1539)’s[^2] has done for her. I have not known her so well since [Francis](../persons.html#1533) was born, she comes out for long drives in the rain, and drives through the flood, and goes about her house like other people.
+
+We are just come home from Hursley, whither we found the lower road shocking, most places covered with water, others ploughed up by the torrents, another mended like a corduroy road in America, with faggots, and another such mud!
+
+So we came home by the upper road & Cranbury where we met [Miss Chamberlayne](../persons.html#279) driving her white pony ‘O’ she said ‘we have had such mud!’ ‘So have we in the lower road’ ‘That’s just where we have been’ ‘That’s the reason we came this way’ ‘O dear! we saw your carriage in Hursley, and little thought why you took this way!’ We are to dine at [Cranbury](../others.html#119) on Friday. [ Julian](../persons.html#1624) seems to be pretty well again, he is going to spend a week with one of his brother officers in Bedfordshire, and is coming home about New Year’s day. [Papa](../persons.html#1631) has brought home [Mary](../persons.html#1626)’s letter for which Mamma thanks her, she will write to her tomorrow she hopes. I wonder how [Uncle Yonge](../persons.html#1623) and [John](../persons.html#1619) will like their party at Kitley, what a sociable person that [Duchess](../persons.html#1740) must be.[^3] One would think of the poor little [Duc de Chartres](../persons.html#1742) being lost in the revolution when one saw him.[^4] I should have thought that she being a German ought to talk English as well as French, I know a funny little German governess who talks a most funny patois of all three, helping herself our with her spirited manner.
+
+It was most funny to hear her describe her home Christmas tree. I want to say more but it is almost post time & I have got the packet to do up.
+
+St Stephen’s School is written by a lady in New Zealand.[^5]
+your most affectionate
+CMY
+
+[^1]: The Hon.
+
+Cordelia Anne L’Estrange Colborne (d.1862).
+
+Evidently both she and her brother Edmund had been ill.
+
+[^2]: Maria Trench (1820/1-908) married (1847) the Rev.
+
+Robert Francis Wilson (1808/9-1888), one of Keble’s curates and later Vicar of Rownhams.
+
+They had one son Francis Wilson (1848/9-1886).
+
+[^3]: The Duchesse d\'Orleans, who was a princess of Mecklenberg-Schwerin.
+
+[^4]: He had briefly become separated from his mother during her unsuccessful attempt to have the Chambre des Deputés acknowledge his elder brother as king in February 1848.
+
+[^5]: ‘St.
+
+Stephen’s Native Girls’ School’ MP 5 (January 1852) 73-77.
+
+There is an account of this school in Joan C.
+
+Stanley, \'Kissling, Margaret 1808 - 1891\'.
+
+Dictionary of New Zealand Biography.
+

@@ -1,0 +1,43 @@
+---
+date: '1896-01-28'
+display-date: Jan 28 1896
+from-address: ''
+manuscript-location: Copy outletter book Hampshire Record Office 70M92W/60/226
+original-date: '2010-02-22 11:14:46'
+title: Charles Wooldridge to Charlotte Mary Yonge
+wordpress-id: 3310
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam
+I enclose you a Statement about the fire Insurance shewing which I propose to use. I think this will be sufficient
+I am yours faithy
+[Chas Wooldridge](../persons.html#2094)
+
+If you will verify this list or return it to me I will send for a correct copy of the whole as soon as the new Policies are completed
+
+Miss Yonge PTO
+
+P.S.[^1]
+
+I see by the property tax assessment that there are two places apparently occupied by John Price &; that there are 4 other houses put down to you & occupied by Ruddock Davis, Day & Light & a house occupied by Mrs Bishop, making 19 altogether considering Prices as 2 occupations.
+
+The names & the assessment are
+
+Holly C Barford
+Norgat John Price}
+Hayes Do
+Mills Mw Mrs Bishop
+Rodaway E Ruddock
+C Gardner Mrs Davis
+C Ray jr Mr Martin Wm Day
+Cornelius Cabin Mrs H Light
+C Ray Senr
+
+[^1]: This letter survives reproduced faintly in a wetpress copy outletter book.
+
+What is evidently the original of this second page of the letter survives in the bundle Hampshire RO MS 67M92W/82/24. CMY perhaps returned it to him annotated and he used it further as an aide memoire.
+

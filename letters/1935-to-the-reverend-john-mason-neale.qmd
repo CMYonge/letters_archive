@@ -1,0 +1,24 @@
+---
+date: '1864-02-01'
+display-date: Febry 3d [1864]
+from-address: Elderfield
+manuscript-location: MS NLS 966 f.381
+original-date: '2010-05-20 14:23:28'
+title: To the Reverend John Mason Neale
+wordpress-id: 1935
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Dr Neale](../persons.html#1078),
+I enclose postage stamps for the paper taken up by the Honolulu letters.[^2] Pray thank [Sister Anne](../persons.html#1816) for her kind note to me acknowledging the pin cushions.
+yours faithfully
+
+C M Yonge
+
+[^1]: Black-edged paper.
+
+[^2]: Queen [Emma](../persons.html#485) of Hawaii visited Hursley in August 1865, and the Honolulu letters may have been in connection with this.
+

@@ -1,0 +1,25 @@
+---
+date: '1852-06-12'
+display-date: June 12th [1852]
+from-address: 'Otterbourn '
+manuscript-location: 'MS Huntington Library: Yonge Letters'
+original-date: '2010-03-22 08:45:26'
+title: To Elizabeth Roberts
+wordpress-id: 2993
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Madam](../persons.html#1243)
+I sent for a Post-office order today for [fifteen shillings](../others.html#102), but it did not arrive till after post time. I have put it into another cover as the wise say it should not travel in the same with the letter announcing it.
+
+At the same time came the proofs which I enclose, I still think the other notices will not be too late, but you had better if you please mark the places where they should be inserted, and I will have a revise of the paper sent me to make sure they have made none of their wonderful mistakes in botanical names, I am glad you noticed the beauty of the white lily in the summer nights, when I have often watched the moonlight on them, but surely you did not mean to use the adjective long in describing a summer night.[^1] I suppose you were thinking of that delicious pre-longest evening twilight in July, so favorable to wanderings in the garden --- and in which I saw the insides of your Cathedral at nearly 10 o’clock, a tale which has ever since been a wonder to southern children. I often recollect that noble east window and wish its painted glass was better deserving the name
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: \'A Garland for the Year\' MP 4 (July 1852) 41, of lilium candidum, \' this queen of the parterre, whose spotless petals and golden anthers may be seen during the short summer nights, when the beauty of every gayer companion is obscured by the uncertain light.\'
+

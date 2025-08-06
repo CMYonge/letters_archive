@@ -1,0 +1,48 @@
+---
+date: '1890-06-07'
+display-date: June 7th 1890
+from-address: Elderfield Otterbourne Winchester
+manuscript-location: MS Miss Barbara Dennis/9
+original-date: '2010-07-06 11:51:18'
+title: To Miss Bowles
+wordpress-id: 3159
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Bowles](../persons.html#2099)
+Miss Bourne tells me to write and ask you about a cook who is leaving your mother’s and whom she says you think well of.
+
+Perhaps you would tell her about this place.
+
+If she is a thoroughly nice person, honest, trustworthy and a Communicant also if she is kindly and good tempered and has a head.
+
+My household consists of only myself, and my invalid friend [Miss Walter](../persons.html#1462), who is always in bed.
+
+She has a maid of her own, and I have besides one, as house and parlour maid, and my own maid as housekeeper, [Mrs Spratt](../persons.html#1359) whom you have often seen with me. I dine early, and after that have only a very small scrap for late tea, an egg, a bason [sic] of soup, a rissole, bit of fish or whatever happens to be convenient. I hardly ever have any company.
+
+Miss Walter needs little cookery, only what she has must be nice and delicate as she cannot eat from hot joints - a little fish a bird (lasting two days) a curry, and nicely done vegetable.
+
+This is at the same time - or near it, as my dinner, and afterwards she only has a little soup or beef tea - or a sandwich - not much altogether.
+
+The wages I thought of were £20, and I should expect her to do her own washing up /of dishes &c\, and to look after the stove in the hall and /the hall and\ the dining room grate in the winter, /but I breakfast then upstairs\ but if needed I would have a woman in for once a week scrubbing the tiles in hall and verandah.
+
+My poor old Mrs Spratt has always been housekeeper and manager, but her health has been sadly breaking of late, and she is now with her relatives trying to recover.
+
+If she comes back better, she will keep the management as far as her strength allows. I should have to ask the Cook to sleep in her room as she is too far from the rest of the house to be quite alone, but there is another room the cook would have for her own.
+
+If she does not come back there would have to be of course another maid -, but I suppose I shall soon know something more.
+I would give a pound a year as beer money but no perquisites.
+A /nice pudding\ - a lard cake (or a little pea soup in winter) has to be made on Saturday for half a dozen children who live too far off to go home for their Sunday’s dinner.
+
+This is a great deal to inflict on you, but I think it is best to explain fully, as it may save journeys.
+
+Water comes into the house so there is no trouble about pump or boiler I should not want her till about the middle of July
+
+yours sincerely
+
+C M Yonge
+I hope to go to Crookham on the 17th
+I give the washing

@@ -1,0 +1,22 @@
+---
+date: '1879-07-11'
+display-date: '[11 July 1879]'
+from-address: 'Elderfield                              '
+manuscript-location: 'MS British Library Add MSS 54921: 101 '
+original-date: '2011-09-09 14:57:00'
+title: To Alexander Macmillan
+wordpress-id: 2681
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[[To Alexander Macmillan](../persons.html#939)]I send herewith the other tale, Selma’s Secret Sighs in a Christmas number[^2]
+
+C M Yonge
+
+[^1]: Postcard addressed to \'A Macmillan Esq/ 30 Bedford Street/ Covent Garden/ London E C.\' and postmarked Winchester, 11 July 1879.
+
+[^2]: CMY was assembling the stories which were republished as [Bye-Words](../books.html#135) (1880).
+

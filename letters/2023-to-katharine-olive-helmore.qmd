@@ -1,0 +1,22 @@
+---
+date: '1865-04-29'
+display-date: April 29th [1865]
+from-address: Elderfield
+manuscript-location: MS Charlotte Mitchell/Cobweb-6
+original-date: '2010-05-25 11:50:05'
+title: To Katharine Olive Helmore
+wordpress-id: 2023
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Cobweb](../persons.html#675),
+I should not have bothered you about your questions this month but that [Chelsea China](../persons.html#329) told me that your [Mother](../persons.html#1934) was so much better that she thought you would be able to do them or rather ask them- and as it is so we shall get the order of things right again.
+I think the two [questions](../others.html#104) that will make the most variety would be the history of the Knights’ [sic] Templars and the history of the Isle of Man. I am afraid this is a poorish [Barnacle](../others.html#89) but I hope the next will be better
+your affectionate
+Mother Goose
+
+[^1]: Cream envelope 68mm x 122mm with stamped mark Parkins & Gotto, Makers 24 & 25, Oxford Street and remains of flower embossed wafer, addressed to Miss Helmore/ 6 Cheyne Walk/ Chelsea/ SW, and postmarked Winchester 29 April 1865 and London 1 May 1865.
+

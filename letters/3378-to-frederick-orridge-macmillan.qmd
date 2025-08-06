@@ -1,0 +1,29 @@
+---
+date: '1898-07-05'
+display-date: July 5th 1898
+from-address: Elderfield Otterbourne
+manuscript-location: 'MS British Library  Add MSS 54921: 241'
+original-date: '2010-10-08 10:17:05'
+title: To Frederick Orridge Macmillan
+wordpress-id: 3378
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#942)
+The Clerk of the Peace undertakes to ask the consent of [Mr Portal ](../persons.html#1196)and the Magistrates at the Quarter Sessions - so there is no doubt that this will be right.[^1]
+Could the little wood cut of the Ampfield fountain (in the [book](../others.html#124)) be inserted - And one view of the old Hursley Church would be liked
+Otherwise the list is very satisfactory.
+
+That likeness of [Mr Keble](../persons.html#798) has never been published, and would be much preferred if we can have it.
+
+Otherwise the one in Lock’s life
+
+Yours truly
+
+C M Yonge
+
+[^1]: The letter refers to illustrations for [John Keble\'s Parishes](../books.html#247), which were to include a portrait of Sir William Heathcote hung in the County Hall in Winchester.
+

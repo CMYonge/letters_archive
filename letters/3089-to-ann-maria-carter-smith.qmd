@@ -1,0 +1,37 @@
+---
+date: '1856-12-05'
+display-date: Decr 5th [1856]
+from-address: Otterbourn
+manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1856/3
+original-date: '2010-04-22 13:49:39'
+title: To Ann Maria Carter Smith
+wordpress-id: 3089
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Madam](../persons.html#263)
+I enclose a draft for 8.12. 6. with many thanks both to you and [your sister](../persons.html#71). I was not aware of her marriage, so that congratulations would now lag sadly behind.
+
+My [School Sketches](../others.html#256) friend [Miss Emily Taylor](../persons.html#1397)[^2], the author of that pretty little book ‘[the Boy and the Birds](../others.html#163)’ is the person so anxious to know your name; she is - as perhaps you know - actively engaged in many London charities and though some of her family are otherwise seems a thorough Churchwoman herself.
+
+But perhaps you know more of her than I do, and you must not suppose I am urging anything on you, for I should never dare do so, especially where both parties are only known to me by letter, but I thought it would be unfair to both not to speak[^3] of her wish, as she mentioned it again in a letter which I received this morning. I am very glad of the hope you hold out of future tales
+
+yours truly
+
+C M Yonge
+
+[^1]: Envelope addressed to Miss A Carter Smith/ Stepney Rectory/ London and postmarked Winchester 5 December 1856 and indistinctly on reverse
+
+[^2]: Emily Taylor was a member of the large and influential family of Norwich dissenters, and distantly related to Harriet Martineau, Elizabeth Eastlake and Sarah Austin.
+
+Her brother Edgar Taylor (1793-1839), a solicitor, was publicly engaged in the campaign for the repeal of the Test and Corporation Acts.
+
+She converted from nonconformism under the influence of F. D.
+
+Maurice, and was the author of many novels, hymns and textbooks.
+
+[^3]: The word \'mention\' deleted.
+

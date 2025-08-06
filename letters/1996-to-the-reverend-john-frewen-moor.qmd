@@ -1,0 +1,28 @@
+---
+date: '1864-11-01'
+display-date: Novr 23d [1864]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e 86. '
+original-date: '2011-02-02 12:15:39'
+title: 'To the Reverend John Frewen Moor '
+wordpress-id: 1996
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Moor](../persons.html#1046)
+Time vanished away suddenly from me yesterday, or I should not have missed thanking you for the division of the Income, which will be an excellent standard for the unpractical young [ladies](../others.html#104), some of whom I fear have been answering the question but I shall get theirs on the 25th[^1]
+[Mamma](../persons.html#1606) has been comparing your scale with our own, and finding we exactly agree in coals & wages and not at all in bread and meat -
+Thank you much for the lock of the door, we have made some progress in finishing but are not quite in order yet
+Yours very truly
+
+C M Yonge
+
+[^1]: One of the arithmetic questions over which they were cooperating.
+
+See letters to Moor dated June and 10 October 1864.
+
+The reference to \'young ladies\' makes it sound as if it was aimed at the [Gosling Society](../others.html#104).
+

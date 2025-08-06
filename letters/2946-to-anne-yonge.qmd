@@ -1,0 +1,47 @@
+---
+date: '1844-10-28'
+display-date: Oct 28th 1844
+from-address: Otterbourn
+manuscript-location: 'MS West Devon Record Office Acc No 308: 28/10/44'
+original-date: '2010-03-16 13:08:41'
+title: To Anne Yonge
+wordpress-id: 2946
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Anne](../persons.html#1582)
+I was just begun to think that it was quite time to hear from you, when your letter arrived this morning. I see I have begun on the wrong side of my paper but it is the black cat’s fault as she was scrambling on my lap and disturbing my ideas.
+
+We have been out all the morning having set out to Twyford to look at some books which are to be sold by auction there, and then to make some visits.
+
+We saw [Mrs Robert Wickham](../persons.html#1502)’s[^1] baby Miss [Laura Maria](../persons.html#1504) a very fine little thing but neither pretty nor lady like looking, [Bessy](../persons.html#1505) who is about twelve years old is most exceedingly happy with her.
+
+She had nothing but brothers before and the youngest of them is seven or eight so that this little thing is a great delight to her, and she nurses her and carries her about like her Mamma.
+
+We found them delighting in [Amy Herbert](../others.html#145), a clergyman in the Isle of Wight read it to his pupils. [Mr Wither](../persons.html#1544) says the fault is that Emily had no business to leave Rose to ‘those rascally girls even for a good purpose,’ and so says [Mrs Heathcote](../persons.html#658). I have been reading it over again and am something of the same opinion since it was more her duty to take care of Rose than to nurse old Stephen. [Mamma](../persons.html#1606) declares that the use of the wind up is to prove that Mrs Herbert did not die and the Colonel marry Emily Morton, I hope you have made [Miss Attard](../persons.html#74) read it as an example.
+
+Do not you like the conversation about cleverness?
+I have heard nothing yet of my goods but perhaps [Miss Bennett](../persons.html#138) will send them in a day or two, but I do not know whether she is come home yet.
+
+There is a report that a man at Winchester has murdered his wife.
+
+She was found beaten to death at the bottom of the stairs, the inquest was adjourned till today but I have heard nothing further. I hope you will get the [Highlands of Ethiopia](../others.html#217)[^2] in your book club, it is the country of Mr Pell’s little servant, and is a place where they are Christian but savages, and such wretches they think it Mahometan ever to wash, and they grease their heads with sheep’s fat squirted out of their mouths.
+
+Mr Wither has been staying with us the last day or two for want of a house, he is now gone to his brother’s but comes back on Saturday.
+
+The Whooping cough is terrible, one little girl is very ill indeed with it, her mother goes out to work all day, and her grandmother told me it was ‘a terrible terrify’ for her to have to take care of the children when they are ill, the coughs at church are very bad, and yesterday one of the best youths in the parish, who comes to the Sacrament with his blind father had an epileptic fit in Church and was carried off insensible. [Papa](../persons.html#1631) has had a very bad cold, it was at its worst on Thursday, as bad as ever I knew one of his colds, he went out on Friday evening to Winchester on Saturday, to Church on Sunday and only coughs a little now.
+your affectionate cousin
+
+C M Yonge
+
+[^1]: Jane Susannah (Short) Wickham (b. 1799/1800), wife of the Rev.
+
+Robert Wickham (1802/3-1880), master of Twyford School and later (1847) vicar of Gresford, Denbigh.
+
+Elizabeth Ann Wickham (b.1832/3) and Laura Maria Wickham (b.1844) had at least three brothers.
+
+[^2]: William Cornwallis Harris, The Highlands of Aethiopia 3 vols (London: Longman 1844).
+

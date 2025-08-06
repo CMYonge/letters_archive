@@ -1,0 +1,23 @@
+---
+date: '1864-06-01'
+display-date: June 3d 1864
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British LibraryAdd MSS 54920: 28-29'
+original-date: '2010-05-21 14:58:46'
+title: "To Alexander Macmillan\t\t\t"
+wordpress-id: 1958
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939),
+There is one more copy of [the Trial](../books.html#53) that I should like to have sent to the Press - i.e., to [Events of the Month](../others.html#69), Mozley’s, 6 Paternoster Row - it is a sort of school room [Athenaeum](../others.html#170) which I wish to help forward
+Thanks for your note. I hope nothing will prevent my meeting [Mrs D Macmillan](../persons.html#941) and I shall be glad to talk over your scheme, and see if it comes within my views and capabilities.
+
+The [Golden Deeds](../books.html#51) have been most enjoyable work
+Yours faithfully
+C.M.
+
+Yonge

@@ -1,0 +1,24 @@
+---
+date: '1893-08-08'
+display-date: Aug 8th 1893
+from-address: Elderfield Otterbourne
+manuscript-location: 'MS British Library  Add MSS 54921: 196-7'
+original-date: '2010-07-27 14:53:44'
+title: To George Lillie Craik
+wordpress-id: 3225
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+I shall be very happy to have the [Little Duke ](../books.html#20)and [the Dove in the Eagle’s Nest ](../books.html#62)manipulated for schools. I should think there would be little to do to the Little Duke as it was written for children. I should have thought the [Lances of Lynwood ](../books.html#23)more suitable than the Dove as being on English history.
+I know the Eversley country is full of beauty, I once drove through it. I believe there is rather a complication of trains for coming to Winchester or Shawford, our nearest station, but if you and [Mrs Craik ](../persons.html#378)could come and lunch here it would be very pleasant I shall however be at [Miss Moberly](../persons.html#1025)’s The Close Winchester all next week
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: [‘Royalty of 5 per cent’](../others.html#160) is written in another hand at the top.
+

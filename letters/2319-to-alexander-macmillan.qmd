@@ -1,0 +1,28 @@
+---
+date: '1869-06-09'
+display-date: June 9th 1869
+from-address: Wantage[[footnote:2]]
+manuscript-location: 'MS Princeton University, Parrish Collection, CO171: Box 29'
+original-date: '2010-06-22 13:18:51'
+title: "To Alexander Macmillan\t\t"
+wordpress-id: 2319
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939)
+I hope to call on either Friday or Saturday I cannot say which but I think the morning of Saturday
+If this will not do, let me know at 21 Craven Terrace
+Paddington
+I will bring back Julius Caesar and another book of yours
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Black-edged paper.
+
+[^2]: The paper has the printed Elderfield address, but this has been cancelled in ink.
+

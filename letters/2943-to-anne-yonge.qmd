@@ -1,0 +1,21 @@
+---
+date: '1839-10-21'
+display-date: '[<i>c</i>. 21 October 1839]'
+from-address: ''
+manuscript-location: MS location unknown.  This fragment printed by Coleridge, <i>Life</i>,
+  140.
+original-date: '2010-03-12 13:58:30'
+title: To Anne Yonge
+wordpress-id: 2943
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[To [Anne](../persons.html#1582)] [The bride](../persons.html#1633)[^1] looked very well and very pretty in a white châlet gown with silk stripes, a tippet the same as the gown, and a white silk bonnet and veil . . . I must say this wedding really seemed the wedding of children of the church, for we all went to the daily service at the usual time, then the Communion service was read as far as the Nicene Creed, then they were married, the children went out and the Sacrament was administered. [Mr.
+
+Keble](../persons.html#798) read the morning service and married them, and Mr. [Thomas Keble](../persons.html#799) read the Commandments. I assure you all this greatly took off from the mere feeling of rejoicing and merriment at a marriage.
+
+[^1]: [Caroline Coxwell](../persons.html#1633), the Kebles\' adopted daughter, married Keble\'s curate the Rev. [Peter Young](../persons.html#1636) on 20 October 1839.
+

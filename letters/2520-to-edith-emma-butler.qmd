@@ -1,0 +1,30 @@
+---
+date: '1875-01-06'
+display-date: Jany 6th 1875 [1876]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Mrs Julia Birley/1
+original-date: '2011-07-13 10:25:52'
+title: To Edith Emma Butler
+wordpress-id: 2520
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Emma](../persons.html#822)
+I know nothing about [Miss Butt](../persons.html#246), I suppose she has not vanished from the face of Creation as she sent me a rather foolish little book the other day called Lads and Lasses, but without any letter or clue to her whereabouts, so I think she had better be simply disregarded till we hear of her again.[^1] I cannot recollect what was the Concatenation that introduced her. I am very angry with the [Spiders](../others.html#116) for only five of them have attempted to answer about the religions of the world, and one of them says that Henry VIII was the first to embrace the Protestant Religion.[^2]
+Only think of our having had a wolf running about the country for the last three weeks.
+
+There is no doubt of the fact for people have seen him who really know a wolf, and every now and then he eats a pig or a lamb, he has sprung at a colt’s throat, and it is said at a man.
+
+He lives in the wild heathy parts, and is heard of about every two days as appearing in different places!
+
+With love to all your affectionate
+
+C M Yonge
+
+[^1]: The opening of this letter refers to the [Gosling Society](../others.html#104), of which Geraldine Butt was a member, as \'Staddacombe\'.
+
+[^2]: \'What have been the principal religions of the world, ancient and modern?\' was one of the essay questions set to the Spider Society in December 1875.
+

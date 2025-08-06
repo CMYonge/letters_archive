@@ -1,0 +1,27 @@
+---
+date: '1873-06-30'
+display-date: June 30th [1873?]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS University of Iowa; MsL/Y56ma2
+original-date: '2011-07-15 09:17:53'
+title: To Alexander Macmillan
+wordpress-id: 3554
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939)
+Thank you much but it is an impossibility, I have to be at Aylesbury on Monday, and at home again on Saturday.[^1]
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: CMY’s visit to Aylesbury was probably to the Rev.
+
+William Bigg Wither, who had become Rector of Hardwicke, Bucks. in 1871.
+
+She is known to have visited him in 1873.
+

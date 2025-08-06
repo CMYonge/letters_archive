@@ -1,0 +1,30 @@
+---
+date: '1886-06-29'
+display-date: June 29th [1886]
+from-address: Elderfield
+manuscript-location: 'MS British Library Add MSS 54921: 153-4'
+original-date: '2011-09-29 11:27:14'
+title: To George Lillie Craik
+wordpress-id: 2837
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+I think I had better glance over [the Shells](../books.html#357).
+I have begun upon [the flowers](../books.html#17) but I find there must be a great revolution there, as it is no use in these days to teach the old Linnean system. I can manage by transposition, but it will take some time to set it in order, and I think it had better come in time for the spring, as it starts with the flowers of the months.
+I do not think ‘Householders’ need as much retouching, but I only have it in the magazine, and could look it over better in the pages to be printed from.[^1]
+I have been waiting to hear what the Liverpool lady says to the downfall of her plans - but she has not written.
+
+My present idea is to put [the history of the Reign](../books.html#189) into the [Monthly Packet](../others.html#52) and then publish it after wards if there seems an opening, but I have not yet had her answer so that I cannot quite decide.[^2]
+
+Yours truly
+
+C M Yonge
+
+[^1]: CMY was trying to get [\'Householders\'](../books.html#357) and [The Herb of the Field](../books.html#17) republished.
+
+[^2]: The unnamed Liverpool lady had encouraged CMY to write the book which appeared as [Victorian Half-Century](../books.html#189).
+

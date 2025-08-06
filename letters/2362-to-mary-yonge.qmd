@@ -1,0 +1,26 @@
+---
+date: '1869-12-22'
+display-date: Decr 22 [1869]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS WDRO Acc No 308: 22/12/69'
+original-date: '2010-06-25 08:21:50'
+title: To Mary Yonge
+wordpress-id: 2362
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mary](../persons.html#1626),
+I hope you are strong enough to bear with all the tasks of Christmas, and to feel its joys, through the sorrow that such recurring Seasons bring. I had a day of great happiness at the Enthronement[^2] it was such a pleasure to welcome such a [Bishop](../persons.html#1512) and the whole multitude who filled the Cathedral seemed to have one heart The Hallelujah chorus at the end was so very hearty The 309 clergy in their surplices were a great sight.
+
+And the old [Dean](../persons.html#542) got through it all very well.
+
+The account of it in the Guardian is very good. I wish your enthronement could be as heartily happy a one. [Kate Low](../persons.html#899) is here, pretty well but obliged to be very careful. I am very sorry for [Mrs Cudlip](../persons.html#392)’s last book, False Colours, I thought she had turned over a new leaf since she was married, and there is certainly not the kind of language one disliked in the earlier ones, but the story of this is so strangely devised that I cannot think how she could write it. A very amiable old lady with grown up son is always trying to make friends and pass herself off as a widow whereas she never had been married at all, and it certainly seems throughout as if the authoress did not attach much blame to her, and she makes her seem utterly unconscious that she might not be a desirable acquaintance. I cannot think how [Mr Cudlip](../persons.html#393) could let her write such a book. I should be very glad to hear if it was an old one reproduced - perhaps it is, but it is dated 1869
+your affectionate cousin
+
+C M Yonge
+
+[^1]: Black-edged paper.
+

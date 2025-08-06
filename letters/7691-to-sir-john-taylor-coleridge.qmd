@@ -1,0 +1,72 @@
+---
+date: '1851-09-27'
+display-date: ' Sept 27th [1851 ]'
+from-address: Otterbourn
+manuscript-location: 'MS British Library: Coleridge Family Papers E: Add MSS 86206
+  Yonge JTC '
+original-date: '2010-05-17 13:28:50'
+title: To Sir John Taylor Coleridge
+wordpress-id: 7691
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Judge](../persons.html#344)
+Very much indeed do I thank you for sending me so exactly the kind of criticism I wanted, though I am afraid you will hardly thank me for sending you [100 pages more](../books.html#15) when you have just said there is too much of it already, but I do it for the convenience of its all coming home together by [Papa](../persons.html#1631), who will be at [Deerpark](../others.html#125) on Friday, and I hope will see you.
+
+Would you be so kind as to send the second vol to [Jane Colborne](../persons.html#1042) in time for her to look at the Italian part, and see if there will be any impossibilities.
+
+And now to thank you for telling me the impressions we so much wanted from a fresh eye. I am not convinced about there being too much altogether as it does not take above twice the quantity of MS that my other stories have done, and so I suppose would when printed be about the size of Margaret Percival.
+
+It is the quality of the length I am more anxious about. I have felt that it is too long before the action of the story begins, and yet I think Guy’s is a character rather to be developed than described.
+
+The first chapter can go, for I suppose what must be known about the family history might be told in the way of narrative while Charles and Charlotte are watching for him. I put in the description of the girls to lower your expectation of Amy, who, I did not want to shew to be a heroine, till she grew into it, but I can very well parts within it.
+
+There are many conversations that can be curtailed, and I think the Eveleen part will have to be cut off, though I am rather sorry for it.
+
+Laura’s defence of Emma was put in to shew how Laura overthrew her good principles and the results are coming. I wanted to shew that good people do such very great harm by setting a bad example, and that light minded ones think themselves justified by their conduct, knowing nothing of the suffering of their repentance.
+
+It was to be another punishment for Philip too.
+
+I know the double mystery of the cheque and ₤1000 is awkward, but I don’t quite see how to do without it, and I want Philip’s self justification in his mistrust not to be over thrown till the last moment. I will endorse the cheques, thank you.
+
+As to the [Puseyism](../others.html#154), some of the conventionalities of it, mention of daily services &c may be left out, but there is too much in the ground work to be dispensed with, and I could not think without it.
+
+Mrs Edmonstone I meant to have the inconcistencia [sic] one sees in real life in a wise woman who does not know how foolish her husband is, sensible wherever she is not cramped by him, and having always looked up to her brother transferring the allegiance to his son.
+
+I have not succeeded in what I meant Philip to be. I meant him to be what stupid people might take for a perfect hero, but he always would get too disagreeable. I think however that he is explained in this latter part, and that when you find him tormented by Mrs Henley you will see that it was a really high character spoilt by circumstances and self opinion. I don’t think that his whole character can be understood till the end explains the beginning and then it is shown too that Laura was a little dwarfed and spoilt between him and the mathematics.
+
+Stylehurst was his one amiable point, and one can’t bring that in everywhere.
+
+[May](../persons.html#351) will find that Amy did break down though not in the carriage, and suffered considerably for her unnatural composure. I cannot give her a son, for one reason because they would never forgive me at [Dogmersfield](../others.html#121), but chiefly because I had rather make Philip miserable at Redclyffe than happy with the ₤10,000, besides I think it much kinder to Amy.
+
+The completion of Philip’s cure is to be shown his acting just the opposite way to his former great sacrifice. I don’t think he would be properly finished without all he has coveted, and Amy is left in very tolerable happiness at the end.
+
+Surely Mr Edmonstone could not have known the state of the roof, and Markham would have let it go on as in old Sir Guy’s time. I know Mr Edmonstone is rather in the caricature line, but I hope his touch of Irish might account for it.
+
+One thing I would be very glad if you would tell me, whether the explanation about the cheques has prominence enough, or if it would be better, in order to keep up the balance of the story to describe Markham’s visit to the little girl. I know the last few pages I send now are hurried. I believe I am writing them with an impression that they will not do, which does not conduce to good writing. I don’t know how to give the fullness of Philip’s character especially Amy & Philip without the part after the reconciliation, though it is so little selon les régles that I don’t expect it to stand.
+
+I suppose it will be better not to try the publishers till I have doctored it, which I suspect will take me a considerable time.
+
+Then I shall be very much obliged for the help that you promise me.
+
+Perhaps you will talk it over with Papa who will be at Deerpark from Friday to Monday, and that will be better than writing.
+
+This is done at night, and I have written myself so stupid that I don’t know whether I am saying the right thing or not, and it has made Philip’s wedding very stupid too.
+
+That must be written over again , but it serves to shew the kind of thing.
+
+As you do not mention [Mildred](../persons.html#17) I hope she is better.
+
+My love to May and I hope she will soon have time to write. A great many thanks again. I must forget the story a little I suspect, before I can doctor it well.
+
+Yours affectionately
+
+C M Yonge
+
+I don’t feel I had thanked you half enough when I think of that mountain of manuscript.
+
+[^1]: Annotated in another hand \'1851/Sept 27/ C.Yonge./Otterbourn\'.
+

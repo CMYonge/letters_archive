@@ -1,0 +1,31 @@
+---
+date: '1860-09-18'
+display-date: Sept 18th 1860
+from-address: ''
+manuscript-location: MS Special Collections, University of Virginia Library
+original-date: '2011-10-13 09:50:32'
+title: To Groombridge and Sons
+wordpress-id: 18759
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[Gentlemen](../others.html#148),
+Herewith I send the proofs corrected of the [Mice at Play](../books.html#35).
+
+If you prefer that I should look at the revise, I shall be very happy to do so.
+
+I have done my best in the enclosed to describe my ideas of the illustrations, but I think the designer had better refer to Knight's Old England, or to the Pictorial History of England for the costumes.
+
+The tower for Cecily's headdress in vignettes is not in Old England, but it occurs in many of the illustrations in the 2nd vol of the Pictorial history
+
+[sketch of axe head]
+
+If there chanced to be a small space this head of the brown bill might be put in with effect, somewhere about p. 315.
+
+I remain
+your obt servt
+
+C M Yonge

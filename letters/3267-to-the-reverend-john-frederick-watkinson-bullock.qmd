@@ -1,0 +1,34 @@
+---
+date: '1894-06-16'
+display-date: June 16th 1894
+from-address: Elderfield
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e.174 ff 1'
+original-date: '2011-12-16 14:21:14'
+title: To the Reverend John Frederick Watkinson Bullock
+wordpress-id: 3267
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Bullock](../persons.html#221),
+I do not know Canterbury well enough to attempt it. I have only seen it three times cursorily once on the day of the [Archbishop](../persons.html#140)’s installation- the best person to undertake it would be
+
+[Miss Jenner](../persons.html#762)[^1]
+Preston Vicarage
+Wingham
+Dover
+
+[Bishop Jenner](../persons.html#758)’s daughter who knows the Cathedral well and has a good deal of power of writing
+
+I think I could do Salisbury
+
+Yours truly
+
+C M Yonge
+
+[^1]: Bishop Jenner had four daughters of whom Amabel Jenner (b.1876/7), who published plays and fiction, seems the most likely to be referred to here.
+
+Bullock had evidently asked CMY to contribute an account of Canterbury Cathedral to his Daily Lections project.
+

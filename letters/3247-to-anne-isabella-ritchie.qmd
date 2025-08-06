@@ -1,0 +1,35 @@
+---
+date: '1894-02-07'
+display-date: February 7th 1894
+from-address: Elderfield Otterbourne Winchester
+manuscript-location: MS Eton College, 2ALS to ATR
+original-date: '2011-02-02 11:41:11'
+title: To Anne Isabella Ritchie
+wordpress-id: 3247
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mrs Ritchie](../persons.html#1240)
+I am impelled to write to you by your Introduction to Miss Mitford’s Our Village which delights me much.[^1] I too have driven through Three Mile Cross and have been much disappointed except that I saw the blessing of wearing rose coloured spectacles[^2] I remember it used to be said that Miss Mitford complimented all the neighbouring young ladies but when I read her life I saw that her admiration was quite genuine, and that she really was carried away by their charms and those of the grey hounds. I am sorry the sketches of her school days have not appeared again. I was very fond of them, and especially of Hannah More’s play.[^3] But what most impelled me to write was to tell you that you are not the only authoress who has walked in pattens (a lady by the by directed a letter to me as the Doyenne of lady novelists).
+
+My [Grandmother](../persons.html#103) trotted out to feed her chickens in them, and I had a pair in imitation though they twisted my ancles [sic].
+
+But the rings of mine were in this shape [drawing here] There was a huge pair of clogs about the house really sabots mounted upon tall hoops, in which in the days of the Army of Occupation my [Father](../persons.html#1631) had chased hare and snipe in ploughed fields in France, assisted by a dog named Pincher whom he heard his host address every morning with Eh bien Binche
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: CMY wrote to G. L.
+
+Craik (17 March 1894): ‘Do you know whether Mrs Ritchie is abroad. I was moved to write to her by sympathy with her preface to Miss Mitford, and I have never had an answer.’
+
+[^2]: CMY wrote to M. E.
+
+Christie (19 November 1897): ‘The sketch of Miss Mitford is specially good. I remember a sense of disappointment as I drove through ‘Our village’ to see how small and narrow it was, after what those rose-coloured spectacles had shown.’
+
+[^3]: The selection edited by Ritchie had omitted the episode in Our Villag in which the narrator is made by a schoolmistress to act in Hannah More\'s The Search after Happiness: A Pastoral Drama.
+

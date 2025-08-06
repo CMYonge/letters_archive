@@ -1,0 +1,27 @@
+---
+date: '1889-07-27'
+display-date: July 27th 1889
+from-address: Elderfield
+manuscript-location: MS Girton College Cambridge, Yonge IV 11
+original-date: '2011-10-07 12:13:47'
+title: To Arthur Donald Innes
+wordpress-id: 2913
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Innes](../persons.html#744)
+Thanks for the [cheque](../others.html#160). I think it is a very good thing to cheapen [Womankind](../books.html#115), especially as it is getting a start through the [Mothers’ Union](../others.html#31) taking it up.
+
+It will also be well to have [New Ground](../books.html#68) at 2s [Mr Scarth](../persons.html#1272) of the Waterside Mission is very anxious to have Friday’s Child published separately for the sake of the sailors. I believe [Miss Crompton](../persons.html#390)[^2] has been urged to write to you about it and I hope you will do it.
+
+She is singularly unambitious
+
+Yours truly
+
+C M Yonge
+
+[^2]: Frances Crompton, author of Friday\'s Child, was one of Innes\'s authors.
+

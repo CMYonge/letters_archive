@@ -1,0 +1,30 @@
+---
+date: '1865-05-18'
+display-date: May 18. 1865
+from-address: ''
+manuscript-location: 'Copy outletter book British Library Add MSS. 55384 (1): P. 486'
+original-date: '2010-05-25 18:24:26'
+title: Alexander Macmillan to Charlotte Mary Yonge
+wordpress-id: 2033
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Miss Yonge	
+[I](../persons.html#939) am waiting till the printer sends the [whole](../others.html#177) of what you have sent, in type, before any more detailed remarks or suggestions. I am sure I shall feel more clearly what its effect is when I see it in a larger mass. I am very hopeful both from what I have seen of it and from what you say.
+I sent you Cawnpore, because it struck me as so noble in tone, thought the subject is painful in the highest degree.[^1] If you think you could write a [notice](../books.html#59) of it for our July number of say three or pages I would like exceedingly.
+
+It has been unjustly treated in the [Spectator](../others.html#180), [one of the Editors](../persons.html#1942) is an old Anglo-Indian and on the ground of taste among other things, which seems to me wholly unjust.
+
+Pray tell me if you think you could do anything.
+
+But first read the book, and say if you like it.
+
+Ever yours faithfully
+Alex Macmillan		
+I will get and send you the books you ask for & also the parcel from abroad when it arrives.
+
+[^1]: George Otto Trevelyan\'s book described the massacre at Cawnpore during the [Indian Mutiny](../others.html#134).
+

@@ -1,0 +1,30 @@
+---
+date: '1881-01-21'
+display-date: Jan 21st 1881 [for 1882][[footnote:1]]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS UCLA: collection 100: box 95'
+original-date: '2011-09-16 11:21:14'
+title: 'To Annie Louise Cazenove '
+wordpress-id: 2741
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Annie](../persons.html#274)
+
+Your MS arrived at last. I think it is an excellent idea and most of it is very good, but it will not do to name parties because it would prevent many people from accepting the advice as unluckily it is undeniable that plenty of good people are deluded enough to be Radicals.
+
+It is most odd how that [Watchword](../others.html#100) has hidden itself—it appeared for a short time one afternoon to [Miss Finlaison](../persons.html#512) but has never come out again.[^2] I have told her to hold it till I came if it comes out again.
+
+I suppose you are snowed up like ourselves and in alarm about supplies of coals. I was to have gone to Winchester today to see [Mr Wither](../persons.html#1544), but there is no stirring for the fall last night filled up all the places that had been left bare.
+
+Your affectionate
+
+C M Yonge
+
+[^1]: The letter is placed here, in spite of the year written, on the assumption that it relates to Annie Cazenove, ‘A Prayer for the Parliament’ MP 3s 3 (March 1882) 298-9.
+
+[^2]: The Watchword (1880-1972) was the journal of the Society of Watchers and Workers, founded by Edith Jacob.
+

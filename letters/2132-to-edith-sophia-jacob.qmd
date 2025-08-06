@@ -1,0 +1,27 @@
+---
+date: '1866-09-01'
+display-date: evening September 1st [1866?]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Charlotte Mitchell
+original-date: '2010-06-09 10:06:37'
+title: To Edith Sophia Jacob
+wordpress-id: 2132
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Jacob](../persons.html#749),
+We were so sorry to have missed you. I meant to have written that same evening but somehow missed doing so.
+
+If you can give us another chance, the best time would be earlier in the day - as my [mother](../persons.html#1606) now does not leave her room till 2 or 3 o’clock so that if you could drive over in the forenoon, and stay to luncheon, we should be more sure of seeing you.
+
+Alice will I hope be here till near the middle of the month, but the sooner you can be kind enough to drive over the better[^1]
+
+yours sincerely
+
+C M Yonge
+
+[^1]: [Alice Moberly](../persons.html#1025) was a contemporary of Edith Jacob\'s, and she, rather than [Alice Coleridge](../persons.html#327), is probably referred to here.
+

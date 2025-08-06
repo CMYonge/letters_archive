@@ -1,0 +1,28 @@
+---
+date: '1866-05-19'
+display-date: May 19th [1866]
+from-address: '[[other:126]Beechwood]'
+manuscript-location: MS University of London Library/AL 293/2/2
+original-date: '2011-10-12 14:06:04'
+title: To Anna Maria Keary
+wordpress-id: 2125
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Keary](../persons.html#793)
+Here I am in the depths of Devonshire which must account for my not having sooner answered your letter.
+
+We both got out of sorts and wanted a change so here we are, thinking this beautiful county infinitely more beautiful in spring than in autumn, the red earth and young green contrast so beautifully together.
+I think it does seem wise to complete the Scandinavian sketches with Magnus, and the Siamese bits that you propose instead sound very charming, better I think than the review, unless one could be so lucky as to have both.
+I read Clemency all the way down here, and was very much delighted with her, - her personally I specially mean, she is so noble and grand, and comes in so well after the trumpery women it is the fashion to put into stories now.
+
+But I think Mrs Edgecombe is the most personally engaging of all - though I am very fond of Aunt Bessie.
+
+And the way the poor Colonel was caught is excellent. I shall be here (at the [Lady Seaton](../persons.html#314)’s, Beechwood, Plymton) till this day week, when we go to the [Revd J Yonge](../persons.html#1623)’s [Puslinch](../others.html#123) Yealmton
+
+yours sincerely
+
+C M Yonge

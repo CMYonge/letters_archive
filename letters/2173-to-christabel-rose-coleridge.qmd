@@ -1,0 +1,25 @@
+---
+date: '1867-05-25'
+display-date: May 25 th [1867]
+from-address: ''
+manuscript-location: MS Mrs Clare Roels
+original-date: '2010-06-10 12:46:56'
+title: "To Christabel Rose Coleridge\t\t"
+wordpress-id: 2173
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+I send you the [Barnacle](../others.html#89). I had thought of keeping it for [May](../persons.html#351), but as she does not come till the 6th, it would be too long.
+
+After all the sheets of the [Caged Lion](../books.html#81) have got bound up wrong by my fault, for I forgot to number the pages. I have now numbered them and put a notice that the reader must manage accordingly The difficulty in keeping always the same order is that Authors vary, and sometimes residences too - N B [Bog Oak](../persons.html#28) is gone for good to live at Wiverton, Plymton [sic] and there is the [new Gosling](../persons.html#1008) whom [Alice ](../persons.html#327)will in ?sense you about- I think if you could let the Londoners have it first it would do best- then May and [Milly](../persons.html#17) would be killed off together, and then the Torquay ones, and consult Milly about [Magpie](../persons.html#896)- [Heather](../persons.html#1387) might perhaps come just before or just after Devonshire, and I count [Cricket](../persons.html#1603) as a Londoner - it is better too to make sure of her before the Eton holidays- I hope you have something for the next Barnacle.
+
+Tell [Edith](../persons.html#331) that an [East Grinstead](../others.html#45) sister has illustrated much of the [Lyra](../others.html#232), and they have been photographed. [Mr Wither](../persons.html#1544) got the book, but the poor children are allowed only monks and abbesses instead of fathers and mothers, and it altogether was so surprising to ordinary eyes that he was afraid to give it away, and so gave it to us, and we have supplied ourselves with many of the scenes that were not too unnatural
+
+[^1]: Black-edged paper.
+
+[^2]: Christabel Coleridge had taken over supervision of the distribution of the Barnacle from CMY who is warning her of some of the problems in getting the members of the [Gosling Society](../others.html#104) to pass it from one to another.
+

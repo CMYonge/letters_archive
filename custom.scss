@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+$font-family-base: 'Source Sans Pro', sans-serif;
+
+/*-- scss:rules --*/
+
+// Fix "Published" to "Date" label in title metadata
+.quarto-title-meta .quarto-title-meta-heading {
+    &:first-of-type {
+        &::after {
+            content: "Date";
+            display: inline;
+        }
+    }
+
+    // Hide the original "Published" text
+    text-indent: -9999px;
+    overflow: hidden;
+    white-space: nowrap;
+}

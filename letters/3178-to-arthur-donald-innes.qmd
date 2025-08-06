@@ -1,0 +1,38 @@
+---
+date: '1891-09-03'
+display-date: Sept 3 1891
+from-address: Elderfield
+manuscript-location: MS Girton College Cambridge, Yonge IV 26
+original-date: '2010-07-07 10:30:33'
+title: To Arthur Donald Innes
+wordpress-id: 3178
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Innes](../persons.html#744)
+The [Castle Builders](../books.html#18) and [Six Cushions](../books.html#67) are out of date, and need not be reprinted- unless as is just possible, [Macmillan](../others.html#111) might like to purchase them for the sake of making up the set of my books. [^1]
+[Questions on the Epistles](../books.html#104) has never been of much use, so few Sunday Schools go on far enough to want them Nor has [Sewing and Sowing](../books.html#166) been popular. I am sorry for [Langley Little Ones](../books.html#152) for I meant it to fill a want, but there is rather a turn against stories of village children just now, so we will leave it for the present and perhaps bind it up by and by with others
+
+Yours truly
+
+C M Yonge
+
+[^1]: The Castle Builders (1854), Six Cushions (1867) and Questions on the Epistles (1874) were first published by J. & C.
+
+Mozley.
+
+The rights to them would have passed to W.
+
+Smith when he took over the Mozley business.
+
+Sewing and Sowing and Langley Little Ones were both published by Smith in 1882.
+
+On 1 July 1892 CMY signed an agreement with A.D.
+
+Innes & Co. with two lists of books, one listing those to be republished only at the author’s expense with the publisher to receive 10%, and the other listing the royalties to be paid on each to the author by the publisher.
+
+Six Cushions doesn’t appear on either list (probably an oversight) but of the rest only Questions on the Epistles is on the second list. MS BL: Add.54921/198-200 is a typed copy she sent to Macmillan.
+

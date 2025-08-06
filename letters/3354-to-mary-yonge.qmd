@@ -1,0 +1,34 @@
+---
+date: '1897-07-01'
+display-date: July 1st [1897]
+from-address: Elderfield
+manuscript-location: MS West Devon Area Record Office Acc No 308
+original-date: '2010-10-07 09:19:14'
+title: To Mary Yonge
+wordpress-id: 3354
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mary](../persons.html#1626)
+[Helen](../persons.html#1613) and I are sitting outside the summer shelter for its shade She is full of histories of London where they saw everything beautifully in the Park. [George](../persons.html#1610) – as one of the 14 Rhodesian horse, had no end of honors[sic], the mob tried to kiss their medals (which were not the right ones after all, they get them tomorrow from the Prince at Buckingham Palace)[^2] He had to ride alone on some message, and his admirers mobbed him so that he had to get a policeman to keep them off lest his horse should kick them, but they say those horses are a wonder to all themselves they are so good in a crowd, and don’t kick even when naughty little boys stick pins into them He has been 2nd I could not finish yesterday owing to visitors, I was going to say he had seen fearful sights in Mashonaland, going about to bury the murdered in one place 9 people of three generations – and at one place they were in great danger, shut in on a mountain by the enemy and their rockets not seen.
+
+He was at a post in the lion country afterwards but the wild lions were very shabby and thin, not near so handsome as those in the Zoological Gardens.
+
+He is coming to the Vicarage as soon as [Henry](../persons.html#184) & [Alethea](../persons.html#182) come back from Torquay where they go on Monday
+[Cecily](../persons.html#183) and [Reginald](../persons.html#189) are to dine with us on Wednesday, of which they think a great deal as their first going out alone- but at 7 and 6 they can quite begin.
+
+Helen came on Tuesday.
+
+There were 43 special trains down to the Fleet on the Naval Review day, and the regular traffic suspended!
+[Miss Jacson](../persons.html#1962) has given £70 to the Church, and Henry is going to embellish the Chancel, figures painted in fresco where the Commandments are
+your affectionate
+
+C M Yonge
+
+[^1]: Black-edged paper.
+
+[^2]: George Yonge was riding in the Diamond Jubilee procession.
+

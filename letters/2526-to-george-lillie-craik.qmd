@@ -1,0 +1,25 @@
+---
+date: '1875-04-01'
+display-date: April 13th1875
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Harvard University, Houghton Library
+original-date: '2011-07-13 12:27:33'
+title: To George Lillie Craik
+wordpress-id: 2526
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+I have stupidly lost [Mr Freeman](../persons.html#523)’s London address - would you be so kind as to send it to me on a card. I want to settle about divisions of chapters in the [French writing](../books.html#99).
+
+Shall I finish all, and then abridge, or do you want to begin printing?[^1]
+
+yours sincerely
+
+C M Yonge
+
+[^1]: In fact CMY was being sanguine in supposing that Freeman, the editor of the \'Historical Course for Schools\' in which her History of France was to appear, considered her book ready for the press.
+

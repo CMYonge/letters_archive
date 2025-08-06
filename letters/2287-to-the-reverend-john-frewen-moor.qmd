@@ -1,0 +1,29 @@
+---
+date: '1868-10-26'
+display-date: Oct 26th 1868
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS UCLA: collection 100: box 95'
+original-date: '2010-06-17 21:50:03'
+title: "To the Reverend John Frewen Moor\t\t"
+wordpress-id: 2287
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear[ Mr Moor](../persons.html#1046),
+We are so very much concerned to hear of [Mrs Moor](../persons.html#1044)’s illness, of which we were not at all aware till Saturday.
+I would not trouble you now, but that I should be so very glad if you found it convenient to trust us with [Selina](../persons.html#1048) and [Philip](../persons.html#1047).[^2] [Mr Wither](../persons.html#1544) (who is obliged to go to Winchester today) desires me to say he would be very glad to have them and their maid to sleep at his house and we would look after them by day, with really great pleasure—and I hope we could make them happy.
+
+If you can send them over tomorrow we should be quite ready for them.
+
+If it were not convenient to send their maid, the nurse we had here, who is a very nice bright person and is lodging in the village could take care of them.
+
+Yours sincerely,
+C. M Yonge
+
+[^1]: Black-edged paper and a small black-edged blue envelope addressed “The Revd J F Moor/Ampfield”, not sent through the post.
+
+[^2]: Selina and Philip Moor were the Moors\' two youngest children.
+

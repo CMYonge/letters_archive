@@ -1,0 +1,38 @@
+---
+date: '1834-07-04'
+display-date: July 4, 1834
+from-address: Otterbourne
+manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:40]Life]</i>,
+  123.
+original-date: '2010-03-12 10:38:00'
+title: To Anne Yonge
+wordpress-id: 2932
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Anne](../persons.html#1582),
+Have you seen any more of [Charles](../persons.html#1601)’s owl?
+
+The shells got home quite safe. I send you a carrier Trochus and Charles a waved whelk, [Duke](../persons.html#1599) a fresh-water mussel and [Jane](../persons.html#1616) a cyprea.[^1] I went to the theatre whilst I was at Oxford; it is a great large place shaped like a horse shoe; at the flat end sat all the musicians and singers on a stand raised on pillars; in the middle was a great round place called the area, in which all the gentlemen squeezed in if they could; at the tip-top of all the college people all round under them were all the ladies and doctors; there were two great sticking-out boxes like pulpits, at the end of each was an axe tied up in what was meant to look like the Roman lictors’ bundles of rods.[^2] The [Duke of Wellington](../persons.html#1486) sat on a most beautiful velvet cushion on a carved chair.
+
+The [Duke of Cumberland](../persons.html#394) on a velvet and gold chair.
+
+His uniform was very funny; first he wore a red coat, then fastened on his shoulder a blue coat trimmed with fur; tied to his sword was a sort of pocket called a sabre-dash.
+
+The Duke of Wellington wore robes of black and gold.
+
+One day when he came to Exeter C. he kissed [Julian](../persons.html#1624) and shook hands with me.
+
+There were a great many people besides doctors; they all wore red robes.
+
+We went to New College and Magdalen; the windows of the first were painted all manner of colours, but the other was brown.
+I am your affectionate
+Charlotte Mary Yonge
+
+[^1]: CMY’s collection of shells was eventually considerable and she bequeathed it to [Winchester College](../others.html#50) where it is still (2006) preserved.
+
+[^2]: CMY, [WCY](../persons.html#1631), [FMY](../persons.html#1606) and JBY attended the ceremonial installation of the Duke of Wellington (1769-1852) as Chancellor of Oxford University, as guests of Dr. [John Collier Jones](../persons.html#781) (1760-1838), the Rector of Exeter College and Vice-Chancellor of the university, and his wife, WCY’s sister [Charlotte](../persons.html#777), CMY’s godmother.
+

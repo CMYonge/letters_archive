@@ -1,0 +1,24 @@
+---
+date: '1880-04-05'
+display-date: April 5th 1880
+from-address: Elderfield, Otterbourne,Winchester.
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e 86. '
+original-date: '2011-09-14 10:14:19'
+title: To the Reverend John Frewen Moor
+wordpress-id: 2706
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Moor](../persons.html#1046)
+Thank you much. I send the papers. I have hopes for this time, if there is no fresh very sad case in the way. I cannot call this case like a very bad one of great poverty though I should be exceedingly glad if it succeeded[^1]
+I enclose my subscription
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: This letter seems to be concerned with voting for a candidate for charity.
+

@@ -1,0 +1,36 @@
+---
+date: '1900-05-02'
+display-date: May 2 [1900]
+from-address: Elderfield
+manuscript-location: MS West Devon Area Record Office Ac 1092/26
+original-date: '2010-10-18 13:52:00'
+title: To Mary Yonge
+wordpress-id: 3456
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mary](../persons.html#1626)
+That letter came to me with a request that I would forward it to Mr [Arthur Yonge](../persons.html#1583) whom the writer had met 7 years before in New Zealand, by which I concluded he did not mean [Arthur in America](../persons.html#1607) and I thought it would just meet him with you, but probably it will find him in time.[^1] Poor [Annie Woollcombe](../persons.html#1556), the deaths from illness seem sadder than those in battle, and yet they may be better for the power of preparation.[^2] I hope yesterday cleared up with you for the Baptism.
+
+It was a most beautiful day here, and there had come a request from /the photo man\ Eastleigh that the children with garlands might be taken in front of this house. - So they were all drawn up in rows the back ones standing on forms and the prettiest garlands and the Mayqueen, a little 5 year old girl on a tricycle in front. I think it will turn out well.
+
+Afterwards [Henry Bowles](../persons.html#184) took [Reggie ](../persons.html#189)to Guildford to school, but he will sleep at his aunts’ and spend Sunday with them, so it will be a good break- He went off in high spirits, having wished everybody good bye the day before, and he really did need boy companions very much, there being only girls about here, and he also needed competition to rouse him out of dawdling.
+
+Henry goes on to meet his brother [Edward](../persons.html#2226) who is coming home from Ceylon on Thursday, but he will be back by Sunday
+The nightingales and cuckoos are singing, and a young sparrow tapped incessantly at one of the windows from Friday week till last Sunday, I believe after insects inside, he went on on a wet day, but is gone off in the sunshine. I am glad May is come for then I leave to do as usual, and I have begun school work again for the first time since March- I do not see my way into plans for the summer yet though we ought somehow to meet if possible.
+
+All I know thus far is that [Christabel](../persons.html#329) talks of coming on her way home from the [GFS](../others.html#23) meetings, and her visit was so uncomfortable before I shall be glad it should be made up. [Frances](../persons.html#1604) and [Helen](../persons.html#1613) are to go to [Mrs Jones Bateman](../persons.html#784) where the Agricultural show happens and I suppose will come to me too. I believe Frances will make [Joan](../persons.html#388) a visit at Algeciras after the heat of the summer is over, and Helen will come to me for most of the time but will go to fetch her back
+[Charlotte ](../persons.html#1587)seems to be among splendid flowers-
+your affte
+
+C M Yonge
+
+[^1]: The sense of this is that since the meeting had been in New Zealand, the Arthur Yonge referred to was more likely to be Arthur Duke Yonge (b. 1820), son of the Rev.
+
+Duke Yonge of Antony, rather than CMY’s nephew Francis Arthur Yonge (1861-1919) who had emigrated to Fairfax, Virginia.
+
+[^2]: Annie Woollcombe’s eighth and youngest son, John Woollcombe (1875-22 April 1900), died serving with the Canadian Contingent in the Boer War.
+

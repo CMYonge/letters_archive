@@ -1,0 +1,22 @@
+---
+date: '1879-06-13'
+display-date: '[13 June 1879]'
+from-address: ''
+manuscript-location: 'MS Bodleian Library, Oxford: Eng. lett. d. 495 f107'
+original-date: '2011-09-09 13:16:26'
+title: To Linda Mary Villari
+wordpress-id: 2674
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[Signora Villari](../persons.html#1444)’s graceful story has been safely received, and shall be commenced in January 1880[^2]
+
+C M Yonge
+
+[^1]: Card printed on one side Foreign post card addressed to \'Italy/ Signora Linda Villari/932 Via Pinti/Florence\' and postmarked \'Winchester/JU 13/79\'.
+
+[^2]: Villari\'s \'The Angel of Viareggio: A Tale of Child-Life in Italy\' began in MP ns 31 (January 1880) and ran until July.
+

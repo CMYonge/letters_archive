@@ -1,0 +1,23 @@
+---
+date: '1869-05-29'
+display-date: May 29th [1869]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e 86. '
+original-date: '2011-02-02 12:10:43'
+title: To the Reverend John Frewen Moor
+wordpress-id: 2315
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Moor](../persons.html#1046)
+Your letter followed me home from [Brighstone](../others.html#140) whence I returned on Wednesday. I will give you 10/ for St Pauls church when next I have an opportunity, but on Monday I am going to Oxford and I do not come back till the 12th
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Black-edged paper.
+

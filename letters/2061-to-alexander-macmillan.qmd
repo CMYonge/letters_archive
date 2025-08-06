@@ -1,0 +1,37 @@
+---
+date: '1865-08-02'
+display-date: Aug 2nd 1865
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54920: 105-6 '
+original-date: '2010-05-27 13:21:32'
+title: To Alexander Macmillan
+wordpress-id: 2061
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939),
+Thanks for the [cheque](../others.html#160). I enclose the receipt.
+I do not know whether the British Museum has a copy of Theurdanck - probably it would I think, but if you should be in Oxford, there is a beauty at the Bodleian, a much better one than that which I have here, which is only lent to me.[^1]
+You should also look at the wonderful wood cuts in ‘Der Weise König.’[^2] There is a demon sitting on the shoulder of the witch who is teaching Maximilian the black art who is extremely comical.
+
+The proper name of Theurdanck is Die Allerdurch Leuchtigiste Reise ........Maximilian I ....... unter dem Nahmen Theurdanck The illustrations that might give ideas to be copied would be the 22d the 27th and 56th; I think few even heard of the book.
+
+The illustration belonging to his exploit on Ulm Cathedral was evidently too much for the designer who has made it much more absurd than frightful.
+
+But these would not illustrate the whole story, as the events only come in incidentally
+I will get the rest of the [Prince & Page](../books.html#61) put in type and send it as soon as I can.[^3]
+
+Yours sincerely
+
+C M Yonge
+I quite agree on the weariness of the 3 vol novel - indeed I believe the [Dove](../books.html#62) would only make one vol.
+
+[^1]: The Bodleian Library has several editions of Der Theuerdank, including two early ones published in Frankfurt in 1563 and 1596, neither of which has the title in the form given in this letter. CMY wanted to [illustrate](../others.html#167) The Dove in the Eagle\'s Nest with pictures from this book.
+
+[^2]: Der Weisskunig, another fictionalized autobiography or biography of Maximilian I, published from fragments in 1775.
+
+[^3]: The Prince and the Page was being serialized in MP, and Macmillan, who was going to publish it as a Christmas book, had asked her to send the rest of the story to the illustrator.
+

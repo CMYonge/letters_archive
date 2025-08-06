@@ -1,0 +1,36 @@
+---
+date: '1860-12-12'
+display-date: Decr 12th 1860
+from-address: 'Otterbourne, Winchester. '
+manuscript-location: 'MS Westcountry Studies Library, Exeter/ Yonge 1860/14 '
+original-date: '2010-05-05 15:14:07'
+title: To Ann Maria Carter Smith
+wordpress-id: 1811
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Smith](../persons.html#263)
+Many thanks for the arrival of this morning and for your kind undertaking of the biographies.
+
+You will find a good deal more of [Mrs Grant](../persons.html#1825)’s childhood in her Life of an American Lady, which may be got from Hookham’s library[^2] if from no where else. I wish I had the book or I would gladly lend it to you - it is a very interesting and curious picture, but in such stilted stiff language that it will be a great boon to have it made simple and easy. I should have set down [Mrs Schuyler](../persons.html#1837) if she had not been nearly included in Mrs Grant. I had an impression that you would take [Mrs Carter](../persons.html#1830), you are so fond of that era.
+
+Have you the two goodly quartos of her letters. I am sure it might be a part of her history that her letters were put into quartos- but she is an engaging old lady, & I hope you will put in her brandy pudding, her wet walks, & the discussions with her father that only ended with the teapot! I shall be very glad if you will bethink you of any other interesting person whose life might make nice reading for the young, thus put into shape.
+I have finished [Mrs Fry](../persons.html#1826), and very much I like it, but I am inclined to ask if it might not read a little better, if the bit about the supervision of families exercised by Quakers were put earlier instead of just where the memoir brought it before you. I think it might be as well to precede the whole with a short account of Quakerism and its requirements, for it would make her difficulties much more comprehensible.
+
+But that can be thought about at leisure. I am afraid, with all her heart humility, her exterior bearing was a little injured by feeling herself so prominent. I suppose it is hardly possible to help this, especially for a woman - (men do help it) - but I fear she did not but appeared outwardly to receive the homage paid as a right - at least so I have seen it stated in a review of a rather satirical book of an exquaker’s confessions, not a very trustworthy quarter perhaps. I am glad you liked Play & Earnest, I thought it a great advance on the first.
+
+The present story wants more action, but the mother seems to me a very original well conceived character
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Envelope addressed to Miss A. M.
+
+Smith/ Rectory/ Old Charlton/ SE and postmarked Winchester 12 December 1860 and London SE 13 December 1860
+
+[^2]: Thomas Hookham’s library in Bond Street was one of the leading commercial circulating libraries in the earlier part of the century, but was later driven out of business by Mudie’s.
+

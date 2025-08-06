@@ -1,0 +1,28 @@
+---
+date: '1869-10-17'
+display-date: Oct 17th [1869]
+from-address: 'Elderfield, Otterbourne, Winchester '
+manuscript-location: MS Charlotte Mitchell/16
+original-date: '2010-06-23 14:37:32'
+title: "To James Yonge or the Rev. John Yonge\t\t"
+wordpress-id: 2349
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[To [James](../persons.html#1614) or [John Yonge](../persons.html#1623)]My dear Uncle,
+[rest of letter cut off.
+
+The reverse reads]
+me depends much on what the parish consists of. I think he did not enter upon the field sports because they were disposed of by the
+[rest cut off.
+
+The signature is on the front]
+your affectionate niece
+
+C M Yonge
+
+[^1]: Black-edged paper.
+

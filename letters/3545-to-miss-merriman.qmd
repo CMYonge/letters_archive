@@ -1,0 +1,25 @@
+---
+date: '1898-05-18'
+display-date: May 18 [1898]
+from-address: Elderfield
+manuscript-location: 'UCLA: collection 100: box 95'
+original-date: '2010-11-11 14:49:40'
+title: To Miss Merriman
+wordpress-id: 3545
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Merriman](../persons.html#991)[^1]
+I am sorry to hear [Mrs Sumner ](../persons.html#1381)is laid up but I am sure it is a good thing that she should be obliged to take a little entire rest.
+
+The MSS went last week. I thought they would be easier to look over as proofs, and I wanted to have [Christabel Coleridge](../persons.html#329) while she is here. [Mrs Matthew](../persons.html#1689) has asked me the last moment available for the report of the meeting, I begged her to avoid too many names to take up room. I go into Devon from the 7th to the 17th of June. I hope the proofs will come in good time.
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: The name is illegible, but seems to begin with an M and end with man. CMY\'s correspondent was evidently working for the [Mothers\' Union](../others.html#31).
+

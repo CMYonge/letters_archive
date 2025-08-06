@@ -1,0 +1,28 @@
+---
+date: '1887-06-08'
+display-date: June 8th [1887]
+from-address: Clovelly Belgrave Crescent Torquay
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e 86. '
+original-date: '2010-03-02 14:40:40'
+title: To the Reverend John Frewen Moor
+wordpress-id: 3591
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Moor](../persons.html#1046)
+I wrote the paper you asked me to do for the [CQ](../others.html#60) but I am sorry to say it was not good enough, and was rejected. I rather suspected that it would be for it was too long and too like a report.
+
+Do you like to have it for use in any other way? I have had an article from Mr Donald Mackay sent me for the [Packet](../others.html#52) for August on the Centenary[^1]
+I shall come home on the 16th, and I will then send your books back with many thanks, and wishes I had done it better
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: D.J.
+
+Mackey, ‘The Centenary of the Colonial Church’ MP (August 1887) 187-92.
+

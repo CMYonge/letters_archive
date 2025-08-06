@@ -1,0 +1,28 @@
+---
+date: '1874-07-09'
+display-date: July 9th 1874
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Pierpont Morgan Library, New York, MA 4500
+original-date: '2015-07-25 01:23:31'
+title: To an unknown woman
+wordpress-id: 20030
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam,
+
+No one can fail to thank you for your kindness, but I am afraid the work is impossible[^1] All the vocabulary &c are in the most inchoate state; besides that they are only in MS, and in Norfolk island  nor are they more than guides to those who learn the language by intercourse with the natives.  I should think there was not even part of a Bible or Prayer book here unless in the hands of [the Bishop of Lichfield](../persons.html#1295) and Professor Max Muller[^2].  I am afraid translation is impossible except with a native beside one
+
+yours truly
+
+C M Yonge
+
+&nbsp;
+
+[^1]: Evidently CMY’s correspondent had offered to work with Bishop Patteson’s notes on Melanesian languages.
+
+[^2]: Friedrich Max Müller (1823-1900) was a German-born scholar of comparative language, religion, and mythology who worked for most of his life in England.
+

@@ -1,0 +1,31 @@
+---
+date: '1893-04-21'
+display-date: April 21st [1893]
+from-address: Elderfield Otterbourne Winchester
+manuscript-location: MS Lambeth Palace Library  2344 f 176
+original-date: '2011-10-14 19:49:13'
+title: To John Athelstan Laurie Riley
+wordpress-id: 3218
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Riley](../persons.html#1239)
+Have you Mr [H H Gibbs](../persons.html#558)’s name-?
+
+He is either at St Dunstans, Regents Park or at Aldenham Elstree I should think no one would be more earnest in the cause than he. I would also mention the publisher - [A D Innes ](../persons.html#744)31 Bedford Street Strand.
+
+Old Mr [Alexander Macmillan](../persons.html#939) I am sure would but I am not so sure of his sons though his partner Mr [G L Craik](../persons.html#379) would, I believe I am much obliged to [Mrs Riley](../persons.html#2121) for writing to me, I am sorry I was so stupid.
+
+Of course you know Mr Gibbs’s name as MP for the City in the last Parliament and as a Bank Director[^1]
+
+yours truly
+
+C M Yonge
+
+[^1]: Riley was probably trying to raise money for some charitable purpose.
+
+[^2]: Henry Hucks Gibbs (1819-1907) was MP for the City of London 1891-2, which dates the letter.
+

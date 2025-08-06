@@ -1,0 +1,25 @@
+---
+date: '1891-06-01'
+display-date: June 1st 1891
+from-address: Elderfield Otterbourne
+manuscript-location: MS Charlotte Mitchell/11
+original-date: '2010-07-07 09:32:12'
+title: To Mary Christiana Boyle?
+wordpress-id: 3172
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mrs Boyle](../persons.html#193)[^1]
+I waited till all our plans had settled themselves to thank you, and say that we shall much enjoy coming to you for luncheon on Wednesday Our train is at 12.44
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Perhaps Mary Christiana Robins, wife of the Very Rev.
+
+George David Boyle (1828-1901), dean of Salisbury 1880-1901.
+

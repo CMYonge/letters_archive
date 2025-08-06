@@ -1,0 +1,28 @@
+---
+date: '1872-01-01'
+display-date: '[early January 1872]'
+from-address: ''
+manuscript-location: 'MS fragment  Historical Society of Pennsylvania: Gratz Collection:
+  Case 11, Box 14. '
+original-date: '2011-06-14 09:49:35'
+title: To an Unknown Person
+wordpress-id: 2433
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+I am going to Lichfield from Monday to Saturday of next week - to talk and look over letters of [our noble martyr](../persons.html#1155) with the [Selwyns](../persons.html#1295). I believe I am to manage the putting his [life](../books.html#102) together but it will be more editing than writing. I seem to have thought of nothing but the wonderful symbolism of the work of those unconscious savages.[^1]
+Your affectionate
+
+C M Yonge
+
+[^1]: CMY refers to the murder of the Rt.
+
+Rev.
+
+John Coleridge Patteson in the Santa Cruz Islands.
+
+It was reported that Patteson’s body had received five wounds, as Christ\'s had.
+

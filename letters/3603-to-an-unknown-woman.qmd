@@ -1,0 +1,28 @@
+---
+date: '1887-11-28'
+display-date: Novr 28th [after 1887]
+from-address: Elderfield
+manuscript-location: MS Harry Ransom Humanities Resource Center, University of Texas
+  at Austin
+original-date: '2011-09-13 10:55:31'
+title: To an Unknown Woman
+wordpress-id: 3603
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam
+Perhaps the book is out of print – My own private copy of ‘[What to Read](../books.html#196)’ is one in sheets, the extras having been given away – so that [RTS](../others.html#35) may have been taken out later. I have not the Half Hours still, I must have given them away or lent them, and so I cannot refer to them for the publisher[^1]
+
+Yours truly,
+
+C M Yonge
+
+[^1]: It is not at all clear what book is referred to here, and CMY herself does not seem to have published a book of this name.
+
+However, a book did appear called Sunny Half-Hours: pleasant tales at pleasant times.
+
+By Aunt Charlotte (London: Dean 1876).
+

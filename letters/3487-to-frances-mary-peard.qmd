@@ -1,0 +1,21 @@
+---
+date: '1869-01-70'
+display-date: '[1869/70?]'
+from-address: ''
+manuscript-location: This fragment printed in Mary J. Harris, 1903. [[otherbook:318]<i>Memoir
+  of Frances Mary Peard</i>],
+original-date: '2014-05-07 14:42:05'
+title: "To Frances Mary Peard\t\t"
+wordpress-id: 3487
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[To [Frances Mary Peard](../persons.html#1160)]. . . . [Miss Mozley](../persons.html#1061) writes to me much pleased with the story[^1] you have sent her; I am sure I was with the children’s corner at Paris. A foreign correspondent is a great prize for the [Magazine for the young](../others.html#79). I am afraid I shall never get over my inclination now you have inspired me with it to call Henry IV. ‘Hungry Cat.’
+
+[^1]: Probably \"My Own Story\", a nine-part serial signed \"F.M.P\" that ran in the [Magazine for the Young](../others.html#79) from January to September 1870.
+
+It does not seem to have appeared in volume form.
+

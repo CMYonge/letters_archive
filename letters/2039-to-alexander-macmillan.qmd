@@ -1,0 +1,43 @@
+---
+date: '1865-06-01'
+display-date: June 1st 1865
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54920: 90-91 '
+original-date: '2010-05-26 11:10:30'
+title: To Alexander Macmillan
+wordpress-id: 2039
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Macmillan](../persons.html#939)
+I waited to answer till I had my [proofs](../others.html#177) back again. I am not quite sure what is the best line now to take.
+
+Indeed I suppose after all that it is never quite possible for one person’s idea to be thoroughly realized by another.
+
+My notion was to show first why the Incarnation was needed, and then to trace the gradually expanding promises and stages of preparation - making each of these as it were a scene round which to collect description and character. I am afraid I am hardly up to the Cradle Songs.
+
+At least the ideas do not present themselves. I had once tried to say more about the birth of Cain, but I did not like what I was saying, and destroyed it.
+
+And about the actual infancy of Isaac we know nothing but Ishmael’s mocking, and I do not think imagination can quite be employed on those sacred persons. I believe my power is very small of composing reflections or meditations. I can describe an incident, real or imaginary, and put in a thought; but I do not think I have the capacity of doing more - and where I am afraid to say more than there is direct inspired evidence to bear me out in saying, I am sure to fail.
+I had meant to keep the Annunciation and the Blessed Mother as the culmination of the Jewish path leading to the Manger - thinking that it would come most fitly after the long waiting.
+
+My view was of a History of the Promise of the Seed, both in the Jewish and the Gentile world. I had fancied this was what we both meant, but I think yours was of a much more poetical, beautiful book than I am afraid lies within my capacity.
+
+Perhaps [Mrs Alexander](../persons.html#21) could do it.
+
+Would it be the best way for me to relinquish the attempt - and leave you just to put it into better hands?
+
+Do not think I say this from any dislike to criticism. I have been used to it all my life, and really like and am grateful for it, but I think this is a region above my powers, which can hardly rise above dealing with things positive.
+
+If I went on, I am afraid it would have to be as best I could, subject of course to criticism or improvement in details of execution.
+
+In which case I would do my best such as it is.
+
+In the other I can only say I am sorry for my stupidity and rashness leading to disappointment or expense.
+
+Yours sincerely
+
+C M Yonge

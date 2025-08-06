@@ -1,0 +1,30 @@
+---
+date: '1874-05-18'
+display-date: May 18th 1874
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Bodleian Library, Oxford: Bryce 156 (microfilm) ff21-2'
+original-date: '2011-07-12 11:29:57'
+title: To Florence Freeman
+wordpress-id: 2505
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Freeman](../persons.html#524)
+Many thanks for the extract. I am very glad the answer has come to be gibbetted!
+
+People ought to have the penalty of exposing themselves so wonderfully.
+
+You and Moneyspinner ([Miss Marriott](../persons.html#958) of Hythe) are the most effective [Spiders](../others.html#116).[^1]
+I have taken her sum, because she did it in a conversation, but your nines, for nobody else attempted them[^2]
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Freeman had taken part in the Spider Society essay competitions in MP.
+
+[^2]: This confirms the identification of Freeman as \'Pisa\', for MP (July 1874) 8, prints \'Money Spinner\'\'s \'Multiplying 4265 by 3902\' and comments \'PISA is the only one who has \"cast out the nines\"\'.
+

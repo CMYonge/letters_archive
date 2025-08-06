@@ -1,0 +1,19 @@
+---
+date: '1875-04-19'
+display-date: April 19th 1875
+from-address: ''
+manuscript-location: MS Taylor Institution, Oxford
+original-date: '2011-07-13 12:37:28'
+title: To Florence Freeman
+wordpress-id: 2527
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Freeman](../persons.html#524)
+The first week in May will suit me very well and I hope we shall be at our best between banksia roses and nightingales. I am afraid however that I really have only room for one and that I must not have the pleasure of having your sister though I am very sorry to be so inhospitable, but when you see our household you will understand. I have a friend coming to me on Wednesday or Saturday, I am not sure which, but she means to stay a week, so on Saturday week I shall be quite ready, or any time after that suits you. [Miss Walter](../persons.html#1462) (it has no S) is mending with the Spring, but has not been out of her room since November, I hope she will soon.
+yours very sincerely
+
+C M Yonge

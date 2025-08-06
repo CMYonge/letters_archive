@@ -1,0 +1,36 @@
+---
+date: '1872-10-25'
+display-date: Oct 25th [1872]
+from-address: Elderfield,  Otterbourne, Winchester.
+manuscript-location: MS Mrs Clare Roels
+original-date: '2011-06-17 13:29:49'
+title: To Christabel Rose Coleridge
+wordpress-id: 2458
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+Your Face seems to me very effective, I long to hear more of it.[^1] I suppose it will not be like the Face story I heard of, which has a terrible ending. I hope you will go on and get me out of the eerieness it gives me.
+
+Thanks for the promise of Handley Mills [sic], I shall be so glad of it, for poor [Gertrude](../persons.html#1462)’s reading, she is so much more ill than usual, and a book of that kind is such a pleasure to her.
+
+Forms and ceremonies are coming in, but who asks next time for I have no questions to look at?[^2] [Mrs Mercier](../persons.html#990) has sent me her book, the Mother Church. I think she has not distinguished detail from principle enough to make it really good.
+
+It is such a pity to do the Prayer book by saying – this was written in 350, and this in 1560- and this in 1661 your mind gets confused and you lose all sense of the comparative value of the parts of the Service- and she rushes into ‘the colours’ before we understand the great principles of symbolism.
+
+However it is a nice book, and I daresay will be very useful, but I thought it would have been better.
+your affectionate
+
+C M Yonge
+Saturday
+I never thanked you for the Photo- It is very odd that as they make me fierce, they make you sentimental- also as lies on the table it is like a Murillo boy!
+
+Handley Mills came and very pretty to look at thank you.
+
+[^1]: A story by Coleridge, published in MP (November 1873-February 1874) and collected in The Face of Carlyon and other stories (1875).
+
+[^2]: Coleridge was the secretary of the [Gosling Society](../others.html#104), and the current question set to the members was evidently about \'forms and ceremonies\'.
+

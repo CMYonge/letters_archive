@@ -1,0 +1,99 @@
+---
+date: '1869-08-11'
+display-date: August 11. [1869]
+from-address: '[[other:205]Val Richer], '
+manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  249-252
+original-date: '2010-06-23 08:33:34'
+title: "To Mary Anne Dyson\t\t"
+wordpress-id: 2332
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Marianne](../persons.html#464)-
+The occupation of yesterday was a drive to Cambermer, the bourg, a large village of the district, the name of which is on [M. de Witt](../persons.html#419)’s carts.
+
+It is about as large as Hursley apparently, and has a church with a good old Norman tower, but the body horridly bad modern.
+
+However, it was the girls’ school that we went to see, it being the only one not yet broken up for the holidays.
+
+There were two rooms, each with a Soeur presiding over it from a raised desk, and about thirty girls at fixed desks, those of the first class forming little boxes, where they kept their properties.
+
+There were five desks, and about six girls at each, sitting far apart.
+
+Three great windows on each side, the upper parts open, and no stuffiness.
+
+Nothing in the room but over the Sister’s seat, quite at the top a crucifix, and on either side St.
+
+Mary and St.
+
+Joseph, white statues with little crowns of artificial flowers.
+
+At the other end a map of France and a pictorial table of weights and measures, i.e. pictures of all the money, and of all the pots of so many litres, and great and little weights of all the grains, and lengths of all the metres of any reasonable length.
+
+The children were in all kinds of dresses, some in the regular frilly white cap, some in black caps, and some in nets like our own, and some very pretty and intelligent-looking.
+
+The Sister was a nice, portly, merry, rosy body; we came in for some reading, the girls all sitting in their places, and she calling out promiscuously to Anna or Anais to go on.
+
+The book was an instruction on good manners for a jeune personne, which did not seem much to concern them, as it was all about going from the salon to the salle à manger, and there was a dreadful example of a jeune personne who neglected to se nettoyer la bouche, and in consequence was detected in a falsehood about eating salad and thus lost un bon établissement. [Miss Martin](../persons.html#971) and I thought it touched us, as this is the one bit of French manners we cannot away with!
+
+Then the girls showed us their writing, which was very neat, but I forgot to ask after the sums; all those I saw on the slate were simple addition.
+
+The work was very neat, and when they asked after our marking I was glad to have a beautiful bit on my handkerchief, but this school is supposed to be far too much addicted to fancy work and wax flowers, which are needed for the churches, but do not train the girls usefully.
+
+There was a much younger, sallower sister in charge of the little ones, looking as if she came from a lower grade.
+
+There are 600 of these sisters belonging to the mother house at Lisieux, and another 600 to that at Rouen.
+
+They are mostly small tradesmen’s daughters, almost every family has one daughter a sister, and they are much loved, and have a great deal of influence, but the doctors quarrel with them because they go on prescribing for the poor beyond their knowledge.
+
+Parish doctors do not exist here, and herbalism is as much the fashion as ever; [Mme. de Witt](../persons.html#423) knows what every plant is good for, and the girls distil like people in old castles. I found some chlora perfoliata yesterday and a yellow kind of vetch I did not know; also there were some lovely pink mallows, but whether they were musk mallows or not I was not sure, as I could not get one.
+
+Soon after we came home one of the farm waggons came to be packed for Buzenval.
+
+There is very little furniture in these seaside lodgings, and for the six children and two nieces, besides servants, it was a grand pack, and we all stood about or put out our heads at the windows, making fun, the boys dancing in impossible places. A piano, two beds, a sofa, an arm-chair, lots of boxes, etc., etc., looked unmanageable, till M. de Witt got into the cart and made everything fit.
+
+The place is seven leagues off, and the farm horses took it at earliest daylight.
+
+Of the conversation yesterday, the chief things I remember are that[ M.
+
+Guizot](../persons.html#597) knew [Madame Mongolfier](../persons.html#1035), the widow of the balloon man,[^1] when she was 100 years old.
+
+She was put into a convent at Avignon by force, long before the Revolution, to hinder her from marrying [Mongolfier](../persons.html#1036), and made to take the vows, but by some means or other she got a letter to the Pope, complaining of the means used, and he sent a commission which found it was all true, and the Pope released her from her vows.
+
+Another touch of interest was hearing that [Marshal Gouvion de St.
+
+Cyr](../persons.html#2044) said that there were two kinds of good soldiers; le solda vertueux was best of all, and next best the thorough scamp.
+
+It just agrees with what we used to hear in the 52nd. I was surprised to find that his soldier friends esteem the infantry of the line more than any other branch, even the engineers and artillery.
+
+It came out as being recommended to [Cornélis](../persons.html#421)---the English infantry they all call the best in the world for a battle, but not for endurance of hardships.
+
+The Russians seem to have been more alarmed by the individual intelligence of the Zouaves than by anything else---the way they could scale a wall in utter confusion, each man for himself, and then form in perfect order at the top.
+
+When a man is couronné by the Académie before he is twenty-one, he is exempt from military service, as being too good to be food for powder.
+
+But at Sebastopol, [Pelissier](../persons.html#2045) had to write for more intelligent officers; he had to expose them in the trenches, so that he wrote that he had only enough left to last him a week longer. M.
+
+Guizot says he looks forward to a machine that will kill 50,000 men at once, for then war will become impossible !
+
+In the evening I looked over the prints of Lord Vernon’s beautiful edition of Dante, and the young people sung all together le petit capuchin rouge and le renard et le corbeau ; it was the greatest fun.
+
+Alas! all the young ones, except [Rachel](../persons.html#429) and [Susanne](../persons.html#431), who wait till the others are settled in, are gone off at seven this morning to Buzenval in a Lisieux omnibus for a month’s sea air.
+
+They are a great loss, especially to [Frances](../persons.html#1604).
+
+All I can say is that, although I am very sorry to lose them, I shall have more chance of hearing the rest, for I never did hear such a noise as there is at dinner.
+
+Our English notion of low speaking being mannerly is evidently unknown, and no one speaks low but M. de Witt, and yet it all goes with beautiful, courtly French grace and consideration. [Marguerite](../persons.html#425) is a charming girl, and Cornélis a very engaging lad.-
+
+Your most affectionate
+C. M. YONGE.
+
+[^1]: Joseph-Michel Montgolfier (1740-1810) and Jacques-Étienne Montgolfier (1745-1799) were the inventors of the montgolfière hot air balloon, and launched the first public manned ascent on 4 June 1783.
+
+In recognition of their achievement, their father Pierre was elevated to the nobility and the hereditary appellation of de Montgolfier by King Louis XVI of France.
+

@@ -1,0 +1,36 @@
+---
+date: '1854-03-03'
+display-date: Friday [3 March 1854]
+from-address: ''
+manuscript-location: MS Plymouth and West Devon Record Office 308/255
+original-date: '2010-04-12 09:30:45'
+title: Frances Mary Yonge to the Reverend John Yonge
+wordpress-id: 3032
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr.
+
+Yonge](../persons.html#1623)
+Incapable as [I](../persons.html#1606) am of doing any thing today, to do nothing is worst of all, so I will try to thank you for sending me two comforters and for enduring for the sake of those who are anxious about you, the great grief and sorrow I know it is to you not to join the family and friends tomorrow[^2]
+I have many obligations to you, and amongst them that of having given me lessons how to endure sorrow and now I am sure I can say that God’s Mercies have followed me all the days of my life and perhaps more sensibly through the last week than ever before.[^3] The many things great and small that have been ordered so as to spare us as much as possible, and my having been able to wait upon [him](../persons.html#1631), to the last moment and not to have broken down yet make me hope yet to be helped in what is to come.
+I think I can bear to have seen him cut down in his full strength and in the midst of his usefulness much better than to see him linger in broken health and depressed spirits, unable to do any thing to help and yet to be vexed when things went wrong.
+
+Then that he lived to form Charlotte’s character and lift her such a sound and true helper to me, and spent his last strength in[ Julian](../persons.html#1624)’s outfit and sending him away to see something of the realities of the profession he has chosen and which he will not quit with my approbation through any considerations for me, for I think it would be very bad for him to sit down here with just enough to be idle upon till some years have passed over his head. I am very glad he had one last look upon his Father though it was not returned
+[Colonel Wilbraham](../persons.html#1515) has undertaken to seek him out and try to comfort him and it will be a balm to him to see one who knew what his home was.
+
+With my children you have been always next to a father and they will not feel utterly desolate while you are spared to them, and to me you are most valuable
+your affec Sister
+F M Yonge
+
+[^1]: Black-edged paper.
+
+Endorsed in another hand ‘Feby: 1854’.
+
+[^2]: His children [Anne Yonge](../persons.html#1582) and [Duke Yonge](../persons.html#1599) had come to stay with the bereaved family in Otterbourne and attend the funeral of WCY which took place on Saturday 4 March 1854.
+
+[^3]: John Yonge’s wife, [Alethea](../persons.html#1580), FMY’s half-sister, had died in 1844.
+

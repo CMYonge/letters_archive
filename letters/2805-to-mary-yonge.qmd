@@ -1,0 +1,28 @@
+---
+date: '1885-04-05'
+display-date: Easter day [5 April 1885]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Princeton University, Parrish Collection
+original-date: '2011-09-27 11:47:15'
+title: To Mary Yonge
+wordpress-id: 2805
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mary](../persons.html#1626)
+[Gertrude](../persons.html#1462) has brightened up this week but she had an embarras de richesses on Wednesday for[ Jane Harper](../persons.html#2360), two children, [Bella Heathcote](../persons.html#1690) [Mrs Buston](../persons.html#236) and [Emily Dampier](../persons.html#404) all came.
+
+She could not see the last two but they are coming on Wednesday afternoon to see her.
+
+We had 104 communicants today - 50 early and 54 late. [Frances](../persons.html#1604) was neuralgic and could not come out so [Maurice](../persons.html#1630) was alone. [George](../persons.html#1610) has grown very tall.
+
+Poor [Caroline Martin](../persons.html#967) died the night before good Friday.
+I never had such a scarcity of primroses at Easter!
+
+Your affectionate
+C.M.
+
+Yonge

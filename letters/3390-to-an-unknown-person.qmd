@@ -1,0 +1,16 @@
+---
+date: '2010-03-09'
+display-date: '2010-03-09'
+from-address: ''
+manuscript-location: MS location unknown.  This fragment quoted in Mare and Percival,
+  <i>[[otherbook:598]Victorian Best-seller]</i>, 228.
+original-date: '2010-03-09 14:42:22'
+title: To an Unknown Person
+wordpress-id: 3390
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Have you heard the last variety of American Lion hunting – writing to ask for a bit of one’s dress to put into a literary quilt? I actually had such a request, and while I was laughing at it I came on a book of [Miss Alcott](../persons.html#1649)’s where the dear Jo – after she had become a noted authoress – has the same entreaty made to her.

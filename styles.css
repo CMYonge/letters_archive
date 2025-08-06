@@ -1,0 +1,127 @@
+/* Custom styles for Yonge Letters site */
+
+/* Letter metadata styling */
+.letter-metadata {
+    background-color: #f8f9fa;
+    border-left: 4px solid #007bff;
+    padding: 1rem;
+    margin: 1rem 0;
+    border-radius: 0.25rem;
+}
+
+.letter-metadata strong {
+    color: #495057;
+}
+
+/* Person and reference links */
+a[href*="persons.qmd"] {
+    color: #28a745;
+    text-decoration: none;
+    border-bottom: 1px dotted #28a745;
+}
+
+a[href*="others.qmd"] {
+    color: #dc3545;
+    text-decoration: none;
+    border-bottom: 1px dotted #dc3545;
+}
+
+a[href*="persons.qmd"]:hover,
+a[href*="others.qmd"]:hover {
+    text-decoration: none;
+    border-bottom: 1px solid;
+}
+
+/* Letter index styling */
+.letter-entry {
+    border-bottom: 1px solid #dee2e6;
+    padding: 1rem 0;
+}
+
+.letter-entry:last-child {
+    border-bottom: none;
+}
+
+.letter-title {
+    font-weight: 600;
+    color: #007bff;
+}
+
+.letter-date {
+    color: #6c757d;
+    font-size: 0.9em;
+}
+
+.letter-excerpt {
+    margin-top: 0.5rem;
+    color: #495057;
+}
+
+/* Reference sections */
+.person-entry,
+.reference-entry {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.person-entry:last-child,
+.reference-entry:last-child {
+    border-bottom: none;
+}
+
+/* Footnotes styling */
+.footnotes {
+    margin-top: 3rem;
+    border-top: 2px solid #dee2e6;
+    padding-top: 1rem;
+}
+
+.footnotes h2 {
+    color: #6c757d;
+    font-size: 1.25rem;
+}
+
+/* Search results highlighting */
+.search-highlight {
+    background-color: #fff3cd;
+    padding: 0.1em 0.2em;
+    border-radius: 0.2em;
+}
+
+/* Responsive improvements */
+@media (max-width: 768px) {
+    .letter-metadata {
+        margin: 0.5rem 0;
+        padding: 0.75rem;
+    }
+
+    .navbar-brand {
+        font-size: 1rem;
+    }
+}
+
+/* Print styles */
+@media print {
+
+    .navbar,
+    .sidebar {
+        display: none;
+    }
+
+    .letter-metadata {
+        border: 1px solid #000;
+        background: none;
+    }
+
+    a {
+        text-decoration: none;
+        color: inherit;
+    }
+
+    a:after {
+        content: " [" attr(href) "]";
+        font-size: 0.8em;
+        color: #666;
+    }
+}

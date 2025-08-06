@@ -1,0 +1,20 @@
+---
+date: '1875-05-13'
+display-date: May 13th 1875
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Columbia University Library, New York:  Lohf Collection'
+original-date: '2011-07-13 13:11:11'
+title: To George Lillie Craik
+wordpress-id: 2531
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+[Clay](../others.html#173) has sent me proofs of the [French history](../books.html#99), but would it not be better to wait to print till I have finished, as the limits are fixed?
+
+Yours sincerely
+
+C M Yonge

@@ -1,0 +1,56 @@
+---
+date: '1867-03-25'
+display-date: March 25th 1867
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Charlotte Mitchell
+original-date: '2010-06-10 08:39:37'
+title: "To Edith Sophia Jacob\t\t\t\t"
+wordpress-id: 2155
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Jacob](../persons.html#749),
+First to answer the question I forgot in my last note.
+
+That Sphinx is a faithless monster, he (or she) never came to us this month, nor have I heard of one any where.
+
+There is a very good new set of acrostics by A. A. G. published by Lothian.[^1]
+You are very good to take so kindly all my criticisms of the Gates of Paradise. I feel it rather like the atmosphere of my favourite piece of [Dante](../others.html#246), where the Countess Matilda is his guide in those lovely meadows,[^2] and I am much impelled to ask if you know the Dream of Gerontius, it is evidently [Dr Newman](../persons.html#1084)’s own effort to work out with himself the purgatory question, and the result gives one much of the Dante feel of awe and unreality, but the Songs of the Angels are marvellously beautiful.
+
+It was given to me on the day of the [Funeral](../others.html#184) at Hursley and the person who gave it said (though much struck with it) that it seemed to melt away with the 23d Psalm sung over that grave.
+
+But I think you would care for it in the same way as for [Blake](../persons.html#1977).
+
+Shall I lend it to you if you have not seen it -?
+I have been thinking over that revelation of the Presence. I see it is authorized by the Lamb on Mount Sion, and those who follow Him, who are evidently in the intermediate state.
+
+Still I suppose the Beatific Vision at the last must be something far beyond.
+
+More that which Moses could not see, and that what the blest have is in someway [sic] the Human Presence that went before them
+Then as to the speaking.
+
+It hardly seems to me to stand on the [a Kempis](../others.html#100) ground, because that is as it were giving voice to the breathings in the heart, while this is more external.[^3] Do you not think the Holy One might be seen on the Sea, and a Voice as of an Angel bear the permission and message to Gabrielle-?
+I cannot but tell you (most privately of course) of what befel me the year after my Father’s death. A very dear [cousin](../persons.html#1616), like a sister, was very ill in Devonshire, we were waiting daily to hear of her death. I dreamt I stood by her watching her and then, just as her greatest agony came, my Father came and drew a curtain to shelter me from the light.
+
+It seemed to me that Gabrielle’s visit to her daughter brought back that time.
+
+But it was not really the night of her death.
+
+The flowers I do like greatly!
+
+Did not their fragrance turn back in to ‘the own bosom’ of those who offered them-? I send the MS that you may see about the part about the Prince. I find that it will not be in time for May, but if you can let me have it before the 20th of this month, it shall come on June 1st., in the midst of Ascension tide.
+
+That sermon must have come from [Mrs Johns](../persons.html#772), I recognise the writing
+yours very sincerely
+
+C M Yonge
+
+[^1]: As far as this the text has been crossed through in pencil, as if part publication had been contemplated.
+
+[^2]: Purgatorio Canto 28.
+
+[^3]: CMY was concerned about the irreverence of putting words into Christ\'s mouth.
+

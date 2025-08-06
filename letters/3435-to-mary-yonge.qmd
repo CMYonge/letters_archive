@@ -1,0 +1,33 @@
+---
+date: '1899-12-12'
+display-date: Decr 12th  [1899]
+from-address: Elderfield
+manuscript-location: MS West Devon Area Record Office Acc No 308
+original-date: '2010-10-11 13:35:48'
+title: To Mary Yonge
+wordpress-id: 3435
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mary](../persons.html#1626)
+I wonder whether [Charlotte ](../persons.html#1587)had a foggy, snowy voyage yesterday?
+
+With us the day was very fine, the frosty road so clean and clear and this morning all was white but later it turned to drizzling rain and muddy roads , down which I puddled to the last nursing lecture, and saw instruction given on making a poultice among other things The numbers of people had been 29, but today there were only 19, from weather and the bad colds which are very prevalent-
+[Frances](../persons.html#1604) has had dear [George](../persons.html#1610)’s last letter written on the 18th of October I have not seen it; she is going to bring it with her on the 20th Probably no more will be heard till someone is able to write after the war- That is a sad misfortune of [General Gatacre](../persons.html#2204), it cripples everything so much -[^1] Those Boers are much better soldiers than one expected, and yet the [Illustrated ](../others.html#68)had many pictures of them drilling
+[Alethea](../persons.html#182) is at home, and takes little walks, but I have not seen her today The Southampton water works want to get an act of parliament to enable them to buy up all the lower part of the village beyond the Vicarage walk so as to be able to prevent the wells or the drains from contaminating their water- Frances and I have both had a great letter about the compulsory sale of the houses and we have set our lawyers to see about it
+Here is a hospital rhyme that the Nurse says she hears the patients muttering from one bed to another
+‘Here comes a red hot poultice
+The Nurse, she take no notice
+I say t’is red hot
+She say no, t’is not!’
+She is a lady, and has done a great deal of nursing, and now she is giving 7 lectures in a week – not on Sunday but two on other days.
+your most affectionate
+
+C M Yonge
+This ought to have gone yesterday, but got out of sight
+
+[^1]: Gatacre had been defeated at the battle of Stormberg (10 December 1899).
+

@@ -1,0 +1,25 @@
+---
+date: '1887-09-15'
+display-date: Sept 15th 1887
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Princeton University, Parrish Collection
+original-date: '2011-10-03 11:40:51'
+title: To Anna Georgina Macaulay?
+wordpress-id: 2866
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Nina](../persons.html#2352)[^1]
+[Gertrude](../persons.html#1462) desires me to say that we have never had an American edition of [the Three Brides](../books.html#120) but she has taken measures for getting a second hand one and it will be sent to you.
+
+All my stories in the [Monthly Packet](../others.html#52) do get published again	Gertrude is tolerably well just now
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Identified tentatively from the letter of 2 June 1883.
+

@@ -1,0 +1,53 @@
+---
+date: '1897-06-21'
+display-date: Midsummer Day [21 June 1897]
+from-address: Elderfield
+manuscript-location: 'MS Hampshire Record Office: Heathcote Family Scrapbooks: 63M84/234/58'
+original-date: '2010-10-07 09:06:51'
+title: To Helena Mary Heathcote
+wordpress-id: 3352
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Ellie](../persons.html#663)
+Thank you. I have written to [Logan](../persons.html#2170) to begin next Tuesday the 29th.
+
+To start at the quarter is convenient to one’s memory. I suppose he can hardly be [Miss Sturges Bourne](../persons.html#1379)’s old Logan, is he his son?[^2]
+‘From Lynn to Milford Bay’ I thought of on Tuesday when our fire was blazing built judgematically under [Mr Dennis](../persons.html#2171)’s superintendence so as to be bright for half an hour and then to fade.[^3] Seven fires were counted from the top of the hill . I did not go up having had enough at Cranbury.
+
+The procession was a pretty sight through the trees, each of the 300 children with a flag, and the band and [Vicar](../persons.html#184) at the head. 800 people had tea and sports. [Old Mrs Chamberlayne](../persons.html#278) came down in her chair.[^3] I spoke to her but I don’t think she knew me. [Mr C](../persons.html#2114) and his family were there very pretty children all in white.
+
+He and the little girls gave a medal to each school child and everything went off most beautifully. [Mrs Gunner](../persons.html#2172)’s [mother ](../persons.html#2173)died at 91, two days after her daughter. I do not know whether she had been told. I am glad to hear a good account of [Mr Compton](../persons.html#2174).
+
+Old age does soften griefs.
+
+At Wantage they had a terrible shock, the carpenter while fixing a flag on the topmost chimney of the Home, fell and was killed on the spot - a steady good Churchman with a wife and family.[^4] The [Sisters](../others.html#21) had fixed to go into retreat this week. I think they must be rather glad it was so arranged.
+
+Poor Whitethroat! I should suspect a boy, for cats move so daintily that they do not make such a disturbance in the surroundings, and I think it might be easy to get in from the little meadow with the stream. I am glad the fly catcher did not desert. I think you must be sitting under the trees today.
+
+We had a shower in the night and at 8 this morning, but the heat is very great 84o in this room
+Your affectionate
+
+C M Yonge
+
+[^1]: Black-edged paper.
+
+[^2]: The Heathcotes had moved from Hursley to Eling in the New Forest, near Anne Sturges Bourne\'s former home at Testwood.
+
+Their bailiff was Daniel Logan, but he does not seem to have been brought up in the area.
+
+[^3]: T. B.
+
+Macaulay, ‘The Armada’, ll.35-7: ‘From Eddystone to Berwick bounds, from Lynn to Milford Bay,/ That time of slumber was as bright and busy as the day; /For swift to east and swift to west the ghastly war-flame spread’.
+
+The beacons were burning in honour of the Diamond Jubilee of Queen Victoria’s accession (20 June 1837).
+
+[^4]: St.
+
+Mary’s Home, Wantage, an institution run by the Community of St.
+
+Mary the Virgin, of which CMY was an associate.
+

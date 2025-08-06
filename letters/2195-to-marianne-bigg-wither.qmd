@@ -1,0 +1,36 @@
+---
+date: '1867-07-20'
+display-date: July 20th [1867]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Royal Institution of Great Britain, XVA/186/32 f.63/1
+original-date: '2011-10-12 13:54:32'
+title: To Marianne Bigg Wither
+wordpress-id: 2195
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Marianne](../persons.html#1546)
+If I had more time I would send you more thanks - I am going to have some of the big head done but how soon I cannot say.
+
+The alias of the other is the Bandit’s Bride.[^1] I think these are a little better first look. I am so sorry about [Good Words](../others.html#73).
+
+No one knows where it is.
+
+Dear M A.
+
+So many thanks
+your most affectionate
+
+C M Yonge
+
+[^1]: When CMY was at Puslinch in the summer of 1867, her cousin Duke took a number of photographs of her many of them in the garden.
+
+The two referred to here are probably those held by the National Portrait Gallery, London, and catalogued as NPG x5575 and NPG x38898.
+
+The \'alias\' was taken from The Bandit\'s Bride; or, The Maid of Saxony.: A romance by Louisa Sidney Stanhope (Minerva-Press: 1807).
+
+Copies of NPG x38898 were later sold to raise money for building a school in connection with the [Church of the Resurrection, Eastleigh](../others.html#188).
+

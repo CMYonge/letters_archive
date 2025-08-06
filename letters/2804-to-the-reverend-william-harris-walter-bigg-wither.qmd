@@ -1,0 +1,30 @@
+---
+date: '1885-04-05'
+display-date: Easter [5 April 1885]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Harry Ransom Humanities Research Center, University of Texas,
+  Austin '
+original-date: '2011-09-27 11:37:11'
+title: To the Reverend William Harris Walter Bigg Wither
+wordpress-id: 2804
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Wither](../persons.html#1544)
+It has been a beautiful day Easter day, full Church and 104 Communicants – 50 early and 54 late – not quite so many as last year, but [Frances](../persons.html#1604) was in bed with neuralgia and [Helen](../persons.html#1613) is at Arlington.
+
+We had scarcely enough primroses for the Church, they are so late this year – but there were plenty of daffodils and it looked very well
+No, [Mildred Coleridge](../persons.html#17) has not married [Adams](../persons.html#12) nor do I think she will marry him.[^1]
+It is altogether the most extraordinary and miserable business I ever heard of, and my poor [Mary](../persons.html#351) is quite heartbroken about it.
+[Mrs George Heathcote](../persons.html#1690) is at the Park and came over on Wednesday to see [Gertrude](../persons.html#1462)
+Your affectionate
+
+C M Yonge
+
+[^1]: The Hon.
+
+Mildred Coleridge, niece of CMY\'s great friend Mary Coleridge, married Charles Warren Adams, against the wishes of her family, on the 24 June 1885.
+

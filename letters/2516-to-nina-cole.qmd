@@ -1,0 +1,33 @@
+---
+date: '1874-11-06'
+display-date: Novr 6th 1874
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Charlotte Mary Yonge Fellowship
+original-date: '2011-07-12 14:05:07'
+title: To Nina Cole?
+wordpress-id: 2516
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Miss Cole](../persons.html#326)[^1]				
+I am much obliged for your book which I am sure I shall read with much interest as the fruit of so many thoughts
+I hear from [Mrs Montgomery Moore](../persons.html#1042) from [Rawal Pindee ](../others.html#262)which at least is near that beautiful Cashmere though she never will be happy in India.
+[Elizabeth](../persons.html#320) is at Dittisham[^2]
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Another letter exists, evidently to the same Miss Cole who was a friend of the Colborne family, dated 17 March [1860s?].
+
+On the evidence of this letter, she may have been Nina Cole, author of Meditations on the Song of Songs (1874), a volume edited by the Rev.
+
+George Cosby White.
+
+[^2]: The Rector of Dittisham was the Rev. and Hon.
+
+Graham Colborne, brother of Jane Montgomery Moore and Elizabeth Colborne.
+

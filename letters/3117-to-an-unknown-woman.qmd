@@ -1,0 +1,24 @@
+---
+date: '1858-08-16'
+display-date: Aug 16th 1858
+from-address: Otterbourne, Winchester.
+manuscript-location: 'MS Princeton University, Parrish Collection, C0171: Box 29.'
+original-date: '2010-04-27 12:04:14'
+title: To an Unknown Woman
+wordpress-id: 3117
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam,
+I am much obliged for your offer of sending an account of the Queen’s visit to Cherbourg for the [Monthly Packet](../others.html#52), but I am afraid that the pages are already so fully engaged that it could hardly be inserted while it still retained the fresh interest which an article on such a subject requires.[^1] It could certainly not appear in September, nor unless very short in October, and after that the time for it would be gone by . I therefore think I had better decline it, with many thanks, while there is still time to offer it to some other periodical
+With many thanks
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Queen Victoria, the Prince Consort and the Prince of Wales visited Cherbourg between 4-6 August 1858.
+

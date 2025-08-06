@@ -1,0 +1,23 @@
+---
+date: '1891-01-26'
+display-date: "Janry 26\u20141891"
+from-address: The Edge, Tooting Common.
+manuscript-location: MS UCLA collection 100 box 119/6
+original-date: '2010-07-07 09:14:42'
+title: Katherine Sarah Macquoid to Charlotte Mary Yonge
+wordpress-id: 3170
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Miss Yonge,
+I hope you will be able to get ‘At the Fair’ into the May no.
+
+July is such a long time off.
+
+Very truly yours
+[Katharine S.
+
+MacQuoid](../persons.html#943)

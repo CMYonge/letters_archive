@@ -1,0 +1,31 @@
+---
+date: '1868-07-18'
+display-date: '[Norfolk Island, 18 July 1868]'
+from-address: ''
+manuscript-location: MS location unknown. This fragment printed in Yonge, <i>[[cmybook:102]Life
+  of John Coleridge Patteson]</i>, II, 330-1.
+original-date: '2010-06-16 10:07:02'
+title: The Right Reverend John Coleridge Patteson to Charlotte Mary Yonge
+wordpress-id: 2257
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[He](../persons.html#1279) has been with [me](../persons.html#1155) for some years, always good and amiable; but too good-natured, too weak, so that he did not take a distinct line with his people.
+
+He is a person of some consequence in his neighbourhood.
+
+Now he gives all the proofs that can well be given of real sincerity.
+
+He wonders himself, as he contrasts his present with his former thoughts. I feel, humanly speaking, quite convinced that he is thoroughly in earnest.
+
+His wife and little child are in the islands. ‘How foolish of me not to have listened to you, and brought them here at once.
+
+Then we could stop here for good.’ But he will return with them, all being well, or without them, if anything has happened to them, and I see in him, as I hope and pray, the pioneer for San Cristoval at last.
+
+Three young Mahagan scholars, two grown up, one a lad of rank (for in the Solomon Islands they have chiefs of more or less consequence), speak and act in the same manner. [Hundulu](../persons.html#2013), the youngest, is a regular little hanger-on of mine, from the time that his father gave him to me years ago; and as I was lying down at night in the village ( a few months after burnt by their enemies) I felt the little fellow put his head on my chest for a pillow, and so signify his entering into my possession.
+
+[^1]: The second paragraph was omitted from the revised edition.
+

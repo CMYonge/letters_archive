@@ -1,0 +1,19 @@
+---
+date: '1879-04-30'
+display-date: April ?30th 1879
+from-address: Elderfield, Otterbourne, Winchester
+manuscript-location: MS University of Manchester, Ryl Eng MS. 341/172
+original-date: '2011-09-08 15:17:44'
+title: To H.W. Lewis
+wordpress-id: 2669
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[Sir](../persons.html#875)
+The family of the [Prince Consort ](../persons.html#1736)has no surname being in fact too old- Von Sachs is its only distinction of the kind
+your truly
+
+C M Yonge

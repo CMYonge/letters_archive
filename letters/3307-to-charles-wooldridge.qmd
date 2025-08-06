@@ -1,0 +1,39 @@
+---
+date: '1896-01-01'
+display-date: Jan 23d 1896
+from-address: Elderfield Otterbourne
+manuscript-location: MS Hampshire Record Office 67M92W/82/24
+original-date: '2010-09-07 14:44:16'
+title: To Charles Wooldridge
+wordpress-id: 3307
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Wooldridge](../persons.html#2094)
+My [brother](../persons.html#1624) told me that he had arranged all the Insurance with you, so I never imagined that it did not include this house. I suppose it was only the freehold property.
+
+This house belongs to Magdalen College I do not know at all what it is worth, as I only pay £3 a year for it under the Copyhold. I suppose it might be about £800, the furniture & books £200.
+
+He believed that he had made over the house occupied by [Hicks](../persons.html#689) to me, and I have paid rates for it and insurance till now, when I found that the transfer had never been made so that the rent goes to [Mrs Yonge](../persons.html#1604), and the Insurance should be paid by her.
+
+The Cottages- freehold for which I ought to pay are ‘The Rising Sun’, which is no longer a public house, but occupied by H Broadway A house occupied by [Mrs Bishop](../persons.html#156) One set down to Minham, but now let to Capt Tryan occupied by Oxford.
+
+Four Cottages upon the hill – Mills, Radway, Pearson, Gardener Three at Fryern Hill occupied by [Norgate](../persons.html#2123) Holly and Hayes
+All these are freehold.
+
+There are five cottages opposite which are copyhold, they were Magdalen College, but were transferred to the Chamberlayne property, and as long as the lives last, I pay three and eight pence a year for them.
+
+The end one, a shop is tiled, the rest thatched all connected. I know I used to pay insurance for these – Price, Barfoot, Ray, Martin, Carbin inhabit them.
+
+There is a tiled one at the other end, occupied by [Ray junior](../persons.html#2111), which I think is freehold.
+I have heard nothing about their insurance since my brother told me he had arranged it with you. I suppose they came under the £1700.
+
+They are the chief subject of anxiety as Mr Price is an old feeble man who will not have anyone to sleep in his house
+I should be glad to have my house added and to have the matter cleared up about the rest
+
+Yours truly
+
+C M Yonge

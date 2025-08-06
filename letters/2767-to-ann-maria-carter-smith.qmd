@@ -1,0 +1,26 @@
+---
+date: '1883-01-16'
+display-date: Jan 16th 1883
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1883/ 1
+original-date: '2011-09-19 15:43:26'
+title: To Ann Maria Carter Smith
+wordpress-id: 2767
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Smith](../persons.html#263)
+Thank you much I will keep the story for the final selection. I think the mistake is excellently done, but I am not sure that the girls’ taking the journey on purpose to defy Mr Ritchie is not too dreadful.
+I am so glad you have brought out Dulcibella again[^2]
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Envelope with violet engraving on flap addressed to Miss Carter Smith/ Thistleworth/ Stevenage and postmarked Winchester (date cut out) and Stevenage 17 January 1883.
+
+[^2]: CMY seems to refer to two stories by Carter Smith here: a story for the Christmas number which does not seem to have been chosen, and \'The Tramp of Many Feet\', which was in course of serialization in the [Churchman\'s Companion](../others.html#62).
+

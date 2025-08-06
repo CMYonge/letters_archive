@@ -1,0 +1,23 @@
+---
+date: '1876-07-10'
+display-date: July 10th 1876[[footnote:1]]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: University of Tennessee Special Collections Library
+original-date: '2011-07-15 11:42:03'
+title: To an Unknown Woman
+wordpress-id: 2558
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam
+Will you kindly send the advertisement with six stamps direct to the publisher as these requests are managed by him
+
+yours sincerely
+
+C M Yonge
+
+[^1]: The number is indistinct and might read 19th.
+

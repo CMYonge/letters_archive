@@ -1,0 +1,28 @@
+---
+date: '1872-12-18'
+display-date: Decr 18th 1872
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
+original-date: '2011-06-17 14:07:55'
+title: To Blanche Catherine Medhurst
+wordpress-id: 2464
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Miss Medhurst](../persons.html#988)
+I like your New Year’s Eve poem, but I ought to have had it long ago.
+
+If you have not disposed of it otherwise, will you send it to me next October for December of 1873.
+I believe [Mrs Mercier](../persons.html#990) has put a little pupil of mine under your care as member of the Guild [Emmeline Spratt](../persons.html#1358).
+
+She is a really good girl I believe, and very affectionate but I should not wonder if you thought her a little sentimental	
+
+Yours truly
+
+C M Yonge
+
+[^1]: Black-edged paper.
+

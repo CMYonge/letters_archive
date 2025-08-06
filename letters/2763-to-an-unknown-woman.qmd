@@ -1,0 +1,23 @@
+---
+date: '1882-12-11'
+display-date: Decr 11th 1882
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS British Library Add 46359A f.244
+original-date: '2011-09-19 13:15:19'
+title: To an Unknown Woman
+wordpress-id: 2763
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam
+I see I made a mistake in addressing your letter, as you have left Windsor. I therefore write again to give my full permission for the translation of the [Questions on the Gospels](../books.html#105)[^1]
+
+yours truly
+
+C M Yonge
+
+[^1]: This translation has not been identified.
+

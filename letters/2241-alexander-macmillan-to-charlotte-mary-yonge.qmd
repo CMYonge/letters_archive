@@ -1,0 +1,28 @@
+---
+date: '1868-04-29'
+display-date: April 29 1868
+from-address: ''
+manuscript-location: 'Copy outletter book British Library Add MSS.55388 (1): P. 302 '
+original-date: '2010-06-15 13:52:23'
+title: 'Alexander Macmillan to Charlotte Mary Yonge   '
+wordpress-id: 2241
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Miss Yonge,
+[I](../persons.html#939) enclose the [monthly cheque](../others.html#160) with best remembrances.
+I hope the [Cameos](../books.html#73) will get out by & by.
+
+The volume proves thinner than I had expected and I am making calculations as to price.
+
+This first edition at 4/6 or even 5/- will not yield much.
+
+Are you disposed to sell us the copy right?
+
+Yours very faithfully
+A.
+
+Macmillan

@@ -1,0 +1,20 @@
+---
+date: '1865-09-12'
+display-date: 12th Sept. 1865
+from-address: ''
+manuscript-location: 'Copy outletter book British Library Add MSS. 55384 (2): P. 860'
+original-date: '2010-06-03 08:57:25'
+title: George Lillie Craik to Charlotte Mary Yonge
+wordpress-id: 2071
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam,
+[I](../persons.html#379) am not aware whether “[The Clever Woman](../books.html#58)” has been translated, but perhaps you will answer the enclosed yourself.
+
+Dear Madam
+Yours faithfully
+Geo: Lillie Craik

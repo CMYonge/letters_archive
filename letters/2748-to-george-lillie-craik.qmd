@@ -1,0 +1,37 @@
+---
+date: '1882-05-20'
+display-date: May 20th 1882
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54921: 111-112 '
+original-date: '2011-09-16 13:10:09'
+title: To George Lillie Craik
+wordpress-id: 2748
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+Thank you for your letter, and your kind promise of [£200](../others.html#160) for this edition of [Unknown to History](../books.html#157). I hope the cheap movement will be successful. I own I should like to see [the Heir of Redclyffe](../books.html#15) and [Heartsease](../books.html#19) in shilling and sixpenny editions I think they would have a great sale.
+
+Please let a copy of ‘Unknown to History’ go to
+[Miss Coleridge](../persons.html#351)
+Manor House
+Ottery St Mary
+I thought it would have come while she was staying with me or I should have set it down before.
+
+It is curious that the Cavendish and Talbot families should come so much to the front in it just now[^1]
+
+Yours truly
+
+C M Yonge
+
+[^1]: Lord Frederick Cavendish (1836-6 May 1882) had recently been assassinated in Phoenix Park by Irish nationalists.
+
+He and the Rev.
+
+Edward Stuart Talbot, Warden of Keble College Oxford, had married sisters.
+
+Unknown to History is concerned with the captivity of Mary, Queen of Scots, at the hands of Bess of Hardwick, who married successively into the Cavendish and Talbot families.
+

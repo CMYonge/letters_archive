@@ -1,0 +1,27 @@
+---
+date: '1896-01-29'
+display-date: Jan 29th [1896]
+from-address: Elderfield Otterbourne
+manuscript-location: MS Hampshire Record Office 67M92W/82/24
+original-date: '2010-09-07 14:57:08'
+title: To Charles Wooldridge
+wordpress-id: 3311
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Wooldridge](../persons.html#2094)
+The house said to be occupied by E Collins is that of [Charles Ray Junior](../persons.html#2111) [Mrs Collins](../persons.html#360) has been dead these 30 years.
+
+Hall ought to be Pearson John Price rents a very small cottage adjoining his shop, I believe one of Barfoot’s sons sleeps there but Price is accountable for it.
+[Mrs Bishop](../persons.html#156) is really the tenant of the whole house Ruddock is her lodger Does this make any difference?
+
+County Police should be substituted for [J Davis](../persons.html#2148), as the present constable is Kemp
+Day is dead, his house is occupied by Mrs Jewell
+Otherwise I think all is correct
+
+Yours truly
+
+C M Yonge

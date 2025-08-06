@@ -1,0 +1,26 @@
+---
+date: '1857-07-28'
+display-date: July 28 1857
+from-address: 'Otterbourne Winchester.  '
+manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1857/2
+original-date: '2010-04-26 11:22:44'
+title: To Ann Maria Carter Smith
+wordpress-id: 3105
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Smith](../persons.html#263)
+I should have been glad to accept your ‘Manchester Visit’, but it has been forestalled as you will [see](../others.html#52) on the first of August.
+I have put out [your princesses](../others.html#262) for October but I do not feel sure how the space will be[^2]
+
+yours sincerely
+
+C M Yonge
+
+[^1]: With envelope addressed to Miss Anne Smith/ Stepney Rectory/ London and postmarked Winchester 29 July and on reverse 30 July 1857.
+
+[^2]: ‘A Glimpse into a Royal Home Seventy Years Ago’ MP 14 (November 1857) 470-96.
+

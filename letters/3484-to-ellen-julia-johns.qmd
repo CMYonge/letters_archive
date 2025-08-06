@@ -1,0 +1,27 @@
+---
+date: '1867-07-09'
+display-date: July 9th [1867]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Charlotte Mitchell
+original-date: '2010-05-22 07:15:22'
+title: To Ellen Julia Johns
+wordpress-id: 3484
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mrs Johns](../persons.html#772),
+I am very glad there is a prospect of our seeing [Miss Keary](../persons.html#793).
+
+Would you or [Kate](../persons.html#887) be so kind as to let us know when she comes, and how long she is likely to be with you, and then we may fix a day for meeting or trying to meet.
+
+Next week and the week after too we have friends coming to us just so invalidish that I dare not make engagements till I have seen how they are, and the length of the second visit also, but at any rate, I hope we shall not miss seeing you and Miss Keary
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: With envelope addressed to Mrs Johns/ Winton House/ Winchester and postmarked Winchester 9 July 1867.
+

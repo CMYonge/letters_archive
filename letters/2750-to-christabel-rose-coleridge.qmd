@@ -1,0 +1,36 @@
+---
+date: '1882-06-06'
+display-date: June 6 th [1882]
+from-address: 'Elderfield, Otterbourne, Winchester.  '
+manuscript-location: MS Mrs Clare Roels
+original-date: '2011-09-16 15:07:51'
+title: To Christabel Rose Coleridge
+wordpress-id: 2750
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+The elder sister may be a good modification and pray do you – or [FMP](../persons.html#1160) invent a love story to work in.[^1]
+No Robber appears so do pray write him, also Geo III and the beggar. I have done a White Ship.
+
+There ought I fancy to be about 30, and I have 28 in my eye or written out ie if I take two Whittingtons.
+
+What do you think of the baby Pretender in his nurses’ arms under the Church wall in his mother’s flight?
+
+In haste
+your affectionate
+
+C M Yonge
+I got [Mrs Argles](../persons.html#57) ([Dr Davys](../persons.html#411)’ daughter) to tell me over again the story of the Pedigree.
+
+It is all right
+
+[^1]: Endorsed in another hand \'1882\'.
+
+[^2]: i.e., to [The Miz Maze](../books.html#165) the novel they were writing in collaboration.
+
+The rest of the letter seems to relate to a different project, however.
+

@@ -1,0 +1,34 @@
+---
+date: '1872-01-01'
+display-date: Jan 1st [1872]
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: MS Mrs Clare Roels
+original-date: '2011-06-14 09:54:53'
+title: To Christabel Rose Coleridge
+wordpress-id: 2434
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+I did not mean to admit another [Gosling](../others.html#104) but an old promise has come up to [Beatrice Morshead](../persons.html#31), [Bog Oak](../persons.html#28)’s sister, who like her abides at Wiverton Plympton.
+
+She is a very nice girl but I don’t think will prove as brilliant as Bog Oak was.
+
+Will you tell [Cherry](../persons.html#2276) to send her questions – if it be Cherry’s turn. I have had none from her yet, and I can remember nothing about her but that she lives in Kent.
+
+She has sent in a stupidish answer about the Ludicrous
+[Bluebell](../persons.html#317) has come home, but has not reunited herself to me so perhaps she goes out, - it would be a pity as she lives near Beatrice.
+I think [Good Words](../others.html#73) has got into bondage to crack authors with made names, - I would get out of it if I were you.
+
+It is is such a indescribable feeling about that Martyrdom, between glory and pain, it has seemed never to be off ones mind all this month[[footnote:]]
+
+yours affectionately
+
+C M Yonge
+Please send Beatrice the list
+
+[^1]: CMY refers to the murder of [Bishop Patteson](../persons.html#1155) in the Santa Cruz Islands.
+

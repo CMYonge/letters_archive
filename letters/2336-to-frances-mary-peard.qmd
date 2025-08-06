@@ -1,0 +1,34 @@
+---
+date: '1869-08-28'
+display-date: Aug 28th [1869]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS NLS 399 f. 379-80
+original-date: '2010-06-23 10:12:59'
+title: "To Frances Mary Peard\t\t "
+wordpress-id: 2336
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Frances](../persons.html#1160)
+Here is the autograph of [M Guizot](../persons.html#597)’s that I promised to get for you.
+
+If you could only see his collection. A bit of rough copy of one of [Bossuet](../persons.html#2418)’s sermons, a brown scrap of the Chevalier Bose written out of the midst of the plague, an abject letter of [Murat](../persons.html#2416) saying he was expelled from his kingdom for having followed La Système Britannique a curious letter of [old Napoleon](../persons.html#2207) about a rising in Corsica, signature of [Gustavus Adolphus](../persons.html#2419) and almost everybody you can think of.
+
+It was an exceedingly pleasant visit to us all, the quiet country life in the old chateau with its beautiful garden was so fresh and full of interest, and it was a wonderful thing to hear that old man talk, like pages of vivid history for the last 50 years. [Madame de Witt](../persons.html#423) was very charming too.
+
+As to Paris, we were much amused and interested, though I believe we saw it in the regular ‘tea tobacco and snuff’ way, and never got out of the common track at all.
+
+Luckily it was cool till this week, and Versailles looked all the more magnificent for the fiery day when we saw it.
+
+What arcades of trees those are, and how gorgeous the garden is.
+
+The sight of the Conciergerie was the contrast. I cannot write more than this one sheet today, having no end of things to do of course. I believe I am going to be godmother to [Kitty Barter](../persons.html#114)’s No 4 on the 8th[.] Hotel Castiglione was very comfortable and we felt quite at home in it
+your affectionate
+
+C M Yonge
+
+[^1]: Black-edged paper.
+

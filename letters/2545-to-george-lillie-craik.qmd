@@ -1,0 +1,22 @@
+---
+date: '1876-03-17'
+display-date: March 17th 1876
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54921: 12-13 '
+original-date: '2011-07-14 11:04:27'
+title: To George Lillie Craik
+wordpress-id: 2545
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+Thanks for the [estimate](../others.html#160) of the copyrights, which is a good deal what I expected, as I thought they must be more valuable to me than to anyone else.
+I cannot think what [Clay](../others.html#173) is about. A month ago he wrote to me in a great hurry for more copy of the [Cameos](../books.html#124) saying you wanted the third volume finished, I sent him up at once all but the last two or three chapters which are now ready, and nothing more have I heard of them - no proofs nor any sign of his going on.
+I do not think it was quite settled what I was to have for [My Young Alcides](../books.html#112). I should be glad to know.
+
+Yours truly
+
+C M Yonge

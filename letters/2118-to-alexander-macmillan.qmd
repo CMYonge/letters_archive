@@ -1,0 +1,39 @@
+---
+date: '1866-04-19'
+display-date: April 19th [1866]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54920: 152-153'
+original-date: '2010-06-08 15:56:38'
+title: To Alexander Macmillan
+wordpress-id: 2118
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939),
+Thanks. A parcel sent to me on Friday directed not to Winchester, but to Bishopstoke Station would be nearly sure to come in time, but we often have delays at Winchester. I am sending the revise of the preface today.
+I will write about the other copies - but I have not time to write out the addresses at this moment. I rather regret the view of Ulm.[^1] General [illustrating](../others.html#167) of the whole set of books seems to me a very difficult matter.
+
+Modern dresses are so hard to manage.
+
+How Wives & Daughters is spoilt by its illustrations.[^2]
+Do you mean such a history of England and France as could suit very young children, who need the King’s name character an event and a few anecdotes such as they can remember? I could easily do this for France, but I doubt about England because I did nearly such a [history](../books.html#6) long age - which still keeps up a fair sale, and it would be going in the same tracks.
+
+Besides, one cannot write about one’s own country without shewing one’s politics.
+
+But France and Spain I could readily do - when I come home, which will I suppose be about the latter part of June.
+
+If we come to London it will be about that time but this is very doubtful.
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: A proposed illustration for [The Dove in the Eagle\'s Nest](../books.html#62).
+
+[^2]: Elizabeth Gaskell, Wives and Daughters, was being serialized in the Cornhill Magazine when she died on 12 November 1865; the unfinished novel was published by Smith, Elder in February 1866.
+
+The illustrations complained of by CMY were by George du Maurier (1834-1896).
+

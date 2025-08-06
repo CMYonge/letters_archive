@@ -1,0 +1,104 @@
+---
+date: '1863-08-06'
+display-date: Aug. 6, 1863.
+from-address: "\u2018Southern Cross,\u2019 Kohimarama "
+manuscript-location: MS location unknown. Printed in Yonge, <i>[[cmybook:102]Life
+  of John Coleridge Patteson]</i> II,57-60.
+original-date: '2010-05-14 12:15:52'
+title: From the Right Reverend John Coleridge Patteson to Charlotte Mary Yonge
+wordpress-id: 1900
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Cousin,
+This date, from this place, will surprise you.
+
+We returned yesterday, after a short voyage of only three months. [I](../persons.html#1155) had arranged my plans for a long voyage, hoping to revisit all our known islands, and that more than once.
+
+We sailed to Norfolk Island, thence at once to [Mota](../others.html#150). I spent two days there, and left the [Rev. L.
+
+Pritt](../persons.html#1867) in charge of the station; [Mr.
+
+Palmer](../persons.html#1884) being with him and the four Norfolk Islanders, and several old scholars.
+I spent a fortnight in the Banks Archipelago, returning some scholars, and taking away others from divers islands ; and then went back to Mota, bringing some sixteen or seventeen lads to the central school. I found them all pretty well; the whole island at peace, people moving about every where unarmed, and a large school being gathered together.
+I went off again to the south (the New Hebrides group), returning scholars who had been in New Zealand, purchasing yams for axes and iron, &c., to supply the large number of scholars at Mota.
+
+The season had been unfavourable, and the crop of yams in some islands had almost failed.
+
+However, in another fortnight I was again at Mota with some six or seven tons of yams. I found things lamentably changed. A great mortality was going on, dysentery and great prostration of strength from severe influenza. B—— had been at death’s door and was very ill when I saw him, little Mary his wife also ill, others looking very unwell, two Norfolk Islanders delirious in low fever.
+
+But of those not actually boarding at the station, the state was very sad indeed.
+
+About twenty-five adults were dead already, several of them regular attendants at school, of whom we were very hopeful.
+I spent two days and a half in going about the island, the wet incessant, the ground steaming and reeking with vegetable exhalations.
+
+During those days twenty-seven adults died, fifty-two in all, and many many more were dying, emaciated, coughing, fainting; no constitutional vigour of body, nor any mutton broth, or beef-tea, or jellies, or chickens, or wine, &c.
+
+Mr.
+
+Pritt did what he could, and more than I thought could have been done; but what could be done?
+
+How could nourishing food be supplied to dozens of invalids living miles off, refusing to obey directions in a country which supplies no food to rally the strength of persons in illness?
+I decided to remove the whole party at once, explaining to the People that we were not afaid to share with them the risk of dying, but that if Mr.
+
+Pritt and the others died, there were no teachers left. I felt that our Banks Island scholars must be removed, and that at once lest they should die. I could not send the vessel to the Solomon islands without me, for [Mr.
+
+Tilly](../persons.html#1410) was completely laid up and unable to move from rheumatic gout, and no one else on board knows those languages.
+I could not leave the party at Mota in the sickness, and I could not well send the vessel to Port Patteson for a time, for the danger was imminent.
+
+So I took them all away, in all thirty-nine.
+
+But now the vessel was full, more than sixty on board, and I had reckoned upon an empty vessel in the hot Santa Cruz and Solomon Island latitudes.
+
+Moreover, the weather was extraordinarily unfavourable— damp, foul winds, squalls, calms, unhealthy weather.
+
+Mr.
+
+Tilly was being greatly pulled down, and everything seemed to point out that the voyage ought not to be long. I made my mind up, took back the Solomon Island scholars; and, with heavy sea and baffling winds and one short gale, sailed hack to New Zealand.
+
+How mysteriously our plans are overruled for good! I came back to hear of the war[^1]; and to learn to be thankful for my small, very young and very manageable party.
+
+Thirty-three Banks Islanders, the baptized party and select lads from their islands, one New Caledonian, four Ysabel lads constitute this summer’s Melanesian school.
+
+Dont be disappointed; I was at first, but I had the comfort of having really no alternative. I had, indeed, a great desire to make a thorough visitation of Leper’s Island, and Santa Cruz especially; but the wind, usually so fair, was dead against me, we had, so to speak, no trade winds, and I had to give it up.
+
+It was certainly my duty to get to the south with my invalids as soon as I could, and alter my plans, which, you know, always are made with a view to divers modifications being rendered necessary.
+
+Training the baptized scholars, and putting into shape such knowledge as I have of Melanesian tongues, that made a good summer programme, as I was obliged to content myself with a small party gathered but from few islands.
+
+Concentration v. diffusion I soon began to think a very good thing.
+
+Well, so it is, and now I see great reason to be thankful.
+
+Why do we not always give thanks whether we see the reason or not?
+
+The vessel behaves admirably. I have written to Jem at length, and he must be applied to for my account of her.
+
+Pray tell [Mr.
+
+Keble](../persons.html#798) all this. I have a most valuable letter from [Dr.
+
+Moberly](../persons.html#1015), a great delight and honour to me.
+
+It is very kind of him to write; and his view of Church matters is really invaluable, no papers can give that which his letter gives, and only he and a very few others could give an opinion which I so greatly value.
+
+He speaks hopefully of Church matters in general, and there are great reasons surely for thankfulness and hope.
+
+Yet men such as he see far and wide, and to their great hearts no very violent storms are caused by such things as sorely trouble others.
+
+He sees the presumption and weakness, the vain transitory character of that phase of modern thought which [Bishop Colenso](../persons.html#1872)[^2] represents, and confidently expects its speedy disappearance.
+
+But it does try the earnest, while it makes shipwreck of the frivolous, and exercises the faith and humility of all.
+
+Even a very poor scholar can see that his reasoning is most inconclusive, and his reading superficial and inferences illogical.
+
+God bless you, my dear Cousin.
+
+Your affectionate Cousin,
+J. C. PATTESON, Missionary Bishop.
+
+[^1]: In July 1863 British troops were ordered into the Waikato region (south of Auckland) to attack the Maori forts and strongholds established there.
+

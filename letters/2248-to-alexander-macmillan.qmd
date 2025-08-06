@@ -1,0 +1,34 @@
+---
+date: '1868-05-30'
+display-date: May 30th [1868]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54920: 201-2'
+original-date: '2010-06-15 14:50:17'
+title: To Alexander Macmillan
+wordpress-id: 2248
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Macmillan](../persons.html#939)
+Thanks for the [cheque](../others.html#160) and for the proposal about the [Historical selections](../books.html#71). I am sending it on to [Miss Sewell](../persons.html#1301) to see whether she consents, it is what I myself should prefer, thinking joint accounts would be troublesome.
+
+The [Cameo](../books.html#73) looks exceedingly well and gives an uncommon appearance.[^1] I should like a copy to be sent to the [Dean of Chichester](../persons.html#709) and one to [Madame de Witt](../persons.html#423).
+
+To other friends I think it will not be necessary to send one.
+I have had a MS lately to read by a [Miss Eyre](../persons.html#2008) who wishes me to write to you about it.
+
+It is called Gabrielle and her Guardians[^2] and strikes me as having a good deal of thought and promise, though there is a good deal of youth too.
+
+The hero is rather remarkably imagined, and the story catches the attention I found on reading it aloud
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: CMY appears to be referring to the illustration which Macmillan had had put on the title page.
+
+[^2]: The book does not appear to have been published under this title, nor Miss Eyre to have published at this period under that name.
+

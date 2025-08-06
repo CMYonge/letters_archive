@@ -1,0 +1,34 @@
+---
+date: '1860-08-01'
+display-date: Aug 3d 1860
+from-address: Otterbourne, Winchester.
+manuscript-location: 'MS Westcountry Studies Library, Exeter/ Yonge 1860/11 '
+original-date: '2010-05-05 11:43:43'
+title: To Ann Maria Carter Smith
+wordpress-id: 1800
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Smith](../persons.html#263)
+I did not write about the last part of the Websters as you kindly said you would take silence for an acknowledgement, until I had finished them, as I did last night, having been hindered by many interruptions.
+
+We have been much interested in them, and think great part very good [sic] - Grace and Harold, and the early part of George and Grace especially, but somehow the parts do not perfectly fit.
+
+George’s troubles with his father come to such a sudden blunt end in their height, and never are mentioned again, whereas I should have fancied there would have been some shading in the feeling + some visible growth of respect and absence of sarcasm.
+
+Then too I think the catastrophe is too much of a hurry, and does not give effect enough. I fancied Mr Webster was to be made to perceive the difference between a religious and a self willed son, and through that to do justice to George and his religion, and I think this must have been in your plan, but it is not followed out.
+
+Then I must confess to not having got over my distaste to the Wingates. I do not think Kate’s flirting will do for [the Packet](../others.html#52), and though I was delighted to meet the Wynnes, I really was much disappointed that you did not marry Harold to Elizabeth.
+
+Somehow, it is a dreadful sentence, and I feel it a great shame after having quite asked you to write the story for the M. P. I do not think I must have it, unless you would make it chiefly Webster instead of Wingate, and develop the improving relations with Mr Haxted, and the verification of the old gentleman’s warning against unfriendly terms with the clergyman’s family. I thought that part so useful and original that I was quite sorry when you went off to Woolwich, though I have no doubt that the sketches there are excellent.
+I do not imagine you would like to cut up your story so much, and after Aggesden, I suppose the door of separate publication is open, so if you prefer it to my presumptuous requirements, pray do not feel hampered by the Packet though I still hope that it may have your help in other things.
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Envelope addressed to Miss Ann Smith / Rectory / Old Charlton/ SE and postmarked indistinctly London SE 4 August.
+

@@ -1,0 +1,24 @@
+---
+date: '1897-01-01'
+display-date: Jan 1st 1897
+from-address: Elderfield Otterbourne
+manuscript-location: 'MS British Library  Add MSS 54921: 224'
+original-date: '2010-10-04 14:08:44'
+title: To Frederick Orridge Macmillan
+wordpress-id: 3338
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#942)
+I like the appearance of the proof copy of [the Ben Beriah](../books.html#243) very much and perhaps it would be best to work out the edition.
+
+The doubt in my mind would be whether it will be favorably [sic] received as ranging with my tales and novels. I suppose there is no possibility of adding a preface now, I had not put one because it would not have suited in [St Nicholas](../others.html#88), and I thought to prepare it afterwards. I had also thought of asking if it could have a few landscape illustrations, the plain at the base of Mount Sinai especially but perhaps all this had better wait for consideration till we see how the first edition succeeds.
+I think it will ultimately become a book for school rewards
+But if you think it best to publish it as it is, I fully consent
+
+Yours truly
+
+C M Yonge

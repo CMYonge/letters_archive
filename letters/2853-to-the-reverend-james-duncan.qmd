@@ -1,0 +1,26 @@
+---
+date: '1887-03-19'
+display-date: March 19th [1887]
+from-address: Elderfield
+manuscript-location: MS Princeton University, Parrish Collection
+original-date: '2011-09-30 11:47:31'
+title: To the Reverend James Duncan?
+wordpress-id: 2853
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Sir](../persons.html#448)[^1]
+I think it would be well to send me a set of sheets of What to Read, that I might add to them or cancel them on occasion. I know there are some good books of this winter not added, and Goldhanger Woods,[^2] and I have not seen a sheet since before Christmas. I am afraid the books may be forgotten and omitted if I do not set them down soon
+Yours &c
+
+C M Yonge
+
+[^1]: Duncan was her usual correspondent at the [National Society](../others.html#32), the publishers of [What Books to Lend and What to Give](../books.html#196) (1887), but she usually called him Mr Duncan.
+
+[^2]: Mary and Catherine Lee, Goldhanger Woods: A Child\'s Romance (London: National Society 1886).
+
+Mary Lee had collaborated with CMY on [The Miz Maze](../books.html#165) (1883).
+

@@ -1,0 +1,43 @@
+---
+date: '1864-06-28'
+display-date: June 28th [1864]
+from-address: 'Otterbourn '
+manuscript-location: 'MS New York Public Library: Berg Collection'
+original-date: '2011-02-02 11:36:11'
+title: To Elizabeth Missing Sewell
+wordpress-id: 1959
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Sewell](../persons.html#1301)
+I have quite vanity enough to feel flattered, as long as I am out of the way of looking foolish - and the photograph will be a pleasant possession. I shall keep the M to stick under it. I wish they had found you out at Turin, for it would have been a very pleasant experience i.e. when it was over. I have written you a note for shew as well as this domestic one - and answered the questions as best I might.[^1]
+I am glad you are so enjoying yourself - it must be a most thorough holiday. I am going out holiday making for 6 weeks in a few days, but no farther than Peterborough, and a letter home will find me. I hope they will send us a photo apiece.
+
+If you are caught in the blockade you will at least have the satisfaction of thinking what a delightful chapter your adventures will make - but I suppose we are all grown too polite to have another Verdun.[^2]
+I met [Mr Coxwell](../persons.html#1909)[^3] yesterday at Hursley, and he had just seen [Captain Semmes](../persons.html#1273), whom he described to be an elderly man, particularly quiet in demeanour and very gentlemanlike. I hope your American friend will not quarrel with us for picking him up though I quite think him a pirate, and am ashamed of the English in the vessel[^4]
+The [Yard](../persons.html#1577)s are I believe in London
+Yours very sincerely
+
+C M Yonge
+
+[^1]: It seems to have been a common practice when sending a very private letter to a correspondent who was a member of a close-knit family to include a second note which could be read aloud and so avoid questioning.
+
+It is hard to see, however, what was so private about this one.
+
+[^2]: British travellers who ventured to France after the Peace of Amiens (1802) were interned in Verdun when war broke out again in the following year.
+
+[^3]: Possibly Henry Tracy Coxwell (1819-1900), a dentist, who in 1848 became a professional balloonist.
+
+He belonged to a Gloucestershire family with whom Mrs Keble had connections.
+
+It may be, however, that another member of the same family is referred to here.
+
+[^4]: Raphael Semmes (1809-1877) was captain of the Alabama, a confederate warship built anonymously in the British shipyards at Birkenhead.
+
+When the Unionist government discovered this they demanded that it be detained in the yard, but in 1862, on the pretext of a trial run, Semmes and his crew escaped with it to the Azores where it was armed and proceeded to do immense damage to Unionist shipping, to the commercial benefit of the British.
+
+In 1864 the Alabama was sunk off Cherbourg but Semmes was picked up by an English yacht and brought to England. CMY referred to the Alabama affair disapprovingly in the Barnacle.
+

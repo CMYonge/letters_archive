@@ -1,0 +1,26 @@
+---
+date: '1869-07-29'
+display-date: July 29th [1869]
+from-address: 'Elderfield '
+manuscript-location: MS Mrs Katherine Wykes-Sneyd
+original-date: '2010-06-22 17:07:12'
+title: "To Henrietta Elizabeth Fursdon\t\t"
+wordpress-id: 2327
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Irene](../persons.html#538)
+You introduced the Young Gosling to me in her eggshell long ago, and I am sure the brood with [sic for will] be very happy to have her.[^2] I send [passage missing where signature cut out] is our [senior member](../persons.html#329) and chief manager.
+
+The first questions will come on the first of October, it is of no use to try to get them done in September.
+
+Even Mother Goose herself is going to fly across the Channel next Monday for the month of August.
+[signature cut out]
+
+[^1]: Black-edged paper.
+
+[^2]: Henrietta Fursdon’s younger sister [Mary](../persons.html#539) became a member of the [Gosling Society](../others.html#104) this year.
+

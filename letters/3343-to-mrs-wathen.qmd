@@ -1,0 +1,45 @@
+---
+date: '1897-03-04'
+display-date: 'March 4th [1897] '
+from-address: Elderfield Otterbourne
+manuscript-location: MS Princeton University, Parrish Collection
+original-date: '2010-10-06 15:04:56'
+title: To Mrs Wathen
+wordpress-id: 3343
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Madam](../persons.html#2165)
+As far as I can remember the first four tales were
+[Redclyffe ](../books.html#15)
+[Heartsease](../books.html#19)
+[Hopes and Fears](../books.html#37)
+[Dynevor Terrace](../books.html#27)	
+because I meant them to have some sort of analogy to the four seasons[^2]
+[The Daisy Chain](../books.html#24)
+[Trial](../books.html#53)
+are really connected, and the [Pillars of the House](../books.html#109) came later but picked up on [Countess Kate](../books.html#44) and the Daisy Chain in the course of the story -
+[Scenes and Characters](../books.html#3) had been written long before, but was taken up again in [Two Sides of the Shield ](../books.html#184)where also an early story [the Stokesley Secret ](../books.html#40)furnished some characters -
+[Beechcroft At Rockstone](../books.html#210)
+[Strolling Players](../books.html#229)
+[The Long Vacation](../books.html#237)
+make up the story
+The others are all disconnected except
+[The Chaplet of Pearls](../books.html#69)
+[Stray Pearls](../books.html#170)
+[The Release](../books.html#239) -
+Some of the persons in [Magnum Bonum](../books.html#131) and Hopes and Fears are referred to again
+
+Yours truly
+
+C M Yonge
+
+[^1]: Envelope addressed to Mrs Wathen/ Withan House/ Alum Chine Road/ Bournemouth.
+
+Postmarked 97.
+
+[^2]: This was on the analogy of La Motte Fouqué\'s [Die Jahrzeiten](../others.html#102).
+

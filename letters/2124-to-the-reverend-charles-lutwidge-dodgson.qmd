@@ -1,0 +1,41 @@
+---
+date: '1866-05-11'
+display-date: May 11th [1866]
+from-address: Torquay
+manuscript-location: MS Harvard University, Houghton Library
+original-date: '2010-06-09 08:56:18'
+title: To the Reverend Charles Lutwidge Dodgson
+wordpress-id: 2124
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Dodgson](../persons.html#261)
+Your kind note and parcel have followed me here, and much obliged we are for them.
+
+We - and all the party here - think these by far the best photos that have yet been taken of me - and they are pronounced to be excellent likenesses of us both, as I am sure they are admirable photographs.
+
+Would you let us have - on the purchasing terms - half a dozen of each of the three in carte de visite wise and three of each of the vignette large size?
+
+Do you employ any one to whom we could send an order without troubling you to convey it, in case any of the class of kindred among whom I am going should take a fancy to any of these as I am sure they are much the best.
+
+My [mother](../persons.html#1606)’s is really a most valuable likeness for which I feel very grateful.
+
+Of mine I think the standing one is the most perfect photo, and the most like to anyone who knows I am not sentimental but only given to holding my chin in the air but some like the other better, and it decidedly looks more rational.
+I am afraid this is not very lucid!
+
+The Ghostesses (are you going to photo them?) I first heard from [Miss Roberts](../persons.html#1244), of Mlle Mori, who called them a Sussex rhyme that she had heard [all] her life.[^2] She said it with the addition that the crustesses were ‘Held in their fistesses’ - but I believe this was a domestic addition.
+
+With many thanks yours sincerely
+
+C M Yonge
+Please to direct to Otterbourn still, as safe to be forwarded thence
+
+[^1]: Lewis Carroll.
+
+His Journals record that he lunched with CMY and her mother at [Professor Price](../persons.html#1208)’s on May 3, 1866 and photographed them in his studio the next day.
+
+[^2]: Canto 4 of Carroll’s poem to \'Phantasmagoria\', which first appeared in 1867, begins \'Oh, when I was a little ghost,/A merry time had we!/Each seated on our favourite post,/We chumped and chawed the buttered toast/ They gave us for our tea\', which is obviously based on the traditional rhyme about the \'little ghostesses/ Sitting on postesses\'.
+

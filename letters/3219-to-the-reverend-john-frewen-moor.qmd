@@ -1,0 +1,37 @@
+---
+date: '1893-04-29'
+display-date: 'April 29th 1893   '
+from-address: 'Elderfield   '
+manuscript-location: 'MS Bodleian Library, Oxford: Autogr. c.25 ff 266-7 '
+original-date: '2011-02-02 12:05:12'
+title: To ?the Reverend John Frewen Moor
+wordpress-id: 3219
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Moore](../persons.html#1046),
+[Miss Finlaison ](../persons.html#512)told me that you thought there was a possibility of getting a pension for our blind girl, [Annie Norgate](../persons.html#917).
+
+It would be a most happy thing, as she is entirely dependant on her parents - and the [father](../persons.html#2123) is a labourer not so young as he was[.][^1] There are fifteen children, but most are now off their hands[.] I believe the disease is atrophy of the nerve.
+
+It came on when she was about eleven and she is now seventeen.
+
+There is paralysis with it, she got into much better health two years ago, and was sent to the Portsea asylum where they liked her very much, and thought her a good influence.
+
+She learnt to read Braille and began to learn to do chair bottoms, but I believe the exertion of brain was too much for her, for after the first half year there was a renewal of symptoms, and she was very ill all last winter, but is now better and gets into the garden in a chair that her brothers gave her.
+
+The whole family are kind to her, but I believe it is her [mother](../persons.html#2122)’s great fear that she should survive her care.
+
+Yours very sincerely
+
+C M Yonge
+
+[^1]: Anne Norgate (1876-1896), daughter of William Norgate (b.
+
+Tichbourne Hants 1832/3), agricultural labourer.
+
+She is listed as blind in the 1891 census.
+

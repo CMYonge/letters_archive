@@ -1,0 +1,25 @@
+---
+date: '1890-08-12'
+display-date: Aug 12th 1890
+from-address: Elderfield Otterboune
+manuscript-location: 'MS Charlotte Mitchell. '
+original-date: '2014-06-16 11:07:47'
+title: To the Countess of Meath
+wordpress-id: 19829
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Lady Meath](../persons.html#985)
+
+[Annie Cazenove](../persons.html#274) and I agree that you would be greatly interested in Miss [Margaretta Scott](../persons.html#2435)'s work.
+
+She is an American Churchwoman hard at work among the girls of superior class in Liberia
+
+yours sincerely
+
+C M Yonge
+
+Annie Cazenove is as bright and energetic as ever

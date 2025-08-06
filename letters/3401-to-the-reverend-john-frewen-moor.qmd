@@ -1,0 +1,27 @@
+---
+date: '1899-05-05'
+display-date: May 5 [1899]
+from-address: Elderfield Otterbourne
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e 86. '
+original-date: '2011-02-02 12:07:11'
+title: To the Reverend John Frewen Moor
+wordpress-id: 3401
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Moor](../persons.html#1046)
+Many thanks for being so kind as to send me [your book](../others.html#124). I am glad it has prospered enough to come to another edition-
+I think that the notice of [Mr Wither](../persons.html#1544)’s birth was as it stood in the Hants’ paper I suppose it came from the roll at Winchester though I certainly thought he would have been 90 in November -
+I am glad your German expedition was fairly satisfactory
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Envelope addressed to ‘The Revd/ J F Moor/ Glencairn/ Chiselhurst.
+
+Postmarked Winchester My 5/99.
+

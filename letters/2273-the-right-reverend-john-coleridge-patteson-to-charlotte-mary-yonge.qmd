@@ -1,0 +1,38 @@
+---
+date: '1868-10-03'
+display-date: October 3, 1868.
+from-address: Auckland.
+manuscript-location: MS location unknown. This fragment printed in Yonge, <i>[[cmybook:102]Life
+  of John Coleridge Patteson]</i>, II, 337-8.
+original-date: '2010-06-16 13:32:47'
+title: The Right Reverend John Coleridge Patteson to Charlotte Mary Yonge
+wordpress-id: 2273
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+I add one line, my dear Cousin, to assure you of [my](../persons.html#1155) prayers being offered for you, now more especially when a heavy trial is upon you and a deep sorrow awaiting you.
+
+May God comfort and bless you!
+
+Perhaps the full experience of such anxiety and the pressure of a constant weight may, in His good Providence, qualify you more than ever to help others by words put into your mouth out of your own heart-felt troubles.
+
+Yet in whatever form the sorrow comes, there is the blessing of knowing that [she](../persons.html#1606) is only being mysteriously prepared for the life of the world to come.[^2] There is no real sorrow where there is no remorse, nor misery for the falling away of those we love.
+
+You have, I dare say, known (as I have) some who have the bitterness of seeing children turn out badly, and this is the sorrow that breaks one down.
+I cannot write more.
+
+My letters only reached me yesterday, returned from Norfolk Island, whither they were sent from Auckland two days after I left Norfolk Island for Auckland.[^3] The General Synod begins on Monday.
+
+Bishops [Harper](../persons.html#623) and [Abraham](../persons.html#4) have just arrived, and we are all in confusion.
+
+We all move about rather like uneasy spirits, with a sense of something that we can’t talk about.
+
+May God abundantly bless [him](../persons.html#1295), and cause his work to prosper in his hands! I don’t grudge him to you one bit; but sometimes I can hardly look at him, though the sentiment has been pretty well knocked out of me.
+
+[^1]: The third paragraph was omitted from the revised edition.
+
+[^2]: Patteson had come to New Zealand to attend the General Synod and to say goodbye to Bishop Selwyn who was returning to England to become Bishop of Lichfield.
+

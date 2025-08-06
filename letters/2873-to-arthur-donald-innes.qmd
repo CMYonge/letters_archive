@@ -1,0 +1,39 @@
+---
+date: '1888-02-08'
+display-date: Feb 8th 1888
+from-address: Elderfield
+manuscript-location: MS Girton College Cambridge, Yonge IV 8
+original-date: '2011-10-03 15:16:12'
+title: To Arthur Donald Innes
+wordpress-id: 2873
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Innes](../persons.html#744)
+I am afraid I never answered about the MS.
+
+It will not do being too much of the mere novelette. I do not object to such dénouements, but a story ought, I think to turn on something besides.
+[Miss Coleridge](../persons.html#329) has £5 a year for her work upon Debatable Ground. I do not know if that was mentioned but she has not had it yet. I think you have her new address.
+I think you have all the addresses this time except
+Padre Agostino
+[Mrs Morgan Morgan](../persons.html#1055)
+St Peter’s Parsonage Peterhead NB
+Workhouse Infirmary
+[Miss Cazenove](../persons.html#274)
+Ravensleigh
+Betchworth
+Mother Carey
+[Miss Bramston](../persons.html#198)
+41 Dingwall Road
+Croydon
+She - as you know is an author with a name
+
+Yours truly
+
+C M Yonge
+
+[^1]: 
+

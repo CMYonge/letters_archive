@@ -1,0 +1,45 @@
+---
+date: '1881-04-01'
+display-date: April 23d [1881]
+from-address: Elderfield
+manuscript-location: MS Mrs Clare Roels
+original-date: '2011-09-14 16:12:17'
+title: To Christabel Rose Coleridge
+wordpress-id: 2723
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+It certainly used to be considered the thing to give the publisher of the magazine the refusal of the story but there is so much more free trade in publishing now that I do not know whether this is still necessary. I think most likely [Masters](../persons.html#981) would say he did not want to have it particularly.
+
+No, I think Miss Ingelow has diverged plentifully from you, except in the original idea.[^1] Here is another suggestion- make a general drawing, and have the babies both stripped while their belongings are insensible.
+
+You might have let the mother of the bad one die at his birth, and quite drawn one or both nurses- then if the mother did not recover for some weeks, I think the identifying would be impossible, especially as you have the further advantage of the family likeness being all the same.
+I was interrupted by a call from [Mr Walter Brock](../persons.html#210) whose whole desire seems to be to alter as little as possible.[^2] I believe he will begin about the first week in June, only avoiding the having to inflict the 39 articles on us on Whitsunday. I have been staying with the Awdrys at Chichester in [Canon Ashwell](../persons.html#68)’s house.[^3] [Mrs Ashwell](../persons.html#2329) is going back to live at Chichester
+your affectionate
+
+C M Yonge
+
+[^1]: Christabel Coleridge\'s A Lot with a Crook in it, serialized in MP from January 1884 to May 1885, and Jean Ingelow\'s Don John (1881) both had plots depending on babies being switched in childhood.
+
+But the book which Coleridge is considering whether to offer to Joseph Masters is probably Kingsworth, or, The Aim of a Life (London: Masters 1882).
+
+[^2]: The Rev.
+
+Walter Brock (1849-1919) succeeded the Rev.
+
+Walter Elgie as Vicar of Otterbourne after the latter\'s death in February 1881.
+
+[^3]: The Rev. [William Awdry](../persons.html#85) was head of the Chichester Theological College, succeeding the Rev.
+
+Canon Arthur Rawson Ashwell (1824-23 October 1879).
+
+Christabel Coleridge would have known the latter because he had been vice-principal of St.
+
+Mark’s College, Chelsea (1851-3) under her father.
+
+His widow was born Elizabeth Fixsen.
+

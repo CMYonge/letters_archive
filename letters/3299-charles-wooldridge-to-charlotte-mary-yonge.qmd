@@ -1,0 +1,31 @@
+---
+date: '1895-07-16'
+display-date: July 16 1895
+from-address: ''
+manuscript-location: Copy outletter book,  Hampshire Record Office 70M92W/59/236
+original-date: '2010-09-07 13:59:17'
+title: Charles Wooldridge to Charlotte Mary Yonge
+wordpress-id: 3299
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam
+I have sent the policy to [Mrs.
+
+Yonge](../persons.html#1604) as you desired.
+I have had a letter from her, she does not seem to understand about it. I have written to her to explain that you having paid the money besides the interest & premiums the policy had to become your property.
+I have not told her what you led me to suppose you thought of doing with regard to this policy, as I did not feel at liberty to do so, but it has occurred to me that perhaps when you had the opportunity to you might like to talk to her about it.
+
+Of course if you make her a present of the policy now it ought to be transferred into her name, but if you are going to continue to pay the premiums I think it right it should remain in your name, whatever you may decide to do hereafter, by will or otherwise.
+
+The deed relating to the London mortgage has to be registered in Middlesex & for that purpose a form has to be signed by you in the presence of a witness &c.
+
+Shall you be coming into Winchester or would you prefer my calling?
+I shall be engaged tomorrow & Thursday, but at home on Friday or Saturday & could see you here on the mornings of either of those days or could go down to Otterbourne to see you on Friday afternoon
+I am yours faithy
+[Chas Wooldridge](../persons.html#2094)
+Miss Yonge
+Otterbourne

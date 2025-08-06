@@ -1,0 +1,30 @@
+---
+date: '1854-05-01'
+display-date: May 1854
+from-address: ''
+manuscript-location: MS location unknown.  Printed in <i>[[otherbook:122]Dulce Domum]</i>
+  111-2.
+original-date: '2010-04-14 14:07:59'
+title: Frances Mary Yonge to Alice Arbuthnot Moberly
+wordpress-id: 3044
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Alice](../persons.html#1025),
+[I](../persons.html#1606) wrote instantly to thank [Dr.
+
+Moberly](../persons.html#1015) for his good news, but the cart was missed on Sunday morning.
+
+Tell us if [Margaret](../persons.html#83) has seen [the brother](../persons.html#1026)[^1], and what she said of him, and tell us who the boy is like and whether he is large or small, dark or fair.
+
+Three days of well-doing make us think you will soon be ready for ‘[Heartsease](../books.html#19)’; there will be plenty for you to begin upon. I am bent upon Charlotte seeing all she can of [Bishop Selwyn](../persons.html#1295), and trust to Dr.
+
+Moberly to manage it for her, and must have her see [Mrs.
+
+Selwyn](../persons.html#1297) somehow.
+
+[^1]: Selwyn William Moberly (1854-1871), seventh son and youngest of the Moberlys\' fifteen children, was christened on 8 June 1854.
+

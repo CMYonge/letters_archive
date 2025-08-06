@@ -1,0 +1,24 @@
+---
+date: '1887-03-10'
+display-date: March 10th [1887]
+from-address: Elderfield
+manuscript-location: MS Huntington Library
+original-date: '2011-09-30 11:41:31'
+title: To Lady Mount Temple
+wordpress-id: 2852
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Lady Mount Temple](../persons.html#1058),
+I am much obliged for your kind invitation, but I am wanted here on Friday evening, so that I cannot accept it. I had already declined to sleep at Mitchelmarsh on the same account.
+I am told that I am to [paper torn]d the Jubilee collection to [Mrs Beach](../persons.html#2369), instead of to you as we are in the Northern division. I have not all the cards in yet, but there will be between £4 & 5 -- The poor give most readily
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Georgina, Lady Mount Temple (1821?-1901) lived at Broadlands, near Romsey, until her husband\'s death in 1888, making it more likely that the letter refers to the Golden Jubilee of 1887 than to the Diamond Jubilee of 1897.
+

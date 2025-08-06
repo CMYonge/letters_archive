@@ -1,0 +1,24 @@
+---
+date: '1867-07-06'
+display-date: July 6th [1867]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Mrs Clare Roels
+original-date: '2010-06-10 15:23:36'
+title: "To Christabel Rose Coleridge\t\t"
+wordpress-id: 2185
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+I think they were rather dull questions this time and they have not produced brilliant answers but your tradition is by far the best.
+
+Poor [Florence](../persons.html#1520) strained her back, and cannot do anything for either answers or [Barnacle](../others.html#89) though she is getting better- and some of the [Goslings](../others.html#104) are abroad and some visiting.
+I hope your Changeling is coming, as the Barnacle will be very thin. I am keeping it to be bound till the [Winchester ](../others.html#50)holidays begin, because their leaving books take up so much of the binder’s time that he is no good to anybody. I found y – (I am sure I don’t know what this was going to be) Would you be so kind as to send me the Barnacle that has got that sort of Westward Ho of mine in it, copied out by [Alice](../persons.html#327). I have an idea that something may be done with it, at least I have been asked for a story and I think – changing the names – that I could make this serve the purpose.
+
+The [Johns](../persons.html#769)es talk of driving over some evening this next week.
+your affectionate
+
+C M Yonge

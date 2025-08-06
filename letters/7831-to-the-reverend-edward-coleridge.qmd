@@ -1,0 +1,38 @@
+---
+date: '1872-11-09'
+display-date: ' Novr 9th 1872'
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library: Coleridge Family Papers E: Add MSS 86206
+  Yonge JTC  '
+original-date: '2010-05-18 16:59:52'
+title: To the Reverend Edward Coleridge
+wordpress-id: 7831
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Cousin](../persons.html#332)
+I decidedly prefer that you should use my Christian name, though it is not a case of reciprocity, and one decidedly wants some title for the cousins who are of the same generation as one’s uncles.
+
+My second and most interesting Eton [chapter](../books.html#102) is at Mary Church now where [Fanny](../persons.html#1151) is trying to clear up some puzzles about dates &c. I am almost ashamed of this explanation about Montem but I found so few people of this generation understood it, that I thought some sketch necessary, especially as I hope many colonial people will read the book and they of course will know nothing of even the Eton system, though I own I felt the explanation about the houses and tutors insulting to the English intellect.
+
+However there is a novel about now, and not a bad one, which makes a man get a Senior wranglership at Oxford, and another which puts Arcades ambo where it means fidus Achates, so one can hardly assume too much ignorance even among those who can read and write.[^1] I thought it a pity not to preserve these pictures of Windsor, which are quite historical, but I am increasingly convinced that I must make an abridgement to serve as a Missionary manual which I find people want and for many to whom the most characteristic and striking letters would be mere obstructions The SPCK’s is a compilation of the old Island Mission book and the life in the [Mission Field](../others.html#80), done by [Mr Halcombe](../persons.html#604).
+
+That was the reason I advertised mine. I shall be grateful for the insurance story.
+
+It may be in one of the letters but I have not come to it. SPCK have forestalled [Mrs Pritchard](../persons.html#1893) with a translation of the Three Christmas Trees as I have been writing to [Bessie Yonge](../persons.html#1603), and I fear I cannot get the other story in.[^2] It is strange how hard it is to get a translation published though one sees so many and generally so bad. I wish I could take this one but I know there is so little room for some time to come that I could not get it in.
+
+Your affectionate cousin
+
+C M Yonge
+
+[^1]: The \'senior wrangler\' was the title given at the University of Cambridge to the student with highest marks in the Mathematical tripos. \'Arcades ambo\' is a quotation from Virgil, Eclogue 7,4, meaning \'both Arcadians\'.
+
+Achates in Virgil Æneid is the hero\'s loyal follower.
+
+They were well-worn quotation cliches by this date, meaning something like \'two innocents\' and \'faithful friend\' respectively.
+
+[^2]: \'Bessie Yonge\' seems likely to be Elizabeth Catharine Yonge, whose father, like Edward Coleridge, was a master at Eton College.
+

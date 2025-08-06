@@ -1,0 +1,34 @@
+---
+date: '1894-06-14'
+display-date: June 14th 1894
+from-address: Elderfield Otterbourne Winchester
+manuscript-location: MS Mrs Caroline Fairclough/30
+original-date: '2010-08-14 10:41:50'
+title: To Arthur John Butler
+wordpress-id: 3266
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Arthur](../persons.html#238)
+Do you think that [Cassell](../others.html#216) would like for one of his Magazines a sort of abridgement of [Madame Cornélis de Witt](../persons.html#427)’s diary of the Franco German siege of Paris, called Six mois de la Guerre It is a little book and my account of it would only take 8 or 10 pp of the Monthly Packet size It is nearly finished and will be ready to send away in a day or two.
+
+There are no great catastrophes, but it shews how good people fed.
+
+It is wonderfully cheerful, especially when one knows that she died of the effects of the sufferings.
+
+It is published by her son
+I have also written some [papers on Conchology](../books.html#271) which has been a life long study with me.
+
+Five or six are done and the [Monthly Packet](../others.html#52) after accepting the first two, takes alarm at the length of the series.[^1] I have much that is interesting (really) to say, and would you find out if they would be acceptable to one of Cassell’s Magazines where they might be illustrated, or two make a separate book of it. I send a chapter- the only complete one that I have at home, that you may see the style.
+
+It is an average chapter some are much more curious and amusing I connect them with fossils, and I really think I know a good deal about them, and that the study is coming up again
+
+yours sincerely
+
+C M Yonge
+
+[^1]: ‘The Sailors who Swim from the Head’ MP (September 1894) 310-7; ‘Ancient Dyers’ MP (June 1895) 704-11; ‘Marble Makers’ MP (September 1895) 331-6; ‘Snails’ MP (June 1896) 691-6; ‘Venus and Hearts’ MP (March 1897) 324-7; ‘The Sluggish Race’ MP (June 1897) 642-7; ‘Bores and Borers’ MP (August 1897) 182-8.
+

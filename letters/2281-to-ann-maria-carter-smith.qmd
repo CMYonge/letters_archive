@@ -1,0 +1,34 @@
+---
+date: '1868-10-08'
+display-date: Oct 8th [1868]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1868/1
+original-date: '2010-06-16 15:27:58'
+title: "To Ann Maria Carter Smith\t"
+wordpress-id: 2281
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Smith](../persons.html#263),
+Thank you for your kind, warm hearted letter. I know you too know what a great grief is, and how close one clings to the last surviving parent,[^2] and the sense of being still a child at home.
+
+May you long preserve that blessing.
+I should be very lonely but that my [brother](../persons.html#1624) and his [wife](../persons.html#1604) are only a garden’s length from me, and most kind, and just at present I have a [cousin](../persons.html#1582) with me, who has always been like a sister to me. I think I shall go into Devonshire with her, and then return to face the solitude
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Black-edged paper.
+
+[^2]: CMY is replying to a letter of condolence on the death of [FMY](../persons.html#1606), who died on 28 September 1868.
+
+Ann Carter Smith’s father, the Rev.
+
+Richard Carter Smith, perpetual curate of St.
+
+Paul’s Charlton, had died on on 1 October 1864.
+

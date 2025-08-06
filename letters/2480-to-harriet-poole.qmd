@@ -1,0 +1,30 @@
+---
+date: '1873-08-01'
+display-date: '[August 1873][[footnote:1]]'
+from-address: ''
+manuscript-location: MS Charlotte Mitchell
+original-date: '2011-07-11 12:47:17'
+title: To Harriet Poole?
+wordpress-id: 2480
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Poole](../persons.html#1187)[^2]
+I suspected that you would have to change to Monday. I wonder if the enclosed will make any further change.
+
+We shall be very glad to have you here on Sunday, and the carriage with [Miss Mackenzie](../persons.html#930) in it will meet you at Bpstoke at the same time.
+I suppose - as you do not say so - [Miss Dyson](../persons.html#464) has heard no more from Heaths Court[^3]
+
+yours affectionately
+
+C M Yonge
+
+[^1]: Endorsed in pencil ‘Aug. 1873/ authoress’.
+
+[^2]: Presumed to be addressed to Harriet Poole, governess and sister of the Gosling Alice Poole.
+
+[^3]: Heath\'s Court was the home of Sir [John Taylor Coleridge](../persons.html#344).
+

@@ -1,0 +1,32 @@
+---
+date: '1884-04-29'
+display-date: April 29th [1884-91?][[footnote:1]]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'UCLA: collection 100: box 95'
+original-date: '2011-09-12 14:23:33'
+title: To Frances Sophia Coleridge Patteson
+wordpress-id: 3548
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Fanny ](../persons.html#1151)
+
+I am afraid this is not exactly in the line of the substance of the [Packet](../others.html#52). I wonder if [Miss Maclean](../persons.html#2325) would think it worthwhile to pay for it at the rate of 1/ for twenty words and have it put into the advertisement part, in which case she had better send it straight to the publisher.
+
+Eton was a great undertaking. I hope you prospered, and are quite well again.
+
+Poor [Gertrude](../persons.html#1462) has been having a bad attack of German measles, not a good addition to her other troubles.
+
+In fact if I went on it would be a list of ailments but [Julian](../persons.html#1624) seems really to have rather gained than lost ground.
+
+Your affectionate cousin
+
+C M Yonge
+
+[^1]: The letter contains no message to Fanny Patteson\'s half-sister Joanna, so probably post-dates the latter\'s death in June 1884.
+
+It was certainly written before the death of Julian Yonge in October 1891.
+

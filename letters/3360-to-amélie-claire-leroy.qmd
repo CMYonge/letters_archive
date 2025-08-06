@@ -1,0 +1,30 @@
+---
+date: '1897-10-01'
+display-date: Oct 22d [?1897]
+from-address: Elderfield
+manuscript-location: "MS Alice Marshall Women\u2019s History Collection, Penn State\
+  \ University"
+original-date: '2010-10-07 11:43:18'
+title: "To Am\xE9lie Claire LeRoy"
+wordpress-id: 3360
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Aimée](../persons.html#869),
+Many thanks for the Major Correspondence.[^1] The account of the battle of Newbury is curious and so is the account of the week’s pay of the officers and soldiers The trumpeters must have made a good thing of it.
+
+Pray thank the possessor very much from me.
+
+The woods are a perfect feast of colour just now, almost as lovely as in primrose time
+
+yours affectionately
+
+C M Yonge
+
+[^1]: This reading is conjectural; the word might also read Magin or Majur.
+
+In Chapter 4 of [John Keble’s Parishes](../books.html#247) (1898), CMY quotes from the correspondence of Oliver Cromwell with Richard Major (1603/4-1660), of Hursley, whose daughter was married to Cromwell’s son Richard. BL Add. MSS 24860-1 are papers of Richard Major, and it is possible that all or part of this collection, or other Major papers, had been shown to CMY in connection with her research.
+

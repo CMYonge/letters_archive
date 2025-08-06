@@ -1,0 +1,36 @@
+---
+date: '1887-04-10'
+display-date: April 10th  [?16th 1887]
+from-address: Elderfield
+manuscript-location: MS Mrs Clare Roels/69
+original-date: '2011-09-30 13:33:06'
+title: To Christabel Rose Coleridge
+wordpress-id: 2856
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+Don’t answer till you have time, and the fascinations of the twins are withdrawn, but I am moved to tell you first that [Katie Lloyd](../persons.html#887) has sent me a most exquisite oil picture of Fotheringay Church with such a look of sunshine, such reflections in the water, such trees.[^1] I am sure she has improved much – and she has put it in a frame that I fear must have cost her a good deal.
+
+Suppose there were marks put to shew where the ground was becoming unsafe[^2] Fergus picks up one that had got loosened and as it would be useful in some of his contrivances asks Alexis if he may have it but not on the spot.
+
+Alexis carelessly says yes, and so comes the accident. I meant it to be in the spring Gillian had taken to giving him Greek lessons much against Kalliope’s judgement- only she can’t stop it.
+
+Gillian thinking of it as if it had been a drummer boy, but he, making a calf-love romance- a sort of Beatrice of her is ill advised enough to send her an original very unexpected Valentine which makes her so furious that she casts him off violently, and it is in the consequent doleful dumps that he neglects his business.
+
+Meantime reports have come to aunt Jane, who had too entirely trusted Lily’s daughter to employ her sagacity, so there will be a nice little row all round.
+
+Oh dear! we are expecting 1500 [GFS](../others.html#23)s to keep the Jubilee at Winchester[^3]
+your affectionate
+
+C M Yonge
+
+[^1]: [Mary Dorothea Moultrie Coleridge](../persons.html#349) (1886-1941) and [Walter Henry Praed Coleridge](../persons.html#353) (1886-1967), niece and nephew of Christabel.
+
+[^2]: The plot discussed is that of CMY\'s [Beechcroft at Rockstone](../books.html#201), serialized in MP January 1887-December 1888 and published in volume form in 1888.
+
+[^3]: Queen Victoria’s Golden Jubilee, 21 June 1887.
+

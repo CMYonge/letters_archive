@@ -1,0 +1,25 @@
+---
+date: '1865-10-02'
+display-date: Oct 2. 1865
+from-address: ''
+manuscript-location: 'Copy outletter book British Library Add MSS. 55384 (2): P. 885'
+original-date: '2010-06-03 09:10:19'
+title: Alexander Macmillan to Charlotte Mary Yonge
+wordpress-id: 2072
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Miss Yonge	
+[I](../persons.html#939) am home again and at work, having greatly enjoyed my holiday.
+I hope to see you soon in London.
+
+Will you kindly give us notice when you are coming. I am anxious to see what can be done, if anything in the way of a [vignette](../others.html#167) for the “[Dove](../books.html#62)”.
+
+Yours ever truly
+A.
+
+Macmillan
+Many thanks for the information you kindly sent [Mr Craik](../persons.html#379)

@@ -1,0 +1,45 @@
+---
+date: '1871-09-09'
+display-date: Sept 9th [1871]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Harry Ransom Humanities Research Center,  University of Texas
+original-date: '2011-06-09 14:58:36'
+title: 'To Christabel Rose Coleridge '
+wordpress-id: 2419
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+Good luck to you in your new work! I had various things to write to you about Will you send a list of the [Goslings](../others.html#104) to
+		Miss [Margaret Macmillan](../persons.html#2274)
+			The Elms
+				Streatham
+				Tooting
+I think I told you I have promised to make her a Gosling though she is rather too young.
+
+Who is the next to ask questions - will you send her a reminder to send them to me to choose from, and also tell her to send them to Maggie Macmillan
+I think I will take your advice and set going a proverb for the Christmas of 1872, but I shall set on not the Goslings only but all my crack authors and I think it will be great fun [Florence Wilford](../persons.html#1520), [Frances Peard](../persons.html#1160), [Arthur Heathcote](../persons.html#653), [Miss Keary](../persons.html#793), [Mrs Bromfield](../persons.html#162) - not to say yourself.
+
+Only what shall it be.
+
+Something enigmatical I think - I rather fancy ‘Parmi les aveugles le borgue est roi’. I think a good deal of variety might be got out of that, people would see it such different ways.
+
+Or ‘The pitcher goes often to the well but is broken at last’.
+
+Or best of all perhaps ‘In the Dark all Cats are Grey.’ Yes, now I come to think of it that has great capabilities. I heard of a subject the other day ‘The biography of the youngest of the family’.
+
+Has [Acorn](../persons.html#45) sent you her new address?
+
+They have shut up Killerton for the present, I believe[^1] [Mrs Mercier](../persons.html#990) is coming here on Tuesday afternoon - she will lament greatly for you
+Your affectionate
+
+C M Yonge
+I hope you have another copy of Patience
+
+[^1]: Killerton was the home of the Acland family.
+
+Evidently Agnes Acland had adopted the Gosling name Acorn.
+

@@ -1,0 +1,29 @@
+---
+date: '1899-12-15'
+display-date: Decr 15th 1899
+from-address: Elderfield
+manuscript-location: MS  West Sussex County Record Office/ Add. 16,944/5
+original-date: '2011-10-14 19:40:15'
+title: To  Maria Edith Walker
+wordpress-id: 3436
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Miss Walker](../persons.html#2234)
+I read a review of Miss Winslow’s diary, which must have given a fair idea of it.
+
+Most Grandisonian days those were!
+
+Did you see ‘Like Another Helen’ in which very good imitation letters are written by a young lady who actually was the one woman in the Black Hole. I thought it the best novel I had seen of the season. I wonder whether Gaffer Two Shoes was an imitation of Goody.
+
+My cousin has a copy where our prudent Great Grandmother had turned the Ghost in the Church into a dog making arrant nonsense Did you ever come across ‘Juliana or the Affectionate Geese.’ My [Mother](../persons.html#1626) once read a part of it, but never saw it again.
+
+Another recollection of hers was of a novel where there was a family of nine Miss Simmondses, and at some county races, on the box of each carriage there was perched a Miss Simmonds I think we once met a person who likewise remembered the nine Miss Simmondses
+I am afraid I must put you off with this short letter for it is a busy day
+
+yours sincerely
+
+C M Yonge

@@ -1,0 +1,35 @@
+---
+date: '1871-05-17'
+display-date: May 17th 1871
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Lady Margaret Hall, Oxford.
+original-date: '2010-05-25 17:56:20'
+title: 'To Elizabeth Wordsworth '
+wordpress-id: 2408
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Wordsworth](../persons.html#1566),
+Sometimes one meets with a thing like an echo to one’s own thought (only that one’s thought did not set it going) and your Versailles poem strikes me just in that way. I saw the place on a bright August day in 1869, and it was quite an oppression to me.
+
+Those two Trianons both built to escape from the horrible dreary pomp when royalty had made it unbearable told so much, and when I wrote my last book it came before me how cruel its grandeur must have looked to the mob that came howling down it famished.[^1] It seemed to me that it ought to have been made a place of national repentance if that were possible instead of national self glorification and Sunday dissipation.
+
+And how wonderful the retribution has been! I like all your poems greatly.
+
+The photograph incident put me in mind of a photo that was sent me from America the fellow to which – of three baby children- was found in the hand of a dead [soldier](../persons.html#1941) after one of the first battles His name was traced through its means. I shall be very glad to have them all in the [M P.](../others.html#52) I shall be at New College for a few days the week after next, and remember our pleasant meeting there.[^2] I have thought of it so often since and of our many pleasant talks - I shall take them up again in the same places.
+
+With thanks to the [Bishop](../persons.html#1565), and all your party for their kind message.
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Perhaps [A Parallel History of France and England](../books.html#89).
+
+[^2]: They had met there in June 1870, while CMY was the guest of the Warden of New College, the Rev.
+
+James Edwards Sewell (1810-1903), and his sister Janetta.
+

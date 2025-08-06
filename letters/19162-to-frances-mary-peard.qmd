@@ -1,0 +1,37 @@
+---
+date: '1862-09-03'
+display-date: Sept 3rd [1862][[footnote:1]]
+from-address: '[[other:207]Tyntesfield]'
+manuscript-location: MS Charlotte Mitchell/28
+original-date: '2012-01-08 10:54:10'
+title: To Frances Mary Peard
+wordpress-id: 19162
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Peard](../persons.html#1160)
+I am afraid the meeting will misfire, as we are now not to go to Teignmouth till the 5th.
+
+It is a great pity that it is not to be tomorrow though I own I should be sorry to end our visit here sooner.
+
+We shall be at Delamere a house at Bishops Teignton which is lent to the Miss Pattesons, we arrive there on Friday afternoon, and go on Monday on to [Puslinch](../others.html#123), Yealmton.[^2] I should be very glad if I could hope to see you but I am afraid to make any appointment till I know what the Pattesons mean to do with me.
+
+And as regards Dawlish itself, if they take me there it will be to see [Miss Martyn](../persons.html#973) who is just recovering from a bad burn, so that I do not know what she is equal to.
+
+We shall at any rate pass the Dawlish station at 3.1 on Friday, and if you can look for us we may be known by the tokens of my [mother](../persons.html#1606) in black, and myself in a grey jacket and hat broad and shady trimmed with a great knob of black velvet in front. I would say white straw, but railroad smut marks it too remote from that which it should be.
+
+Thanks many for the two books you offer to take.[^3] I hope in doing Chronicles you will mention the history elucidated in the genealogies - as to the occupations in Egypt &c. I have no time nor space to say more
+
+yours sincerely
+
+C M Yonge
+
+[^1]: The 5 September 1862 was a Friday, and this is consistent with the progress of CMY\'s friendship with Peard implied in other letters.
+
+[^2]: [Fanny Patteson](../persons.html#1151) and her half-sister [Joanna](../persons.html#1154) had been brought up in South Devon, near their cousins the Coleridges at Ottery and their cousin Paulina Martyn at Dawlish.
+
+[^3]: Peard contributed articles to the [Monthly Paper of Sunday Teaching](../others.html#81).
+

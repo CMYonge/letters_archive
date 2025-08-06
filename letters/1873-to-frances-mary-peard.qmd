@@ -1,0 +1,21 @@
+---
+date: '1862-08-01'
+display-date: '[August 1862]'
+from-address: ''
+manuscript-location: MS location unknown. This fragment printed in Mary J. Harris,
+  1903. <i>Memoir of Frances Mary Peard</i>, p. 48.
+original-date: '2010-05-13 11:55:18'
+title: To Frances Mary Peard
+wordpress-id: 1873
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Many thanks for this paper on Elisha,[^1] it is so exactly the thing that it makes me feel what an excellent collaborateur [you](../persons.html#1160) are! I believe your next is the Babylonish destruction with an eve to the final one and of course the Anti-type, but you always take the very course I like best in your comments.
+
+[^1]: The article ‘Elisha’s Miracles’ with the initials F.M.P. appeared in N0. 22 of the [Monthly Paper on Sunday Teaching](../others.html#81) headed ‘Tenth Sunday after Trinity.
+
+Her ‘Naaman and the leprosy’ appeared in No 23 and her ”Destruction of Jerusalem” in No. 24.
+

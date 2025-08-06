@@ -1,0 +1,25 @@
+---
+date: '1857-06-30'
+display-date: June 30th 1857
+from-address: Otterbourne,Winchester
+manuscript-location: MS Charles E. Young  Research Library,  UCLA, collection 100.
+original-date: '2010-04-26 11:14:05'
+title: To Mr Owen
+wordpress-id: 3103
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Owen](../persons.html#1111)
+Your pretty present arrived quite safely this morning, and I am greatly obliged to you for the kindness of the thought in bringing me a memorial from a part of the world where my imagination at one time tarried so long.
+
+The bracelets will be great friends of mine for many reasons, among which their smooth touch and pretty grain may well be reckoned.
+[My brother](../persons.html#1624) is as usual in the depths of Norway, and was last heard of with [Colonel Blois](../persons.html#1776) near Stavanger, enjoying large salmon and long daylight.
+
+With my mother’s kind regards, and my best thanks
+
+Yours truly
+
+C M Yonge

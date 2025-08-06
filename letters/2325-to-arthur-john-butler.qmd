@@ -1,0 +1,25 @@
+---
+date: '1869-07-05'
+display-date: July 5th [1869]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Mrs Caroline Fairclough/18
+original-date: '2010-06-22 14:53:54'
+title: To Arthur John Butler
+wordpress-id: 2325
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Arthur](../persons.html#238)
+Since you are so good to Polly, here are the two chapters you missed come in pursuit of you.
+
+You see her lls have exhausted the printers’ whole stock which accounts for the odd appearance of the latter sheet
+I do not know if it is a monstrous presumption to treat those Italian articles that get compounded with the prepositions as representing the lost instrumental and locative cases- The French grammar claims en (in the) as so doing and surely nel answers to that.
+
+Please return them to me, instead of obeying
+[rest of letter missing]
+
+[^1]: Black-edged paper.
+

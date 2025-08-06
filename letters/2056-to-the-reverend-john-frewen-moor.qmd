@@ -1,0 +1,25 @@
+---
+date: '1873-07-20'
+display-date: July 20th [1873?]
+from-address: ''
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e 86. '
+original-date: '2011-02-02 11:51:08'
+title: To the Reverend John Frewen Moor
+wordpress-id: 2056
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Moor](../persons.html#1046)
+Will you write your list, and put it into this envelope, with anyone else’s who may want roots - Nobody else here will have any this year - Will you also add the no in Great Winchester St, I stupidly forgot to look at it before packing up the list - I am going to Hardwicke on Tuesday[^1]
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: The reference to Hardwick, Bucks., of which the Rev.
+
+William Bigg Wither became Rector in 1871, suggests the 1870s; and CMY visited him in July 1873.
+

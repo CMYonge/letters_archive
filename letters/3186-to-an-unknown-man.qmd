@@ -1,0 +1,33 @@
+---
+date: '1892-01-01'
+display-date: Jan 2d 1892
+from-address: Elderfield Otterbourne Winchester
+manuscript-location: MS Princeton University Parrish Collection
+original-date: '2010-07-07 14:16:10'
+title: To an Unknown Man
+wordpress-id: 3186
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Sir
+I think the books I most enjoyed in early childhood were Miss Edgeworth’s series of Early Lessons, Frank, Rosamond and Harry and Lucy.
+
+Mrs Whately’s Fairfax family
+Anna Ross -
+Miss Strickland’s Rival Crusoes
+Also very early
+Scott’s Poems[^1]
+Tales of A Grandfather
+The Talisman
+Ivanhoe
+Robinson Crusoe
+Lamb’s Mrs Leicesters School
+Tales from Shakespeare
+This is all I can recollect of really standard books, which I read when very young
+
+Yours truly
+
+C M Yonge

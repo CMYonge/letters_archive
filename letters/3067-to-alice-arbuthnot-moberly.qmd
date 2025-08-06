@@ -1,0 +1,28 @@
+---
+date: '1855-06-01'
+display-date: June 1855.
+from-address: Otterbourne,
+manuscript-location: MS location unknown.  This fragment printed in <i>[[otherbook:122]Dulce
+  Domum]</i> 121-2.
+original-date: '2010-04-21 15:39:58'
+title: To Alice Arbuthnot Moberly
+wordpress-id: 3067
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Alice](../persons.html#1025),
+I hope [George](../persons.html#1014) is feeling the freshness of these nice cool days[^1], and [Mrs.
+
+Moberly](../persons.html#1019) is contented and happy without the babies, who by [Mary](../persons.html#1020) and [Edith](../persons.html#1012)'s account must be very funny, especially [Edward](../persons.html#1013).
+
+What a pleasure it will be to see George at Winchester again, and to hear of all your doings, by which I hope ‘[The Daisy Chain](../books.html#24)’ will profit, as it has a Commemoration in it. ‘[Cleve Hall](../others.html#146)’ I like very much, I think the best of [Miss Sewell](../persons.html#1301)'s stories. . . .We had a nice visit from [Dora](../persons.html#968), [Kitty](../persons.html#114), [Annie](../persons.html#1024), and [Johnnie](../persons.html#1017) last week, and we all joined [Mr.
+
+Bigg-Wither](../persons.html#1544) and the Miss Yards[^2] and walked to Brambridge Gardens; there was a very hot sun and a thunderstorm - not quite enough to satisfy you, but enough to flatter the children with the hope of being rained up at Otterbourne, in which case I think [Miss Cowing](../persons.html#374) would have been in a tolerable state of alarm. I should have liked to have heard that Sea-King lecture.
+
+[^1]: Alice Moberly was in Oxford, nursing her brother George through a serious illness.
+
+[^2]: [Eliza](../persons.html#1578) and [Adelaide Yard](../persons.html#1577)
+

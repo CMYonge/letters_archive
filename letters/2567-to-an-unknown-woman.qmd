@@ -1,0 +1,20 @@
+---
+date: '1877-01-01'
+display-date: Jany 3d 1877
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Bodleian Library, Oxford:  MS. Autogr. d.23 f116'
+original-date: '2011-08-01 15:25:53'
+title: To an Unknown Woman
+wordpress-id: 2567
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam
+Let me thank you very heartily for your kind gift of your Fathers photograph which I shall value very much
+
+Yours truly
+
+C M Yonge

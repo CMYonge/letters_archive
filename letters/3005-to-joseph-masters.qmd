@@ -1,0 +1,24 @@
+---
+date: '1852-12-01'
+display-date: Decr 23d 1852
+from-address: Otterbourn
+manuscript-location: MS Charles E. Young  Research Library,  UCLA, collection 100.
+original-date: '2010-03-22 10:24:13'
+title: 'To Joseph Masters? '
+wordpress-id: 3005
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[Sir](../persons.html#981)
+I am obliged to you for forwarding the cheque for[ £25](../others.html#160) for the first edition of the [Two Guardians](../books.html#13).
+I am at present too much engaged to think of publishing anything in the [Churchman’s Companion](../others.html#62),[^1] though I am obliged to you for the proposal.
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: CMY had contributed The Two Guardians (1850-2) to The Churchman\'s Companion, published by Masters.
+

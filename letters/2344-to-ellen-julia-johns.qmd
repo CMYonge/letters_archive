@@ -1,0 +1,29 @@
+---
+date: '1869-09-27'
+display-date: Sept 27th [1869]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Princeton University, Parrish Collection, CO171: Box 29'
+original-date: '2010-06-23 12:22:37'
+title: "To Ellen Julia Johns\t"
+wordpress-id: 2344
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mrs Johns](../persons.html#772),
+Thank you for your kind invitation but I never know how to get out early enough for a one o’clock luncheon. [Helen](../persons.html#1613)’s lessons last me till half past eleven, and if I do not work from that time till two, I can get nothing done, and as I am going from home the week after next, I am more hurried than is convenient, so that I cannot well spare the morning hours. I will bring in some spare [M P](../others.html#52)s with the story and hope to appear between half past three and four on Saturday.[^2]
+If it were not for more than usual work, I would gladly come to your early dinner.
+I will send the papers to [Miss Sewell](../persons.html#1301).
+
+With many thanks
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Black-edged paper.
+
+[^2]: It is uncertain which story is referred to here.
+

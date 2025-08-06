@@ -1,0 +1,53 @@
+---
+date: '1864-07-12'
+display-date: July 12th [1864]
+from-address: 45 Westbourne Terrace
+manuscript-location: 'MS British Library Add MSS 54920: 30-31'
+original-date: '2010-05-24 08:41:25'
+title: To Alexander Macmillan
+wordpress-id: 1964
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939)
+Many thanks for your note, and its enclosure.
+A French translation of Karamsin[^1] would suit me quite as well as an English one. I could make out a German one, but I am a poor German scholar, and take much longer to work at anything in that tongue.
+
+However if French cannot be had, I should of course be much obliged for a German version.
+
+Thanks also about Lotty’s adventure. I am nearly sure it was in a September or October number of the Times, I did cut it out at the time, and gave it to a friend, who has since died. I hope to return home on the 12th, and after that I can soon let you have the few more ancient history deeds, so as to be able to begin printing.
+
+We go on Thursday to the [Revd Mr Argles](../persons.html#58)
+Barnack
+Stamford
+and on the 21st to the [Honble Mrs Harcourt](../persons.html#1442)
+Newsells Park
+Royston
+On August 1st to [H.H.
+
+Gibbs](../persons.html#558)’s Esq
+St Dunstan’s
+Regents Park
+and whilst I am there I shall hope to make another descent upon you, and resume my MS, and have a talk.
+I hope little [Maurice](../persons.html#915) is quite brightened up by his day’s rest.
+
+Pray remember me to the ladies at Streatham, and tell them how much I enjoyed my pleasant evening and all their kindness.[^2]
+Yours very truly
+C. M.
+
+Yonge		
+Another story I wish I could recover was in a book on the South Sea islands, where two missionary’ wives prevented a cannibal feast.[^3] If I could see a list of books on Polynesian travels, I might recognise the name.
+
+[^1]: Nikolai Mikhailovich Karamzin (1766-1826).
+
+The work referred to is probably his History of the Russian Empire, which existed in both French and German translations. CMY possibly needed it for background to \'The Petitioners for Pardon\' in A Book of Golden Deeds, the story of a young girl, Prascovia, who faced many dangers as she travelled from Siberia to St Petersburg to beg for a pardon for her father.
+
+[^2]: The ladies at Streatham were Macmillan\'s [wife](../persons.html#940) and his [sister-in-law](../persons.html#941), mother of his nephew Maurice.
+
+[^3]: The women were [Mary (Fowler) Calvert](../persons.html#1919) (1814-1882), wife of the Methodist missionary James Calvert (1813-1892) and the [wife](../persons.html#1920) of the medical missionary Richard Burdsall Lyth (1810-1887); the incident is described in James Calvert, Fiji and the Fijians (London : Alexander Heylin, 1858, rpt.
+
+Suva: Fiji Museum 2003) Chapter 8, 290-1.
+

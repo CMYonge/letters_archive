@@ -1,0 +1,27 @@
+---
+date: '1879-07-01'
+display-date: July 2d 1879
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Charlotte Mitchell/3
+original-date: '2011-09-09 14:25:08'
+title: To ?Nina Cole
+wordpress-id: 2677
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Cole](../persons.html#326)
+I have been a long time answering you, but I waited to see [Mrs Moore](../persons.html#1042) and hear more about the matter as it is one in which I hardly felt competent to judge. I am sure it is an excellent purpose, and I send you my shilling, though my country life is so utterly unconnected with anything of the kind that I can be of no use[^1]
+
+yours sincerely
+
+C M Yonge
+
+[^1]: If the identification of CMY\'s correspondent as Nina Cole is correct, it seems reasonable to associate this letter with the recent foundation of the Church and Stage Guild, of which Cole was a committee member.
+
+Its objects, according to an advertisement in The Era (13 July 1879 were \'to promote religious and social sympathy between the members of the Church and of the Stage\'.
+
+This explanation seems consistent with the rather gingerly tone of CMY\'s letter.
+

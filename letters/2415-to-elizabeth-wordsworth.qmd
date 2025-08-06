@@ -1,0 +1,35 @@
+---
+date: '1871-08-04'
+display-date: 'Aug 4th 1871 '
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Lady Margaret Hall, Oxford.
+original-date: '2011-06-09 11:24:25'
+title: To Elizabeth Wordsworth
+wordpress-id: 2415
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Wordsworth](../persons.html#1566)
+Can you help me in a difficulty?
+
+It is one I could have once taken to [Mr Keble](../persons.html#798) and seen looked at once out in his Hebrew Bible, but now I have no one within reach whom I like to ask so well as you.
+
+It is about Amos III-7-9 There in the Bible you see the word Lord, when standing with the plumb line is in the small lettering, as if it were not Jehovah, while the second time, when the vision is explained, it is in the capitals.
+
+Neither your father nor Dr Pusey[^1] notice this in the notes, and I want very much to know whether the word in the small letters is different from the other, and whether it is supposed to mean God Himself or some very high Power. I have an impression of having seen such an explanation but I cannot recover the place – and if you can, I daresay you will help me.
+
+Your poem about the Olive branches will come this next month I suppose it will want a note to say that it was written while [Archbishop Darboy](../persons.html#406)’s fate was in suspense. [^2] Pray let me know if ever you come far enough south to make it worth while to come on to Otterbourn [sic] it would be such a great pleasure if you would come to me for a few days.
+
+It really is not so far from London as Oxford.
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: The authorities consulted were The Holy Bible with notes and Introductions by Christopher Wordsworth, 6 vols (1869-71) and The Holy Bible with a commentary explanatory and practical (1860) edited by E. B Pusey, of which only the volumes on the minor prophets were ever published.
+
+[^2]: Georges Darboy (1813-1871), Archbishop of Paris, who was taken hostage and shot during the Paris Commune.
+

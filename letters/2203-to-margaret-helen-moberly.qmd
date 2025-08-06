@@ -1,0 +1,42 @@
+---
+date: '1867-08-12'
+display-date: Aug 12 [1867]
+from-address: ''
+manuscript-location: 'MS location unknown. Photocopies lent by Barbara Dennis: Maggie/5'
+original-date: '2010-06-10 20:16:39'
+title: "To Margaret Helen Moberly \t\t\t"
+wordpress-id: 2203
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Maggie](../persons.html#83),
+Your book marker [is] a great beauty, and I thank you very much for it, particularly admiring the beautiful little shy bee. [Mamma](../persons.html#1606) thanks [Alice](../persons.html#1025) for her [note] and good news of you all. I hope we shall see you before long I am much better, and feel quite proud that I am sitting up to my work this morning while [Miss Wilford](../persons.html#1520) is lying on her back.
+
+It is ten weeks since her strain, and it still gives her pain, so that she cannot walk many steps nor sit up a few minutes, and when I fetched her on Friday [Mrs Bacon](../persons.html#88) took away her bonnet that she might not go to church on Sunday. [Miss Roberts](../persons.html#1244) looked very weak and ill while she was here, and [Mr Wither](../persons.html#1544) might well say my friends are all screws.
+
+Is it not a good thing that [Harry Young](../persons.html#1996) is taken into Mr [Latham Wickham](../persons.html#1503)’s school on his lower terms instead of the [poor little Humbert](../persons.html#1995)[.][^1] Hursley disagrees so much with [Mr Dundas](../persons.html#451) that [Miss Mackenzie](../persons.html#930) went off to Bournemouth after a week, and says Bournemouth air is not like Hursley rain, so I suppose it is something like that at Brighstone[^2] [Mrs](../persons.html#462) and [Miss Dyson](../persons.html#464) were obliged to put off their visit to us, but we hope now to have them the first week in September. I think one of the Simeons will come to us the week after next.[^3]
+your affectionate godmother
+
+C M Yonge
+
+[^1]: The Rev.
+
+Latham Wickham (b. 1833/4) was headmaster of Twyford School 1862-87.
+
+The ten-year-old son of the Rev.
+
+Lewis Humbert, Warden of St.
+
+Cross, had recently died, and probably vacated a scholarship reserved for the children of poor clergymen.
+
+[^2]: After his resignation from Winchester College Dr.
+
+Moberly was Rector of Brighstone, Isle of Wight from 1866 to 1869.
+
+The family did not finally leave Winchester and their holiday house near Hursley until May/June 1867.
+
+[^3]: The Simeons were a large family living in Hursley, children of Captain [Charles Simeon](../persons.html#1322); here CMY means one of their unmarried daughters.
+

@@ -1,0 +1,44 @@
+---
+date: '1867-02-18'
+display-date: Feb. 18. 1867
+from-address: ''
+manuscript-location: Copy outletter book British Library Add MSS.55386 (2) P. 895
+original-date: '2014-05-22 16:30:42'
+title: Alexander Macmillan to Charlotte Mary Yonge
+wordpress-id: 19674
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Miss Yonge,                                                                            
+
+Very deeply do I feel your [illegible] and sympathy.[^1] The events of the past month are scarcely realizable to me, and on the whole the best healer, or at least anodyne is one’s daily work. I am very thankful as well that all the children – now all mine , are well, and [my wife](../persons.html#940) is settling everything wonderfully well, but needing rest, which she is having at her old house in Cambridge.
+
+I shall be very glad to have the [Cameos](../books.html#73) - to go on with, and you shall have proofs steadily and as fast as I can persuade the printer to go.
+
+[Miss Wilford](../persons.html#1520) has sent me her story. I have glanced carefully over it. I think it certainly has grace, but it is rather stately and stiff like brocade, it lacks the grace of life, and freedom of movement which will [illegible] a child.
+
+Even when you have [illegible] in chains, you hear them clank.
+
+Even the [illegible] of the boy being locked up and escaping from that stern old monk is hampered as though with a [next nine lines indecipherable.][^2]
+
+Yours very faithfully
+
+ [A.
+
+Macmillan](../persons.html#939)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+[^1]: Macmillan\'s sister-in-law and business partner, [Frances Eliza Macmillan](../persons.html#941), had died on 21 January 1867.
+
+[^2]: CMY had evidently tried to persuade Macmillan to publish in volume form a story by Florence Wilford, which had been serialised in MP (January-December 1866) as \'A Twelfth-Day King, or, Glimpses of French Life in the Fifteenth Century\' and which was eventually published as The King of a Day, or, Glimpses of French life in the Fifteenth Century(London: Masters 1868).
+

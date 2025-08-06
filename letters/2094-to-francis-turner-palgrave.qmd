@@ -1,0 +1,63 @@
+---
+date: '1865-01-01'
+display-date: '[About 1865]'
+from-address: ''
+manuscript-location: MS location unknown. Printed in Romanes <i>[[otherbook:241]Appreciation]</i>
+  183-4
+original-date: '2010-06-05 15:59:20'
+title: "To Francis Turner Palgrave\t\t\t\t"
+wordpress-id: 2094
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Palgrave](../persons.html#1124)
+The shortest way will be to send you our number, to which you are very welcome as long as it can be of any use to you - though I should like to have it again ultimately.[^1]
+You will see that a good deal of the scope of the article goes to the influence of [Scott](../persons.html#1672)’s works in preparing minds for the Church movement, but the suppressed poetry breaking out is the main idea. I mean rather the suppressed inclinations finding vent in poetry.
+
+Do you know the account of a visit to Abbotsford given in the Life of Mrs Hemans? [She](../persons.html#1936) seems to have had the power of drawing out his grand nature in conversation. I suppose that, though her verses are weak, she had a rare power of poetical discernment; at least, all the subjects of her poems are so poetical in themselves that the poems provoke me as if she had been watering them down.
+
+But it was she who recorded Scott’s grand speech about noble blood shed in a hopeless cause,[^2] and for that the world owes her much gratitude. I think there is a poem in the [Lyra Innocentium](../others.html#232) suggested by that description of Scott as a young child clapping his hands and crying, ‘Bonnie! bonnie!’ at every flash of lightning.
+
+There is something very engaging in Crabbe’s Life, but I think most of his verses are more stories than poems. S.
+
+Osyth’s is the one that seems to me most poetical, and that is little more than a song.
+
+Do you not think that there are too many of [Mrs.
+
+Mozley](../persons.html#1062)’s family living for her life to be really sketched.[^3] I suspect it will be shadowed out in her [brother](../persons.html#1084)’s if he gets a tolerably worthy biographer (and how can he?).
+
+One thing struck me much: how the line of argument in the Apologia resembled that in the [Fairy Bower](../others.html#240) - I mean, of course, that part of the Apologia where Dr.
+
+Newman vindicates his truth.
+
+Do you know her last book, Family Adventures?
+
+She died when it was in the press.
+
+People tell me it is very like the Newmans in their youth. I only saw her once, when I was quite a young girl.
+
+[^1]: Francis Turner Palgrave (1824-1897), critic and anthologist, was probably collecting material for his The Poetical Works of Sir Walter Scott, with a Biographical and Critical Memoir (1866).
+
+The \'number\' sent him by CMY was no doubt their copy of the 1838 volume of the British Critic containing John Keble’s review of J.G.
+
+Lockhart’s Life of Scott.
+
+The article, reprinted in Keble’s Occasional Papers and Reviews (1877), discusses the influence of Scott’s work on the Tractarian movement.
+
+This point had recently been raised in J. H.
+
+Newman’s Apologia pro Vita Sua (1864).
+
+[^2]: ‘Never let me hear that brave blood has been shed in vain.
+
+It sends a roaring voice down through all time.’ CMY was fond of this sentiment, and quoted it in [The Daisy Chain](../books.html#24).
+
+[^3]: Harriett Elizabeth (Newman) Mozley (1803-1852) was the sister of J. H.
+
+Newman.
+
+Although she had died in 1852, her husband and daughter, her three brothers and one sister, and that sister’s six children were still alive in 1866, as were eight of her husband Thomas Mozley’s brothers and sisters.
+

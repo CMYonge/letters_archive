@@ -1,0 +1,37 @@
+---
+date: '1899-07-01'
+display-date: July 23d [1899]
+from-address: Elderfield
+manuscript-location: MS Mrs Clare Roels/76
+original-date: '2010-07-02 13:43:54'
+title: To Christabel Rose Coleridge
+wordpress-id: 3412
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [C C ](../persons.html#329)
+If I were to be dissected while I am alive, I think you would do it tenderly, but indeed I have always shrunk from seeing the lives of living people and my whole old fashioned nature revolts at the idea partly personally, and partly because I know how those who are gone would feel about it, so indeed I do not think it is possible to my feelings and I hope you will not be vexed.
+
+We are overwhelmed with applications for the Infant school at Allbrook, having advertised in the [School mistress](../others.html#212).
+
+One offers herself from Stirling!
+
+She would be odd here I think.
+
+We have [Mrs Sumner](../persons.html#1381)’s presentation next week, all the mothers in the diocese to drink tea at Wolvesey, and the week after our bazaar for the schools- after which from the 3d to the 6th, I go down to the Heathcotes at Beechwood and on the 10th [Annie Moberly](../persons.html#1024) comes to me for ten days, and I shall get a dip in Oxford news.
+
+Mr [Cosmo Lang](../persons.html#2089) made a splendid speech at the [Higher Religious Education](../others.html#48) meeting.
+[A D I](../persons.html#744)’s promises dont seem to come to anything only he says his company won’t let him get at the money to pay his debts till all is paid in.
+I wonder if it would do any good to send a lawyer to call on him or if it would be only sending good money after bad.
+
+He has given no account for my own books, as well as /contributions to\ the [M P](../others.html#52).
+
+If you are not paid for all this past year, I wonder you do not strike but he keeps on pacifying you.
+
+You never mentioned Alice.
+your affectionate
+
+C M Yonge

@@ -1,0 +1,24 @@
+---
+date: '1893-06-18'
+display-date: June 18th [?1893[[footnote:1]]]
+from-address: Elderfield
+manuscript-location: MS Harry Ransom Humanities Research Center, University of Texas,
+  Austin
+original-date: '2010-11-11 14:55:52'
+title: 'To Mary ? '
+wordpress-id: 3569
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Mary
+I came home from Salisbury yesterday afternoon, and tried to answer your note, but could not finish. I will keep your card and see if I can give the case a vote.
+I am going to stay with [Frances](../persons.html#1604) next week from Monday to Saturday
+Your affectionate
+
+C M Yonge
+
+[^1]: Dated on the assumption that it post-dates Frances Yonge’s move to 70 Kensington Gardens Square in 1892.
+

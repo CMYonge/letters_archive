@@ -1,0 +1,28 @@
+---
+date: '1889-08-01'
+display-date: Aug 23d 1889
+from-address: Elderfield
+manuscript-location: MS Girton College Cambridge, Yonge IV 13
+original-date: '2011-10-07 12:25:11'
+title: To Arthur Donald Innes
+wordpress-id: 2914
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Innes](../persons.html#744)
+Many thanks for the account and the [cheques](../others.html#160) for which I enclose receipts.
+I will keep the Molyneuxes till you return, as they give much pleasure here.[^1] I think it should be observed to the author that there is an inconsistency in making the estate come through the mother and then placing a Molyneux ancestry there.
+
+Also I think the Baptism of Eggs is an expression not desirable in a child’s book.
+
+When you return there will be plenty of time to see about the Advertisements for next year
+
+Yours truly
+
+C M Yonge
+
+[^1]: This, Shreds and Patches, was a story by [Ella Napier Lefroy](../persons.html#863), one of Innes\'s authors, which CMY had considered for [MP](../others.html#52) but did not in fact appear there.
+

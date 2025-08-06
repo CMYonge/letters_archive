@@ -1,0 +1,46 @@
+---
+date: '1899-07-25'
+display-date: July 25, 1899
+from-address: Elderfield, Otterbourne
+manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  303
+original-date: '2010-03-09 15:13:24'
+title: To Helena Mary Heathcote
+wordpress-id: 3413
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Ellie](../persons.html#663)-
+Thank you for your loving little note.
+
+Did you see in the [Hants Chronicle](../others.html#209) a little bit of what I said after the speeches, of the [Bishop of Guildford](../persons.html#1382) and [Mr.
+
+Warburton](../persons.html#1466)? I could not help, when they said I had made clergy and good men seem real, almost murmuring that my good men were not ideals, but I had really known their equals (and superiors) in reality.
+
+Mr.
+
+Warburton was so pleased that he sent after the reporter to have it added. I am sure your [father](../persons.html#669) was one of those in my mind, though not on my lips! I had no notion of what the affair was going to be, and my answer did not fit, as I had to write it beforehand, for want of a ready tongue.
+
+But it was very overwhelming and all turned out well.
+
+The tableaux were very pretty, and little Eustacie almost acted in them. [^1]
+I am going to Hursley on Thursday, and trust to see [Bella](../persons.html#1690).
+
+The worst of all the day was that one felt it so untrue not to be able to say how one fell short of one's books and ideals, and so swallowing it all!
+
+There is nothing for it but to believe that all this being so, these writings have been meant to be instruments -
+To our own nets ne'er bow we down.[^2]
+I am going to Dorking from the 9th to the 18th of next month.
+
+Your affectionate
+C. M.
+
+Yonge
+
+[^1]: One of the tableaux depicted a scene from Yonge\'s novel about the French wars of religion, [The Chaplet of Pearls](../books.html#69) (1868), whose heroine is called Eustacie.
+
+[^2]: \'To our own nets ne’er bow we down,/ Lest on the eternal shore/ The angels, while our draught they own,/ Reject us evermore:\' John Keble, \'Fifth Sunday after Trinity\' in [The Christian Year](../others.html#95).
+

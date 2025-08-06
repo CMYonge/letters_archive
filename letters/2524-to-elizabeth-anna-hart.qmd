@@ -1,0 +1,20 @@
+---
+date: '1875-03-31'
+display-date: March 31st 1875
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS The Hypatia Trust
+original-date: '2011-07-13 11:48:46'
+title: To Elizabeth Anna Hart
+wordpress-id: 2524
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mrs Harte](../persons.html#639)
+If you can spare the 12th chapter of Disobedient Cecil please send it direct to [Messrs Mozley](../others.html#108) at Derby, as they want to set it up
+
+yours sincerely
+
+C M Yonge

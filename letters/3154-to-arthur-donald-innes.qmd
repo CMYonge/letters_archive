@@ -1,0 +1,23 @@
+---
+date: '1890-02-24'
+display-date: Feb 24 1890
+from-address: Elderfield
+manuscript-location: MS Girton College Cambridge, Yonge IV 17
+original-date: '2010-07-05 13:26:25'
+title: To Arthur Donald Innes
+wordpress-id: 3154
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Innes](../persons.html#744)
+I have the Unfashionable Concert somewhere it is one of those things that if they cannot be put in at once, get set aside for fresher papers of the charity kind I can’t make any promises about putting it in so I think I had better return it. I hoped to have found it this evening , but a visitor, and twilight prevented me. I have grown more wary at last about taking things that would overcrowd[^1]
+
+Yours truly
+
+C M Yonge
+
+[^1]: [MP](../others.html#52) frequently included advertisements for charities and fund-raising events.
+

@@ -1,0 +1,41 @@
+---
+date: '1899-08-07'
+display-date: Aug 7th [1899]
+from-address: Elderfield
+manuscript-location: MS Mrs Clare Roels/77
+original-date: '2010-06-30 07:22:21'
+title: To Christabel Rose Coleridge
+wordpress-id: 3415
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [C C](../persons.html#329)
+I am writing to the [Authors Society](../others.html#44) and to the Woking printer I expect nothing will be done till August is over I get more and more piteous letters about MP and the Local Demon[^1], [Mr ffinch](../persons.html#1688), warden of a ladies Almshouse near Gravesend is strong about the need of a new Girls Magazine out of the ashes.
+
+We had all [Sanger’s concern](../others.html#117) through here yesterday afternoon, swarms of little variegated ponies running about loose and the boys nearly mad after them. [^2]
+
+The skeleton was the disagreeable Henry Merrifield he had changed his name and been lost sight of but turned up as partner to Fulbert had married wife died and he and Fulbert brought a new born girl to Angela’s Sisterhood to be nursed.
+
+Fulbert was fond of him and wanted Angela to marry him if the mystery was found out and she nearly did for love of the child.
+
+Then Fulbert was killed by an accident, and she nursed him but he told her only to accept Henry if he explained.
+
+He was finally blown up in a steamer in the rain.
+
+Angela was Guardian to the child and Bp Fulmort tells her to bring her home, and try to find the family though she is not destitute
+
+Mrs Best had gone to Carrigaboola, which will keep up the connection. I think Magdalen with whom Henry had had a flirtation squashed before his disgrace by the Admiral will go out to the Sisterhood with Angela[^3]
+
+your affte
+
+C M Yonge
+
+[^1]: A malapropism for ‘locum tenens’.
+
+[^2]: George Sanger (1825?-1911) was proprietor of a celebrated travelling circus.
+
+[^3]: This is an account of the plot of her novel Modern Broods (1900).
+

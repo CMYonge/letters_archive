@@ -1,0 +1,25 @@
+---
+date: '1870-12-12'
+display-date: Decr 12th 1870
+from-address: Elderfield, Otterbourne, Winchester
+manuscript-location: MS  Reading University Library, uncatalogued Bell MSS/2
+original-date: '2011-06-02 12:22:00'
+title: To Bell and Daldy
+wordpress-id: 2395
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[Gentlemen](../others.html#135)
+Are you disposed to undertake the publication of four historical tales by [Madame Guizot de Witt](../persons.html#423), translated from MSS which have never yet appeared in France or England?[^1]
+The subjects are the Countess of Montfort’s defence of Brittany, the childhood of Blaise Pascal and his sister, and some scenes from Madame de Sevigné’s life, and to these I could add Francis Xavier in Japan, translated by myself, but which has appeared in the [Monthly Packet](../others.html#52) My name may be used as editor and I am very anxious for the publication as Mme de Witt wants means of assisting the sufferers in France
+yours faithfully
+
+C M Yonge
+
+[^1]: The book was eventually published by Warne as Henriette Guizot de Witt, [Dames of High Estate](../books.html#100), the translations edited by Charlotte M.
+
+Yonge (1871).
+

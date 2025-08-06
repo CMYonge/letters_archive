@@ -1,0 +1,24 @@
+---
+date: '1870-01-29'
+display-date: Jany 29th [1870]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Mrs Katherine Wykes-Sneyd '
+original-date: '2011-02-02 14:06:09'
+title: 'To Mary Penelope Fursdon '
+wordpress-id: 2371
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[To [Mary Penelope Fursdon](../persons.html#539)]
+[Gosling](../others.html#104) questions for February
+Write the history of Henry VIII's expedition to France.
+
+What parallel stories does folklore in different countries present to the adventures of Ulysses in the Odyssey?
+
+Mother Goose
+
+[^1]: Black-edged paper, with black-edged blue envelope addressed to Miss Mary Fursdon/ Fursdon/ Tiverton postmarked Winchester 29 Jan and Tiverton 30 Jan 1870.
+

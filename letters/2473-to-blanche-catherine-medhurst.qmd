@@ -1,0 +1,25 @@
+---
+date: '1873-05-09'
+display-date: May 9th 1873
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
+original-date: '2011-07-11 10:53:55'
+title: To Blanche Catherine Medhurst
+wordpress-id: 2473
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Medhurst](../persons.html#988)
+I did hope to have put in this sonnet of yours in time for Ascension day, but I could not manage it, so I can only send you the proof and thank you for your kindness to [Emmeline Spratt](../persons.html#1358), who after her visit to you wrote the happiest letter she had written at all since leaving home[^1]
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: In fact the sonnet waited a year to be published in MP (May 1874).
+
+Blanche Medhurst\'s social work had brought her in touch with Emmeline, the niece of CMY\'s maid Harriet Spratt.
+

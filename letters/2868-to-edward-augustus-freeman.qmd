@@ -1,0 +1,30 @@
+---
+date: '1887-10-29'
+display-date: Oct 29th 1887
+from-address: Elderfield Otterbourne Winchester
+manuscript-location: MS John Rylands Library, Manchester, FA1/7/838
+original-date: '2011-10-03 12:53:31'
+title: To Edward Augustus Freeman
+wordpress-id: 2868
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Dr Freeman](../persons.html#523),
+How very kind in you, and as you say what a pity I did not know of it in time The history of the thing is this [one of the sons](../persons.html#653) of my very old friend, Sir [William Heathcote](../persons.html#669) is in [Allens firm](../others.html#256) - He asked me to write one of their eminent women series and as I know Roberts’s history as one knows the Sunday books of one’s youth, I took [H More](../books.html#199), helped out by her works and the Mendip annals of Patty’s journals - and got what help I could from [Tyntesfield](../others.html#207), the ‘Bleeding Rock’ is in the grounds there, and Nailsea in sight from the windows.[^1] I found Roberts had arranged the letters wrongly, by comparison with Patty’s journal- Wilberforce’s life and public events -Now the book has been in the printers’ hands about six months. I have only had one sheet in proof for they only print these books when they have nothing else to do - And there is [a sharp Editor](../persons.html#743), who evidently did not like the touches of improvement I put in.[^1] So I am afraid that besides 'mon liège est ecrit ['] I could not even alter or add much.
+
+But I promised to write for the [National society](../others.html#32) which is dealing in a superior kind of tales for reward books, [a story](../books.html#203) taking Hannah’s work from the scholar’s point of view, making a hero of some youth interfering with the fighting & throwing constables down coal pits-[^2]
+I should be very glad to pick up some information and scenery useful in that line, but I can’t begin till next year, and if I can avail myself of your help in that way, I shall be very grateful. I was at Oxford in April, but I do not think you were there then- Was Somerleaze one of Hannah’s villages?
+
+Or did they pelt her out
+Yours very sincerely
+
+C M Yonge
+My kind regards to all your party
+
+[^1]: The tone of CMY\'s next letter to [John Henry Ingram](../persons.html#743), editor of the \'Eminent Women\' series, is uncharacteristically sharp.
+
+[^2]: The books by CMY referred to here as inspired by the story of Hannah More are respectively [Hannah More](../books.html#199) (1888) and [The Cunning Woman\'s Grandson](../books.html#203) (1889).
+

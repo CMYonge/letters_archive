@@ -1,0 +1,26 @@
+---
+date: '1867-03-13'
+display-date: March 13th 1867
+from-address: Elderfield, Otterbourne, Winchester
+manuscript-location: MS John Rylands Library, Manchester, FA1/7/831
+original-date: '2011-10-12 14:00:44'
+title: To Edward Augustus Freeman
+wordpress-id: 2151
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[Sir](../persons.html#523),
+I am afraid you will think your kind mention of the [Little Duke](../books.html#20) in your history of the Norman Conquest[^1] has brought on you an infliction -
+
+But I cannot resist the desire to send you my later story the [Prince and the Page](../books.html#61) because in it I have tried as far as the scope of the story would allow, to do justice to the character of Simon de Montfort and Edward I. I am aware that there is a very serious blunder owing to my having supposed that a Knight Hospitalier was necessarily also a priest, and I am also told that I was led astray by the temptation of interweaving the story of the Beggar of Bethnal Green; but on the whole I think it tends to bring out the character of that great hero whose fame you have been so thoroughly defending.
+
+And I cannot refuse myself the pleasure of thanking you for the clue you have given to that chaos of history before the Conquest
+
+Yours faithfully
+C. M.Yonge
+
+[^1]: Freeman had written in his History of the Norman conquest I, 233:\'I cannot help also mentioning Miss Yonge\'s tale of the ;Little Duke,\' where the whole legend is very pleasantly told, though with too great a leaning to the Norman side.\'
+

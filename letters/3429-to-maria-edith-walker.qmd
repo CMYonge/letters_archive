@@ -1,0 +1,46 @@
+---
+date: '1899-09-26'
+display-date: Sept 26th 1899
+from-address: Elderfield Otterbourne
+manuscript-location: MS  West Sussex County Record Office/ Add. 16,944/4
+original-date: '2011-10-14 19:42:31'
+title: To  Maria Edith Walker
+wordpress-id: 3429
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Miss Walker](../persons.html#2234)
+I was much interested in your letter, though I am afraid I had not heard [Miss Lawrence](../persons.html#2199)’s name. I believe my [mother ](../persons.html#1606)left school at 14 in consequence of her[ father](../persons.html#106)’s very sudden death, so her career there must have been a short one. I have always thought it must have been a very good school, her knowledge was so thorough, and she taught me almost entirely except a French master and arithmetic, mathematics and Latin from my [father](../persons.html#1631).
+
+What you tell me of my dear early friend [Mary Davys](../persons.html#1201) is most interesting, and just like her.
+
+She had not rank enough to be a Maid of honour, though she lived with them and her right designation was Resident Bedchamber Woman.
+
+Her chief work was to receive the Ministers while they were waiting for the [Queen](../persons.html#1694).
+
+She made us one long visit in her holidays, and once we went to see her in Buckingham palace.
+
+She married [Mr Pratt](../persons.html#1200), but I only saw her once afterwards, I always heard of him as very excellent but also that the old clergyman in ‘Miss Toosey was a likeness.
+
+They had four daughters, two of whom poor things were burnt to death from muslin dresses taking fire from bedcandles.[^1] I saw much more latterly of [Julia](../persons.html#57), whose [husband](../persons.html#58) became Dean of Peterborough.
+
+She only died last year.
+
+Her daughter’s husband Mr Rawnsley had the Duke of Albany and the Battenburg boys at his school in the New Forest.[^2] I do wonder that I should not have heard of Miss Lawrence, but I think the languor always consequent of being in London must have hung upon the recollection of schoolfellows
+Petty scandal and ‘Airs and Graces’ always seem to me wondrously clever I wonder if the Black Lane still exists[^3]
+
+yours sincerely
+
+C M Yonge
+
+[^1]: The four daughters were [Florence Maria](../persons.html#1203), [Fanny Mary Harriet](../persons.html#1202), [Ethel Julia](../persons.html#1204) and [Mary Josephine Pratt](../persons.html#1205).
+
+[^2]: Alice Julia Argles (b.1848/9) married (1880) [Willingham Franklin Rawnsley](../persons.html#1225), who ran a school at Lyndhurst.
+
+His pupils would be Queen Victoria’s grandsons: Prince [Leopold](../persons.html#868) (1884–1954), second Duke of Albany and Duke of Saxe-Coburg and Gotha; and the sons of Princess Beatrice, Prince [Alexander](../persons.html#122) (1886-1960), Prince [Leopold Henry](../persons.html#123) (1889–1922) and Prince [Maurice](../persons.html#124) (1891-1914) of Battenberg.
+
+[^3]: These stories were published in Maria Edgeworth, Rosamond: A Sequel to Early Lessons (London: Hunter and Baldwin 1821).
+

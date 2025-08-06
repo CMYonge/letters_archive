@@ -1,0 +1,29 @@
+---
+date: '1865-01-21'
+display-date: Jany 21st [1865]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Dr Susan Walton
+original-date: '2010-05-20 10:23:01'
+title: To Margaret Sophia Brandt or one of her sisters
+wordpress-id: 8014
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Madam](../persons.html#1898)
+I am much obliged for the very interesting account of the terrible cyclone.
+
+Don’t you think one might have the official account of your [brother](../persons.html#1896)’s conduct with the 'butter' – it would surely not be a breach of confidence.[^1] I shall be very glad to put the whole in as soon as I can.
+
+Yours very truly
+
+C M Yonge
+
+[^1]: The article on the cyclone at Masulipatam is described in letters from the assistant collector there, Francis Brandt.
+
+This letter is evidently to one of his three sisters, and has arbitrarily been assigned to the eldest, though it may equally have been addressed to [Emily Charlotte Brandt](../persons.html#1897) or [Margaret Adelaide Brandt](../persons.html#1899) (it seems odd but he did have two sisters whose first name was Margaret).
+
+The \'butter\' was the official commendation of Brandt\'s conduct.
+

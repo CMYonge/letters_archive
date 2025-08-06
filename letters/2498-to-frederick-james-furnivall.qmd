@@ -1,0 +1,24 @@
+---
+date: '1874-04-23'
+display-date: 'April 23rd 1874 '
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Girton College Cambridge, Yonge XV 1
+original-date: '2011-07-12 10:03:48'
+title: To Frederick James Furnivall
+wordpress-id: 2498
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Furnivall](../persons.html#531)
+I am afraid I cannot now read the books mentioned, as they have drifted out of my reach and I have much less time than I had in the old times when it was undertaken[^1]
+
+Yours truly
+C.M.
+
+Yonge
+
+[^1]: CMY and her mother had been recruited by Furnivall among the readers collecting quotations for the [project](../others.html#151) which was to become the New English Dictionary.
+

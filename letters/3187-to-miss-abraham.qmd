@@ -1,0 +1,22 @@
+---
+date: '1892-01-13'
+display-date: Jan. 13th 1892
+from-address: Elderfield
+manuscript-location: MS Harry Ransom Humanities Resource Center, University of Texas
+  at Austin
+original-date: '2010-07-07 14:36:02'
+title: To Miss Abraham
+wordpress-id: 3187
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Abraham](../persons.html#2108)
+Another despairing search for a [discard?], not your papers, but the letter that went with one, and I think the more that the post must have lost the M.S. I see it was at a time when I was turned out of my usual sitting room by a new carpet, and I think the pamphlet may have gone among the accumulation that grows upon one
+It is very unlucky
+
+Yours truly
+
+C M Yonge

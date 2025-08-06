@@ -1,0 +1,31 @@
+---
+date: '1880-12-13'
+display-date: Decr 13th [late 1880s?]
+from-address: ''
+manuscript-location: MS Charlotte Mitchell/22
+original-date: '2011-10-10 10:46:24'
+title: To an Unknown Woman
+wordpress-id: 2930
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam
+Lady Hunter’s letters are very amusing, and I am much obliged for them, but this kind of article does not well suit with a serial, and I must therefore return them[^1]
+
+yours truly
+
+C M Yonge
+
+[^1]: Probably CMY had been offered for [MP](../others.html#52) the letters published in The Journal of General Sir Martin Hunter and some letters of his wife Lady Hunter put together by their daughter Miss A.
+
+Hunter and Miss Bell (1894).
+
+Sir Martin Hunter (1757–1846), served during the American War of Independence and in Canada and India; he married (1797) Jean Dickson (d.1845) and had a large family.
+
+See D. M.
+
+Young, ‘Hunter, Sir Martin’ in Dictionary of Canadian Biography Online at www.biographi.ca
+

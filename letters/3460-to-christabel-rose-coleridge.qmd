@@ -1,0 +1,36 @@
+---
+date: '1900-06-06'
+display-date: June 6th [1900]
+from-address: Elderfield
+manuscript-location: MS Mrs Clare Roels/97
+original-date: '2010-10-20 11:53:24'
+title: To Christabel Rose Coleridge
+wordpress-id: 3460
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [C C](../persons.html#329)
+I am glad of the 26th but I thought [GFS](../others.html#23) stuck to the 24th & 29th.
+
+However it is all the better for me and the roses will be in their glory.
+
+The snow balls and may will be gone but no doubt you have them where you are. I wonder if [Fanny Patteson](../persons.html#1151) will turn up any time. I throught she had, when [Edith](../persons.html#2231) announced Miss Patteson but it turned out a mere lion hunter who must have been amazed at my effusive greeting .
+[Helen](../persons.html#1613)’s cat turned on her 6 weeks old kitten, killed it and mangled it – then on another kit, not her own, which was saved- As a woman here said about a cow ‘If she had been one of us, she would be in a lunatic asylum’ instead of which she was destroyed.
+
+She had never been right since the kitten was born
+I am winding up my [Missionary](../books.html#250).
+
+Unluckily I sent him to the place where all these dreadful things are happening 3 clergymen killed and no one knows how many Chinese Christians-[^1]
+your affectionate
+
+C M Yonge
+
+[^1]: In the preface to The Making of a Missionary CMY refers to the murders during the Boxer Rising of the Revv.
+
+Brooks, Robinson and Norman.
+
+The last two died near Peking. on 1 June 1900.
+

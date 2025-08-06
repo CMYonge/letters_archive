@@ -1,0 +1,29 @@
+---
+date: '1868-03-08'
+display-date: March 8 1868
+from-address: ''
+manuscript-location: 'Copy outletter book British Library Add MSS.55388 (1): P. 90 '
+original-date: '2010-06-15 11:14:41'
+title: Alexander Macmillan to Charlotte Mary Yonge
+wordpress-id: 2237
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Miss Yonge,
+We sent the 11 copies to make your dozen by rail the same day that the single copy was sent you by post Feb:27.[ I](../persons.html#939) have seen in the parcels book the signature of the clerk at the Golden Cross booking office. I have sent down to enquire about it.
+
+Perhaps you could enquire at your end.
+
+The address was quite clear Elderfield Otterbourne Winchester I am sending you a copy of the gilt-edged cover by the post.[^1]
+Yours very truly
+A.
+
+Macmillan
+
+[^1]: This refers to [The Pupils of St.
+
+John the Divine](../books.html#72), which was published in one volume, as the first in the [Sunday Library](../others.html#145), and advertised as cloth 4s., gilt edges 4s. 6d..
+

@@ -1,0 +1,25 @@
+---
+date: '1863-11-04'
+display-date: 'Nov: 4. 1863.'
+from-address: ''
+manuscript-location: Copy outletter book British Library Add MSS.55381 (2) P. 618
+original-date: '2010-05-19 09:56:15'
+title: Alexander Macmillan to Charlotte Mary Yonge
+wordpress-id: 1912
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam,		
+I have sent a good many times to the [publisher](../persons.html#1065) of the [Monthly Packet](../others.html#52) but he says some of the numbers are out of print, and he hoped to be able to let us have the volume, but still we cannot get it.
+
+Can you kindly let us have your own copy?
+
+I am, dear Madam,
+Yours respectfully
+A.
+
+Macmillan
+Miss Yonge Elderfield Otterbourne Winchester

@@ -1,0 +1,31 @@
+---
+date: '1890-06-06'
+display-date: June 6th 1890
+from-address: Elderfield
+manuscript-location: MS Girton College Cambridge, Yonge IV 21
+original-date: '2010-06-29 13:59:20'
+title: To Arthur Donald Innes
+wordpress-id: 3158
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Innes](../persons.html#744),
+[Miss Gaye](../persons.html#552) wants to have her M S back that she may know what to do with it.
+I believe you know [Miss Cheape](../persons.html#289)’s address, if she is not at St Andrews, would you get a proof of Christian sent to her - I sent up two chapters, but I think I can only put one in.
+[Miss Tanner](../persons.html#1395). I think you had better send to the care of
+[Mrs Sidney Lear](../persons.html#859)
+the Close Salisbury
+I do not know who wrote Tokens -
+I suppose I told you that the Grey Woman, in the Christmas number is by Miss Benson the [Archbishop](../persons.html#140)’s daughter[^1]
+
+Yours truly
+
+C M Yonge
+
+[^1]: ‘The Grey Woman’ is a harrowing tale signed ‘A.E.D.’, which appeared in the MP Christmas number (1889).
+
+Two letters in the Bodleian Library to [Margaret Benson](../persons.html#1858) suggest she was a contributor, though neither seems to refer to this story directly.
+

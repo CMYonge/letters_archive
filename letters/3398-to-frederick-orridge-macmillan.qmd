@@ -1,0 +1,27 @@
+---
+date: '1899-03-01'
+display-date: March 1st 1899
+from-address: 'Elderfield Otterbourne '
+manuscript-location: 'MS British Library  Add MSS 54921: 251-2'
+original-date: '2010-03-04 15:11:04'
+title: To Frederick Orridge Macmillan?
+wordpress-id: 3398
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#942)
+I believe I wrote before and asked whether you thought it worth while to revive two or three books of mine that have gone out of print. I have been asked about them again, which leads me to write. ‘[The Two Guardians](../books.html#13)’ and ‘[Henrietta’s Wish’](../books.html#11) were published by [Masters](../others.html#112) and went through three editions at least, then I heard no more of them and his business has been given up.
+
+The copyright is mine.
+
+They are both ‘stories for young people’ and were a good deal liked and honestly I think there is good work in them.
+[Kenneth or the Rear Guard of the Grand Army](../books.html#10) was published by [Parker of Oxford](../persons.html#1142). I believe he has let it drop, but there must be some merit in it since Mr E Arnold wrote to ask permission to make extracts in a Reading book
+I thank you much for the beautiful series on Natural History.
+
+The birds delight me much
+Yours very truly
+
+C M Yonge

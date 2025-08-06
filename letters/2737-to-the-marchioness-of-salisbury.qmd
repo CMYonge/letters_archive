@@ -1,0 +1,26 @@
+---
+date: '1881-11-09'
+display-date: Novr 9th 1881
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: MS The Marquess of Salisbury, Hatfield House 3MCH/5/3/1
+original-date: '2011-09-16 11:02:54'
+title: To the Marchioness of Salisbury
+wordpress-id: 2737
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Lady Salisbury](../persons.html#548),
+It is very kind in you to ask me, but I have again to say that it is a time when I am engaged. I hope have [sic] [Fanny Patteson](../persons.html#1151) with me that week, for a little while in her wanderings. I am afraid the life that those two sisters lead has become very sad.[^1]
+with many thanks and regrets
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Fanny Patteson and her half-sister [Joan](../persons.html#1154) were the surviving sisters of the martyred Bishop Patteson.
+
+Whether CMY is merely deploring the habit of constant travel, as aimless and precluding usefulness, or whether there was some other cause for regret in the Pattesons\' lifestyle, is not clear.
+

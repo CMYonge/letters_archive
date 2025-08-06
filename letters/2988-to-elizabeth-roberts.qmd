@@ -1,0 +1,24 @@
+---
+date: '1852-05-13'
+display-date: May 13th [1852]
+from-address: Otterbourn
+manuscript-location: 'MS Huntington Library: Yonge Letters'
+original-date: '2010-03-19 15:17:27'
+title: To Elizabeth Roberts
+wordpress-id: 2988
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Madam](../persons.html#1243),
+I send the proof of your very pretty June [garland](../others.html#225). I am sorry that by some mistake of mine, May 25th was omitted in its right month. I suppose it was from its following Whitsunday.
+
+Do not you think that as Trinity Sunday is a moveable feast, it might be better to give that title instead of June 6th to the paper on the Hearts Ease? I suppose that the Dianthus Deltoides ought properly to be considered as a garden flower, but it is said by [Withering](../others.html#185) to grow wild in Scotland, and he gives its English name as Maiden Pink.
+
+Should you object to alter the expression that St Norbert was converted? I think that it is better to use that form of speech only for conversions from heathenism.
+
+Yours sincerely
+
+C M Yonge

@@ -1,0 +1,26 @@
+---
+date: '1864-01-12'
+display-date: Jan 12th [1864]
+from-address: Elderfield
+manuscript-location: ' MS Society of Antiquaries 444/17/144'
+original-date: '2011-10-12 14:19:09'
+title: To Florence Wilford
+wordpress-id: 1925
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Florence](../persons.html#1520),
+Many thanks to you and your friend for your kindness about the pantomime. I am sorry however to say that I do not think it will quite do. I suppose it is the sort of thing to be done not so much by a regular narrative of the scenes as by some clever sketch such as perhaps takes an older hand. I hope it will not be a disappointment, but I think from your letter you have prepared her for it. I am glad you like some of the [Events of the Month](../others.html#69), I think it will improve by practice.
+
+You have not told me the fate of Christina with the [Churchman](../others.html#62), I greatly think that serial is improving under the new [Master](../persons.html#1328) - there is a very good story beginning.[^2] I am so glad your foot is better - I have some friends staying here and not much time so I must finish
+
+yours sincerely
+C Yonge
+
+[^1]: Black-edged paper.
+
+[^2]: Felicia Skene had recently taken over as editor of the Churchman\'s Companion. A story called \'Christina\' appears in Wilford\'s A Vantage Ground and Other Stories Reprinted from the Monthly Packet and the Churchman\'s Companion (London: Masters 1879).
+

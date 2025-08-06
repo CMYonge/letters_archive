@@ -1,0 +1,56 @@
+---
+date: '1877-11-12'
+display-date: '12 November 1877 '
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: 'MS Lady Margaret Hall, Oxford. '
+original-date: '2011-08-05 10:21:42'
+title: 'To Elizabeth Wordsworth '
+wordpress-id: 2607
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear[ Elizabeth](../persons.html#1566)
+[Gertrude](../persons.html#1462) has just been observing to me ‘You seem to have fallen in love with that story as you did with Miss Wordsworth’ which I suppose expresses a good deal of the way I have gone about in it.[^1] I do think it is a very fine and beautiful story, and I am not sure that there is not more substance in it than in anything the [M P](../others.html#52) has had, and it is so original and unexpected.
+
+Frank and Pauline both are excellent, I never thought Pauline would have had so much more in her than Eva.
+
+Gerance in his badness is very clever especially the two black birds.
+
+He is so entertaining that one rather regrets his unforgiveness But all about Frank is beautiful.
+
+The only criticism I have to make is about that sling, I think Mildreds having to tie its knot is a little bit sentimental, and besides I believe he would have had one of those solid leather things with strings. I used to be devoted to slings in stories till I revelled in them with Dr May.[^2]
+Would Lewis have offered a picture that had been once rejected?
+
+Could you not give him another to be rejected?
+
+The other thing is about Emma Barker, and that is more for the Packets sake than that of the story - I think it should earlier be made clear that she was quite respectable for where Mildred says she could not tell her young ladies her history one comes to Lady Allwell’s conclusion and I rather feel that the Andromeda is rather too hurried a notice of exposure &c to connect with her One thinks of Andromeda as less than lightly clothed – and though I know you don’t mean it, one can’t get it out of ones head that she was like pictures one has seen.
+
+Could not you take something less exposed, but with classical dress that would be trying enough for an English girl – such as Iphigenia (who would be in a uncomfortable posture, unless she curled herself up like Isaac in Marot’s Bible) Helen telling Priam the names of the Greeks would more agree with his view of woman, but she would be too comfortable.
+
+Only, Andromeda coming down to marry a little school master does seem specially incongruous, and it might be well not to make the Gerance scene too appalling to the mothers who pull me up sometimes.
+
+But the question about the M P.
+
+It would feel greatly honoured by it, but I am afraid it would have to wait a whole year before room would be possible, as a story of [Christabel Coleridge](../persons.html#329)s begins in January & lasts a year, and neither of the other two will end speedily.
+
+Then this will take three years.
+
+Will this be too long for you to wait to have it finished and able to be published separately.
+
+What do you think?
+
+Yours affectionately
+
+C M Yonge
+
+[^1]: Black-edged paper.
+
+[^2]: There is a pencil note on the MS that these references are to characters in Ebb and Flow (1883), a novel published by Wordsworth under the name Grant Lloyd.
+
+When it came out CMY expressed her enthusiasm in \'A Conversation on Books\' MP (August 1883) 188-191.
+
+Dr May is injured in a carriage accident in CMY\'s [The Daisy Chain](../books.html#24).
+

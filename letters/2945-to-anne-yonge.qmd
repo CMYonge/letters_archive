@@ -1,0 +1,68 @@
+---
+date: '1844-10-21'
+display-date: Oct 21st 1844[[footnote:1]]
+from-address: Otterbourn
+manuscript-location: 'MS West Devon Record Office Acc No 308: 21/10/44.'
+original-date: '2010-03-16 12:52:26'
+title: To Anne Yonge
+wordpress-id: 2945
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Anne](../persons.html#1582)
+Thanks for your letter, and [Mamm](../persons.html#1606)a’s thanks for [Mary](../persons.html#1626)’s. I am very glad indeed that you like [Amy Herbert](../others.html#145) though I was sure you would enjoy it, [her brother](../persons.html#1304) comes here today and I am sure he will be glad to hear of its being such an amusement to [aunt Yonge](../persons.html#1580).[^2] I am curious to know what you say about certain things I have heard objected to Some people especially Mamma say that it is not natural for Amy to be envious of her cousins, but I do not think so, for she must have wished not to be neglected by other people.
+
+Then[ Papa](../persons.html#1631) liked the first volume very much, but did not think the young ladies ought to have been so very rude, that it was natural I mean for Dora and Miss Cunningham to be so very ill bred in that first visit, and he did not much like the end, little Rose’s death is very well done, but he laughs at her dying of so slight an accident. I think that it is too evidently modelled upon the [Fairy bower](../others.html#240)[^3] especially the end of it, and there are not wanting those who say that Mrs Herbert proses too much. I cannot say I think she does, but I think the faults of the book are old Stephen who is a great failure, Colonel Herbert’s not being more of a man, saying I mean just what his wife might have said, and the story travelling along rather lazily in the first volume, it wants what [Mr Keble](../persons.html#798) calls condensing in order to be better remembered, and I do not think you can say there is much cordiality and affection between Dora and Margaret even after they mend. I admire especially the way in which Amy influences her cousins, not at all by making speeches, and she does not do at all too much when Rose was dying, and she is very charming altogether, not knowing or understanding at all too much to be natural. I like her frights and puzzles exceedingly.
+
+Dora’s character is excellent, and Margaret’s not overdrawn I like particularly that scene in the Chapel with Margaret and Miss Cunningham in the first volume.
+
+Of course I know it is of no use to argue as if I thought it would have the effect of making you like [Abbeychurch](../books.html#2), so I only want to confine myself to knowing what the actual faults are, and I comfort myself now with Mamma’s saying that you are very likely to see my meaning better if you read it over some two or three years hence. [Mary Coleridge](../persons.html#351) tells me she sees that it is to be reviewed in the next [Christian Remembrancer](../others.html#59)[^4] and she adds hopes that criticism will not throw me into a consumption as it is said to have done to Keats, I must say I am rather anxious about it.
+
+Did you read [Mr Newman](../persons.html#1084)’s sermon upon St.
+
+Luke’s day, the danger of accomplishments, it is a great delight of mine, and I like to tell you which of them we are reading and thinking about, it seems more like talking them over together.
+I must take more time to think and consider on the other argumentative subject, of course I do not mean that mocking every one is right by any means, but I only say that certain little absurdities which dont affect the character are subjects for innocent fun.
+
+Does[ Delia Garstin](../persons.html#546)[^5] ever write to Puslinch, she never does to us. [Mr Wither](../persons.html#1544) knows[ Mr Flint](../persons.html#515) and he has asked him to make him a visit as soon as his house is done, he likes him very much. I can tell you of one present they will have twenty pounds from [Mr Dixon](../persons.html#438), it is what he always gives all his acquaintance who marry, and he is not far from Stanstead.
+
+Our new cook has spoilt two batches of bread she knows nothing and wont be told, and thereby departs forthwith, we have hopes of another and the shepherd’s dog has fallen in love, so our house is in a changing state Mr Wither is to come & stay here next Thursday till Monday, when he goes to his brother while his house is finishing.
+
+The whooping cough has thinned the school considerably just now, [Martha](../persons.html#966)’s baby has been very ill with it but is better.
+
+Hursley Park is being deserted, [Sir William](../persons.html#669) and his [Lady](../persons.html#665) go to London to bring back another baby, [Caroline](../persons.html#367) is in Ireland, [W Heathcote](../persons.html#668) with a tutor, [Mrs H](../persons.html#658) at Heckfield, [Miss Bigg](../persons.html#148) somewhere else (they go tomorrow) and no one will be left but little [Fanny](../persons.html#666) and [Charlie](../persons.html#670).[^6] I am very glad [Alethea](../persons.html#27) is going to Ottery. I am sure she will delight in it.
+
+The Kebles are just come back from there.
+
+Write soon again
+your very affectionate
+CMY
+
+[^1]: The year date on this and subsequent 1844 letters to Anne Yonge appears to be in another hand.
+
+[^2]: Amy Herbert By a Lady (1844).
+
+This pioneering Tractarian novel was to have a large influence on CMY.
+
+The author, Elizabeth Missing Sewell (1815-1906), had several brothers, but the one most likely to be referred to here is the Rev.
+
+James Edwards Sewell (1810-1903), who was a friend of the curate of Otterbourne, the Rev.
+
+William Bigg Wither.
+
+[^3]: The Fairy Bower (1841), a story by Harriett (Newman) Mozley (1803-1852), sister of John Henry Newman.
+
+[^4]: In fact the article did not appear until October 1845.
+
+Mary Frances Keble Coleridge (1824-1898), daughter of Sir John Taylor Coleridge, was one of CMY’s closest friends.
+
+[^5]: The Garstins were relations.
+
+The first wife of CMY\'s grandfather, the mother of her half-aunt Alethea (Bargus) Yonge, had been Cordelia Ann Garstin (1751-1791).
+
+The Delia Garstin referred to here was probably the latter’s great-niece Cordelia Garstin (1798/9-1867).
+
+[^6]: Sir William Heathcote; his second wife Selina Shirley (1814/5-1901); the baby their second son Evelyn Dawsonne Heathcote (11 November 1844-1908); two children of his first marriage, Caroline Elizabeth Heathcote (1833-1910), later Cooke-Trench, and William Perceval Heathcote (1826-1903); Sir William’s mother Elizabeth (Bigg) Heathcote (1773-1855); her sister Alethea Bigg (1777-1847), the friend of Jane Austen; and two small children of his second marriage, Selina Frances Heathcote (1842- after 1906) and Charles George Heathcote (1843-1924).
+

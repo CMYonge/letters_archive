@@ -1,0 +1,29 @@
+---
+date: '1864-07-30'
+display-date: July 30 1864
+from-address: ''
+manuscript-location: 'Copy outletter book British Library Add MSS. 55383 (1): P. 196    '
+original-date: '2010-05-22 07:25:45'
+title: Alexander Macmillan to Julian Bargus Yonge
+wordpress-id: 1967
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Sir](../persons.html#1624),
+Your paper on Bridge Bracing has not come to hand.[^1][ I](../persons.html#939) am rather hesitant whether [Mr Masson](../persons.html#980) has any article on American affairs for the September [number](../others.html#78).
+
+If he has not I will ask him to see whether yours wd suit him.
+
+You know he is the chief who has authority. [^2] I shall be very glad if it does.
+
+In the mean time I tell you that the paper has not reached me.
+
+Your letter seemed to imply that you had sent it.
+
+[^1]: This letter and certain requests from CMY to Macmillan (see letters dated 12 September 1864 and 14 July 1865) suggest that Julian Yonge was hoping for literary work.
+
+[^2]: Masson was editor of Macmillan’s Magazine.
+

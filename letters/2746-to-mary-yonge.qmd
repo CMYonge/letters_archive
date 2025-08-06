@@ -1,0 +1,28 @@
+---
+date: '1882-03-29'
+display-date: March 29th 1882
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: 'MS Plymouth and West Devon Record Office Acc No 308: 29-3-82'
+original-date: '2011-09-16 12:48:59'
+title: To Mary Yonge
+wordpress-id: 2746
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mary](../persons.html#1626)
+Here is the double birthday just over, which one never fails to recollect.[^1] To [Katharine](../persons.html#1365)’s question I say, but I do not know if it will approve itself to her that my best girls would answer that the New Covenant was the Baptismal One, and they would reply to the question What are the terms? with the two first answers in the Catechism. I suppose – as St Paul was writing to converted Gentiles- the birth under the New Covenant must be the New Birth of Baptism at least with them.
+
+The analogy would be more perfect with ourselves, as I suppose the Jews were born under the Old Covenant, but had to be individually admitted to it by Circumcision, and we being born under the Gospel have to be admitted to it by Baptism.
+
+It is very difficult, and I always think it anxious that so many Sunday Epistles should be about the temporary difficulty of Judaizing, but I suppose it was so overruled to be a protest against the ‘putting our trust in anything that we do’ I am taking the Gospels with the 1st class this year, so I did not go through that Epistle. I know two of my girls would readily answer this however.
+
+But it is always a small proportion that have brains enough to retain so much and put it together.
+
+If I can find them, I will send these two girls’ answers to questions in the [Otterbourne magazine](../others.html#85) last month, but I looked them over and marked them yesterday, and I am not sure that they are
+[The rest of the letter is missing]
+
+[^1]: The birthday of Mary\'s two dead sisters, Alethea (Yonge) Anderson Morshead (28 March 1815-1863) and Anne Yonge (28 March 1825-1869).
+

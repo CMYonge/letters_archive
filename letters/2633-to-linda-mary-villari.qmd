@@ -1,0 +1,24 @@
+---
+date: '1878-06-06'
+display-date: June 6th [1878]
+from-address: Elderfield Otterbourne Winchester
+manuscript-location: 'MS Bodleian Library, Oxford: Eng. lett. d. 495 f108'
+original-date: '2011-09-01 10:46:39'
+title: To Linda Mary Villari
+wordpress-id: 2633
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Madam](../persons.html#1444)
+I desired the proof of the first chapter of the Summer on the Apennines to be sent at once to you - If you are moving about perhaps the best way would be for you to send a card with your address early every months to the printers
+[Messrs Clay](../others.html#173)
+Bread Street Hill
+London EC
+Will you have the [payment](../others.html#102) every month or at the end of the half year, and how shall it be made
+
+Yours truly
+
+C M Yonge

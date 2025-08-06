@@ -1,0 +1,39 @@
+---
+date: '1872-01-17'
+display-date: Jany 17th 1872
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library: Coleridge Family Papers E: Add MSS 86206
+  Yonge JTC  '
+original-date: '2010-05-18 15:02:56'
+title: To Sir John Taylor Coleridge
+wordpress-id: 7783
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Sir John](../persons.html#344),
+I perfectly enter into all you say in your kind letter, and it is just what I have felt myself about the inadequateness that there must be in fully dealing with [such a matter](../books.html#102).[^1] I am quite resolved to use as much of the solid stone and as little of the native milk & water mortar as possible, and only to chip the stones as much as may be needed to make them fit together, using the language and as quotation – and this I hope may keep the portraits intact and manly. I found at Lichfield that the [bishop](../persons.html#1295) would attend to all, narrate, and look carefully over notes of his words,- but I do not think he could be got to write anything consecutive, and [Bishop Abraham](../persons.html#4) gave me some exceedingly valuable notes, and explained and talked them over most kindly, but they are all scrappy, and I see that they will put more of themselves into it if I carry them a skeleton and let them correct and comment on it. I hope [Sir William Martin](../persons.html#972) may send something more full, as well as the Oxford friends and whatever I get I will do my best to keep as entire as fitting it into the chronology may allow. I think I am only trying to do what I am told, and so that I may be helped in what I feel to be a sacred work, and very much beyond me.
+
+What I want to put into it is not my own words, but the mere literary facility of piecing, which is I suppose like a mason’s work.
+
+I do intend to be very slow, indeed nature necessitates it, for I write slowly, and can do nothing well without much re writing – nor should I like to let copying be done by other hands, so that the work must be a long process, and I have put it in hand, meaning to do a little every day that is tolerably uninterrupted.
+
+I suppose no one could occupy the ground without family authorization, but probably [Macmillan](../others.html#111) will announce that I am doing it.
+
+It is not quite the fact that I never saw dear Coley for we all staid at Feniton once in 1848 or 9 and after he was at Alfington he dined one evening at Deerpark when we were staying with the [Colborne](../persons.html#313)s.
+
+Of course this is not real knowledge and if there were anyone nearer and better acquainted who had time and facility of composition I should be thoroughly ready to put it into better hands, but it does not seem to me that there is, and all I can try is to do as I am told, and keep the thread that strings the jewels as much out of sight as possible.
+
+My love to [May](../persons.html#351), and I will write as soon as I have got through the arrears of work
+Your affectionate
+
+C M Yonge
+
+[written on top of first page] You do not know of a clergyman who would go abroad with Mr [William Gibbs](../persons.html#560)’s son [Martin](../persons.html#559) & read for Holy Orders with him. £200 a year & all expenses paid.
+
+Poor Martin cannot go on at Cambridge.
+
+[^1]: The letter is concerned with CMY\'s decision to write a biography of Sir John\'s nephew, the Rt.Rev. [John Coleridge Patteson](../persons.html#1155).
+

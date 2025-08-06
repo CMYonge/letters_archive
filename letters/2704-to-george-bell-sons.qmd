@@ -1,0 +1,27 @@
+---
+date: '1880-04-11'
+display-date: April 11th 1880
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Reading University Library 228/289
+original-date: '2011-09-14 09:55:21'
+title: To George Bell & Sons
+wordpress-id: 2704
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[Sir](../others.html#135)
+I enclose £1.1 for the use of the poem on the Fireside.[^1] I believe [Mr Ward](../others.html#236) thought he had enclosed your note, and forgot to do so, and therefore I could not but be mortified at the refusal
+
+yours truly
+
+C M Yonge
+
+[^1]: ‘Pictures in the Fire’ by Adelaide Procter (1825-1864), whose hugely popular poetry was published by Bell.
+
+The cheque for a guinea to G.
+
+Bell was debited on 16 April. CMY was including the poem in an anthology published by Ward: [Aunt Charlotte\'s Evenings at Home with the Poets](../books.html#143) (1881).
+

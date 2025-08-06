@@ -1,0 +1,29 @@
+---
+date: '1863-05-22'
+display-date: May 22nd [1863-7]
+from-address: Elderfield
+manuscript-location: 'MS UCLA: collection 100: box 95'
+original-date: '2010-06-26 09:02:01'
+title: "To Juliana Horatia Gatty\t\t\t\t\t"
+wordpress-id: 3560
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Aunt Judy](../persons.html#494),[^1]
+I am glad that you are not thinking of crossing today—for assuredly you would never cross, and I hope the winds and waves may have abated by this day week, when it will be very pleasant to meet you at Bishopstoke, and look forward to the whole of the next day.[^2] May it be a fine one!
+
+We will take you to Winchester any time you please on the 31st, and make the most of you in the mean time.
+
+You will let us know your train as the time approaches. I think you are on the wrong side of the Island, I like the back of it so much better.
+
+Yours very sincerely
+
+C M Yonge
+
+[^1]: It seems more likely that CMY would address Juliana Gatty as \'Aunt Judy\' before her marriage.
+
+[^2]: From the Isle of Wight.
+

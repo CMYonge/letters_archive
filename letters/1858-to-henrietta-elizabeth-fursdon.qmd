@@ -1,0 +1,26 @@
+---
+date: '1862-03-26'
+display-date: March 26th 1862
+from-address: Otterbourne, Winchester.
+manuscript-location: MS Mrs Katherine Wykes-Sneyd
+original-date: '2010-05-12 09:32:40'
+title: To Henrietta Elizabeth Fursdon
+wordpress-id: 1858
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Irene](../persons.html#538),
+Many thanks for this order.
+
+You had better send the stamps to me, and they will go into the great [Bell hoard](../others.html#103).
+[Glow Worm](../persons.html#534)’s Lorenzo is by far the most entertaining of the lot that came yesterday, but unluckily she made one sad mistake, for Catherine was the daughter of Alessandro, some generations further on, Lorenzo’s grandson, I think, and the monument was a grandson’s too commonly called Lorenzino. I am very sorry for but [for] these misfortunes I do think hers would have been the best.
+I am going to send a parcel shortly containing a copy of ‘[More Precious than Rubies](../books.html#43)’ for each of the Dawlish division of [Goslings](../others.html#104), and have been having a copy bound for each of the old brood, if they will accept them. I suppose if I send Ostrich’s in the same parcel, she can easily get at it from Dawlish.[^1]
+your affectionate
+Mother Goose
+I hope Glow Worm does not mind what I did to the M of Venice question
+
+[^1]: Ostrich was evidently another member of the Gosling Society, but has not been identified.
+

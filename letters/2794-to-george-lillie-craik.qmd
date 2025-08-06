@@ -1,0 +1,40 @@
+---
+date: '1884-07-12'
+display-date: 'July 12th [1884] '
+from-address: 'Elderfield '
+manuscript-location: 'MS British LibraryAdd MSS 54921: 130-1 '
+original-date: '2011-09-26 14:39:21'
+title: 'To George Lillie Craik '
+wordpress-id: 2794
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear[ Mr Craik](../persons.html#379)
+
+Thank you for your letter.
+
+[Clay](../others.html#173) has had the first eight chapters of ‘[the Two Sides of the Shield](../books.html#184)', which have come out, but Mr [Walter Smith](../persons.html#1344) means [Clowes](../others.html#245) for the future to print the [Packet](../others.html#52), so that he will not have the rest before hand.[^1] I suppose it will be about the size of [Ps and Qs](../books.html#95), but I have not quite wound it up yet. I don’t know whether it will afford good illustrations as it is - in spite of its name - a story of the present day, only meaning two different ways of seeing things.
+
+I think books get better received when they do not come in the press of the autumn and winter, so that I am not sorry [the Armourer’s Prentices](../books.html#171) are beforehand with it, and the interest about the City Companies is favourable to them.
+
+I have been wondering who was the Madame Neckar from whom those verses were translated.
+
+Mme de Staël’s mother and Mme Neckar de Saussure were both of such a different spirit.[^2]
+
+I see that ‘the Author of Beltraffio’ is a study, and that much of the accusation of the wife rests on the authority of the Sister-in-law and that it stands as a picture of the possibilities of life.
+
+Still I am sorry that Religion should be shewn as if it produced such effects- more especially as from letters I have had about the Prentices, I am sure the magazine must circulate a good deal among the half educated who are apt to take up exactly the view one does not wish
+
+Yours truly
+
+C M Yonge
+
+[^1]: Smith, the publisher of the Monthly Packet was moving printers. CMY\'s novel The Two Sides of the Shield, which was being serialized there, was going to be published by Macmillan in volume form.
+
+[^2]: CMY had written to Craik to complain about two items which had appeared in the English Illustrated Magazine alongside her The Armourer\'s \'Prentices: Henry James\'s story \'The Author of \"Beltraffio\"\' and a poem translated by George du Maurier, ‘Der Tod als Freund: A Poem (from the French of Madame Necker)’ both referred to in the previous letter to Craik (10 July 1884).
+
+Suzanne (Curchod) Necker (1739-1794) was the mother of Madame de Staël; Albertine Adrienne (de Saussure) Necker (1766-1841), the educational writer much admired by CMY, was married to a cousin of Madame de Staël.
+

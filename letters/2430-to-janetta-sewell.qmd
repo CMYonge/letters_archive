@@ -1,0 +1,41 @@
+---
+date: '1871-01-01'
+display-date: '[1871?]'
+from-address: Elderfield,  Otterbourne, Winchester.
+manuscript-location: 'MS fragment UCLA: collection 100: box 95'
+original-date: '2011-06-14 09:26:54'
+title: To Janetta Sewell
+wordpress-id: 2430
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Sewell](../persons.html#1305)[^2]
+
+I have been from home or I would have answered sooner. I send you a pound for the poor woman—which I hope may help her on a little while.
+
+Pray thank [the Warden](../persons.html#1304) greatly for his very kind messages through [Mr Wither](../persons.html#1544).
+
+If my friend [Miss Peard](../persons.html#1160)[^3] can come, I am sure you will like her.
+
+She is an excellent singer among other perfections, and full of life and brightness. I think you will like her book One Year.
+
+Her home is Torquay, I believe the family is Cornish and the [Garibaldi man](../persons.html#1159) is her uncle. [^4] Did you ever try how many words can be made out of the letters of Triangle? and do you know the
+
+[part of letter missing]
+
+I am hoping soon to see [your sister](../persons.html#1301)
+Yours very sincerely
+
+C M Yonge
+
+[^1]: Black-edged paper.
+
+[^2]: Name partly erased.
+
+[^3]: Name partly erased.
+
+[^4]: John Whitehead Peard (1811-1880), known as \'Garibaldi\'s Englishman\', who had fought with Garibaldi in Italy, was Peard’s uncle and lived in Cornwall.
+

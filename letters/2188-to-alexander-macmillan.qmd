@@ -1,0 +1,25 @@
+---
+date: '1867-07-12'
+display-date: July 12th [1867]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54920: 185'
+original-date: '2010-06-10 15:49:56'
+title: "To Alexander Macmillan\t\t"
+wordpress-id: 2188
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939),
+[Miss Sewell](../persons.html#1301) tells me you are going to America.
+
+Should you go to Philadelphia, and if so would it be very troublesome to take charge of a roll of paper containing an illumination that cannot be trusted by post?[^1]
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Macmillan agreed to take the parcel to CMY’s correspondent [Miss Lewis](../persons.html#873), of 710 Pine St., Philadelphia.
+

@@ -1,0 +1,28 @@
+---
+date: '1877-08-15'
+display-date: 'Aug 15th 1877 '
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: 'MS British Library Add MSS 54921: 30  '
+original-date: '2011-08-04 15:58:29'
+title: 'To Alexander Macmillan '
+wordpress-id: 2594
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939)
+Thank you for the proof of the [Primer](../books.html#353), I hope to send it with additions in another week or so, as soon as I have finished what I have to do for [Mr Freeman](../persons.html#523)[^1]
+I am glad you told me about the printer I wish printers would always mark their proofs visibly
+
+Yours truly
+
+C M Yonge
+
+[^1]: CMY was simultaneously working on two books for Macmillan called History of France, one in the Historical Primers series edited by J. R.
+
+Green, and [another](../books.html#99) in the Historical Course for Schools series edited by E. A.
+
+Freeman, who was extremely critical of her work and demanded extensive revisions.
+

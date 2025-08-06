@@ -1,0 +1,23 @@
+---
+date: '1869-06-17'
+display-date: June 17th [1869?]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS New York Public Library: Berg Collection '
+original-date: '2011-02-02 11:33:03'
+title: To Jean Ingelow
+wordpress-id: 2321
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Miss Ingelow](../persons.html#741)
+I enclose a note from a friend of mine, a young clergyman’s wife, who is as you see trying to raise the money for an Organ for her husband’s Church in the close neighbourhood of the White Horse of Berkshire
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Black-edged paper.
+

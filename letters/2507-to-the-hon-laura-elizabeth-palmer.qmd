@@ -1,0 +1,30 @@
+---
+date: '1874-07-14'
+display-date: July 14th 1874
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Bodleian Library, Oxford: Ms. Eng. lett. e.116 ff169-70.'
+original-date: '2011-07-12 11:37:46'
+title: To the Hon. Laura Elizabeth Palmer
+wordpress-id: 2507
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Palmer](../persons.html#1238)
+I waited to write to you till I had seen my way through the MSS, and I now see that Itys will come the first as a classical statement of the question[^1]
+If there is a frontispiece I want it to be from him. I am not sure however whether you had a new statue in your eye or not.
+
+Will you let me know if you had
+There is about 1/10 due to your Red Cross Knight Shall I send it to you when I can get a post office order
+I believe I shall be at Crookham the last week in August Shall you be at home then?
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: The Christmas 1874 number of MP was on the theme \'Least said, soonest mended\'.
+
+Laura Palmer contributed \'Itys, the Faun\', by L.E.P., which was the first story in the issue, and was the subject of the frontispiece.
+

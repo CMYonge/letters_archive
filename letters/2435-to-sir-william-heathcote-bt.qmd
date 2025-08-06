@@ -1,0 +1,29 @@
+---
+date: '1872-01-10'
+display-date: January 10, 1872.
+from-address: Palace, Lichfield,
+manuscript-location: MS location unknown.  Printed in Coleridge, [[otherbook:40]<i>Life</i>],
+  300-301
+original-date: '2011-06-14 09:57:11'
+title: To  Sir William Heathcote, Bt.
+wordpress-id: 2435
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Sir William](../persons.html#669)-
+Your letter has come on to me here. I came on Monday to be instructed respecting[ Bishop Patteson](../persons.html#1155)'s life, which I am to try to [draw up](../books.html#102) from the very full materials that his family and [Bishop Selwyn](../persons.html#1295) can provide. I hope to return on Saturday.
+
+Thank you for letting me see [Mr.
+
+Faithfull](../persons.html#497)'s decision; I think he is wise to give his name, and so obtain the subscriptions of all his friends. I daresay in this way he will obtain a good
+deal of pleasure out of it himself, and I hope some benefit to the hospital funds.-[^1]
+Your affectionate
+C. M. YONGE.
+
+[^1]: Edward Williams Faithfull, Occasional Thoughts (London, E.
+
+Faithfull, and Winchester, Jacob and Johnson 1872), a volume of verse published by private subscription, probably in aid of the rebuilt [Royal Hampshire Hospital](../others.html#36) in Winchester.
+

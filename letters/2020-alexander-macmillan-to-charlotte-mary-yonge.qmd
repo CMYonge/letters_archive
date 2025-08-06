@@ -1,0 +1,26 @@
+---
+date: '1865-04-26'
+display-date: April 26. 1865
+from-address: ''
+manuscript-location: 'Copy outletter book British Library Add MSS. 55384 (1): P. 409'
+original-date: '2010-05-25 10:55:40'
+title: Alexander Macmillan to Charlotte Mary Yonge
+wordpress-id: 2020
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Miss Yonge	
+The [cheque](../others.html#160) for £200 was sent you last night.
+
+My clerk reminded that former remittances were so made.
+
+The monthly payments will be sent the same way.
+[I ](../persons.html#939)am going to have the second [chapter](../others.html#177) as the first set up in type. I will venture to go over it and make any suggestions that strike me.
+
+Yours ever faithfully
+A.
+
+Macmillan

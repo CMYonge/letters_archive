@@ -1,0 +1,36 @@
+---
+date: '1881-07-20'
+display-date: July 20th 1881
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1881 / 8
+original-date: '2011-09-15 14:07:19'
+title: To Ann Maria Carter Smith
+wordpress-id: 2730
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Smith](../persons.html#263)
+I am sorry to say your story, even with a little abridging, comes to 63 pp, and as that is nearly a quarter of the Christmas no. I had to give it up with another which I liked almost as well, but was 53 pp, so I am afraid I must keep it waiting for the end of Paul and Virginia and put it into the regular [M P](../others.html#52). I like your Dulcibella very much and am so glad to have met you again in the [Churchman](../others.html#62)[^1]
+Query?
+
+Am I an optimist or is 40 years of work in the same place more encouraging than 10? I believe it is, because one sees the disappointments come round again, and the general mean go on. I am quite sure that the good is more intelligent good, and the average at a higher level.
+
+In 1834 came [a clergyman](../persons.html#1544) here who found 12 communicants of whom the greater number were of my [grandmother](../persons.html#103)’s household.
+
+Only one of these 12 (not of that house) was alive when he left us, his last Easter Sunday having (I think 75).
+
+Our population then 700.
+
+His [successor](../persons.html#478) was here 10 years, and died last February, and there were 135 Easter Communicants, the population being now 859 owing to a new suburb to the village. I don’t think I much believe in the old simplicity, I think it was often very rough and cross
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Dulcibella was the heroine of a story by Carter Smith called \'The Tramp of Many Feet\' serialized in the Churchman\'s Companion.
+
+The story initially accepted by CMY for the 1881 Christmas number is identified in a later letter as \'A Little Less than Kin and More than Kind\'.
+

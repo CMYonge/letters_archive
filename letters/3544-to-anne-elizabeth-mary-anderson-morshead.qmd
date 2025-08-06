@@ -1,0 +1,31 @@
+---
+date: '1875-12-28'
+display-date: Decr 28th [after 1875]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS  UCLA: collection 100: box 95'
+original-date: '2011-09-12 14:05:26'
+title: To Anne Elizabeth Mary Anderson Morshead?
+wordpress-id: 3544
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mary](../persons.html#28)[^1]
+Thank you, this is charming! I do not know that the fun and the presents need necessarily be connected—could we not have one of those puppet shews where the girls are the puppets?
+
+Or could we have your own old Blue Beard, which would be the best fun of all—if it does not take up too much time and space and people.
+
+What do you think?
+
+And for our own delectation, we would have ‘Puffs’ and ‘Anachronisms.’ Which will suit you best for the entertainment the evening before [G F S](../others.html#23). or the evening of the day after, I suspect that would be best to give time for preparation.
+
+Your affectionate and thankful
+
+C M Yonge
+
+[^1]: This is guesswork, but Mary Anderson Morshead was a great organizer of girls and of amateur dramatics, and seems a likely recipient of this letter.
+
+The letter must obviously date from after the foundation of the Girls\' Friendly Society in 1875, and more likely from the late 1880s.
+

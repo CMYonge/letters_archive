@@ -1,0 +1,70 @@
+---
+date: '1899-06-15'
+display-date: June 15th 1899
+from-address: Elderfield Otterbourne
+manuscript-location: MS West Devon Area Record Office Ac 1092/18
+original-date: '2010-03-04 15:43:49'
+title: To Mary Yonge
+wordpress-id: 3408
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mary](../persons.html#1626)
+I am glad you have been keeping the wedding day with [Charlotte](../persons.html#1587).[^1] I am afraid that the hotel must spoil sitting out of doors except in front of the house. I am writing now in the garden while [Blanche Webber](../persons.html#1480), who is here to recover from the remains of the influenza is lying down in her own room.
+
+She had it at Easter and does not quite get over the remains, so she is come to breathe her native air here, till [Major](../persons.html#1559) and [Mrs Woollcombe](../persons.html#1558) come on the 22d. I believe they go to Dorking today. I think it is rather cruel of [Mr Bastard](../persons.html#120) to forbid the parties from Plymouth as they do not molest him.[^2] I was asked the other day if Kitley was a desirable place for a young laundry maid [GFS](../others.html#23). I could not say that I thought I should choose it. I had a nice letter today from one of our [Barnardo](../others.html#115) girls who was sent to Canada five years ago.
+
+She has always been in the same place, and has had two prizes from her Sunday school at Toronto, where she was pleased to find Yonge Street.[^3] She had been on an expedition in a steamer to see Niagara, but they only had ten minutes there – rather American like the man who said enough of Lago Maggiore in one flash of lightning- My budlea[sic] is looking very pretty.
+
+No one but Devonshire people ever seem to have seen one.
+
+My guests always ask what it is. I kept [Charles](../persons.html#1656)’s wedding at a garden party at the [Bishop of Guildford](../persons.html#1382)’s[^4], where among many other people I met Mrs Spender[^5], who was pleased to hear about the wedding. [Her son](../persons.html#1356) has written an interesting book about the Pyrenees, starting from the Mediterranean, which I never heard about before. I am so glad Charles did not consent to the display of wedding presents, I always dislike the notices so much, but then as [Mr Prynne ](../persons.html#1214)said when his father and mother were married ‘The Yonges are not demonstrative’ Poor old Mr Prynne, he and [Canon Carter](../persons.html#268) are nearly the only survivors of the old days.[^6] Canon Carter still preaches, though he is 90.
+
+We have had scattered up and down the village a tract with a regular attack on the [Archbishop](../persons.html#140), called ‘The Real Presence’ evidently written by an actual NonConformist.
+
+Scraps of it have been picked up along the road so some at least must have been torn up. [Henry Bowles](../persons.html#184) goes to Switzerland on the 17th of July, and [Alethea](../persons.html#182) and the children to Holmwood close to Dorking. [Joanna](../persons.html#388)’s two little boys sail with their nurse on the 26th.
+
+She has been to a ball at Gibraltar and it will be much pleasanter than Morocco.
+
+Our [GFS](../others.html#22) festival is to be at Cranbury on the 21th.
+
+If the weather holds it will be beautiful but rain is wanted, though not by the hay which is almost got in. [Charlotte](../persons.html#1587) must be enjoying the garden at [Slade](../others.html#120), which [Edmund Morshead](../persons.html#42) and I agreed was the most beautiful we knew.
+
+Edmund and [Mary](../persons.html#2084) called the other day
+your most affec
+
+C M Yonge
+
+[^1]: The Rev.
+
+Charles Burell Yonge (1866-1943) married Catherine Ada Helena Bowen on 14 June 1899.
+
+[^2]: The Bastard family of Kitley, neighbours of the Yonges of Puslinch, had in their grounds the Kitley caves, a local beauty spot.
+
+No doubt trippers from Plymouth were increasing in number with improved transport and more leisure.
+
+[^3]: Yonge Street, a principal thoroughfare in Toronto, was named after Sir George Yonge (1732-1812), 5th Bt., minister of war in 1782.
+
+[^4]: The Bishop of Guildford, the Rt.
+
+Rev.
+
+George Sumner, and his wife Mary, founder of the Mothers\' Union, lived in the Close at Winchester.
+
+[^5]: [This is a puzzling reference.
+
+Lily (Headland) Spender](../persons.html#1357) (1835-1895), journalist and novelist, mother of Harold Spender, who had written about the Pyrenees, had been dead for four years; CMY perhaps confused her with her sister-in-law, Ellen (Rendle) Spender, the wife of Edward Spender (1834–1878), founder of the Plymouth newspaper the Western Morning News.
+
+[^7]: The Rev.
+
+George Rundle Prynne (1818-1903), Vicar of St.
+
+Peter’s, Plymouth, perhaps officiated at the wedding of Duke Yonge and Charlotte Pode.
+
+Like the Rev.
+
+Canon Thomas Thellusson Carter (1808-1901) he was conspicuous in several of the bitter public disputes about Tractarian practices.
+

@@ -1,0 +1,33 @@
+---
+date: '1868-10-20'
+display-date: Oct 20th [1868]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54920: 220-1'
+original-date: '2010-06-17 21:28:55'
+title: "To Alexander Macmillan\t\t"
+wordpress-id: 2283
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939)
+The enclosed rather puzzles me, for I thought it was settled that sheets of the [Chaplet of Pearls](../books.html#69) were to be forwarded to [Mr Franke](../persons.html#522) as they were ready for the Magazine?
+
+Will you kindly see if this has been done?
+
+Please send me back [Wooed and Won](../others.html#202). I must try what I can do with it.
+
+Are you reprinting Kingsley’s Heroes.
+
+We tried for both them and Miss Keary’s heroes of Asgard for my brother’s children, and found both are out of print.
+
+The [Literary Churchman](../others.html#76) is very favorable [sic] to the [Selections](../books.html#71), as I hear they have begun on them at a great girls’ school
+Yours very truly
+C.M.
+
+Yonge
+
+[^1]: Black-edged paper.
+

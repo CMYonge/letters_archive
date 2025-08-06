@@ -1,0 +1,46 @@
+---
+date: '1881-09-17'
+display-date: Sept 17 th [1881]
+from-address: Elderfield
+manuscript-location: MS Mrs Clare Roels
+original-date: '2011-09-16 10:33:40'
+title: To Christabel Rose Coleridge
+wordpress-id: 2735
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+Here are two themes for you quite true to start upon. [Alice Moberly](../persons.html#1025) once found a diamond ring left behind on a wash hand stand in Switzerland.
+
+Invent the previous and subsequent history of that ring.
+
+Also – At Dorchester Church in Oxfordshire there is the tomb of a Crusader, not lying peaceably on his back, but writhing round his spear.[^1] Something might be written to account for this – though unluckily it would have to be tragical Alas! we are all grown old and mercenary enough not to write for the pure pleasure alone, but with a purpose. I think however that [the story](../books.html#165) might really come out fit for a magazine if it were done as letters or journals from the personages.[^2]
+This is the skeleton
+There is a family of whom one has married a neapolitan baron, but who has been cast off by her kindred-
+At a great family gathering two young cousins colleague much together, and are suspected of love by maiden aunts, the parents treating it quietly.
+
+The girl is found to have been disposing of her jewellery, and there is a great row she declining to say what she has done with it-
+The youth goes abroad for a vacation tour, the fact being that their chivalry being roused for the discarded aunt, the girl has raised money to enable him to go and hunt her up-
+A letter from his servant to say he has been caught and put to ransom by the banditti in the Abruzzi-
+From himself out of the robber nest
+From the baron who has found him out and bargained for him and wants the money forwarded -
+From various members of the family, some afraid he will be shot before the ransom comes.- Others incline to suspect the baron of being in league with the robbers-
+From the Aunt – after he has been released when he may have a fever –
+From mother or father or someone come out to nurse him
+General Reconciliation
+I am sorry for you the loss of such an old servant is an irreparable thing
+your affectionate
+
+C M Yonge
+
+[^1]: The tomb, thought to be of William de Valence (d.1282), in the Abbey Church of St.
+
+Peter and St.
+
+Paul, Dorchester-on-Thames is illustrated at http://www.themcs.org/churches/Dorchester%20Abbey.html.
+
+[^2]: This was an early plan for the collaborative story published as The Miz Maze (1883).
+

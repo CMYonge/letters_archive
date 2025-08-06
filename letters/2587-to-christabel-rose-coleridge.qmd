@@ -1,0 +1,41 @@
+---
+date: '1877-07-09'
+display-date: 'July 9th 1877 '
+from-address: ''
+manuscript-location: MS Harry Ransom Humanities Research Center,  University of Texas
+original-date: '2011-08-04 13:22:43'
+title: 'To Christabel Rose Coleridge '
+wordpress-id: 2587
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+
+I am very sorry this sad check has fallen on all the bright hopes.[^1] I remember [Mrs Keble](../persons.html#795) saying, when my [brother](../persons.html#1624) lost his [first](../persons.html#1632), how often it happens that the first fruits of a family are thus consecrated and taken, and become in time a happy remembrance.
+
+[May](../persons.html#351) has been hoping that [Minny](../persons.html#927)’s baby may come today on its [great grandfather](../persons.html#344)’s birthday, I wonder if it will.
+
+Poor [Katie Lloyd](../persons.html#887) is at Ramsgate, very lame.[^2]
+
+I have a nice set of Will stories, some very funny and some very melancholy.[^3]
+
+Your affectionate
+C.M.
+
+Yonge
+
+[^1]: CMY commiserates on the death of Thomas Drake Coleridge (18 Feb-2 July 1877), eldest son of Christabel Coleridge’s brother Ernest Hartley Coleridge (1846-1920).
+
+[^2]: May was Mary Frances Keble Coleridge (1824-1898), daughter of Sir John Taylor Coleridge (9 July 1790-1876).
+
+Her niece Mary (Mackarness) Coleridge, who was married to Bernard Coleridge, was expecting a baby, [Geoffrey Duke Coleridge](../persons.html#338), 3rd Lord Coleridge (23 July 1877–1955).
+
+Katie (Johns) Lloyd, was the former Gosling, who had married in 1873 the Rev.
+
+John Henry Lloyd, curate of Wormleighton.
+
+[^3]: The Christmas 1877 number of MP consisted of stories on the theme \'Will\'.
+

@@ -1,0 +1,26 @@
+---
+date: '1864-04-18'
+display-date: April 18th 1864
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Birmingham City Archives, Birmingham Reference Library MS
+  135
+original-date: '2011-10-12 14:16:18'
+title: To George Routledge & Sons?
+wordpress-id: 1948
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[Gentlemen](../others.html#258),[^1]
+I enclose the slip you have been so good as to forward to me - with a few corrections, to which I would wish to add that I have been the author of ‘the [Kings of England](../books.html#6),’ and of ‘Landmarks of History’ [‘] [Ancient](../books.html#14)’, ‘[Middle Ages](../books.html#16)’ and ‘[Modern](../books.html#28)’ being a compendium of Universal History for young people. I should prefer no statement being made as to the application of the proceeds of my publications
+
+your obt servt
+
+C M Yonge
+
+[^1]: The biographical dictionary referred to here was probably Men of the Time (7th ed.
+
+London: Routledge 1868), whose entry on CMY appears to correspond with this letter.
+

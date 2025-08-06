@@ -1,0 +1,37 @@
+---
+date: '1866-11-02'
+display-date: Nov 2 1866
+from-address: ''
+manuscript-location: Copy outletter book British Library Add MSS.55386 (2) P.548
+original-date: '2014-05-22 14:20:40'
+title: Alexander Macmillan to Charlotte Mary Yonge
+wordpress-id: 19651
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Miss Yonge,
+
+How does page(?) suit your idea of the [History book](../books.html#71)?
+
+What you sent me was about 240 pages like the specimens.
+
+So the whole would be too much for one volume.
+
+Can we make two - or three?
+
+Are there any natural divisions?
+
+Very faithfully yours
+
+[A.
+
+Macmillan](../persons.html#939)
+
+Among the books that were transferred to us from [Parker](../others.html#152) are some copies of [Dynevor Terrace](../books.html#27) in the two volume form we don’t sell [illegible]  of course.
+
+Had I not better sell them to [Routledge](../others.html#258) or [Smiths](../others.html#161) at a very cheap price?
+
+&nbsp;

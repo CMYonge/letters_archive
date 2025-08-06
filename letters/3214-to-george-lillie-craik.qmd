@@ -1,0 +1,25 @@
+---
+date: '1893-02-01'
+display-date: Feb 1st 1893
+from-address: Elderfield Otterbourne
+manuscript-location: 'MS British Library  Add MSS 54921: 193-4'
+original-date: '2010-07-20 10:29:51'
+title: To George Lillie Craik
+wordpress-id: 3214
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+I return the receipt with many thanks.
+I quite agree to your decision about the [Rubies of St Lo](../books.html#234) not being attached to [Grisly Grisell](../books.html#228) as the only connection between them is that Henry VI is mentioned in each.
+I could add a chapter at the end to Grisly Grisell, as I was afraid to wind up all the characters lest it should be too long, but it may perhaps be better to finish where it does on the principle of not ‘rhyming to that dull elf’[^1]
+
+Yours truly
+
+C M Yonge
+
+[^1]: Walter Scott, [Marmion](../others.html#247) (1808) 6, 618-9: ‘I do not rhyme to that dull elf,/ Who cannot image to himself . . ‘
+

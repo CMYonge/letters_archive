@@ -1,0 +1,25 @@
+---
+date: '1883-03-20'
+display-date: March 20th [1883?]
+from-address: Elderfield
+manuscript-location: MS Miss Sarah Jardine-Willoughby
+original-date: '2011-09-19 16:11:01'
+title: To Euphemia Emily Georgiana Bussell
+wordpress-id: 2770
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Bussell](../persons.html#232)
+Many thanks for your portrait which I like very much, & will try to put in.[^2]
+
+yours truly
+
+C M Yonge
+
+[^1]: A card with rounded corners, of the same type as
+
+[^2]: Euphemia Bussell, ‘A Brief Memoir of the late Mrs Anne Elinor Prevost’ MP (April 1883) 380-4.
+

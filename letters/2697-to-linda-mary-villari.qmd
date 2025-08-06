@@ -1,0 +1,24 @@
+---
+date: '1880-01-01'
+display-date: Jany 1st [1880]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Bodleian Library, Oxford: Eng. lett. d. 495 f108'
+original-date: '2011-09-14 09:31:55'
+title: To Linda Mary Villari
+wordpress-id: 2697
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Madam](../persons.html#1444)
+Would you be so kind, in returning the proofs of ‘the angel of Viareggio’ as to address them direct to the printer
+Messrs [Clay](../others.html#173) & Taylor
+Bread Street Hill
+London EC
+If they are addressed to the Editor, they remain at the office till a parcel is sent to me, and so we get them too late to profit by your corrections
+
+Yours truly
+
+C M Yonge

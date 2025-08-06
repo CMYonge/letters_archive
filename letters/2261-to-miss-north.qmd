@@ -1,0 +1,20 @@
+---
+date: '1868-07-24'
+display-date: July 24 [1868]
+from-address: "Elderfield, Otterbourne, Winchester.\t\t\t\t"
+manuscript-location: 'MS Princeton University, Parrish Collection, C0171: Box 29'
+original-date: '2010-06-16 10:32:51'
+title: "To Miss North\t\t\t\t"
+wordpress-id: 2261
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Miss North](../persons.html#1090),
+I hope the translation of 'Mulhause' is ready as this is the time at which it ought to be sent to the printers. I hope you were thanked for the Hints on Reading but my time is much taken up at present by my [mother](../persons.html#1606)’s infirm state, and a friend who was staying here wrote for me. I think if possible it would be best to avoid French idioms in English
+
+Yours sincerely
+
+C M Yonge

@@ -1,0 +1,24 @@
+---
+date: '1879-03-10'
+display-date: March 10th 1879
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Fondation Guizot-Val Richer
+original-date: '2011-09-08 15:02:18'
+title: To Henriette Elizabeth de Witt
+wordpress-id: 2665
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mme de Witt](../persons.html#423)
+You are quite welcome to make any use you please of my [Scripture Readings](../books.html#87). I have just completed them, though the last volume is not quite out.
+
+You must miss the spring after this severe winter Your En Quarantaine seems to have been a prediction of your winter of nursing. I am glad all is now well.
+
+We have all been having very severe colds, but are quite repaired now except my brother who has been much pulled down. I am expecting [Mary Coleridge](../persons.html#351) here tomorrow. I made her a visit in the autumn in a very pretty house at Ottery, which [her brother](../persons.html#343) has put into repair for her
+
+yours affectionately
+
+C M Yonge

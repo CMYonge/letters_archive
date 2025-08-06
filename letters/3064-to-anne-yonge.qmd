@@ -1,0 +1,60 @@
+---
+date: '1855-03-31'
+display-date: <b>Error! Bookmark not defined</b>.OtterbournMarch 31st [1855]
+from-address: ''
+manuscript-location: MS West Devon Record Office Acc 1092/14
+original-date: '2010-04-21 09:54:32'
+title: To Anne Yonge
+wordpress-id: 3064
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Anne](../persons.html#1582)
+I do not like that you should not find a note at least to greet you on your return home on Tuesday to tell you that we are thinking of you and feeling with you and yet I hardly dare to say the last. [Julian](../persons.html#1624) will write to [Uncle Yonge](../persons.html#1623) on Monday, he had fully meant to set out on that day to be with you, but he got a chill at [Mrs Heathcote](../persons.html#658)’s funeral which has brought back his old enemy, and he has been so uncomfortable today that we did not like to think of his travelling on Monday, and so Uncle Yonge’s kind letter to him is a relief, though we cannot but be sorry too that one of us should not be with you, as in the sorrows we have shared together before. I do not think anyone could have known [her](../persons.html#1616) without feeling the sweetness and gracious refinement of her nature, and it was one that those who knew best saw most loveliness in, the reserve only hiding more of what was pure and loving, the spring of all the rest. I suppose none ever kept their white robes more free from stain, and indeed the white flowers do suit her well.
+
+The first snowdrop I heard of this year was gathered to be laid beside[ Jane Wither](../persons.html#1765), how little I thought how it would be before snowdrops were over.
+
+Next week will be a good week for you with the mourning season coming comfortingly, and to hearts that resign themselves without selfish repining that peace comes.
+
+You and [Mary](../persons.html#1626) will, if possible, be knit closer than ever together by the link between you being in Heaven, and I do think that in all the joys that a fine day or a beautiful scene of nature brings the sense of those we love being in the more perfect joy encreases [sic] the delight rather than lessens it.
+
+But I know you have more sources of comfort than I can express, and that in the midst you have peace that cannot be taken from you.
+
+The earthly comfort of all being that you have each other to think for. I will take your message to [Susan Whorley](../persons.html#1497), I saw her yesterday, and she sent her duty to you, evidently wishing to make it a great deal more, and lamenting herself at being selfish in wishing for you, when your own family must want you so much. [The old woman](../persons.html#1766) was more alive than usual.
+
+The nephew said to be killed has come out with one leg, and [Mrs Knight](../persons.html#1767) has had a letter from her son said to be dead.
+
+We have given your message to [Alice](../persons.html#1025) and I daresay you will hear from her about [the Bishop](../persons.html#1295)’s visit.
+
+Imagine my surprise at having a letter from himself by this post, written on board the D of Portland, giving us a blessing that warms our hearts.
+
+Some day you may see it perhaps.
+
+He says the S cross is actually gone, he hopes 200 miles before him.
+
+Does not all this see to you to have happened in some former life, and as if all your own was changed?
+
+If I could only be more to you, but I always do hate myself so for only talking of my own concerns and stuff, instead of letting other people talk of theirs, and the more I love people the more I do it.
+
+How many nights of your visit I wasted in nonsense! I have a letter from poor [Cordelia Colborne](../persons.html#319) today, I suppose she never had so near a grief since her childhood
+One of the chief things I like to think of in our dear one is that perfect trust and calm resolution when the operation was impending.
+
+There never was more perfect resignation of will and calm confidence, I suppose the effect being produced the trial was sufficient – if we may dare to say so, as Abraham’s was[^2]
+your most affectionate
+
+C M Yonge
+Don’t let writing to us be a distress because you think it would be unkind not.
+
+Write when you feel it to be more relief than pain, but I cannot bear that you should be burthened by it.
+
+How those lines of Italian will be endeared to us now.[^3]
+
+[^1]: Black-edged paper.
+
+[^2]: Genesis 22:2-13.
+
+[^3]: They had recently been reading the [Paradiso](../others.html#246) of Dante together.
+

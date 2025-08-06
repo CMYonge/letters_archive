@@ -1,0 +1,23 @@
+---
+date: '1869-04-01'
+display-date: April 1st [1869]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Princeton University, Parrish Collection, CO171
+original-date: '2010-06-22 11:48:41'
+title: "To Sarah Anne Mercier\t\t\t\t"
+wordpress-id: 2314
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mrs Mercier](../persons.html#990)
+As [Madame Melon](../persons.html#2031) says SHE has not written to you I enclose her note that you may see how the matter stands. I hope she will have a satisfactory answer about the Grand Bienfacteur
+
+Yours truly
+
+C M Yonge
+
+[^1]: Black-edged paper.
+

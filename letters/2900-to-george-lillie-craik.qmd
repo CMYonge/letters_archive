@@ -1,0 +1,22 @@
+---
+date: '1889-01-31'
+display-date: Jany 31st 1889
+from-address: Elderfield
+manuscript-location: 'MS British Library Add MSS 54921: 167'
+original-date: '2011-10-06 10:07:24'
+title: To George Lillie Craik
+wordpress-id: 2900
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+I am very glad you approve of ‘[the Reputed Changeling](../books.html#205)’ for a name.
+
+He shall come on the 18th or 19th as soon as I have read him to an old friend and critic with whom I am going to stay on the 11th - when I shall put some last touches and corrections.
+
+Yours truly
+
+C M Yonge

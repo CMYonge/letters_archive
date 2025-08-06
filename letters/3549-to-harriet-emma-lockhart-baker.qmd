@@ -1,0 +1,23 @@
+---
+date: '1860-01-22'
+display-date: Jany 22nd [1860-1890]
+from-address: ''
+manuscript-location: 'MS Columbia University Library, New York:  Ray Collection.'
+original-date: '2011-10-10 16:40:17'
+title: To Harriet Emma Lockhart Baker?
+wordpress-id: 3549
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mrs Baker](../persons.html#2075)
+Here is your New Zealand paper. I am very sorry I have not been able to use it in the [Monthly Packet](../others.html#52), but I get more and more in arrears of MS, and am shocked at the way thinks [sic] lie by
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Black-edged paper.
+

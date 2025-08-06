@@ -1,0 +1,57 @@
+---
+date: '1854-02-01'
+display-date: Feby 1st [1854]
+from-address: Otterbourn
+manuscript-location: MS Mrs Caroline Fairclough/1
+original-date: '2010-03-24 15:23:43'
+title: To Anna Butler
+wordpress-id: 3023
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Butler](../persons.html#237)
+I have just finished reading your two chapters[^1], for which I thank you very much.
+
+Geneva is particularly interesting. I am so glad you did not go to Ferney, I am so tired of visits there.[^2] One thing in the 14th Chapter I had rather leave out, namely the story of Rudolf von Erlach’s murder, which to those who do not know the rest of his history (of whom I am sorry to say I am one) seems merely a horrible story.
+
+How beautiful the Freibourg legend of the lime tree is, did you not long to compare it with the Greek soldier who died while announcing victory in the same way.
+
+Did you see in [the last Quarterly](../others.html#2) a Karelian William Tell reversed, the son shooting the apple off the father’s head.
+
+It would add another to the myths that [Keightley](../others.html#99) has traced in his pretty book and shewn to belong to so many different countries. I have been thinking of asking you whether from your Danish studies you could afford me any help in some of my Name fancying[^3], where the Northern names quite baffle me, I mean such as Gustaf and Olaf, Swend, &c.
+
+Hilda I cannot make out either, and we find it so often in combination Clotilda, Matilda, Brenhilda that I am sure it must be significant.
+
+If you could throw any light on these matters, I should be very much obliged to you.
+
+Thanks too for [Elizth Woodville’s diary](../others.html#45), but I am sorry to say that it has been proved to be one of those vraisemblable fabrications that are so provoking, I cannot lay my hand on the refutation of it, but I know it has been made long ago, and I remember being very sorry to give up the diary - though after all I do not suppose young ladies lived so wild a life, in her time, but more probably were very stiff and stately.
+
+Thank you for mentioning [le philosophe sous les toits](../others.html#154) I must send for it as good French books certainly ought to be mentioned.
+
+This was recommended to me from another quarter the day before. I hope to meet [Elizabeth Barnett](../persons.html#113)[^4] next Monday at [Dogmersfield](../others.html#121) whence probably the next proof of Aunt Louisa will be forwarded to you.
+
+She will just finish with the volume if I put in a chapter into each number, and this will be the best way, so as not to have an odd chapter left for the next, so she shall have the precedence in the choice of articles
+
+yours sincerely
+
+C M Yonge
+
+[^1]: [Aunt Louisa’s Travels](../others.html#242), a series in which Aunt Louisa describes her journey to Switzerland to her nephew Arthur and her nieces Caroline and Grace. (Butler\'s brother the Rev.
+
+William Butler, Vicar of Wantage, had a son Arthur and a daughter Grace, and a sister-in-law, Louisa Barnett.) It began in [MP](../others.html#52) 4 (July 1852) 53-60 and ran until June 1854.
+
+The Geneva chapter was published in MP 7 (April 1854) 302-9.
+
+[^2]: Ferney, just inside France but very near Geneva, was the home between 1759 to 1778 of Voltaire (1694-1778), a writer not likely to be congenial to CMY.
+
+[^3]: ‘Name-Fancying’, a series by CMY, which began in MP 3 (May 1852) 393-6.
+
+It formed the basis of her book on [Christian Names](../books.html#48).
+
+[^4]: Elizabeth Barnett (1810-1900) was second cousin to the Rev.
+
+William Butler (who was married to her younger sister Emma Barnett), and therefore also to Anna Butler.
+

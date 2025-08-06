@@ -1,0 +1,67 @@
+---
+date: '1868-10-01'
+display-date: Oct 3d [1868]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Charlotte Mitchell
+original-date: '2010-06-16 13:45:55'
+title: "To Gertrude Louisa LeGrand Jacob\t\t"
+wordpress-id: 2274
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Jacob](../persons.html#751)
+I am afraid you will be vexing yourself at having written to me, but indeed there is no cause, I was quite able to read and thank for it.
+
+The sad decay of the recent months makes me thankful that the painful struggle is ended, and the thread has been rather slowly untwisted than rent violently out of my life.
+
+Your [aunt](../persons.html#1307)’s sufferings have been far more acute, but Rest has come to both much at the same time. I wish I did know of a good governess but the only one I know of just now is a beginner, and very young, which of course would not do. I had a note from [Edith](../persons.html#749) just now in ink, the sight of which was very pleasant, though I am afraid it was no real sign of progress.
+
+She was one of those friends whose visits my dear [Mother](../persons.html#1606) always so much enjoyed
+yours very sincerely
+
+C M Yonge
+Gertrude Louisa LeGrand Jacob to Edith Sophia Jacob			
+[on the above letter]
+My darling,
+I was so glad to get yr. last. I am quite well & not at all bad in the back.
+
+Mrs Yonge departed on the 28th. [Papa](../persons.html#2018) saw it in the Times after I had written to her about the Lit.
+
+Church & was going to write to her again when this kind note came.
+
+About my going to you.
+
+Papa says he shall go on the 21st. & as Ernest does not leave till 17th. there seems so few days that perhaps [illegible] might be best as it is comparatively near Clifton. I shall have some difficulty in getting away to you as I am but just returnd. from a 6 weeks stay, & this [poor dear](../persons.html#2019) is really very poorly.[^2] Aunt B. comes Friday for a few days.
+
+Poor Bully[^3] died quite suddenly on Sunday. he was a great pet & Uncle had got very fond of him during my absence, Bully always came up at dinner time & used to sing to him & behave very pretty, & twice in his letters Uncle mentioned what a companion he was.
+
+On Sunday morning, Joseph, who was in the kitchen, saw him flutter about & then fall down dead.
+
+Mrs.
+
+Hodge takes his poor little body with her to Portsmouth today to get it stuffed.
+
+She has lost her father in law & is rather in trouble & we have let her go though as Mrs.
+
+Teasdale is unable to come it is rather inconvenient.
+
+Uncle sends you Matsie’s letter & there is another you shall have afterwards.
+
+Keep them to return [illegible] opportunity.
+
+Uncle says you must not think he does not think of you because he does not write.
+your own G.
+
+[^1]: Black-edged paper.
+
+The letter is inscribed in pencil ‘To Gertrude’ and the date ‘1868’ added in pencil. CMY seems to have taken two sheets of paper stuck together, and her letter is only on the outside of one and inside of another.
+
+The rest of the space has been filled by the note from Gertrude Jacob to Edith Jacob.
+
+[^2]: Major-General Sir George Le Grand Jacob (1805-1881), their uncle, an invalid and oriental scholar with whom Gertrude lived as adopted daughter, and with whom she wrote Western India before and during the Mutinies (1871).
+
+[^3]: Presumably their pet bullfinch.
+

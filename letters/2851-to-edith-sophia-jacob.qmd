@@ -1,0 +1,33 @@
+---
+date: '1887-03-01'
+display-date: March 3d [1887?]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Charlotte Mitchell
+original-date: '2011-09-30 11:34:34'
+title: To Edith Sophia Jacob
+wordpress-id: 2851
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Edith](../persons.html#749)
+I want to tell the [SSW](../others.html#47) of a lovely book that has been sent to [Gertrude](../persons.html#1462) by another invalid.[^1] It is called 'the Sermon in the Hospital', and can be had from Kegan Paul for 3d or 20s for 25 copies.
+
+It is in blank verse and is an extract from a poem by a Mrs Hamilton King, called the Disciples I am sorry to say they were [Mazzini](../persons.html#2368)'s disciples but that does not prevent this Sermon from being a most beautiful thing [^2]
+
+yours affectionately
+
+C M Yonge
+
+[^1]: The Society of Watchers and Workers, founded by Edith Jacob.
+
+[^2]: Harriet (Baillie-Hamilton) King, The Disciples (London: King 1873) was a verse account of J.
+
+Ruffini, Ugo Bassi, A.
+
+Milano and Baron G.
+
+Nicotera; an extract was published as The Sermon in the Hospital (London: Kegan Paul 1887).
+

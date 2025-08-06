@@ -1,0 +1,28 @@
+---
+date: '1883-06-01'
+display-date: June 2d 1883
+from-address: Elderfield
+manuscript-location: MS Princeton University, Parrish Collection
+original-date: '2011-09-21 11:15:39'
+title: To an Unknown Woman
+wordpress-id: 2773
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam
+A friend of my family, who- being a neighbour, I know better personally than by her handwriting is named [Anna Georgina Macaulay](../persons.html#2352), and always goes by the appellation Nina.
+
+She is apt to stay a good deal away from home and I concluded that the letter I received was from her.
+
+For I suppose I am right in believing that you wrote to ask me to review a book on Scripture evidences and that my answer will apply that I would try, if I could and if I had the book to mention it in a Conversation on Books.[^1]
+With many apologies for the error caused by the resemblance of name
+
+Yours truly
+
+C M Yonge
+
+[^1]: Despite the detail given, neither CMY\'s correspondent nor the book can be identified with certainty.
+

@@ -1,0 +1,26 @@
+---
+date: '1867-01-01'
+display-date: '[1867?]'
+from-address: ''
+manuscript-location: "MS Huntington Library: Letter to Lady Mount Temple: Stamped\
+  \ \u201CKane American\u201D. HM 34936"
+original-date: '2010-06-10 09:23:19'
+title: "To Emma Frances Yonge\t\t"
+wordpress-id: 2160
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+. . . all. [She](../persons.html#1613) is doing her reading to me now which is not good for my writing. I hope you are keeping quiet and getting better
+Your affectionate Sister	
+
+C M Yonge
+
+[^1]: This fragment was almost certainly preserved simply for the autograph.
+
+It could date from any time between 1864, by which time Helen Yonge (b.1860) was presumably learning to read, to September 1869 when CMY was giving her regular lessons.
+
+The reference to \'keeping quiet\' suggests recovery from childbirth, and this probably dates from around the birth of either Maurice (b.1867), George (b.1871) or Joanna (b.1873).
+

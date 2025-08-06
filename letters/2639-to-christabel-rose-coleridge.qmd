@@ -1,0 +1,32 @@
+---
+date: '1878-09-17'
+display-date: Sept 17th 1878
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Mrs Clare Roels
+original-date: '2011-09-01 11:47:25'
+title: To Christabel Rose Coleridge
+wordpress-id: 2639
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+The [Packet](../others.html#52) will be happy to take Cherry cut down when Heriot’s Choice is over. I am afraid it will last a long time – for I never can succeed in getting in two chapters of Heriot’s Choice- Our pupil teachers have had a paper sent in from Salisbury training college for religious examination, saying 2nd class – [Alice Misselbrook](../persons.html#1257) 8, [Harriet Godwin](../persons.html#2316) 18, but whether this means no from the top or number of marks we in our inexperience do not know.
+
+The [mistress](../persons.html#156) has been nursing her sick husband at Portsmouth for a fortnight, and they have kept school by themselves with good success - the children have all been wonderfully good. I believe the poor man is dying, but he is in Haslar Hospital and Mrs Bishop has come back to be sent for any time.[^1] The [new master](../persons.html#513) promises well. I hope your parish troubles will prove to be an eruption throwing off ill blood.
+
+How often a worry comes after one has had a special pleasure
+your affectionate
+
+C M Yonge
+
+[^1]: Possibly Matilda Bishop (b.
+
+Great Bookham 1831/2), an elementary school teacher and a widow in Otterbourne at the time of the 1881 census.
+
+Her husband, a ship’s steward, was at sea in 1871.
+
+However this may be a different couple.
+

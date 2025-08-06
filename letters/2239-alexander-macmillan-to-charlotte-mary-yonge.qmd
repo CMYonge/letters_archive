@@ -1,0 +1,33 @@
+---
+date: '1868-04-11'
+display-date: April 11 1868
+from-address: ''
+manuscript-location: 'Copy outletter book British Library Add MSS.55388 (1): P.227 '
+original-date: '2010-06-15 11:34:54'
+title: Alexander Macmillan to Charlotte Mary Yonge
+wordpress-id: 2239
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Miss Yonge,
+I have sent on to [Miss Sewell](../persons.html#1301) Mr Pearson’s book.
+
+Could you tell [me](../persons.html#939) how much - how many pages - you want to use.[^1] I think I may have an opportunity of seeing him soon.
+
+He is not likely to refuse.
+
+The story of the Hermits(?) is really wonderful. I cannot tell you how that of Anthony [illegible] me.
+
+What moral pictures there must have been there.
+I am urging the printers to make speed.
+
+Yours very faithfully
+A.
+
+Macmillan
+
+[^1]: Pearson\'s book was excerpted in both [Historical Selections](../books.html#71) and its continuation [European History](../books.html#82).
+

@@ -1,0 +1,22 @@
+---
+date: '1860-07-01'
+display-date: July 3d 1860
+from-address: Otterbourne, Winchester.
+manuscript-location: 'MS Princeton University, Parrish Collection, C0171: Box 29'
+original-date: '2010-05-05 11:26:29'
+title: 'To Miss Erskine   '
+wordpress-id: 1795
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Miss Erskine](../persons.html#489),
+Many thanks for so kindly enquiring to satisfy the Salisbury correspondent. I will wait till this day week to answer him; in case you should have more particulars for me, I wonder whether he wants to make any use of the story, which should I am sure be widely known, I have no longer the address of Miss [Blanch Shelley](../persons.html#1822) who sent it to me, and with whom it was a tradition from an aunt. I should think she knew no more, as she gave no names when I wrote to her for corroboration before inserting it, and she only knew half the story. I am glad to hear such good accounts of [Mrs](../persons.html#462) and [Miss Dyson](../persons.html#464), I hoped to have seen them again this summer, but it seems as if it would not be till they go to Testwood.[^1] [Mary Coleridge](../persons.html#351) seemed fairly well, and very animated and bright when I spent an evening with her when she was in London
+Yours very truly
+
+C M Yonge
+
+[^1]: The home of Anne Sturges Bourne.
+

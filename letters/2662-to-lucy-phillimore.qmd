@@ -1,0 +1,27 @@
+---
+date: '1879-02-21'
+display-date: Feb 21st [1879]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Girton College Cambridge, Yonge XIV 1
+original-date: '2011-09-08 14:47:44'
+title: To Lucy Phillimore
+wordpress-id: 2662
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Phillimore](../persons.html#1170),
+I wish I could have put in the notice, but it came after all had gone to be printed, and when the proof came there proved to be no room to squeeze anything in but it shall certainly come in April[^2]
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Black-edged paper.
+
+[^2]: Lucy Phillimore (1850-1931), contributor to MP and the Magazine for the Young, published several messages in MP in early 1879 acknowledging contributions to the appeal for the Bishop Wilberforce Confirmation Memorial Window in St.
+
+Mary\'s Southampton.
+

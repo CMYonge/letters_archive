@@ -1,0 +1,29 @@
+---
+date: '1890-01-18'
+display-date: Jan 18th [1890]
+from-address: Elderfield
+manuscript-location: MS Cheltenham Ladies College 5351 Gor/2
+original-date: '2010-07-05 13:09:27'
+title: To Dorothea Beale
+wordpress-id: 3150
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Miss Beale](../persons.html#128)
+Indeed your letter was all right, I am sorry you had an alarm about it. I believe one failure in these days in training is that the very late dinners prevent the long family evenings of reading, work and music sometimes dull, but often educational.
+
+As to books, minute studies of character either weary children or make them self conscious.
+
+What their elders like they care little for.
+
+So [Aunt Judy](../others.html#54) fails and [Little Folks](../others.html#77) flourishes[^1]
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Aunt Judy’s Magazine had closed in 1885; like the Monthly Packet, it was vulnerable to competition from brighter and more frivolous children’s magazines such as Little Folks (1871-1933).
+

@@ -1,0 +1,29 @@
+---
+date: '1864-02-05'
+display-date: Febry 5th [1864]
+from-address: Elderfield Otterbourne, Winchester
+manuscript-location: 'MS British Library Add MSS 54920: 19'
+original-date: '2010-05-20 14:28:57'
+title: To Alexander Macmillan
+wordpress-id: 1936
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939)
+I am not certain whether it was mentioned that sheets of the [Trial](../books.html#53) were to be sent to [Messrs Williams and Norgate](../others.html#165) to be forwarded to [M.
+
+Tauchnitz](../persons.html#1396).
+
+He has just written to me to ask for them which makes me mention it.
+I send the chapters of The Trial, all but the three last, which shall follow in a week or fortnight.
+
+Yours faithfully
+C. M.
+
+Yonge
+
+[^1]: Black-edged paper.
+

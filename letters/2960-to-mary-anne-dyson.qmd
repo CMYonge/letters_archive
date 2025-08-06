@@ -1,0 +1,80 @@
+---
+date: '1848-05-14'
+display-date: May 14, 1848
+from-address: Otterbourne
+manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:40]Life]</i>,
+  157-158
+original-date: '2010-03-17 10:08:33'
+title: To Mary Anne Dyson
+wordpress-id: 2960
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Driver](../persons.html#464)
+Thank you for all your encouragement with regard to [Henrietta](../books.html#11); I assure you I mean to have my own way, and if the [Churchman](../others.html#63) finds he has caught a Tartar, he must make the best of it. I am very angry with [Sister’s Care](../others.html#41), for it has done the very thing I wished not to have been done, that is to say, in one way I am glad of it, for I made a bargain with [Mary](../persons.html#351) that if she killed her child she must leave me in peace to kill my mother, so now she only threatens me with Henry.[^1] However, I am of your opinion about the story, I think Lizzie is rather over-sentimental, at least I never saw the child (no, but once) who was not in too great raptures at getting out in the world to think of anything else.
+
+It is easy to think it the best in the Churchman without liking it nearly as well as [Michae](../others.html#39)l.[^2] I hope the cow goes on and prospers.[^3] I intended Warwick’s relationship to be the reason of his taking the York party. I have really set about the [Cameos](../books.html#73), and have done a bit of Rollo to get my hand in, and then a bit of ‘the kingdom of Northumbria’ by way of real beginning ‘for good’. I was thereto much encouraged by a letter to ‘the writer of [The Kings of England](../books.html#6)’ from the sub-warden of St.
+
+Columba[^4], where it seems the younger class read it, suggesting some alterations, such as genealogical tables, etc., and notices of styles of architecture, etc., in the manner of [Mr.
+
+Neale](../persons.html#1078), also introductions of poetry, instancing Drayton’s Polyolbion and Gray’s Bard.
+
+To architecture and poetry I turned a deaf ear, because I think one thing at a time is enough; and as to Gray’s Bard, you know I have far too much tenderness for the ruthless king so to asperse him, and besides, I do not know what to say about the Christian temper of the old bard himself.
+
+He also wanted more about the Crusades, for which he referred me to [Mr.
+
+Abraham](../persons.html#4)’s lectures,[^5] and altogether I thought he was worthy to be encouraged with a promise of the Cameos.
+
+Also [Mr.
+
+Mozley](../persons.html#1065)[^6] sends me a letter from a Mr.
+
+Douglas, a clergyman, wanting a cheap village school edition, but Mr.
+
+Mozley says we must get rid of some of the 2000 new ones first. I know I wish he would let me have some solid pudding as well as empty praise.[^7] How glad I am that they will have the wedding at Ottery after all, though I suppose there will be fewer of the people she would like to have.[^8] The [Kebles](../persons.html#798) have their great tea-drinking on Ascension Day, and on Whit Tuesday they go to Bisley, and on to Exeter to [Tom](../persons.html#799)’s ordination.[^9] I suppose [Henry Coleridge](../persons.html#339) will be ordained then too. I wonder if you have any later news than ours of [Miss Sellon](../persons.html#1294); I can hardly believe she will live, she is so much too good for the world, and I suppose there must be a martyr to make the cause come to good.
+I imagine you under the tree where I first made your acquaintance, no, not first, for you once came to see the church, but where I made your acquaintance for good and put on the yoke of slavery. I wish I had some [Alderney](../books.html#12) to send, but a slave can’t do more than she can do.
+
+By the bye, we have some Miss Yards[^10] come to live here, who seem disposed to do much in the school way.
+
+Your very obedient and devoted
+C. M. Y.
+
+[^1]: Sister’s Care, a story by Mary Coleridge, was serialized in the Churchman’s Companion and published in volume form in 1849.
+
+[^2]: Michael the Chorister, (London: Mozley n.d.) another story by Mary Coleridge, of which copies survive in the John Rylands and Bodleian libraries.
+
+Sister’s Care By the Author of Michael the Chorister was published anonymously in 1849.
+
+[^3]: The matron at the Dysons’ school, the cow who looked after the calves.
+
+At the time of the 1851 census she was Eliza Stewart (b.
+
+Scotland 1809/10).
+
+[^4]: A high church school on the model of Eton College, founded in Ireland in 1842 by the [Rev.
+
+William Sewell](../persons.html#1306) (1804-1874), brother of Elizabeth Sewell.
+
+The sub-warden was perhaps the [[person:]Rev.
+
+Matthew Calley Morton].
+
+[^5]: The Rev.
+
+Charles John Abraham, [The Unity of History](../others.html#10) (Eton: Williams 1845).
+
+[^6]: John Mozley (1805–1872), her publisher.
+
+[^7]: Pope, Dunciad, I, 52: ‘Poetic Justice, with her lifted scale/Where, in nice balance, truth with gold she weighs,/ And solid pudding against empty praise.’
+
+[^8]: [Alethea Buchanan Coleridge](../persons.html#923) (d. 1909), sister of Mary, married the Rev.[ John Fielder Mackarness](../persons.html#926) (1820-1889), later Bishop of Oxford, on 7 August 1849.
+
+[^9]: Priscilla Lydia Sellon (1821-1876) began in 1848 to do social work in Plymouth, Devon, and founded the Society of Sisters of Mercy of the Holy Trinity, Devonport.
+
+She worked devotedly during the 1848 cholera epidemic, and was seriously ill in early 1849; she was also attacked for her close association with Pusey. CMY’s bank account shows a series of payments, probably charitable, made to Sellon from 1853.
+
+[^10]: [Eliza Yard](../persons.html#1578) (b.1804/5) and [Adelaide Yard](../persons.html#1577) (b. 1806/7) are listed in the 1859 Hampshire directory as inhabitants of Otterbourne; they later went to live in Winchester, where Elizabeth Sewell stayed with them in 1864.
+

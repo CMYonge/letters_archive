@@ -1,0 +1,25 @@
+---
+date: '1895-04-09'
+display-date: April 9th 1895
+from-address: Elderfield Otterbourne
+manuscript-location: MS Hampshire Record Office 67M92W/82/24
+original-date: '2010-09-07 13:43:34'
+title: To Charles Wooldridge
+wordpress-id: 3292
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Wooldridge](../persons.html#2094),
+I think it will be wise to keep up the insurance on [Mrs Yonge](../persons.html#1604)’s life.
+
+The only further question is whether it should be mentioned in my will that the payment should be continued, and to whom the amount should be paid.
+
+On this I will write to [Mr Houseman](../persons.html#2146) who made my will.
+I enclose the cheque for the insurance understanding that it covers all the houses here and in London
+
+Yours truly
+
+C M Yonge

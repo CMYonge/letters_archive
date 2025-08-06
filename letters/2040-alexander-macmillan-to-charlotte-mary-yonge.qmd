@@ -1,0 +1,47 @@
+---
+date: '1865-06-02'
+display-date: June 2. 1865
+from-address: ''
+manuscript-location: 'Copy outletter book British Library Add MSS. 55384 (2): P. 534'
+original-date: '2010-05-26 11:25:58'
+title: Alexander Macmillan to Charlotte Mary Yonge
+wordpress-id: 2040
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Miss Yonge	
+It is most kind of you to take all my suggestions as you do.
+
+Indeed [I ](../persons.html#939)do not want any one else to do the work unless you really find it distasteful to you - which I hope is not the case.
+I am quite willing to wait your perfect convenience. I daresay ideas such as the ones I was fancying for the book, are not to be commanded, and it may be that because in '[Golden Deeds](../books.html#51)' you so fully realized an idea, I have been [illegible] on your kindness.
+
+But when we talked the matter over I fancied you sympathised with it so fully that I quite hoped I was giving you no serious trouble in asking you help me with your genius, to a realization of an idea, that had come to me, as it seemed to me wanting to be realized.
+
+With regard to the idea you find easiest to work in I fancy that it would be almost too vague, and would be apt to spread itself out into large subjects, as I think is partly the case in the Ethnological chapter.
+
+Still it is evidently cognate to the one I had & I will gladly adopt your rendering of the idea, and I have no doubt that you will do what you can to let mine modify it.
+
+With regard to the Birth of Cain I do think it very touching that & surely something could be done with it.
+
+The detailed suggestions which I had to make, and which you kindly ask for I put on the enclosed first sheet. I am not sure how far you will agree with me, but I think you will to some extent.
+I did not mean - did you so understand me? - that you should introduce actual cradle songs. I meant it symbolically.
+
+If I bore you altogether, pray say so.
+
+My main anxiety is that this should not take you off work on which you would work kindly and to more result.
+[Cawnpore](../books.html#59) is in the printers hands & you shall see a proof of it soon.
+I am dear Miss Yonge
+Yours very faithfully
+A.
+
+Macmillan
+Curiously enough [Mrs Daniel Macmillan](../persons.html#941) who has just been at Oxford found a book with almost our title, but different in conception form, and as appears to me, poor in treatment.
+
+But it might be thought a plagiarism.
+
+We will have to change our title.
+
+Have you any to suggest.

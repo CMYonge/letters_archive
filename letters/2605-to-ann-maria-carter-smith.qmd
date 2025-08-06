@@ -1,0 +1,28 @@
+---
+date: '1877-11-09'
+display-date: 'Novr 9th 1877 '
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: 'MS Westcountry Studies Library, Exeter/ Yonge 1877/3 '
+original-date: '2011-08-05 10:01:11'
+title: 'To Ann Maria Carter Smith '
+wordpress-id: 2605
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Smith](../persons.html#263)
+I am afraid I do not quite remember the terms of the advertisement Can you send it to me again or its substance within the next few days. I ought not to have sent it or the address to her friends away but things do so accumulate that I am glad to make space![^1] Here is a query which concerns you, and perhaps you will answer direct as I am not sure whether A C D owns all her books publicly, and I am afraid some are out of print.[^2]
+I am so glad Regent Rosalind is coming out One of the very best things I think you ever wrote was Georgie’s Christmas holidays.
+
+yours sincerely
+
+C M Yonge
+
+[^1]: An advertisement had appeared in MP (September 1877), 296, which may perhaps be the one referred to: \'Can any correspondent kindly tell me if there is any school where the orphan daughter of a clergyman could receive a sound education, and where the expenses would be very small?
+
+Any information will be thankfully received by Miss Duncan, S.Michael\'s Hamlet, near Liverpool.
+
+[^2]: Carter Smith published her work under these initials.
+

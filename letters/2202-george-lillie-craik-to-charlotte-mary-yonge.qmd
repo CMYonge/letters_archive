@@ -1,0 +1,22 @@
+---
+date: '1867-08-10'
+display-date: 10 Aug. 1867.
+from-address: ''
+manuscript-location: 'Copy outletter book British Library Add MSS.55387 (1): P. 463'
+original-date: '2010-06-10 19:37:28'
+title: George Lillie Craik to Charlotte Mary Yonge
+wordpress-id: 2202
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Miss Yonge	
+I suppose you [illegible] the translation of Alexandre Dumas & after some difficulty we have a shabby copy which I am sending by post.
+
+We will be glad to have the whole [M.S.](../books.html#72) when it is ready.
+
+You can either send it to [Miss Martin](../persons.html#971) or to us
+Yours very [illegible]
+[Geo Lillie Craik](../persons.html#379)

@@ -1,0 +1,34 @@
+---
+date: '1872-04-10'
+display-date: April 10, 1872
+from-address: Elderfield, Otterbourne, Winchester
+manuscript-location: "MS location unknown.  Printed in Coleridge, [[otherbook:40]<i>Life</i>],\_\
+  302."
+original-date: '2011-06-15 12:01:56'
+title: To Sir William Heathcote, Bt.
+wordpress-id: 2443
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Sir William](../persons.html#669)
+Thank you greatly, I thought just as you do that it was rather a needless question since I was quite sure of the fact of what [Mr.
+
+Keble ](../persons.html#798)said to me, and I should not have asked you if it had been any one else who advised me, but having asked [him](../persons.html#1015) it seemed wrong not to do just what he told me.
+[Miss Dyson](../persons.html#464) is a devoted lover of [King Charles](../persons.html#1768), and had been vexed to see any words of Mr.
+
+Keble used against him.
+
+Besides she said, and truly, that Mr.
+
+Keble's chance conversational sayings did not always reflect a deliberate opinion, and the point was whether this did or not reckon as an opinion thought out and considered, which is my decided impression.
+
+Yours affectionately
+C. M.
+
+Yonge
+
+[^1]: Mary Anne Dyson had wanted CMY to remove a reference in [Musings over the Christian Year](../others.html#88) to Charles I being careless of the truth. CMY referred the question to George Moberly, with whom she was staying.
+

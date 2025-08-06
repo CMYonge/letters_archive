@@ -1,0 +1,33 @@
+---
+date: '1857-12-26'
+display-date: Decr 26th 1857
+from-address: ''
+manuscript-location: MS Mrs Caroline Fairclough/14
+original-date: '2010-04-27 12:01:07'
+title: To Anna Butler
+wordpress-id: 3115
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Butler](../persons.html#237)
+With all Christmas wishes, and with [my brother](../persons.html#1624)’s thanks, I return your catalogue, he has taken the address of the bookseller and means to write to him as soon as the Icelandic fervour returns.
+
+At present he is more occupied with his turning lathe. I wish some critic would laugh at the endless repetitions of Thor’s visit to Loki, as if it were to Sagas what Harold’s body is to English history to artists.
+
+Yes, I liked that Xmas article in the [Saturday](../others.html#99), but owing to the paucity of new books it has been less amusing lately, save when grinding the bones of poor [Mr Tupper](../persons.html#1801). [^1] You will be glad to hear that [Miss Dyson](../persons.html#464) has seen [Mr Paget](../persons.html#1802), /a surgeon who reassured them all very much, ordered steel, which seems to revive her at every drop, and gives her every reason to hope that she will at least return to her usual state.[^2] She was going downstairs and to Church when last I heard. I only hope she may not have attempted too much this week and thrown herself back. I am glad you are going on with [Likes & Dislikes](../others.html#248), will Julia still keep her mind about India in the present state of affairs?[^3]
+
+yours sincerely
+
+C M Yonge
+
+[^1]: ‘Christmas Books and Christmas Boxes’, Saturday Review 4 (19 December 1857) 557-9.
+
+Martin Tupper (1810-1889) was the author of Proverbial Philosophy (1838), a bestselling volume of verse.
+
+[^2]: Perhaps James Paget (1814–1899), cr. (1871) 1st Bt..
+
+[^3]: News of the [Indian Mutiny](../others.html#134) reached England in early summer of 1857, and the drama unfolded throughout the year; the relief of Lucknow did not take place until November.
+

@@ -1,0 +1,31 @@
+---
+date: '1868-09-21'
+display-date: Sept 21 [1868[[footnote:1]]]
+from-address: Elderfield
+manuscript-location: MS Charlotte Mitchell
+original-date: '2010-06-16 12:55:46'
+title: "To Edith Sophia Jacob\t\t"
+wordpress-id: 2268
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Edith](../persons.html#749)
+I am so glad to have heard from you though I wish I could hear that Malvern was invigorating you, to say nothing of [Dr Gully.](../persons.html#599) [Miss Dyson](../persons.html#2016) is the niece of [my friend](../persons.html#464); I have only once seen her.
+
+She, ie Miss Dyson of Malvern is the daughter [of] old [Mr Frank Dyson](../persons.html#1774) of Tidworth whose name I think you must know and do not take it as a bad omen, has never been able to leave Malvern since she went there some twenty years ago. I found that after all the little notice of the ‘Gates of Paradise’ which I had written for the [Monthly Packet](../others.html#52) is coming in October. I thought it had been long ago, I hope the [Literary Churchman](../others.html#76) has turned up. I will send you the Octr M Packet as soon as it comes out, but it is a stupid little bit.
+
+Are you able to think, though you cannot read, or have you banished thought It would be hard on your [brother](../persons.html#748)’s Ordination day. I am wishing I could be at the Natal meeting on Thursday, but I shall be quite alone that day, and I do not think I can be spared.
+
+Being able to take hold of my hand is the thing [Mamma](../persons.html#1606) seems most to care for. I have left off this note many times to take hold of her hand.[^2] Yet - and there my note came to an end, between [Miss Wilbraham](../persons.html#1513)’s [nephew](../persons.html#2017) coming for leave out and all other interruptions so my yet - remains unsolved!
+
+yours affectionately
+
+C M Yonge
+
+[^1]: The year date has been added in pencil in another hand, and the words ‘The first year of my illness.’
+
+[^2]: Annotated ‘It was in answer to this I said that our Blessed Lord seemed to know this human instinct in us when he instituted the Blessed Sacrament by which we might touch Him, to which CY alludes in her next’.
+

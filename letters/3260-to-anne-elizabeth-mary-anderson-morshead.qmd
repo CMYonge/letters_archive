@@ -1,0 +1,46 @@
+---
+date: '1894-04-30'
+display-date: April 30 [1894]
+from-address: Elderfield
+manuscript-location: MS location unknown. Printed in Coleridge, [[otherbook:40]<i>Life</i>],
+  333-4.
+original-date: '2010-08-11 15:29:08'
+title: To Anne Elizabeth Mary Anderson Morshead
+wordpress-id: 3260
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mary](../persons.html#28)
+This is Mr. C.'s paper; please return it as I want to keep the Hursley papers. I did not see the original articles, nor have I read the horrid book, but the day that the [Church Times](../others.html#61) had its article came one of [A.](../persons.html#1024)'s letters admiring it.[^1] I wrote strongly to her on the danger of being fascinated with such books, and the horrid irreverence, and I also wrote to the Ch. T. saying what you see.
+
+Then they put in what you also see, and there followed on Saturday this clergyman's defence. I wrote and sent yesterday pretty much what I had said to Annie of the shocking irreverence of 'flights of imagination' and 'inaccuracy' in dealing with inspired writings and the Death; I durst not say more for fear of betraying my not having read it.
+
+And all this did settle Annie, also finding the Thompsons had been shocked from the first, and she gave in nicely. I dwelt too, both to her and in this letter of yesterday, on the evil of fictitious narratives coming into one's head on Good Friday; but as my letter went yesterday, I don't like to add what you say to go by the next post in the same writing.
+
+Only I think it would be very good for all concerned if you would be so good as to write a letter to the editor putting in what you have said to me and anything besides.
+
+Of course the editor must have your name, but you need not sign it in your own.
+
+There must be a fascination in the book; I believe [she](../persons.html#2135) is a woman given to spiritualism, perhaps on her way to better things.
+
+Dear old [Mary ](../persons.html#1626)comes on here after Sidmouth!
+
+Milton's minor poems seem to have been written at intervals all through his better days.
+
+Thanks for these emendations; I think the papers must have been misprints
+Your affectionate
+C. M. Y.
+
+Please do this to the paper; it ought to be assailed on all sides.
+
+They say the [Guardian ](../others.html#75)commended it.
+
+It was some time ago, and my impression is that it treated it slightly, as not so bad as it might be.
+
+Mr. C. ought to know he has done a shocking thing in recommending such a book; the more censure he has the better.
+
+[^1]: See the letter to Charlotte Anne Elizabeth ‘Annie’ Moberly (12 April 1894), deploring her admiration for Marie Corelli’s Barabbas (1893).
+

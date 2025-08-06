@@ -1,0 +1,35 @@
+---
+date: '1867-10-28'
+display-date: Oct 28th [1867?][[footnote:1]]
+from-address: Puslinch
+manuscript-location: 'MS UCLA: collection 100: box 95'
+original-date: '2010-06-25 10:47:02'
+title: To an Unknown Woman
+wordpress-id: 3508
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam,
+I am at present in Devonshire whither your letter has followed me but not your MS. which awaits me at home.
+I do not think it is easy to judge of a tale by one chapter, and I am not sure that it would not be best to bring your story to a conclusion, and then send me the whole.
+
+It is always dangerous to accept without seeing the whole.
+
+Perhaps therefore when the story is finished you would have it left at
+Messrs[ Mozley](../others.html#108)’s [sic],
+6 Paternoster Row
+whence it would be forwarded to me.
+
+But I must forewarn you that there will probably be a long period after its acceptance before I could make room for it, and that the amount of [remuneration](../others.html#102) is only 2/6 per page.
+
+Perhaps these terms may not suit you, in which case I would return the first chapter on my arrival at home.
+
+Yours faithfully
+
+C M Yonge
+
+[^1]: She was at Puslinch in late October 1867, but this is not conclusive evidence for this date.
+

@@ -1,0 +1,30 @@
+---
+date: '1889-12-01'
+display-date: '[December 1889]'
+from-address: ''
+manuscript-location: MS fragment Mrs Clare Roels/72
+original-date: '2011-10-07 15:11:47'
+title: To Elizabeth Barnett?
+wordpress-id: 2923
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[To [Elizabeth Barnett](../persons.html#113)?]consciously – in extremity breaks his heart over it and is converted by his failure. I have had my head very full of it. I want to know what you think of the Apples of Sodom, for we have various controversies about it, [Christabel](../persons.html#329) thinks the one religious man becoming morbid and accustomed a mistake and likely to promote the popular fancy about good men and clergy, and [Miss Bramston](../persons.html#198) says she meant the morbidness to be part of his penance.
+
+It was confession that he wanted, but it is a painful story, and one wants someone to love though there is something noble in it. I fancy [Emma](../persons.html#822)’s paper was really found too late.[^1] When I did the [Spiders](../others.html#116), papers that came in singly before the general mass, had a tendency to be put aside, and forgotten at the right time.
+
+Please return the letter [Gertrude](../persons.html#1462) keeps all the queer ones, and very queer they are sometimes.
+
+My poor old [May](../persons.html#351) has been having blisters for congestion of the liver which I don’t like, but she says she is to have a visit from [Alley](../persons.html#923).[^2] Poor little King of Spain, it would be an escape for him[^3]
+
+[^1]: It seems likely that this is Emma (Butler) Knight and that therefore this letter (which is among Christabel Coleridge\'s papers) is to her aunt Elizabeth Barnett, to whose papers Coleridge had access while writing the biography.
+
+[^2]: CMY refers here to Mary Coleridge and her sister Alethea Mackarness.
+
+[^3]: Alfonso XIII (1886-1941), King of Spain, was a posthumous child who had reigned from birth.
+
+His illness was reported in The Times (28 December 1889) 9b.
+

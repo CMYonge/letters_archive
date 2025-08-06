@@ -1,0 +1,27 @@
+---
+date: '1869-01-25'
+display-date: Jany 25th [1869]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS New York Public Library, De Coursey Fales Collection/4
+original-date: '2011-02-02 11:35:26'
+title: To an Unknown Woman
+wordpress-id: 2297
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Miss [name deliberately obscured][^2]
+I hope I am not tormenting you but on account of other engagements I am anxious to know whether you could come this week or next.
+
+The week that begins with the 7th and has Ash Wednesday in it, I am going to spend at [Mr Wilson](../persons.html#1541)’s but the one after that I shall be at home again if that suited you better than within the next fortnight
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Black-edged paper, endorsed ‘1869’.
+
+[^2]: Possibly [Elizabeth Missing Sewell](../persons.html#1301), a number of whose letters from CMY are marked in this way.
+

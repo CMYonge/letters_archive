@@ -1,0 +1,22 @@
+---
+date: '1880-01-01'
+display-date: '[1880s, 1890s?]'
+from-address: ''
+manuscript-location: 'MS UCLA: collection 100: box 95'
+original-date: '2011-10-10 12:18:11'
+title: To Miss Hutchins
+wordpress-id: 3541
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Miss Hutchins](../persons.html#739)
+I am so sorry I did not send these before.
+
+They came at a very busy time, and I am sorry to say I put them into a drawer with some Christmas cards and forgot them till [Miss Cazenove](../persons.html#274) reminded me.
+
+Yours truly
+
+C M Yonge

@@ -1,0 +1,28 @@
+---
+date: '1880-08-28'
+display-date: Aug 28th [1880s?]
+from-address: ''
+manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
+original-date: '2011-10-10 10:52:14'
+title: To Anne Elizabeth Mary Anderson Morshead?
+wordpress-id: 2931
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mary](../persons.html#28)
+I don’t think I would venture. I think you would probably be left in the lurch in some way or other and the name is not known enough to inspire any confidence.[^2]
+I think you might find some one who would take the risk which would be much better for you. I am making my way home from Devonshire where I have been first with [Mary Yonge](../persons.html#1626) and then with [Mary Coleridge](../persons.html#351), and I hope to get back on Saturday.
+I wish you had said how [Lottie](../persons.html#1588) is
+Your affectionate cousin
+
+C M Yonge
+
+[^1]: Watermarked 1877.
+
+[^2]: Mary Anderson Morshead was author or editor of several books, and this probably refers to her attempts to find a publisher, possibly for the first of them, Chips from the Royal Image: Being Fragments of Eikon Basilike (London: Masters 1887), to which CMY contributed her name as editor. (Anderson Morshead had been a fanatical supporter of Charles I since she was a teenager.) But equally the letter might be to another person or refer to another book.
+
+Another possible correspondent is [Mary Isabel Yonge](../persons.html#1628), the sister of \'Lottie\' Yonge.
+

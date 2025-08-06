@@ -1,0 +1,27 @@
+---
+date: '1897-03-31'
+display-date: March 31st [1897?]
+from-address: Elderfield Otterbourne
+manuscript-location: MS Princeton University,  Parrish Collection
+original-date: '2010-06-30 09:17:47'
+title: To Clifford Wyndham Holgate?
+wordpress-id: 3598
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Holgate](../persons.html#1643)
+I think I saw in some county book about Wiltshire that one of the Tukes of Tuke house was said to have been the original of Sir Roger de Coverley. [One of my cousins](../persons.html#1644) the Crawley Boeveys who believe themselves to belong to [the Widow](../persons.html#1646)’s heir-at-law, learnt (in an unlucky hour for me) that I had heard this report, and insists on my finding it out for him. I am sure I came upon it when staying in Salisbury, and I think in a book.
+
+Can you help me to clear it up for him
+
+I believe he is making a family history[^1]
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Arthur Crawley Boevey, The ‘perverse widow’ : being passages from the life of Catharina, wife of William Boevey, esq., of Flaxley Abbey, in the county of Gloucester; with genealogical notes on that family and others connected therewith (London: Longmans 1898) claims that Catharina Boevey (1670-1726) was the original of the \'perverse widow\' admired by Richard Steele\'s imaginary Sir Roger de Coverley.
+

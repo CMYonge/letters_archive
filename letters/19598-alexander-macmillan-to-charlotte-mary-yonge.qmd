@@ -1,0 +1,46 @@
+---
+date: '1866-09-06'
+display-date: ' Sept 6 1866'
+from-address: ''
+manuscript-location: Copy outletter book British Library Add MSS.55386 (1) P.387
+original-date: '2014-05-22 12:59:07'
+title: Alexander Macmillan to Charlotte Mary Yonge
+wordpress-id: 19598
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Miss Yonge,                                                                   Sept 6 1866
+
+We shall look forward to the [Chaplet of Pearls](../books.html#69) beginning as soon as either “Old Sir Douglas” or “The Silcotes”[^1] cease.
+
+It will be, I venture to think, one of your most popular books, and ought not to be the worse for a little mellowing.
+
+I am going down to Scotland with[ my wife](../persons.html#940) tomorrow morning, and will be away for a fortnight.
+
+After that I hope to be at home all the winter.
+
+We shall be very glad to see any of the worthies when you have done them.
+
+I quite hope that [Mrs Daniel](../persons.html#941) is on the way of recovery.
+
+She is with us at present at [illegible]  of [illegible]  during our absence.
+
+I hoped to send you’re a/c for the year with this. [Mr Craik](../persons.html#379) will in a few days.
+
+I have several other matters which I want to talk to you about when I come back. I will write you very soon.
+
+Very faithfully yours
+
+A.
+
+Macmillan
+
+&nbsp;
+
+[^1]: Chapters of [Caroline Norton](../persons.html#1978)’s Old Sir Douglas appeared in [Macmillan’s Magazine](../others.html#78) from January to May 1866, and then from September 1866 to October 1867.
+
+The Chaplet of Pearls was serialized from November, 1867 to December 1868. [Henry Kingsley](../persons.html#1940)’s Silcote of the Silcotes ran from July 1866 to September 1867.
+

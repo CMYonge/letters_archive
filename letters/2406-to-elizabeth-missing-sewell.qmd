@@ -1,0 +1,24 @@
+---
+date: '1871-05-13'
+display-date: '[13 May 1871]'
+from-address: ''
+manuscript-location: 'UCLA: collection 100: box 95'
+original-date: '2011-06-06 13:36:58'
+title: 'To Elizabeth Missing Sewell '
+wordpress-id: 2406
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[To [Elizabeth Missing Sewell](../persons.html#1301)]
+All right. [M](../persons.html#939) sends them to me for nothing.
+
+You shall have them.
+
+Has he sent you the [Scripture Readings](../books.html#87)
+C M Y
+
+[^1]: A postcard postmarked Winchester D My 13 71 and Ventnor My 14.
+

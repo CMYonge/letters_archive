@@ -1,0 +1,148 @@
+---
+date: '1838-08-06'
+display-date: August 6, 1838
+from-address: ''
+manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  133-6.
+original-date: '2010-03-12 11:26:58'
+title: To Anne Yonge
+wordpress-id: 2936
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Anne](../persons.html#1582),
+As [Sir William Heathcote](../persons.html#669)[^1] is coming here this evening I take this opportunity of writing to you, I hope, to thank you beforehand for the letter I am to expect on Saturday. I think your Coronation Festival[^2] must have been most splendid, especially the peacocks’ feathers.
+
+You must have wanted [Duke](../persons.html#1599) to help you arrange it all, I think. I know he always used to be famous for arrangements. [Sarah Williams](../persons.html#1525), a young lady whom I know very well, was in the Abbey and saw all the Coronation.
+
+Her party went at five in the morning, and though they had to wait five hours, yet the sight of the people arriving was so amusing that they seemed like five quarter of hours.
+
+They were very much amused by the way in which the foreigners behaved when they came into the Abbey.
+
+They had to pass the seats of the Peeresses, and no sooner did they come in sight of them than they all, [Marshall Soult](../persons.html#1349)[^3] at the head of them, stopped short and began to bow to the ladies, whilst the unfortunate ushers whose business it was to get them into their places were exceedingly afraid the [Queen](../persons.html#1694) would come whilst they were stopping the way, and at last they raised a report that the Queen was coming and they all had to get into their places as fast as ever they could.
+
+But when the English Peers came they all walked into their places, scarcely looking at the ladies. [Mrs.
+
+Harcourt](../persons.html#1442) and [Caroline Jervis](../persons.html#766) were staying here the week before last, and they made a very pleasant visit.
+
+Mrs.
+
+Harcourt gave me a most beautiful workbox as large as mamma’s and inlaid with mother-of-pearl.
+
+The thimble is a Coronation thimble.
+
+On one side of the rim it has ‘Victoria’ and on the other ‘Crowned, 28th of June 1838.’ The box is fitted up with blue watered silk and it has scissors, knife, pinchers and all sorts of working tools.
+
+As to the pinchers I do not know what use in work they can be, but the woman who sold it told Mrs.
+
+Harcourt that they were to take out thorns out hunting, but I think it is possible to get thorns in one’s fingers without going out hunting.
+
+Yesterday [Mrs.
+
+Chamberlayne](../persons.html#278)’s two youngest children were brought to church to be christened.
+
+They were to come at half-past-two but were late, and we got to church just as [Mr.
+
+Wither](../persons.html#1544) was going to take the little girl, [Francesca Maria](../persons.html#279), into his arms.
+
+She behaved very well, but when Mr.
+
+Wither took [Frederick Cranley](../persons.html#280), who is about two years and a half old, he cried terribly.
+
+There were so many people that came to the christening that there was no room in the great Cranbury pew, so several of the gentlemen went into their servants’ pew, and [grandmamma](../persons.html#103), who was in Mr.
+
+Wither’s, took Mr.
+
+Chamberlayne into this.
+
+To-day there is a great cricket match at [Cranbury](../others.html#119) between Hampshire and Mary-le-bone to which everybody is invited, [papa](../persons.html#1631) among the rest, so he and [Julian](../persons.html#1624) are gone there to see it.
+
+We have a chicken with three legs belonging to the little bantam hen. I hope we shall not lose it, of which there seems some chance, as [Thomas Powell](../persons.html#1199) has just lost sixteen old hens and fifteen couple of chickens.
+
+We can now vie with you in singing birds, as I had a present the other day of three live canary birds, one of which, a green one, we have given to the little baker, and the other two, one yellow with a black saddle on its back and one very like a gold-finch, we keep.
+
+Julian has given them the names of Saddle and Goldfinch.
+
+Mr.
+
+Wither moved into his new house last Thursday, and it looks very comfortable indeed with all the furniture that we saw at [Mrs.
+
+Warren](../persons.html#1473)’s.
+
+He has at length had his poor old dog Psyche killed.
+
+Grandmamma says she was grown like a pig. I have finished little [Alice Moberly’s](../persons.html#1025) shoes at last, and now I am doing a paper case in tent-stitch on wire.
+
+It is a pattern of carnations. [Miss Tucker](../persons.html#1423)’s aunt has been staying here and has taken back little Alfred. [Miss Emma](../persons.html#1422) has been ill, so there is some fear of Miss Katherine’s being wanted to supply her place at home, which would be a terrible thing for Miss Tucker.
+
+The church, I hope will get on a little faster now, for there are fifteen workmen at it to-day, and the tower is up and one of the bells and the new school-bell are come.[^4] You cannot think how pretty the new bell-turret looks amongst the trees from a distance, especially from the poor old church.
+
+The [Boys’ School](../others.html#107) (which mamma says is built of pincushions and penwipers, and do you not think that your W.H.W.B.W. bookmarker must have had something to do with it?) gets on very well and is come to the windows.[^5] I do not know what Julian would say to that parenthesis as he has a great objection to parenthesis, especially in his Caesar.
+
+The answer to [Charles’](../persons.html#1601)s riddle was S, as if you add S to I it makes IS, the Latin for him.
+
+The answer to the one about the Coronation is, because it is a rare occurrence, i.e. rare o’currants.
+
+It is a very bad one, but is funny.
+
+Mamma desires you to guess why a mouse is like mangel-wurzel? I suppose you have been out in the boat this summer, if it was not too wet.
+
+Mamma desires me to say that she fully intended to write, but just before papa went off to Cranbury he gave her something to draw for the church, nevertheless she does not forget the obligations she owes to [Aunt Yonge](../persons.html#1580) and [great A ](../persons.html#27)and little a, and she will certainly answer their letters, with all and each of which she was very much pleased.[^6] [Mrs.
+
+Royle](../persons.html#1265) is here talking to mamma and grandmamma very fast. I do so wish that the Mag[pie]s might have an answer to their letters.
+
+They have both been moulting, and Stumpy’s new tail is growing very fast, and Longtail is shabby in nothing but his head, which is covered with young feathers looking so funny.
+
+He pecked my throat furiously about a fortnight ago, besides stealing two pair of Martha’s scissors and mamma’s thimble, but now papa has cut his wing and grandmamma has put up a net in front of the drawing-room window, so that he cannot get in so well as he could before, which makes him ‘send forth his venomous noise’ most vehemently.
+
+Mamma’s whooping-cough is almost gone now and Julian only coughs in the night in his sleep, so he has it very comfortably without waking himself.
+
+There is to be a Confirmation here on the first of October, when I hope I am to be confirmed. I am to go to [Mr.
+
+Keble](../persons.html#798)’s to be examined.[^12] [Mrs.
+
+Keble](../persons.html#795) does not seem the worse for her journey. I have not set about the story in the Davenport family yet, but I hope I shall some time or other. I wonder whether this letter will arrive before you send yours.
+
+If it does pray tell me whether a certain black chrysalis with a yellow corkscrew round him belongs to that caterpillar that you and I saw eating when we gathered the gooseberries, and what sort of moth he comes to. [Little Whorley](../persons.html#1498) was very ill all night, but is a great deal better this morning. [Richard Smith](../persons.html#1341) could not be found last night to give them an order for [Mr.
+
+Dennis](../persons.html#435), so they went without him. [Mr.
+
+Rudd](../persons.html#1265),[^13] Alfred’s friend of bows and hospital paper, has been going on ever since better and worse, but now Mr.
+
+Wither thinks he cannot live much longer.
+
+Papa has bought the blacksmith’s shop that was [Betsy Comely’s](../persons.html#363), so Mr.
+
+Wither says that I in future must represent her.
+
+She is going to live there still though, and Julian informs us that the new blacksmith will make edged tools.
+
+[^1]: Sir William Heathcote, 5th Bt. (1801-1881), M. P., whom CMY will ask to frank her letter by writing his name on the envelope.
+
+Before the penny post was started in 1839 peers and M.P.s, whose letters went post free, were constantly liable to such requests.
+
+[^2]: The Coronation of Queen Victoria on 28 June 1838.
+
+[^3]: Nicolas Jean de Dieu Soult (1769-1851), duc de Dalmatie, one of Napoleon’s marshals, representative of France at the Coronation.
+
+[^4]: This was the new church of St.
+
+Matthew’s, Otterbourne, designed by WCY, and consecrated in 30 July 1838. CMY describes her father’s efforts to bring about the construction of the new church in Coleridge, Life, 116-7 and John Keble’s Parishes 99-103.
+
+[^5]: A bazaar, with stalls of home-made goods such as pincushions and penwipers, had been held to raise funds to build a boys’ school in Otterbourne, and Anne presumably had made a bookmark with Mr Bigg-Wither’s initials on.
+
+This was a very common way of raising money for charity in Victorian England.
+
+For CMY\'s later attitude to bazaars, see the discussion by Leslee Thorne-Murphy, \'The Charity Bazaar and Women\'s Professionalization in Charlotte Mary Yonge\'s The Daisy Chain\' Studies in English Literature 1500-1900 47 (Autumn 2007) 881-9.
+
+[^6]: Anne’s mother, Alethea Henrietta (Bargus) Yonge (1789-1844), ‘Aunt Yonge’, was half-sister of CMY’s mother.
+
+Anne herself was ‘ little a’, her elder sister Alethea (1815-1863, who married in 1845 the Rev.
+
+John Philip Anderson Morshead), ‘great A’.
+
+The allusion is to a nursery rhyme ‘Great A, little a,/ Bouncing B,/ The cat’s in the cupboard/ And she can’t see.’ Iona and Peter Opie, Oxford Dictionary of Nursery Rhymes (1951), 51.
+

@@ -1,0 +1,29 @@
+---
+date: '1893-01-17'
+display-date: Jany 17th 1893
+from-address: Elderfield
+manuscript-location: 'MS British Library  Add MSS 54921: 191-2'
+original-date: '2010-07-20 10:13:58'
+title: To George Lillie Craik
+wordpress-id: 3212
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+Would you be so kind as to direct this letter on to Miss [Frances Martin](../persons.html#971).
+
+The address on her letter was printed in some ‘old English type’ and after much consideration I decided that the word looked more like Carrara than anything else but the Post acknowledges no such place.
+
+Thank you for your letter. I think this will suit us, but I will write on to [Miss Coleridge](../persons.html#329).
+
+If you do not hear in three or four days, consider that we consent[^1]
+
+Yours truly
+
+C M Yonge
+
+[^1]: This means \'consent to the terms proposed for the volume publication of [Strolling Players](../books.html#229)\' which they had written together and which had been coming out in [MP](../others.html#52).
+

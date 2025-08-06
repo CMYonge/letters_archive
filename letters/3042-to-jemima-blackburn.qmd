@@ -1,0 +1,40 @@
+---
+date: '1854-05-13'
+display-date: May 13th [1854]
+from-address: ''
+manuscript-location: 'MS University of Illinois, Urbana Champaign: Letter 4. '
+original-date: '2010-04-14 13:50:43'
+title: To Jemima Blackburn
+wordpress-id: 3042
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mrs Blackburn](../persons.html#159)
+That you may see the earnest has begun I send you the beginning of [Tom](../books.html#21) on inspection, but please let me have him again or I shall forget what articles of fairy furniture have been used up. I like the work very much, and where you see numbers put I mean to have notes, and quote my authorities, Drayton, Ben Jonson, Shakespeare, Geoffrey of Monmouth.
+
+In this way I think pretty bits of fairy poetry might be put within reach of children, and also in the parts where the old nursery tale is altered, the other version might go into the notes, without spoiling the story, thus getting rid of King Hunstone [?], the miller &c. [Head and tail pieces](../others.html#167) would be very pretty, and I have a liking for those fine woodcut capitals.
+
+What a fine I for the beginning Owen’s thumb would make [indecipherable] and for Chapter two, the E might be fairies twisting some bryony and convolvulus into an <> it would be very charming.
+
+Do you know a certain edition of ‘[The Lady Bertha’s Honey broth](../others.html#57)’[^1] most admirably illustrated? I wish you could light on any authentic history of the way Vivianna made Merlin confine himself into a circle of grass whence he could not get out, and pined away until he was nothing but voice, and there I fancy he is still. I know it happened but I cannot find it, I wonder if it is in Davies’ [Ancient Britons](../others.html#49).
+
+Shall I make Mab’s chariot a hazel nut after Shakespeare, or a snail shell after Drayton? I believe the latter is the prettiest equipage to appear in a drawing, though the joiner squirrel is so charming in description.
+I am delighted with the agreement about the Scripture prints, but by the bye, I am afraid your conies ought not to be rabbits, but little marmots.
+
+Those texts in the Prophets and Proverbs are a good thought. I remember the big blank space I did not like for want of pictures in [Mant’s Bible](../others.html#112).[^2] What shall you do with the Eagle.
+
+For one I hope you have it stirring up its nest and you might draw in your desert island with a burnt stick.
+
+The gun is a consideration in killing but one might live on turtle’s eggs.
+
+[^1]: Alexandre Dumas père, La Bouillie de la comtesse Berthe (1844) appeared in several English translations; CMY refers to the 1846 Chapman & Hall edition with 100 illustrations done by Albert Bertall for the French edition.
+
+[^2]: The Holy Bible, according to the Authorized Version: with notes, explanatory and practical; taken principally from the most eminent writers of the United Church of England and Ireland : together with appropriate introductions, tables, indexes, maps, and plans ed.
+
+George D\'Oyly and Richard Mant (London: SPCK 1817).
+
+Years later CMY described her father reading it to her as a child in [ \'A Real Childhood\'](../books.html#254): \'Daily, before breakfast, he read the Bible with us, from Mant\'s edition.\'
+

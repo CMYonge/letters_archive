@@ -1,0 +1,25 @@
+---
+date: '1877-11-10'
+display-date: 'Novr 10th 1877 '
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: 'MS University of Delaware '
+original-date: '2011-08-05 10:02:50'
+title: 'To Ellen Julia Johns '
+wordpress-id: 2606
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mrs Johns](../persons.html#772)
+So many thanks for your kindness in doing me that nice couvre pied.
+
+It was just what [Miss Walter](../persons.html#1462) had been assuring me that the sofa specially wanted for the winter and it brightens us up beautifully I am sure it has not been weather for going about this winter or rather autumn
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Black-edged paper.
+

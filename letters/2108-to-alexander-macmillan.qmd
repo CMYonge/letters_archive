@@ -1,0 +1,35 @@
+---
+date: '1866-03-19'
+display-date: March 19th [1866]
+from-address: ''
+manuscript-location: 'MS British Library Add MSS 54920: 148-149'
+original-date: '2010-06-07 12:00:09'
+title: To Alexander Macmillan
+wordpress-id: 2108
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939),
+I have been slow in answering you, but the fact is that I have been rather knocked down by a bad cold, and reduced to little more energy than is necessary to look over the sheets of the [Dove](../books.html#62).
+
+Indeed I am told to do as little as possible just now, and therefore I think I must lay aside that which I have hardly taken up the [Sunday Library](../others.html#145) superintendence. I am sure that with my tone of principles, that the sort of responsibility would lead to questions & difficulty of conscience that would hurt my health. I have said something of the kind before, but you were so kind that I hardly knew how to refuse, and I hope still the scheme will go on, and that I may take all interest as an outsider, and a contributor.
+
+As a fact I am afraid you must accept it that I am too High Church and too narrow for work not of that exclusive character, except at the expense of some harrass - and that I find I am not equal to.
+
+The sort of doubt I have of [Mr Plumptre](../persons.html#1175)’s[^1] tone is just a case in point, but I am not up to writing more at length today
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Probably the Rev.
+
+Edward Hayes Plumptre (1821-1891), chaplain of King’s College London and a professor at Queen’s College, Harley Street.
+
+He was brother-in-law of F. D.
+
+Maurice and influenced by him, which would sufficiently account for CMY’s suspicions.
+

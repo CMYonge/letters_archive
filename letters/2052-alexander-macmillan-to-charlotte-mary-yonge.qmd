@@ -1,0 +1,32 @@
+---
+date: '1865-07-04'
+display-date: July 4. 1865
+from-address: ''
+manuscript-location: 'Copy outletter book British Library Add MSS. 55384 (2): P. 627'
+original-date: '2010-05-26 14:06:22'
+title: Alexander Macmillan to Charlotte Mary Yonge
+wordpress-id: 2052
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Miss Yonge	
+[I](../persons.html#939) have seen the lithographer this morning and shown him [Miss John](../persons.html#887)’s drawing.
+
+He, I am sorry to say, was more emphatic against it than even I felt.
+
+Would you mind my going to my friend [Mr Farren](../persons.html#500) I do not like seeming to slight your friend but indeed I doubt much whether Miss Johns could do justice to the charming story.
+
+Mr Farren has greatly improved since he did the [Little Duke](../books.html#20) pictures, and would I am sure do something very effective. [Mr Brooke](../persons.html#1947) is just patenting a new style of photolith. which he thinks will be a very great improvement on the old.
+
+He and Mr Farren would be together and the drawing would be made in a style suitable to the process.
+
+Pray tell me if I may go on with them.
+
+Yours very truly
+A.
+
+Macmillan
+I agree to the number of [illustrations](../others.html#167) you propose.

@@ -1,0 +1,24 @@
+---
+date: '1897-05-20'
+display-date: May 20th 1897
+from-address: Elderfield
+manuscript-location: MS West Devon Area Record Office Acc No 308
+original-date: '2010-10-07 08:12:58'
+title: To Mary Yonge
+wordpress-id: 3350
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mary](../persons.html#1626)
+[Gertrude](../persons.html#1462)’s long patience is over- It has been a sharp morning, ever since 9 o’clock she has been actually dying - [Henry](../persons.html#184) came and gave her the Holy Communion at 10 and then she went on whispering for his Prayers and hymns till 1 o’clock always holding my hand when consciousness failed her, and she went about a quarter past.
+
+It has been a very dear companionship of 24 years to me, an act of patience in her for 36 years, and how many will miss her little (and great) kind hopes.
+
+She was my memory- [Frances](../persons.html#1604) is on her way down but too late to see her
+your most affte
+
+C M Yonge
+She would have been 48 on the 24th

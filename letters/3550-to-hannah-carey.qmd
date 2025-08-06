@@ -1,0 +1,22 @@
+---
+date: '1890-03-11'
+display-date: March 11 [1890s?]
+from-address: Elderfield Otterbourne
+manuscript-location: 'MS Columbia University Library, New York: Ray Collection.'
+original-date: '2011-10-14 19:31:10'
+title: To Hannah Carey
+wordpress-id: 3550
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Hannah](../persons.html#253)
+[Helen](../persons.html#1613) has returned from her wanderings, of course having caught cold by the way, but it is just going off.
+
+Could you come over to tea, either on Saturday, Monday or Tuesday - and see her. [Frances](../persons.html#1604) and the little boys start on the 21st of April
+
+Yours affectionately,
+
+C M Yonge

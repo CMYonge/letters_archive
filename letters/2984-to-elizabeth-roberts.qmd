@@ -1,0 +1,40 @@
+---
+date: '1851-12-15'
+display-date: Decr 15th [1851]
+from-address: Otterbourn
+manuscript-location: 'MS Huntington Library: Yonge Letters'
+original-date: '2010-03-19 15:01:51'
+title: To Elizabeth Roberts
+wordpress-id: 2984
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Madam](../persons.html#1243)
+I send you the proof of the [Garland](../others.html#225), which you had better return direct to
+Messrs [Mozley](../others.html#108)
+Friar Gate
+Derby
+His printers are apt to make great havoc with botanical names, and then put puzzled queries in the margin which amuse me very much. I could not find St Gundula in [Alban Butler](../others.html#27), and so must leave that correction to you.
+
+You will see that I have made one or two little alterations. I did not like to call the 3d century a time of superstitious observance, and there are some stories of Clothilde in [Thierry](../others.html#168) which make me doubtful if the epithet gentle quite applies to her. I have also put your description of St Genevieve’s shrine into the past, as I am afraid her Church has been turned into the Pantheon, and indeed as I found myself the other day it is not at all safe to speak decidedly of the present state of any church in unfortunate France.
+
+Perhaps you yourself would change one of two expressions which occur too near each other, where St Genevieve is called a true woman, & Veronica a true womanly image -- I think the first might be altered with advantage.
+
+Will you allow me to submit to you one other alteration, namely in the verses where you say
+‘On your holy anthem voicing’
+I am not sure that voicing is a real word, and if it could be altered to some such word as ‘pealing’ or perhaps to ‘voices,’ I think it might be better, but this I say with great diffidence, only as a suggestion. I am so far like Alexander in the [Story of a Family](../others.html#148)[^1] that I like to be able to parse the sentences I meet with.
+I think the printers would be glad to have the proofs as quickly as you can forward them, as Sunday & two day posts have delayed them.
+
+Believe me
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: S. M. [i.e.
+
+Menella Bute Smedley] The Story of a Family (London Hoby 1851), reviewed in MP 2 (November 1851) 404; apparently a single copy survives in Cornell University Library.
+

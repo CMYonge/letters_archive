@@ -1,0 +1,66 @@
+---
+date: '1887-09-29'
+display-date: St. Michael [29 September 1887]
+from-address: Elderfield
+manuscript-location: MS location unknown.  Printed in Coleridge, [[otherbook:40]<i>Life</i>],
+  309-310.
+original-date: '2011-10-03 12:06:52'
+title: To Elizabeth Barnett
+wordpress-id: 2867
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear[ Lizzie](../persons.html#113)
+Thank you for your kind letter.
+
+This is the dear [Mrs.
+
+Gibbs](../persons.html#557)'s burial day[^1], and I have been prevented from keeping it properly by [Mr.
+
+Brock](../persons.html#201) suddenly knocking up this morning with neuralgia and sick headache.
+
+If it had only begun yesterday he would have got help on such a great Saint's day; but that is not to the purpose.
+
+We knew what was coming for nearly a month; Mrs.
+
+Gibbs herself had found something wrong in the spring.
+
+She would not, however, let her sons know till her [eldest son](../persons.html#2371) and his [wife](../persons.html#2372) came back from being in Scotland, and by that time in August dropsy was setting in. I do not think there was much acute pain till towards the end, and then it was allayed by morphia, and up to the last three weeks she was able to be taken to her beautiful chapel, which stands on arches so as to be level with the upstair [sic] rooms.
+
+There was restlessness and oppression, but exhaustion came on, and she sank in about a week, always sensible, and having thought of everybody and everything, quite happy and peaceful. I certainly never saw her like in many respects, there was such a conscientious humility and wisdom in all her largeness of heart, and such a grace and exquisite taste, together with self-denial.
+
+That [beautiful house](../others.html#207) was like a church in spirit, I used to think so when going up and down the great staircase like a Y.
+
+At the bottom, after prayers, [Mr.
+
+Gibbs](../persons.html#560) in his wheeled chair used to wish everybody good-night, always keeping the last kiss for 'his little maid,' [Albinia](../persons.html#2373), with her brown eyes and rich shining hair.
+
+She went a year before the old man- now fourteen years ago- but the dear Blanche did revive wonderfully, throwing herself into all her good works, and making her house such a place of rest and refreshment.
+
+Last time I was there it was with [Fanny Patteson](../persons.html#1151), the [Mother of St.
+
+Peter's Kilburn](../persons.html#2374), the [Bishop of Bedford](../persons.html#722), and [Mrs.
+
+Walsham How](../persons.html#721); now three out of the six are gone within a few months.[^2]
+Have you read Mgr. de Merode's Life?
+
+It is very curious; he was so entirely the chivalrous soldier all the time he was the devout priest and Pope's almoner, and he behaved so well about the dogma, and the poor old Pope was so fond of him. I had a little visit at Crookham just at the end of the hot weather, and found [Miss Bourne](../persons.html#1379) very well, but her heath sadly burnt up.
+
+Your affectionate
+C. M.
+
+Yonge
+
+[^1]: Blanche Gibbs died on 22 September 1887.
+
+[^2]: Frances Ann Douglas, wife of William Walsham How (1823-1897), Bishop of Bedford, died on 28 August 1887.
+
+St Peter\'s Home and Sisterhood, Mortimer Place, Kilburn, was founded in 1861 to care for sick and convalescent women and children and Blanche Gibbs had become an associate and major benefactor after Albinia’s death from tuberculosis.
+
+Reverend Mother Susan Oldfield was its head from its beginning to her death in January 1887: see Elizabeth Cuthbert, In St.
+
+Peter’s Shadow, 27.
+

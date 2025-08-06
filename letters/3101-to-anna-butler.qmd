@@ -1,0 +1,27 @@
+---
+date: '1857-06-13'
+display-date: June 13th 1857
+from-address: Otterbourne, Winchester
+manuscript-location: 'MS University of Delaware Library, Newark, Delaware, F295 '
+original-date: '2010-04-26 11:02:09'
+title: To Anna Butler
+wordpress-id: 3101
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Butler](../persons.html#237),
+Two lines to say that here I am at home, & shall be delighted to have [Likes & Dislikes](../others.html#248) if they are ready. I go to [Dogd](../others.html#121) on Monday week, but if I could have them in the interval, I should be glad.
+
+But I am afraid it is of no use to try for two chapters in [one number](../others.html#52) I am engaged to so much, I have been reading Peothès[^1] in English and delighting in him.
+
+In great haste
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: The librarian confirms that the word looks like Peothes, but no explanation can be offered.
+

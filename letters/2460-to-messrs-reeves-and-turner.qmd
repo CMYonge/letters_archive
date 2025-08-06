@@ -1,0 +1,18 @@
+---
+date: '1872-11-07'
+display-date: 'Novr 7th 1872   '
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Yonge Letters: Huntington Library'
+original-date: '2011-06-17 13:40:40'
+title: To Messrs Reeves and Turner
+wordpress-id: 2460
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Miss Yonge sends up a parcel of books for which she will be obliged if [Messrs Reeves & Turner](../others.html#239) will send her an order as before
+
+[^1]: Perhaps this relates to the sale of review copies?
+

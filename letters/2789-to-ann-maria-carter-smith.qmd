@@ -1,0 +1,23 @@
+---
+date: '1884-04-10'
+display-date: 'April 10th [1884]  '
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: 'MS Westcountry Studies Library, Exeter/  Yonge 1884/ 1 '
+original-date: '2011-09-26 13:43:35'
+title: 'To Ann Maria Carter Smith '
+wordpress-id: 2789
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Smith](../persons.html#263)
+I am terribly bound up with present matters of necessity but I will hunt up Delicia and see what I can do with her, though I know May, June & July are pretty full But I will put her in type, and then she will be sure of getting in soon (after Magazine calculation of soon)
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Carter Smith had evidently complained about the non-appearance of \'Delicia Darling\', which did not in fact appear in [MP](../others.html#52) until August 1886.
+

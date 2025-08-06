@@ -1,0 +1,28 @@
+---
+date: '1900-04-01'
+display-date: April 23d [1900?]
+from-address: Elderfield
+manuscript-location: MS Mrs Clare Roels/94
+original-date: '2010-10-18 13:15:34'
+title: To Christabel Rose Coleridge
+wordpress-id: 3453
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+[Mrs Sewell ](../persons.html#2220)came to call on Saturday and brought [Mrs Brook](../persons.html#2221), who said she was one of your old friends, so we had a talk about you. [Henry](../persons.html#184) has been setting up flags and making the children do honour to St George’s day.
+
+We are in high spirits about our reports, they are better than ever they have been but there is influenza still about.
+
+Adam Grigson is good but the cult of noble blood is too serious.
+
+Rosamund was not a wretch because her mother was a tobacconists daughter- and why does Francis always think without g to his participles he might speak but not think in slang grammar.
+
+The Valley of the Great Shadow is very good.
+I have got the number of the CL I do believe [Mary Bramston](../persons.html#198) will live to repent of being bitten by ?Driver when she feels what it involves towards the Gospels
+your affte
+
+C M Yonge

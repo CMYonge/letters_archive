@@ -1,0 +1,25 @@
+---
+date: '1899-04-11'
+display-date: April 11th 1899
+from-address: Elderfield Otterbourne
+manuscript-location: MS Mrs Caroline Fairclough/31
+original-date: '2010-06-30 09:56:33'
+title: To Mary Caroline Butler
+wordpress-id: 3403
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mrs Butler](../persons.html#239)
+At last I can send you the small amount for your [Snow Queen](../others.html#208) She was a long time waiting before I could get her in, but she looks very pretty in the number.
+I had the pleasure of seeing [Grace Guinness](../persons.html#594) last month, and hearing of my dear [Lizzie](../persons.html#113), who is really a wonder, I wish [Emma](../persons.html#822) was as well![^1]
+
+yours sincerely
+
+C M Yonge
+[Your husband](../persons.html#238) will be sorry to hear that the beautiful Common is being eaten up with houses, and there is talk of a Union Workhouse in the prettiest part.
+
+[^1]: Grace (Butler) Guinness and Emma (Butler) Knight were her correspondent’s sisters-in-law; Elizabeth Barnett was their aunt.
+

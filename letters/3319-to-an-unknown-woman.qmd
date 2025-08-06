@@ -1,0 +1,27 @@
+---
+date: '1896-03-19'
+display-date: March 19th 1896
+from-address: Elderfield Otterbourne Winchester
+manuscript-location: MS Princeton University, Parrish Collection
+original-date: '2010-09-10 13:53:12'
+title: To an Unknown Woman
+wordpress-id: 3319
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam
+Your suggestions are very kind and I am much obliged for them, but with regard to proposing subjects for home lessons, these would bring [‘Mothers in Council’](../others.html#82) into being a book read in the schoolroom, and this we decidedly wish to avoid, as there is much more liberty in writing counsels about children or young people if they are not supposed to read them.
+
+Where are the leaflets against indulgence in sweets? I had not heard of them.
+
+There are incidental protests in two of the papers in the coming number.
+I think that the practice has been popularised by Americans and also by an idea that it is a mistake to suppose they injure the teeth. I was brought up to despise that way of spending money, and I often wonder to see good people’s children look out for sweet shops. I will make a note of the [Children’s World](../others.html#58)[^1]
+Yours much obliged
+
+C M Yonge
+
+[^1]: The Children’s World was a new periodical published by the Church Missionary Society (1895-1900).
+

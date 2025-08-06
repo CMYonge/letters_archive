@@ -1,0 +1,23 @@
+---
+date: '1866-08-01'
+display-date: '[August 1866[[footnote:1]]]'
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS University of Iowa; MsL/Y56wa
+original-date: '2011-02-02 11:28:26'
+title: To the Hon. Mrs Warburton
+wordpress-id: 3555
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mrs Warburton](../persons.html#1465),
+I am sorry to say I have to dine with a great wedding party on Monday at my [brother](../persons.html#1624)’s, as [Miss Walter](../persons.html#616)’s wedding is to be on Tuesday, so that I am obliged to miss the pleasure you kindly propose to me
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Louisa Walter married Francis Edward Halliday in Otterbourne on Tuesday 7 August 1866.
+

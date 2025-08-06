@@ -1,0 +1,39 @@
+---
+date: '1867-03-08'
+display-date: March 8. 1867
+from-address: ''
+manuscript-location: Copy outletter book British Library Add MSS.55386 (2) P. 969
+original-date: '2014-05-22 16:33:16'
+title: Alexander Macmillan to Charlotte Mary Yonge
+wordpress-id: 19676
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Miss Yonge,                                                                 
+
+I am sending [illegible] to you to
+
+I would do nothing to explain the [illegible].
+
+Leave it as it is.
+
+That is my present feeling.
+
+But we can see how it strikes you a little later.
+
+In the meantime you shall see a specimen page shortly.
+
+The idea of the two characters is to me perfectly admirable, and contains lessons of charity which it was well we all [illegible].
+
+It has the same quality that struck me so much in the [Chaplet of Pearls](../books.html#69), and proved to me that I had often felt that there may be a Church which if not Broad is  [illegible] & which is perhaps better a Church of all divisions(?) High, low broad. [illegible] making it not lie in spiritual things.
+
+Very f’lly yours
+
+[A.
+
+Macmillan](../persons.html#939)
+
+&nbsp;

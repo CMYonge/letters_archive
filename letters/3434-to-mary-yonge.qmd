@@ -1,0 +1,35 @@
+---
+date: '1899-11-24'
+display-date: Novr 24th [1899]
+from-address: Elderfield
+manuscript-location: MS West Devon Area Record Office Acc No 308
+original-date: '2010-10-11 13:20:45'
+title: To Mary Yonge
+wordpress-id: 3434
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mary](../persons.html#1626)
+I do not suppose we can hear anything about dear [George](../persons.html#1610) till [Capt Plumer](../persons.html#2203)’s campaign is over - He had very little with him, he left his medal and his watch the great gold one [Mamma](../persons.html#1606) used to carry – at home, but of course he had a smaller one for use - [Frances](../persons.html#1604) has just sent out a parcel of socks &c marked for Col Plumer’s troop - Our people have taken up eagerly the sending things - Huge transports go by with steam and shake the house, they shook down a little ornament in one of the bedrooms, a day or two ago and the carts with bricks shake us still worse, and threaten the crazy old cottages, but happily the houses do not mind them There are three trees left – with brown leaves still but most are bare.
+
+The prettiest thing is the arbutus which is covered with white bells, the red and yellow balls hanging below.
+
+The nursing lectures go on, we learnt how to make a bed last, a little boy lies on a bed made up on the bagatelle board and thinks it great fun. [Mary Morshead](../persons.html#28)’s lectures on St Dunstan go on here, and give great satisfaction.
+
+And on the 7th Mrs S[illegible] is coming to address the Mothers Union mothers.[^2] [Lottie Yonge](../persons.html#1588) leaves me on Monday, poor thing, she has been laid up all day with a bad sick headache.
+
+She goes to [Hannah Carey](../persons.html#253) first and then to Stoke Lodge, where poor [Lucy](../persons.html#2116) remains very frail and rheumatic[^3] She (Lottie) is anxiously looking out for some work to do-
+
+your most affectionate
+
+C M Yonge
+
+[^1]: Black-edged paper. CMY\'s nephew George Yonge had been killed in Rhodesia.
+
+[^2]: The word does not look like Sumner.
+
+[^3]: Hannah Carey and Lucy Yonge were both aunts by marriage of Lottie Yonge\'s.
+

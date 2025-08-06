@@ -1,0 +1,29 @@
+---
+date: '1888-10-01'
+display-date: ' [October 1888]'
+from-address: ''
+manuscript-location: MS location unknown.  Printed in [[otherbook:122]<i>Dulce Domum</i>],
+  301-2.
+original-date: '2011-10-06 09:00:08'
+title: To Charlotte Anne Elizabeth Moberly?
+wordpress-id: 2894
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[To [Charlotte Anne Elizabeth Moberly](../persons.html#1024)I am exceedingly enjoying those dear old times.[^1] It is such a living over again of the dear golden age of our lives. I have made a few notes in pencil. . . I quite dreaded the first wedding. I keep it for my last hour before going to bed. I think I must put in when all the children were found on the landing killing Oliver Cromwell; and [Alice ](../persons.html#1025)mourning for the beauty of the old Hursley church.
+
+It was strange to be reading it just at the passing of almost the last of the friends of those good old times. I wonder if I shall see any of your people at Rownhams to-morrow?
+
+There is the earthly farewell to a very long precious friendship. I was a growing girl when [Mr.
+
+Wilson](../persons.html#1541) was Hursley curate, all fun and brightness, and my father was so fond of him. [^2] Did you know that when he accepted the curacy of Hursley he was told that he must make up his mind to its being the prevention of all promotion? and you see that the canonry of Salisbury was all he ever had . . .
+
+[^1]: She had been sent the MS of Dulce Domum, a memoir of the Moberlys’ life in Winchester, compiled by Annie Moberly.
+
+[^2]: The Rev.
+
+Robert Francis Wilson (1808/9-8 Oct 1888), Vicar of Rownhams.
+

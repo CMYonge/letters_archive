@@ -1,0 +1,27 @@
+---
+date: '1897-09-24'
+display-date: Sept 24th [1897 or later?[[footnote:1]]]
+from-address: Elderfield Otterbourne
+manuscript-location: MS Charlotte Mitchell
+original-date: '2010-03-02 13:53:27'
+title: To Gertrude Mary Ireland Blackburne
+wordpress-id: 3585
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Blackburne](../persons.html#160)
+I have advised this [Sister Margaret](../persons.html#1639) Paulu to write to you about her appeal, as you might manage to get it in for her. I did not know her Mother, they lived beyond our neighbourhood, but my [father](../persons.html#1631) knew hers well in magistrate's business, as [Col A'Court](../persons.html#1641), and had a great regard for him as an excellent person[^2]
+
+yours sincerely
+
+C M Yonge
+
+[^1]: The implication is probably that Blackburne will be able to insert the appeal in The Churchwoman which she edited from 1897, but she might have been working on it earlier.
+
+[^2]: Probably Colonel William Henry Ashe A’Court, 2nd Lord Heytesbury, whose daughter the Hon.
+
+Margaret A’Court (1855-1933) sent subscriptions to The Net and may have joined the Wantage sisterhood.
+

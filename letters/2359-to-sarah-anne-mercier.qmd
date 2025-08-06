@@ -1,0 +1,23 @@
+---
+date: '1869-12-15'
+display-date: Decr 15th [1869]
+from-address: "\u201CMonthly Packet\u201D 6, Paternoster Row, London, E.C."
+manuscript-location: 'MS Princeton University, Parrish Collection, CO171: Box 29'
+original-date: '2010-06-24 14:41:21'
+title: To Sarah Anne Mercier
+wordpress-id: 2359
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mrs Mercier](../persons.html#990),
+Your recollections of [Mr Peabody](../persons.html#990) are very touching, and I hope they will appear in February - January is pretty well done for! I am sorry for the blunder about Christabel, it came of lending the book and trusting to memory[^1]
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Mercier\'s novel Christabel Hope, or, The Beginnings of Life (London, Warne 1869) was noticed in ‘Hints on Reading’ MP 8 (December 1869) 619 as Christabel Ross.
+

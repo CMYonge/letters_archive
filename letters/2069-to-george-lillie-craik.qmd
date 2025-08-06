@@ -1,0 +1,36 @@
+---
+date: '1865-09-05'
+display-date: Sept 5th 1865
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54920: 109-10 '
+original-date: '2010-06-03 08:50:58'
+title: "To George Lillie Craik\t\t\t"
+wordpress-id: 2069
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Sir](../persons.html#379),
+[Mr Macmillan](../persons.html#939) asks me to answer to you the lady’s enquiry about the Strayed Leaves, which are strayed indeed![^1]
+The fact was that I wrote a sort of conclusion to [Heartsease](../books.html#19), which was called [Last Heartsease leaves](../books.html#42).
+
+It was not worth publishing, but it was printed for a bazaar some years ago, and I have never heard the last of it. I put it at last into the last number of [Events of the Month](../others.html#69), and there - the title was somehow misprinted Lost Heartsease Leaves which accounts for its having become Strayed Leaves.
+
+It would be the best way to refer the lady to the last number of Events of the Month.
+
+It is only one short chapter.
+
+My address for the next two or three weeks will be (using my Christian name[^2]) at
+Puslinch
+Yealmton
+Devon
+Yours faithfully
+
+Charlotte M Yonge
+
+[^1]: The preceding letter from Macmillan (British Library Add MSS. 55384 (2): P. 846), which probably contained this request, is quite illegible.
+
+[^2]: To avoid confusion with her eldest unmarried cousin Mary Yonge.
+

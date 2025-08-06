@@ -1,0 +1,25 @@
+---
+date: '1854-07-10'
+display-date: July 10th [1854]
+from-address: Otterbourne Winchester
+manuscript-location: MS Michigan State University
+original-date: '2010-04-19 14:19:57'
+title: To John William Parker, Jr.
+wordpress-id: 3049
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Sir](../persons.html#1143),
+My new tale of ‘[Heartsease or The Brother's Wife](../books.html#19)’ is now complete. I am willing to publish it in the same manner as the ‘[Heir of Redclyffe](../books.html#13)’ and if you are ready to undertake it, will forward it to you, as soon as I have heard from you.
+
+At your convenience, I should be glad to know the state of the account of [The Little Duke](../books.html#20).
+
+Yours faithfully,
+
+C M Yonge
+
+[^1]: Black-edged paper.
+

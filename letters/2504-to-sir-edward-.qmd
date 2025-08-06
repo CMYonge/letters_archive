@@ -1,0 +1,27 @@
+---
+date: '1874-05-18'
+display-date: May 18th 1874
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
+original-date: '2011-07-12 11:08:41'
+title: To Sir Edward  ---
+wordpress-id: 2504
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Sir Edward
+I forgot about [Lady Beatrix Graham](../books.html#91) to which I certainly contributed nothing but the preface.[^1] I did not even profess to edit it so it was quite gratuitously attributed to me. I ought to have remembered that is had been so.
+I am not quite sure where your knowledge of the ornaments of the County hall stopped short. I went over it about Christmas and thought the effect most beautiful
+There is a collection being made of the worthies connected with the Castle whose shields are to appear in the windows.
+
+No doubt [Mr Wyatt](../persons.html#2296) has told you of the curious projection of masonry [words missing] of the upper end, intended perhaps to support the throne, and with an opening in the wall, apparently on a level with the head of a person standing on it, as if to give orders to someone outside[^2]
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: The Great Hall of Winchester Castle was restored by Thomas Henry Wyatt (1807-1880) in 1873.
+

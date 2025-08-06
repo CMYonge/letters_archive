@@ -1,0 +1,73 @@
+---
+title: "About This Digital Edition"
+---
+
+# About This Digital Edition
+
+## Original Website
+
+This website was built using WordPress and in 2017 was moved to the Centre for 21st Century Humanities at the University of Newcastle, Australia. However, the original WordPress had customizations to its code that could not be reproduced in WordPress upgrades. The University of Newcastle archived this site as part of maintenance in 2025.
+
+## Migration to Quarto
+
+While the site was created in a legacy version of WordPress with customizations, the text could still be extracted from the database or the scrape of the website, for anyone interested in Yonge's letters.
+
+This modern edition has been migrated to [Quarto](https://quarto.org/), a scientific and technical publishing system, to ensure:
+
+- **Long-term preservation** - Uses standard markdown format
+- **Future-proof technology** - Based on open standards
+- **Enhanced accessibility** - Better mobile support and screen reader compatibility
+- **Improved search** - Full-text search capabilities
+- **PDF generation** - Can generate complete PDF archives
+- **Sustainable maintenance** - Easier to update and maintain
+
+## Technical Details
+
+The migration process involved:
+
+1. **Database extraction** - Extracting letters, person references, and metadata from the WordPress MySQL database
+2. **Content conversion** - Converting WordPress HTML and custom annotations to standard markdown
+3. **Reference linking** - Converting person and institutional references to proper hyperlinks
+4. **Footnote processing** - Converting custom footnote system to standard markdown footnotes
+5. **Metadata preservation** - Maintaining all original dating, location, and manuscript information
+
+### Annotation System
+
+The original WordPress site used a custom annotation system:
+
+- `[[person:ID]]Name` - References to people mentioned in letters
+- `[[other:ID]]Name` - References to institutions, organizations, etc.
+- `[[footnote:N]]` - Editorial footnotes
+
+These have been converted to standard markdown links and footnotes while preserving all the original scholarly apparatus.
+
+## Data Preservation
+
+All original metadata has been preserved, including:
+
+- Letter dates (both original and regularized)
+- Correspondent information  
+- Manuscript locations and references
+- Editorial footnotes and commentary
+- Biographical data for referenced persons
+- Institutional information
+
+## Technical Specifications
+
+- **Source Format**: Quarto Markdown (.qmd)
+- **Output Formats**: HTML (website) and PDF
+- **Search**: Full-text search via Quarto
+- **Hosting**: Can be deployed to any static web host
+- **Version Control**: Source files can be managed with Git
+
+## Contact and Questions
+
+For questions about this digital edition or to report issues, please contact the current maintainers.
+
+## Copyright and Usage
+
+The letters themselves are in the public domain. This digital edition respects the scholarly work of the original compilers while making the content more accessible and sustainable for future research.
+
+---
+
+*Migrated from WordPress to Quarto: {{ date }}</format }}</date>*

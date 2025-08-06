@@ -1,0 +1,21 @@
+---
+date: '1855-12-24'
+display-date: '[<i>c</i>. 24 December 1855]'
+from-address: ''
+manuscript-location: 'MS location unknown . Photocopies lent by Barbara Dennis: Maggie/1'
+original-date: '2010-04-22 11:18:37'
+title: To Margaret Helen Moberly
+wordpress-id: 3075
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear little [Maggie](../persons.html#83)
+This is to wish you a very happy Christmas I think it must be happier than all the three Christmases before it, because you are old enough to know Who was born a little Baby and what the Angels came to sing while the Shepherds were watching by night.
+
+Thank you for your pretty little note to me; and thank [Mamma](../persons.html#1019) and [Alice](../persons.html#1025) too for theirs. I hope I shall see your holly next week. I shall like so much to come. I wonder whether you will have a hymn to say to me
+My little Maggie’s very affectionate Godmother
+
+Charlotte M Yonge

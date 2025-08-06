@@ -1,0 +1,21 @@
+---
+date: '1882-11-12'
+display-date: Nov 12th 1882
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Harry Ransom Humanities Resource Center, University of Texas
+  at Austin
+original-date: '2011-09-19 12:53:08'
+title: To an Unknown Man
+wordpress-id: 2760
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Sir
+I am much obliged for your kind present – the article has certainly swelled to handsome proportions
+
+Yours truly
+
+C M Yonge

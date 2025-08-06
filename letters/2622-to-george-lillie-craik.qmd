@@ -1,0 +1,35 @@
+---
+date: '1878-03-19'
+display-date: March 19th 1878
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54921: 55-56 '
+original-date: '2011-08-08 12:14:56'
+title: To George Lillie Craik
+wordpress-id: 2622
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+I send 4 chapters of the [Story of the Moors](../books.html#126) I will send some more as soon as I have touched it up. I think you may reckon on 30 chapters - 22 are written and bring me to Peter the cruel, but the actual siege of Granada will take up a good deal of room
+About [the little French history](../books.html#353), I went over and added to the sheets as far as I had them but I had not kept the duplicates of all. I wrote to ask for the next, but no notice was ever taken of my request and I concluded that the work was a failure, like the other.[^2] I ought to have kept the duplicates, but one sometimes feels half smothered in old proofs.
+I send the two corrections, I am not quite sure whether that for [Bp Patteson’s life](../books.html#102) should go in Vol II p 388 - just after Captain Markham’s visit or as a sort of note - at the end of all.
+I incline to the first, not liking to spoil the present conclusion
+
+Yours truly
+
+C M Yonge		
+Of course I shall be glad to finish up the French primer
+
+[^1]: Black-edged paper.
+
+[^2]: CMY refers to the smaller of the two books called History of France which she wrote for Macmillan.
+
+It appeared in the \'Historical Primers\' series in 1878.
+
+The [other](../books.html#99), which appeared in the \'Historical Course for Schools\' series edited by E. A.
+
+Freeman, had been so fiercely criticized by him that she had had to revise it heavily, and it did not appear until 1879.
+

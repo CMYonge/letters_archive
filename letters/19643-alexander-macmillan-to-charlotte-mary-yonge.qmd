@@ -1,0 +1,29 @@
+---
+date: '1866-10-26'
+display-date: Oct 26 1866
+from-address: ''
+manuscript-location: Copy outletter book British Library Add MSS.55386 (2) P. 520
+original-date: '2014-05-22 14:12:48'
+title: Alexander Macmillan to Charlotte Mary Yonge
+wordpress-id: 19643
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Miss Yonge,                                                                   Oct 26 1866
+
+[Mr Williams](../persons.html#1964) of [W. & Norgate](../others.html#165) tells me that reserved rights which are made [illegible]  [illegible]  [illegible]  are for twelve months after publication cease to exist and [illegible]  [illegible] copyright treaty was only made in 1853 so you are quite safe in all aspects.
+
+I shall be very glad to hear the results of your consultation with [Miss Sewell](../persons.html#1301), and hope very much that something really valuable can come of your [Extracts](../others.html#71). I should be rather glad to have a sketch of the whole scheme and a bit of the extracts when you have leisure [sic].
+
+Also Pr[illegible] look with interest for [illegible]  parents, [illegible]
+
+Very faithfully yours
+
+[Alex.
+
+Macmillan](../persons.html#939)
+
+&nbsp;

@@ -1,0 +1,25 @@
+---
+date: '1888-02-25'
+display-date: "Feb 25th 1888\t"
+from-address: Elderfield
+manuscript-location: MS Girton College Cambridge, Yonge V 3
+original-date: '2011-10-03 20:40:05'
+title: To Walter Smith
+wordpress-id: 2875
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Smith](../persons.html#1344)
+Here is the [receipt](../others.html#160) with many thanks. I ought to have returned Madge Wylie sooner.
+
+If of the right length, it would be a grand thing to have a Greek story for the [Christmas number](../others.html#52) it would be so much out of the ordinary beat.[^1] I have three or four come in already, not at all bad ones - but I hope they may still be excelled
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: \'Madge Wylie\' is not identified and the Greek story does not seem to have appeared in the Christmas 1888 number of MP.
+

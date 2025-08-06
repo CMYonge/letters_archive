@@ -1,0 +1,38 @@
+---
+date: '1870-01-28'
+display-date: Jany 28th  [1870]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Mrs Clare Roels '
+original-date: '2011-02-02 14:02:32'
+title: To Christabel Rose Coleridge
+wordpress-id: 2369
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+What that [Ivy](../persons.html#2264) did about her questions I cannot conceive, for both [Frog](../persons.html#822) and [Cricket](../persons.html#1603) say they have had none, and yet there are some answers come in from Double Daisy and from nobody else[^2]
+I have got [Frances](../persons.html#1604)’s lame [sister ](../persons.html#1462) with me, and she is always pleased to help me by copying, so she has written out the questions for me Will you ask the next?
+
+After these that I send for February- I hope [Alice](../persons.html#327) will come out on the Odyssey question [^3] - Every one seems to me to like Lady Betty very much, I think her and Giles Grantley the real leading characters.
+
+Can you help me now in a question regarding my reigning story, the [Pillars of the House](../books.html#109).
+
+Miss Geraldine was about 21, an artist whose pupil her brother Edgar had been saw the drawings she did by the help of the teaching Edgar had given.
+
+He was struck with the talent, and said that a course of study at South Kensington would make her able to do something effective - how is she to manage the study? I can send her to some relations to stay with, but I want to know the days and rules enough not to make her do anything impossible, and as she is still very lame she must have things made easy, and her brother’s master may help her. I also want to know, what I do not suppose you can tell me – the regular course of a student at the Royal Academy, how long it takes and what the cost of it ought to be.[^4] To my shame be it spoken I cannot find the address to Double Daisy or to Ivy, so will you direct these on
+your affectionate
+Mother Goose
+
+[^1]: Black-edged paper.
+
+[^2]: Ivy is an unidentified member of the [Gosling Society](../others.html#104).
+
+Double Daisy was two sisters: [Jane Pearson](../persons.html#1161) and either Margaret or Mary Pearson.
+
+[^3]: ‘What parallel stories does folklore in different countries present to the adventures of Ulysses in the Odyssey?’ See the letter to Mary Fursdon of 29 January 1870.
+
+[^4]: The details of Geraldine\'s going to South Kensington for training appeared in MP (January 1872).
+

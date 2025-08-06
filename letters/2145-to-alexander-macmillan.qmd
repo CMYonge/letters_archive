@@ -1,0 +1,28 @@
+---
+date: '1867-01-14'
+display-date: Jan 14th 1867
+from-address: '[Elderfield, Otterbourne, Winchester.[[footnote:1]]]'
+manuscript-location: 'MS British Library Add MSS 54920: 170-171'
+original-date: '2010-06-09 14:11:06'
+title: To Alexander Macmillan
+wordpress-id: 2145
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Macmillan](../persons.html#939),
+These Germans to whom I engaged that they should have early sheets and translate the [Chaplet of Pearls](../books.html#69) now want me to have it copied for them at once, a thing I am not inclined for, but if you can at all tell me when it is likely to begin, I should know how to answer them. I am not in haste on my own account only I want to know what to say to this M. [Otto Franke](../persons.html#522).
+I have [Mr Palgrave](../persons.html#1124)’s consent for the use of the extract from his [father](../persons.html#1126).[^2] Do you know who [Roscoe](../persons.html#1974)’s representatives are, for there is all the Battle of Hastings from him. [Miss Sewell](../persons.html#1301) says she wants all the MS to look over and arrange again - would you send it to her.
+
+Her direction is Bonchurch, Isle of Wight
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: The printed address has been cut out of the MS.
+
+[^2]: CMY and Sewell wanted to use an extract from the elder Palgrave\'s, The History of Normandy and of England (1851-64) in [Historical Selections](../books.html#71).
+

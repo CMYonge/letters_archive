@@ -1,0 +1,44 @@
+---
+date: '1876-11-18'
+display-date: Novr 18th 1876
+from-address: Elderfield, Otterbourne, Winchester
+manuscript-location: MS Lambeth Palace Library  3996 f.105-6
+original-date: '2011-08-01 15:23:20'
+title: To Emilie Thal Wigan
+wordpress-id: 2566
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Madam](../persons.html#1509)
+
+As far as I could judge Miss Douglas[^2] was very thorough in her teaching and had been well instructed herself so as to know French and German grammar perfectly, and have a well informed knowledge of history &c – and her music is unusually good.
+
+She has a very fine voice, and her singing is excellent.
+
+She is a pleasant looking person, short and plump, but with no peculiarity about her, very clever and lively in conversation and when she came first, she was thought very excitable in manner but this was partly from her spirits having been much tried by family troubles in the course of the former year.
+
+She is a very good Churchwoman, and used to help in the Sunday School.
+
+She was friendly and obliging in every way, - and quite lady like in her ways and expressions. I am not sure whether her relations are more than large farmers in Cheshire, but she is a a very pleasant companion and more bright and conversible than I think is generally the case with governesses.
+
+I am afraid she is a little dressy, but a little influence would soon decide that question.
+
+My sister
+
+[Mrs J B Yonge](../persons.html#1604)
+Otterbourne House
+Winchester
+
+is in truth the person to whom reference should be made - I think she may speak of the manner and dress more strongly than I have done, because I think that with a fresh start it would be different
+
+yours truly
+
+C M Yonge
+
+[^1]: Catalogued as to \'Mrs Alfred Wigan\'.
+
+[^2]: It is evident from this letter that Julian Yonge\'s financial crisis had led to the sacking of his family\'s governess, a Miss Douglas, who cannot be further identified with certainty.
+

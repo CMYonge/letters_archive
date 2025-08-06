@@ -1,0 +1,28 @@
+---
+date: '1856-07-11'
+display-date: July 11th [1856]
+from-address: Otterbourn
+manuscript-location: MS Mrs Caroline Fairclough/10
+original-date: '2010-04-22 12:33:33'
+title: To Anna Butler
+wordpress-id: 3085
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Butler](../persons.html#237)
+I was going to return this long ago, but I wanted to hear from [Mr Mozley](../persons.html#1065) whether he could conveniently print the remaining chapters to the end, and he has vouchsafed me no answer, so I mean to wait long enough to give him time to set his types free of the forthcoming number, and then send the whole with a request to have it done at once. I had been making a great dash at finishing [Long long ago](../others.html#254) in the present number and for that reason had been obliged to put off the [Likes](../others.html#248), cruel as it was to leave them all tumbled out in the road; but I thought you preferred being put off to being minced fine. [^1]
+You will see that I could not have shortened the Long long ago without leaving it in a state alarming to the weak minds of the Mamma’s[^2]
+
+yours sincerely
+
+C M Yonge
+
+[^1]: The last episode of Fanny Caroline Lefroy’s novel Long, Long Ago appeared in MP 12 (August 1856) 106-141.
+
+[^2]: The heroine of Long, Long Ago is in love with a headstrong young man she has been forbidden to marry, who tries to persuade her to elope.
+
+She does not, and after many years is persuaded by her mother to marry an older and staider man with whom she is happy in a quiet way.
+

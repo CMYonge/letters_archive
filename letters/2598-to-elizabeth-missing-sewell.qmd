@@ -1,0 +1,29 @@
+---
+date: '1877-09-13'
+display-date: 'Sept 13th 1877 '
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: 'MS UCLA: collection 100: box 95  '
+original-date: '2011-08-05 09:17:19'
+title: 'To Elizabeth Missing Sewell '
+wordpress-id: 2598
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss [Sewell](../persons.html#1301)][^2]
+Many thanks for your Revolution which looks very entertaining, though I have not thoroughly encountered its curling propensities and as you may suppose, I trust you! I shall be glad to have your further papers in the next year.
+
+They always tell.
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Black-edged paper.
+
+[^2]: The name has been obliterated, but Elizabeth Sewell\'s two papers on the \'Causes of the French Revolution\' were published in MP ns 24 (November 1877) 403-414, and (December 1877) 519-30.
+
+She had evidently joked that if CMY did not want them she could use them to curl her hair.
+

@@ -1,0 +1,20 @@
+---
+date: '1866-10-10'
+display-date: Oct 10th 1866
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS University of Iowa; MsL/Y56/1866
+original-date: '2011-02-02 11:32:04'
+title: "To an Unknown Man\t\t\t\t "
+wordpress-id: 2135
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Sir,
+Many thanks for the poem which is to be placed with a collection of autographs made by a member of my family
+
+Yours truly
+
+C M Yonge

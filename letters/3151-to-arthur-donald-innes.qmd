@@ -1,0 +1,25 @@
+---
+date: '1890-01-31'
+display-date: Jan 31st 1890
+from-address: Elderfield
+manuscript-location: MS Girton College Cambridge, Yonge IV 15
+original-date: '2010-07-05 13:19:58'
+title: To Arthur Donald Innes
+wordpress-id: 3151
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Innes](../persons.html#744)
+Thank you much for what was useless trouble. I thought Stanford was sure to have had such maps reasonably cheap for travellers.[^1] There is a good little geological map of England in Letts’s atlas, but the book is very badly bound, and that one map in my copy has some how been lost.
+I think there are small editions of Keith Johnstone- but his publisher is [Blackwood](../others.html#214), I suppose he has an office in London but I do not know where. I am astonished at the expensiveness in these days of chromolithography But unless Blackwood is near at hand, or you have a catalogue which would shew if [Cassell](../others.html#216) has a cheap one, pray do not take any more trouble
+
+Yours sincerely
+
+C M Yonge
+Perhaps the best way would be to ask Blackwood and Cassell to send me a catalogue
+
+[^1]: Edward Stanford opened a specialist map shop in 1853 which is still (2010) operating.
+

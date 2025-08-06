@@ -1,0 +1,28 @@
+---
+date: '1876-04-01'
+display-date: April 1st 1876
+from-address: ''
+manuscript-location: MS Mrs Katherine Wykes-Sneyd
+original-date: '2011-07-15 09:24:41'
+title: To Mary Penelope Fursdon
+wordpress-id: 2548
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+To [Mary Penelope Fursdon](../persons.html#539)
+
+[Mother Goose](../others.html#104)'s questions
+
+The religions of the world ancient and modern..
+
+The [illegible] of history and romance[^2]
+
+[^1]: Postcard addressed to \'Miss M.
+
+Fursdon/Fursdon/Tiverton\', postmarked \'Winchester 1 April 1876\'.
+
+[^2]: This is an interesting survival which shows the format in which essay questions were circulated to members of the Gosling Society.
+

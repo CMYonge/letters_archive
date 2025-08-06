@@ -1,0 +1,36 @@
+---
+date: '1893-02-23'
+display-date: Feb 23rd 1893
+from-address: Elderfield Otterbourne Winchester
+manuscript-location: MS Lambeth Palace Library 2343 f.191-3
+original-date: '2011-10-14 19:52:09'
+title: To John Athelstan Laurie Riley
+wordpress-id: 3215
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Sir](../persons.html#1239)
+The number of [Mothers in Council](../others.html#82) must, I think have been sent by [Mrs Sumner](../persons.html#1381) to whom I will send on one of your papers, but I think she is absent from Winchester just now, as the illness of the [Bishop of Winchester](../persons.html#1280) throws much work on her [husband](../persons.html#1382).
+
+There is nothing that she and I are more anxious about than Christian education and we much desire to do all in our power to promote it.[^2]
+‘The [Mothers Union](../others.html#31)’ which Mrs Sumner originated is doing whatever it can to gather up mothers of all ranks in the cause - The [Parents Union](../others.html#34); patronised by [Lady Aberdeen ](../persons.html#2119)has nearly the same objects, but with more of secularity and undenominational as well as not dealing so much with the poorer classes.
+
+Lady [Laura Ridding ](../persons.html#1238)the [Bishop of Southwell](../persons.html#1237)’s wife wishes to unite all these Societies and the [Womens’s help ](../others.html#222)by some kind of affiliation. I do not know whether this can be carried out but I think it would be well to consult these ladies before forming a special Woman’s League.
+
+We hoped to follow up Mrs Sumner’s article in our next (quarterly) number on April 1st but death and illness have disappointed one of the contributions we hoped for.
+
+Anything you could send me on the subject of voluntary schools, as influence on school boards would be most welcome[^3]
+
+yours truly
+
+C M Yonge
+
+[^1]: John Athelstan Laurie Riley (1858-1945), Vice-President of the Church Union, member of the London School Board 1891-7.
+
+[^2]: The letter refers to Mary Elizabeth Sumner’s article ‘A Great Panacea’ Mothers in Council 3 (January 1893) 2-15, about the necessity for a religious element in compulsory education, of which she had no doubt sent Riley a copy.
+
+[^3]: In fact there appeared another article by Mary Sumner, ‘Incomplete and Inadequate Religious Teaching’ Mothers in Council 3 (April 1893) 74-82.
+

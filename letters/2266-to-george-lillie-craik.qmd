@@ -1,0 +1,29 @@
+---
+date: '1868-09-09'
+display-date: Sept 9th [1868]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54920: 210-11'
+original-date: '2010-06-16 12:08:04'
+title: To George Lillie Craik
+wordpress-id: 2266
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+I send the lacking [Cameo](../books.html#73).[^1] I have found things needing correction in three sheets of the [Chaplet of Pearls](../books.html#69), and I am searching for a sentence that I know was spoilt for want of a not - but the whereabouts of which I can in no wise as yet discover.
+
+If I do not find it before tomorrow’s post, I shall send the sheets to you which I have corrected for you to judge as to the importance of the matter.
+
+The unlucky thing was that none of the books I had told me Sir Francis Walsingham’s age, and thus I made him an elderly man when he was but six and thirty and his daughters young ladies instead of small children. I antedated Sidney’s knighthood, too, and in these days any anachronism does not do. I have only just got Fox Bourne’s Sidney which cleared it up[^2]
+
+Yours truly
+
+C M Yonge
+
+[^1]: The Cameo concerning the Edward I\'s conquest of Wales had accidentally been omitted from the book version.
+
+[^2]: In the end she dealt with this problem by adding an apologetic preface to The Chaplet of Pearls, in which Sidney and Walsingham are characters.
+

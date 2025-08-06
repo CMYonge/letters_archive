@@ -1,0 +1,24 @@
+---
+date: '1893-06-01'
+display-date: ' the 2d of June,  1893'
+from-address: Leipzig,
+manuscript-location: MS UCLA collection 100 box 119
+original-date: '2010-07-26 09:49:11'
+title: Christian Karl Bernhard, Baron von Tauchnitz, to Charlotte Mary Yonge
+wordpress-id: 3221
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Miss Yonge,
+If I am not mistaken, you have issued lately several books.
+
+Do you not think that there is one that would be suitable for republication in our [Series](../others.html#224)?
+
+If so, we should be glad to receive a copy, in order to judge how best to arrange our edition.
+I sincerely wish that you may enjoy your usual good health and, hoping to receive your kind reply at your earliest convenience, I beg [you] to believe me,
+with [my father’](../persons.html#1396)s and my own best regards to you,
+Yours very sincerely
+[Tauchnitz](../persons.html#2124)

@@ -1,0 +1,51 @@
+---
+date: '1864-01-22'
+display-date: Jany 22nd [1864]
+from-address: Elderfield
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e 86. '
+original-date: '2011-02-02 12:19:58'
+title: To the Reverend John Frewen Moor
+wordpress-id: 1929
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Moor](../persons.html#1046)
+The prizes[^2] I should like to propose would be -
+First Shew
+Best copy book by a school boy
+Knife
+by a school girl
+Writing case
+Second
+25 sorts of wildflowers rightly labelled with English names by a school child
+Book on Flowers
+Best set of samples of needle work by a school girl - consisting of
+hemming
+sewing
+stitching
+felling
+marking
+darning
+5s
+2nd Best --- 1s
+	I dont think it any use to propose the like in the autumn because there are few flowers, and work is disorganized by harvest.
+
+What fun it would be if there was a prize for the fattest tame rabbit, and how the boys would like it
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Black-edged paper.
+
+Envelope addressed to “The Revd/ J F Moor/Ampfield/Romsey.
+
+Postmarked Winchester Jan 23/64.
+
+[^2]: This letter and the letter to Moor dated 26 January 1864 suggest that CMY and her mother were offering prizes to local National School pupils to be presented some time later in the year.
+
+Ampfield, like Otterbourne, was still under Keble’s general supervision, and it is not clear whether these prizes were solely for Ampfield children or whether they were being invited to take part in a wider competition involving other schools within the parish.
+

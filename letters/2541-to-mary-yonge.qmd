@@ -1,0 +1,24 @@
+---
+date: '1876-02-12'
+display-date: Febry 12th 1876
+from-address: "Elderfield, Otterbourne, Winchester.\u2019"
+manuscript-location: 'MS fragment Plymouth and West Devon Area Record Office Acc No
+  308: 12-2-76'
+original-date: '2011-07-14 10:00:02'
+title: To Mary Yonge
+wordpress-id: 2541
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mary](../persons.html#1626),
+So the dear old [Sir John Coleridge](../persons.html#344) is gone, except [Aunt Jane](../persons.html#627)[^1], I suppose [paper torn off]
+[the reverse reads]
+the most conscientious of natures, and all throughout guarded and raised by his deep religiousness I always think the tender
+
+[^1]: Sir John Taylor Coleridge had died on 11 February.
+
+The sentence probably went to say that now Mary\'s [father](../persons.html#1623) had only his sister Jane Harris surviving among his contemporaries.
+

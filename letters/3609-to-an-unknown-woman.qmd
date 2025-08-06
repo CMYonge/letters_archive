@@ -1,0 +1,22 @@
+---
+date: '1890-05-31'
+display-date: May 31st [1890s]
+from-address: Elderfield Otterbourne
+manuscript-location: MS Charlotte Mitchell
+original-date: '2010-03-04 13:05:19'
+title: To an Unknown Woman
+wordpress-id: 3609
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam
+I have put it in [Mrs Matthew](../persons.html#1689)’s hands, whether to put in the article, or an apology.
+
+The number of [Mothers in Council](../others.html#82) being all arranged, it is very inconvenient, as some contributor must be put off
+
+yours truly
+
+C M Yonge

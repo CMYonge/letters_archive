@@ -1,0 +1,25 @@
+---
+date: '1865-01-01'
+display-date: '[after 1865]'
+from-address: ''
+manuscript-location: MS Humanities Research Center, University of Texas, Austin, Charlotte
+  M. Yonge collection
+original-date: '2010-02-22 23:03:51'
+title: To an Unknown Woman
+wordpress-id: 3605
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam
+I do not think Mr Clare resembles [Mr Keble](../persons.html#798) at all.[^1] I certainly never should have consciously taken his portrait, I loved and honored him too much
+
+yours truly
+Charlotte M.
+
+Yonge
+
+[^1]: Mr Clare is a character in CMY\'s [The Clever Woman of the Family](../books.html#58) (1865).
+

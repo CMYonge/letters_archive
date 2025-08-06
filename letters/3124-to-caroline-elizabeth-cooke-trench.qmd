@@ -1,0 +1,59 @@
+---
+date: '1859-02-16'
+display-date: February 16, 1859
+from-address: Otterbourne, Winchester
+manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  pp. 295-6
+original-date: '2010-04-27 20:11:25'
+title: To Caroline Elizabeth Cooke Trench
+wordpress-id: 3124
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Caroline](../persons.html#367)[^1]
+I shall like very much to send a pound towards your window; shall I send it to you at once by a post-office order? I hope your diaper will be as beautiful as some of those patterns of the Cologne windows of which we used to have a great sheet, and I always longed to see in glass, thinking that they would be better than bad figures.
+[Miss Keble](../persons.html#796)'s illness was a very bad attack of bronchitis, just at Christmas.
+
+Mr.
+
+Sainsbury was in great alarm about her at the very time of poor [Keenie](../persons.html#800)'s death, so that [Mrs.
+
+Keble](../persons.html#795) could not have left her even if [Mr.
+
+Keble](../persons.html#798) had been able to get away.[^2] I have not seen them since [Tom Keble](../persons.html#799) came, for it has been so wet that the road was a perfect river, and [Mr.
+
+Wither](../persons.html#1544) had to wade in going to see a horse that [Mr.
+
+Payne](../persons.html#1809) lamed and left at Hursley to recover. [Lady Heathcote](../persons.html#665) was here on Monday to wish goodbye, so I fear it will be long before we see any of your people again, but she was so kind as to ask me to make a short visit in London after Easter, so I shall be able to write to you from thence.
+
+Some of the Moberlys spent the day with us yesterday; it is quite sad to see how grave [Emily](../persons.html#81) has grown, she seems to me more altered than any of them, and to have turned at once from a very fine child into a very thoughtful woman.[^3] I suppose this will shade away in time, as the house recovers its tone, but it is very remarkable now.
+
+Yes, [Friarswood](../books.html#36) is mine, and Paul Blackthorn is a portrait of a poor boy who came here at the time of the last Confirmation out of the Andover Union.
+
+All about him and the village boys, up to the end of the chapter you will have in March, is quite true, except that the farmer is worse than William Smith was.
+
+The further part is, I am sorry to say, all embellishment, for the real lad enlisted, and we knew no more about him.
+
+Alfred was a boy in Devonshire to whom [Jane Moore](../persons.html#1042) used to go constantly, and who thought of her as very like a sunbeam.
+
+He used to look so beautifully fair and pale, with such blue eyes, and his feelings about his younger brother were much what I tried to show them. I hope you will come in Jane’s way, I think she is the most winning person I ever knew, except perhaps her mother, and she has such a depth of unselfish goodness and serious thought as one would hardly suspect from her very droll manner and way of talking. I was so glad to like [Captain Moore](../persons.html#1041) so much, for I had intended to think no one good enough for Jane. I am glad you liked[ the white horse](../others.html#264).
+
+We have [What will He do with it](../others.html#24)? in hand now.[^4]
+Your affectionate
+C. M.
+
+Yonge.
+
+[^1]: Caroline Heathcote had married (17 Aug 1858) Thomas Cooke-Trench (1829-1902), and they embarked on a characteristically Tractarian improvement of his estate, Millicent, in County Kildare.
+
+[^2]: Keenie was the nickname of Cornelia Sarah (Cornish) Keble (1828-23 December 1858), wife of Keble’s nephew the Rev.
+
+Thomas Keble, Jr., or ‘Tom Keble’.
+
+[^3]: Arthur Moberly died in December 1858.
+
+[^4]: Edward Bulwer Lytton, What Will He Do With It? (Edinburgh, Blackwood 1858), a novel.
+

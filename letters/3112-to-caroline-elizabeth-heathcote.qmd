@@ -1,0 +1,28 @@
+---
+date: '1857-11-07'
+display-date: Novr 7th 1857
+from-address: Otterbourne,Winchester
+manuscript-location: MS Charles E. Young  Research Library,  UCLA, collection 100.
+original-date: '2010-04-27 11:39:02'
+title: To Caroline Elizabeth Heathcote
+wordpress-id: 3112
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Caroline](../persons.html#367),
+If you are at leisure this next/ week will you come and spend a day with us, when we can take a walk in the [Cranbury](../others.html#119) gardens, as the house is still uninhabitable, and I do not think they can come home for a week or so.
+
+Any day but Monday will suit us equally well, and we hope you will come before one o’clock.
+
+It is so long since I have seen you; and I shall be so glad to hear of [Mrs Wilson](../persons.html#1539) and the Christening.[^1]
+
+Yours affectionately
+
+C M Yonge
+Please let us know when you can fix a day
+
+[^1]: Caroline Heathcote, daughter of Sir William by his first marriage, was first cousin (their mothers being sisters) to Maria (Trench) Wilson.
+

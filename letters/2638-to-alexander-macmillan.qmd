@@ -1,0 +1,32 @@
+---
+date: '1878-09-16'
+display-date: Sept 16th 1878
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: 'MS British Library Add MSS 54921: 66-67 '
+original-date: '2011-09-01 11:34:33'
+title: To Alexander Macmillan
+wordpress-id: 2638
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939)
+
+Can you kindly give me a little advice. I have a history in many chapters which I too easily accepted for the [Monthly Packet](../others.html#52) without reading more than a chapter or two at the beginning[^1] I find it very poor language, costing me much cobbling and apt to turn out rather worse than better for all I can do to it
+
+If I give it up, has the writer the power to demand compensation?
+
+Is the bargain tacitly made for 'better for worse' - ? I suppose I ought to have read all the chapters through but they only came in by degrees, the writing is bad, and time failed.
+
+If you will tell me what I am bound to do I should be very much obliged
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Perhaps Cecilia Macgregor, \'Chapters on Early Church History\' MP (September 1878) 210-6.
+
+Only this one chapter ever appeared.
+

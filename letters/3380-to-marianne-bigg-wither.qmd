@@ -1,0 +1,39 @@
+---
+date: '1898-08-11'
+display-date: August, 11[[footnote:1]] 1898.
+from-address: ''
+manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  p. 329
+original-date: '2010-03-04 14:29:42'
+title: To Marianne Bigg Wither
+wordpress-id: 3380
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dearest [Marianne](../persons.html#1546)-
+I have the sketch-book still (only it is at the bottom of some dusty hoards, which I have not time to irritate to-day) with all our party on Bishopstoke Hill.
+
+Dear Marianne, it is much to be thankful for to have a real friend of one's youth on into ‘boar hairs,’ and friends and household do all they can to make it a bright day. [Emily Awdry](../persons.html#81) comes for two days to-day.
+
+She will be in time to see those lovely pancratiums in their glory.
+
+My flowers were gathered and made up yesterday; they are not so beautiful as yours, but they have the merit of lasting.
+
+Do you remember that Amaranth on the lucus a non lucendo principle was [Mr.
+
+Wither](../persons.html#1544)'s New College name?[^2] I have a bunch that has lasted on a whole year. (Botanically I know these are not amaranths.)
+Yes, my dear [Charles Yonge](../persons.html#1601), gone now fifty years ago, had the same birthday. I have been routing out the record of old scenes at Puslinch, which delight [Helen](../persons.html#1613) greatly, and bring back old faces long gone.-
+Your most affectionate
+C. M. YONGE.
+
+[^1]: CRC’s note: Her birthday.
+
+She wrote on her birthday regularly to Miss M. A.
+
+Bigg-Wither.
+
+[^2]: \'lucus a non lucendo\' was a phrase offering an incorrect etymology for the word \'lucus\', a grove, from being not light; the implication might be that Mr Wither had a pale complexion and was therefore named after the crimson amaranth.
+

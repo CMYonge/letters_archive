@@ -1,0 +1,20 @@
+---
+date: '1865-06-20'
+display-date: June 20th 1865
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS UCLA: collection 100: box 95'
+original-date: '2010-05-26 12:01:16'
+title: To an Unknown Man
+wordpress-id: 2046
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Sir,
+I am obliged by your letter, but I am afraid that other engagements are likely to prevent my becoming a contributor to the proposed journal—and at any rate I could undertake nothing without fuller information.
+
+Yours faithfully
+
+C M Yonge

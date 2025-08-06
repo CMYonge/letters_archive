@@ -1,0 +1,41 @@
+---
+date: '1890-01-15'
+display-date: January 15, 1890.
+from-address: Ladies\' College, Cheltenham
+manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  351
+original-date: '2010-07-05 13:07:23'
+title: Dorothea Beale to Charlotte Mary Yonge
+wordpress-id: 3149
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Miss Yonge
+Thanks for your interesting letter, it will give pleasure to [Mrs.
+
+Emery](../persons.html#2106), [Miss Kilner](../persons.html#2095)'s great-niece.
+
+That is very curious about the Lectures.
+
+It is strange that we found these books so fascinating when we were children; is it because the story of the development of the soul is the most interesting thing even to little children, and these books, spite of all their erroneous methods, dealt with nothing else?
+
+Besides, we all like a wholesome severity.
+
+Your description of your [mother](../persons.html#1606)'s school reminds [me ](../persons.html#128)of Thackeray's description; surely he must have seen the girls in Russell Square.[^2] There was in those schools an exactness which was good, still there was not the thoroughness which looks to principles in grammar.
+
+Those well-marked characters given in Ince's Outlines were very curious.
+
+The want of sufficient food, exercise and warmth of body, mind, and heart, was the great want.
+
+There are opposite evils now; the young are too often self-indulgent, they exercise themselves in things too high for them, and they are sometimes sentimental; still schools now, with all their faults (and I know there are plenty in mine), are more what they should be than in our grandmothers' times, so I thank God and take courage.
+
+Yours sincerely
+D.
+
+Beale
+
+[^1]: The Osbornes live in Russell Square in Vanity Fair (1848), but Miss Pinkerton’s school is in Chiswick.
+

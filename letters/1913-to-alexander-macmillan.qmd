@@ -1,0 +1,37 @@
+---
+date: '1863-11-05'
+display-date: Novr 5th [1863]
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: 'MS British Library Add MSS 54920 '
+original-date: '2010-05-19 10:01:07'
+title: "To Alexander Macmillan\t\t"
+wordpress-id: 1913
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[Sir](../persons.html#939),
+I am sorry you had so much trouble about the [Trial](../books.html#53). I was only waiting to send it to you till I heard whether you thought it worth while to look at it so long before hand. I now send it by this post.
+
+There are six more chapters not yet in type of about the length of these, but I hope that the last of them will appear on the 1st of March or April, and I should imagine that the whole had better appear as soon as possible afterwards.
+
+I have arranged that the [Clever Woman of the Family ](../books.html#58)should first come out in the [Churchman’s Family magazine](../others.html#63), to be completed there by December 1864,[^2] but I retain the copy right, and shall hope to bring out the book together in December, having stipulated with [Messrs Hogg](../others.html#159)[^3] that the choice of a publisher for it shall then be in my hands.
+I have not yet had an answer from [Messrs Longman](../others.html#153) with regard to my other works
+
+Your obt servt
+C.M.
+
+Yonge
+
+A Macmillan Esq
+
+[^1]: Black-edged paper.
+
+[^2]: It appeared there from Jan 1864 to May 1865.
+
+Macmillan published it in 1865.
+
+[^3]: Publishers of the Churchman’s Family Magazine from Jan. 1863 to April 1873.
+

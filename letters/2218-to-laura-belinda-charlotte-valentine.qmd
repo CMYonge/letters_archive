@@ -1,0 +1,39 @@
+---
+date: '1867-11-20'
+display-date: Novr 20th [1867]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS British Library Add.42577 f.348
+original-date: '2010-06-14 09:53:21'
+title: "To Laura Belinda Charlotte Valentine\t\t"
+wordpress-id: 2218
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mrs Valentine](../persons.html#1437)
+Many thanks for your Seafights which look very tempting though I have done no more than open them yet.
+
+My nephews must grow up to them - one being six years and the other six months old.[^1] I think you ought to be able to do what an anxious aunt once begged of me to do - to write a story on Midshipmen’s temptations - to which I answered - you know with what good reason that I should only expose myself to the middie’s derision.
+
+I suppose the comic element catches the school boys. I fancy nothing is so difficult to get as fun of a superior order, since it must be easily comprehensible, but burlesque seems to have become the accepted form of it. [Mrs Gatty](../persons.html#549) said when I mourned over the spoiling of the grace and poetry of fairy tales that it saved better things from the same fate.
+
+The fact is that no one but [Leech](../persons.html#854) could make laughter to order.
+
+But what a sale!
+
+It certainly justifies proves the attractiveness of the book and is a great encouragement. I know your feeling about editing for people of name - it is to me like a spider with too big a fly in his web.[^2] One watches and doubts[.]
+
+yours sincerely
+
+C M Yonge
+
+[^1]: [Francis Arthur Yonge](../persons.html#1607) (1861-1919) and [Maurice Edward Yonge](../persons.html#1630) (1867-1940).
+
+[^2]: CMY used the same metaphor when discussing the editorship of the Sunday Library with Macmillan.
+
+See letter to Macmillan, 10 February 1865. CMY is evidently replying point by point to Valentine\'s letter, and it is not easy to be certain what she refers to.
+
+The very successful burlesque book might perhaps be Alice\'s Adventures in Wonderland (1865) which had reached its ninth thousand by October 1867.
+

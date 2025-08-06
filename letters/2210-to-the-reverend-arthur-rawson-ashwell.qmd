@@ -1,0 +1,46 @@
+---
+date: '1867-10-10'
+display-date: Octr 10th [1867]
+from-address: Puslinch
+manuscript-location: MS Miss Sarah Jardine-Willoughby
+original-date: '2010-06-13 17:12:59'
+title: "To the Reverend Arthur Rawson Ashwell\t "
+wordpress-id: 2210
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Ashwell](../persons.html#68)
+I have been waiting to answer your kind letter till I had seen the new [Literary Churchman](../others.html#76), which had to travel round by Otterbourn.
+
+It was a refreshing sight after so much as one has been hearing of the cui bono apropos to the Synod.[^1] I think that in the native Devonian nature there is a strong spirit of thinking for oneself, which has led to much defiance of the [Bishop](../persons.html#1778), almost because he spoke authoritatively and I think the expectation of the same spirit being aroused by the Encyclical prevents some here from doing it justice.[^2] Did you see an article in the last [Saturday Review](../others.html#99), on Christian Converts, which taking the common sense, worldly outside view was a marvellous illustration of the Apocalyptic description of the Woman on the Beast Your interpretation of the Church tainted by the World, and losing her real power in proportion as she depends upon it, might almost stand by the side of the paper I mean.
+
+The proper style of our Church is ‘the [Church of the Resurrection](../others.html#188), Eastleigh’ the latter word being the name of the old farm on a field of which it is built.
+[Miss Wilford](../persons.html#1520) is delighted to give us Font, Burial and Marriage books instead; and I think we shall be most beautifully fitted in that respect. I think we shall be here till the 30th when we are to be at Babbacombe for the Consecration of [All Saints](../others.html#195) Church and the Octave of services arising.
+
+yours sincerely
+
+C M Yonge
+
+[^1]: The Pan-Anglican Synod which had opened (25 September 1867) at Lambeth Palace.
+
+The Encyclical condemned the views of the Rt.
+
+Rev.[John William Colenso](../persons.html#1872), Bishop of Natal.
+
+[^2]: CMY appears to be referring here to the legal case of the Bishop of Exeter v.
+
+Marshall (1867), which related to a Bishop\'s right to refuse to admit a clergyman to a benefice in his diocese.
+
+The Rev. P. C.
+
+Marshall, vicar of Tregony, Cornwall, resigned his living, and, since he owned the right of presentation to it, chose as his successor the Rev.
+
+John Reid.
+
+Dr.
+
+Phillpotts, Bishop of Exeter refused to institute Reid, against whom there were allegations of attempted simony and non-residence in his previous parish; but Marshall fought the case to the House of Lords and won.
+

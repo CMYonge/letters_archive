@@ -1,0 +1,42 @@
+---
+date: '1857-11-13'
+display-date: Novr 13th 1857
+from-address: Elderfield, Otterbourne, Winchester
+manuscript-location: 'MS Princeton University, Parrish Collection, CO171: Box 29'
+original-date: '2014-05-07 14:45:40'
+title: To an Unknown Woman
+wordpress-id: 19373
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Miss [Name criss-crossed out in thick ink lines and unreadable]
+
+I am afraid no work teaches hardness of heart so much as mine, for I think it may be taken as a general rule that the capacity of correspondents is in an inverse ratio to their needs; so that if necessity is the mother of Invention, it cannot be of invention of a high order.
+
+It is a great comfort at least that in this case the disappointment does not - as I understand you - matter in a pecuniary point of view, as it generally does when people write something sadly weak.
+
+But your account is mournful enough for so young a person, and I wish there were any way of giving her the occupation that would be a pleasure to her with out transgressing my duty to the [Packet](../others.html#52).
+
+The feeling of the poem on her deafness is all that could be wished but the unfortunate jingles of the two lines at the end of each verse spoils the verses by reminding one of some nursery rhyme.
+
+And the Calendar mentioning the flowers is much what we once had in a series of semi botanical papers of which I used to repent[^1] - of admitting them I mean, not writing them.
+
+I am very sorry to have to disappoint her, but I should think it kinder to nip her hopes of authorship in the bud than to let her fall into the melancholy excitement of trying magazines all round, and being rejected. I hope she will find more satisfactory occupation with her half brothers and sister. I am glad she has them to be interested in for it consoles me for the cold blooded letter that I have been writing.
+
+I know nothing in the way of servant but what one always does know of - young girls, but I thought I might as well mention [Miss Hibberd](../persons.html#2427)’s want to [Miss Knollys](../persons.html#824) who in her House of Recovery has a constant review of people wanting situations rather out of the common line.
+
+If any thing should come of it, I will write to Miss Hibberd or to you
+
+Yours very sincerely
+
+CM Yonge
+
+&nbsp;
+
+[^1]: A series by [[people:1243]Elizabeth Roberts],called [[otherbook:225]\"A Garland for the Year” published during 1852. CMY\'s regrets may have come later.
+
+The letters she wrote to Elizabeth Roberts at the time were enthusiastic and encouraging.
+

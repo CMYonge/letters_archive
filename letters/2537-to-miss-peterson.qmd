@@ -1,0 +1,23 @@
+---
+date: '1875-09-29'
+display-date: Sept 29th [1875]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS UCLA: collection 100: box 95322'
+original-date: '2011-07-14 09:04:23'
+title: To Miss Peterson
+wordpress-id: 2537
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Madam](../persons.html#1169)
+You will find the history of the [Melanesian Mission](../others.html#30) kept up in the magazines [the Net](../others.html#94) and [Mission Life](../others.html#80).
+
+Yours truly
+
+C M Yonge
+
+[^1]: Envelope addressed to ‘Miss Peterson/Cliff Cottage/The Lees/Folkestone’ and postmarked Winchester E SP 29 75.
+

@@ -1,0 +1,31 @@
+---
+date: '1849-06-14'
+display-date: June 14, 1849
+from-address: ''
+manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  158-9.
+original-date: '2010-03-19 10:03:39'
+title: Frances Mary Yonge to Mary Anne Dyson
+wordpress-id: 2962
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Dyson](../persons.html#464)
+If developments interest you, you should begin with Charlotte long before [Abbey Church](../books.html#2), and trace the dawnings, not only of herself, but of some of the [Beechcroft](../books.html#3) young ladies in the [Chateau de Melville](../books.html#1).[^1] Let me send you one if you have not seen it, and if ever you begin to teach your herd to low in French, we can furnish a complete stock.
+
+The French is probably good enough for beginners, and it is at all events free from any breach of the third commandment, a fault that seemed to belong to all French books for children when I knew anything about them.
+I think you are fortunate to have a child left for the holidays; the books you will read ostensibly for her benefit or amusement will be of great use to the mistress.
+
+At least, I think I learnt a great deal more about teaching from children’s books than I did from graver treatises and systems.
+
+Not that I am without a great respect for Mrs.
+
+Trimmer’s old [Guardian of Education](../others.html#218).
+
+Your dutiful Slave s’Mother - as Charlotte writes the name of her story, [Henrietta s’Wish](../books.html#11).
+
+[^1]: Some characters in Scenes and Characters, or, Eighteen Months at Beechcroft (1847) were based on those in Le Château de Melville.
+

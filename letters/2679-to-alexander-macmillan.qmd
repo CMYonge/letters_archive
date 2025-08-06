@@ -1,0 +1,42 @@
+---
+date: '1879-07-09'
+display-date: July 9th 1879
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54921: 97-98 '
+original-date: '2011-09-09 14:46:41'
+title: To Alexander Macmillan
+wordpress-id: 2679
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939)
+Here is the list of materials for [the little Christmas book](../books.html#135).
+
+The MS, and the clipping come herewith the four others must be sent by rail in the books in which they appeared.[^1] The Autobiography of Patty Applecheeks came out in an American paper, and my copy of it has been lost, but I am sending to Philadelphia to see whether I can recover it.
+
+The Wedding cake (a story of a ridiculous mistake) I also sent to America, and was paid for it, but it has never appeared and I am writing to beg that it may.
+
+Both these are of the length of the Phantom
+If a little more were needed, I could write one more.
+
+There are two stories, one called the Banks of the Leamy, which [Warne](../persons.html#1433) bought for a Christmas annual, and [Sea Spleenwort](../books.html#46), which [Groombridge](../others.html#148) had, which it is a pity not to recover and unite with the rest, but I cannot afford to advance anything to buy back the copy rights.
+
+What an excellent life of Burns Principal Sharp’s is.
+
+He has some qualities (Sharp I mean superior to any writer of the day. I am much tempted to write an answer to the Rights of Woman paper, but I don’t know if [Mr Grove](../persons.html#588) would accept my view of the question, and defence of the poor mothers and chaperons[^1]
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: She was assembling previously published stories which appeared as Bye-Words (1880).
+
+[^2]: Perhaps Florence W.
+
+Habberton, ‘Individual Liberty for Women: A Remonstrance’, Macmillan\'s Magazine 40 (1879), 282-288.
+
+George Grove was the editor of Macmillan’s.
+

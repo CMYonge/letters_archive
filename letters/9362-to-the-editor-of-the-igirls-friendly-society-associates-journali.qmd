@@ -1,0 +1,26 @@
+---
+date: '1896-11-01'
+display-date: '[November 1896]'
+from-address: ''
+manuscript-location: "MS location unknown. Printed in the <i>[[other:72]Girls\u2019\
+  \ Friendly Society Associates\u2019 Journal and Advertiser]</i> (November 1896)\
+  \ 226-7."
+original-date: '2010-06-04 13:48:18'
+title: "To the Editor of the <i>Girls\u2019 Friendly Society Associates\u2019 Journal</i>"
+wordpress-id: 9362
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+A LETTER FROM MISS C. M. YONGE
+
+Madam,-
+May I inform Associates who have been very kind to a blind [Member](../others.html#23)- [Annie Nangate](../persons.html#917) [sic] of Otterbourne- that she died on October 2nd, aged nineteen.
+
+She became blind from a brain disease at eleven years old, and had ever since been a very gentle and holy example to all around, and making herself much beloved in the family?[sic] With many thanks to those who kindly sent her presents of books, wool for crochet &c.
+
+C. M.
+
+Yonge.

@@ -1,0 +1,21 @@
+---
+date: '1897-12-21'
+display-date: Decr 21st 1897
+from-address: ''
+manuscript-location: MS Girton College Cambridge, Yonge VII 5
+original-date: '2010-10-07 14:12:26'
+title: To the Reverend William Parsons Warburton
+wordpress-id: 3365
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Canon Warburton](../persons.html#1466)
+Would it be asking too much of your kindness to ask you to glance over this paper and see whether it is an advisable one to have in [Mothers in Council](../others.html#82). I do not know whether you have heard of the [Mother's Union](../others.html#31), started by [Mrs G Sumner](../persons.html#1381) (the wife of the [Bishop of Guildford](../persons.html#1382)) at first for poor women, to rouse them to some heed to the training of their children but it gradually spread to ladies &c. and indeed quite as much counsel seems to be needed by them as by cottage women.
+‘The need of an ‘organ’ was soon felt, and faute de mieux, I have had to edit the quarterly ‘Mothers in Council’ of which I send a specimen since we are told that Mothers are afraid to teach their children Scripture from what they gather of the ‘Higher Criticism[‘].
+I am afraid the subject must be opened but I am very anxious to do it in the right way
+Yours very sincerely
+
+C M Yonge

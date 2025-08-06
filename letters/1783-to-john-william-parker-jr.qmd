@@ -1,0 +1,25 @@
+---
+date: '1860-03-08'
+display-date: March 8th 1860
+from-address: Otterbourne,Winchester.
+manuscript-location: MS New York Public Library, De Coursey Fales Collection/2
+original-date: '2011-02-02 11:36:56'
+title: To John William Parker, Jr.
+wordpress-id: 1783
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Sir](../persons.html#1143),
+
+Many thanks for the three critiques on Mlle Mori which I hope to shew [Miss Roberts](../persons.html#1244).
+
+I think there is a good deal of one sidedness in the [Literary Gazette](../others.html#143)- as though written by a person who saw from only one point of view.
+
+I cannot judge whether the characters are too English but I fully believe Miss Roberts had authority for some of the things here represented as impossible and I wonder whether the writer has any grounds for the ‘simply not true’, that the hero and heroine were unlikely to receive alms because not Roman Catholics.
+
+yours with thanks
+
+CMYonge

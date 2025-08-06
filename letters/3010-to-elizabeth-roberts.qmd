@@ -1,0 +1,29 @@
+---
+date: '1853-05-14'
+display-date: Whitsuneve [14 May 1853]
+from-address: 'Otterbourn '
+manuscript-location: 'MS Huntington Library: Yonge Letters'
+original-date: '2010-03-22 11:25:59'
+title: To Elizabeth Roberts
+wordpress-id: 3010
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Madam](../persons.html#1243)
+I have no time for more than to enclose the June [Holidays](../others.html#234) and thank you for the last received, I don’t think we Hampshire folks are good at traditions we have none of St Swithin but such as are common to all the world.
+
+There is a curious little old Church dedicated to him, over a gate way. I believe, in spite of this rain, he is buried at the back of the Altar in the Cathedral in a place called by the Vergers the Holy Hole.
+
+Here we dread a wet St Swithin, but in Gloucestershire they desire it and call it the Christening of the Apples[^1]
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: There is a folk tradition that if it rains on 15 July, the festival of St.
+
+Swithin (d. 863), bishop of Winchester, it will go on to rain for the next 40 days as well.
+

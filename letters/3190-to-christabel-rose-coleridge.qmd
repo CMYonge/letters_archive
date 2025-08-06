@@ -1,0 +1,28 @@
+---
+date: '1892-02-11'
+display-date: Feb 11th [1892]
+from-address: Elderfield
+manuscript-location: 'MS UCLA: collection 100: box 95'
+original-date: '2010-07-07 14:51:10'
+title: To Christabel Rose Coleridge
+wordpress-id: 3190
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [C C ](../persons.html#329)
+You may as well see this remonstrance of one of the old fashioned goody souls [Mrs Crocker](../persons.html#2109) her name seems to be.
+
+She goes on afterwards about ‘Amethyst’— and I won’t send that, for it is all misunderstanding. I wrote a defence of Cherry and Maisie saying that she was in a process of growth, and I also explained the scope of Amethyst and that you are not a dangerous person, but I think we must try to keep the religious element more prominent and that [Mr Innes](../persons.html#744) should know that in gaining the young we may be losing the sobersided goody variety—[^2] It is the girls become the aunts.
+[no signature]
+
+[^1]: Black-edged paper.
+
+[^2]: Cherry is the hero of Coleridge\'s novel An English Squire (1881).
+
+Her novel Amethyst: The Story of a Beauty (1891), was favourably reviewed by Mary Bramston in MP (December 1891) 706.
+
+[^3]: Innes wanted the [MP](../others.html#52) to be more modern and popular, and instituted innovations which alarmed CMY.
+

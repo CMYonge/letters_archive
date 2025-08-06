@@ -1,0 +1,66 @@
+---
+date: '1868-10-28'
+display-date: St. S[imon]. & J[ude]. [28 October] 1868
+from-address: Elderfield, Otterbourne, Winchester
+manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  237-8
+original-date: '2010-06-18 07:30:34'
+title: "To the Reverend William John Butler\t"
+wordpress-id: 2288
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr.
+
+Butler](../persons.html#244)
+Thanks. I wish I felt more worthy of being an Exterior Sister,[^1] but I am thankful to be joined to what is good, though I do not think you would care to have me if you knew how I ‘shrink when hard service must be done,’[^2] and what a spoilt child I have been ever since I grew up, very nearly useless in anything practical.
+
+But I will constantly use the prayer, and I hope whenever I can come to Wantage that I may be admitted.
+I wish we could have seen you again.
+
+The church is the same still, and has its atmosphere about it, as much I think as possible. I wish the [Wilson](../persons.html#1541)s had been there, they bring breaths of the old times with them, but altogether it was rather like the Tate and Brady verse that begins
+		I sigh whene’er my musing thoughts -[^3]
+When you read your novel, do let it be Nigel Bartram’s Ideal, one of Warne’s Companion Library - shilling books- it is by the little [lady](../persons.html#1520) who showed us over [St.
+
+Cross](../others.html#130), and I think has a great deal in it.
+
+Is [Emma](../persons.html#822) inclined [Goslingwards](../others.html#104)?
+
+Shall I tell the [Senior Gosling](../persons.html#329) to send her the names and rules?
+
+Yours affectionately
+C. M.
+
+Yonge
+
+[^1]: She had become an Exterior Sister of the [Community of St Mary the Virgin](../others.html#21), Wantage, a sisterhood founded by Butler in 1848.
+
+[^2]: It is interesting that CMY applied to herself this poem by John Henry Newman.
+
+Although it subsequently gained the title \'Flowers without Fruit\', when it appeared in [Lyra Apostolica](../others.html#92) it was called \'Deeds not Words\':
+
+Prune thou thy words; the thoughts control
+That o\'er thee swell and throng;--
+They will condense within thy soul,
+And change to purpose strong.
+
+But he who lets his feelings run
+In soft luxurious flow,
+Shrinks when hard service must be done,
+And faints at every woe.
+
+Faith\'s meanest deed more favor bears,
+Where hearts and wills are weighed,
+Than brightest transports, choicest prayers,
+Which bloom their hour, and fade.
+
+[^3]: Coleridge transcribes \'missing\', but the quotation, from Tate and Brady\'s version of Psalm 43 5:4, runs:
+
+I sigh, whene\'er my musing thoughts
+Those happy days present,
+When I with troops of pious friends
+Thy temple did frequent;
+

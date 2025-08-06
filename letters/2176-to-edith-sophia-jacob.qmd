@@ -1,0 +1,33 @@
+---
+date: '1867-06-12'
+display-date: June 12th [1867]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Charlotte Mitchell '
+original-date: '2010-06-10 14:01:22'
+title: "To Edith Sophia Jacob\t\t\t"
+wordpress-id: 2176
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Edith](../persons.html#749),
+You will think there is no end to me but I saw [Mr Moore](../persons.html#1046) yesterday and he says that his magic lantern came from Carpenter & Newman 24 Regent Street, and that they are much better than Negretti having devoted their minds to magic lanterns His lamp is an Argand These were all your questions I could recollect, but if you have any more, he will gladly and clearheadedly answer them. [Mamma](../persons.html#1606) has just seen the new nursery maid trotting after the donkey carriage and ‘Mithter Dandatti’ and the three children & thought she looked very nice.[^2] On Saturday week [Miss Mackenzie](../persons.html#930) will betake herself to the Kings Head at Hursley.
+
+The American lady who wrote the Scilly isles wants to do a series of English cathedrals - it is like the Scotch lady flying at Archbishops.
+
+Poor dear Field House we took leave of it and its roses and cows last night, and felt as if a very sunny page in our life was turned down[^3]
+
+yours affectionately
+
+C M Yonge
+
+[^1]: Black-edged paper.
+
+[^2]: This suggests that Edith Jacob had recommended a nursery maid to JBY’s family, and CMY is giving news of her progress.
+
+[^3]: The farmhouse at Hursley which [Dr.
+
+George Moberly](../persons.html#1015) had rented from Sir William Heathcote, which his family were now leaving for ever.
+

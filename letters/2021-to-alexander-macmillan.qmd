@@ -1,0 +1,26 @@
+---
+date: '1865-04-26'
+display-date: April 26th 1865
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54920: 77 '
+original-date: '2010-05-25 10:58:11'
+title: To Alexander Macmillan
+wordpress-id: 2021
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939),
+Many thanks.
+
+Our letters have crossed but the enclosure was welcome in any way of having it.[^1]
+I hope to finish [Abraham](../others.html#177) today and send it
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: A [cheque](../others.html#160) for £200.
+

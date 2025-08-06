@@ -1,0 +1,29 @@
+---
+date: '1865-12-29'
+display-date: 29th Dec., 1865.
+from-address: B.Mouth
+manuscript-location: MS location unknown. These extracts printed in <i>[[cmybook:88]Musings
+  over the Christian Year]</i>, liv-lv.
+original-date: '2010-06-05 12:05:10'
+title: The Reverend John Keble to Charlotte Mary Yonge
+wordpress-id: 2091
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My very dear Child,
+This comes first to say that, to my very great relief, [I](../persons.html#798) found this morning the two letters in a drawer in which I myself had specially lodged them for safe keeping, and herewith they come, saving something to myself which [he](../persons.html#1155) would not perhaps like to have shewn.[^1] How precious it all is, and what thoughts it brings over one (among others) of one’s own ways. . . .
+
+We wish your dear [mother](../persons.html#1606), and the two households with their belongings, a happy new year and many of them.
+
+Yours very affly.
+J. K.
+
+[^1]: Keble had mislaid a letter to himself and a letter to CMY from the Rt.
+
+Rev.
+
+John Coleridge Patteson.
+

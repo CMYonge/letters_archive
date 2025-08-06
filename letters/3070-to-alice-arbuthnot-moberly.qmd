@@ -1,0 +1,23 @@
+---
+date: '1855-01-01'
+display-date: '[summer 1855]'
+from-address: ''
+manuscript-location: MS location unknown.  This fragment printed in <i>Dulce Domum</i>
+  122.
+original-date: '2010-04-22 11:00:41'
+title: To Alice Arbuthnot Moberly
+wordpress-id: 3070
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+It is a great relief to-day to hear of the operation being over.[^1] I am so glad [Dr.
+
+Moberly](../persons.html#1015) was able to be there. I have been wishing to see [Mr.
+
+Keble](../persons.html#798) to hear how [you](../persons.html#1025) were all looking in Oxford, but we have not been able to go to Hursley. [Johnnie](../persons.html#1017)'s wig is very shaggy, but we agree that he is growing very handsome. . . .
+
+[^1]: The operation on [George Moberly](../persons.html#1014) the younger.
+

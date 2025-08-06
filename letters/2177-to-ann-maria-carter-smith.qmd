@@ -1,0 +1,33 @@
+---
+date: '1867-06-24'
+display-date: June 24th [1867]
+from-address: Elderfield
+manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1867/ 2
+original-date: '2010-06-10 14:07:35'
+title: "To Ann Maria Carter Smith\t\t\t"
+wordpress-id: 2177
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Smith](../persons.html#263),
+I am in a little puzzle about this paper of yours.
+
+It ought to be in the August number, for by September, I suppose the exhibition will be over, and I am afraid there is hardly time to give it the touches without which I am afraid I cannot take it.[^2] It seems to me that there is too much of biography and not pictures enough.
+
+There is such a long piece of Queen Mary’s history and by the by, there is a little confusion between her and William’s mother where you call her the daughter of Ch I and it is hardly worth while to quote from [Miss Strickland](../others.html#157).
+
+Just a descriptive phrase or two about each person taking it for granted that people know whom you mean would be much more effective Such for instance as the description of the Duchess of Marlborough’s portraits or of the Prince Frederick’s or Queen Charlotte’s and leaving out the long biographies would give room for touches to others left out, such as Marlborough, Johnson and many and many more who would come too late if this waited till September. I do not think it possible to give a catalogue of the pictures, only to jot one’s own strongest impressions as I did in a great hurry and if you had time to make this sort of survey or rather to record, so as to be in time for the August [M P](../others.html#52) - ie- letting me have it by the end of next week, I should like it much but I am afraid that this is asking too much and will not be convenient
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Black-edged paper.
+
+With envelope addressed to Miss Smith/ 8 Wellington Road/ Charlton SW [sic] and postmarked London 25 June 1867.
+
+[^2]: The article was a review of an exhibition at the National Portrait Gallery.
+

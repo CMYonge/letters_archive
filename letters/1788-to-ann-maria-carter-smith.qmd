@@ -1,0 +1,33 @@
+---
+date: '1860-04-09'
+display-date: Easter Monday [9 April] 1860
+from-address: 'Otterbourne, Winchester. '
+manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1860/9
+original-date: '2010-05-05 09:58:31'
+title: 'To Ann Maria Carter Smith   '
+wordpress-id: 1788
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Smith](../persons.html#263)
+I am glad I know you are at home that I may send you not lost but found. I have, as you desired me, taken great liberties with the correction. I think that what I have chiefly to observe is that you have here and there made it obscure by elliptical writing, and that you must beware of now which comes very often over, and I used, by my home critic, to be forbidden to use at all, unless I mean the real present.
+
+Take care too that all your sentences have a nominative case and a verb or they won’t parse. I am very glad to have managed space for this while the interest is still keen, for as you know I am very fond of it, though (or because) it goes to one’s heart.
+I rejoice to hear that [Once a Week](../others.html#84) has appreciated the Two Beauties, and I hope it will not be as tardy in bringing it out as the [Monthly Packet](../others.html#52) too often is except on an emergency.
+
+We are just going to have a grand reading over of the Wynnes.
+
+We have enjoyed them thoroughly chapter by chapter, but I have a kind of dread that altogether they will want a central thread of story, though I own regarding them as friends. I am relieved that you did not kill the mother and make Barbara keep house as once I expected. I wish we saw more of Elizabeth whom I greatly like. I believe a story should either be brief or have a good stout backbone of interest or else people will complain that they don’t see where it is tending
+
+yours sincerely
+
+C M Yonge
+I suppose you would not put ‘by the author of Aggesden Vicarage’ to this.
+
+Please send it at once to Messrs [Mozley](../others.html#108), Friar Gate, Derby not back to me
+
+[^1]: Envelope addressed to Miss Ann Smith/ Old Charlton Rectory/ SE and postmarked Winchester (date missing because stamp cut out) and London SE 10 April 1860.
+

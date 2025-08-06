@@ -1,0 +1,40 @@
+---
+date: '1863-08-04'
+display-date: Aug 4th [1863]
+from-address: Crookham
+manuscript-location: 'MS WDRO Acc No 308: 4/8/63'
+original-date: '2010-05-14 12:02:57'
+title: To Anne Yonge
+wordpress-id: 1899
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Anne](../persons.html#1582),
+How strangely sorrows have thickened on the family.
+
+Poor [Delia Oldfield](../persons.html#1099), she seems so especially desolate in her helplessness. I am glad [Francis Yonge](../persons.html#1622) was with her, he must be more able to comfort her than any one else, and now that he has no call to other duties or any other home, he can best be with her.
+
+We were at Emsworth barely a month ago, and have certainly liked the [General](../persons.html#1100) much better of late years; and seen more of his real and genuine goodness Poor Delia, it is a very sad break up for her.
+
+May she be helped and supported under it! I am sure that nothing is more often shewn than the fulfilment of the promise that ‘as thy day, so shall thy strength be’ And so I trust that it is with all of you. I was so thankful for your account of all, so individually.
+
+Yes, one did seem to have hoped that [uncle Yonge](../persons.html#1623) might have been spared further sorrows after so many as he has had, and he does come first in all the thoughts, but always there is the greater trust for him, in having seen his way of bearing up and going forth ‘now braced for all his tasks.’ I am very anxious to hear of [Mary](../persons.html#1626) too, it is very well for her to be spared the attendance on [Charlotte](../persons.html#1587), though it would be so much pleasanter for [Duke](../persons.html#1599) and Charlotte, but of course they would not think of that - and she must indeed have much to do at home.[^3] I am glad poor [John Morshead](../persons.html#43) is able to take up the boys’ lessons, it is so much better for him and for them, and I hope Salcombe is so provided that he may not need to return just yet, and that you will have the boys, especially the little ones for a good while longer.[^4] The pain of taking up their lessons must indeed be grievous, but there is much in feeling that it is a work left you by that very dear one, and one that she would have been most glad to see in your hands. I am glad you said so much about the boys, one so sees them all. I thought [Frank](../persons.html#30) would have the most readiness to comfort those about him, he has so much tact and manner, and there is something so winning in him. [Alethea Mackarness](../persons.html#923) hopes [Edmund](../persons.html#42) will be kind to her [Charlie](../persons.html#1883) when he goes as he is likely to at Christmas.
+
+And now your first Sunday is over, and you are getting again into the daily stream of life, and realizing that the sweet counsel together of earth is over, and turned to the Communion of Saints. I am glad it was a Sunday of that meeting of those on earth with those in Heaven.
+your most affectionate
+
+C M Yonge
+
+[^1]: Black-edged paper.
+
+[^2]: The recently widowed Delia Oldfield was first cousin both to CMY and Anne.
+
+Her brother John Francis Duke Yonge was also widowed in 1863.
+
+[^3]: Anne\'s sister-in-law Charlotte was expecting a baby.
+
+[^4]: John Anderson Morshead had been left a widower with six sons by the recent death of Anne\'s sister [Alethea](../persons.html#27).
+

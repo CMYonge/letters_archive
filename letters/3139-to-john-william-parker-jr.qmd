@@ -1,0 +1,34 @@
+---
+date: '1859-10-29'
+display-date: Oct 29th 1859
+from-address: Otterbourne,Winchester.
+manuscript-location: 'MS Princeton University, Parrish Collection, C0171: Box 29'
+original-date: '2010-04-28 14:34:54'
+title: To John William Parker, Jr.
+wordpress-id: 3139
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Sir](../persons.html#1143),
+I have to thank you for the pretty tale of the [Nut Brown Maids](../others.html#173) which we are reading with much interest and pleasure.
+
+Some months ago, [Miss Roberts](../persons.html#1244), I believe, wrote to you about a tale of the Roman Revolution of 1848 which you rejected.
+
+She has since lent me the M S and I am so much struck with it, that I cannot for bear venturing to ask whether it were an account of the ill success of [the Two Mottoes](../others.html#136) or on its own merits that you declined it.
+
+If the first, may I be allowed to say that I think the former stories no criterion for the present, which is exceedingly in advance of them.
+
+The former ones were weak and youthful - this is on new ground, and full of very pretty descriptions of scenery, and characters that I should think admirable, the manners giving a very new and interesting picture.
+
+Some friends of mine who are now reading it and who have been much in Italy are delighted with the faithfulness of the picture, and I can hardly believe it can be otherwise than very popular.
+
+Miss Roberts is now abroad, and has left it in my hands, to endeavour to procure its publication.
+
+Before taking further measures, I could not forbear asking you (in case it had only been rejected because of the unfortunate Two Mottoes) to reconsider the verdict, for I candidly think it a book not to be rejected. I have thought more highly of the book since some recent articles in the [Saturday Review](../others.html#99), which seemed like a comment on it. I own that I expected little from the M S judging by her former works, but I was surprised and delighted with this, I will await your answer before taking any further step
+Yours faithfully
+C.M.
+
+Yonge

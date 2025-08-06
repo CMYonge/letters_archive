@@ -1,0 +1,30 @@
+---
+date: '1878-03-13'
+display-date: March 13th 1878
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: 'MS British Library Add MSS 54921: 52-53 '
+original-date: '2011-08-08 12:06:34'
+title: To George Lillie Craik
+wordpress-id: 2621
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+I enclose the receipt with many [thanks for the cheque](../others.html#160), also for [Bp Patteson](../books.html#102) and the loan of Islam.
+
+When I can, I should like to add to Bp Patteson that the mission has learnt the manner of his death, and that it was the women who placed his body in the canoe and sent it out to meet the boat. I have not a copy left of [Pioneers and Founders](../books.html#90), so could you send me one to make the correction, and I should also be glad of another of the [Pupils of St John](../books.html#72). I shall soon want two sets of the volumes of the [Scripture Readings](../books.html#87) with comments, so they may as well make one parcel together[^2]
+You shall have the early part of the [Story of the Moors](../books.html#126) as soon as I have touched it up, but it is the beginning that wants most to be done to it
+
+Yours truly
+
+C M Yonge
+
+[^1]: Black-edged paper.
+
+Endorsed \'Give me this back\'.
+
+[^2]: Endorsed \'Rail 14 3/78\'.
+

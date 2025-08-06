@@ -1,0 +1,26 @@
+---
+date: '1872-02-21'
+display-date: Feb 21st 1872
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Charlotte Mitchell. '
+original-date: '2015-03-09 13:53:31'
+title: To an Unknown Woman
+wordpress-id: 19897
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Madam,
+
+I am glad that the introduction of that letter has been serviceable.  I am afraid though that I do not see any prospect of being able to make room for the story from Mrs Charlesworth as I am engaged to serials for a great way on[^1]
+
+yours truly
+
+C M Yonge
+
+[^1]: The well-known children\'s writer Maria Louisa Charlesworth was unmarried, so it is not clear if this reference is to her or not.
+
+Her work was probably too Low Church for MP and possibly the rather chilly tone of this note is connected with CMY\'s view of her works.
+

@@ -1,0 +1,42 @@
+---
+date: '1877-08-15'
+display-date: 'Aug 15th 1877 '
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: 'MS New York Public Library: Berg Collection  '
+original-date: '2011-08-04 15:52:00'
+title: 'To Eliza Callahan Cleveland '
+wordpress-id: 2592
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Cleveland](../persons.html#307)
+I knew your name directly and well remembered your visit at Otterbourne. I am greatly obliged to you for the elucidation of reef of Norman’s woe.[^1] I was highly dissatisfied with the idea that it was connected with the White ship,[^2] but having nothing more definite to put in its stead I let it stand. I strongly suspect that the word Woe - which I see in one version is Oh, ought to be Oe , an island the Danish or Norse form of ey.
+
+You know philologists tell us the insertion of S in island is a mere mistake and confusion with isle which comes from insula and that it ought to be I-land - Angles-ey Guerns-eye &c in the south and in the we have Stroms oe Far-oe and many more.
+
+So perhaps Norman’s Oe was the islet or reef where this original Richard Merman was wrecked; and then became Woe from association and Woe still more from the hesperus.
+
+It is a very curious history altogether and it will quite add to the value of the September Monthly Packet to have it cleared up ‘on the very best authority’
+The autograph too is a very great prize and I thank you much for it.
+
+Pray thank [Mr Longfellow ](../persons.html#1961)greatly from me for so kindly sending the explanation
+I hope to find and send your MS tomorrow with this. I have always meant to put it in, but have never had room. I have thought of it often.
+
+Do you remember sending me the lives of the members of Harvard University[^3] I have lent that book so often, and only the other day [Miss Bramston](../persons.html#198), the author of Ralph and Bruno wanted it again to come some thing of Charles Lowells
+With many thanks
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: H.W.Longfellow, ‘Wreck Of The Hesperus’: ‘And fast through the midnight dark and drear, /Through the whistling sleet and snow, /Like a sheeted ghost, the vessel swept /Tow\'rds the reef of Norman\'s Woe.’ \'Answers\' MP (September 1877) 3: \'An American correspondent has obtained from Mr Longfellow the following account of the origin of the poem of the Wreck of the Hesperus and the place where it happened\'.
+
+There follows a description of the location of the cliff \'Norman\'s Woe\', north of Boston and an extract from Longfellow\'s letter, saying he knows nothing of origins of the name but that the poem was inspired by a real shipwreck there in December 1839. A local historian is cited as authority for the origin of the name of \'Norman\'s Woe, or Oh\' in the wreck of a fisherman named Richard Norman.
+
+[^2]: The son of King Henry I died in the wreck of the White Ship in November 1120.
+
+[^3]: John Langdon Sibley, Biographical Sketches of Graduates of Harvard University (1873) seems most likely to be the book referred to here.
+

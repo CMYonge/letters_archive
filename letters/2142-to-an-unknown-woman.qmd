@@ -1,0 +1,40 @@
+---
+date: '1866-12-30'
+display-date: Dec 30th [1866?]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Harry Ransom Humanities Research Center, University of Texas.
+  C. R. Coleridge Collection
+original-date: '2010-06-09 13:50:51'
+title: To an Unknown Woman
+wordpress-id: 2142
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Madam,
+The school that I should think more likely to answer your purpose would be [St Michael’s, Bognor](../others.html#185), which is under the Provostship of [Mr Woodward](../persons.html#1551) who has done so much for education – I cannot tell what the terms are but I know they are on a less expensive scale than those of schools equally good as education goes, and the doctrine is thoroughly high – The person to address for information is
+	The [Lady Warden](../persons.html#1973)
+St Michael’s
+Bognor
+[Miss Lowden](../persons.html#900) – Frome Selwood and [Miss Parkinson](../persons.html#1145) at Brighton have excellent schools, but the terms are high.
+	[Miss Bell](../persons.html#134)
+[Winnington Hall](../others.html#186)
+Northwich
+has a school on a very large scale, where young ladies receive an excellent education on moderate terms.
+
+In fact it is the locality of [Ruskin](../persons.html#1268)’s Ethics of the Dust and I believe he is often there, though I do not know whether that is a recommendation.
+
+The Author of Mabel’s music lessons is musical governess there[^1]
+
+Yours truly
+
+C M Yonge
+
+[^1]: ‘Aunt Cecily’s music lessons,’ addressed to her niece Mabel, appeared in MP (July 1866-July 1869).
+
+The 1871 census indicates that the music teacher at Winnington Hall was then Elizabeth Flowel or Howel (b.
+
+Hampshire 1847/8).
+

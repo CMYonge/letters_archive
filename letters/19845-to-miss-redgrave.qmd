@@ -1,0 +1,21 @@
+---
+date: '1860-11-04'
+display-date: Novr/ 4 [1860s?]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Charlotte Mitchell. '
+original-date: '2015-03-09 12:35:46'
+title: To Miss Redgrave
+wordpress-id: 19845
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Miss Redgrave](../persons.html#2411)
+
+I enclose the Order with many thanks and apologies
+
+yours sincerely
+
+C M Yonge

@@ -1,0 +1,26 @@
+---
+date: '1878-05-10'
+display-date: May 10th 1878
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54921: 63 '
+original-date: '2011-09-01 10:24:18'
+title: To George Lillie Craik
+wordpress-id: 2631
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+Please send me a copy of [the Dove in the Eagle’s Nest](../books.html#62).[^1]
+I have got some of the books I wanted for my article from a school inspector, but I am afraid my ideas are not much more definite than when I saw you as to what would be likely to be of use - as I fear there is no book on English education analogous to Mr Arnold’s on German and I can only pick up from all quarters[^2]
+
+Yours truly
+
+C M Yonge
+
+[^1]: With a note ‘Post 13/578, SH’.
+
+[^2]: This projected article on English education, presumably for Macmillan\'s Magazine, does not seem to have been published.
+

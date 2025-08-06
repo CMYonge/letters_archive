@@ -1,0 +1,23 @@
+---
+date: '1865-10-26'
+display-date: Oct 26th [1865]
+from-address: Crookham
+manuscript-location: 'MS British Library Add MSS 54920: 114 '
+original-date: '2010-06-03 12:04:30'
+title: "To Alexander Macmillan\t\t\t\t"
+wordpress-id: 2076
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939)
+Happening to have an excess of M.S. luggage, I am rather glad to send off an instalment of “the [Chaplet of Pearls](../books.html#69)” instead of packing it up.
+
+It threatens to be longer than the [Dove](../books.html#62), and there is a good deal more still to be written, and probably rewritten.
+I believe I omitted to say that it would be the most convenient way to me if you could [pay](../others.html#160) the £235, the balance of my account to my name at [Messrs Hoare](../others.html#169)’s.
+
+Yours very truly
+
+C M Yonge

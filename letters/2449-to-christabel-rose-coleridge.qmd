@@ -1,0 +1,26 @@
+---
+date: '1872-06-06'
+display-date: June 6th [1872?]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Mrs Clare Roels
+original-date: '2011-06-15 13:16:45'
+title: To Christabel Rose Coleridge
+wordpress-id: 2449
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+I think if you told [Warne ](../persons.html#1433)that you had had an offer from [Smith and Elder](../others.html#238) he would be sure to take your story.
+
+The stupid man has just refused Florence Wilford’s dominie and ought to be scarified.[^1] I shall have [Joanna ](../persons.html#1154)and [Fanny Patteson](../persons.html#1154) with me on the 20th, and it is also the time of one of the [lectures](../others.html#240), so it will depend on a good many things whether I shall have the pleasant sight of you.
+your affectionate
+
+C M Yonge
+
+[^1]: Florence Wilford, Dominie Freylinghausen (London, Mozley 1875).
+
+It ran as a serial in MP ns 13 (January-June 1872).
+

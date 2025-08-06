@@ -1,0 +1,20 @@
+---
+date: '1879-04-26'
+display-date: 26th April [1879]
+from-address: '93d Via Piat '
+manuscript-location: MS UCLA collection 100 box 119
+original-date: '2011-09-08 15:15:55'
+title: Linda Mary Villari to Charlotte Mary Yonge
+wordpress-id: 2668
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam,
+As you kindly consent to look at the tale of child life in Italy that I mentioned to you, I now send you the three first chapters (it has twelve in all) of 'The Angel of Viareggio'. I hope the thin paper will not inconvenience you, but I shall not repeat the experiment & the rest of the MS. shall be sent to you on foolscap.
+I enclose a post card & stamps & trusting the story may seem likely to suit your pages believe me I remain
+Most truly yours
+[Linda Villari](../persons.html#1444)
+Miss Yonge

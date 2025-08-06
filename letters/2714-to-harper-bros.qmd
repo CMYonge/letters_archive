@@ -1,0 +1,29 @@
+---
+date: '1880-11-15'
+display-date: Novr 15th 1880
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Columbia University Library, New York:  Harper Bros Collection'
+original-date: '2011-09-14 11:18:47'
+title: To Harper & Bros.
+wordpress-id: 2714
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Messrs [Harper](../persons.html#248)
+I am much obliged for the [£10](../others.html#160) for [Love and Life](../books.html#137) received on the 14th yesterday. I am also much obliged to you for sending me your ‘[paper for young people](../others.html#250).’[^1] I ventured to extract a short poem on the Plumes of Crecy for a [Reading Book for schools](../books.html#150) making however a few alterations to bring it more into accordance with history than romance[^2]
+Yours faithfully
+C.M.
+
+Yonge
+
+[^1]: There is a pencil line beside the mention of the reading book and ‘Is not this worth mention?’ written in pencil.
+
+Underneath, in ink ‘Attended to./ S.S.C.’
+
+[^2]: Lillie E.
+
+Barr, ‘The Plumes of Creçy’ was included in [English History Reading Books](../books.html#150) III, 106-9, with a note ‘in Harper’s Young People (slightly altered)’. CMY has reciprocated the American [piracy](../others.html#172) of her work.
+

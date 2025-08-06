@@ -1,0 +1,25 @@
+---
+date: '1878-01-01'
+display-date: 'Jany 22d 1878 '
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: 'MS British Library Add MSS 54921: 46-47  '
+original-date: '2011-08-05 14:37:32'
+title: 'To George Lillie Craik '
+wordpress-id: 2617
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+Many thanks for [the payment](../others.html#160) which comes pleasantly early this year.
+
+My [Spaniards and Moors](../books.html#126) are progressing, but I suppose I had better finish all before I send them, as if abridgement is needful it is better done on a whole than on a part.
+
+Yours truly
+
+C M Yonge
+
+[^1]: Black-edged paper.
+

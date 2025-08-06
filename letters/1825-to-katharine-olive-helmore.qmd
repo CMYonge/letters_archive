@@ -1,0 +1,26 @@
+---
+date: '1861-03-18'
+display-date: March 18th 1861
+from-address: Otterbourne, Winchester.
+manuscript-location: 'MS Charlotte Mitchell/Cobweb-2 '
+original-date: '2010-05-09 10:22:39'
+title: "To Katharine Olive Helmore\t\t\t\t\t\t "
+wordpress-id: 1825
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Most submissive [Cobweb](../persons.html#675),
+The only change that I would suggest this time would be that for the word Evangelists you should substitute Gospels – as the Forms to which you refer rather symbolize the characteristics of the Gospels themselves than of their writers The [answers](../others.html#104) will carry you all very deep and high.
+[The Humble Bee](../persons.html#81)[^2] will be delighted with [Kepler](../persons.html#1850) as the stars are her peculiar line.
+
+We shall have such beautiful stories of [Handel](../persons.html#1851) that I much look forward to him, but I wonder if any one will take the new view of [Wallace](../persons.html#1852)?
+your faithful
+Mother Goose
+
+[^1]: Tiny 95mm x 54mm blue envelope addressed to ‘Miss Helmore/6 Cheyne Walk/Chelsea/SW’ postmarked Winchester 18 March 1861 and London 19 March 1861,
+
+[^2]: (Frances) Emily Moberly (1844-1921) was a Gosling as Humble Bee from 1859-1868(?),
+

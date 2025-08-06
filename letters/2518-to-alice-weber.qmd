@@ -1,0 +1,27 @@
+---
+date: '1873-12-29'
+display-date: Decr 29th [1873?]
+from-address: Elderfield,  Otterbourne,  Winchester.
+manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
+original-date: '2011-07-13 10:00:31'
+title: To Alice Weber
+wordpress-id: 2518
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Weber](../persons.html#1483)
+It is a beautiful story, and I shall be very glad to have it for next year -i.e.
+
+Jany 1875[^1]
+
+Yours truly
+
+C M Yonge
+
+[^1]: Since CMY would hardly have to particularize that next year meant 1875 if writing in 1874, and the end of December would be too late to get a story into the following January\'s issue of MP, it seems likely that this was written in 1873.
+
+No story by Weber appeared in January 1875, but the one referred to here might be \'I Wonder Why\', published in November 1874.
+

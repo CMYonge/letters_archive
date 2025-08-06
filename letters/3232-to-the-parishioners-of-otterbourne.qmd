@@ -1,0 +1,55 @@
+---
+date: '1893-08-01'
+display-date: '[August 1893]'
+from-address: ''
+manuscript-location: 'Printed in the [[other:85]<i>Otterbourne Parish Magazine</i>]
+  (August 1893). '
+original-date: '2010-07-28 11:25:25'
+title: To the parishioners of Otterbourne
+wordpress-id: 3232
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[She thanks for the presentation made to her on her 70th birthday]I put the scholars first because the connection began with so many as scholars.
+
+As I looked round I could see among the party two (at least) who had been [my mother](../persons.html#1606)’s scholars when she first began her Sunday class in what is now [Miss Missellbrook](../persons.html#1257)’s kitchen, about sixty five years ago. I can just remember sitting by her there, when you used to call me ‘little miss’.
+
+One of these is a great grandmother now!
+
+Of grandmothers and mothers there were many who had been taught by my mother and me and among them were no less than three fully grown and working school mistresses and two provisionals.
+
+There was no real power of thanking them all for their beautiful present of cream jug, sugar basin and tongs with some fish knives and forks.
+
+Also the Mothers Meeting for their handsome photographs of the church outside and inside, which now hang on the wall.
+
+Such thanks are more than an awkward speaker like me, can utter effectively, when taken by surprise, as indeed I was, for I had no notion what was preparing for me.
+
+You know I had a very [grand present](../others.html#225) the next day from 5200 people whose names I have in a book and a gift of money that I could not take pleasure in except that I hope you will see part of it used for the church.
+
+There is also a beautiful photograph of [Queen Margharita of Italy](../persons.html#956) who is a reader of my books, wrote my name below.
+
+But I should like to say with all my heart that I could never enjoy the tribute of strangers (though indeed some of the givers are known and dear to me and others great and honoured names) if I had not the testamentary from my own home surroundings.
+
+My books helping far off would be nothing if my self did not help those near me.
+
+And I have often been thinking of a line
+Alas the gratitude of man
+Hath often left me mourning[^1]
+mourning that I have not deserved it better
+or again
+Pray we our Lord one pang to send
+Of deep remorseful fear
+For every smile of partial friend
+Praise be our penance here[^2]
+and indeed I do feel when I hear of what others have done in a shorter time, that if I had been more good and friendly myself and more spiritual and deep in my teaching, all of you might have been better for it. I have happy thoughts about many, perhaps the happiest of all about her who was suddenly taken away in the midst of her Sunday teaching, but I have to ask you, while I thank you, earnestly, elders and juniors to forgive my shortcomings and many mistakes.
+
+Your grateful friend
+C.M.Y.
+
+[^1]: Wordsworth, ‘Alas! the gratitude of men/ Has oftner left me mourning.’ ‘Simon Lee, the Old Huntsman’ 103-4.
+
+[^2]: John Keble, \'Danger of Praise\' 21-4, from [Lyra Innocentium](../others.html#232) (1862).
+

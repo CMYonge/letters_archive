@@ -1,0 +1,61 @@
+---
+date: '1856-01-28'
+display-date: Jany 28th [1856?]
+from-address: Otterbourn
+manuscript-location: MS Mrs Caroline Fairclough/5
+original-date: '2010-04-22 11:51:17'
+title: To Anna Butler
+wordpress-id: 3077
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Butler](../persons.html#237)
+I am sorry to say that on reading your last chapter we were obliged to pronounce it rather too political.[^1] I am afraid you will think us very heartless, but we could not keep up our interest, and it does not come in like a girl’s narration either.
+
+Is not kissing pale lips rather conventional?
+
+It struck us too as somewhat confused about the beginning.
+
+Your sketch of the two girls and their arrival &c was capital, and I have little doubt that Emily’s introduction to Aunt Theresa will be very good for her, but could you not be kind enough to curtail Honorine’s narrative merely to home events, taking it for granted that the other matters are understood.
+
+Perhaps you will be angry with me for not having any Polish enthusiasm. I know the original injustice was monstrous, but the way out of it is too difficult and doubtful a question for the [Monthly Packet](../others.html#52), & entering on the Revolution leads [Likes & Dislikes](../others.html#248) out of its original course.
+
+I am very sorry, after you have been reading it up, but I hope you will be as kind as you were about the Glacier theory.
+
+Thank you for the trouble you have taken about Gruntwig, I daresay I spelt his name wrong.[^2] All I know of him was from [Howitt’s Scandinavian Literature](../others.html#85), which I have not by me, & only left me an impression of a grunting name; & he is also mentioned in a note of [Mr Newland’s Forest Life](../others.html#127). I dare say I have made errors which give me no right to laugh at the [Heir of Redclyffe](../books.html#15) issuing from Constantinople, or at Mde de Stael’s beautiful combination of the two Sydney Smith’s into one grand Pretre Amiral.[^3] [My mother](../persons.html#1606) and I diligently read 50 pages of [Macaulay](../others.html#250) every night, in a state of mind amused, incredulous and indignant, but on the whole enjoying our readings.[^4]
+
+I do not know whether [Elizabeth Barnett](../persons.html#113)’s melancholy watching is over.[^5] I hope she will not be called on for more exertion than she has strength for.
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Butler’s novel Likes and Dislikes was serialized in MP (July 1855-November 1856).
+
+[^2]: Probably [N. F. S.
+
+Grundtvig](../persons.html#1770) (1783-1872), Danish nationalist and philosopher.
+
+[^3]: In Coleridge, [Life](../others.html#40), 380 there is a quotation from a supposed death announcement in an Italian newspaper of 1882. ‘E morta la celebre scrittice Inglese, Era di Ratcliffe . . . sposo [sic] l’ambasuatore Inglese a Costantinopole. . .’ This was undoubtedly a garbled response to the death (25 November 1882) of Eliza, Viscountess Stratford de Redcliffe, the widow of the diplomat Sir Stratford Canning (1786-1880), British ambassador in Constantinople 1825-9 and 1841-58, who was created (1852) 1st Viscount Stratford de Redcliffe.
+
+He was quite closely related to the Butlers, being Emma (Barnett) Butler’s uncle and first cousin once removed to William and Anna Butler.
+
+It seems likely that the allusion in this letter is to an earlier example of a similar confusion between the Heir of Redclyffe and Lord Stratford de Redcliffe.
+
+Madame de Staël must have confused the Rev.
+
+Sydney Smith (1771-1845) and Admiral Sir Sidney Smith (1764-1840).
+
+[^4]: T.B.Macaulay, [The History of England from the Accession of James II](../others.html#250) (1849-61).
+
+Volumes 3 and 4, covering the reign of William and Mary, had been published in December 1855.
+
+[^5]: Perhaps Elizabeth Barnett was attending the deathbed of her uncle Lt.-Col.
+
+Charles Barnett (1790-1856) of the Scots Guards.
+
+In the Post Office Directory of that year he is listed as living at 10 Wilton Crescent with Miss Barnett.
+

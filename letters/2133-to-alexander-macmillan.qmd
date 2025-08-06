@@ -1,0 +1,27 @@
+---
+date: '1866-09-01'
+display-date: Sept 3d 1866
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54920: 162-163 '
+original-date: '2010-06-09 10:18:10'
+title: To Alexander Macmillan
+wordpress-id: 2133
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939),
+I see Old Sir Douglas is living and thriving once more, so I write to ask whether you wish for the first instalment of the [Chaplet of Pearls](../books.html#69) for October, or whether you wish to wait till the end of one of the present stories.[^1] I have written almost to the end, but it wants plenty of re-touching. I have had so much interruption that I /often\ could not go into work that took more study - however I have made a beginning for the [Worthies](../books.html#80) and have finished the first.
+I hope your party are pretty well, and [Mrs Daniel](../persons.html#941) in a less anxious state
+
+Yours sincerely
+
+C M Yonge
+What a delightful paper that is on the Verney portraits
+
+[^1]: Chapters of Caroline Norton’s Old Sir Douglas appeared in [Macmillan’s Magazine](../others.html#78) from January to May 1866, and then from September 1866 to October 1867.
+
+The Chaplet of Pearls was serialized from November, 1867 to December 1868.
+

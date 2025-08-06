@@ -1,0 +1,21 @@
+---
+date: '1868-05-11'
+display-date: May 11th [1868]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54920: 197-8'
+original-date: '2010-06-15 14:28:42'
+title: To Alexander Macmillan
+wordpress-id: 2245
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Macmillan](../persons.html#939)
+We are rather disturbed at the delay in printing the [Historical Selections](../books.html#71) as [Miss Sewell](../persons.html#1301) cannot do any corrections after the end of June, and as she has all the books and has looked out all the selections I could not supply her place.
+I suppose the [printers](../others.html#173) are postponing it to something more interesting, but if they cannot go on at once and finish at the end of June it would be convenient to know it.
+
+Yours sincerely
+
+C M Yonge

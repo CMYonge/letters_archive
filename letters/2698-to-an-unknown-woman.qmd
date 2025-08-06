@@ -1,0 +1,23 @@
+---
+date: '1880-02-13'
+display-date: Feb 13th 1880
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Devon Record Office, Exeter 53/10/9/2
+original-date: '2011-09-14 09:33:24'
+title: To an Unknown Woman
+wordpress-id: 2698
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Madam
+The illustrations are most beautiful and I am very much struck with the expressiveness and good drawing of all the animals.
+
+Unfortunately I have mislaid your first letter and cannot refer to it, so that I am not sure whether it was sent with a view to future publications, or to plans of publishing it.
+I have no power to change my own [illustrators](../others.html#167), but if you liked, I could send it to [Macmillans](../others.html#111) and beg them to ask the same hand to illustrate some of my books
+
+yours truly
+
+C M Yonge

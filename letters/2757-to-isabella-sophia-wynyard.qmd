@@ -1,0 +1,23 @@
+---
+date: '1882-09-05'
+display-date: Sept 5th 1882
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Charlotte Mitchell /8 '
+original-date: '2011-09-19 12:14:15'
+title: To Isabella Sophia Wynyard
+wordpress-id: 2757
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mrs Wynyard](../persons.html#1575)[^1]
+I am sorry to say I cannot accept your kind invitation as I am going from home on Monday for four or five days. I did not come home last night till too late for the post, so that I could not answer sooner
+
+yours sincerely
+
+C M Yonge
+
+[^1]: A neighbour, the wife of a retired Bengal Civil Servant.
+

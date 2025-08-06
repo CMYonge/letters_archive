@@ -1,0 +1,24 @@
+---
+date: '1887-04-15'
+display-date: April 15th [1887?[[footnote:1]]]
+from-address: Elderfield Otterbourne Winchester
+manuscript-location: 'MS British Library: Mary Gladstone Papers. Add MSS 46252: 10-11.'
+original-date: '2011-09-30 13:40:02'
+title: To Mary Drew
+wordpress-id: 2858
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mrs Drew](../persons.html#443),
+I was out all yesterday and could not answer your kind letter, nor thank you for the excellent paper, which I have ventured to take to [Mrs Sumner](../persons.html#1381), who is really the parent of the [Mother’s Union](../others.html#31). I could not use it for the [Monthly Packet](../others.html#52) as I am obliged scrupulously to keep that for young girls’ reading; but there is a yet undeveloped notion of starting some kind of paper, leaflet or the like for the Mothers and if this were done, I hope we might have the use of your admirable paper.
+
+Mrs Sumner has brought into the Mother’s Union most of the tradesmen’s wives of all degrees, and this seem to be very helpful
+Yours very truly
+
+C M Yonge
+
+[^1]: The letter must postdate Mary Drew\'s marriage on 25 December 1885, and predate the letter to her of 1 February 1888 which refers to the forthcoming publication of the [Mothers\' Union Journal](../others.html#93).
+

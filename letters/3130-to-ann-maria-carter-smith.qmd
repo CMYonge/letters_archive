@@ -1,0 +1,29 @@
+---
+date: '1859-06-04'
+display-date: June 4th 1859
+from-address: Otterbourne, Winchester
+manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1859/ 5
+original-date: '2010-04-28 13:53:34'
+title: To Ann Maria Carter Smith
+wordpress-id: 3130
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Smith](../persons.html#263),
+I enclose the Greenwich division of [Frances](../others.html#265).
+
+You see necessity drove me into splitting her into smaller fractions than I like, but I could not help it, and I can give you a most notable account of her popularity, everyone is delighted with her, and most especially those who are used to work of her description, which is the very best testimony to her excellent portrait painting. I hope you will let me have another of your stories.
+
+It is a most presumptuously long time beforehand to talk of it, but if I might look forward to a nice long one, about Christmas twelvemonth, it would be just what I should like, and I should like to consider it as settled, because it is needful to take one’s place so long beforehand that I might get hampered with what I should not like as well. I own to not being as fond of the Wynnes as of Aggesden, though there is a great deal that is very good and nice in it, but I have come to share your sister’s indignation against Mr Wynne, and I think as far as I have seen that though in large families the youngest does get over indulged and disagreeable, the well established family atmosphere and public opinion hinders him from being as insolent and bad as Gordon - younger boys so imitate their elders that the brother’s habits would be caught insensibly. I expect Elizabeth to come to great perfection, but I cannot make out what you mean to do with the Cradocks.
+
+Do you know Miss [Florence Wilford](../persons.html#1520), [Colonel Wilford’s ](../persons.html#1521)third daughter, and a neighbour of yours at Woolwich? I felt strongly tempted to betray you to her the other day, and I hope you will give me credit for having only said I had read a story by a neighbour of hers when I asked whether the artillery ever used to go to India which they did not till the last war
+
+yours sincerely
+
+C M Yonge
+
+[^1]: This letter evidently belongs in the empty envelope catalogued as MS Westcountry Studies Library, Exeter/ Yonge 1859/ 6 addressed to Miss Ann C Smith/ Rectory/ Old Charlton/ London/ SE and postmarked Winchester 4 June 1859.
+

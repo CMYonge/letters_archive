@@ -1,0 +1,37 @@
+---
+date: '1868-10-30'
+display-date: Oct 30th [1868]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS University of Edinburgh Library
+original-date: '2011-02-02 11:42:22'
+title: "To Christabel Rose Coleridge\t\t\t "
+wordpress-id: 2289
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+Thank you much for Giftie.
+
+She looks very pretty and I like her picture.
+
+Yes, we will, if we can, have a Christmas [Barnacle](../others.html#89). I have one capitally illustrated paper for it already from [Sparrow Hawk](../persons.html#97).
+
+Shall we send out the Questions for December, or January, I mean shall they go New Years day, or the month before?
+I think we are to have a new [Gosling](../others.html#104) -
+[Emma Butler](../persons.html#822)
+Wantage Vicarage
+Berks.
+
+Would you send her the rules, and the names, omitting alas [Turkscap](../persons.html#1520), who has grown too busy.
+
+Have you seen her pretty story, ‘Nigel Bartram’s Ideal’ a shilling book of Warne’s
+
+yours affectionately
+
+C M Yonge
+
+[^1]: Black-edged paper.
+

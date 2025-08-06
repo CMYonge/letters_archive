@@ -1,0 +1,26 @@
+---
+date: '1866-12-28'
+display-date: "Innocents\u2019 day [28 December 1866]"
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e 86. '
+original-date: '2011-02-02 12:14:10'
+title: To the Reverend John Frewen Moor
+wordpress-id: 2141
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Moor](../persons.html#1046)
+I feel very guilty at not answering you yesterday, but just as I had sat down to write notes, I was interrupted, and all the time after wards went away
+We shall be very grateful if you can kindly delight the parish this day week, Friday 4th - and we hope you and [Mrs Moor](../persons.html#1044) can come to /i e dinner\ luncheon - so as to have time to arrange the room.[^2] I think [John Hicks](../persons.html#688) had better give his boys a half holiday and come to help you. I am sorry Rhoda has failed you
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Envelope pasted on previous page addressed to \'The Revd/ J F Moor/Ampfield/Romsey.\' and postmarked Winchester De 28/66. \'Miss Yonge’s autograph\' written across the side in a different hand.
+
+[^2]: A magic lantern show to be put on for the entertainment of the parish, later postponed because of bad weather.
+

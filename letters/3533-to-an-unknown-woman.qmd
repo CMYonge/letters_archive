@@ -1,0 +1,25 @@
+---
+date: '1850-09-02'
+display-date: Sept 3d [late 1850s?][[footnote:2]]
+from-address: Tyntesfield[[footnote:1]]
+manuscript-location: MS Princeton University, Parrish Collection
+original-date: '2011-09-12 13:31:45'
+title: To an Unknown Woman
+wordpress-id: 3533
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Madam,
+I fear you must almost have despaired of receiving the renderings of the names, but we have been so constantly either seeing sights or travelling that this is the first time I have been able to set them down, and now I am afraid they will prove very disappointing, and not too susceptible of illumination - I am afraid names are too often mere adjectives to be very manageable for the purpose. I added the Stem as the only way in which many could be illuminated, unless figures of the Saints of each name were to be introduced[^2]
+Regretting the long delay
+Yours faithfully
+
+C M Yonge
+
+[^1]: The home, near Bristol, of CMY’s friends William and Matilda Gibbs.
+
+[^2]: The formal tone of this letter resembles CMY\'s correspondence with strangers in the 1850s, and it seems likely that it was written during the period 1852-1862 when she was publishing a series of articles on \'Name-fancying\' in MP which were the germ of her History of Christian Names (1863).
+

@@ -1,0 +1,28 @@
+---
+date: '1868-08-26'
+display-date: Aug 26th [1868]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS University of Iowa; MsL/Y56
+original-date: '2011-02-02 11:30:55'
+title: To Miss Finchcliffe
+wordpress-id: 2263
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Miss Finchcliffe](../persons.html#511),
+I am very glad to have seen [Edith Crawley’](../persons.html#382)s letter which I return with many thanks.[^1] I had proposed the Irishwoman to [Mrs Gray](../persons.html#579) for the Cape ladies, and she had rejected her, but perhaps they know their own plans best. I am glad that another and elder lady has been added to them for someone to take the command was much wanted.
+I am glad that dear [Miss Mackenzie](../persons.html#930) is so much better, but it has been a long illness.
+
+These last two or three days have been very sad with us, [my mother](../persons.html#1606) has become so much more feeble and seems to be losing her appetite, but it is most thank worthy that she is quite free from all suffering.
+
+Yours sincerely
+
+[^1]: Edith Crawley was a second cousin of CMY\'s, and was one of the women who accompanied the Rt.
+
+Rev. [Robert Gray](../persons.html#578) and his wife Sophia (Myddleton) Gray (d.1871) on his return to his diocese of Cape Town.
+
+They included Mary Anderson Morshead, and [Anna Jane (Fair) Seymour](../persons.html#495); the latter may have been the older lady CMY mentions.
+

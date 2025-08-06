@@ -1,0 +1,41 @@
+---
+date: '1867-03-21'
+display-date: March 21st [1867]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Charlotte Mitchell
+original-date: '2010-06-09 20:04:51'
+title: "To Edith Sophia Jacob\t"
+wordpress-id: 2152
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Jacob](../persons.html#749),
+I think the dream exceedingly beautiful, it went quite to my heart, and the vision of the mother saving the children was the pleasanter to meet with because I remember once talking it over with the dear [Warden Barter](../persons.html#118), though whether I first heard it from him I cannot remember, at any rate it brought me his face and voice.
+
+The only thing that I should have a shadow of doubt about is the putting words into the mouth of the Prince Himself. I think I had almost rather the permission to Gabrielle came spoken by an angel,[^1] though the sight of Him on the Crystal Sea, is most beautiful, is it not believed that His Presence is the full consummation of bliss?
+
+But perhaps the passing sight for the time in the Human Nature is not inconsistent with this.
+
+The husband’s death is most beautiful, and so is the part about the prayers.
+I am not sure whether you meant that I might have the Dream for the [Monthly Packet](../others.html#52) but if I may, I should very much like to have it for the May number, which will come out before the Easter brightness has passed.
+
+In that case the only difference it would be desirable to make would be the actual speaking of the Prince.
+
+The sight of Him as being in a dream, need not I think be parted with.
+I see now how thoroughly you must have entered into [Blake](../persons.html#1977) and his Job.
+
+Coming to earthly considerations [a half-sheet has been cut off ] . . . [Refuge](../others.html#49) at Winchester, but I am not sure of the hand writing
+
+yours sincerely
+
+C M Yonge
+
+[^2]: High Church “reserve” made CMY very chary of writing what she regarded as sacred names in a secular context.
+
+It seemed to her particularly inappropriate to put invented words into the mouth of Christ.
+
+The question is discussed in more detail in her next letter to Jacob (1 April 1867).
+

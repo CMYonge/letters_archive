@@ -1,0 +1,16 @@
+---
+date: Undated
+display-date: Undated
+from-address: ''
+manuscript-location: MS fragment Harry Ransom Humanities Research Center, University
+  of Texas, Austin
+original-date: '2011-10-10 13:39:57'
+title: To an Unknown Person
+wordpress-id: 3568
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+other train – Which gives more time than our 9 o’clock shopping one

@@ -1,0 +1,39 @@
+---
+date: '1899-07-31'
+display-date: July 31, 1899.
+from-address: Elderfield, Otterbourne, Winchester
+manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  330
+original-date: '2010-03-09 15:08:55'
+title: To Elizabeth Harcourt Mitchell
+wordpress-id: 3414
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mrs.
+
+Mitchell](../persons.html#1007)
+Thank you for your conversation.[^1] It reminds me of what I tried to impress on some of the promoters of [Lady Margaret Hall](../others.html#6), that the Old Colleges began with training for the church the first object, and the secular work a sort of appendage, the Christian training running through.
+
+And I tried to shadow it out in that drawing of Geraldine's in the [Pillars of the House](../books.html#109), of the Christian School of Athens.
+
+If you happen to have the book you will see the ideal.
+
+I think the Talbots would have been glad to have such a college[^2], but times are too strong, and [Elizabeth Wordsworth](../persons.html#1566) and [Anne Moberly](../persons.html#1024) at [St.
+
+Hugh's](../others.html#14) do make their colleges in many respects training for the Church.
+
+Yours sincerely
+C. M.
+
+Yonge
+
+[^1]: ‘Education and Manners: A Trialogue’ Mothers in Council 9 (October 1899) 193-202, which describes an imaginary college for women in which ‘study [is] made subservient to religion, instead of religion being made subservient to study’.
+
+The debate was continued in the following year.
+
+[^2]: [Edward Stuart Talbot](../persons.html#1691) and his wife [Lavinia](../persons.html#2082) were prominent campaigners for women\'s education.
+

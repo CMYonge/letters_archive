@@ -1,0 +1,41 @@
+---
+date: '1854-01-21'
+display-date: Jany 21st [1854]
+from-address: 'Otterbourn  '
+manuscript-location: 'MS Huntington Library: Yonge Letters '
+original-date: '2010-03-24 15:09:17'
+title: To Elizabeth Roberts
+wordpress-id: 3022
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Miss Roberts](../persons.html#1243),
+Carlisle Cathedral is a very pretty sketch, and will be very acceptable to the [Monthly Packet](../others.html#52), I think however it will be better to keep it for next year perhaps, if we and the Packet proceed and prosper as hitherto, so that it may be the opening of a series which promises to be very useful and interesting, I will consult a very good archaeologist at Winchester about the rugged [sic] staff ornament and add the information in a note if I can obtain any worth having.
+
+How many places are connected with King Arthur, I was so persuaded that his headquarters were Caerlyon that I have been hunting out the Mantle and Syr Gawayne in Percy and verifying that it was indeed in Merry Carleile.
+
+At Winchester we have the Round Table which is certainly as old as Henry III’s time, and is sanctioned by a Spaniard present at the marriage of Philip and Mary.[^1] It bears marks of the bullets of Cromwell’s soldiery, and altogether I think it one of the chief possessions of Winchester.
+I do not think I can condole with you on [Mr Mozley](../persons.html#1065) not being willing to undertake your [Garland](../others.html#225). I do not think country publishers have the opportunity of promoting the sale of their books to such an extent as London ones. I do not know how far you are committed to [Masters](../persons.html#981), but I should say myself that [J W Parker](../persons.html#1143) of the Strand is the publisher with whom I have had the most satisfactory dealings, and I think he commands a larger sale than either [his namesake of Oxford](../persons.html#1142) or than Masters.
+
+He takes such a variety of lines that I should think he was not likely to object to the Garland, but of course this must depend on how far you are engaged to Masters.
+
+He (Masters) generally, I believe, deals by buying the right to publish, instead of the half profit system, and I think the former the most agreeable plan, but if you adopt it, you had better have it distinctly expressed whether he purchased the entire copyright or only the right to publish an edition of a specified number.
+
+It saves an infinity of trouble and vexation afterwards to have these things clearly stated at first, and though one would naturally suppose that publishers would do this themselves, I have found it the only way to be explicit myself as to terms. I am sure the book would be welcomed by many, the hope of seeing the Garland is hailed by everyone to whom I have mentioned it with so much pleasure. I cannot imagine how we came not to think of St Joseph’s thorn before, it certainly ought to be part of the Garland, but whether at Christmas or on his day seems doubtful.
+I do not know whether your acquaintance with the Monthly Packet began in its infancy, [The Little Duke,](../books.html#20) all but the last three or 4 chapters, appeared in it, and has been republished because I found various little boys very fond of it, and wanting a conclusion.
+
+It has the advantage of being at a period of which no one, except perhaps [Sir F Palgrave](../persons.html#1126) knows anything of the manners, so that I was able to do what I liked with them.
+
+Are you in any of the fine parts of Wales?
+
+They must be beautifully wild in the winter when visitors so seldom behold mountain scenery, I hope you will let me know how the Garland fares, I am much interested in its fate
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: The Round Table in the Great Hall of Winchester Castle is now considered to be fourteenth-century, redecorated for Henry VIII.
+

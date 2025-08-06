@@ -1,0 +1,21 @@
+---
+date: '1880-12-01'
+display-date: '[December? <i>c</i>.1880?]'
+from-address: ''
+manuscript-location: MS Charlotte Mary Yonge Society/5
+original-date: '2011-10-10 10:18:12'
+title: To Isabel Charlotte Elgie
+wordpress-id: 2928
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Isabel](../persons.html#479)
+Thank you very much for your nice cuffs.
+
+They are very warm for my wrists. I wish you a very happy Christmas.
+your affectionate Godmother
+
+C M Yonge

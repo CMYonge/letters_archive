@@ -1,0 +1,39 @@
+---
+date: '1873-08-01'
+display-date: Aug 1st [1873]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Charlotte Mitchell
+original-date: '2011-07-11 12:35:49'
+title: To Gertrude Louisa LeGrand Jacob
+wordpress-id: 2478
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Gertrude](../persons.html#751)
+Thanks for your chapters.[^1] If anything strikes me, I will tell you, but I like all I have read very much. I think [Miss Peard](../persons.html#1160) does know Arcachon, so I am desiring her to write to you, but I do not believe that [Miss Roberts](../persons.html#1244) has ever been on that side of France.
+
+She /MR\ is at the Crescent Hotel, Filey, sadly laid up by a strain of the hip, which she neglected and now has grown to be a bad business.
+
+It hindered the party from going to the Dolomites, and now [Dr Latham](../persons.html#844) has forbidden it for fear of cholera.
+I have been longing to exchange some word of the piteous load on all our hearts with you and [Edith](../persons.html#749) ever since that great shock.[^2] I am glad to know that about Twilight.
+
+Haven't you often thought of his having no twilight- the sun gone down while yet day.
+I hope all will agree on one Memorial and not fritter up into quantities of little things, everyone making it an opportunity of getting what he wants. I think a Surrey Cathedral & Bishopric would be the grandest, and it would be national[^3]
+
+yours affectionately
+
+C M Yonge
+
+[^1]: This probably refers to Jacob\'s The Raja of Sarawak, which was coming out in MP.
+
+[^2]: Annotated \'Bp [Samuel Wilberforce](../persons.html#1512)\'.
+
+He had died on 19 July 1873.
+
+[^3]: A suffragan see of Guildford was created out of the diocese of Winchester in 1874.
+
+It became a separate see in 1927.
+

@@ -1,0 +1,22 @@
+---
+date: '1851-01-07'
+display-date: Jany 7th [1851-1881]
+from-address: \'Monthly Packet\', 6, Paternoster Row, London E.C.
+manuscript-location: MS National Library of Scotland 7179
+original-date: '2010-05-05 13:38:22'
+title: To Isabella Lucy Bishop
+wordpress-id: 3494
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Madam](../persons.html#1817)
+I see I did send your other poems to the printer, by confusion in the twilight.
+
+But I like them so much as to be glad of it
+
+yours truly
+
+C M Yonge

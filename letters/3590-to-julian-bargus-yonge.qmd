@@ -1,0 +1,25 @@
+---
+date: '1890-01-01'
+display-date: '[<i>c</i>.1890] '
+from-address: ''
+manuscript-location: MS New York Public Library, De Coursey Fales Collection/5
+original-date: '2010-03-02 14:35:59'
+title: To Julian Bargus Yonge
+wordpress-id: 3590
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Julian](../persons.html#1624)
+The photographer finds our lights so very inconvenient that I am going to bring him down to House, & get the benefit of your dark chamber.[^2] I will come after luncheon - in about 3/4 of an hour
+
+C M Yonge
+
+[^1]: A tiny scrap of paper, evidently sent by hand.
+
+[^2]: This note may relate to the photograph of CMY taken by Herbert Rose Barraud (1845-1896) and published in his Men and Women of the Day: A Portrait Gallery of Contemporaries 7 vols (London: Bentley 1888-94).
+
+It evidently dates from before the sale of Otterbourne House which was shortly followed by Julian’s death on 17 October 1891.
+

@@ -1,0 +1,39 @@
+---
+date: '1870-12-09'
+display-date: Decr 9th 1870
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Archives Nationales
+original-date: '2011-06-02 12:12:34'
+title: "To Fran\xE7ois Pierre Guillaume Guizot"
+wordpress-id: 2394
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [M.
+
+Guizot](../persons.html#597)
+[My brother](../persons.html#1624) begs me to convey his best thanks as well as my own to you for so kindly sending us your pamphlet.[^1] I am afraid the sky has darkened even more in the short time that has elapsed since its conclusion, and that the enemy are nearer to you.
+
+It seems to me that English sympathy has been greatly gained by this gallant resistance. I hear so many persons who were all for the Germans at first now changing their ground.
+
+It seems to me that the analogy of the recovery of France after the invasion of Henry V is being worked out, when France rallied under so terrible a succession of defeats, and apparently with no leader.
+I do not feel secure of this letter reaching you if Havre is occupied, but I will not withold it for the doubt.
+
+Pray give my love to [Madame de Witt](../persons.html#423).
+
+Her story Quelquechose de Grand has just been returned to me with its translation[^2]
+Believe me
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Possibly M.
+
+Guizot à Messieurs les Membres du Gouvernement de la Défense Nationale (Lisieux, 1870)? CMY refers to the Prussian occupation of France.
+
+[^2]: Untraced.
+

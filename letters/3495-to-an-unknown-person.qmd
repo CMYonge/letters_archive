@@ -1,0 +1,18 @@
+---
+date: Undated
+display-date: Undated
+from-address: ''
+manuscript-location: MS Miss Sarah Jardine-Willoughby
+original-date: '2011-10-10 13:09:14'
+title: To an Unknown Person
+wordpress-id: 3495
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+to shorten her holiday for it
+your affectionate
+
+CMYonge

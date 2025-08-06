@@ -1,0 +1,23 @@
+---
+date: '1897-05-20'
+display-date: May 20, 1897.
+from-address: Elderfield
+manuscript-location: MS location unknown.  Printed in Coleridge, [[otherbook:40]<i>Life</i>],
+  329.
+original-date: '2010-10-06 16:13:41'
+title: To Marianne Bigg-Wither
+wordpress-id: 3349
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dearest [Marianne](../persons.html#1546)-
+[Raby](../persons.html#1221) will have told you that [my dear home companion](../persons.html#1462)'s long patience has ended.
+
+She was really dying ever since last evening, though the end did not come till one o'clock to-day, holding my hand, and asking [Henry](../persons.html#184)'s prayers all the time till consciousness was gone, not many minutes before the end. I do not think in the relief I feel the difference it will make to me.
+
+Your strawberries were really welcome to me---one of the few things she could take.-
+Your most affectionate
+C. M. YONGE.

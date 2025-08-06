@@ -1,0 +1,35 @@
+---
+date: '1878-03-06'
+display-date: Ash Wednesday [6 March] 1878
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Mrs Clare Roels
+original-date: '2011-08-08 11:33:36'
+title: To Christabel Rose Coleridge
+wordpress-id: 2619
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+[Mr Wilson](../persons.html#1541) says that the 12th will suit him best, if we drive over early So will you let me know your train on the 11th and you shall be met at Winchester, I know I shall want to send there.[^1] By the by, perhaps I should tell you that [Maurice](../persons.html#1630) is sent home with chickenpox, and probably the others will have it, but besides the probability that you have had it, there is no need for your coming in contact with anyone from the other house.
+
+Pray bring Cherry.
+
+We want very much to go on with him, [Gertrude](../persons.html#1462) has not read any of the Spanish part[^2]
+your affectionate
+
+C M Yonge
+I hope you will make us a nice comfortable visit.
+
+We have special services on Wednesday and Friday evenings[^3]
+
+[^1]: CMY had advised Coleridge to seek spiritual counsel from the Rev.
+
+Robert Wilson, Vicar of Rownhams.
+
+[^2]: \'Cherry\' was a manuscript novel by Coleridge subsequently published as An English Squire.
+
+[^3]: These were Lent services.
+

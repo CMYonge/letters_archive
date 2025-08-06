@@ -1,0 +1,29 @@
+---
+date: '1876-10-02'
+display-date: Oct 2nd [1876 or earlier[[footnote:1]]]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Princeton University, Parrish Collection
+original-date: '2011-09-12 13:04:37'
+title: To Miss Butler
+wordpress-id: 3522
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear Miss Butler[^2]
+It is very kind of you and Mrs Butler but I believe [Miss Mackenzie ](../persons.html#930)is likely to come to me immediately after Lownie’s visit, and as there have been some difficulties about her coming before I could not put it off again.
+
+This is a hurried day so I must only write my thanks
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Evidently before the death of Anne Mackenzie in February 1877.
+
+[^2]: This letter may be addressed to [Anna Butler](../persons.html#237), the sister of CMY\'s friend the Rev.
+
+William Butler, Vicar of Wantage.
+

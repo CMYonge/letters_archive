@@ -1,0 +1,33 @@
+---
+date: '1870-06-29'
+display-date: June 29th [1870]
+from-address: ''
+manuscript-location: 'MS UCLA: collection 100: box 95'
+original-date: '2011-09-12 13:54:29'
+title: To Edward Augustus Freeman
+wordpress-id: 3543
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Sir](../persons.html#523)
+I am much obliged by your kind present of your little book on Wells Cathedral, which I shall read with much pleasure.[^2]
+Here is the number of [Macmillan](../others.html#78) creating further dismay in me by shewing that Scottish scholars at Oxford were not so uncommon as to be dangerou[sly] [text missing at edge] suspicious.[^3]
+With many thanks
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Black-edged paper.
+
+[^2]: Edward Augustus Freeman, History of the Cathedral Church of Wells (London: Macmillan 1870).
+
+[^3]: Thomas M.
+
+Lindsay, \'Scotch Students at Oxford Five Hundred Years Ago\' Macmillan\'s Magazine 22 (July 1870) 230.
+
+In CMY\'s novel [The Caged Lion](../books.html#81), Ch 17, p196, she had incautiously observed \'Oxford and Cambridge were almost the only universities where Scots were not\'.
+

@@ -1,0 +1,53 @@
+---
+date: '1854-02-25'
+display-date: February 25, 1854.
+from-address: 'Otterbourne, '
+manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  194-195
+original-date: '2010-03-25 12:55:16'
+title: 'To Mary Anne Dyson '
+wordpress-id: 3029
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Marianne](../persons.html#464)
+Your letter was the pleasure of sympathy that I knew it would be.
+
+We have been going on what seems a long time, with a great deal of severe pain in the head, which gets better late in the afternoon, then [he](../persons.html#1631) sits up, overtires himself, and makes it worse again.
+
+Yesterday [mamma](../persons.html#1606) had one of her worst varieties of headache, as might have been expected, but it mended in the middle of the day, especially as [Mrs.
+
+Keble](../persons.html#795) came and sat three hours with us, which refreshed her much, and she was able to attend the cupping in the afternoon.
+
+We are feeding ourselves with a dim hope of [Uncle James](../persons.html#1614) coming, though I don't know whether it is a reasonable one.
+
+However, he is really better, but it is more of an illness than I believe I expected the day before yesterday.
+
+To-day he is more restless and anxious than yesterday when the oppression was greater, and this is certainly a good sign, though more visibly distressing. I do not think he had come to the full perception of the extent of the attack till this morning, and [Mr.
+
+Lyford](../persons.html#911) says people always do get anxious about themselves in this sort of case as they mend, and his being so much of a doctor adds to it, as it makes him watch his pulse and devise remedies.
+
+However, it is better than yesterday, when we could not prevent him from writing to Uncle James, about the worst thing he could attempt, and which, I do believe, brought back the pain in the head to that terrible degree. I wrote this in the morning, and now at five he is rather better, though still exceedingly uncomfortable, but the perspiration much desired has come at last and relieved the pain. I believe it is all right.
+
+This slow nursing is more like reality to me than the night itself was. I am glad [Bessie](../persons.html#358) has come provided; [Olive](../persons.html#1749) gets pence for carrying out letters, so it is an amiable attention I should not wish to disturb.[^1] I am glad you are rid of Emily.
+
+Pray tell us all the news.
+
+We are in a state when letter news does better than anything else, but I cannot answer news or kindness in full now as the post summons is come.
+
+Mrs.
+
+Keble has been here with [Lady Heathcote](../persons.html#665).
+
+The [Isaac Williamses](../persons.html#1523), with three boys, are at Hursley; it is so kind of her to come as she has done, and we have had such a kind note from [the Warden](../persons.html#118). I am glad [Old Slave](../persons.html#1061) should think of me.
+
+Perhaps I may write on Sunday, for, of course, school will not be practicable.
+
+Your most affectionate
+C.M.Y.
+
+[^1]: Bessie Collins (who was one of Mary Anne Dyson\'s pupils) and her elder sister Olive were the daughters of [Martha Collins](../persons.html#360) who kept the Post Office in Otterbourne.
+

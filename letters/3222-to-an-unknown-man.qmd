@@ -1,0 +1,31 @@
+---
+date: '1893-06-17'
+display-date: June 17th 1893
+from-address: Elderfield Otterbourne Winchester
+manuscript-location: 'MS UCLA: collection 100: box 95'
+original-date: '2010-07-26 09:52:11'
+title: To an Unknown Man
+wordpress-id: 3222
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear Sir
+I send you my own autograph, together with a few more, chiefly of authors.
+
+If in return you could send me some stamps that have been through the post, local and the like, I should be much obliged.
+
+Yours truly
+
+C M Yonge
+
+[^1]: On the other side of the card is pasted a photograph cut from a newspaper or magazine, captioned ‘Miss Charlotte M.
+
+Yonge.
+
+From a photograph by Messrs.
+
+Elliot & Fry, 55, Baker Street, W.’.
+

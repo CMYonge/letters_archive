@@ -1,0 +1,35 @@
+---
+date: '1868-10-26'
+display-date: Oct 26th 1868
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: 'MS British Library Add MSS 54920: 224'
+original-date: '2010-06-17 21:44:12'
+title: "To Alexander Macmillan\t\t"
+wordpress-id: 2286
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Macmillan](../persons.html#939)
+A proof of the history of St Louis, I suppose [M.
+
+Guizot](../persons.html#597)’s has come here, but I do not know the why or wherefore.
+
+Is it a mistake?[^1]
+[Mrs Valentine](../persons.html#1437) ([Mr Warne](../persons.html#1433)’s reader) says they do not know anything of having had '[Wooed and Won](../others.html#202)' sent in.
+
+Perhaps you would kindly ask whoever was your messenger to whom he gave it
+
+Yours sincerely
+
+C M Yonge
+Would you kindly have both the [Cameos](../books.html#73) and [Historical Selections](../books.html#71) sent to [Madame de Witt](../persons.html#423)
+
+[^1]: Black-edged paper.
+
+[^2]: Guizot contributed to Macmillan\'s [Sunday Library](../others.html#145) a volume entitled Great Christians of France: St.
+
+Louis and Calvin (London: Macmillan 1868).
+

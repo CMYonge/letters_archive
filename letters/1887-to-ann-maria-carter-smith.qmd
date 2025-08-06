@@ -1,0 +1,29 @@
+---
+date: '1863-03-16'
+display-date: March 16 1863
+from-address: Otterbourne, Winchester.
+manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1863/3
+original-date: '2010-05-14 09:40:54'
+title: To Ann Maria Carter Smith
+wordpress-id: 1887
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Smith](../persons.html#263),
+I have at length obtained the account for the [Biographies](../books.html#43) and am glad to be able to send you the enclosed as your share of the proceeds.
+
+Your account of the Procession was in time, and is going in this month with an Illumination story of the last time London was in a blaze.
+
+After this week please to add Elderfield before Otterbourn [sic] in our address.
+
+It is a cottage in the village we are going to move to, as [my brother](../persons.html#1624)’s family are beginning to outgrow our house
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Envelope addressed to Miss Smith/ 8 Wellington Road/ Old Charlton/ Se and postmarked Winchester (date illegible) and London SE 17 March 1863.
+

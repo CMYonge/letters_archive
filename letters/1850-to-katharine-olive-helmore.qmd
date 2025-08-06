@@ -1,0 +1,24 @@
+---
+date: '1861-12-30'
+display-date: Decr 30th [1861]
+from-address: Otterbourn
+manuscript-location: MS Charlotte Mitchell/Cobweb-4
+original-date: '2010-05-11 17:49:05'
+title: "To Katharine Olive Helmore \t\t\t\t "
+wordpress-id: 1850
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Cobweb](../persons.html#675),
+I am glad to tell you that no one has passed you, though [Firefly](../persons.html#1168) is your equal, in the number of votes, and I therefore should like to know which of [Mother Goose](../others.html#104)’s works you would like best to have- only do not expect it immediately as I should like to have it bound for you.
+
+Thank you for letting me see the photograph I am glad you have got it as it is much better than the only one I have now to give away The broken negative was not quite so good as this.
+[Humble Bee](../persons.html#81), [Irene](../persons.html#538) and Stormy Petrel[^1] are the three best this time
+your affectionate
+Mother Goose
+
+[^1]: Stormy Petrel, or Petrel, was a member of the Gosling Society, but her identity is uncertain.
+

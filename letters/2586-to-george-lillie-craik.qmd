@@ -1,0 +1,33 @@
+---
+date: '1877-07-07'
+display-date: 'July 7th 1877 '
+from-address: 'Elderfield,  Otterbourne, Winchester. '
+manuscript-location: 'MS British Library Add MSS 54921: 20-21  '
+original-date: '2011-08-04 11:25:03'
+title: 'To George Lillie Craik. '
+wordpress-id: 2586
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Craik](../persons.html#379)
+I am rather anxious to know the upshot of the new arrangement which we were to have this year into the details of which I do not think we went.
+
+What however is really important to me to know quickly is whether I am likely to receive enough at Christmas to warrant me in promising a payment of £250 - remembering that I have had [£200 in advance](../others.html#160)
+I want very much to know whether [Mr Freeman](../persons.html#523) despairs of my [French history](../books.html#99) I have heard nothing of it or of him since I sent it off revised and abridged six months ago.[^1]
+There are some old papers of mine in the [Christian Remembrancer](../others.html#59), on [Ghosts](../books.html#65), on [Education](../books.html#302), on [Eugenie de Guérin](../books.html#50) and [Alexandrine de la Ferronays](../books.html#64), which - with those on children’s books in the [Magazine](../others.html#78)[^1] - would they not make a nice volume to come out at Christmas and would you give me £100 for its first edition.
+
+Shall I look them out and send them to you
+
+Yours truly
+
+C M Yonge
+
+[^1]: For Freeman\'s opinion of CMY\'s History of France, see \'Introduction to Letters 1870-1879\'.
+
+[^2]: CMY contributed three articles on \'Children’s literature of the last century\' to Macmillan\'s Magazine in 1869: \'[Nursery books of the eighteenth century\'](../books.html#74), [\'Didactic fiction\'](../books.html#75) and [\'Class literature of the last thirty years\'](../books.html#76).
+
+The proposed volume was not published.
+

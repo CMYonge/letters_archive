@@ -1,0 +1,52 @@
+---
+date: '1900-05-01'
+display-date: '[May 1900]'
+from-address: ''
+manuscript-location: "MS location unknown. Printed in the <i>[[other:72]Girls\u2019\
+  \ Friendly Society Associates\u2019 Journal and Advertiser]</i> (May 1900). 91-2"
+original-date: '2010-06-04 13:28:34'
+title: "To the Editor of the <i>Girls\u2019 Friendly Society Associates\u2019 Journal</i>"
+wordpress-id: 9343
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+PICTURES IN THE KALENDAR
+
+Madam,-
+I have been reading the letters that the illustrations of the [G.F.S. ](../others.html#23)Kalendar have called forth, and thinking over art for the million.[^1] So far as I can see, we should keep in mind that our object is not to train our girls in appreciation of art or its history, but to speak to their intelligence, and still more to their hearts.
+
+What is simply stiff and archaic thus seems to me not desirable to set before them.
+
+We like it ourselves partly for the sake of the ecclesiastical associations, partly for the sake of the intense devotion that the early painters often joined to their imperfect drawing.
+
+But where there are no such associations, and, moreover, where the devout adumbration vanishes between photograph and print, is it well to expect our girls to admire the glaring imitation of an illumination, or a stiff figure in the midst of manifestly impossible architecture?
+
+Equally, or almost equally undesirable is the weak and sentimental drawing of a Scriptural scene, and happily it is quite possible to find some perfectly free with a little selection.
+
+Best are those which give actual Palestine scenery and customs, with, where it is possible, a reverent representation of the event.
+
+Some published by Deane’s are very good in this way, especially those of the Parables.
+
+Strict reticence is needed in the designs, and nothing that can give occasion to a coarse mind to laugh.
+
+This is a difficulty in taking scenes from Old Masters, but in German modern art there is generally much beauty and reverence, though now and then unfortunately trivial detail; but careful taste and choice will surely be able to find what is suitable.
+
+May I here add that I much regret the ‘War Song of the Soaps’ in the April number of the [Girls’ Quarterly](../others.html#182).[^2] It is not in good taste or generous to insult an adversary, and this is hardly a legitimate subject for a laugh.
+
+C.M.
+
+Yonge.
+
+[^1]: In the March issue \'Twenty-two Years Associate\' had written complaining of the \'old master\' illustrations used in that year’s G.F.S.
+
+Almanac (called the \'Kalendar\'): \'To my mind sacred pictures should not be either comic or grotesque, and certainly representations of our Lord should be above the possibility of being open to such accusations, and I don’t hesitate to say that these are not.\' In the May issue six letters were published, five of them defending the choice of pictures but one agreeing with \'Twenty-two Years Associate\'.
+
+[^2]: ‘War Song of the Soaps’ by L.
+
+Symes Thompson (p. 42) gave lyrics and stage directions for a short jingoistic performance where five girls dressed in costumes based on the advertisements of notable brands of soap (Vinolia, Monkey Brand, Sunlight, Ivy and Pears) appeared one after another first describing their soaps and then directing antagonistic comments towards the enemy in the South African war.
+
+For example: \'But I won’t wash Kruger ---no! no! no!/For he opened the war and struck the first blow. . .\' CMY’s nephew George had been killed in South Africa in October 1899, and in January 1900 she had published a short meditation on such deaths, \'In Time of War, in Mothers in Council.
+

@@ -1,0 +1,23 @@
+---
+date: '1856-12-15'
+display-date: Decr 15th [1856]
+from-address: Otterbourn
+manuscript-location: MS Mrs Caroline Fairclough/12
+original-date: '2010-04-22 13:57:48'
+title: To Anna Butler
+wordpress-id: 3091
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Butler](../persons.html#237)
+I enclose with the [Packet](../others.html#52)’s warm thanks the pay for [Likes & Dislikes](../others.html#248). I am so glad to think of the continuation for I think the notion of setting Emily to tame young ladies running to seed an excellent one.
+[Miss Sturges Bourne](../persons.html#1379) has just been conducting a sick cousin to Wiesbaden, and thinking with much diversion of Helen.
+
+She was near going to Marienbad itself which would have been amusing. I hope [Lizzie Barnett](../persons.html#113) has been gaining all sorts of strength at St Leonards.
+
+yours sincerely
+
+C M Yonge

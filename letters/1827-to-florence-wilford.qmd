@@ -1,0 +1,36 @@
+---
+date: '1861-04-22'
+display-date: April 22nd 1861
+from-address: Otterbourne,Winchester.
+manuscript-location: 'MS Princeton University, Parrish Collection, C0171: Box 29'
+original-date: '2010-05-09 11:03:17'
+title: "To Florence Wilford\t\t\t\t\t\t\t "
+wordpress-id: 1827
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Wilford](../persons.html#1520)
+Yesterday was the [Ampfield](../others.html#124) anniversary of the consecration of the Church and I took a grand holiday - including a walk from Ampfield to Hursley with [Mr Keble](../persons.html#798), and so I could not write but we have read your Seven Campbells and like them very much. I suspect boys would believe in them more if John Lackland always went by his English name.
+I do not think a Scottish minister stands on the same ground as an English dissenter, as their Calvinism is hereditary and certainly not indifferent to its creed (I don’t mean that all dissenters are) I fancy the all denominations was a free expression of [Mrs Blackburn](../persons.html#159), who is herself a Churchwoman.
+
+But reading the story, I thought it would better fit [Miss Mozley](../persons.html#1061)’s [Magazine for the Young](../others.html#79) and if you like I would send it to her.
+
+She is a very clever far seeing person and I always think her criticisms worth more than anyone’s that I know.
+
+Do you know I think [Groombridge](../others.html#148)[^1] must have refused it because it would have been so ridiculous to have had one story about a doctor with 7 daughters and another about a doctor with 7 sons. I should rather like to see you start with some other publisher than [Masters](../persons.html#981), for he does publish so many silly stories that they rather swamp the wiser ones by making one mistrust his name. I would have nothing to do with the [Guild of St Alban](../others.html#24) if I were you. I think there is much more use in insinuating sound doctrine and opinions into periodicals read by all the world than in writing in those that belong to a small section of a party like this, and especially when one is never quite sure what they will say next. I cannot say I have - more than yourself - made up my mind whether [Garibaldi](../persons.html#1855) and Co ought to be favoured with my good opinion. I suppose no one will know for the next 100 years when [it has all become history](../others.html#149). I believe your spelling of Photineé is quite right, I had it sent to me in a list of Corfiote names spelt with a long Greek e.[^2] Many thanks for your kind invitation to see the wonders of Woolwich. I do not see much chance of our going to London for some time to come, but our doings of that kind usually come to pass in a hurry.
+
+Pray remember us to [Mrs Cristall](../persons.html#384). I am glad to know she is with you, that we may not in vain assail the river of dust that lies between us and [St Cross](../others.html#130). I am relieved to hear that you do not kill Lambert - it is much more moral to live than die only there are cases when in stories people have to die to improve their families & I expected this to be one.
+
+Let me know if you like me to try the Mag for the Young
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: From the 1840s on, Groombridge and Sons, Paternoster Row, London published a similar range of books to the Mozleys, religious, children’s stories, natural history and so on. CMY contributed to their Magnet Stories for Summer Days and Winter Nights 8 vols (London, Groombridge 1860-5), which were collections of children’s stories by various authors.
+
+[^2]: CMY was collecting material for her [History of Christian Names](../books.html#48)
+

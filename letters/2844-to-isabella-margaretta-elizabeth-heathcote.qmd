@@ -1,0 +1,32 @@
+---
+date: '1886-11-04'
+display-date: Novr 4th [1886]
+from-address: Elderfield
+manuscript-location: MS Winchester City Council, Historic Resources Centre, LH3802
+original-date: '2011-09-30 10:35:31'
+title: To Isabella Margaretta Elizabeth Heathcote
+wordpress-id: 2844
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Bella](../persons.html#1690)
+[Gertrude](../persons.html#1462) begs me to write and enquire how [Mr Walpole](../persons.html#1432) is. [^1] I am afraid it takes a long time to recover from anything so exhausting as nose bleeding.
+
+Our [Bishop](../persons.html#213) however seems quite to have done so - he has got happily through this time of hard work at the Diocesan Conference We had a very interesting meeting afterwards at the Deanery about Women’s Work in the Diocese - especially what the Deaconesses at Portsea have to do and the strange things they meet with.
+
+Fancy a woman doubting about having her child baptised for fear it should become an Archangel and have to run about doing the messages for all the others. [Lady Heathcote](../persons.html#665) was here today looking very well, at a meeting of this Habitation? of the [Primrose League](../others.html#255).
+
+Gertrude is tolerable today, having visits from [Miss Coulthard](../persons.html#371) who is at the other house. I wonder who the Lady Valeria’s author is. A Moberly seems as if one should know, but then people do so assume names.[^2] It is a pretty book but for one thing
+your affectionate
+
+C M Yonge
+
+[^1]: Isabella Heathcote’s father, Spencer Horatio Walpole (1806-1898), M.P. for Cambridge University (1856-1882).
+
+[^2]: A.Moberly, Lady Valeria (1886) was advertised as the work of Major A.
+
+Moberly, and can probably be safely attributed to Major [Alfred Moberly](../persons.html#1860), nephew of Dr George Moberly.
+

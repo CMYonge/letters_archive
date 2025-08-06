@@ -1,0 +1,23 @@
+---
+date: '1861-11-08'
+display-date: Nov 8th 1861
+from-address: 'Otterbourne, Winchester. '
+manuscript-location: 'MS Westcountry Studies Library, Exeter/ Yonge 1861/12 '
+original-date: '2010-05-10 14:35:27'
+title: To Ann Maria Carter Smith
+wordpress-id: 1841
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Miss Smith](../persons.html#263)
+I found your MS here yesterday on my return from a two months expedition into Yorkshire and Devonshire. I think it is a pretty bright description, and the history of the contending organs is very entertaining, the only pity is that it is too late for December. I hope you have had a chapter of the Thorne. I find it is much liked and I am glad to see you in the [Churchman](../others.html#62). I think I shall soon send you some of [Mrs Grant](../books.html#43) to look over. I was obliged to abridge her a little to get her into keeping with the rest
+
+yours sincerely
+
+C M Yonge
+
+[^1]: Envelope addressed to Miss Ann Smith/ Rectory/ Old Charlton/ SE and postmarked Winchester 8 November 1861 and London SE 9 November 1861.
+

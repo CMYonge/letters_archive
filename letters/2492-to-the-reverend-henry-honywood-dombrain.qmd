@@ -1,0 +1,28 @@
+---
+date: '1874-02-26'
+display-date: Feb 26th 1874
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Gloucestershire Record Office D1773/5
+original-date: '2011-07-11 15:00:41'
+title: To the Reverend Henry Honywood D'Ombrain
+wordpress-id: 2492
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Sir](../persons.html#2292)
+I am sorry to say that I did not keep the address of the author of that excellent catechism I have enquired for it several times, but have never been able to recover it, much to my regret.
+I have a copy of the account of the Hursley Church windows written out by [Miss Keble](../persons.html#796), the sister, which I suppose is the same as the one of which you kindly offer me a sight, and as I have one way or another a good deal of writing of [Mr Keble](../persons.html#798)’s I will not trouble you to risk yours[^2]
+
+yours truly
+
+C M Yonge
+
+[^1]: With envelope addressed to The Revd/ H.
+
+Dombrain/ Framilode Rectory/ Stonehouse/Gloucester.
+
+[^2]: The document referred to, an account of the Hursley windows in Keble’s hand, is with the letter in Gloucestershire Record Office.
+

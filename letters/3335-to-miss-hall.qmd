@@ -1,0 +1,24 @@
+---
+date: '1896-12-12'
+display-date: '[12 December 1896]'
+from-address: ''
+manuscript-location: 'MS UCLA: collection 100: box 95'
+original-date: '2011-10-10 12:56:52'
+title: To Miss Hall
+wordpress-id: 3335
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+[To [Miss Hall](../persons.html#2396)]There is no Diocesan Leaflet to Winchester See
+
+C M Yonge
+
+[^1]: A postcard postmarked Winchester 2.15 PM De 12 96, addressed to ‘Miss Hall/ Greyladies/ Blackheath Hill/ London SE’.
+
+The College of Greyladies was a community of women engaged from about 1893 in social work, ‘in the sober fashion of the Church of England’ as its founder the Bishop of Southwark put it in a letter to The Times (2 February 1895).
+
+Susan Esther Wordsworth was subsequently its head.
+

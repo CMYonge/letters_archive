@@ -1,0 +1,40 @@
+---
+date: '1886-06-01'
+display-date: June 23d [1886]
+from-address: Elderfield
+manuscript-location: 'MS British Library Add MSS 54921: 161-3: '
+original-date: '2011-09-29 10:09:32'
+title: To George Lillie Craik
+wordpress-id: 2835
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+Thank you for the Wilberforce extract.
+
+It occurs to me that if the [Jubilee history](../books.html#189) were put out without illustrations, and with more of the religious element than would be fit for the [English Illustrated Mag.](../others.html#68) but would be liked by my own special world of readers, the publication if cheap, might answer /moderately\.
+
+But you will judge when you have looked at the chapters I sent.
+
+They go about half way.
+
+You would rejoice me by republishing [the Herb of the Field](../books.html#17). I should like to have the old copy to look over, for the only one I have was interleaved and illustrated by [my mother](../persons.html#1606), and I could not let it go away.
+I do not think there is much wrong in it but perhaps I shall think otherwise when I bring critical eyes to it again.
+
+There are two other sets of papers which I wrote for Mozley’s [Magazine for the Young](../others.html#79), and I should like much to see published separately. ‘[Householders](../books.html#357), which is on shells and quite as entertaining as well as newer than the Herb of the Field, and [Thoughts on Pictures](../books.html#301) - being descriptions for the youthful mind of notable works of art, and their stories. I could add a few more.
+I think it would tell more now than when it was written - as it was too much beforehand with the cultivation of art.
+[Mr W.
+
+Smith](../persons.html#1344) has all the back vols of the Mag for the Young, where these are.
+
+If you are looking up my old books there are some I should like to resuscitate, if you can find out what became of [Groombridge](../others.html#148)’s books (I believe he failed) He had a series of Magnet stories, for which I wrote four[,] three little plays - [the Mice At Play](../books.html#35), [the Strayed Falcon](../books.html#41) and [the Apple of Discord](../books.html#54) - and a story [The Sea Spleenwort](../books.html#46), each making a little book, for the plays (historical) are embedded in a story.[^1] I think I had £5 for the copyright of each, but they have never been reprinted and I should think could easily be bought back if they can be traced.
+
+Yours truly
+
+C M Yonge
+
+[^1]: These books exist both separately and bound up as The Magnet Stories.
+

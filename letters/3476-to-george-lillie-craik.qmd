@@ -1,0 +1,23 @@
+---
+date: '1901-01-15'
+display-date: Jan 15th 1901
+from-address: Elderfield Otterbourne
+manuscript-location: MS Reading University Library 1448/120
+original-date: '2011-02-02 11:47:40'
+title: To George Lillie Craik
+wordpress-id: 3476
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+I see you are advertising Highways and Byways in Spain. I should be much obliged if I might have a copy as my [Sister in law](../persons.html#1604) and her daughters are at Algeciras, where the [husband](../persons.html#386) of [one](../persons.html#388) is Vice Consul. I am expecting the [elder one](../persons.html#1613) to return before the end of the month, and the book would be much enjoyed by us together.
+I am glad [Modern Broods](../books.html#251) is doing well.
+
+It is more than I expected, for I do not think I can attempt any more of the kind after a long spell of success.
+
+yours sincerely
+
+C M Yonge

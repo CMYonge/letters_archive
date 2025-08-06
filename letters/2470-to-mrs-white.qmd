@@ -1,0 +1,37 @@
+---
+date: '1873-01-17'
+display-date: Jany 17th [1873?][[footnote:1]]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS University of Pennsylvania
+original-date: '2011-07-11 10:38:12'
+title: To Mrs White
+wordpress-id: 2470
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mrs White](../persons.html#1494)
+I cannot remember Miss [Evelyn Gee](../persons.html#553)’s present address, so would you be so kind as to forward this note to her containing a request from some one in Sloane Street to print her Eagle Story, which certainly has been a great favourite[^2]
+
+Yours truly
+
+C M Yonge
+
+[^1]: Another example of this paper dates from July 1882.
+
+[^2]: CMY’s bank account records the payment of £5 to Miss E.
+
+Gee on 10 April 1873, the only one to a person of this name. A story ‘What the Church Eagle Said’ appeared in MP (?Christmas 1872) 4.
+
+Evelyn Gee (b.
+
+Herts. 1843/4), daughter of the Rev.
+
+Richard Gee, Vicar of Abbots Langley and later of Windsor, who married 1880 Richard Rivington Holmes, librarian at Windsor Castle, seems a plausible candidate.
+
+He has an entry in ODNB, which states that she survived him.
+
+No separate publication of the story has been traced.
+

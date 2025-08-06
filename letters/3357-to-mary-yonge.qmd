@@ -1,0 +1,45 @@
+---
+date: '1897-09-17'
+display-date: Sept 17th [1897]
+from-address: Elderfield
+manuscript-location: MS West Devon Area Record Office Acc No 308
+original-date: '2010-10-07 11:10:20'
+title: To Mary Yonge
+wordpress-id: 3357
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mary](../persons.html#1626)
+I am glad Yealmpton has not been kept longer in suspense, it is so hard for a parish to wait long, and I really think it is better for the wife to move at once in the freshness of grief when she scarcely can dwell on the loss of home than to wait till later when she has time to feel it.
+
+It must be pleasant for Mrs [Warner](../persons.html#2177) to move to that pretty parsonage at Yealmpton, from the no house at Brixton and no doubt the parish will take to him better than a stranger.[^1] You must be relieved not to have the charge of poor [Sophy Martyn](../persons.html#974).[^2] [Sydney](../persons.html#2178) will be much less on your mind [Helen](../persons.html#1613) is gone home to help arrange about a new house, and [Alethea](../persons.html#182) and [Cecily](../persons.html#183) are a week in London while [Henry](../persons.html#190) is at Cromer with his sister We are to have Mr Jackson a clergyman who has been here before tomorrow.
+
+I have [Annie Moberly](../persons.html#1024), the Lady Principal of [St Hugh’s](../others.html#14) with me till next Friday and then I shall be alone till the 25th, when[ Charlotte](../persons.html#1588) [John Eyre Yonge](../persons.html#1620)’s daughter comes, I can hardly tell for how long, for poor thing she has no regular home as her [mother](../persons.html#1621) and her brother [Charles](../persons.html#2179) will not let her live with them, though the other two brothers and her sister[ Lucy](../persons.html#2180) are affectionate to her, and so are [George](../persons.html#1611) and [Lucy ](../persons.html#2116)at Bishopstoke.[^3] Probably she will stay till Helen comes back, as she is a help to John’s wife with a sick mother.[^4]
+
+Our Church work is finished and is beautiful All looks very autumnal the Virginia creeper turning red very fast.
+
+There is a Mr Yonge in California not [Stephen](../persons.html#2183), who named his daughter after me, and sent me her photograph though I told him I was no relation, and now she has sent me a whole set of pretty photographs of Sta Barbara in California two of decorated cars for the Carnival, one with 20000 roses, and the other with as many arum lilies.[^5] We can’t get a Bishop in all the multitude to preach either to us on St Matthews day, or to the [GFS](../others.html#23) conference.
+
+your most affte
+
+C M Yonge
+
+[^1]: The Rev. [Henry James Warner](../persons.html#1472), Vicar of Brixton 1889-97, succeeded the Rev.
+
+George Woodhouse as Vicar of Yealmpton in 1897.
+
+[^2]: Sophia (Coleridge) Martyn, a widow whose only child Paulina had been a Gosling and had died young.
+
+Sydney was Mary’s niece-in-law, Sydney (Bowen) Yonge; it sounds rather as if she lived with Mary at Yealmpton.
+
+[^3]: George Edward Yonge (1824-1904) and his wife Lucy Acland.
+
+He was Charlotte Fortescue Yonge’s uncle.
+
+[^4]: John and his wife may perhaps Charlotte Fortescue Yonge\'s brother and sister-in-law, [John Harry](../persons.html#2080) and [Emma Yonge](../persons.html#2081).
+
+They had her mother living with them during the 1891 census.
+

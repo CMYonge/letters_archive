@@ -1,0 +1,33 @@
+---
+date: '1875-09-21'
+display-date: September 21, 1875.
+from-address: 'Elderfield, Otterbourne, Winchester, '
+manuscript-location: MS location unknown.  Printed in Coleridge, [[otherbook:40]<i>Life</i>]
+  p.322
+original-date: '2011-07-14 09:54:13'
+title: To Annie Louise Cazenove
+wordpress-id: 2536
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Annie](../persons.html#274)-
+I believe that the fact of having the renewal of the baptismal vow united in our branch of the Church with Confirmation has very much tended to confuse people's minds as to what it really is.
+A Sacrament it surely is in the sense, as you say, that it is an outward sign of an inward grace, and there is no reasonable doubt that it is Apostolic.
+
+The laying on of hands by St.
+
+Peter and John at Samaria after the baptism by St.
+
+Philip the deacon was clearly confirmation since it could not be ordination, as it was general and immediate, evidently supplying what had been left wanting from baptism, and so again at Ephesus (Acts xix. 6) it was plainly the ordinary lay Christian on whom St.
+
+Paul laid hands.
+
+What was done by apostles in the days immediately after Pentecost is evidently of divine appointment, and there is no lack of proof, from the manner in which they mention it as ‘the Seal’ and the Unction, that they considered it as necessary to salvation as giving us our share as a royal priesthood in Christ's anointing, and also as marking us off, by the seal of the Holy Spirit, to be saved in the Great Day.
+
+The Greek Church still calls it the Seal. I worked it all out as much as I could some years ago, and I send you [a little book](../books.html#78) about it, as doing so will save me writing it out, and it seems to me to tell what you ask.
+
+Yours affectionately,
+C. M. YONGE.

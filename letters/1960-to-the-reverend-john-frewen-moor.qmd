@@ -1,0 +1,42 @@
+---
+date: '1864-06-01'
+display-date: '[June 1864][[footnote:1]] '
+from-address: 'Elderfield '
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e 86. '
+original-date: '2011-02-02 12:18:25'
+title: To the Reverend John Frewen Moor
+wordpress-id: 1960
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Moor](../persons.html#1046)
+Emily and I have been working away to make a question[^2] We suppose our young man to be a blacksmith or bricklayer as he earns such good wages.
+
+But if there is anything impossible or foolish or if you think it well to make it either more or less complicated, please to correct it
+Supposing a young man to earn two and sixpence per day except Sundays, Christmas Day and Good Friday, and from Jany 8th to March 10th, during which time he is laid up by an accident, what would be his gains?
+
+His average expenses are 7/ per week for food and Beer, 1/6 per week for lodging and washing, £5 for clothes & recreations per year, 6d per month paid to his club, 2d per month to the Library - £1 in the year towards his father’s rent.
+
+His club pays him 10/ per week during his illness and provides the doctor.
+
+What will he be able to put into the Savings bank in the course of the year?
+
+The account, with the working out of the sums to be carefully stated and written out.
+
+Prize offered a writing case
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Archivist’s annotation.
+
+[^2]: The identity of Emily is not quite clear.
+
+The writing case prize suggests the village children were the contestants, in which case it might be [Emily Dampier](../persons.html#404).
+
+But if this was a Gosling question [Emily Moberly](../persons.html#81) seems more likely.
+

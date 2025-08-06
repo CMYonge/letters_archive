@@ -1,0 +1,59 @@
+---
+date: '1882-12-20'
+display-date: Decr 20th 1882
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: 'MS British Library Add MSS 54921: '
+original-date: '2011-09-19 15:23:35'
+title: To George Lillie Craik
+wordpress-id: 2765
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+Dear [Mr Craik](../persons.html#379)
+I think the printing may be begun at once of [Stray Pearls](../books.html#170), and the proofs had better come to me as inconsistencies arise when tales run on long.
+
+And besides I always find that the printers make their worst blunders when their copy is in print. I suppose they set on their worst hands. [Clay](../others.html#173) is sure to have the copy.
+
+It may very well come out in April - it will only precede by two chapters.
+I have another book to propose.
+
+It is a one volume novel called [‘The Miz Maze’](../books.html#165) written in letters by nine of us, each taking one character except [Miss /CR\ Coleridge](../persons.html#329) and I who were forced to take two apiece.
+
+The other writers are [Miss Peard ](../persons.html#1160)(the author of Unawares, Rose Garden &c) [Miss Price](../persons.html#1209) (author of Valentina, Lost Battles) & [Miss Bramston](../persons.html#198), [Miss Wilford](../persons.html#1520), [Miss Lee](../persons.html#861) (author of Rosamund Fane &c)[^1] and one more very clever person, but the only one not regularly given to writing.[^2]
+The framework is mine modified - and the story of a young brother & sister with a strict old world father who discover a half sister they dimly remember had eloped with an Italian patriot and been cast off by the family.
+
+The brother who is going abroad with a tutor, resolves to go and learn her fate, and thereby gets taken by the Garibaldeans for an Austrian spy, is imprisoned and has to be rescued.
+
+There is a good deal of love story beside but this is the backbone and Miss Peard and Miss Price have done the Italian part most effectively.
+
+It is very nearly finished but some further touches have to be put in.
+
+What we should like would be to put our names but without saying which characters belong to us - so that people may amuse themselves with guessing.
+
+And if you would give us a sum for the copyright, the apportionment would be easier. I honestly think it very good work and it fits together very well, Miss Coleridge having done the hardest part, the editing and that it has quite saleable qualities.
+
+May /we\ send it to you when it has had its final over looking?
+
+Yours truly
+
+C M Yonge
+
+[^3]: Mary Lee and Catherine Lee, Rosamond Fane, or, The Prisoners of St.
+
+James\'s (1870).
+
+The title page of The Miz Maze confirms that it was the elder sister, Mary Susanna Lee, who collaborated with CMY on this work.
+
+Mary and Catherine Lee contributed an article to MP in 1873, and were joint authors of 12 works of fiction between 1867 and 1895.
+
+[^4]: This was no doubt [Mary Anderson Morshead](../persons.html#28).
+
+The authors whose signatures appear on the reverse of the title page are: Frances Awdry, Mary Bramston, Christabel Rose Coleridge, A.E.
+
+Mary Anderson Morshead, Charlotte Mary Yonge, Frances Mary Peard, Mary Susanna Lee, Eleanor C.
+
+Price, Florence Wilford.
+

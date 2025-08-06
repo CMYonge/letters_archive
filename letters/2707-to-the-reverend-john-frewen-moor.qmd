@@ -1,0 +1,25 @@
+---
+date: '1880-04-05'
+display-date: April 5th 1880
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e 86. '
+original-date: '2011-09-14 10:25:08'
+title: To the Reverend John Frewen Moor
+wordpress-id: 2707
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Mr Moor](../persons.html#1046)
+I enclose the £1 I fancied I had heard that [Miss Le Gallais](../persons.html#855) had made her start in life.
+
+Will you tell [Selina](../persons.html#1048) that I am sending on the magazine today[^1]
+
+Yours sincerely
+
+C M Yonge
+
+[^1]: Moor\'s daughter Selina seems to have been the editor of a magazine, perhaps the Ampfield Parish Magazine.
+

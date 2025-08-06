@@ -1,0 +1,29 @@
+---
+date: '1871-10-12'
+display-date: Oct 12th [1871?]
+from-address: Elderfield, Otterbourne, Winchester.
+manuscript-location: MS Mrs Clare Roels
+original-date: '2011-06-13 13:16:32'
+title: To Christabel Rose Coleridge
+wordpress-id: 2421
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Christabel](../persons.html#329)
+[Goslings](../others.html#104) do multiply overmuch, but I cannot refuse to make a two headed one, like [Double daisy](../persons.html#1161) out of these two damsels of [Miss Keary](../persons.html#793)’s about whom I send her letter.[^1] Will you send them the Gosling list, and standing orders I am sending them the rules.
+
+Who asks questions next – none have come to me to choose from for December- and it is January that is the holiday.
+I have given up the cats in grey. I find they come from Moliere and may have an objectionable meaning.[^2]
+Can you write another story upon the Eagle and goose text, I do not think any will do as well, and no one but yourself has done it before.[^3] I mean to make the connecting link be an Essay Society
+your affectionate
+Mother Goose
+
+[^1]: Perhaps the Goslings called York and Lancaster Rose, who joined the society after 1869 and left it in November 1872.
+
+[^2]: ‘ La nuit tous les chats sont gris’ is proverbial in French.
+
+[^3]: Christabel Coleridge had published a story in 1864 entitled \'The eagle of one house is the goose of another\'. CMY was proposing to make this proverb the theme of the MP Christmas number for 1872.
+

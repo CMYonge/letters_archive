@@ -1,0 +1,30 @@
+---
+date: '1877-08-19'
+display-date: 'Aug 19th 1877 '
+from-address: 'Elderfield, Otterbourne, Winchester. '
+manuscript-location: 'MS Plymouth and West Devon Area Record Office Ac 1092/31 '
+original-date: '2011-08-04 16:11:54'
+title: 'To Augusta Boevey Pode '
+wordpress-id: 2595
+---
+
+**Date:** {{< meta display-date >}}  
+**From:** {{< meta from-address >}}  
+**Manuscript Location:** {{< meta manuscript-location >}}  
+
+My dear [Augusta](../persons.html#1180)
+It is a long time since I heard of you and almost as long since I heard of [Kate](../persons.html#899), and I am anxious to know how she got on this summer I hope [Ernest](../persons.html#1183) is quite well after his chicken pox. I went about looking for him at Domum till I met [Mrs Morshead](../persons.html#2084) and she told me he was gone home.
+
+The only Saints day that they did not have him at the other house, I was obliged to go to a meeting of the [Girls Friendly Society ](../others.html#23)so I have not seen very much of him this half.[^1] [ Gertrude](../persons.html#1462) has been off and on poorly this summer, but she is now gone to her friends at Winston and is to come back on Saturday. I am afraid things are closing in at Puslinch.[^2] Every letter of [Mary](../persons.html#1626)’s tells of greater weakness than the last, and I hardly think there can be any rally.
+
+It is like watching an old tree come down after it has sheltered one all ones life. [Arty](../persons.html#1607) has just brought me my letters from Winchester, and here is one from Kate herself.
+
+Only think of her being out once more.
+
+How wonderful it is! I wonder if she will get to you.
+your affecte cousin
+
+C M Yonge
+
+[^2]: CMY\'s uncle the Rev. [John Yonge](../persons.html#1623) of Puslinch was in poor health and died on 23 August 1877.
+
