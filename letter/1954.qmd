@@ -1,7 +1,7 @@
 ---
 id: 1954
 title: From the Right Reverend John Coleridge Patteson to Charlotte Mary Yonge
-date: '1864-05-01'
+iso-date: '1864-05-01'
 display-date: '[‘Southern Cross’ between Auckland and Norfolk Island, May 1864]'
 from-name: Charlotte Mary Yonge
 to-name: From the Right Reverend John Coleridge Patteson to Charlotte Mary Yonge
@@ -9,39 +9,12 @@ manuscript-location: MS location unknown. Printed in Yonge, <i>[[otherbook:102]L
   of John Coleridge Patteson]</i> II, 92-4
 ---
 
-I cannot but feel sorry that the [Central African Mission](/organisation/42) is given up, though I am most willing to believe that it was unavoidable.
-
-How often, when it was started, have I heard my good and wise [master ](/person/1295)say, ‘I feel most thankful that some attempt should be made, but I greatly fear some disaster.’ He meant that such expectations had been raised, and so much pressure was applied from behind, that some precipitate action would very likely be the result.
-
-That was one point I urged in Australia, ‘We have always purposely withheld information from you, for we well knew that we were working upon a somewhat anomalous plan, and we thought it right quietly to test the character of our plan of operations before we appealed to you for help.
-
-And, moreover, we thus secured an immunity from a great disadvantage.
-
-Many a missionary is treated very unfairly by his supporters.
-
-Societies and individuals do not always act with the best judgment or the purest disinterestedness.
-
-Men oftentimes want to see their money’s worth in the shape of rapid conversions, speedy results &c., and the missionary is tempted, contrary to his better judgment, to minister to this mistaken craving for some hasty fulfilment of a no less hastily conceived wish.
-
-We have had great difficulty in paying our way, it is true; but it was better for the [Mission](/organisation/30) that we should be able to go on quietly and without exciting any attention, and so be freed from the temptation to act incompetently and prematurely.
-
+I cannot but feel sorry that the [Central African Mission](/organisation/42) is given up, though I am most willing to believe that it was unavoidable. How often, when it was started, have I heard my good and wise [master](/person/1295)say, ‘I feel most thankful that some attempt should be made, but I greatly fear some disaster.’ He meant that such expectations had been raised, and so much pressure was applied from behind, that some precipitate action would very likely be the result.
+That was one point I urged in Australia, ‘We have always purposely withheld information from you, for we well knew that we were working upon a somewhat anomalous plan, and we thought it right quietly to test the character of our plan of operations before we appealed to you for help. And, moreover, we thus secured an immunity from a great disadvantage. Many a missionary is treated very unfairly by his supporters. Societies and individuals do not always act with the best judgment or the purest disinterestedness. Men oftentimes want to see their money’s worth in the shape of rapid conversions, speedy results &c., and the missionary is tempted, contrary to his better judgment, to minister to this mistaken craving for some hasty fulfilment of a no less hastily conceived wish. We have had great difficulty in paying our way, it is true; but it was better for the [Mission](/organisation/30) that we should be able to go on quietly and without exciting any attention, and so be freed from the temptation to act incompetently and prematurely.
 This is a sample of the many many general principles involved in Mission work, which I attempted to press on the notice of the people.
 I am so very pleased with [Edwin Nobbs](/person/1907) and [Fisher Young](/person/1908) from Norfolk Island. I could hardly have believed that they could become so conscientiously diligent, thoughtful and useful. I believe that they are in the way to become a great blessing both to their own people and to the Mission.
-
-Some offers were made me, and others were on the point of being made me, of men (clergymen) joining me while I was in Australia; but I knew better. I knew very few who would be half as useful as Fisher Young in this particular work.
-
-When men like [Codrington](/person/312), actually seeing the character of the work, and possessing his qualifications, join one, that is indeed a blessing; but not one in a thousand would answer.
-
-And we must have them young.
-
-By-the-by, have you received the grand photograph of me from Adelaide?
-
-It was given to me, and packed and sent off to you without costing me a penny.
-
-You know the folks there were very attentive.
-
-It amused me to have my ugly old phiz photographed and sold.[^2]
+Some offers were made me, and others were on the point of being made me, of men (clergymen) joining me while I was in Australia; but I knew better. I knew very few who would be half as useful as Fisher Young in this particular work. When men like [Codrington](/person/312), actually seeing the character of the work, and possessing his qualifications, join one, that is indeed a blessing; but not one in a thousand would answer. And we must have them young.
+By-the-by, have you received the grand photograph of me from Adelaide? It was given to me, and packed and sent off to you without costing me a penny. You know the folks there were very attentive. It amused me to have my ugly old phiz photographed and sold.[^2]
 
 
-[^1]: This letter, which is not explicitly stated to be addressed to CMY, but appears to be so from the context, was omitted from the abridged edition.
 [^2]: CMY describes it (Life of John Coleridge Patteson, II, 94) as ‘a large one in a velvet-lined case, and represented him in his episcopal robes, but unfortunately, the success as a portrait was not proportionate to the splendour of the fittings.’

@@ -2,8 +2,8 @@
 id: 15
 title: Heir of Redclyffe, The By the author of “The Two Guardians,” “Henrietta’s Wish,”
   “The Kings of England.” 2 vols.
-author: Charlotte Mary Yonge
-date: '1853'
+author-name: Charlotte Mary Yonge
+publication-date: '1853'
 genre: Fiction (modern)
 publication-format: Book
 publisher: John W Parker and Son, West Strand, London.

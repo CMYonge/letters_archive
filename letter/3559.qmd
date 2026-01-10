@@ -1,7 +1,7 @@
 ---
 id: 3559
 title: To the Hon. Mrs Montgomery Moore?
-date: '1863-12-19'
+iso-date: '1863-12-19'
 display-date: Decr 19th [after 1863]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,7 +10,7 @@ manuscript-location: MS Harry Ransom Humanities Research Center, University of T
   Austin
 ---
 
-Dearest[ Jay](/person/1042)[^1]
+Dearest[Jay](/person/1042)[^1]
 Thank you – here are a few hardly worth it
 Your affec
 

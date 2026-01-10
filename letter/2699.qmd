@@ -1,7 +1,7 @@
 ---
 id: 2699
 title: To an Unknown Woman
-date: '1880-02-20'
+iso-date: '1880-02-20'
 display-date: Feb 20th 1880
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,14 +10,8 @@ manuscript-location: MS Devon Record Office, Exeter 53/10/9/3
 ---
 
 Dear Madam
-I am today sending your book to [Macmillans](/organisation/111) 29 and 30 Bedford Street, Covent Garden, and asking if they can give you one of my books to illustrate.
-
-It might be a good plan for you to call there, tomorrow or next day.
-
-Send up your card and ask for [Mr Craik](/person/379) or [Mr Macmillan](/person/939), mentioning my name.
-
+I am today sending your book to [Macmillans](/organisation/111) 29 and 30 Bedford Street, Covent Garden, and asking if they can give you one of my books to illustrate. It might be a good plan for you to call there, tomorrow or next day. Send up your card and ask for [Mr Craik](/person/379) or [Mr Macmillan](/person/939), mentioning my name.
 If you cannot call, write, and say how the book shall be returned asking if they can give you a commission to do some illustrations.
-
 After that I will write to [Marcus Ward](/organisation/236), who deals more in illustrations, and is going to publish the Bear and the Goblin in a book of poetry[^1]
 
 yours truly
@@ -25,6 +19,4 @@ yours truly
 C M Yonge
 
 
-[^1]: Francis Dawson, \'The Bear and the Goblin\' was included in CMY\'s anthology [Aunt Charlotte\'s Evenings at Home with the Poets](/book/143) (London: Marcus Ward 1881).
-
-Perhaps it was one of the texts the unknown woman had illustrated.
+[^1]: Francis Dawson, \'The Bear and the Goblin\' was included in CMY\'s anthology [Aunt Charlotte\'s Evenings at Home with the Poets](/book/143) (London: Marcus Ward 1881). Perhaps it was one of the texts the unknown woman had illustrated.

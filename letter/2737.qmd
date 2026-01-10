@@ -1,7 +1,7 @@
 ---
 id: 2737
 title: To the Marchioness of Salisbury
-date: '1881-11-09'
+iso-date: '1881-11-09'
 display-date: Novr 9th 1881
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -18,6 +18,4 @@ yours sincerely
 C M Yonge
 
 
-[^1]: Fanny Patteson and her half-sister [Joan](/person/1154) were the surviving sisters of the martyred Bishop Patteson.
-
-Whether CMY is merely deploring the habit of constant travel, as aimless and precluding usefulness, or whether there was some other cause for regret in the Pattesons\' lifestyle, is not clear.
+[^1]: Fanny Patteson and her half-sister [Joan](/person/1154) were the surviving sisters of the martyred Bishop Patteson. Whether CMY is merely deploring the habit of constant travel, as aimless and precluding usefulness, or whether there was some other cause for regret in the Pattesons\' lifestyle, is not clear.

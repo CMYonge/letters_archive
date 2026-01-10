@@ -1,8 +1,8 @@
 ---
 id: 2688
 title: To Ellen Julia Johns
-date: '1870-01-02'
-display-date: '[1870-2?][[footnote:1]]'
+iso-date: '1870-01-02'
+display-date: '[1870-2?]'
 from-name: Charlotte Mary Yonge
 to-name: To Ellen Julia Johns
 manuscript-location: MS Mitchell Library, Sydney. ML A27 1-275 (Microfilmed Sept 1993,
@@ -11,20 +11,9 @@ manuscript-location: MS Mitchell Library, Sydney. ML A27 1-275 (Microfilmed Sept
 
 My dear [Mrs Johns](/person/772),
 It shall not be my fault but my misfortune if I do not see the diversions of Winton House on Tuesday - I was going from home on Monday, but I have just put it off.
-I wish [Mr Johns](/person/769)’s lectures had been after noon ones.
-
-Then I could have come!
-
-The Skeleton seems waiting till publishing matters are less dead.
+I wish [Mr Johns](/person/769)’s lectures had been after noon ones. Then I could have come! The Skeleton seems waiting till publishing matters are less dead.
 I hope this great evening is a sign that you are pretty well again
 
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: Two letters are folded together in an envelope addressed to \'Mrs Johns, Winton House, Winchester\', andpostmarked 1Winchester/D/ DE 5/70.\' This letter evidently dates between the foundation of the [Winchester Literary and Scientific Society](/organisation/208) and the death of the Rev.
-
-Charles Alexander Johns in 1874.
-
-It probably dates from the earlier part of that period, since his death seems to have been preceded by illness.

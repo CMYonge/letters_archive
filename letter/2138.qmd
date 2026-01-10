@@ -1,7 +1,7 @@
 ---
 id: 2138
 title: The Right Reverend John Coleridge Patteson to Charlotte Mary Yonge
-date: '1866-11-02'
+iso-date: '1866-11-02'
 display-date: All Saints’ Day [2 November], 1866.
 from-name: Charlotte Mary Yonge
 to-name: The Right Reverend John Coleridge Patteson to Charlotte Mary Yonge
@@ -10,49 +10,15 @@ manuscript-location: MS location unknown. Printed in Yonge, <i>[[cmybook:102]Lif
 ---
 
 My dear Cousin,
-You know why [I](/person/1155) write to you on this day.
-
-The Communion of Saints becomes ever a more and more real thing to us as holy and saintly servants of God pass beyond the veil, as also we learn to know and love more and more our dear fellow-labourers and fellow-pilgrims still among us in the flesh.
-
-Such a day as this brings, thanks be to God, many calm, peaceful memories with it.
-
-Of how many we may both think humbly and thankfully whose trials and sorrows are over for ever, whose earthly work is done, who dwell now in Paradise and see His Face, and calmly wait for the great consummation.
-
-To you the sense of personal loss must be now--it will always be--mixed up with the true spirit of thankfulness and joy; but remember that as they greatly helped you, so you in no slight measure have received from God power to help others, a trust which I verily believe you are faithfully discharging, and that the brightness of the Christian life must be not lost sight of in our dealings with others, would we really seek to set forth the attractiveness of religion.
-I don’t mean that I miss this element in any of your writings; rather I am thankful to you because you teach so well how happiness and joy are the portion of the Christian in the midst of so much that the world counts sorrow and loss.
-
-But I think that depression of mind rapidly communicates itself, and you must be aware that you are through your books stamping your mind on many people.
-
-Do you mind my saying all this to you? only I would fain say anything that at such a time may, if only for a minute, help to keep the bright side before you.
-
-The spirit of patience did seem so to rest upon [him](/person/798) and his dear saintly [wife](/person/795).
-
-The motto of the [Christian Year](/periodical/95) seemed to be inwoven into his life and character.[^1] I suppose he so well knew the insignificance of what to us mortals in our own generation seems so great, that he had learned to view eternal truths in the light of Him who is eternal.
-
-He fought manfully for the true eternal issues, and everything else fell into its subordinate place.
-
-Is not one continually struck with his keen sense of the proportion of things?
-
-He wastes no time nor strength in the accidents of religion; much that he liked and valued he never taught as essential, or even mentioned, lest it might interfere with essentials.
-
-Oh! that his calm wise judgment, his spiritual discernment, may be poured out on many earnest men who I can’t help thinking lack that instinct which divinely guided the early Church in the ‘selection of fundamentals.’ We must all grieve to see earnest, zealous men almost injuring the good cause, and placing its best and wisest champions in an unnecessarily difficult position, because they do not see what I suppose Mr.
-
-Keble did see so very clearly.
-I know that these questions present themselves somewhat differently to those situated severally as you and we are.
-
-But it is, I suppose, by freely interchanging amongst ourselves thoughts that the general balance is best preserved.
-
-Pray, when you have time, write freely to me on such matters if you think it may be of use to do so.
-
-The Church everywhere ought to guard, and teach, and practise what is essential.
-
-In non-essentials I suppose the rule is clear. I will eat no meat, &c.
-
+You know why [I](/person/1155) write to you on this day. The Communion of Saints becomes ever a more and more real thing to us as holy and saintly servants of God pass beyond the veil, as also we learn to know and love more and more our dear fellow-labourers and fellow-pilgrims still among us in the flesh.
+Such a day as this brings, thanks be to God, many calm, peaceful memories with it. Of how many we may both think humbly and thankfully whose trials and sorrows are over for ever, whose earthly work is done, who dwell now in Paradise and see His Face, and calmly wait for the great consummation. To you the sense of personal loss must be now--it will always be--mixed up with the true spirit of thankfulness and joy; but remember that as they greatly helped you, so you in no slight measure have received from God power to help others, a trust which I verily believe you are faithfully discharging, and that the brightness of the Christian life must be not lost sight of in our dealings with others, would we really seek to set forth the attractiveness of religion.
+I don’t mean that I miss this element in any of your writings; rather I am thankful to you because you teach so well how happiness and joy are the portion of the Christian in the midst of so much that the world counts sorrow and loss. But I think that depression of mind rapidly communicates itself, and you must be aware that you are through your books stamping your mind on many people.
+Do you mind my saying all this to you? only I would fain say anything that at such a time may, if only for a minute, help to keep the bright side before you. The spirit of patience did seem so to rest upon [him](/person/798) and his dear saintly [wife](/person/795). The motto of the [Christian Year](/periodical/95) seemed to be inwoven into his life and character.[^1] I suppose he so well knew the insignificance of what to us mortals in our own generation seems so great, that he had learned to view eternal truths in the light of Him who is eternal. He fought manfully for the true eternal issues, and everything else fell into its subordinate place. Is not one continually struck with his keen sense of the proportion of things? He wastes no time nor strength in the accidents of religion; much that he liked and valued he never taught as essential, or even mentioned, lest it might interfere with essentials.
+Oh! that his calm wise judgment, his spiritual discernment, may be poured out on many earnest men who I can’t help thinking lack that instinct which divinely guided the early Church in the ‘selection of fundamentals.’ We must all grieve to see earnest, zealous men almost injuring the good cause, and placing its best and wisest champions in an unnecessarily difficult position, because they do not see what I suppose Mr. Keble did see so very clearly.
+I know that these questions present themselves somewhat differently to those situated severally as you and we are. But it is, I suppose, by freely interchanging amongst ourselves thoughts that the general balance is best preserved. Pray, when you have time, write freely to me on such matters if you think it may be of use to do so. The Church everywhere ought to guard, and teach, and practise what is essential. In non-essentials I suppose the rule is clear. I will eat no meat, &c.
 And now good-bye, my dear Cousin; and may God ever bless and comfort you.
-
 Your affectionate Cousin,
 J. C. PATTESON.
 
 
 [^1]: The motto of Keble\'s The Christian Year was \'In quietness and in confidence shall be your strength\' - Isaiah xxx. 15.\'
-[^2]: This may be a reference to 1 Corinthians 8:13: \'Wherefore, if meat make my brother to offend, I will eat no flesh while the world standeth, lest I make my brother to offend.\'

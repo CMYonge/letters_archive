@@ -2,8 +2,8 @@
 id: 24
 title: 'Daisy Chain, or, Aspirations: A Family Chronicle, The. By the author of “The
   Heir of Redclyffe.” 2 Vols'
-author: Charlotte Mary Yonge
-date: '1856'
+author-name: Charlotte Mary Yonge
+publication-date: '1856'
 genre: Fiction (modern)
 publication-format: Book
 publisher: John W Parker and Son, West Strand, London.

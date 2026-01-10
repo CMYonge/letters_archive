@@ -1,7 +1,7 @@
 ---
 id: 1794
 title: To John William Parker, Jr.
-date: '1860-07-01'
+iso-date: '1860-07-01'
 display-date: July 3d 1860
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -9,24 +9,11 @@ to-name: To John William Parker, Jr.
 manuscript-location: 'MS Princeton University, Parrish Collection, C0171: Box 29'
 ---
 
-[To [John William Parker](/person/1143), jr.] I wish to consult you on a question of publishing.
-
-Rather more than a year ago, I consented at the request of Messrs [Saunders and Otley](/organisation/144) to let my tale [Hopes and Fears](/book/37) appear in their periodical the [Constitutional Press](/periodical/65)[^1], reserving to myself the copy right, and intimating to them my intention of putting the tale when completed into your hands for publication. I have just heard that the Magazine has proved a failure (which did not greatly surprise me) and that the present is the last number.
-
-My story had reached the 15th chapter; and is finished as far as the 23d in M S. I hope to complete it in two or three months.
+[To [John William Parker](/person/1143), jr.] I wish to consult you on a question of publishing. Rather more than a year ago, I consented at the request of Messrs [Saunders and Otley](/organisation/144) to let my tale [Hopes and Fears](/book/37) appear in their periodical the [Constitutional Press](/periodical/65)[^1], reserving to myself the copy right, and intimating to them my intention of putting the tale when completed into your hands for publication. I have just heard that the Magazine has proved a failure (which did not greatly surprise me) and that the present is the last number. My story had reached the 15th chapter; and is finished as far as the 23d in M S. I hope to complete it in two or three months.
 I had already mentioned to you that I propose to bring out my tale of the [Young Stepmother](/book/38), now in course of publication in the [Monthly Packet](/periodical/52) next December. I had then calculated that Hopes and Fears would be completed by the Constitutional Press a year or so after the other.
-
-This failure however has thrown me out, and I want to ask your advice if you will kindly favour me with it.
-
-It will of course be inexpedient to bring out both stories nearly at the same time.
-
-They should at least have a years’ interval between them, and I should be glad to know which, under the circumstances, you think ought to have the precedence. I am inclined to believe that it should be Hopes and Fears as the readers have now broken short off in the midst, and as it can be proceeded with at once, whereas Young Stepmother must not appear before December.
-
-On the other hand, I am doubtful as to the prestige of immediately bringing out a story connected with an abortive periodical, it is a matter on which you can better judge than I, and I should be glad if I could hear from you on the subject
+This failure however has thrown me out, and I want to ask your advice if you will kindly favour me with it. It will of course be inexpedient to bring out both stories nearly at the same time. They should at least have a years’ interval between them, and I should be glad to know which, under the circumstances, you think ought to have the precedence. I am inclined to believe that it should be Hopes and Fears as the readers have now broken short off in the midst, and as it can be proceeded with at once, whereas Young Stepmother must not appear before December. On the other hand, I am doubtful as to the prestige of immediately bringing out a story connected with an abortive periodical, it is a matter on which you can better judge than I, and I should be glad if I could hear from you on the subject
 Yours faithfully
-C.M.
-
-Yonge
+C.M. Yonge
 
 
 [^1]: A magazine published by William Tweedie, which ran as a weekly from July 1858 to March 1859, and then as a monthly to March 1860.

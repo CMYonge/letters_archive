@@ -2,8 +2,8 @@
 id: 184
 title: Two Sides of the Shield, The By Charlotte M. Yonge, author of “The Heir of
   Redclyffe,” “Unknown to History,” etc.. 2 vols.
-author: Charlotte Mary Yonge
-date: '1885'
+author-name: Charlotte Mary Yonge
+publication-date: '1885'
 genre: Fiction (modern)
 publication-format: Book 8vo 2 vols 208, 209 pp
 publisher: 'London: Macmillan and Co.'

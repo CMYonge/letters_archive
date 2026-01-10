@@ -1,25 +1,17 @@
 ---
 id: 3020
 title: To Elizabeth Barnett
-date: '1854-01-01'
+iso-date: '1854-01-01'
 display-date: '[January 1854]'
 from-name: Charlotte Mary Yonge
 to-name: To Elizabeth Barnett
-manuscript-location: MS location unknown.  This fragment printed in Romanes, <i>[[otherbook:241]Appreciation]</i>,
+manuscript-location: MS location unknown. This fragment printed in Romanes, <i>[[otherbook:241]Appreciation]</i>,
   69
 ---
 
-Thank you, I have seen the Times.[^1] Sir [William Heathcote](/person/669) told me there was such an article, but he had not had time to read it, so I had to wait till morning in doubt whether it would be knock-down one, and it was rather a relief that it was not all abuse.
-
-It is very amusing to see how Miss Wellwood[^2] comes in for exactly the same abuse as if she was alive, and with the same discrimination as to facts.
-
-It seems to me exactly the world's judgment of Guy and Philip - loving Guy and not understanding him, and sympathizing with Philip as more comprehensible.
-
-However, [Marianne](/person/464)'s son[^3] cannot be disliked, in spite of his principles - a great triumph for her.
+Thank you, I have seen the Times.[^1] Sir [William Heathcote](/person/669) told me there was such an article, but he had not had time to read it, so I had to wait till morning in doubt whether it would be knock-down one, and it was rather a relief that it was not all abuse. It is very amusing to see how Miss Wellwood[^2] comes in for exactly the same abuse as if she was alive, and with the same discrimination as to facts. It seems to me exactly the world's judgment of Guy and Philip - loving Guy and not understanding him, and sympathizing with Philip as more comprehensible. However, [Marianne](/person/464)'s son[^3] cannot be disliked, in spite of his principles - a great triumph for her.
 
 
-[^1]: [The Heir of Redclyffe](/book/15) was reviewed in The Times, 5 January 1854 p 9 column a.
-
-The book is praised warmly despite its \'Puseyism\'.
+[^1]: [The Heir of Redclyffe](/book/15) was reviewed in The Times, 5 January 1854 p 9 column a. The book is praised warmly despite its \'Puseyism\'.
 [^2]: Miss Wellwood founds a sisterhood in the novel, despite opposition to nunneries as Roman Catholic in tendency.
 [^3]: The plot of The Heir of Redclyffe had been suggested by Mary Anne Dyson, and so the novel was known as her son.

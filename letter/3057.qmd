@@ -1,7 +1,7 @@
 ---
 id: 3057
 title: To Elizabeth Roberts
-date: '1854-12-07'
+iso-date: '1854-12-07'
 display-date: Decr 7th [1854]
 from-name: Charlotte Mary Yonge
 to-name: To Elizabeth Roberts
@@ -9,24 +9,8 @@ manuscript-location: 'MS Huntington Library: Yonge Letters'
 ---
 
 My dear [Miss Roberts](/person/1243),
-Here is the first part of your [Cathedral sketches](/periodical/244). I think I must put them in every alternate month, as there is a ‘press of matter’ and they will better bear a long interval than would any continuous narrative. I waited for them to reply to your last letter, I always feel it a kindness to be written to as if I was a personal acquaintance, so pray do not apologize for your details. I hope the suffering is now nearly over, and that your health will be improved by all that you have undergone.
-
-It must have been most difficult to turn your thoughts to any occupation while bearing so much pain and discomfort, but of course the exertion must have brought its own recompense.
-I shall reply by telling you what you will I am sure kindly rejoice in, we have just had the pleasure of welcoming [my brother](/person/1624) home from the East, not as one of the heroes of Alma or Inkerman for the camp at Varna did with him as with many others, so injuring his health that after trying to recover at Scutari, he has been obliged to come home, very weak, but likely to be restored by bracing weather, and bringing back to us much cheerfulness and thankfulness, I hope.
-
-How beautiful are the accounts of our soldiers, whether in the battle, or in the hospital their spirit of Christian Chivalry seems to display itself more than in any other war that I have heard of, and it is said much to impress the Turks, it would be a beautiful effect of our Alliance should it dispose them to Christianity. I had not guessed you as the author of the Old Woman’s reminiscences, the unselfish tone is superior to many other papers in [Chambers](/periodical/56).
-
-There are some former tales in which I should think I saw your hand.
-
-Thanks for your account of Elford, the red cloaks are delightful.
-
-We have made attempts to get them to prevail here, but ineffectually with the mass, though some wear and like them.
-
-The boys made an attack on the first girls who wore them!
-
-And practically, however pleasing to the eye, I fear that making schoolgirls wear a uniform is more apt to make them long for freedom in finery than to restrain it.
-
-If they can be made to take pleasure in their school dress, it is most desirable, and perhaps [Mr Paget](/person/1758) has the answer with his ‘village children’.[^2]
+Here is the first part of your [Cathedral sketches](/periodical/244). I think I must put them in every alternate month, as there is a ‘press of matter’ and they will better bear a long interval than would any continuous narrative. I waited for them to reply to your last letter, I always feel it a kindness to be written to as if I was a personal acquaintance, so pray do not apologize for your details. I hope the suffering is now nearly over, and that your health will be improved by all that you have undergone. It must have been most difficult to turn your thoughts to any occupation while bearing so much pain and discomfort, but of course the exertion must have brought its own recompense.
+I shall reply by telling you what you will I am sure kindly rejoice in, we have just had the pleasure of welcoming [my brother](/person/1624) home from the East, not as one of the heroes of Alma or Inkerman for the camp at Varna did with him as with many others, so injuring his health that after trying to recover at Scutari, he has been obliged to come home, very weak, but likely to be restored by bracing weather, and bringing back to us much cheerfulness and thankfulness, I hope. How beautiful are the accounts of our soldiers, whether in the battle, or in the hospital their spirit of Christian Chivalry seems to display itself more than in any other war that I have heard of, and it is said much to impress the Turks, it would be a beautiful effect of our Alliance should it dispose them to Christianity. I had not guessed you as the author of the Old Woman’s reminiscences, the unselfish tone is superior to many other papers in [Chambers](/periodical/56). There are some former tales in which I should think I saw your hand. Thanks for your account of Elford, the red cloaks are delightful. We have made attempts to get them to prevail here, but ineffectually with the mass, though some wear and like them. The boys made an attack on the first girls who wore them! And practically, however pleasing to the eye, I fear that making schoolgirls wear a uniform is more apt to make them long for freedom in finery than to restrain it. If they can be made to take pleasure in their school dress, it is most desirable, and perhaps [Mr Paget](/person/1758) has the answer with his ‘village children’.[^2]
 This sketch had better go on to Derby not back to me.
 
 Yours sincerely
@@ -34,7 +18,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Black-edged paper.
-[^2]: The Rev.
-
-Francis Edward Paget (1806-1882), Rector of Elford, Staffordshire 1835-82, was a prominent Tractarian clergyman and novelist; his works include Tales of the Village Children (1845).
+[^2]: The Rev. Francis Edward Paget (1806-1882), Rector of Elford, Staffordshire 1835-82, was a prominent Tractarian clergyman and novelist; his works include Tales of the Village Children (1845).

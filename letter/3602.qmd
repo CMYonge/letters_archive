@@ -1,8 +1,8 @@
 ---
 id: 3602
 title: To the Reverend Henry Albany Bowles
-date: '1893-09-02'
-display-date: Sept 2 [1893[[footnote:1]]]
+iso-date: '1893-09-02'
+display-date: Sept 2 [1893]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
 to-name: To the Reverend Henry Albany Bowles
@@ -10,26 +10,12 @@ manuscript-location: 'MS UCLA: collection 100: box 95'
 ---
 
 My dear [Henry](/person/184)
-[Mr Steward](/person/1680) has written at last.
-
-He says two very nice girls [Mildred Luckett](/person/906) and [Kate Brown](/person/212) will be ready at Christmas, so I am writing to him to engage one of them, and she can talk it over with [A.
-
-Diddams](/person/1681) who can tell her all about the place.[^2]
-He also gives me a list of ex pupil teachers who could keep school after the 1st of October till the mistress is ready.
-
-They all have homes near at hand and I think we can get one of them.
+[Mr Steward](/person/1680) has written at last. He says two very nice girls [Mildred Luckett](/person/906) and [Kate Brown](/person/212) will be ready at Christmas, so I am writing to him to engage one of them, and she can talk it over with [A. Diddams](/person/1681) who can tell her all about the place.[^2]
+He also gives me a list of ex pupil teachers who could keep school after the 1st of October till the mistress is ready. They all have homes near at hand and I think we can get one of them.
 [Amy Bateman](/person/783) is going to Winchester tomorrow, so I am sending her the names and asking her to enquire.
-
 Your affectionate
 
 C M Yonge
 
 
-[^1]: The letter must date between the arrival of the Bowleses in Otterbourne in October 1892 and the marriage of Amy Jones-Bateman in August 1894.
-[^2]: Mildred Luckett (b.
-
-Dalston 1871/2) and Kate H.
-
-Brown (b.
-
-Salisbury 1871/2) were both pupils at the Salisbury Diocesan Training School in 1891, learning to be teachers.
+[^2]: Mildred Luckett (b. Dalston 1871/2) and Kate H. Brown (b. Salisbury 1871/2) were both pupils at the Salisbury Diocesan Training School in 1891, learning to be teachers.

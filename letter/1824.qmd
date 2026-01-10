@@ -1,7 +1,7 @@
 ---
 id: 1824
 title: To Ann Maria Carter Smith
-date: '1861-03-18'
+iso-date: '1861-03-18'
 display-date: March 18th 1861
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -10,20 +10,11 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1861/6
 ---
 
 My dear [Miss Smith](/person/263),
-I think your answer is a very wise one, and quite what I can understand. I am sure with all the poor I have known unusual help unless on some very pressing occasion would be anything but really beneficial, but the three old couples might be most happily provided, and I hope [Mrs Elphinstone](/person/482) may choose that way of spending the sum. I will put what you say before her, thank you much for so answering.
-
-Thanks too for the Mothers’ Meeting particulars. I put one or two points as notes to the longer letter, which I think they help out greatly - though the object is different. I really think it might be a good time to stir [Mr Mozley](/person/1065) up about reprinting those stories of yours. [Frances](/organisation/265) would come in well upon the sensation caused by My Life and What Shall I do with it I send the first proof of the Websters, who look well in print, but must wait a month. I thought I should have had a great deal of room when [the stepmother](/book/38) and [the pilgrim](/periodical/180) were both done, but there always seems to be less than ever.
-
-About [the ladies](/book/43), whom I rather propose to call ‘More precious than rubies’ I shall be very glad of [Mrs Grant](/person/1825), and perhaps if you will do the other that you were thinking of first, we might then see about [Mrs Carter](/person/1830).
-
-The fact is that [my mother](/person/1606) knows her nearly by heart, and is much inclined to her, but a little in doubt whether she shall have time to undertake her, having something else just now about which she is busy, and if you were otherwise employed, I should rather like this to decide itself.
-
-Lady Russell, [Mrs Hutchinson](/person/1834) and [Caroline Perthes](/person/1827) have been beautifully done by the author of Magdalen Stafford[^2], [Olimpia Moratea](/person/1849) by [Miss Taylor](/person/1397), and likewise a wonderful [Mum Bet](/person/1846), an American slave whom she extracted from [Miss Martineau](/person/1724)’s American book. I have a Russian lady too who has delighted me much [Mme Svetchine](/person/1848), whom I translated from the French. I fear I shall still be long in finishing my own part.
+I think your answer is a very wise one, and quite what I can understand. I am sure with all the poor I have known unusual help unless on some very pressing occasion would be anything but really beneficial, but the three old couples might be most happily provided, and I hope [Mrs Elphinstone](/person/482) may choose that way of spending the sum. I will put what you say before her, thank you much for so answering. Thanks too for the Mothers’ Meeting particulars. I put one or two points as notes to the longer letter, which I think they help out greatly - though the object is different. I really think it might be a good time to stir [Mr Mozley](/person/1065) up about reprinting those stories of yours. [Frances](/organisation/265) would come in well upon the sensation caused by My Life and What Shall I do with it I send the first proof of the Websters, who look well in print, but must wait a month. I thought I should have had a great deal of room when [the stepmother](/book/38) and [the pilgrim](/periodical/180) were both done, but there always seems to be less than ever. About [the ladies](/book/43), whom I rather propose to call ‘More precious than rubies’ I shall be very glad of [Mrs Grant](/person/1825), and perhaps if you will do the other that you were thinking of first, we might then see about [Mrs Carter](/person/1830). The fact is that [my mother](/person/1606) knows her nearly by heart, and is much inclined to her, but a little in doubt whether she shall have time to undertake her, having something else just now about which she is busy, and if you were otherwise employed, I should rather like this to decide itself. Lady Russell, [Mrs Hutchinson](/person/1834) and [Caroline Perthes](/person/1827) have been beautifully done by the author of Magdalen Stafford[^2], [Olimpia Moratea](/person/1849) by [Miss Taylor](/person/1397), and likewise a wonderful [Mum Bet](/person/1846), an American slave whom she extracted from [Miss Martineau](/person/1724)’s American book. I have a Russian lady too who has delighted me much [Mme Svetchine](/person/1848), whom I translated from the French. I fear I shall still be long in finishing my own part.
 
 yours sincerely
 
 C M Yonge
 
 
-[^1]: Envelope addressed to Miss Ann Smith/ Rectory/ Old Charlton/ SE and postmarked Winchester 18 March 1861 and London SE 19 March 1861.
 [^2]: The identity of the person who published the novel Magdalen Stafford and other works as \'the author of Magdalen Stafford\' is puzzling, but she may perhaps be the [Mrs Bromfield](/person/162) whom CMY called \'one of my crack authors\'.

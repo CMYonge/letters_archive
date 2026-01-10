@@ -1,7 +1,7 @@
 ---
 id: 2795
 title: To George Lillie Craik
-date: '1884-11-12'
+iso-date: '1884-11-12'
 display-date: Novr 12th 1884
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,27 +10,13 @@ manuscript-location: 'MS British Library Add MSS 54921: 133'
 ---
 
 Dear [Mr Craik](/person/379)
-I am afraid I am guilty about [the Birthday book](/book/355) My consent was asked two or three years ago, and I suppose it was ignorance for it never struck me that such little scraps could be a copy right question, and it did not occur to me that I ought to refer to you.
-
-In fact I thought it a nonsensical project that would fall to pieces of itself, and as I had nipped various projects of the young lady[^1] before I did not like to do this.
-
-Mr [Walter Smith](/person/1344) asked me if I had consented, and I told him I had .
+I am afraid I am guilty about [the Birthday book](/book/355) My consent was asked two or three years ago, and I suppose it was ignorance for it never struck me that such little scraps could be a copy right question, and it did not occur to me that I ought to refer to you. In fact I thought it a nonsensical project that would fall to pieces of itself, and as I had nipped various projects of the young lady[^1] before I did not like to do this. Mr [Walter Smith](/person/1344) asked me if I had consented, and I told him I had .
 I am very sorry I did not refer either of them to you, and you see both trusted to me.
-I should have thought that the selections would rather have acted as an advertisement than have done harm.
-
-The book was sent to me a day or two ago.
-
-There are no extracts more than six or eight lines long and the works they are taken from are fully given to each but I am very sorry I transgressed about it, and it would be a serious matter to have brought [Miss Jupp](/person/789) and Mr Smith into a difficulty. I think if it had come before me this year I should have known better, from bits of experience, but unluckily I had forgotten all about the Birthday book.
-
-If you can pass it over without restraining the publication it would be a great favour to me
+I should have thought that the selections would rather have acted as an advertisement than have done harm. The book was sent to me a day or two ago. There are no extracts more than six or eight lines long and the works they are taken from are fully given to each but I am very sorry I transgressed about it, and it would be a serious matter to have brought [Miss Jupp](/person/789) and Mr Smith into a difficulty. I think if it had come before me this year I should have known better, from bits of experience, but unluckily I had forgotten all about the Birthday book. If you can pass it over without restraining the publication it would be a great favour to me
 
 Yours truly
 
 C M Yonge
 
 
-[^1]: The editor of the Daisy Chain Birthday Book is given as \'Eadgyth\', under which name also appeared four works of fiction 1877-9 and one contribution to MP.
-
-She was possibly Edith Margaret Jupp (b. 1847/8), daughter of Edward Basil Jupp (1812-1877), antiquarian writer, or she may have been related to Richard F.
-
-Jupp, another contributor to MP.
+[^1]: The editor of the Daisy Chain Birthday Book is given as \'Eadgyth\', under which name also appeared four works of fiction 1877-9 and one contribution to MP. She was possibly Edith Margaret Jupp (b. 1847/8), daughter of Edward Basil Jupp (1812-1877), antiquarian writer, or she may have been related to Richard F. Jupp, another contributor to MP.

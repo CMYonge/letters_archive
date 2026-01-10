@@ -1,38 +1,21 @@
 ---
 id: 2951
 title: To Anne Yonge
-date: '1845-01-05'
-display-date: Otterbourn [5 January 1845[[footnote:1]]]
+iso-date: '1845-01-05'
+display-date: Otterbourn [5 January 1845]
 from-name: Charlotte Mary Yonge
 to-name: To Anne Yonge
 manuscript-location: 'MS West Devon Record Office Acc No 308: 5/1/45'
 ---
 
 My dear [Anne](/person/1582)
-How heavily and drearily I wished you a happy year, and how little we thought of the joy that was coming in this morning.[^2] It was so strange a contrast to have the London letters full of comfort and delight at the same time as [Alethea](/person/27)’s sad one, I cannot say I for one moment thought that [Jane](/person/1616) would be other than an example to us all what ever might betide her, but it is a very great comfort to hear that all the dread and anxiety and harassing has done her no harm.
-
-One could not hear the first lesson this evening without applying it ‘When thou passest through the waters I will be with thee, and through the rivers they shall not over flow thee.’[^3] Did you not feel all the time that it would be worse for [Uncle Yonge](/person/1623) and [Mary](/person/1626)[^4], and as I thought for you at home, so far from the news.
-
-Only think of its seeming so near that [Mrs Moore](/person/1051) had a bed put up in readiness for her, and what a dream all this week of misery will seem on Tuesday when they are at home again, and what a comfort it is to have some lightness of heart, once more to help out our Christmas feelings, which have been like the holly this year all dull and heavy and without any berries. I hardly could bear to write to you last week, for I did not know how much of the terrible business you knew, as Uncle Yonge wrote it all the week before to [Papa](/person/1631) and desired us not to write about it to you in a fright, and as you may well believe I had no heart or spirit to say anything else, and yet felt that writing might be worse if I waited.
-
-The night before Papa’s comforting letter and Mary’s came, I saw Jane having her face painted with caustic and wondering it did not hurt more. I do suppose that [Brodie](/person/203) thought it would be an agreeable and entertaining study and did not like to be disappointed of it, I heard a story of him the other day wanting to cut off a child’s toe which had something the matter with it, and when they consulted somebody else it turned out that bandaging would do just as well.
-I want to know when Mary and Jenny have done telling all their tales at home whether Jane could go to our old friend St.
-
-Paul’s and how it looks in its Christmas dress. I have been thinking of Jenny’s horror of being doctored by anyone whom she was ever to see again, and most especially do I hope she never will see any of the four London doctors again especially that horrible Brodie.
-
-Really it does seem rather awful that even doctors should have had their fingers in her poor little mouth, have not they split it a little bit wider?
-
-Though it is Sunday I could not help writing a little of what was overflowing but I will finish tomorrow
-Monday.
-
-Papa is just come home.
-
-How horrible it is to think of. I have no time to say more
+How heavily and drearily I wished you a happy year, and how little we thought of the joy that was coming in this morning.[^2] It was so strange a contrast to have the London letters full of comfort and delight at the same time as [Alethea](/person/27)’s sad one, I cannot say I for one moment thought that [Jane](/person/1616) would be other than an example to us all what ever might betide her, but it is a very great comfort to hear that all the dread and anxiety and harassing has done her no harm. One could not hear the first lesson this evening without applying it ‘When thou passest through the waters I will be with thee, and through the rivers they shall not over flow thee.’[^3] Did you not feel all the time that it would be worse for [Uncle Yonge](/person/1623) and [Mary](/person/1626)[^4], and as I thought for you at home, so far from the news. Only think of its seeming so near that [Mrs Moore](/person/1051) had a bed put up in readiness for her, and what a dream all this week of misery will seem on Tuesday when they are at home again, and what a comfort it is to have some lightness of heart, once more to help out our Christmas feelings, which have been like the holly this year all dull and heavy and without any berries. I hardly could bear to write to you last week, for I did not know how much of the terrible business you knew, as Uncle Yonge wrote it all the week before to [Papa](/person/1631) and desired us not to write about it to you in a fright, and as you may well believe I had no heart or spirit to say anything else, and yet felt that writing might be worse if I waited. The night before Papa’s comforting letter and Mary’s came, I saw Jane having her face painted with caustic and wondering it did not hurt more. I do suppose that [Brodie](/person/203) thought it would be an agreeable and entertaining study and did not like to be disappointed of it, I heard a story of him the other day wanting to cut off a child’s toe which had something the matter with it, and when they consulted somebody else it turned out that bandaging would do just as well.
+I want to know when Mary and Jenny have done telling all their tales at home whether Jane could go to our old friend St. Paul’s and how it looks in its Christmas dress. I have been thinking of Jenny’s horror of being doctored by anyone whom she was ever to see again, and most especially do I hope she never will see any of the four London doctors again especially that horrible Brodie. Really it does seem rather awful that even doctors should have had their fingers in her poor little mouth, have not they split it a little bit wider? Though it is Sunday I could not help writing a little of what was overflowing but I will finish tomorrow
+Monday. Papa is just come home. How horrible it is to think of. I have no time to say more
 Your affectionate cousin
 CMY
 
 
-[^1]: Endorsed in another hand ‘Janry 5th- / 45.
 [^2]: This seems to relate to a successful operation on Anne’s elder sister Jane Duke Yonge (1820/1-1855), third daughter of the Puslinch Yonges.
 [^3]: Isaiah 43: 2.
 [^4]: Mary Yonge (c.1818-1910), Anne’s second sister.

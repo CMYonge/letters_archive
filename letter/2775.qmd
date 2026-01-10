@@ -1,7 +1,7 @@
 ---
 id: 2775
 title: To Lady Sophia Matilda Palmer
-date: '1883-07-11'
+iso-date: '1883-07-11'
 display-date: July 11th, 1883
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -19,6 +19,4 @@ C M Yonge
 
 
 [^1]: Lady Sophia Palmer (1852-1915), was the daughter of Lord Selborne, who had been raised to an earldom on 29 December 1882.
-[^2]: The Hon.
-
-Sir Arthur Gordon (1829-1912), created (1893) Lord Stanmore, moved in 1883 from being Governor-General of New Zealand to being Governor-General of Ceylon.
+[^2]: The Hon. Sir Arthur Gordon (1829-1912), created (1893) Lord Stanmore, moved in 1883 from being Governor-General of New Zealand to being Governor-General of Ceylon.

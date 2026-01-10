@@ -1,17 +1,15 @@
 ---
 id: 2480
 title: To Harriet Poole?
-date: '1873-08-01'
-display-date: '[August 1873][[footnote:1]]'
+iso-date: '1873-08-01'
+display-date: '[August 1873]'
 from-name: Charlotte Mary Yonge
 to-name: To Harriet Poole?
 manuscript-location: MS Charlotte Mitchell
 ---
 
 My dear [Miss Poole](/person/1187)[^2]
-I suspected that you would have to change to Monday. I wonder if the enclosed will make any further change.
-
-We shall be very glad to have you here on Sunday, and the carriage with [Miss Mackenzie](/person/930) in it will meet you at Bpstoke at the same time.
+I suspected that you would have to change to Monday. I wonder if the enclosed will make any further change. We shall be very glad to have you here on Sunday, and the carriage with [Miss Mackenzie](/person/930) in it will meet you at Bpstoke at the same time.
 I suppose - as you do not say so - [Miss Dyson](/person/464) has heard no more from Heaths Court[^3]
 
 yours affectionately
@@ -19,6 +17,5 @@ yours affectionately
 C M Yonge
 
 
-[^1]: Endorsed in pencil ‘Aug. 1873/ authoress’.
 [^2]: Presumed to be addressed to Harriet Poole, governess and sister of the Gosling Alice Poole.
 [^3]: Heath\'s Court was the home of Sir [John Taylor Coleridge](/person/344).

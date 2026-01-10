@@ -1,7 +1,7 @@
 ---
 id: 3035
 title: To Elizabeth Roberts
-date: '1854-03-11'
+iso-date: '1854-03-11'
 display-date: March 11th [1854]
 from-name: Charlotte Mary Yonge
 to-name: To Elizabeth Roberts
@@ -9,18 +9,8 @@ manuscript-location: 'MS Huntington Library: Yonge Letters'
 ---
 
 Dear [Miss Roberts](/person/1243),
-I do not like to leave you longer without a few words of thanks for your kind letter.
-
-We were indeed most mercifully aided and supported in our time of greatest need by all the help the Church affords, or rather the Lord of the Church.
-
-It was not one of our least blessings that our Church (of which my [Father](/person/1631) was almost the sole architect) is so close to the garden that we could go to the service every day of that week, and all the time till our own kindred could come to us we were soothed and cared for by[ Mr](/person/798) and [Mrs Keble](/person/795), who kindly called it parish work to take up their abode in the house of mourning.
-
-And now it is over, it is marvellous how much strength and spirit we have been allowed to retain, so that we are recurring with interest to the occupations which his interest and pleasure in them still seem to light up; and feeling much as if he was gone to some pleasure and had left us to take care of him in his absence.
-
-His habits of usefulness to the parish were so like a clergyman that he was continually addressed as one, though a thorough soldier in heart and in tastes; and we have reason now to be thankful he was not really clerical, as our dear home, so full of him, is still spared to us, to keep for [my brother](/person/1624), who, poor boy, must just now have met the tidings at Malta.
-I shall be very glad to hear any news of [the Garland](/topic/225), or to read any Cathedrals when ever you like to send me one. I believe I told you how much my dear Father liked your translation or versification of Death and Sleep.
-
-He is one to whom death is a sweet sleep after a life of toil in the service of others
+I do not like to leave you longer without a few words of thanks for your kind letter. We were indeed most mercifully aided and supported in our time of greatest need by all the help the Church affords, or rather the Lord of the Church. It was not one of our least blessings that our Church (of which my [Father](/person/1631) was almost the sole architect) is so close to the garden that we could go to the service every day of that week, and all the time till our own kindred could come to us we were soothed and cared for by[Mr](/person/798) and [Mrs Keble](/person/795), who kindly called it parish work to take up their abode in the house of mourning. And now it is over, it is marvellous how much strength and spirit we have been allowed to retain, so that we are recurring with interest to the occupations which his interest and pleasure in them still seem to light up; and feeling much as if he was gone to some pleasure and had left us to take care of him in his absence. His habits of usefulness to the parish were so like a clergyman that he was continually addressed as one, though a thorough soldier in heart and in tastes; and we have reason now to be thankful he was not really clerical, as our dear home, so full of him, is still spared to us, to keep for [my brother](/person/1624), who, poor boy, must just now have met the tidings at Malta.
+I shall be very glad to hear any news of [the Garland](/topic/225), or to read any Cathedrals when ever you like to send me one. I believe I told you how much my dear Father liked your translation or versification of Death and Sleep. He is one to whom death is a sweet sleep after a life of toil in the service of others
 
 Yours sincerely
 

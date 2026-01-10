@@ -1,54 +1,22 @@
 ---
 id: 19394
 title: To Mary Anne Dyson
-date: '1850-05-04'
+iso-date: '1850-05-04'
 display-date: May 4, 1850
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne
 to-name: To Mary Anne Dyson
-manuscript-location: MS location unknown.  This fragment printed in Coleridge, <i>[[otherbook:40]Life]</i>
+manuscript-location: MS location unknown. This fragment printed in Coleridge, <i>[[otherbook:40]Life]</i>
   170-2
 ---
 
 My dear [Driver](/person/464)[^1]
 
-I don't mean to send this till to-morrow, but my head is so full of [Sir Guy Morville](/book/15) that I must write it to get him out in order to go to Emmeline[^2] and in the first place I must tell you that after meditating on him all the way home, I explained him to mamma after tea, and when she heard him described, she said 'Like Mr. [Hurrell Froude](/person/5),'[^3] Which I hope is a sign that I have got the right sow by the ear, as far as knowing what you mean.
-
-Now, then, how will this sort of plot do - Mr.
-
-Dashwood, a good honest common-place sort of squire, is connected with the Morvilles by marrying Miss Edmonstone, a second cousin of theirs, her nephew Martyn Edmonstone[^4] being the heir-at-law to Sir Guy.
-
-The story should begin with the news coming to the Dashwoods of the sudden death of old Sir Guy, whereupon all would begin talking, and telling old stories about old Sir Guy's faults and repentance, and Mr.
-
-Dashwood and Martyn having to go to the funeral, and bring back young Guy with them.
-
-They don't know much about him, Martyn the most, and I think there should be some instances of wild escapades of fun together with a tremendous temper, the very vice of the house of Morville.  I think a fiery temper would be the thing that would chiefly leave on Guy's mind the impression that he was and must be good for nothing, and though he may have it really under most noted control, it may now and then show awful flashes before he can curb it in, so as to be just what smaller minds cannot understand.
-
-Well, Mr.
-
-Dashwood finds him very much overwhelmed by the loss of his grandfather, and brings him home;  then comes what we settled, how Mrs.
-
-Dashwood, who is to be superior to her husband, gets into his confidence and he is quite unreserved with her;  how he finds himself enjoying the lively family too much, and curbs himself sometimes in an odd sudden way which is now and then misunderstood and gives offence;  how Martyn Edmonstone, from having seen him in his boyhood, never trusts him, and looks upon him as a young tiger's whelp sure to break out some time or other, and cannot bear the sort of admiration in which the young ladies hold him.
-
-Martyn should before, I think, have been their great hero, and find his nose a little put out of joint, especially with Laura, his favourite, and the beauty whom Guy first took to;  he should not in the least know that he is jealous and invidious, but think it is all brotherly interest in his cousins.
-
-Then, just as Guy has found out his real love, Amabel, it should somehow happen that Martyn sees him at Oxford or somewhere under some violent provocation, where he really does struggle and gain a glorious victory over himself, but Martyn only sees the first flash of anger, and misrepresents it first to himself and then to the Dashwoods, in a sort of all-sincerity.
-
-Then comes a great cloud between Guy and Amabel and all her family, and when he finds out it is Martyn's fault, it must be a marvellous effort by which he prevents himself from calling him to account for it, at the same time blaming himself too much in his own penitent spirit to exculpate himself to the Dashwoods as much as most people would have done.
+I don't mean to send this till to-morrow, but my head is so full of [Sir Guy Morville](/book/15) that I must write it to get him out in order to go to Emmeline[^2] and in the first place I must tell you that after meditating on him all the way home, I explained him to mamma after tea, and when she heard him described, she said 'Like Mr. [Hurrell Froude](/person/5),'[^3] Which I hope is a sign that I have got the right sow by the ear, as far as knowing what you mean.  Now, then, how will this sort of plot do - Mr. Dashwood, a good honest common-place sort of squire, is connected with the Morvilles by marrying Miss Edmonstone, a second cousin of theirs, her nephew Martyn Edmonstone[^4] being the heir-at-law to Sir Guy.  The story should begin with the news coming to the Dashwoods of the sudden death of old Sir Guy, whereupon all would begin talking, and telling old stories about old Sir Guy's faults and repentance, and Mr. Dashwood and Martyn having to go to the funeral, and bring back young Guy with them.  They don't know much about him, Martyn the most, and I think there should be some instances of wild escapades of fun together with a tremendous temper, the very vice of the house of Morville.  I think a fiery temper would be the thing that would chiefly leave on Guy's mind the impression that he was and must be good for nothing, and though he may have it really under most noted control, it may now and then show awful flashes before he can curb it in, so as to be just what smaller minds cannot understand.  Well, Mr. Dashwood finds him very much overwhelmed by the loss of his grandfather, and brings him home;  then comes what we settled, how Mrs. Dashwood, who is to be superior to her husband, gets into his confidence and he is quite unreserved with her;  how he finds himself enjoying the lively family too much, and curbs himself sometimes in an odd sudden way which is now and then misunderstood and gives offence;  how Martyn Edmonstone, from having seen him in his boyhood, never trusts him, and looks upon him as a young tiger's whelp sure to break out some time or other, and cannot bear the sort of admiration in which the young ladies hold him.  Martyn should before, I think, have been their great hero, and find his nose a little put out of joint, especially with Laura, his favourite, and the beauty whom Guy first took to;  he should not in the least know that he is jealous and invidious, but think it is all brotherly interest in his cousins.  Then, just as Guy has found out his real love, Amabel, it should somehow happen that Martyn sees him at Oxford or somewhere under some violent provocation, where he really does struggle and gain a glorious victory over himself, but Martyn only sees the first flash of anger, and misrepresents it first to himself and then to the Dashwoods, in a sort of all-sincerity.  Then comes a great cloud between Guy and Amabel and all her family, and when he finds out it is Martyn's fault, it must be a marvellous effort by which he prevents himself from calling him to account for it, at the same time blaming himself too much in his own penitent spirit to exculpate himself to the Dashwoods as much as most people would have done.
 
 &nbsp;
 
-At last must come a sort of clearance, not so far that Martyn at all retracts, but only that it blows over, and he gets on his former terms with the family;  Amabel and her mother thoroughly understand him, Mr.
-
-Dashwood forgets his doubts, and the marriage comes all right, and they are only so wondrously happy that he fears it, and she is sure it cannot last.
-
-They go abroad for their wedding tour, and at some small place where Sisters of Mercy don't grow, they hear of an English gentleman desperately ill of an infectious fever.
-
-It must be just a sort of case in which Guy would think it only common humanity to go and nurse him, whereas other people would think it immense generosity, more especially as it turns out to be Martyn Edmonstone, whom he has never seen since the days of the slandering.
-
-So he nurses him till he begins to recover, and then catches it himself, and is quite convinced from the first that he shall die, in the same spirit as Prince Henry was so glad not to be king.
-
-Then of course it is all cleared up, and Martyn (who shall be his heir after all) shall come and see him, and enter into all that he would have had him do, and not only do him full justice but very nearly worship him, and Amabel shall behave gloriously, and understand her husband enough to feel with him like a certain book of Fouqué's, Death is Life, and when her father and mother and Laura come to her, just as it is all over, they can only wonder at her, and I think if in some remoter distance Martyn and Laura should marry, it would be a very good instance of what it is to be too good for this world, and what to be just good enough for it.  I should like to know what you think of all this.
+At last must come a sort of clearance, not so far that Martyn at all retracts, but only that it blows over, and he gets on his former terms with the family;  Amabel and her mother thoroughly understand him, Mr. Dashwood forgets his doubts, and the marriage comes all right, and they are only so wondrously happy that he fears it, and she is sure it cannot last.  They go abroad for their wedding tour, and at some small place where Sisters of Mercy don't grow, they hear of an English gentleman desperately ill of an infectious fever.  It must be just a sort of case in which Guy would think it only common humanity to go and nurse him, whereas other people would think it immense generosity, more especially as it turns out to be Martyn Edmonstone, whom he has never seen since the days of the slandering.  So he nurses him till he begins to recover, and then catches it himself, and is quite convinced from the first that he shall die, in the same spirit as Prince Henry was so glad not to be king.  Then of course it is all cleared up, and Martyn (who shall be his heir after all) shall come and see him, and enter into all that he would have had him do, and not only do him full justice but very nearly worship him, and Amabel shall behave gloriously, and understand her husband enough to feel with him like a certain book of Fouqué's, Death is Life, and when her father and mother and Laura come to her, just as it is all over, they can only wonder at her, and I think if in some remoter distance Martyn and Laura should marry, it would be a very good instance of what it is to be too good for this world, and what to be just good enough for it.  I should like to know what you think of all this.
 
 
 [^1]: In the early years of their friendship, when Dyson was putting pressure on CMY to write more, they called one another \"driver\" and \"slave\".

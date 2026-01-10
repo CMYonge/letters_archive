@@ -1,7 +1,7 @@
 ---
 id: 2768
 title: To George Lillie Craik
-date: '1883-01-01'
+iso-date: '1883-01-01'
 display-date: Jany 23d 1883
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,9 +10,7 @@ manuscript-location: 'MS British Library Add MSS 54921: 121-2:'
 ---
 
 Dear [Mr Craik](/person/379)
-Many thanks for the [payment](/topic/160).
-
-The knowledge that the amount for [Unknown to History](/book/157) is coming is quite sufficient for me at present. I have been kept waiting about the [Christian Names](/book/48) by [Mr H Jenner](/person/760) of the British Museum who promised to set me right about the Keltic mythology but I suspect has forgotten all about it.[^1] I am desiring him to let me have it again, and let me do my best with it. I think it is compressible into a volume. I took out an immense quantity of the First.
+Many thanks for the [payment](/topic/160). The knowledge that the amount for [Unknown to History](/book/157) is coming is quite sufficient for me at present. I have been kept waiting about the [Christian Names](/book/48) by [Mr H Jenner](/person/760) of the British Museum who promised to set me right about the Keltic mythology but I suspect has forgotten all about it.[^1] I am desiring him to let me have it again, and let me do my best with it. I think it is compressible into a volume. I took out an immense quantity of the First.
 [Clark](/organisation/251) made no sign though no doubt there was a stamp with his name. I was surprised at the uniform obliteration of my capitals which I thought I had taught [Clay](/organisation/173) to observe. I observe printers have an inveterate hatred to capitals, even when they have only to copy type. I suppose it gives them more trouble - or they lay snares for corrections[^2]
 
 Yours truly
@@ -21,6 +19,4 @@ C M Yonge
 
 
 [^1]: The Cornish scholar Henry Jenner (1848-1934), was an assistant in the MS department of the British Museum, the son of Bishop Jenner and the nephew of Marion Finlaison.
-[^2]: CMY waged constant war with printers. R & R.
-
-Clark of Edinburgh, and not Richard Clay and Sons, were the printers of the first edition of Stray Pearls; evidently CMY had not observed this in correcting the proofs.
+[^2]: CMY waged constant war with printers. R & R. Clark of Edinburgh, and not Richard Clay and Sons, were the printers of the first edition of Stray Pearls; evidently CMY had not observed this in correcting the proofs.

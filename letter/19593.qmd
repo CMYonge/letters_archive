@@ -1,7 +1,7 @@
 ---
 id: 19593
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1866-07-07'
+iso-date: '1866-07-07'
 display-date: July 7 1866
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -18,6 +18,4 @@ Mrs [Craik](/person/378) suggests “Heroic Lives of all times &.” I adhere to
 
 Yours very faithfully
 
-[A.
-
-Macmillan](/person/939)
+[A. Macmillan](/person/939)

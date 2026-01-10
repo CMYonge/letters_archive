@@ -1,7 +1,7 @@
 ---
 id: 2709
 title: To Horatia Katherine Frances Gatty
-date: '1880-06-07'
+iso-date: '1880-06-07'
 display-date: June 7th 1880
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -20,6 +20,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Horatia Katherine Frances Gatty (b. 1846), younger sister of Juliana Ewing, was editor of Aunt Judy\'s Magazine.
-
-Emma Marie Caillard (1852-1927) is probably referred to.
+[^1]: Horatia Katherine Frances Gatty (b. 1846), younger sister of Juliana Ewing, was editor of Aunt Judy\'s Magazine. Emma Marie Caillard (1852-1927) is probably referred to.

@@ -1,7 +1,7 @@
 ---
 id: 2227
 title: To Dinah Maria Craik
-date: '1868-01-01'
+iso-date: '1868-01-01'
 display-date: Jany 1st 1868
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,12 +10,8 @@ manuscript-location: MS UCLA; Collection 846 (Mulock Family Papers), Box 2, Fold
   14
 ---
 
-Dear [Mrs.
-
-Craik](/person/378),
-Your note and enclosure have followed me to the home where I am staying a few days (in spite of the address on my paper).
-
-Many thanks for it.
+Dear [Mrs. Craik](/person/378),
+Your note and enclosure have followed me to the home where I am staying a few days (in spite of the address on my paper). Many thanks for it.
 I read with much interest the account of the [Little Sisters](/organisation/197) in the Magazine.[^1] It is curious how they make their way with all kinds of people, even at Plymouth, the last place where I should have expected them to thrive.[^2]
 
 Yours sincerely

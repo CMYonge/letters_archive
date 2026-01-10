@@ -1,7 +1,7 @@
 ---
 id: 2721
 title: To Catharine Elgie
-date: '1881-01-01'
+iso-date: '1881-01-01'
 display-date: '[spring 1881]'
 from-name: Charlotte Mary Yonge
 to-name: To Catharine Elgie
@@ -21,11 +21,5 @@ yours affectionately
 C M Yonge
 
 
-[^1]: The Rev.
-
-Walter Elgie, Vicar of Otterbourne, had died on 25 February 1881 and CMY here thanks for an autograph given to her in his memory.
-[^2]: The Lightfoot referred to here might be the Rt.
-
-Rev.
-
-Joseph Barber Lightfoot, Bishop of Durham, who published commentaries on the Epistles, or CMY may refer to John Lightfoot, The Harmony of the Foure Evangelists, among themselves, and with the Old Testament (London: White 1644).
+[^1]: The Rev. Walter Elgie, Vicar of Otterbourne, had died on 25 February 1881 and CMY here thanks for an autograph given to her in his memory.
+[^2]: The Lightfoot referred to here might be the Rt. Rev. Joseph Barber Lightfoot, Bishop of Durham, who published commentaries on the Epistles, or CMY may refer to John Lightfoot, The Harmony of the Foure Evangelists, among themselves, and with the Old Testament (London: White 1644).

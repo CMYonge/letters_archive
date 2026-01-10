@@ -1,7 +1,7 @@
 ---
 id: 2623
 title: To George Lillie Craik
-date: '1878-03-25'
+iso-date: '1878-03-25'
 display-date: March 25th 1878
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,13 +10,8 @@ manuscript-location: 'MS British Library Add MSS 54921: 57'
 ---
 
 Dear [Mr Craik](/person/379)
-They have only sent me the first 19 columns of the [French primer](/book/353), which I had [illegible] and which only want a little correction of the [illegible].
-
-What I want is the latter half which I know was once set up, but which has not been lengthened, as this earlier part has been
+They have only sent me the first 19 columns of the [French primer](/book/353), which I had [illegible] and which only want a little correction of the [illegible]. What I want is the latter half which I know was once set up, but which has not been lengthened, as this earlier part has been
 
 Yours truly
 
 C M Yonge
-
-
-[^1]: Black-edged paper.

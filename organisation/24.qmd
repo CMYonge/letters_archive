@@ -5,6 +5,4 @@ name: Guild of St. Alban, The
 title: Guild of St. Alban, The
 ---
 
-The Guild of St.
-
-Alban the Martyr was founded in 1851 by Shirley Fielding Palmer and still existed in 1960; it consisted of male lay fellows who assisted clergy in social work; it also had a sisterhood; some archives are in London Metropolitan Archives.
+The Guild of St. Alban the Martyr was founded in 1851 by Shirley Fielding Palmer and still existed in 1960; it consisted of male lay fellows who assisted clergy in social work; it also had a sisterhood; some archives are in London Metropolitan Archives.

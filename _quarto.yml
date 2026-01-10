@@ -13,27 +13,18 @@ website:
     (1823-1901), English novelist and educator.
   navbar:
     left:
-    - href: index.qmd
+    - href: /
       text: Home
-    - href: letters-index.qmd
+    - href: letters-index
       text: Letters
-    - href: persons.qmd
+    - href: persons
       text: Persons
-    - href: books.qmd
+    - href: books
       text: Books
-    - href: references.qmd
+    - href: references
       text: References
-    - href: about.qmd
+    - href: about
       text: About
     title: Yonge Letters
-  sidebar:
-    contents:
-    - index.qmd
-    - letters-index.qmd
-    - persons.qmd
-    - books.qmd
-    - references.qmd
-    - about.qmd
-    search: true
-    style: docked
+  search: true
   title: The Letters of Charlotte Mary Yonge

@@ -1,7 +1,7 @@
 ---
 id: 2618
 title: To Christabel Rose Coleridge
-date: '1878-02-26'
+iso-date: '1878-02-26'
 display-date: Feb 26[or8?] 1878
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,7 +11,6 @@ manuscript-location: MS Mrs Clare Roels
 
 My dear [Christabel](/person/329)
 Such a letter as yours is hard to answer usefully, though so far as sympathy goes I know it exactly, how distressing and humiliating it is too feel ones creatures go so far beyond one in goodness that they only condemn one to oneself, while other people take them for tokens of ones goodness and then the being religious intellectually rather than spiritually and the way in which unhappiness aggravates one’s temper, and one behaves worse to those to whom it would seem most impossible; I know it all, and I am afraid it is all in me still, though the opportunities of struggling and shewing temper are alas! over But then comes the real question[:] practically what to do, and before I go to the further one let me tell you what I do think did help me – was [Mr Keble](/person/798)’s advice - I used always to object to whatever anyone proposed, and he advised me to keep an account, by a pin prick on a piece of paper of every time I did it. I do think that helped to mend that one fault - But most likely you have tried this almost mechanical mode before, and you may have found that the very distressing oneself about one’s temper makes it worse – by encreasing the general fuss. I think to lay it before one experienced might be a help – and might give you some means of calming yourself - For that is, I should gather what you most want and those kind wise talks and prayers do help one very much by by their influence spreading long after But to whom to go is the question. I imagine that a clergyman whose experience lay among educated people would be able to indicate to you some course of self discipline, but of course the difficulty is that you do not wish to commit yourself to a regular course of frequent confessions such as some seem to take for granted as needful. I do not think I have sufficiently wide knowledge of clergy to be a very good counsellor in this case. I know of very dear friends who resort at intervals to [Mr Carter](/person/268) and [Mr Skinner](/person/1329) and feel that they have helped them very much – but I am not sure whether both these would not be of that tone which you do not wish for.[^2] Ever since Mr Keble left us, I have depended on [Mr Wilson](/person/1541) of Rownhams, who you know was his curate, and always seems to me to have more of himself than anyone else Dear [Anne Mackenzie](/person/930) was much helped by him, and as a man of the older school he would not take you beyond what you are prepared for- Do you like to come here and go over with me one day this Lent - I always do go to him in Lent - At the same time I should say that he would most likely say beforehand that you would be better with a more trained and practised spiritual guide than he would consider himself as a country clergyman of 69 years old – and he told both Miss Mackenzie and me that we might do better with someone else.
-
 But I am sure he would talk it over most kindly and with keen tender sympathy, and if you like to come here and let me drive you over, I shall be very glad to do so – and perhaps that would make less fuss than any other expedient I shall certainly go to him myself this Lent, but have not written to him to fix the time Or if you did not mind, I could ask him to whom he would advise you to go -
 Whichever will suit you best -
 believe me your most affectionate
@@ -19,9 +18,4 @@ believe me your most affectionate
 C M Yonge
 
 
-[^1]: Black-edged paper.
-[^2]: The Rev.
-
-James Skinner (1818-1881), friend of Pusey, and the Rev.
-
-Canon Thomas Thellusson Carter (1808-1901), Rector of Clewer, Berks., and founder of the Clewer sisterhood, were both advanced high churchmen.
+[^2]: The Rev. James Skinner (1818-1881), friend of Pusey, and the Rev. Canon Thomas Thellusson Carter (1808-1901), Rector of Clewer, Berks., and founder of the Clewer sisterhood, were both advanced high churchmen.

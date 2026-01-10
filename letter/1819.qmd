@@ -1,7 +1,7 @@
 ---
 id: 1819
 title: To Katharine Olive Helmore
-date: '1861-02-26'
+iso-date: '1861-02-26'
 display-date: Feb 26th 1861
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -10,23 +10,12 @@ manuscript-location: MS Charlotte Mitchell/Cobweb-1
 ---
 
 Dear [Cobweb](/person/675)
-I did not answer you at once because the [Glowworm](/person/534) sent me a set of questions by the same post, and I had to refer to the [Secretary](/person/351) to know which was to have the first turn.
-
-She decides that, as by some blunder the Glow Worm stepped into Fru Astrida’s place, and that her questions had therefore better have the first turn.[^2] I believe this is rather a good thing for your first will require a little reconsidering, as you know there is a great question whether St Mary Magdalen be the same with the Sister of Lazarus, and also with the woman who anointed our Blessed Lord’s Feet in the house of Simon.
-
-If you mean to have this question entered upon, I think it should be expressed, else everyone will be in difficulties – as they are this time as to what is exactly meant by the Jews.
-
-Without disallowing the question, I am inclined to think you had better either put it another form or change it.
-
+I did not answer you at once because the [Glowworm](/person/534) sent me a set of questions by the same post, and I had to refer to the [Secretary](/person/351) to know which was to have the first turn. She decides that, as by some blunder the Glow Worm stepped into Fru Astrida’s place, and that her questions had therefore better have the first turn.[^2] I believe this is rather a good thing for your first will require a little reconsidering, as you know there is a great question whether St Mary Magdalen be the same with the Sister of Lazarus, and also with the woman who anointed our Blessed Lord’s Feet in the house of Simon. If you mean to have this question entered upon, I think it should be expressed, else everyone will be in difficulties – as they are this time as to what is exactly meant by the Jews. Without disallowing the question, I am inclined to think you had better either put it another form or change it.
 No 2 – is an immense question, had you not better either ask for an outline of the general course of the war, or else specify some one episode in it, such as either [Wallace](/person/1852)’s career or [Bruce](/person/1853)’s rise – otherwise the doing both in detail will be very hard work, and the prize will come to whoever has most time.
-
-The [Handel](/person/1851) question is a very good one, and I like the [Kepler](/person/1850) one very much too - I wonder if anyone will do the a calculation for a specimen - I have your answers this morning.
-
-Pray don’t think me a horrible hissing old Goose, but I am afraid for the poor flies entangled in your toils - I believe asking questions is much harder than answering them
+The [Handel](/person/1851) question is a very good one, and I like the [Kepler](/person/1850) one very much too - I wonder if anyone will do the a calculation for a specimen - I have your answers this morning. Pray don’t think me a horrible hissing old Goose, but I am afraid for the poor flies entangled in your toils - I believe asking questions is much harder than answering them
 your critical
 Mother Goose
 Yours stand over for April-
 
 
-[^1]: Tiny 95mm x 54mm blue envelope addressed to ‘Miss Helmore/6 Cheyne Walk/Chelsea/SW’ postmarked Winchester 26 February 1861 and London 27 February 1861.
 [^2]: The turn of page happens before ‘into Fru Astrida’s’, which accounts for the shift in grammar. \'Fru Astrida\' (the name of an elderly character in [The Little Duke](/book/20)) was evidently another member of the [Gosling Society](/topic/104), but has not been identified.

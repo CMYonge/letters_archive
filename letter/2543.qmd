@@ -1,7 +1,7 @@
 ---
 id: 2543
 title: To Augusta Boevey Pode
-date: '1876-02-26'
+iso-date: '1876-02-26'
 display-date: Feb 26th 1876
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,17 +10,8 @@ manuscript-location: MS Plymouth and West Devon Area Record Office Ac 1092/30
 ---
 
 My dear [Augusta](/person/1180)
-Certainly one is grateful to [Miss Goodrich](/person/567) for being the cause of a letter. I have had a very long cold, chiefly irritation of the windpipe, which drove me away at last to Salisbury and Rownhams to get rid of it, and now it is nearly gone though I am still obliged to take more care than is convenient in the beginning of Lent. I had some very pleasant days last week at Salisbury, and I hope to be at [Margaret Moberly](/person/83)’s wedding there in Easter week.
-
-It ought to be very pretty, going through that lovely garden and the cloister to the Lady Chapel which is quite finished though the chair is not.
-
-The week after I hope to be at the opening of [Keble college](/organisation/5), & I expect that will pretty well serve for outings for the year.
-
-You are all very kind about my coming next, but I do not think I can in the present state of Puslinch for though it is really not good for [Uncle Yonge](/person/1623) & [Mary](/person/1626) to have anyone there he makes himself unhappy if he does not invite me and that hurried visit I paid two years ago convinced me that it is only pain and grief to all for me to come over the borders of Devon. I have always been such a child of the house there that except [Elizth Colborne](/person/320) it is not quite the same with anyone.
-
-You do not say if you have Emma still with you, if you have tell her that [Blanche](/person/1480) & [Gertie](/person/1482) came here from Dover with horrible coughs which were not supposed to be whooping cough, but which turned to it in their little brothers.
-
-Tell her too that the 1st class of infants distinguished themselves greatly in their religious examination and that [we](/organisation/107) are put among the 7 best schools for religious education in the diocese. [Beatrice](/person/1181) will soon have the [At Charlotte Greek Hist](/book/116) it has been delayed about the pictures. [Gertrude ](/person/1462)has set up a charming Skye terrier, who has only one fault – that of tumbling things to pieces.
+Certainly one is grateful to [Miss Goodrich](/person/567) for being the cause of a letter. I have had a very long cold, chiefly irritation of the windpipe, which drove me away at last to Salisbury and Rownhams to get rid of it, and now it is nearly gone though I am still obliged to take more care than is convenient in the beginning of Lent. I had some very pleasant days last week at Salisbury, and I hope to be at [Margaret Moberly](/person/83)’s wedding there in Easter week. It ought to be very pretty, going through that lovely garden and the cloister to the Lady Chapel which is quite finished though the chair is not.
+The week after I hope to be at the opening of [Keble college](/organisation/5), & I expect that will pretty well serve for outings for the year. You are all very kind about my coming next, but I do not think I can in the present state of Puslinch for though it is really not good for [Uncle Yonge](/person/1623) & [Mary](/person/1626) to have anyone there he makes himself unhappy if he does not invite me and that hurried visit I paid two years ago convinced me that it is only pain and grief to all for me to come over the borders of Devon. I have always been such a child of the house there that except [Elizth Colborne](/person/320) it is not quite the same with anyone. You do not say if you have Emma still with you, if you have tell her that [Blanche](/person/1480) & [Gertie](/person/1482) came here from Dover with horrible coughs which were not supposed to be whooping cough, but which turned to it in their little brothers. Tell her too that the 1st class of infants distinguished themselves greatly in their religious examination and that [we](/organisation/107) are put among the 7 best schools for religious education in the diocese. [Beatrice](/person/1181) will soon have the [At Charlotte Greek Hist](/book/116) it has been delayed about the pictures. [Gertrude](/person/1462)has set up a charming Skye terrier, who has only one fault – that of tumbling things to pieces.
 your affectionate cousin
 
 C M Yonge

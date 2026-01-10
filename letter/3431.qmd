@@ -1,7 +1,7 @@
 ---
 id: 3431
 title: To Mary Yonge
-date: '1899-10-10'
+iso-date: '1899-10-10'
 display-date: Oct 10 [1899]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -11,20 +11,8 @@ manuscript-location: MS West Devon Area Record Office Ac 1092/23
 
 My dear [Mary](/person/1626)
 I have been meaning to write for some days, but they have managed to be full, and now I hope you have good accounts of [Dorothea](/person/851) and the [little maid](/person/2200), and that [Charlotte](/person/1587) has a happy nursing.[^1]
-Poor [Alethea](/person/182) has quite broken down, with really nothing the matter with her, but she has had no proper rest all this year First the influenza, then all the children’s measles then going to the lodging at Holmwood with only the lady nurse who turns out not helpful in illness or with nursery maid away, and coming home with extra work, and the day governess not so good as the former one.
-
-So she has quite knocked up, and is to be quite quiet and not be beset with the nursery children, and when [Frances ](/person/1604)goes home she is to go to Dorking by herself.
-
-One of [Mr Bowles](/person/184)’s sisters is coming to take care of him and the house Helen is here now, at least [Mrs Bateman ](/person/784)has got her for a day or two, as she can walk over from the Grange as well as from here.
-
-She is at the Vicarage now, and is to take [Cicely](/person/183) and [Margaret](/person/185) to Winchester to be measured for their winter cloaks.
-[Reggie](/person/189) and Cicely are quite old children coming up the village and going to church by themselves, so only Joan is quite a nursery child.
-
-We had [Mr Horsley](/person/2201) to speak on thrift to the GFS conference, and he enlarged on the waste of money in sweets. A girl came to him begging for her mother and he found she consumed 7/6 a week of sweets!
-
-Somebody ought to protest against those horrid scraps of paper that are supposed to be confetti or rice at the poor people’s weddings.
-
-Henry has forbidden them in the Church yard, but they were thickly strewn outside and the little girl bridesmaid came to school on Sunday in white shoes - I trust they will soon get spoilt, but the first thing I heard this morning was ‘The poor dahlias’
+Poor [Alethea](/person/182) has quite broken down, with really nothing the matter with her, but she has had no proper rest all this year First the influenza, then all the children’s measles then going to the lodging at Holmwood with only the lady nurse who turns out not helpful in illness or with nursery maid away, and coming home with extra work, and the day governess not so good as the former one. So she has quite knocked up, and is to be quite quiet and not be beset with the nursery children, and when [Frances](/person/1604)goes home she is to go to Dorking by herself. One of [Mr Bowles](/person/184)’s sisters is coming to take care of him and the house Helen is here now, at least [Mrs Bateman](/person/784)has got her for a day or two, as she can walk over from the Grange as well as from here. She is at the Vicarage now, and is to take [Cicely](/person/183) and [Margaret](/person/185) to Winchester to be measured for their winter cloaks.
+[Reggie](/person/189) and Cicely are quite old children coming up the village and going to church by themselves, so only Joan is quite a nursery child. We had [Mr Horsley](/person/2201) to speak on thrift to the GFS conference, and he enlarged on the waste of money in sweets. A girl came to him begging for her mother and he found she consumed 7/6 a week of sweets! Somebody ought to protest against those horrid scraps of paper that are supposed to be confetti or rice at the poor people’s weddings. Henry has forbidden them in the Church yard, but they were thickly strewn outside and the little girl bridesmaid came to school on Sunday in white shoes - I trust they will soon get spoilt, but the first thing I heard this morning was ‘The poor dahlias’
 your affectionate
 
 C M Yonge

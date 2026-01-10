@@ -1,7 +1,7 @@
 ---
 id: 3353
 title: To the Hon. Mrs Warburton
-date: '1897-01-01'
+iso-date: '1897-01-01'
 display-date: '[1897]'
 from-name: Charlotte Mary Yonge
 to-name: To the Hon. Mrs Warburton
@@ -11,6 +11,3 @@ manuscript-location: MS Princeton University, Parrish Collection
 My mind misgives me that I did not say that I hope to come to luncheon on Wednesday
 
 C M Yonge
-
-
-[^1]: Postcard addressed to [The Honble/ Mrs Warburton](/person/1465)/ The Close/ Winchester.

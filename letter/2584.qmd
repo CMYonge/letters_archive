@@ -1,7 +1,7 @@
 ---
 id: 2584
 title: To Blanche Catherine Medhurst
-date: '1877-06-05'
+iso-date: '1877-06-05'
 display-date: June 5th 1877
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -12,7 +12,6 @@ manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
 My dear [Miss Medhurst](/person/988)
 It is ungrateful not to have thanked you sooner but your letter came while I was from home and I have since been working through the accumulation of things that had arisen on me
 What a good photograph yours is. I am sure they are much improved since there was only a little face on the top of a great crinoline. I am afraid the Infirmaries in many places - as well as her own friends will long miss [Miss Mackenzie](/person/930).
-
 Thank you for all your kindness to [Emmeline](/person/1358).[^1] [Her brother](/person/2287) brought his pretty [little boy](/person/2311) here for Whitsuntide and I suppose she will appear some time in the summer for her holiday and then I shall hear of you.
 I am afraid I must return your verses as they do not quite approve themselves to me
 

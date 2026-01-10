@@ -1,7 +1,7 @@
 ---
 id: 2083
 title: To Alexander Macmillan
-date: '1865-12-06'
+iso-date: '1865-12-06'
 display-date: Decr 6th 1865
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,14 +10,8 @@ manuscript-location: 'MS British Library Add MSS 54920: 119-20'
 ---
 
 Dear [Mr Macmillan](/person/939)
-Will you direct this on if you know the address - if not perhaps [Mr Williams](/person/1964) would kindly do so. [M.
-
-Pichot](/person/1172)[^1] wrote to ask my sanction for translation of the Dove, and I answered that I had already given permission to [Mlle Souvestre](/person/1354).
-
-But the next thing I heard was that Mlle Souvestre had given it up for want of time so that I must write to him again, and I had made away with his letter.
-
+Will you direct this on if you know the address - if not perhaps [Mr Williams](/person/1964) would kindly do so. [M. Pichot](/person/1172)[^1] wrote to ask my sanction for translation of the Dove, and I answered that I had already given permission to [Mlle Souvestre](/person/1354). But the next thing I heard was that Mlle Souvestre had given it up for want of time so that I must write to him again, and I had made away with his letter.
 Messrs [Spottiswood](/organisation/183) have sent to me for the preface to [the Prince & Page](/book/61). I think I enclosed it to you about a month ago, but if you do not find it ready to hand, I can easily write another.
-
 The book is smaller than I thought it would have turned out, and must I suppose be less costly than the [Little Duke](/book/20).
 
 Yours sincerely
@@ -25,6 +19,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Amédée Pichot (1795-1877) was a prolific translator; his work included La Colombe dans le nid de l’aigle (Paris: 1867).
-
-It seems CMY proposed to get in touch with him through [Williams and Norgate](/organisation/165).
+[^1]: Amédée Pichot (1795-1877) was a prolific translator; his work included La Colombe dans le nid de l’aigle (Paris: 1867). It seems CMY proposed to get in touch with him through [Williams and Norgate](/organisation/165).

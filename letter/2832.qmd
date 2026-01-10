@@ -1,7 +1,7 @@
 ---
 id: 2832
 title: To Mary Elizabeth (Wormeley) Latimer
-date: '1886-06-01'
+iso-date: '1886-06-01'
 display-date: June 1st [1886?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -12,22 +12,12 @@ manuscript-location: 'MS Historical Society of Pennsylvania: Gratz Collection: C
 
 My dear [Mrs Latimer](/person/846)
 Thank you very much for your pleasant Shakespeare book.
-I have read the first three divisions of it and enjoyed it once [?].
-
-You should suggest to your audience the series of Shakespeare Tableaux, which I once saw.
-
-They were got up by Lady [Laura Ridding](/person/1238) wife to the [bishop of Southwell](/person/1237), who was then headmaster of Winchester college.[^3] She assigned one play to each of a set of different families and each group was exhibited three times with a little advance in the action.
-
-The best of all was the unveiling of Hermione, whose drapery was wonderfully made of a linen sheet most statue like and with an exceedingly finely face Paulina to unveil her.
-
-Then Juliet on her tomb was very good.
+I have read the first three divisions of it and enjoyed it once [?]. You should suggest to your audience the series of Shakespeare Tableaux, which I once saw. They were got up by Lady [Laura Ridding](/person/1238) wife to the [bishop of Southwell](/person/1237), who was then headmaster of Winchester college.[^3] She assigned one play to each of a set of different families and each group was exhibited three times with a little advance in the action. The best of all was the unveiling of Hermione, whose drapery was wonderfully made of a linen sheet most statue like and with an exceedingly finely face Paulina to unveil her. Then Juliet on her tomb was very good.
 
 Yours sincerely
 
 C M Yonge
-By the by (in a second edition) it could not have been Drayton’s Polyolbion that coincided with Shakespeare as to fairies for that is about the Rivers of England, but you must mean his Nymphidia, a very funny fairy poem where Oberon, whose queen is Mab, and not Titania, is jealous of her flirtation with Pigwiggin a fairy knight.
-
-When they are going to fight, Pigwiggin
+By the by (in a second edition) it could not have been Drayton’s Polyolbion that coincided with Shakespeare as to fairies for that is about the Rivers of England, but you must mean his Nymphidia, a very funny fairy poem where Oberon, whose queen is Mab, and not Titania, is jealous of her flirtation with Pigwiggin a fairy knight. When they are going to fight, Pigwiggin
 puts him on a coat of mail
 Which was of a fish’s scale
 That when his foe should him assail
@@ -36,12 +26,7 @@ His rapier was a hornet’s sting
 It was a very dangerous thing
 For if it chanced to hurt the king
 It would be long in healing.
-
-Drayton was not born till 1563, and I am much inclined to think that unless both went to folk lore, he was the borrower.
-
-They were exact contemporaries a year between them
+Drayton was not born till 1563, and I am much inclined to think that unless both went to folk lore, he was the borrower. They were exact contemporaries a year between them
 
 
-[^1]: 
-[^2]: Elizabeth Wormeley Latimer, Familiar talks on some of Shakespeare\'s Comedies (Boston: Roberts 1886).
 [^3]: The Rev George Ridding (1828-1904), became bishop of Southwell in 1884; he had married (1876), as his second wife, Lady Laura Palmer (1849-1939).

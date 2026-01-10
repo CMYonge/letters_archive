@@ -1,7 +1,7 @@
 ---
 id: 3198
 title: To Francis Turner Palgrave
-date: '1892-06-11'
+iso-date: '1892-06-11'
 display-date: June 11th 1892
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -11,14 +11,11 @@ manuscript-location: 'MS UCLA: collection 100: box 95'
 
 Dear Mr Palgrave
 Thank you much for the little book—I am very glad of the testimony to its popularity.[^2]
-I suppose your change was in doubt whether the Bothwell affair was Anteros, as no lover at all; and that on that subject you have changed your mind. I think I incline to the belief that the Casket letters were old ones to Darnley garbled for Elizabeth’s benefit.
-
-Have you seen the fragment at Hatfield?
+I suppose your change was in doubt whether the Bothwell affair was Anteros, as no lover at all; and that on that subject you have changed your mind. I think I incline to the belief that the Casket letters were old ones to Darnley garbled for Elizabeth’s benefit. Have you seen the fragment at Hatfield?
 
 Yours sincerely
 
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: We have not identified the book, nor the place in which Palgrave had written about the Casket Letters of Mary Queen of Scots.

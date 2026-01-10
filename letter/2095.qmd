@@ -1,7 +1,7 @@
 ---
 id: 2095
 title: To Alexander Macmillan
-date: '1866-01-02'
+iso-date: '1866-01-02'
 display-date: Jan 2nd [1866]
 from-name: Charlotte Mary Yonge
 to-name: To Alexander Macmillan
@@ -10,12 +10,8 @@ manuscript-location: 'MS British Library Add MSS 54920: 130-1'
 
 Dear [Mr Macmillan](/person/939)
 I think I was to have 6 copies of the [Prince and Page](/book/61) sent to myself - also in the same parcel one of the [Heir of Redclyffe](/book/15). I have seen nothing of them so perhaps they have been forgotten or come to some mischance by the way.
-
 With all new years greetings
 
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: Endorsed ‘Rail January 3rd’.

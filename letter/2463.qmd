@@ -1,7 +1,7 @@
 ---
 id: 2463
 title: To George Richmond
-date: '1872-12-02'
+iso-date: '1872-12-02'
 display-date: Decr 2nd [1872]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,9 +10,7 @@ manuscript-location: MS Royal Academy GRI/3/465
 ---
 
 Dear [Mr Richmond](/person/1731)
-Could you and would you do me a great kindness?
-
-The charge of writing my cousin [Bishop Patteson](/person/1155)’s [life](/book/102) has been given to me and I feel that a personal description of him as he was when he left England is much wanted. I do not recollect his appearance distinctly enough to judge between hearsays and it would be a great boon if you could set down for me what you remember of his looks at the time you took the portrait that his sisters have and which is to be engraved. I hope this is not a very presumptuous entreaty or one that will give you much trouble.
+Could you and would you do me a great kindness? The charge of writing my cousin [Bishop Patteson](/person/1155)’s [life](/book/102) has been given to me and I feel that a personal description of him as he was when he left England is much wanted. I do not recollect his appearance distinctly enough to judge between hearsays and it would be a great boon if you could set down for me what you remember of his looks at the time you took the portrait that his sisters have and which is to be engraved. I hope this is not a very presumptuous entreaty or one that will give you much trouble.
 
 yours sincerely
 

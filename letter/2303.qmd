@@ -1,7 +1,7 @@
 ---
 id: 2303
 title: To Frederick James Furnivall
-date: '1869-02-21'
+iso-date: '1869-02-21'
 display-date: Febry 21st [1869]
 from-name: Charlotte Mary Yonge
 to-name: To Frederick James Furnivall
@@ -10,9 +10,7 @@ manuscript-location: 'MS Huntington Library: Letters to Frederick James Furnival
 ---
 
 Dear [Mr Furnivall](/person/531),
-Thank you for the English Text. I do not think I can have had the hymns to the Virgin.
-
-The last I had bears the date 1866, and is a collection of poems on love, religion and politics, beginning with 'Twelve words &c-' [^2] What a wonderful store you have there!
+Thank you for the English Text. I do not think I can have had the hymns to the Virgin. The last I had bears the date 1866, and is a collection of poems on love, religion and politics, beginning with 'Twelve words &c-' [^2] What a wonderful store you have there!
 
 Yours sincerely
 
@@ -20,11 +18,4 @@ C M Yonge
 Our Otterbourn is in Domesday, but I don’t know how spelt[.] Ottery St Mary always appears in early times as Shotrey
 
 
-[^1]: Black-edged paper.
-
-Small black-edged envelope with black fuchsia-like flowering plant on flap, addressed F J Furnivall Esq/ 3 Old Square/ Lincolns Inn/ London WC.
-[^2]: Hymns to the Virgin & Christ, The parliament of devils, and Other Religious Poems, Chiefly from the Archbishop of Canterbury’s Lambeth MS. no. 853 ed. F. J.
-
-Furnivall (London, Early English Text Society 1867-8) and Political, religious, and love poems from the Archbishop of Canterbury’s Lambeth MS. no. 306, and other sources ; with a fragment of the romance of Peare of Provence and the fair Maguelone ; and a sketch, with the prolog and epilog, of the romance of The Knight Amoryus and the Lady Cleopes by John Metham, scholar of Cambridge, A.D. 1448-9 ed. F. J.
-
-Furnivall (London, Early English Texts Society 1866).
+[^2]: Hymns to the Virgin & Christ, The parliament of devils, and Other Religious Poems, Chiefly from the Archbishop of Canterbury’s Lambeth MS. no. 853 ed. F. J. Furnivall (London, Early English Text Society 1867-8) and Political, religious, and love poems from the Archbishop of Canterbury’s Lambeth MS. no. 306, and other sources ; with a fragment of the romance of Peare of Provence and the fair Maguelone ; and a sketch, with the prolog and epilog, of the romance of The Knight Amoryus and the Lady Cleopes by John Metham, scholar of Cambridge, A.D. 1448-9 ed. F. J. Furnivall (London, Early English Texts Society 1866).

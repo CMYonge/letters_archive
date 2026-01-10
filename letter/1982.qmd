@@ -1,7 +1,7 @@
 ---
 id: 1982
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1864-10-04'
+iso-date: '1864-10-04'
 display-date: Oct 4 1864
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -10,16 +10,6 @@ manuscript-location: 'Copy outletter book British Library Add MSS. 55383 (1): P.
 
 My dear Miss Yonge	
 [I](/person/939) will confess to being about as much in doubt of what can be, or ought to be done with the [Americans](/topic/172) as it is possible for a man to be. I have got for [Mr Kingsley](/person/816) £50 to £75, but since the war we have not got a penny for anything.
-
-If the [Living Age](/periodical/171) will give you anything for advanced sheets I certainly would be inclined to take it. [Appletons](/organisation/142) are not from all I have heard a liberal, or a scrupulous house. I don’t see however that that is their meaning.
-
-They seem to want the prestige of early sheets, and give you a promise to “endeavour” [next sentence illegible] what basis for negotiation is possible here?
-
-The only answer I can see to their note is that if they will send £25, you will send them early sheets.
-
-If you don’t do this I would simply do nothing, which perhaps is the simplest & best course.
-
-Appleton have according to usage in America, a prescriptive right in your books.
-
-The Living Age speaks truth when they say that there is no sort of property in America for English authors any more than there is for American authors in England.
+If the [Living Age](/periodical/171) will give you anything for advanced sheets I certainly would be inclined to take it. [Appletons](/organisation/142) are not from all I have heard a liberal, or a scrupulous house. I don’t see however that that is their meaning. They seem to want the prestige of early sheets, and give you a promise to “endeavour” [next sentence illegible] what basis for negotiation is possible here?
+The only answer I can see to their note is that if they will send £25, you will send them early sheets. If you don’t do this I would simply do nothing, which perhaps is the simplest & best course. Appleton have according to usage in America, a prescriptive right in your books. The Living Age speaks truth when they say that there is no sort of property in America for English authors any more than there is for American authors in England.
 [The rest of this letter is illegible]

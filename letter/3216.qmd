@@ -1,39 +1,23 @@
 ---
 id: 3216
 title: To Lady Frederick Bruce
-date: '1893-02-27'
+iso-date: '1893-02-27'
 display-date: February 27 [1893]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester
 to-name: To Lady Frederick Bruce
-manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:40]Life]</i> 327
+manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  327
 ---
 
 My dear [Lady Frederick](/person/215)
-I am afraid I cannot give you more than a week, and that the 6th must be the last possible day. I believe I am going to look over the MSS. with [Mrs.
-
-Sumner](/person/1381) and send them off on the 1st, but we can add your report at the end. I hope you are really recovered from the influenza.
-
-People are having it at Winchester, but rather slightly.[^1]
-I always thought vaguely that the Mays lived somewhere between Malvern and Wales, but I was called to account for having put crayfish into their rivers. I am always a little afraid of specifically localising unless I know a place intimately.
-
-Nor am I sure where Bexley was (did I say Swindon for the junction[?]). I meant the watering-place to be on the Dorset or Devon coast, and Rock Quay had Torquay in its eye. I am sorry to say my coadjutors think it will not do to return thither in the [Packet.](/periodical/52)[^3] There are not enough kind old friends like you to make the publishers approve.
-
-So when I have time I must finish it singly, but I am hurrying up a National Society story, and I want to do a mother's meeting set of readings on the services of the Sundays of the year.[^4] Mrs.
-
-Sumner's energies are going into the school-boy education subject.
+I am afraid I cannot give you more than a week, and that the 6th must be the last possible day. I believe I am going to look over the MSS. with [Mrs. Sumner](/person/1381) and send them off on the 1st, but we can add your report at the end. I hope you are really recovered from the influenza. People are having it at Winchester, but rather slightly.[^1]
+I always thought vaguely that the Mays lived somewhere between Malvern and Wales, but I was called to account for having put crayfish into their rivers. I am always a little afraid of specifically localising unless I know a place intimately. Nor am I sure where Bexley was (did I say Swindon for the junction[?]). I meant the watering-place to be on the Dorset or Devon coast, and Rock Quay had Torquay in its eye. I am sorry to say my coadjutors think it will not do to return thither in the [Packet.](/periodical/52)[^3] There are not enough kind old friends like you to make the publishers approve. So when I have time I must finish it singly, but I am hurrying up a National Society story, and I want to do a mother's meeting set of readings on the services of the Sundays of the year.[^4] Mrs. Sumner's energies are going into the school-boy education subject.
 
 Yours sincerely
-C. M.
-
-Yonge
+C. M. Yonge
 
 
 [^1]: Evidently Margaret Bruce was due to submit a report to [Mothers in Council](/periodical/82)
-[^2]: The May family appear in [The Daisy Chain](/book/24) and its sequels; Bexley is the setting of [The Pillars of the House](/book/109) and its sequels.
-
-Rock Quay is resorted to by many of CMY\'s characters and is the setting of [Beechcroft at Rockstone](/book/201).
-[^3]: The sense of this is that [Christabel Coleridge](/person/329) and [A.D.
-
-Innes](/person/744), now editing MP, will not allow her space in it to serialize [The Long Vacation](/book/237) (London: Macmillan 1895).
+[^3]: The sense of this is that [Christabel Coleridge](/person/329) and [A.D. Innes](/person/744), now editing MP, will not allow her space in it to serialize [The Long Vacation](/book/237) (London: Macmillan 1895).
 [^4]: The books referred to here are [The Treasures in the Marshes](/book/227) (London: National Society 1893) and [Chimes for the Mothers](/book/232) (London: Wells, Gardner 1893).

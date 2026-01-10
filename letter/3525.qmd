@@ -1,7 +1,7 @@
 ---
 id: 3525
 title: To Elizabeth Missing Sewell
-date: '1853-01-01'
+iso-date: '1853-01-01'
 display-date: Easter Eve [<i>c</i>. 1853-1862]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
@@ -11,27 +11,13 @@ manuscript-location: MS Princeton University, Parrish Collection
 
 My dear [Miss Sewell](/person/1301),
 You will think that this is to announce the Simeons but there is no news of them all this time, and the hyacinths are blowing for them in vain in their bay window at Winchester.[^1]
-My present purpose is to pass on to you a question which a correspondent of mine - a clergyman’s wife in Cornwall[^2] - has sent me on the principle of a delusion of which I have known other instances, that authoresses must know of governesses.
-
-It will save time, of which I have little today if I send you the letter.
-
-It seems to me exactly the situation that sometimes one longs to hear of, but the ‘hour and the man’ seldom fit.
-
-The letter adds that the lady should be neither governess nor duenna but about 5 or 10 years the senior of the damsel who is about 20, and very silent.
-
-If you do not know of any thing likely to suit, pray burn the letter and do not trouble yourself with answering it would be too bad to take up your time for nothing.
-
-The Miss Yards are very well, [Miss Adelaide](/person/1577) I think stronger than usual.[^3] I am glad to hear from [Mr Wither](/person/1544) that he hopes soon to see Mr [Edwards Sewell](/person/1304) here
+My present purpose is to pass on to you a question which a correspondent of mine - a clergyman’s wife in Cornwall[^2] - has sent me on the principle of a delusion of which I have known other instances, that authoresses must know of governesses. It will save time, of which I have little today if I send you the letter. It seems to me exactly the situation that sometimes one longs to hear of, but the ‘hour and the man’ seldom fit. The letter adds that the lady should be neither governess nor duenna but about 5 or 10 years the senior of the damsel who is about 20, and very silent. If you do not know of any thing likely to suit, pray burn the letter and do not trouble yourself with answering it would be too bad to take up your time for nothing. The Miss Yards are very well, [Miss Adelaide](/person/1577) I think stronger than usual.[^3] I am glad to hear from [Mr Wither](/person/1544) that he hopes soon to see Mr [Edwards Sewell](/person/1304) here
 
 Yours sincerely
 
 C M Yonge
 
 
-[^1]: Perhaps Captain [Charles Simeon](/person/1322) (1816-1867) and his wife Sarah Jane Williams (d. 1903) who married in 1842, lived at Hursley and had 6 sons and 7 daughters.
-
-He was born on the Isle of Wight., where Sewell lived.
-
-This letter dates before the move to Elderfield in March 1863.
+[^1]: Perhaps Captain [Charles Simeon](/person/1322) (1816-1867) and his wife Sarah Jane Williams (d. 1903) who married in 1842, lived at Hursley and had 6 sons and 7 daughters. He was born on the Isle of Wight., where Sewell lived. This letter dates before the move to Elderfield in March 1863.
 [^2]: Perhaps [Charlotte Champion Pascoe](/person/1146).
 [^3]: Adelaide and [Eliza](/person/1578) Yard came to live in Otterbourne in 1848 and then in the 1860s moved to Winchester, where Elizabeth Sewell stayed with them in 1864.

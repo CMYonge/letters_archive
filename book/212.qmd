@@ -2,15 +2,11 @@
 id: 212
 title: Warne’s Star of Hope series. Edited by the author of “The Heir of Redclyffe
   “.
-author: Charlotte Mary Yonge
-date: n.d.
+author-name: Charlotte Mary Yonge
+publication-date: n.d.
 genre: Edited fiction (by others)
 publication-format: Edited booklet series
 publisher: 'London: Frederick Warne and Co., Bedford Street, Covent Garden.'
 ---
 
-This series includes Mary and Norah, or, Queen Katherine’s School; Willie’s trouble, and How He Came Out of it; New Friends, or, St Cadog’s Well; King Tolv’s Bride; Thomas Green’s Adventure, or, A Young Quixote; and Alice, or, The Little Sentinel.
-
-See also Warne’s Victoria Tales and Stories, for another group of texts sometimes erroneously attributed to CMY.
-
-The Virtue of Patience, Esther Stanhope and Lost on the Line appear in both series.
+This series includes Mary and Norah, or, Queen Katherine’s School; Willie’s trouble, and How He Came Out of it; New Friends, or, St Cadog’s Well; King Tolv’s Bride; Thomas Green’s Adventure, or, A Young Quixote; and Alice, or, The Little Sentinel. See also Warne’s Victoria Tales and Stories, for another group of texts sometimes erroneously attributed to CMY. The Virtue of Patience, Esther Stanhope and Lost on the Line appear in both series.

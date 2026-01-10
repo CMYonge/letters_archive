@@ -1,8 +1,8 @@
 ---
 id: 19
 title: Heartsease, or, The Brother’s Wife. 2 vols. By the author of “The Heir of Redclyffe.”
-author: Charlotte Mary Yonge
-date: '1854'
+author-name: Charlotte Mary Yonge
+publication-date: '1854'
 genre: Fiction (modern)
 publication-format: Book
 publisher: John W Parker and Son West Strand, London.

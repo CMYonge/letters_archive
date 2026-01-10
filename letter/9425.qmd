@@ -1,32 +1,18 @@
 ---
 id: 9425
 title: To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>
-date: '1890-03-01'
+iso-date: '1890-03-01'
 display-date: '[March 1890]'
 from-name: Charlotte Mary Yonge
 to-name: To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>
 manuscript-location: MS location unknown. Printed in the <i>[[other:72]Girls’ Friendly
-  Society Associates’ Journal and Advertiser]</i>  (March 1890) 42.
+  Society Associates’ Journal and Advertiser]</i> (March 1890) 42.
 ---
 
 THE ADVERTISEMENTS IN OUR MAGAZINES
 
 Dear Madam,-
-I rejoiced at the demonstration against the advertisements inserted on loose sheets in our Magazines, as I have a strong aversion to them. I do not entirely share your correspondents’ condemnation of obtaining money by advertising on the wrapper.
-
-It seems to me a lawful means, and the rational use of advertisements is expedient.
-
-But a line should be drawn in the choice, especially as [Members](/organisation/23) may fancy that what is advertised is recommended, and I strongly protest against the advertisement of patent medicines.
-
-Even if they are safe to deal with girls had much better not doctor themselves, nor are the details desirable.
-
-Yet such cover all one page of the wrapper of [Friendly Leaves](/periodical/71) in nauseous repetition, and there are two still more unpleasant outside [Friendly Work](/periodical/182) this month.
-
-What a pity not to give us useful advertisements of books, &c.
-
-They may not pay so well, but surely a loss would be better than ministering to the dangerous passion for patent medicines. A series of papers in the [Saturday Review](/periodical/99) some years ago showed how perilous is the habit of recurring to them without medical advice.
+I rejoiced at the demonstration against the advertisements inserted on loose sheets in our Magazines, as I have a strong aversion to them. I do not entirely share your correspondents’ condemnation of obtaining money by advertising on the wrapper. It seems to me a lawful means, and the rational use of advertisements is expedient. But a line should be drawn in the choice, especially as [Members](/organisation/23) may fancy that what is advertised is recommended, and I strongly protest against the advertisement of patent medicines. Even if they are safe to deal with girls had much better not doctor themselves, nor are the details desirable. Yet such cover all one page of the wrapper of [Friendly Leaves](/periodical/71) in nauseous repetition, and there are two still more unpleasant outside [Friendly Work](/periodical/182) this month. What a pity not to give us useful advertisements of books, &c. They may not pay so well, but surely a loss would be better than ministering to the dangerous passion for patent medicines. A series of papers in the [Saturday Review](/periodical/99) some years ago showed how perilous is the habit of recurring to them without medical advice.
 
 I remain, &c.,
-C. M.
-
-Yonge.
+C. M. Yonge.

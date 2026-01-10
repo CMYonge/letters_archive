@@ -1,8 +1,8 @@
 ---
 id: 3585
 title: To Gertrude Mary Ireland Blackburne
-date: '1897-09-24'
-display-date: Sept 24th [1897 or later?[[footnote:1]]]
+iso-date: '1897-09-24'
+display-date: Sept 24th [1897 or later?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
 to-name: To Gertrude Mary Ireland Blackburne
@@ -17,7 +17,4 @@ yours sincerely
 C M Yonge
 
 
-[^1]: The implication is probably that Blackburne will be able to insert the appeal in The Churchwoman which she edited from 1897, but she might have been working on it earlier.
-[^2]: Probably Colonel William Henry Ashe A’Court, 2nd Lord Heytesbury, whose daughter the Hon.
-
-Margaret A’Court (1855-1933) sent subscriptions to The Net and may have joined the Wantage sisterhood.
+[^2]: Probably Colonel William Henry Ashe A’Court, 2nd Lord Heytesbury, whose daughter the Hon. Margaret A’Court (1855-1933) sent subscriptions to The Net and may have joined the Wantage sisterhood.

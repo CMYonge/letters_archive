@@ -1,15 +1,11 @@
 ---
 id: 280
 title: \'Conversation on Books, A\'
-author: Charlotte Mary Yonge
-date: 1881-1890
+author-name: Charlotte Mary Yonge
+publication-date: 1881-1890
 genre: Non-fiction, literary criticism
 publication-format: Articles in Journal
 publisher: MP
 ---
 
-This series of articles, consisting of a conversation about recent publications, ran frequently from January 1881 to June 1890.
-
-By no means all the articles were written by CMY, for some are signed by others.
-
-However, many are attributed to the Editor, and others include \'Arachne\' a character she assumed in dealings with the Spiders and who voices her opinions.
+This series of articles, consisting of a conversation about recent publications, ran frequently from January 1881 to June 1890. By no means all the articles were written by CMY, for some are signed by others. However, many are attributed to the Editor, and others include \'Arachne\' a character she assumed in dealings with the Spiders and who voices her opinions.

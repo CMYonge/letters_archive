@@ -1,7 +1,7 @@
 ---
 id: 3392
 title: To the Reverend John Frederick Watkinson Bullock
-date: '1899-01-02'
+iso-date: '1899-01-02'
 display-date: Jan 2 1899
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester

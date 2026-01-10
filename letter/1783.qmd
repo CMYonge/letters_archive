@@ -1,7 +1,7 @@
 ---
 id: 1783
 title: To John William Parker, Jr.
-date: '1860-03-08'
+iso-date: '1860-03-08'
 display-date: March 8th 1860
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne,Winchester.

@@ -2,8 +2,8 @@
 id: 173
 title: 'Spring Buds: Counsels for the Young. Translated and abridged from the French,
   by E. L. E. B. With a preface by Charlotte M. Yonge.'
-author: Charlotte Mary Yonge
-date: '1883'
+author-name: Charlotte Mary Yonge
+publication-date: '1883'
 genre: 'Non-fiction: advice book (by another)'
 publication-format: Preface to book
 publisher: 'London: J. Masters & Co., 78, New Bond Street'

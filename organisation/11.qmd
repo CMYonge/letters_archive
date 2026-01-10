@@ -5,8 +5,4 @@ name: Sackville College
 title: Sackville College
 ---
 
-This is an almshouse in East Grinstead, founded in 1609, of which the Rev.
-
-Dr.
-
-John Mason Neale was Warden.
+This is an almshouse in East Grinstead, founded in 1609, of which the Rev. Dr. John Mason Neale was Warden.

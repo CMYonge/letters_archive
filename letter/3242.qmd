@@ -1,7 +1,7 @@
 ---
 id: 3242
 title: To the Reverend John Frederick Watkinson Bullock
-date: '1894-01-12'
+iso-date: '1894-01-12'
 display-date: Jan 12th 1894
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -11,18 +11,11 @@ manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e.174 ff1
 
 Dear [Mr Bullock](/person/221),	
 As I could not think of anything specially about the ancient Breton Church, I looked at Sauvestre’s Derniers Bretons, and I thought the endurance of St Machutus’ teaching deserved to come in.[^2]
-Sauvestre gives various French prose translations of the popular hymns.
-
-Those on Paradise and one Christmas ‘Noël’ are very beautiful, but there was only space for the rag picker
+Sauvestre gives various French prose translations of the popular hymns. Those on Paradise and one Christmas ‘Noël’ are very beautiful, but there was only space for the rag picker
 
 Yours truly
 
 C M Yonge
 
 
-[^1]: Black-edged paper.
-[^2]: St.
-
-Machutus or S.
-
-Malo (c.520- c. 620).
+[^2]: St. Machutus or S. Malo (c.520- c. 620).

@@ -1,7 +1,7 @@
 ---
 id: 3118
 title: To Marianne Bigg Wither
-date: '1858-08-27'
+iso-date: '1858-08-27'
 display-date: Aug 27th 1858
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -17,5 +17,4 @@ C M Yonge
 I ought to have thanked for the book long ago only I waited for Teneriffe.
 
 
-[^1]: ‘Miss M B Wither’ is written on the back, and a strip of white paper pasted over fold covers some words/letters on first page.
 [^2]: Charles Piazzi Smith, Tenerife, An Astronomer\'s Experiment, or, Specialities of a Residence Above the Clouds (London, Reeve 1858).

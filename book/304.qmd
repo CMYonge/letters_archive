@@ -2,8 +2,8 @@
 id: 304
 title: “The difficulty of obtaining places for our younger members. By Miss Yonge.”
   The Girls’ Friendly Society. Sixth Winchester Diocesan Meeting.
-author: Charlotte Mary Yonge
-date: '1882'
+author-name: Charlotte Mary Yonge
+publication-date: '1882'
 genre: Non-fiction
 publication-format: paper in conference proceedings
 publisher: 'Winchester: Warren & Son. October 1882: 29-31'

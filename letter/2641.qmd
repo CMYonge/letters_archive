@@ -1,37 +1,21 @@
 ---
 id: 2641
 title: To Elizabeth Barnett
-date: '1878-09-22'
+iso-date: '1878-09-22'
 display-date: September 22, 1878
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester
 to-name: To Elizabeth Barnett
-manuscript-location: MS location unknown.  Printed in Coleridge, [[otherbook:40]<i>Life</i>]
+manuscript-location: MS location unknown. Printed in Coleridge, [[otherbook:40]<i>Life</i>]
   308-9
 ---
 
 My dear [Lizzie](/person/113)
-[Beatrice Morshead](/person/31) wrote to me on Saturday, so that I had her letter at the same time as yours. I had heard from [Miss Bourne](/person/1379) the day before this change.[^1] Beatrice's letter seemed as if there was a little more revival, and it seems now to be possible that there may be more vitality even now than we thought.
-
-But one cannot wish for aught but rest.
-
-There was something so sad in the way [she](/person/464) said, after being with her doctor last time I was there, 'I think he was sorry for me.' Yes, she has been one of the great influences of my life (I am sure I have been a 'companion of saints,' whatever I am myself, something I fear much more like 'him who lacks the martyr's heart')[^2] The first time I saw her in the garden at the Nest has been one of the landmarks of my life; and next to [my father](/person/1631) and [Mr.
-
-Keble](/person/798), she turned the course of my mind.
-
-What numbers would say the same of her in different degrees. I think she will bring her sheaves with her.[^3]
+[Beatrice Morshead](/person/31) wrote to me on Saturday, so that I had her letter at the same time as yours. I had heard from [Miss Bourne](/person/1379) the day before this change.[^1] Beatrice's letter seemed as if there was a little more revival, and it seems now to be possible that there may be more vitality even now than we thought. But one cannot wish for aught but rest. There was something so sad in the way [she](/person/464) said, after being with her doctor last time I was there, 'I think he was sorry for me.' Yes, she has been one of the great influences of my life (I am sure I have been a 'companion of saints,' whatever I am myself, something I fear much more like 'him who lacks the martyr's heart')[^2] The first time I saw her in the garden at the Nest has been one of the landmarks of my life; and next to [my father](/person/1631) and [Mr. Keble](/person/798), she turned the course of my mind. What numbers would say the same of her in different degrees. I think she will bring her sheaves with her.[^3]
 Your most affectionate
 C. M. Y.
 
 
-[^1]: Beatrice Anderson Morshead was a cousin of CMY\'s and a former pupil at Mary Anne Dyson\'s school.
-
-Dyson had just died.
-
-Anne Sturges Bourne was Dyson\'s lifelong friend.
-[^2]: John Keble, \'St.
-
-Mark\'s Day\' ll 25-8, from [The Christian Year](/periodical/95): \'Companion of the Saints! \'twas thine /To taste that drop of peace divine,/ When the great soldier of thy Lord/ Call\'d thee to take his last farewell\' ; and \'St.
-
-Luke\' 53-6 ibid. : \'Vainly before the shrine he bends, / Who knows not the true pilgrim\'s part:/The martyr\'s cell no safety lends /To him, who wants the martyr\'s heart.\'
+[^1]: Beatrice Anderson Morshead was a cousin of CMY\'s and a former pupil at Mary Anne Dyson\'s school. Dyson had just died. Anne Sturges Bourne was Dyson\'s lifelong friend.
+[^2]: John Keble, \'St. Mark\'s Day\' ll 25-8, from [The Christian Year](/periodical/95): \'Companion of the Saints! \'twas thine /To taste that drop of peace divine,/ When the great soldier of thy Lord/ Call\'d thee to take his last farewell\' ; and \'St. Luke\' 53-6 ibid. : \'Vainly before the shrine he bends, / Who knows not the true pilgrim\'s part:/The martyr\'s cell no safety lends /To him, who wants the martyr\'s heart.\'
 [^3]: Psalms 126:6. \'He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him.\'

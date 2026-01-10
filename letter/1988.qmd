@@ -1,7 +1,7 @@
 ---
 id: 1988
 title: To Alexander Macmillan
-date: '1864-10-29'
+iso-date: '1864-10-29'
 display-date: Oct 29th [1864]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,9 +11,7 @@ manuscript-location: 'MS UCLA: collection 100: box 95'
 
 Dear [Mr Macmillan](/person/939),
 I am afraid the [Clever Woman](/book/58) cannot come out till March, as [Hogg](/organisation/159) gives me no hope of finishing her before that time—so it would be hardly worth while to begin printing her till the beginning of the year.
-I have sent all the rest of the [Golden Deeds](/book/51) direct to the printers, they will end with [Dr.
-
-Kane.](/person/1915)
+I have sent all the rest of the [Golden Deeds](/book/51) direct to the printers, they will end with [Dr. Kane.](/person/1915)
 
 Yours sincerely
 

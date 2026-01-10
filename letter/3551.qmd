@@ -1,7 +1,7 @@
 ---
 id: 3551
 title: To an Unknown Woman
-date: '1853-02-09'
+iso-date: '1853-02-09'
 display-date: Feb 9th [after 1853]
 from-name: Charlotte Mary Yonge
 to-name: To an Unknown Woman

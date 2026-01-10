@@ -1,7 +1,7 @@
 ---
 id: 1951
 title: From the Right Reverend John Coleridge Patteson to Charlotte Mary Yonge
-date: '1864-04-27'
+iso-date: '1864-04-27'
 display-date: April 27, 1864.
 from-name: Charlotte Mary Yonge
 from-address: St. Andrew’s
@@ -11,38 +11,12 @@ manuscript-location: MS location unknown. Printed in Yonge, <i>[[cmybook:102]Lif
 ---
 
 My dear Cousin,
-[I](/person/1155) returned on the 24th from Australia. I visited the dioceses of Adelaide, Melbourne, Sydney, and Brisbane.
-
-Everywhere I met with great encouragement; and indeed, I thank God that (as I had hoped) the special work of the [Mission](/organisation/30) became the means of exciting unusual interest in the work of the Church generally.
-
-It was a great opportunity, a great privilege in the crowded meetings to tell people face to face their duties, to stand up as the apologist of the despised Australian black, and the Chinese gold-digger, and the Melanesian islander.
-
-All the [Primate](/person/1295) had taught me--what heathenism is, how to deal with it, the simple truisms about the ‘common sin, common redemption,’ the capacity latent in every man, because he is a man, and not a fallen angel nor a brute beast, the many conventional errors on Mission (rather) ministerial work--many, many things I spoke of very fully and frequently. I felt it was a great responsibility.
-
-How strange that I forgot all my nervous dread, and only wished there could be thousands more present, for I knew that I was speaking words of truth, of hope, and love; and God did mercifully bless much that He enabled, me to say, and men’s hearts were struck within them, though, indeed, I made no effort to excite them.
-
-Much may result from it.
-
-We may have a branch school on the S.W. of Curtis Island, on the east coast of Queensland, healthy, watered, wooded, with anchorage, about 25° S. latitude, a fair wind to and from some of the islands; to which place I could rapidly carry away sick persons.
-
-There I could convey two hundred or more scholars, in the same time required to bring sixty to New Zealand; there yams can be grown; there it may be God’s will that a work may be commenced at length among the remnant that is left of the Australian blacks.
-
-The latter consideration is very strongly urged upon me by the united voice of the Australian Churches, by none more strongly than by the [Bishop of Sydney](/person/1906). I dare to hope that the communion of the Australian and New Zealand Churches will be much strengthened by the Mission as a link.
-
-What blessings, what mercies!
-
+[I](/person/1155) returned on the 24th from Australia. I visited the dioceses of Adelaide, Melbourne, Sydney, and Brisbane. Everywhere I met with great encouragement; and indeed, I thank God that (as I had hoped) the special work of the [Mission](/organisation/30) became the means of exciting unusual interest in the work of the Church generally. It was a great opportunity, a great privilege in the crowded meetings to tell people face to face their duties, to stand up as the apologist of the despised Australian black, and the Chinese gold-digger, and the Melanesian islander.
+All the [Primate](/person/1295) had taught me--what heathenism is, how to deal with it, the simple truisms about the ‘common sin, common redemption,’ the capacity latent in every man, because he is a man, and not a fallen angel nor a brute beast, the many conventional errors on Mission (rather) ministerial work--many, many things I spoke of very fully and frequently. I felt it was a great responsibility. How strange that I forgot all my nervous dread, and only wished there could be thousands more present, for I knew that I was speaking words of truth, of hope, and love; and God did mercifully bless much that He enabled, me to say, and men’s hearts were struck within them, though, indeed, I made no effort to excite them.
+Much may result from it. We may have a branch school on the S.W. of Curtis Island, on the east coast of Queensland, healthy, watered, wooded, with anchorage, about 25° S. latitude, a fair wind to and from some of the islands; to which place I could rapidly carry away sick persons.
+There I could convey two hundred or more scholars, in the same time required to bring sixty to New Zealand; there yams can be grown; there it may be God’s will that a work may be commenced at length among the remnant that is left of the Australian blacks. The latter consideration is very strongly urged upon me by the united voice of the Australian Churches, by none more strongly than by the [Bishop of Sydney](/person/1906). I dare to hope that the communion of the Australian and New Zealand Churches will be much strengthened by the Mission as a link. What blessings, what mercies!
 This will not involve an abandonment of [St Andrew’s](/organisation/139), but the work must expand. I think Australia will supply near 1,000 £. a year, perhaps more before long.
-
-To teach me that all is in His hands, we have again had a visitation from dysentery.
-
-It has been very prevalent everywhere, no medical men remember such a season.
-
-We have lost from consumption two, and from dysentery six this year; in fourteen months not less than fourteen: more than in all the other years put together.
-
-Marvellous to relate, all our old baptized and confirmed scholars are spared to us.
-
-Good-bye, and
+To teach me that all is in His hands, we have again had a visitation from dysentery. It has been very prevalent everywhere, no medical men remember such a season. We have lost from consumption two, and from dysentery six this year; in fourteen months not less than fourteen: more than in all the other years put together. Marvellous to relate, all our old baptized and confirmed scholars are spared to us. Good-bye, and
 God ever bless and keep you.
-
 Your affectionate cousin,
 J. C. PATTESON, Bishop.

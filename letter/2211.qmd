@@ -1,7 +1,7 @@
 ---
 id: 2211
 title: To George Lillie Craik
-date: '1867-10-12'
+iso-date: '1867-10-12'
 display-date: Oct 12th 1867
 from-name: Charlotte Mary Yonge
 from-address: Puslinch Yealmpton
@@ -10,20 +10,12 @@ manuscript-location: 'MS British Library Add MSS 54920: 190-191'
 ---
 
 Dear [Mr Craik](/person/379)
-I am very happy to agree to this arrangement and thank you for providing the early sheets.
-
-Is it not however Holland that is concerned and not Denmark?
-I am in a difficulty of my own making. I signed an agreement in the spring with one [Mr Hugo Borges](/person/174) that he should have the early sheets of the [Chaplet of Pearls](/book/69) to translate for a Roman Cronik as he calls it, which he and another German are bringing out in Berlin.
-
-Unluckily, forgetting that the story might begin when I was from home, I left his letter and address behind me locked up, and now I do not know how he is to be reached - unless [Mr Williams](/person/1964) might know the name among the Berlin booksellers.
-
-He was to be in partnership with one [Mr Otto ----](/person/522) whose surname I unhappily cannot remember, but if the Roman cronik has succeeded perhaps you may know its publisher,[^1] in which case I should be glad if you would cause the sheets to be sent, and also let me have the address, as I ought to write and I do not expect to be at home till near the middle of next month
+I am very happy to agree to this arrangement and thank you for providing the early sheets. Is it not however Holland that is concerned and not Denmark?
+I am in a difficulty of my own making. I signed an agreement in the spring with one [Mr Hugo Borges](/person/174) that he should have the early sheets of the [Chaplet of Pearls](/book/69) to translate for a Roman Cronik as he calls it, which he and another German are bringing out in Berlin. Unluckily, forgetting that the story might begin when I was from home, I left his letter and address behind me locked up, and now I do not know how he is to be reached - unless [Mr Williams](/person/1964) might know the name among the Berlin booksellers. He was to be in partnership with one [Mr Otto ----](/person/522) whose surname I unhappily cannot remember, but if the Roman cronik has succeeded perhaps you may know its publisher,[^1] in which case I should be glad if you would cause the sheets to be sent, and also let me have the address, as I ought to write and I do not expect to be at home till near the middle of next month
 Yours faithfully
 
 C M Yonge		
-Sheets should also be sent to [M.
-
-Tauchnitz](/person/1396), and to [Mr Layton](/person/852) [Appletons](/organisation/142) agent.
+Sheets should also be sent to [M. Tauchnitz](/person/1396), and to [Mr Layton](/person/852) [Appletons](/organisation/142) agent.
 
 
 [^1]: The letter is endorsed ‘Roman Magazine & Roman Zeitung publ by Otto Franke probably Borges is the translator’.

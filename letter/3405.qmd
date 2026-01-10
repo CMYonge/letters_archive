@@ -1,7 +1,7 @@
 ---
 id: 3405
 title: To Penelope Anne Laura Packe
-date: '1899-04-18'
+iso-date: '1899-04-18'
 display-date: April 18th 1899
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -18,6 +18,5 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: With envelope addressed to Mrs Packe/Honies House/West Wickham/ Kent and postmarked Winchester 18 April 1899.
-[^2]: The lifelong correspondence, now preserved in Hampshire Record Office, between [Anne Sturges Bourne](/person/1379) (who had brought Penelope Packe up) and [ Mary Anne Dyson](/person/464).
+[^2]: The lifelong correspondence, now preserved in Hampshire Record Office, between [Anne Sturges Bourne](/person/1379) (who had brought Penelope Packe up) and [Mary Anne Dyson](/person/464).
 [^3]: The ‘early times’ are those of the Tractarian revival.

@@ -1,7 +1,7 @@
 ---
 id: 2300
 title: To Mary Anne Dyson
-date: '1869-02-11'
+iso-date: '1869-02-11'
 display-date: February 11, 1869.
 from-name: Charlotte Mary Yonge
 from-address: Rownhams
@@ -11,20 +11,7 @@ manuscript-location: MS location unknown. This fragment printed in Coleridge, <i
 ---
 
 My dear [Marianne](/person/464)-
-Here I am in the heat of the weather, with a copse before my eyes where the "grey blossoms twinkle" more like “a bright veering cloud"[^1] than I ever saw anything do before, but they are the silver buttons on the withies. [Maria](/person/1539) had a talk with Mr.
-
-Siddon, who expressed the most unqualified delighted approval of the [book](/organisation/226),[^3] but in general I think people regret that it is more the history of a friendship than a life, and think there is too much about the [Judge](/person/344) himself.
-
-It is odd to see how the remark comes in from so many quarters, but I think there is a strong Coleridge personality that must show itself in whatever any Coleridge does.
-
-The other regret is that more letters to other people were not given as showing more the breadth and scope of the nature.
+Here I am in the heat of the weather, with a copse before my eyes where the "grey blossoms twinkle" more like “a bright veering cloud"[^1] than I ever saw anything do before, but they are the silver buttons on the withies. [Maria](/person/1539) had a talk with Mr. Siddon, who expressed the most unqualified delighted approval of the [book](/organisation/226),[^3] but in general I think people regret that it is more the history of a friendship than a life, and think there is too much about the [Judge](/person/344) himself. It is odd to see how the remark comes in from so many quarters, but I think there is a strong Coleridge personality that must show itself in whatever any Coleridge does. The other regret is that more letters to other people were not given as showing more the breadth and scope of the nature.
 
 
 [^1]: John Keble, ‘Third Sunday after Easter’ from [The Christian Year](/periodical/95).
-[^2]: CMY was staying with the Rev.
-
-Robert Wilson, Vicar of Rownhams, and his wife Maria, and reading Sir John Taylor Coleridge\'s biography of [Keble](/person/798), which did not give general satisfaction.
-
-Christabel Coleridge transcribes \'Siddon\' but it may be that Mrs Wilson had discussed the book with the [Rev.
-
-Henry Parry Liddon](/person/877).

@@ -1,24 +1,16 @@
 ---
 id: 2424
 title: To Mary Ann Moberly
-date: '1871-11-01'
+iso-date: '1871-11-01'
 display-date: Nov. 1871.
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne,
 to-name: To Mary Ann Moberly
-manuscript-location: MS location unknown.  This fragment printed in [[otherbook:122]<i>Dulce
+manuscript-location: MS location unknown. This fragment printed in [[otherbook:122]<i>Dulce
   Domum</i>], 245.
 ---
 
-[[To Mary Ann Moberly](/person/1019)]I have little hope of a contradiction;[^1] it is the same island where they martyred the two boys before, and no one ever set his face more as a flint to meet whatever might come than [he](/person/1155) did.
-
-Once before it nearly happened.
-
-How one must pray that this blood may be the seed of the Church!
-
-The last I had heard was of a grand, crowning success of ninety-seven baptised at once at [Mota](/place/150). . .
-
-So he has brought his sheaves with him![^2] When I know more you shall hear, but his sisters are abroad; I do not think they ever looked to see his face here . . .
+[[To Mary Ann Moberly](/person/1019)]I have little hope of a contradiction;[^1] it is the same island where they martyred the two boys before, and no one ever set his face more as a flint to meet whatever might come than [he](/person/1155) did. Once before it nearly happened. How one must pray that this blood may be the seed of the Church! The last I had heard was of a grand, crowning success of ninety-seven baptised at once at [Mota](/place/150). . . So he has brought his sheaves with him![^2] When I know more you shall hear, but his sisters are abroad; I do not think they ever looked to see his face here . . .
 
 
 [^1]: The news that Bishop Patteson had been murdered in the Santa Cruz Islands on 20 September 1871 was reported in The Times, 28 November 1871, 9e.

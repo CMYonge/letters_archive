@@ -1,24 +1,21 @@
 ---
 id: 2378
 title: To Ellen Julia Johns
-date: '1870-03-31'
+iso-date: '1870-03-31'
 display-date: March 31 [1870?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
 to-name: To Ellen Julia Johns
-manuscript-location: MS Mitchell Library, State Library of New South Wales.  ML A27
+manuscript-location: MS Mitchell Library, State Library of New South Wales. ML A27
   1-275, Reel CY2846
 ---
 
 My dear [Mrs Johns](/person/772),
-My musical friends are much pleased with Miss Mays’s first song, but would like if possible to review the three together.
-
-Would it be possible to trust me with the other two copies to send to him?[^2] I am so interrupted this afternoon that I must cut short my note
+My musical friends are much pleased with Miss Mays’s first song, but would like if possible to review the three together. Would it be possible to trust me with the other two copies to send to him?[^2] I am so interrupted this afternoon that I must cut short my note
 
 Yours sincerely
 
 C M Yonge
 
 
-[^1]: Two letters are folded together in an envelope addressed to “Mrs Johns, Winton House, Winchester”, and postmarked \'Winchester/D/ DE 5/70.\'
 [^2]: This may be a reference to a song written by Lance Underwood for Gertrude May in [The Pillars of the House](/book/109), or Miss May could have been a real person.

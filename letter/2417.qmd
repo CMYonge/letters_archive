@@ -1,7 +1,7 @@
 ---
 id: 2417
 title: To Mary Penelope Fursdon
-date: '1871-08-29'
+iso-date: '1871-08-29'
 display-date: Aug 29th [1871?]
 from-name: Charlotte Mary Yonge
 to-name: To Mary Penelope Fursdon

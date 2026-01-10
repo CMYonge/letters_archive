@@ -1,8 +1,8 @@
 ---
 id: 3496
 title: To an Unknown Woman
-date: '1875-12-17'
-display-date: Decr 17th [1875][[footnote:1]]
+iso-date: '1875-12-17'
+display-date: Decr 17th [1875]
 from-name: Charlotte Mary Yonge
 from-address: \'Monthly Packet\' 6, Paternoster Row, London, E.C.
 to-name: To an Unknown Woman
@@ -10,9 +10,7 @@ manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
 ---
 
 My dear Madam
-I well remember the warm interest that [Mr Keble](/person/798) took in your poem, indeed one sentence in the notice was his own.
-
-The illustrated edition to which you allude of the [Christian Year](/periodical/95), must I think be either one with some photographs or else one with illuminations both of which were got up with little or no sanction from Mr Keble
+I well remember the warm interest that [Mr Keble](/person/798) took in your poem, indeed one sentence in the notice was his own. The illustrated edition to which you allude of the [Christian Year](/periodical/95), must I think be either one with some photographs or else one with illuminations both of which were got up with little or no sanction from Mr Keble
 [Parker of Oxford](/person/1142) is the only publisher to whom you could apply, but the copyright and the whole authority over the poems now belong to Mr Keble’s nephew - the [Revd T Keble (junior)](/person/799) Bussage, Bisley, Stroud. [Sir John Coleridge](/person/344) has nothing to do with them now.
 I should recommend your waiting till the drawings have been exhibited as then there will be something definite and known to mention, and you will be better able to judge of the impression they make on the general public
 I do not know what other advice to give, but I have always found much difficulty in getting publishers to accept [illustrations](/topic/167) that I care for.
@@ -20,10 +18,3 @@ I do not know what other advice to give, but I have always found much difficulty
 Yours truly
 
 C M Yonge
-
-
-[^1]: The letter can probably be dated between the deaths of Keble’s brother, the Rev.
-
-Thomas Keble (1793-5 September 1875), and of Sir John Taylor Coleridge (1790-11 February 1876).
-
-It is possible though that the elder Thomas Keble was still living when it was written, but the mid-1870s are still the most likely period (Keble had died in March 1866).

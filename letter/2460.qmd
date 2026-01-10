@@ -1,7 +1,7 @@
 ---
 id: 2460
 title: To Messrs Reeves and Turner
-date: '1872-11-07'
+iso-date: '1872-11-07'
 display-date: Novr 7th 1872
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,6 +10,3 @@ manuscript-location: 'MS Yonge Letters: Huntington Library'
 ---
 
 Miss Yonge sends up a parcel of books for which she will be obliged if [Messrs Reeves & Turner](/organisation/239) will send her an order as before
-
-
-[^1]: Perhaps this relates to the sale of review copies?

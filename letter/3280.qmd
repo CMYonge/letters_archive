@@ -1,19 +1,16 @@
 ---
 id: 3280
 title: To the Reverend John Frederick Watkinson Bullock
-date: '1895-01-04'
+iso-date: '1895-01-04'
 display-date: '[4 January 1895]'
 from-name: Charlotte Mary Yonge
 to-name: To the Reverend John Frederick Watkinson Bullock
 manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e.174 ff 158'
 ---
 
-[To the [Rev. J. F. W.
-
-Bullock](/person/221)]wold is the termination[.] Canon Benham’s Diocesan Chronicle calls him Athelwold[^2]
+[To the [Rev. J. F. W. Bullock](/person/221)]wold is the termination[.] Canon Benham’s Diocesan Chronicle calls him Athelwold[^2]
 
 C M Yonge
 
 
-[^1]: Postcard addressed to ‘Revd JFW Bullock/ Radwinter Rectory/ Saffron Walden/ Essex.’ Postmark JA 4/95.
 [^2]: This answer presumably relates to a query posed by Bullock in connection with his Daily Lections, to which CMY was contributing some of the [\'Biographies of Eminent Anglicans\'](/book/358).

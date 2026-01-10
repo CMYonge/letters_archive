@@ -1,8 +1,8 @@
 ---
 id: 354
 title: Buy a Broom
-author: Charlotte Mary Yonge
-date: '1880'
+author-name: Charlotte Mary Yonge
+publication-date: '1880'
 genre: fiction
 publication-format: Book
 publisher: 'Rochester NY: Fitch'

@@ -1,7 +1,7 @@
 ---
 id: 2483
 title: The Reverend Derwent Coleridge to Charlotte Mary Yonge
-date: '1873-11-15'
+iso-date: '1873-11-15'
 display-date: November 15th 1873
 from-name: Charlotte Mary Yonge
 from-address: Hanwell Rectory, Middlesex, W.
@@ -11,28 +11,10 @@ manuscript-location: MS Harry Ransom Humanities Research Center, University of T
 ---
 
 My dear Miss Yonge,
-I have to thank you for your kindness in presenting me with a copy of your [Life of Bishop Patteson](/book/102) which I assure you I regard as no ordinary favour; - with a still deeper feeling, however, for the book itself is a lasting benefit to the Christian world and I trust to the Heathendom yet to be reclaimed.
-
-He being dead still speaketh.
-
-Such an example will do more than much precept, and I doubt not that you account it a privilege to have been made and to have made yourself an instrument in making it more widely and more lastingly known.
-I had some correspondence with him myself as Principal of St Mark’s College in which capacity he thought I might be able I might be able [sic] to recommend to him one or more assistants in his missionary labours. I was able to do something in this way indirectly for the East & West Indies, for Canada and especially for British Guiana, but I was not able to do anything for him.
-
-While expressing my regret I ventured to refer to his unequalled opportunities & rarely equalled faculty for philological acquirement in one most important field of enquiry, in the hope that he might be induced to give a permanent form to the very extensive knowledge which he had obtained for his immediate purpose.
-
-It seemed to me that this might be of such lasting use to missionary enterprise (independently of its interest to scholars) as might more than compensate for the necessary expense of time and effort; and this not only in so much for the languages themselves which unless some one as sure of them should be fixed for missionary objects and the succeeding civilisation appear to be very transient, as for the psycological [sic] principles out of which they have sprung, & are forever springing.
-
-He determined otherwise, and on such a subject who will dispute his judgement: not to mention that pure devotion, such simpleness of purpose, such self-sacrifice, is transcendent, and incomparable, whether in and for itself, or as an agency ,- apparent[?] grace, blessed in itself, and in its offspring.
-I take this opportunity of thanking you most cordially for the kind interest which you have taken in my daughter [Christabel](/person/329), who owes so much to your patronage, advice & friendship.
-
-She is very sensible of the obligation.
-
+I have to thank you for your kindness in presenting me with a copy of your [Life of Bishop Patteson](/book/102) which I assure you I regard as no ordinary favour; - with a still deeper feeling, however, for the book itself is a lasting benefit to the Christian world and I trust to the Heathendom yet to be reclaimed. He being dead still speaketh. Such an example will do more than much precept, and I doubt not that you account it a privilege to have been made and to have made yourself an instrument in making it more widely and more lastingly known.
+I had some correspondence with him myself as Principal of St Mark’s College in which capacity he thought I might be able I might be able [sic] to recommend to him one or more assistants in his missionary labours. I was able to do something in this way indirectly for the East & West Indies, for Canada and especially for British Guiana, but I was not able to do anything for him. While expressing my regret I ventured to refer to his unequalled opportunities & rarely equalled faculty for philological acquirement in one most important field of enquiry, in the hope that he might be induced to give a permanent form to the very extensive knowledge which he had obtained for his immediate purpose. It seemed to me that this might be of such lasting use to missionary enterprise (independently of its interest to scholars) as might more than compensate for the necessary expense of time and effort; and this not only in so much for the languages themselves which unless some one as sure of them should be fixed for missionary objects and the succeeding civilisation appear to be very transient, as for the psycological [sic] principles out of which they have sprung, & are forever springing. He determined otherwise, and on such a subject who will dispute his judgement: not to mention that pure devotion, such simpleness of purpose, such self-sacrifice, is transcendent, and incomparable, whether in and for itself, or as an agency ,- apparent[?] grace, blessed in itself, and in its offspring.
+I take this opportunity of thanking you most cordially for the kind interest which you have taken in my daughter [Christabel](/person/329), who owes so much to your patronage, advice & friendship. She is very sensible of the obligation.
 You will add to the value of your gift, if you would send me an inscription, with your Autograph, which I might hand down with the volumes to those who come after us
 I am my dear Miss Yonge yours very sincerely
 [Derwent Coleridge](/person/1900)
-Miss C. M.
-
-Yonge
-
-
-[^1]: In Derwent Coleridge’s copy outletter book.
+Miss C. M. Yonge

@@ -1,7 +1,7 @@
 ---
 id: 2650
 title: To Miss Thompson
-date: '1878-11-18'
+iso-date: '1878-11-18'
 display-date: Novr 18th 1878
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,13 +11,7 @@ manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
 
 My dear [Miss Thompson](/person/1404)
 
-How kind of you to have supplied the Missing Link in this way!
-
-Almost all the tales in the old ‘Family Stories’ seem to have a French origin judging by the names of the personages so I should think they had the same origin with these wonderful ?Etanges ?Isuander What that origin, is for the curious thing is that they none of them seem to me to belong to the perpetual folk lore stories which are alike all the world over, nor are they in Comtesse d’Aulnoy, but these Epinal pictures are certainly one step backward in the pursuit.
-
-The designs were I should think made before the Revolution.
-
-How delightful they are, and you perceive that the little girl’s dress has entirely changed colour since she was devoured![^1]
+How kind of you to have supplied the Missing Link in this way! Almost all the tales in the old ‘Family Stories’ seem to have a French origin judging by the names of the personages so I should think they had the same origin with these wonderful ?Etanges ?Isuander What that origin, is for the curious thing is that they none of them seem to me to belong to the perpetual folk lore stories which are alike all the world over, nor are they in Comtesse d’Aulnoy, but these Epinal pictures are certainly one step backward in the pursuit. The designs were I should think made before the Revolution. How delightful they are, and you perceive that the little girl’s dress has entirely changed colour since she was devoured![^1]
 
 With many thanks for the pleasant recollection
 
@@ -26,6 +20,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: This letter may have been addressed to [ Edith Thompson](/person/1402); it evidently refers to an illustrated fairy tale book produced by the Imagerie Pellerin at Épinal which operated from the late eighteenth century.
-
-It sounds as if Thompson had been inspired by something CMY had written, perhaps in [Magnum Bonum](/book/131), which was running in MP and contains several references to fairy tales.
+[^1]: This letter may have been addressed to [Edith Thompson](/person/1402); it evidently refers to an illustrated fairy tale book produced by the Imagerie Pellerin at Épinal which operated from the late eighteenth century. It sounds as if Thompson had been inspired by something CMY had written, perhaps in [Magnum Bonum](/book/131), which was running in MP and contains several references to fairy tales.

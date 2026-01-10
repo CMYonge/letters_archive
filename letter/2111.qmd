@@ -1,29 +1,19 @@
 ---
 id: 2111
 title: To Anne Yonge
-date: '1866-03-30'
+iso-date: '1866-03-30'
 display-date: Good Friday [30 March], 1866
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester
 to-name: To Anne Yonge
-manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i> 224
+manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  224
 ---
 
 My dear [Anne](/person/1582)
-As we fully expected, the holy and blessed [spirit](/person/798) went to its rest at one o’clock on Thursday morning; the [other](/person/795) gentle spirit is placidly waiting her call to be with him.[^1] She slept quietly after having given thanks after it was over, but was much overcome on wakening, and this is the last we know of her. I should feel comforted to know the rest had come, which cannot be far off now.
-
-The erysipelas had nearly passed off, and the [Bournemouth doctor](/person/230) ascribes it altogether to the long strain of sorrow upon the weakened frame. I am very thankful for both their sakes, but we feel very desolate.
-
-The funeral is to be on Thursday, and [mamma](/person/1606) has written to offer a bed to the [Peter Young](/person/1636)s, in case they should not have room at the Vicarage. [Mr.
-
-Wither](/person/1544) has a terrible cold, and I dread Sunday for him.
-
+As we fully expected, the holy and blessed [spirit](/person/798) went to its rest at one o’clock on Thursday morning; the [other](/person/795) gentle spirit is placidly waiting her call to be with him.[^1] She slept quietly after having given thanks after it was over, but was much overcome on wakening, and this is the last we know of her. I should feel comforted to know the rest had come, which cannot be far off now. The erysipelas had nearly passed off, and the [Bournemouth doctor](/person/230) ascribes it altogether to the long strain of sorrow upon the weakened frame. I am very thankful for both their sakes, but we feel very desolate. The funeral is to be on Thursday, and [mamma](/person/1606) has written to offer a bed to the [Peter Young](/person/1636)s, in case they should not have room at the Vicarage. [Mr. Wither](/person/1544) has a terrible cold, and I dread Sunday for him.
 Your most affectionate
-C. M.
-
-Yonge
+C. M. Yonge
 
 
-[^1]: John Keble died at Bournemouth on Thursday 29 March 1866; his wife Charlotte, who had long been an invalid, survived him for six weeks.
-
-Newman’s comment was: ‘it struck me (I trust it is a really charitable thought) that she was to be kept awhile to do penance for having kept Keble from being a Catholic.’ Letters and Diaries XXII 234.
+[^1]: John Keble died at Bournemouth on Thursday 29 March 1866; his wife Charlotte, who had long been an invalid, survived him for six weeks. Newman’s comment was: ‘it struck me (I trust it is a really charitable thought) that she was to be kept awhile to do penance for having kept Keble from being a Catholic.’ Letters and Diaries XXII 234.

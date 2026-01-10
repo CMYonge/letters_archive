@@ -1,7 +1,7 @@
 ---
 id: 3302
 title: To Susanna Wordsworth
-date: '1895-10-24'
+iso-date: '1895-10-24'
 display-date: Oct 24th 1895
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -16,12 +16,4 @@ Yours very sincerely
 C M Yonge
 
 
-[^1]: The Bishop of Salisbury was the Rt.
-
-Rev.
-
-John Wordsworth.
-
-His first wife had died in 1894, and no doubt his sister Susan was keeping house.
-
-The Diocesan Training College for teachers was in the cathedral close.
+[^1]: The Bishop of Salisbury was the Rt. Rev. John Wordsworth. His first wife had died in 1894, and no doubt his sister Susan was keeping house. The Diocesan Training College for teachers was in the cathedral close.

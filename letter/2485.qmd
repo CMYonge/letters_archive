@@ -1,12 +1,12 @@
 ---
 id: 2485
 title: To an Unknown Woman
-date: '1873-12-15'
+iso-date: '1873-12-15'
 display-date: Decr 15th 1873
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
 to-name: To an Unknown Woman
-manuscript-location: 'MS Columbia University Library, New York:  Ray Coll'
+manuscript-location: 'MS Columbia University Library, New York: Ray Coll'
 ---
 
 Dear Madam

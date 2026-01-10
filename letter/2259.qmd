@@ -1,7 +1,7 @@
 ---
 id: 2259
 title: To Sarah Emily Davies
-date: '1868-07-22'
+iso-date: '1868-07-22'
 display-date: July 22nd 1868
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -16,9 +16,7 @@ I am obliged to you for your letter respecting the proposed college for Ladies,[
 
 I feel with much regret that female education is deficient but I think the way to meet the evil is by rousing parents to lead their daughters to read, think and converse.
 
-All the most superior women I have known have been thus formed by home influence and I think that girls in large numbers always hurt one another in manner and tone if in nothing else.
-
-Superior women will teach themselves, and inferior women will never learn more than enough for home life.
+All the most superior women I have known have been thus formed by home influence and I think that girls in large numbers always hurt one another in manner and tone if in nothing else. Superior women will teach themselves, and inferior women will never learn more than enough for home life.
 
 I say this much to shew that I do not hold back from the plan without having endeavoured to think it over
 
@@ -27,8 +25,4 @@ yours truly
 C M Yonge
 
 
-[^1]: Emily Davies was trying to gain support for a residential college for women where they could undertake standard undergraduate degree courses.
-
-The college was established at Hitchin, halfway between London and Cambridge on 16 October 1869.
-
-In October 1873 it was moved to Cambridge and renamed [Girton College](/organisation/201).
+[^1]: Emily Davies was trying to gain support for a residential college for women where they could undertake standard undergraduate degree courses. The college was established at Hitchin, halfway between London and Cambridge on 16 October 1869. In October 1873 it was moved to Cambridge and renamed [Girton College](/organisation/201).

@@ -1,7 +1,7 @@
 ---
 id: 2071
 title: George Lillie Craik to Charlotte Mary Yonge
-date: '1865-09-12'
+iso-date: '1865-09-12'
 display-date: 12th Sept. 1865
 from-name: Charlotte Mary Yonge
 to-name: George Lillie Craik to Charlotte Mary Yonge
@@ -10,7 +10,6 @@ manuscript-location: 'Copy outletter book British Library Add MSS. 55384 (2): P.
 
 Dear Madam,
 [I](/person/379) am not aware whether “[The Clever Woman](/book/58)” has been translated, but perhaps you will answer the enclosed yourself.
-
 Dear Madam
 Yours faithfully
 Geo: Lillie Craik

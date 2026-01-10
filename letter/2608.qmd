@@ -1,7 +1,7 @@
 ---
 id: 2608
 title: To Elizabeth Wordsworth
-date: '1877-11-16'
+iso-date: '1877-11-16'
 display-date: Novr 16th 1877
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,13 +11,7 @@ manuscript-location: MS Lady Margaret Hall, Oxford.
 
 My dear [Elizabeth](/person/1566)
 Lewis or Frank is the question of tragedy & comedy, and I am quite ready to agree to his being the greater conception– though one should certainly have liked Frank the best in real life. I don’t think I know many people who could have done him.
-I thought afterwards, should not Gerance in his reformation have gone out to help his father, or at any rate to see about him.
-
-He is so forgotten, I was in hopes Sir Richard would have come home, and blown away the nonsense and consented to the marriage.
-
-In point of fact till Lewis died, I don’t quite see what Frank had to marry on You see how real I have them all. I read it to myself to be quicker, so I have not seen how it strikes Gertrude but I should not think there was anything not desirable in the part about Emma Barker, provided you note her perfect respectability early enough.
-
-You could make Frank assure his father of it before he tames Pauline. I think however that my Andromeda repulsion is apart from the school room view for it comes back on me to shudder at the thing for a good woman.[^1]
+I thought afterwards, should not Gerance in his reformation have gone out to help his father, or at any rate to see about him. He is so forgotten, I was in hopes Sir Richard would have come home, and blown away the nonsense and consented to the marriage. In point of fact till Lewis died, I don’t quite see what Frank had to marry on You see how real I have them all. I read it to myself to be quicker, so I have not seen how it strikes Gertrude but I should not think there was anything not desirable in the part about Emma Barker, provided you note her perfect respectability early enough. You could make Frank assure his father of it before he tames Pauline. I think however that my Andromeda repulsion is apart from the school room view for it comes back on me to shudder at the thing for a good woman.[^1]
 [Gertrude](/person/1462) begs me to ask you the address of a place you mentioned for setting work.[^2]
 Your [sic] affectionately
 

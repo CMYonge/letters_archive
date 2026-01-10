@@ -1,7 +1,7 @@
 ---
 id: 2576
 title: To Evelyn Mary St. John Mildmay
-date: '1877-02-28'
+iso-date: '1877-02-28'
 display-date: Feb 28th 1877
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -17,5 +17,4 @@ yours truly
 C M Yonge
 
 
-[^1]: With envelope addressed to ‘Miss E St John Mildmay/ The Rectory/ Chelmsford\' and postmarked \'28 February 1877’.
 [^2]: This was probably a contribution to MP, but has not been identified.

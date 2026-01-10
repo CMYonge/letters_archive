@@ -1,7 +1,7 @@
 ---
 id: 3475
 title: To an unknown woman
-date: '1901-01-04'
+iso-date: '1901-01-04'
 display-date: Jan 4th 1901
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne

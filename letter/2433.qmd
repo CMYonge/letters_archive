@@ -1,11 +1,11 @@
 ---
 id: 2433
 title: To an Unknown Person
-date: '1872-01-01'
+iso-date: '1872-01-01'
 display-date: '[early January 1872]'
 from-name: Charlotte Mary Yonge
 to-name: To an Unknown Person
-manuscript-location: 'MS fragment  Historical Society of Pennsylvania: Gratz Collection:
+manuscript-location: 'MS fragment Historical Society of Pennsylvania: Gratz Collection:
   Case 11, Box 14.'
 ---
 
@@ -15,10 +15,4 @@ Your affectionate
 C M Yonge
 
 
-[^1]: CMY refers to the murder of the Rt.
-
-Rev.
-
-John Coleridge Patteson in the Santa Cruz Islands.
-
-It was reported that Patteson’s body had received five wounds, as Christ\'s had.
+[^1]: CMY refers to the murder of the Rt. Rev. John Coleridge Patteson in the Santa Cruz Islands. It was reported that Patteson’s body had received five wounds, as Christ\'s had.

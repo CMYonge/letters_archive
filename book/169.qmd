@@ -2,8 +2,8 @@
 id: 169
 title: English Church History, Adapted for Use in Day and Sunday Schools and for General
   Family Reading. By Charlotte M. Yonge, author of “The Heir of Redclyffe.”
-author: Charlotte Mary Yonge
-date: '1883'
+author-name: Charlotte Mary Yonge
+publication-date: '1883'
 genre: 'Non-fiction: history'
 publication-format: Book
 publisher: London. National Society’s Depository, Sanctuary, Westminster.

@@ -1,7 +1,7 @@
 ---
 id: 3485
 title: To ‘Bath Brick’
-date: '1878-01-01'
+iso-date: '1878-01-01'
 display-date: '[<i>c</i>. January 1878]'
 from-name: Charlotte Mary Yonge
 to-name: To ‘Bath Brick’
@@ -9,14 +9,10 @@ manuscript-location: MS Charlotte Mitchell
 ---
 
 My dear [Bath Brick](/person/1865)[^1]
-Skelton was poet laureat to Henry VIII & Rector of Diss in Norfolk. I am afraid he was not a very respectable person & I do not know his poems.
-
-Your ‘Tact’ is the chosen one this time[^2]
+Skelton was poet laureat to Henry VIII & Rector of Diss in Norfolk. I am afraid he was not a very respectable person & I do not know his poems. Your ‘Tact’ is the chosen one this time[^2]
 Yours very sincerely
 Arachne
 
 
 [^1]: \'Bath Brick\' made her first appearance in MP in May 1876 as a participant in the [Spider](/organisation/116) competitions, and continued to take part until 1896.
-[^2]: ‘Define Tact’ was one of the Spider questions for December 1877.
-
-Bath Brick’s answer was chosen for publication in the issue of February 1878.
+[^2]: ‘Define Tact’ was one of the Spider questions for December 1877. Bath Brick’s answer was chosen for publication in the issue of February 1878.

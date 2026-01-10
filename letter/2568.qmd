@@ -1,7 +1,7 @@
 ---
 id: 2568
 title: To Christabel Rose Coleridge
-date: '1877-01-01'
+iso-date: '1877-01-01'
 display-date: Jany 23d [1877]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -17,7 +17,4 @@ yours affectionately
 C M Yonge
 
 
-[^1]: Endorsed \'NB post mark has Ja 29 at Winchester 1877\'.
-[^2]: Coleridge\'s novel The Constant Prince was about Prince Fernando of Portugal (1402-1443) and was eventually serialized in MP (January-June 1878.
-
-The other fictions which were in its way were Harriet Romanoff, \'Orina\', Euphemia Bussell, \'Our Young Ladies\', CMY\'s own Magnum Bonum and Rosa Nouchette Carey, Heriot\'s Choice.
+[^2]: Coleridge\'s novel The Constant Prince was about Prince Fernando of Portugal (1402-1443) and was eventually serialized in MP (January-June 1878. The other fictions which were in its way were Harriet Romanoff, \'Orina\', Euphemia Bussell, \'Our Young Ladies\', CMY\'s own Magnum Bonum and Rosa Nouchette Carey, Heriot\'s Choice.

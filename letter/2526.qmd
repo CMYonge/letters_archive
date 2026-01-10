@@ -1,7 +1,7 @@
 ---
 id: 2526
 title: To George Lillie Craik
-date: '1875-04-01'
+iso-date: '1875-04-01'
 display-date: April 13th1875
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,9 +10,7 @@ manuscript-location: MS Harvard University, Houghton Library
 ---
 
 Dear [Mr Craik](/person/379)
-I have stupidly lost [Mr Freeman](/person/523)’s London address - would you be so kind as to send it to me on a card. I want to settle about divisions of chapters in the [French writing](/book/99).
-
-Shall I finish all, and then abridge, or do you want to begin printing?[^1]
+I have stupidly lost [Mr Freeman](/person/523)’s London address - would you be so kind as to send it to me on a card. I want to settle about divisions of chapters in the [French writing](/book/99). Shall I finish all, and then abridge, or do you want to begin printing?[^1]
 
 yours sincerely
 

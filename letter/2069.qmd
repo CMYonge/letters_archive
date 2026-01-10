@@ -1,7 +1,7 @@
 ---
 id: 2069
 title: To George Lillie Craik
-date: '1865-09-05'
+iso-date: '1865-09-05'
 display-date: Sept 5th 1865
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,14 +11,7 @@ manuscript-location: 'MS British Library Add MSS 54920: 109-10'
 
 Dear [Sir](/person/379),
 [Mr Macmillan](/person/939) asks me to answer to you the lady’s enquiry about the Strayed Leaves, which are strayed indeed![^1]
-The fact was that I wrote a sort of conclusion to [Heartsease](/book/19), which was called [Last Heartsease leaves](/book/42).
-
-It was not worth publishing, but it was printed for a bazaar some years ago, and I have never heard the last of it. I put it at last into the last number of [Events of the Month](/periodical/69), and there - the title was somehow misprinted Lost Heartsease Leaves which accounts for its having become Strayed Leaves.
-
-It would be the best way to refer the lady to the last number of Events of the Month.
-
-It is only one short chapter.
-
+The fact was that I wrote a sort of conclusion to [Heartsease](/book/19), which was called [Last Heartsease leaves](/book/42). It was not worth publishing, but it was printed for a bazaar some years ago, and I have never heard the last of it. I put it at last into the last number of [Events of the Month](/periodical/69), and there - the title was somehow misprinted Lost Heartsease Leaves which accounts for its having become Strayed Leaves. It would be the best way to refer the lady to the last number of Events of the Month. It is only one short chapter.
 My address for the next two or three weeks will be (using my Christian name[^2]) at
 Puslinch
 Yealmton

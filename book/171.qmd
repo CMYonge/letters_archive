@@ -1,8 +1,8 @@
 ---
 id: 171
 title: Armourer’s \'Prentices, The
-author: Charlotte Mary Yonge
-date: '1883'
+author-name: Charlotte Mary Yonge
+publication-date: '1883'
 genre: Fiction (historical)
 publication-format: Book
 publisher: 'London and New York: Macmillan and Company.'

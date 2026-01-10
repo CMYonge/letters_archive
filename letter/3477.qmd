@@ -1,7 +1,7 @@
 ---
 id: 3477
 title: To Christabel Rose Coleridge
-date: '1901-01-29'
+iso-date: '1901-01-29'
 display-date: Jan 29th [1901]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,29 +10,11 @@ manuscript-location: MS Mrs Clare Roels/108
 ---
 
 My dear [C C](/person/329)
-I suppose Torquay is one mass of black, and everyone telling of having been the last to get some thing needful.
-
-It is altogether solemn and beautiful the fit close of the life. [Helen](/person/1613) heard 81 naval guns and 81 artillery fire at Gibraltar, and they are living with all their front blinds closed.
-
-She is looking out for her boat so I hope to be hearing of her starting.
-
-She heard 81 naval guns, 81 artillery at Gibraltar. [Mary Morshead](/person/28) is thankful that the Kings nurse was not ‘made in Germany’.
-
-Tina promises well and the country walk is very good- but oh! how [‘Sunday’](/periodical/232) murders your people, Elise a horrid flyaway young lady, Uncle Quince a mere gamekeeper and much too young, the dogs two different sorts in the same page, and Crad exactly like Harry Bawks a clergyman instead of an ‘assistant’.
-
-Can’t you remonstrate with [‘Frances Ewan’](/person/2248) or [Isbister](/organisation/223), it must strike everyone that she knows nothing about it.
-
-And the parasol in January!
-
+I suppose Torquay is one mass of black, and everyone telling of having been the last to get some thing needful. It is altogether solemn and beautiful the fit close of the life. [Helen](/person/1613) heard 81 naval guns and 81 artillery fire at Gibraltar, and they are living with all their front blinds closed. She is looking out for her boat so I hope to be hearing of her starting. She heard 81 naval guns, 81 artillery at Gibraltar. [Mary Morshead](/person/28) is thankful that the Kings nurse was not ‘made in Germany’.
+Tina promises well and the country walk is very good- but oh! how [‘Sunday’](/periodical/232) murders your people, Elise a horrid flyaway young lady, Uncle Quince a mere gamekeeper and much too young, the dogs two different sorts in the same page, and Crad exactly like Harry Bawks a clergyman instead of an ‘assistant’. Can’t you remonstrate with [‘Frances Ewan’](/person/2248) or [Isbister](/organisation/223), it must strike everyone that she knows nothing about it. And the parasol in January!
 It may be the engravers fault, but [Queen Wilhelmina](/person/2249) is very coarse and disagreeable
 Helen has had a charming trip to Tangier.
-
 You should read Agnes Giberne’s Roy it is very good.
 your affectionate
 
 C M Yonge
-
-
-[^1]: Endorsed in another hand ‘Death of Q.
-
-Victoria’ and ‘1901’.

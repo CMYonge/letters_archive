@@ -1,7 +1,7 @@
 ---
 id: 2011
 title: To Ellen Julia Johns
-date: '1865-03-10'
+iso-date: '1865-03-10'
 display-date: March 10th 1865
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,24 +10,15 @@ manuscript-location: MS University of Delaware
 ---
 
 My dear [Mrs Johns](/person/772),
-I am afraid I have nothing very satisfactory to say my friend confirms my belief that there was an uncomfortable story about [Ruskin](/person/1268) and his wife - who you know is now [Mrs Millais ](/person/1297)- and further adds that she does not think that real artists vote his opinion very high.
-
+I am afraid I have nothing very satisfactory to say my friend confirms my belief that there was an uncomfortable story about [Ruskin](/person/1268) and his wife - who you know is now [Mrs Millais](/person/1297)- and further adds that she does not think that real artists vote his opinion very high.
 Neither is her view very favourable to a regular course of study for a young girl, she has known of an instance, where though the young lady’s home was in London, it was very troublesome to follow up the lectures, and studies, and there was much 'tramping about' Nor did she think the result in the matters you most regard had been absolutely all that could be wished.
-
-But I can easily get the general question asked by a lady, an intimate friend of [Mr Boxall](/person/1928)’s, if you liked; or [Edith Coleridge ](/person/331)would no doubt ask it of [Mr Richmond](/person/1731), and perhaps one of these could give advice as to how the talent could be cultivated without risking other things.
-
+But I can easily get the general question asked by a lady, an intimate friend of [Mr Boxall](/person/1928)’s, if you liked; or [Edith Coleridge](/person/331)would no doubt ask it of [Mr Richmond](/person/1731), and perhaps one of these could give advice as to how the talent could be cultivated without risking other things.
 Perhaps it would be right to say that what was I believe imputed to Mr Ruskin was that he shewed strange indifference to his young wife’s going on, and to such a degree that he seemed to have thrown her into - or at least left her to temptation, and this certainly gave me an uncomfortable feeling in thinking of consulting him on any matter that involved questions of the minor delicacies.
 I think Edith Coleridge could probably give you much direct help, in judging how far it is possible to go - without either sacrificing the talent, or sacrificing - or rather running the risk of sacrificing the delicate bloom of better things
-I believe the young lady I mentioned keeps a private skeleton in her cupboard, (literally) but there are some branches of the study that no woman can carry out, and that must prevent /their\ figure studies from being as perfect as those of men.
-
-But surely there is a very considerable degree of excellence to be attained both pleasurable and profitable without the thorough art study.
-
+I believe the young lady I mentioned keeps a private skeleton in her cupboard, (literally) but there are some branches of the study that no woman can carry out, and that must prevent /their\ figure studies from being as perfect as those of men. But surely there is a very considerable degree of excellence to be attained both pleasurable and profitable without the thorough art study.
 Hoping that I have not said too much in any way.
 
 Yours sincerely
 
 C M Yonge
 Thanks for the prospectus, it looks like the promise of a most curious book
-
-
-[^1]: The marriage between John Ruskin (1819-1900) and Euphemia Chalmers Gray (1828-1897) was annulled on the grounds of non-consummation in 1854; she married the painter John Everett Millais (1829-1896) the following year.

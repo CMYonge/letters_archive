@@ -1,7 +1,7 @@
 ---
 id: 3347
 title: To an Unknown Man, perhaps editor of a biographical dictionary.
-date: '1897-05-12'
+iso-date: '1897-05-12'
 display-date: May 12th 1897
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester

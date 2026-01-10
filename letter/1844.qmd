@@ -1,7 +1,7 @@
 ---
 id: 1844
 title: To Henrietta Elizabeth Fursdon
-date: '1861-11-22'
+iso-date: '1861-11-22'
 display-date: Novr 22nd [1861]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester
@@ -10,31 +10,16 @@ manuscript-location: MS Mrs Katherine Wykes-Sneyd
 ---
 
 My dear [Irene](/person/538)
-I like this form of the question much, and think it suggestive.
-
-The County History would do for a historical question but would make too much history coupled with another. I am not sure however whether you have not too many pairs of qualities, and if it might not be better to leave out contemn & despise, and perhaps hope & anticipate, the distinction in the first place being too small, in the other too large. I think too they should all be nouns & that the first pair should be silliness & stupidity.
-
-But do as you please, for this is not meant as a correction.
-
-The whole range of words for happiness would be a curious study. I am sorry I forgot about your riddle, I have heard it before & believe there is no answer.
-
-Do you know
+I like this form of the question much, and think it suggestive. The County History would do for a historical question but would make too much history coupled with another. I am not sure however whether you have not too many pairs of qualities, and if it might not be better to leave out contemn & despise, and perhaps hope & anticipate, the distinction in the first place being too small, in the other too large. I think too they should all be nouns & that the first pair should be silliness & stupidity. But do as you please, for this is not meant as a correction. The whole range of words for happiness would be a curious study. I am sorry I forgot about your riddle, I have heard it before & believe there is no answer. Do you know
 One hundred & one by fifty divide
 To this let a cypher be duly applied
 And if your calculations accordant with mine
 The product will surely be one out of nine.
-
 To which there is a very good answer.
-I like the [Lady Secretary](/person/351)’s suggestion about the answers of the new questions being only those who did well before, but does she mean only those whose Psalms went round - for that would exclude Petrel & Owl,[^1] both of whom ought to have the 2nd chance.
-
-However I dare say I shall hear from her before you get this letter, if not ask her to let me know before the 28th when my letter will have to be composed.
-
-If you have a copy of Mr Merivale’s Etoiles would you mind writing it out for me?
+I like the [Lady Secretary](/person/351)’s suggestion about the answers of the new questions being only those who did well before, but does she mean only those whose Psalms went round - for that would exclude Petrel & Owl,[^1] both of whom ought to have the 2nd chance. However I dare say I shall hear from her before you get this letter, if not ask her to let me know before the 28th when my letter will have to be composed. If you have a copy of Mr Merivale’s Etoiles would you mind writing it out for me?
 your affectionate
 Mother Goose
 I suppose the prize for the Questions is to be after [Mildred](/person/17)’s have been answered
 
 
-[^1]: Petrel and Owl were evidently unidentified members of the [Gosling Society](/topic/104).
-
-This letter discusses proposed questions set to fellow-members by Henrietta Fursdon.
+[^1]: Petrel and Owl were evidently unidentified members of the [Gosling Society](/topic/104). This letter discusses proposed questions set to fellow-members by Henrietta Fursdon.

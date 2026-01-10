@@ -1,7 +1,7 @@
 ---
 id: 1962
 title: To Ann Maria Carter Smith
-date: '1864-07-11'
+iso-date: '1864-07-11'
 display-date: '[11 July 1864]'
 from-name: Charlotte Mary Yonge
 to-name: To Ann Maria Carter Smith
@@ -9,6 +9,3 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1864/ 6
 ---
 
 [empty envelope]
-
-
-[^1]: Empty envelope, addressed to Miss Smith/ Clare Hall/ Cambridge and postmarked Winchester 11 July 1864 and Cambridge 13 July 1864.

@@ -1,7 +1,7 @@
 ---
 id: 3086
 title: To Anna Butler
-date: '1856-09-29'
+iso-date: '1856-09-29'
 display-date: Sept 29th [1856]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
@@ -10,17 +10,8 @@ manuscript-location: MS Mrs Caroline Fairclough/11
 ---
 
 My dear [Miss Butler](/person/237)
-[Mr Mozley](/person/1065) shall have a jog, but I think the time you fix is nearly the natural one.
-
-There will be rather a crowd in the December number as I had to put off a long beautiful story till I could get it in whole, and those [old notes on Roumelia](/organisation/255) must be finished off with the year, so I am afraid of more than a note on the Ursulines (What a clever sketch that is in the letter) I hope it will turn out that the Germans keep the old rule, for a contradiction is so apt to spoil the air of reality in a story.
-
-Perhaps we might have an Ursuline paper by and by, but Decr is preoccupied. I am glad of the future hopes. I was interrupted here, and am not sure what I was going to say.
+[Mr Mozley](/person/1065) shall have a jog, but I think the time you fix is nearly the natural one. There will be rather a crowd in the December number as I had to put off a long beautiful story till I could get it in whole, and those [old notes on Roumelia](/organisation/255) must be finished off with the year, so I am afraid of more than a note on the Ursulines (What a clever sketch that is in the letter) I hope it will turn out that the Germans keep the old rule, for a contradiction is so apt to spoil the air of reality in a story. Perhaps we might have an Ursuline paper by and by, but Decr is preoccupied. I am glad of the future hopes. I was interrupted here, and am not sure what I was going to say.
 
 yours sincerely
 
 C M Yonge
-
-
-[^1]: Rough Notes of a Ride in Roumelia ran as a series in MP (July 1855-December 1856).
-
-In MP(November 1856), 360, a half-page note appeared about the treatment of the Ursulines in Butler\'s novel [Likes and Dislikes](/organisation/248), which may be what is referred to here.

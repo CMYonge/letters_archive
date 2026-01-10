@@ -1,7 +1,7 @@
 ---
 id: 3157
 title: To Arthur Donald Innes
-date: '1890-06-01'
+iso-date: '1890-06-01'
 display-date: June 2d 1890
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,25 +10,12 @@ manuscript-location: MS Girton College Cambridge, Yonge IV 20
 ---
 
 Dear [Mr Innes](/person/744),
-I have disposed of [Mr Hutchinson’](/person/740)s Stars except for this one chapter. I found when I wrote to him that he had not meant to contribute a regular course but miscellaneous papers now and then. I want however to get the Engineering recollections in America into this volume.
-
-They are 7 but short, very entertaining and one may be doubled.
-
-The story is short too. I have not got [Miss Sewell](/person/1606) yet, but I hope to get all in, including [Mrs Hallett](/person/608).[^1] The chapter of Christian’s Name is very short. I will see about [Miss Watson](/person/2096) and her German in time. I was going to write to you about Mr Fowler’s magpie but it appeared in your parcel yesterday also this note for you from [Mr Church](/person/2097)- and a letter which I am sending him to ask if there is any biography of [General Church](/person/2098) - it is odd that he and the [Dean of St Pauls](/person/297) were discouraged from publishing one, because it was not thought likely to take.[^1] For General Church was a remarkable man who took a great part in the War of Greek Independence.
-I am guarding against being overwhelmed this quarter, but here are 3 or 4 papers about a trip to Italy by Mme [Linda Villari](/person/1444) - just come, with a postcard to answer her upon. I had some from her before, which were liked and she is a good name but continuous papers on Travels are to be avoided I think. I shall defer the answer as to acceptance till [Miss Coleridge ](/person/329)comes
+I have disposed of [Mr Hutchinson’](/person/740)s Stars except for this one chapter. I found when I wrote to him that he had not meant to contribute a regular course but miscellaneous papers now and then. I want however to get the Engineering recollections in America into this volume. They are 7 but short, very entertaining and one may be doubled. The story is short too. I have not got [Miss Sewell](/person/1606) yet, but I hope to get all in, including [Mrs Hallett](/person/608).[^1] The chapter of Christian’s Name is very short. I will see about [Miss Watson](/person/2096) and her German in time. I was going to write to you about Mr Fowler’s magpie but it appeared in your parcel yesterday also this note for you from [Mr Church](/person/2097)- and a letter which I am sending him to ask if there is any biography of [General Church](/person/2098) - it is odd that he and the [Dean of St Pauls](/person/297) were discouraged from publishing one, because it was not thought likely to take.[^1] For General Church was a remarkable man who took a great part in the War of Greek Independence.
+I am guarding against being overwhelmed this quarter, but here are 3 or 4 papers about a trip to Italy by Mme [Linda Villari](/person/1444) - just come, with a postcard to answer her upon. I had some from her before, which were liked and she is a good name but continuous papers on Travels are to be avoided I think. I shall defer the answer as to acceptance till [Miss Coleridge](/person/329)comes
 
 Yours truly
 
 C M Yonge
 
 
-[^1]: The letter mainly relates to the disposition of contributions to the issue of [MP](/periodical/52) for August 1890 and later months. [Elizabeth Missing Sewell](/person/1606) published \'Thoughts on Scripture Texts\' in the September and October 1890 issues of MP.
-
-Mrs Hallett was a regular contributor, but she did not publish anything before \'Country Society of Yesterday\' MP (December 1891) 637-644.
-[^2]: The Rev.
-
-Canon Charles Marcus Church (d.1915) was co-editor of the 1895 biography of his uncle, General Sir Richard Church (1784-1873), liberator of Greece.
-
-The Dean of St.Paul’s, the Very Rev.
-
-Richard William Church (1815-1890) was brother to Canon Church.
+[^1]: The letter mainly relates to the disposition of contributions to the issue of [MP](/periodical/52) for August 1890 and later months. [Elizabeth Missing Sewell](/person/1606) published \'Thoughts on Scripture Texts\' in the September and October 1890 issues of MP. Mrs Hallett was a regular contributor, but she did not publish anything before \'Country Society of Yesterday\' MP (December 1891) 637-644.

@@ -1,17 +1,16 @@
 ---
 id: 2384
 title: To Mary Penelope Fursdon
-date: '1870-07-10'
+iso-date: '1870-07-10'
 display-date: '[10 July 1870]'
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
 to-name: To Mary Penelope Fursdon
-manuscript-location: MS  Mrs Katherine Wykes-Sneyd
+manuscript-location: MS Mrs Katherine Wykes-Sneyd
 ---
 
 My dear [Pixie](/person/539)
-I don't know if you have heard how nearly [Goosedom ](/topic/104)perished from exhaustion and how it has revived again, after throwing off a few idle members. I did not throw you out because I thought we had had some very impossible questions lately, and we are going to keep them shorter and easier.
-
+I don't know if you have heard how nearly [Goosedom](/topic/104)perished from exhaustion and how it has revived again, after throwing off a few idle members. I did not throw you out because I thought we had had some very impossible questions lately, and we are going to keep them shorter and easier.
 Will you send the answers when you get them to Bluebell ie
 the Honble [Alethea Colborne](/person/317)
 Beechwood
@@ -27,6 +26,3 @@ Kilndown
 Staplehurst
 your faithful
 Mother Goose
-
-
-[^1]: Black-edged paper with black-edged envelope postmarked Winchester 10 July and Tiverton 11 July 1870 andaddressed to Miss Mary Fursdon/ Fursdon/ Tiverton.

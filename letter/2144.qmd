@@ -1,7 +1,7 @@
 ---
 id: 2144
 title: To Alexander Macmillan
-date: '1867-01-07'
+iso-date: '1867-01-07'
 display-date: Jan 7th [1867]
 from-name: Charlotte Mary Yonge
 to-name: To Alexander Macmillan

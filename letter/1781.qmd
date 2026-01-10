@@ -1,7 +1,7 @@
 ---
 id: 1781
 title: To John William Parker, Jr.
-date: '1860-01-13'
+iso-date: '1860-01-13'
 display-date: Jany 13th 1860
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -21,15 +21,9 @@ I hope the review of Aggesden Vicarage in the [Saturday](/periodical/99) was not
 
 Yours faithfully
 
-C.M.
-
-Yonge
+C.M. Yonge
 
 
-[^1]: Mademoiselle Mori : A Tale of Modern Rome. 2 vols (London: John W.
-
-Parker and Son 1860).
-[^2]: In CMY’s letter to Parker in October 1859 she asked him to reconsider publishing Mademoiselle Mori, Roberts having “left it in my hands, to endeavour to procure its publication” while she was abroad.
-
-It seems that Parker had accepted the book and Yonge was now correcting the proofs.
+[^1]: Mademoiselle Mori : A Tale of Modern Rome. 2 vols (London: John W. Parker and Son 1860).
+[^2]: In CMY’s letter to Parker in October 1859 she asked him to reconsider publishing Mademoiselle Mori, Roberts having “left it in my hands, to endeavour to procure its publication” while she was abroad. It seems that Parker had accepted the book and Yonge was now correcting the proofs.
 [^3]: See letters to Ann Carter Smith of 6 and 10 January 1860.

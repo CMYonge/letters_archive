@@ -3,8 +3,8 @@ id: 179
 title: Memoirs of Marshal Bugeaud from his private correspondence and original documents
   1784-1849. By the Count H. D’Ideville. Edited from the French by Charlotte M. Yonge,
   2 vols
-author: Charlotte Mary Yonge
-date: '1884'
+author-name: Charlotte Mary Yonge
+publication-date: '1884'
 genre: Edited translation
 publication-format: Edited book
 publisher: 'London : Hurst and Blackett, 13 Great Marlborough Street.'

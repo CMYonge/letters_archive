@@ -1,7 +1,7 @@
 ---
 id: 3185
 title: To Arthur Donald Innes
-date: '1892-01-01'
+iso-date: '1892-01-01'
 display-date: January 1 [1892]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne
@@ -18,6 +18,4 @@ C M Yonge
 Is it not time to hear of [my accounts](/topic/160)
 
 
-[^1]: The section of CMY’s long-running series [\'Cameos from English History’](/book/249) dealing with the colonization of Georgia in the 1730s was published in MP (February 1892).
-
-The March and April issues dealt with the War of Jenkins’ Ear and the May issue with the War of the Austrian Succession, in which Frederick the Great was involved.
+[^1]: The section of CMY’s long-running series [\'Cameos from English History’](/book/249) dealing with the colonization of Georgia in the 1730s was published in MP (February 1892). The March and April issues dealt with the War of Jenkins’ Ear and the May issue with the War of the Austrian Succession, in which Frederick the Great was involved.

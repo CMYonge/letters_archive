@@ -1,8 +1,8 @@
 ---
 id: 201
 title: Beechcroft at Rockstone. 2 vols.
-author: Charlotte Mary Yonge
-date: '1888'
+author-name: Charlotte Mary Yonge
+publication-date: '1888'
 genre: Fiction (modern)
 publication-format: Book
 publisher: 'London and New York: Macmillan and Company.'

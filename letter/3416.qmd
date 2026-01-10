@@ -1,7 +1,7 @@
 ---
 id: 3416
 title: To Christabel Rose Coleridge
-date: '1899-08-12'
+iso-date: '1899-08-12'
 display-date: Aug 12 [1899]
 from-name: Charlotte Mary Yonge
 from-address: The Old House Dorking
@@ -11,15 +11,7 @@ manuscript-location: MS Mrs Clare Roels/78
 
 My dear [C C](/person/329)
 I am glad there are some signs of life or of decay more properly of poor [A D I](/person/744)- ! I do think there are more and more signs that a 6d phoenix would be welcomed.[^1]
-I find the booksellers make all sorts of excuses for not having got it – The [Authors Soc](/organisation/44) want to see my agreement before advising me. I could not find it easily before I left home and was too hot for a hunt. [FMP](/person/1160) has written to offer a visit on the 17th or 18th so I have written to her to meet me and come with me on the 18th I have got the MS of [Ducks Eggs](/book/251), I think I can make them much more interesting and longer.
-
-We are nice and cool here now, but I think people must suppose that I dispose of all the [scholarship](/topic/113) money for the begging letters are endless. [Anna Bramston](/person/195) has photographed all the tableaux before the break up!
-
-Poor [George](/person/1610) at Kimberley is tormented as nephew to a lion, and was invited to go to a book dance as ‘[The Daisy Chain](/book/24)’- pretty well for a great black police officer.
-
-So you may tell [Walter](/person/353) to prepare to be invited out as Jack a Lantern. [Helen](/person/1613) returns remembrances. I have had a charming letter from the old [Mignonette](/person/1637) about Maximilian and the Martinswand- and an Italian palace – quite good enough for an article. [^2] The local demon [Mr ffinch](/person/1688) & co are a great success, he reads the lessons so beautifully that I am quite sorry to miss a fortnight of him.
-
-He is warden of a college for ‘decayed gentlewomen’ I should think you would have heard of it.
+I find the booksellers make all sorts of excuses for not having got it – The [Authors Soc](/organisation/44) want to see my agreement before advising me. I could not find it easily before I left home and was too hot for a hunt. [FMP](/person/1160) has written to offer a visit on the 17th or 18th so I have written to her to meet me and come with me on the 18th I have got the MS of [Ducks Eggs](/book/251), I think I can make them much more interesting and longer. We are nice and cool here now, but I think people must suppose that I dispose of all the [scholarship](/topic/113) money for the begging letters are endless. [Anna Bramston](/person/195) has photographed all the tableaux before the break up! Poor [George](/person/1610) at Kimberley is tormented as nephew to a lion, and was invited to go to a book dance as ‘[The Daisy Chain](/book/24)’- pretty well for a great black police officer. So you may tell [Walter](/person/353) to prepare to be invited out as Jack a Lantern. [Helen](/person/1613) returns remembrances. I have had a charming letter from the old [Mignonette](/person/1637) about Maximilian and the Martinswand- and an Italian palace – quite good enough for an article. [^2] The local demon [Mr ffinch](/person/1688) & co are a great success, he reads the lessons so beautifully that I am quite sorry to miss a fortnight of him. He is warden of a college for ‘decayed gentlewomen’ I should think you would have heard of it.
 [Maurice](/person/1630) and [Maude](/person/1629) have the funniest little cottage at Fleet, in the middle of purple heath
 your affectionate
 

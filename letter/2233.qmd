@@ -1,7 +1,7 @@
 ---
 id: 2233
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1868-02-21'
+iso-date: '1868-02-21'
 display-date: Feb 21 1868
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -9,7 +9,7 @@ manuscript-location: 'Copy outletter book British Library Add MSS.55388 (1): P.3
 ---
 
 Dear Miss Yonge,
-You shall see your proposed title which[ I ](/person/939)think an improvement.Readings has been used already.[^1]
+You shall see your proposed title which[I](/person/939)think an improvement.Readings has been used already.[^1]
 I conclude that you
 [rest of letter indecipherable]
 

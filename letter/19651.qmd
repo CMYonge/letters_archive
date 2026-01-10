@@ -1,7 +1,7 @@
 ---
 id: 19651
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1866-11-02'
+iso-date: '1866-11-02'
 display-date: Nov 2 1866
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -10,24 +10,12 @@ manuscript-location: Copy outletter book British Library Add MSS.55386 (2) P.548
 
 Dear Miss Yonge,
 
-How does page(?) suit your idea of the [History book](/book/71)?
-
-What you sent me was about 240 pages like the specimens.
-
-So the whole would be too much for one volume.
-
-Can we make two - or three?
-
-Are there any natural divisions?
+How does page(?) suit your idea of the [History book](/book/71)? What you sent me was about 240 pages like the specimens. So the whole would be too much for one volume. Can we make two - or three? Are there any natural divisions?
 
 Very faithfully yours
 
-[A.
+[A. Macmillan](/person/939)
 
-Macmillan](/person/939)
-
-Among the books that were transferred to us from [Parker](/organisation/152) are some copies of [Dynevor Terrace](/book/27) in the two volume form we don’t sell [illegible]  of course.
-
-Had I not better sell them to [Routledge](/organisation/258) or [Smiths](/organisation/161) at a very cheap price?
+Among the books that were transferred to us from [Parker](/organisation/152) are some copies of [Dynevor Terrace](/book/27) in the two volume form we don’t sell [illegible]  of course. Had I not better sell them to [Routledge](/organisation/258) or [Smiths](/organisation/161) at a very cheap price?
 
 &nbsp;

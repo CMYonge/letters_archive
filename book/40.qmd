@@ -1,8 +1,8 @@
 ---
 id: 40
 title: Stokesley Secret, The. By the author of “The Heir of Redclyffe.”
-author: Charlotte Mary Yonge
-date: '1861'
+author-name: Charlotte Mary Yonge
+publication-date: '1861'
 genre: Fiction (modern)
 publication-format: Book
 publisher: John and Charles Mozley, 6, Paternoster Row, London. Masters and Co., 78,

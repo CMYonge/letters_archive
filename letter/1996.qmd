@@ -1,7 +1,7 @@
 ---
 id: 1996
 title: To the Reverend John Frewen Moor
-date: '1864-11-01'
+iso-date: '1864-11-01'
 display-date: Novr 23d [1864]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -18,8 +18,4 @@ Yours very truly
 C M Yonge
 
 
-[^1]: One of the arithmetic questions over which they were cooperating.
-
-See letters to Moor dated June and 10 October 1864.
-
-The reference to \'young ladies\' makes it sound as if it was aimed at the [Gosling Society](/topic/104).
+[^1]: One of the arithmetic questions over which they were cooperating. See letters to Moor dated June and 10 October 1864. The reference to \'young ladies\' makes it sound as if it was aimed at the [Gosling Society](/topic/104).

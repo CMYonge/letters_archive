@@ -1,7 +1,7 @@
 ---
 id: 1822
 title: To Ann Maria Carter Smith
-date: '1861-03-06'
+iso-date: '1861-03-06'
 display-date: March 6th 1861
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -17,7 +17,4 @@ yours sincerely
 C M Yonge
 
 
-[^1]: Envelope addressed to Miss Ann Smith/ Rectory/ Old Charlton/ SE and postmarked Winchester (date torn) and London SE 7 March 1861.
-[^2]: This letter identifies the A.M.G. who published \'Sandwell\' in MP (March 1859) 330-334, as Miss A. M.
-
-Goodrich.
+[^2]: This letter identifies the A.M.G. who published \'Sandwell\' in MP (March 1859) 330-334, as Miss A. M. Goodrich.

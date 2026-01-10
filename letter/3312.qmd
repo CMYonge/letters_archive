@@ -1,7 +1,7 @@
 ---
 id: 3312
 title: Charles Wooldridge to Charlotte Mary Yonge
-date: '1896-01-29'
+iso-date: '1896-01-29'
 display-date: Jan 29 1896
 from-name: Charlotte Mary Yonge
 to-name: Charles Wooldridge to Charlotte Mary Yonge

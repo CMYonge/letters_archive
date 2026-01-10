@@ -1,7 +1,7 @@
 ---
 id: 3122
 title: To the Reverend Edward Coleridge
-date: '1858-11-24'
+iso-date: '1858-11-24'
 display-date: Novr 24th 1858
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -10,13 +10,9 @@ manuscript-location: 'MS Princeton University, Parrish Collection, C0171: Box 29
 ---
 
 My dear [Mr Coleridge](/person/332)
-I send you a Post Office order for £2 which is all I can very well do for this most melancholy case, as just before Christmas is not the time for my galleons to come in.
-
-If you will send me another paper, I will forward it to some of the Gibbses who might perhaps be able to do something for the poor family.[^1] I do not know of any one else to ask.
-
+I send you a Post Office order for £2 which is all I can very well do for this most melancholy case, as just before Christmas is not the time for my galleons to come in. If you will send me another paper, I will forward it to some of the Gibbses who might perhaps be able to do something for the poor family.[^1] I do not know of any one else to ask.
 Thank you for your information about the [Melanesian fund](/organisation/30), which I thought most satisfactory, for it would be very absurd to detain the money from securities equally good and more profitable.
 I was very sorry to miss the [Abrahams](/person/4) when they were in this neighbourhood lately but the [Kebles](/person/798) saw them. [Julian](/person/1624) and [his bride](/person/1604) are with some of her relations at present and [my mother](/person/1606) has just set off to Winchester to the confirmation of [her Godchild](/person/968), one of the Moberlys.
-
 Pray give my kind regards to [your daughter](/person/1808) and believe me
 Yours very sincerely
 

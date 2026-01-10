@@ -5,6 +5,4 @@ name: Bath Rheumatic Hospital
 title: Bath Rheumatic Hospital
 ---
 
-Founded as the Bath General Infirmary in 1742.
-
-Now the Royal National Hospital for Rheumatic Diseases, see www.rnhrd.nhs.uk
+Founded as the Bath General Infirmary in 1742. Now the Royal National Hospital for Rheumatic Diseases, see www.rnhrd.nhs.uk

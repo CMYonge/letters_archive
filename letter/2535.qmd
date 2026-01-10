@@ -1,7 +1,7 @@
 ---
 id: 2535
 title: To the Rt. Rev. Allan Becher Webb
-date: '1875-09-13'
+iso-date: '1875-09-13'
 display-date: Sept 13 1875
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester
@@ -17,15 +17,7 @@ I think too there is a little awkwardness in the piece about hospitality I do no
 [rest of page missing]
 . . . will not be encouraged by it
 Yours respectfully
-C.M.
-
-Yonge
+C.M. Yonge
 
 
-[^1]: The Rt.
-
-Rev.
-
-Allan Becher Webb (1839-1907), Bishop of Bloemfontein (1870-1883).
-
-The article was \'The Work of Women at Home for Foreign Missions (A Paper read by the Bishop of Bloemfontein at Rugby, July 8, 1875)\', MP ns 20 (November 1875) 397-403.
+[^1]: The Rt. Rev. Allan Becher Webb (1839-1907), Bishop of Bloemfontein (1870-1883). The article was \'The Work of Women at Home for Foreign Missions (A Paper read by the Bishop of Bloemfontein at Rugby, July 8, 1875)\', MP ns 20 (November 1875) 397-403.

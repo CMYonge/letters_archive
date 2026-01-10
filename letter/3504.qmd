@@ -1,7 +1,7 @@
 ---
 id: 3504
 title: To an Unknown Woman
-date: '1884-12-26'
+iso-date: '1884-12-26'
 display-date: Decr 26th [after 1884?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -10,22 +10,10 @@ manuscript-location: MS Charlotte Mitchell/31
 ---
 
 Dear Madam
-I am very sorry not to have answered your letter sooner, I put it aside to enquire about [Mrs White](/person/2392), and in the hurry of Christmas preparations it was forgotten.
-
-She is not strictly an inhabitant of this parish, but of Compton- where I believe [her husband](/person/2393) is man to [Mr Baldwin ](/person/98)the maltster.[^1] I had heard that she took in washing, and I believe that she is respectable but I know nothing of her capabilities. [Mrs Baldwin](/person/99) might be able to tell you
+I am very sorry not to have answered your letter sooner, I put it aside to enquire about [Mrs White](/person/2392), and in the hurry of Christmas preparations it was forgotten. She is not strictly an inhabitant of this parish, but of Compton- where I believe [her husband](/person/2393) is man to [Mr Baldwin](/person/98)the maltster.[^1] I had heard that she took in washing, and I believe that she is respectable but I know nothing of her capabilities. [Mrs Baldwin](/person/99) might be able to tell you
 I remain &c
 
 C M Yonge
 
 
-[^1]: James Baldwin (b.
-
-Tanworth, Warwicks. 1824/5) is recorded in the 1881 and 1891 censuses as a maltster living at Compton with his wife Josephine (b.
-
-Solihull 1826/7), in the former year ‘employing 2 men & 2 boys’.
-
-Mrs White might be Ann (b.
-
-Michelmersh 1857/8), wife of Thomas White (b.
-
-Michelmersh 1851/2), variously ‘steam ploughman’ and ‘engine driver’, living at Silkstead, Compton in 1891.
+[^1]: James Baldwin (b. Tanworth, Warwicks. 1824/5) is recorded in the 1881 and 1891 censuses as a maltster living at Compton with his wife Josephine (b. Solihull 1826/7), in the former year ‘employing 2 men & 2 boys’. Mrs White might be Ann (b. Michelmersh 1857/8), wife of Thomas White (b. Michelmersh 1851/2), variously ‘steam ploughman’ and ‘engine driver’, living at Silkstead, Compton in 1891.

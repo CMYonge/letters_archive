@@ -1,7 +1,7 @@
 ---
 id: 3487
 title: To Frances Mary Peard
-date: '1869-01-70'
+iso-date: '1869-01-70'
 display-date: '[1869/70?]'
 from-name: Charlotte Mary Yonge
 to-name: To Frances Mary Peard
@@ -12,6 +12,4 @@ manuscript-location: This fragment printed in Mary J. Harris, 1903. [[otherbook:
 [To [Frances Mary Peard](/person/1160)]. . . . [Miss Mozley](/person/1061) writes to me much pleased with the story[^1] you have sent her; I am sure I was with the children’s corner at Paris. A foreign correspondent is a great prize for the [Magazine for the young](/periodical/79). I am afraid I shall never get over my inclination now you have inspired me with it to call Henry IV. ‘Hungry Cat.’
 
 
-[^1]: Probably \"My Own Story\", a nine-part serial signed \"F.M.P\" that ran in the [Magazine for the Young](/periodical/79) from January to September 1870.
-
-It does not seem to have appeared in volume form.
+[^1]: Probably \"My Own Story\", a nine-part serial signed \"F.M.P\" that ran in the [Magazine for the Young](/periodical/79) from January to September 1870. It does not seem to have appeared in volume form.

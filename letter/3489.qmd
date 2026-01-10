@@ -1,8 +1,8 @@
 ---
 id: 3489
 title: To Margaret Helen Moberly
-date: '1860-05-01'
-display-date: '[May ?1860s[[footnote:1]]'
+iso-date: '1860-05-01'
+display-date: '[May ?1860s'
 from-name: Charlotte Mary Yonge
 to-name: To Margaret Helen Moberly
 manuscript-location: 'MS location unknown. Photocopies lent by Barbara Dennis: Maggie/6'
@@ -13,6 +13,3 @@ I wish you many happy returns of the day, and I wish I was sending you a [Daisy 
 your affectionate godmother
 
 C M Yonge
-
-
-[^1]: Maggie Moberly was born in 1852 and The Daisy Chain seems most likely to have been offered her after the age of 8 and before the age of 18.

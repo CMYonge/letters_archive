@@ -1,7 +1,7 @@
 ---
 id: 2269
 title: To Alexander Macmillan
-date: '1868-09-01'
+iso-date: '1868-09-01'
 display-date: Sept 23d [1868]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -12,17 +12,12 @@ manuscript-location: 'MS British Library Add MSS 54920: 212-3'
 My dear [Mr Macmillan](/person/939),
 The mistakes about Walsingham & Sidney had perhaps better be mentioned in the preface to disarm the critics, and that unlucky Amen must be made an erratum it is so ridiculous in its present position.[^1]
 Would you notify this to [Clay](/organisation/173), as I do not know the page.
-
-What do you say to the [story of Indian Life](/topic/202) I sent you?
-
-If you cannot do any thing with it, please write to me before returning it, for I think I shall ask [Mr Warne](/person/1433) to look at it, and it is a pity it should travel 140 miles between Nos 15 and 16[^2]
+What do you say to the [story of Indian Life](/topic/202) I sent you? If you cannot do any thing with it, please write to me before returning it, for I think I shall ask [Mr Warne](/person/1433) to look at it, and it is a pity it should travel 140 miles between Nos 15 and 16[^2]
 
 Yours sincerely
 
 C M Yonge
 
 
-[^1]: Endorsed ‘Routledge attending to this’.
-
-These anachronisms were noted in the preface to [The Chaplet of Pearls](/book/69).
+[^1]: Endorsed ‘Routledge attending to this’. These anachronisms were noted in the preface to [The Chaplet of Pearls](/book/69).
 [^2]: Frederick Warne (1825-1901), publisher, had offices at 15 Bedford Street, next door to Macmillan.

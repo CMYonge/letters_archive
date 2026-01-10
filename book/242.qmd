@@ -2,8 +2,8 @@
 id: 242
 title: Founded on Paper, or, Uphill and Downhill between the Two Jubilees. By Charlotte
   M. Yonge, author of ‘Under the Storm,’ ‘The Carbonels,’ etc.
-author: Charlotte Mary Yonge
-date: October 1897
+author-name: Charlotte Mary Yonge
+publication-date: October 1897
 genre: Fiction (modern)
 publication-format: Book
 publisher: National Society’s Depository, Broad Sanctuary, London.

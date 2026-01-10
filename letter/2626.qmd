@@ -1,7 +1,7 @@
 ---
 id: 2626
 title: To George Lillie Craik
-date: '1878-04-01'
+iso-date: '1878-04-01'
 display-date: April 3d 1878
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -16,6 +16,3 @@ Yours truly
 
 C M Yonge		
 I shall send the proof tomorrow
-
-
-[^1]: Black-edged paper.

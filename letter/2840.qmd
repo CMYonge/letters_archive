@@ -1,7 +1,7 @@
 ---
 id: 2840
 title: To Emily Dampier
-date: '1886-09-11'
+iso-date: '1886-09-11'
 display-date: Sept 11th [1886]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -11,14 +11,8 @@ manuscript-location: MS Princeton University, Parrish Collection
 
 My dear [Miss Dampier](/person/404)
 So many thanks from [Gertrude](/person/1462) doubly!
-
-You will like to hear that [Philip](/person/235) and [Margaret Buston](/person/234) walked over here yesterday with some Grapes for Gertrude.[^1] They gave a very good account of their [mother](/person/236).
-
-There is no house to be had at Twyford, so they are looking for one at Winchester which is wiser, I do not think settling in one’s former parish is ever advisable
-Poor [Mrs Monroe](/person/1033) does not find it so.
-
-What a beautiful garden she has made.
-
+You will like to hear that [Philip](/person/235) and [Margaret Buston](/person/234) walked over here yesterday with some Grapes for Gertrude.[^1] They gave a very good account of their [mother](/person/236). There is no house to be had at Twyford, so they are looking for one at Winchester which is wiser, I do not think settling in one’s former parish is ever advisable
+Poor [Mrs Monroe](/person/1033) does not find it so. What a beautiful garden she has made.
 There will be no college meeting till October so nothing can be done about the living before that
 With Gertrude’s love
 
@@ -27,6 +21,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Philip and Margaret Buston were two of the numerous children of the Rev. [Roger Buston](/person/233) (1807-September 1886), Vicar of Twyford.
-
-Evidently this letter is written shortly after his death, when his widow and children were looking for a new home.
+[^1]: Philip and Margaret Buston were two of the numerous children of the Rev. [Roger Buston](/person/233) (1807-September 1886), Vicar of Twyford. Evidently this letter is written shortly after his death, when his widow and children were looking for a new home.

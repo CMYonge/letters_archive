@@ -1,7 +1,7 @@
 ---
 id: 19659
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1866-11-22'
+iso-date: '1866-11-22'
 display-date: Nov. 22 1866
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -14,9 +14,7 @@ How do you like this? I think a [illegible] ly cheap book [illegible] [illegible
 
 Yours very f’lly
 
-[A.
-
-Macmillan](/person/939)
+[A. Macmillan](/person/939)
 
 Alexander Macmillan to Charlotte Mary Yonge
 
@@ -28,23 +26,15 @@ Dear Miss Yonge,                                
 
 &nbsp;
 
-I have received some copies of Dynevor Terrace.
-
-Shall I send them to you or to some place inBrighton? I can probably add a book or two of my own if you say the cause is worthy.
+I have received some copies of Dynevor Terrace. Shall I send them to you or to some place inBrighton? I can probably add a book or two of my own if you say the cause is worthy.
 
 &nbsp;
 
-I will anyway see about the Cameos very soon and also about Miss Peard.
-
-The pre-Christmas weeks are rather pressing.
+I will anyway see about the Cameos very soon and also about Miss Peard. The pre-Christmas weeks are rather pressing.
 
 &nbsp;
 
-I liked Miss Sewell’s title very well.
-
-It might be slightly modified.
-
-Have you got the leave [illegible]  from all the authors?
+I liked Miss Sewell’s title very well. It might be slightly modified. Have you got the leave [illegible]  from all the authors?
 
 &nbsp;
 

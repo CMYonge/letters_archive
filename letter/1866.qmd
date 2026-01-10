@@ -1,7 +1,7 @@
 ---
 id: 1866
 title: To Miss Grigg
-date: '1862-06-25'
+iso-date: '1862-06-25'
 display-date: June 25th 1862
 from-name: Charlotte Mary Yonge
 to-name: To Miss Grigg

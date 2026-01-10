@@ -1,7 +1,7 @@
 ---
 id: 2827
 title: To Elizabeth Barnett
-date: '1886-04-02'
+iso-date: '1886-04-02'
 display-date: April 2 [1886]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -11,54 +11,15 @@ manuscript-location: MS location unknown. Printed in Coleridge, [[otherbook:40]<
 ---
 
 My dear [Lizzie](/person/113)
-. . . I see in the paper the death of a third Sumner within a few months; I hope our [Archdeacon](/person/1382) won't be the next.[^1] His [wife](/person/1381) was a Heywood, and is very valuable.
-
-They have given up Alresford and come for good to the Close, and are very useful. [Christabel Coleridge](/person/329) has been here.
-
-The Princesses give great satisfaction at Torquay, where they walk about with their governess and shop. 'And,' said one man 'Miss Maude would carry home her own galoshes.'[^2]
-Christabel and I wrote Mothers in Council together, each writing a speech in turn answering one another; I wonder what you will think of it, but it can't come in May.[^3] She is writing a very good story, out of Torquay experiences, on the plunge of a gardener's family from a favoured country parish into a town full of rival churches and schools. I want people to write and exhort the poor people whose children go to board schools to supply catechism.
-
-But though board schools are few in these parts (none at Winchester) hardly a new child comes here who knows it, almost never beyond 'the duties,' and we have had a good many.
-
-It is funny to see our children poke out their heads to see how far the new ones will go.
-
-One very nice little pair of sisters immediately bought a prayer-book and learnt three answers of themselves, and said their name was N. or M.
-
-We are overwhelmed with new cottages just now, and quake lest we should be swamped with strangers. I hope the young gentlemen may lead the young ladies.
-
-But there is a much larger amount of people who don't come into contact with University folk than there was in our time, and C. R. C. mentioned too as one disadvantage to the modern girl that the curate, instead of being her hero, is often her inferior in social standing.
-I hope your De Wints will keep.
-
-It is much warmer to-day, and the daffodils are a glory!
-
+. . . I see in the paper the death of a third Sumner within a few months; I hope our [Archdeacon](/person/1382) won't be the next.[^1] His [wife](/person/1381) was a Heywood, and is very valuable. They have given up Alresford and come for good to the Close, and are very useful. [Christabel Coleridge](/person/329) has been here. The Princesses give great satisfaction at Torquay, where they walk about with their governess and shop. 'And,' said one man 'Miss Maude would carry home her own galoshes.'[^2]
+Christabel and I wrote Mothers in Council together, each writing a speech in turn answering one another; I wonder what you will think of it, but it can't come in May.[^3] She is writing a very good story, out of Torquay experiences, on the plunge of a gardener's family from a favoured country parish into a town full of rival churches and schools. I want people to write and exhort the poor people whose children go to board schools to supply catechism. But though board schools are few in these parts (none at Winchester) hardly a new child comes here who knows it, almost never beyond 'the duties,' and we have had a good many. It is funny to see our children poke out their heads to see how far the new ones will go. One very nice little pair of sisters immediately bought a prayer-book and learnt three answers of themselves, and said their name was N. or M. We are overwhelmed with new cottages just now, and quake lest we should be swamped with strangers. I hope the young gentlemen may lead the young ladies. But there is a much larger amount of people who don't come into contact with University folk than there was in our time, and C. R. C. mentioned too as one disadvantage to the modern girl that the curate, instead of being her hero, is often her inferior in social standing.
+I hope your De Wints will keep. It is much warmer to-day, and the daffodils are a glory!
 Your affectionate
-C. M.
-
-Yonge
+C. M. Yonge
 I never congratulated you on [Grace](/person/594)'s little [daughter](/person/595).[^4] The great girls will be like her maiden aunts.
 
 
-[^1]: The Rev.
-
-George Henry Sumner (1826-1909), Archdeacon of Winchester , was the son of the late Bishop of Winchester, the Rt.
-
-Rev.
-
-Charles Richard Sumner (1790–1874), whose brother, the Rt.
-
-Rev.
-
-John Bird Sumner was Archbishop of Canterbury.
-
-This letter is dated on the assumption that it refers to the death of his brothers the Rev.
-
-John Maunoir Sumner (d.1 April 1886) and Charles Sumner (d.23 Dec 1885), and that of Robert Sumner (d.7 October 1885), son of the Archbishop.
-
-Archdeacon Sumner married Mary Elizabeth Heywood (1828–1921), founder of the Mothers’ Union.
+[^1]: The Rev. George Henry Sumner (1826-1909), Archdeacon of Winchester , was the son of the late Bishop of Winchester, the Rt. Rev. Charles Richard Sumner (1790–1874), whose brother, the Rt. Rev. John Bird Sumner was Archbishop of Canterbury. This letter is dated on the assumption that it refers to the death of his brothers the Rev. John Maunoir Sumner (d.1 April 1886) and Charles Sumner (d.23 Dec 1885), and that of Robert Sumner (d.7 October 1885), son of the Archbishop. Archdeacon Sumner married Mary Elizabeth Heywood (1828–1921), founder of the Mothers’ Union.
 [^2]: Christabel Coleridge, who lived in Torquay, is evidently the source of CMY\'s gossip about the visit there by the Princesses Maud and Victoria of Wales, children of the future Edward VII.
 [^3]: \'Mothers in Council\' was an article in dialogue form published in MP (June 1886) in which two sisters debate women\'s education and independence.
-[^4]: Barnett\'s niece Grace Harriet Butler (1847-1929) married the Rev.
-
-Robert Guinness (1841-1918) in 1866 and had seven children; of whom the two youngest daughters were Henrietta Darley (b.1886) and Mary Grace (1887-1899).
-
-The ‘great girls’ were Geraldine (b.1867), Elizabeth Maud (1868-1960) and Avice Mary (b. 1870).
+[^4]: Barnett\'s niece Grace Harriet Butler (1847-1929) married the Rev. Robert Guinness (1841-1918) in 1866 and had seven children; of whom the two youngest daughters were Henrietta Darley (b.1886) and Mary Grace (1887-1899). The ‘great girls’ were Geraldine (b.1867), Elizabeth Maud (1868-1960) and Avice Mary (b. 1870).

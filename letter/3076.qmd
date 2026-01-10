@@ -1,11 +1,11 @@
 ---
 id: 3076
 title: To Alice Arbuthnot Moberly
-date: '1855-12-01'
+iso-date: '1855-12-01'
 display-date: '[December 1855]'
 from-name: Charlotte Mary Yonge
 to-name: To Alice Arbuthnot Moberly
-manuscript-location: MS location unknown.  This fragment printed in <i>[[otherbook:122]Dulce
+manuscript-location: MS location unknown. This fragment printed in <i>[[otherbook:122]Dulce
   Domum]</i> 123
 ---
 
@@ -13,8 +13,4 @@ Here are the last three [chapters](/book/24); I think the others had better come
 
 
 [^1]: The MS in progress of The Daisy Chain (1856).
-[^2]: The Moberlys lived in College Street, Winchester.
-
-Miss Bracy is a character in The Daisy Chain, a tiresome young governess who is always imagining slights from her employers.
-
-Evidently CMY feared the Moberlys\' governess [Jane Cowing](/person/374) might take offence. CMY had probably written to [Alice](/person/1025)\'s mother [Mary Ann Moberly](/person/1019).
+[^2]: The Moberlys lived in College Street, Winchester. Miss Bracy is a character in The Daisy Chain, a tiresome young governess who is always imagining slights from her employers. Evidently CMY feared the Moberlys\' governess [Jane Cowing](/person/374) might take offence. CMY had probably written to [Alice](/person/1025)\'s mother [Mary Ann Moberly](/person/1019).

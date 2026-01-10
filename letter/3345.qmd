@@ -1,32 +1,17 @@
 ---
 id: 3345
 title: To a member of the Bigg-Wither family
-date: '1897-04-28'
+iso-date: '1897-04-28'
 display-date: April 28, 1897.
 from-name: Charlotte Mary Yonge
 to-name: To a member of the Bigg-Wither family
-manuscript-location: MS location unknown.  Printed in Coleridge, [[otherbook:40]<i>Life</i>],  328.
+manuscript-location: MS location unknown. Printed in Coleridge, [[otherbook:40]<i>Life</i>],
+  328.
 ---
 
-. . .
-
-But I must tell you of something that has given me the greatest pleasure.
-
-About two years ago a lady belonging to the Mission at Calcutta wrote to me that a Hindu student had been so much impressed with the [Pillars of the House](/book/109) as to accept Christianity, and that he was going to be baptized.
-
-So I sent out one of those illuminated cards that are given at baptisms ([Henry Bowles](/person/184) finding me one not adapted to a little baby, as most are!).
-
-By the time it arrived he had drawn back, though they were so good as not to disappoint me by telling me.
-
-But he has now come all right, and has been baptized.
-
-His friends have sent me this thankworthy letter of his, which I am sure you will like to read.
-
-Please return it.
-
-It makes one's heart glow. I am sending him out a photo of house and
+. . . But I must tell you of something that has given me the greatest pleasure. About two years ago a lady belonging to the Mission at Calcutta wrote to me that a Hindu student had been so much impressed with the [Pillars of the House](/book/109) as to accept Christianity, and that he was going to be baptized. So I sent out one of those illuminated cards that are given at baptisms ([Henry Bowles](/person/184) finding me one not adapted to a little baby, as most are!). By the time it arrived he had drawn back, though they were so good as not to disappoint me by telling me. But he has now come all right, and has been baptized.
+His friends have sent me this thankworthy letter of his, which I am sure you will like to read. Please return it. It makes one's heart glow. I am sending him out a photo of house and
 garden.
-
 Your very affectionate
 C. M. YONGE
 The oak-trees in Cranbury Park are surpassingly lovely in tints.

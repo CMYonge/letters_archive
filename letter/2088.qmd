@@ -1,7 +1,7 @@
 ---
 id: 2088
 title: To Ellen Julia Johns
-date: '1865-12-01'
+iso-date: '1865-12-01'
 display-date: Decr 22d [1865]
 from-name: Charlotte Mary Yonge
 to-name: To Ellen Julia Johns
@@ -9,16 +9,8 @@ manuscript-location: MS University of Delaware
 ---
 
 My dear [Mrs Johns](/person/772),
-I suppose you are enjoying a Christmas rest, indeed I almost expect to hear that [Mr Johns](/person/769) is spending his holiday on a visit to [Katie](/person/887).
-
-The business of my note is however to tell Katie or ask you to be so kind as to tell her, that we are having a great revolution in the state of [goosedom](/topic/104).
-
-Some goslings having grown lazy and some outgrown it, there is to be a break up, but I think we shall form a fresh society on the nucleus remaining, consisting of [Christabel](/person/329) and probably my cousin the [Cricket](/person/1603).
-
-And I thought that probably likewise Kittiwake would wish to adhere, but as I have hardly time to write to her tonight will you kindly tell her about it. I hope she will find time to send us some drawings for the [Barnacle](/periodical/89) which is any way to be kept up.
-
+I suppose you are enjoying a Christmas rest, indeed I almost expect to hear that [Mr Johns](/person/769) is spending his holiday on a visit to [Katie](/person/887). The business of my note is however to tell Katie or ask you to be so kind as to tell her, that we are having a great revolution in the state of [goosedom](/topic/104). Some goslings having grown lazy and some outgrown it, there is to be a break up, but I think we shall form a fresh society on the nucleus remaining, consisting of [Christabel](/person/329) and probably my cousin the [Cricket](/person/1603). And I thought that probably likewise Kittiwake would wish to adhere, but as I have hardly time to write to her tonight will you kindly tell her about it. I hope she will find time to send us some drawings for the [Barnacle](/periodical/89) which is any way to be kept up.
 We have had a sad week while the poor little [baby](/person/1592) at the other house was struggling with whooping cough and with convulsions, and now it is a relief that her rest is come.
-
 With all good Christmas wishes
 
 Yours sincerely

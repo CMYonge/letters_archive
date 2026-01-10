@@ -1,7 +1,7 @@
 ---
 id: 2338
 title: To the Reverend Duke Yonge
-date: '1869-09-04'
+iso-date: '1869-09-04'
 display-date: Sept 4th [1869]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,28 +11,14 @@ manuscript-location: MS West Devon Area Record Office Ac 1092/27
 
 My dear [Duke](/person/1599)
 I felt as if I must write to my [uncle](/person/1623) yesterday, I hope it was not troubling him when so many must be writing.[^2] It seems still like a dream to me, partly from the being so far away that everything must needs look and go on as usual, however much I may see with my mind’s eye how all must be looking at [Puslinch](/place/123) and how sad and changed the look out on the scorching wealth of autumn flowers, and how patiently dear [Mary](/person/1626) is going on in her duties and cares – now almost alone – but with all her strength within, and how [Charlotte](/person/1587) is longing to help her, but finding it hardly possible from the quiet power of management, or perhaps I am only transferring what it would be with me to Charlotte.
-
 When I look back these forty four years, I can recollect no beginning to our love and the way in which I regarded that dear [Anne](/person/1582) as something more mine than anyone else – and never since has the thought of meeting her failed to give a start of joy unlike anything else, and now when I think that there is the hope of the further meeting, it can only be with the prayer O cleanse us ere we see that countenance pure again[^3]
-Then I look back at the naturally high spirits, strong will, and great enterprise and eagerness that were in her nature, and see the quiet force with which that will was set to tame, subdue and conquer all into perfect submission and power over thought, word and deed, leaving only the sense of power that always made her gentleness, unselfishness & playfulness so attractive that I think no one was more loved or more remarkably winning Then come the ‘clouds returning again after the rain’[^4] and the shade that grew over those once bright spirits, and that the ‘Praise in the Sanctuary’[^5] seemed alone really to soothe and heal, though the least call for exertion for the sake of others made her so bravely fight with the depression, assume all the old fun, and seem the merriest of the merry.
-
-Those last years must have been a great effort and struggle day after day, that very few could have gone through as she did.
-
-That coming here last year, feeling as she did about journeys, was an exceeding act of charity, and I do not think she was the worse for the journey here, and that the quiet life with less exertion and less struggle to keep up for her father’s sake was not unbeneficial only the journey home seemed to try her so much.
-
-Looking back and remembering how she spoke of herself, I think she always had a certain expectation of a sudden call, though perhaps she thought it would be rather from the heart than the head.
-
-But after all I rather infer than anything else, from her great reserve as to all that concerned herself I suppose hardly any one really knew her true innermost self for many years past, it was only by a sort of glimpse now and then that one pressed at it, since [Alethea](/person/27) has been gone.
-
-And how bright she must shine now – freed from all that weighed her down so heavily here and dimmed the enjoyment But what was real and true enjoyment to her, almost the only real delight she had this last year I think was what will last with her for ever, and is only now indeed begun - How you are all to live without that dear presence, full sympathy and active aid I dare not think, and much much do I wish I could do anything to help.
-
-My love to Charlotte and all
+Then I look back at the naturally high spirits, strong will, and great enterprise and eagerness that were in her nature, and see the quiet force with which that will was set to tame, subdue and conquer all into perfect submission and power over thought, word and deed, leaving only the sense of power that always made her gentleness, unselfishness & playfulness so attractive that I think no one was more loved or more remarkably winning Then come the ‘clouds returning again after the rain’[^4] and the shade that grew over those once bright spirits, and that the ‘Praise in the Sanctuary’[^5] seemed alone really to soothe and heal, though the least call for exertion for the sake of others made her so bravely fight with the depression, assume all the old fun, and seem the merriest of the merry. Those last years must have been a great effort and struggle day after day, that very few could have gone through as she did. That coming here last year, feeling as she did about journeys, was an exceeding act of charity, and I do not think she was the worse for the journey here, and that the quiet life with less exertion and less struggle to keep up for her father’s sake was not unbeneficial only the journey home seemed to try her so much. Looking back and remembering how she spoke of herself, I think she always had a certain expectation of a sudden call, though perhaps she thought it would be rather from the heart than the head. But after all I rather infer than anything else, from her great reserve as to all that concerned herself I suppose hardly any one really knew her true innermost self for many years past, it was only by a sort of glimpse now and then that one pressed at it, since [Alethea](/person/27) has been gone. And how bright she must shine now – freed from all that weighed her down so heavily here and dimmed the enjoyment But what was real and true enjoyment to her, almost the only real delight she had this last year I think was what will last with her for ever, and is only now indeed begun - How you are all to live without that dear presence, full sympathy and active aid I dare not think, and much much do I wish I could do anything to help. My love to Charlotte and all
 your affectionate cousin
 
 C M Yonge
 4 o’clock Kind, dear Mary’s letter is just come, thank her for it, and tell her I will write on Monday.
 
 
-[^1]: Black-edged paper.
 [^2]: Anne Yonge died 1 September 1869.
 [^3]: John Keble, \'Burial of the Dead\' in [Lyra Apostolica](/periodical/92), 56.
 [^4]: Ecclesiastes 12:2.

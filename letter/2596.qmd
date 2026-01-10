@@ -1,7 +1,7 @@
 ---
 id: 2596
 title: To Alexander Macmillan
-date: '1877-08-25'
+iso-date: '1877-08-25'
 display-date: Aug 25th 1877
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -15,6 +15,3 @@ I am sending today a third instalment of the [Primer](/book/353) with additions,
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: Black-edged paper.

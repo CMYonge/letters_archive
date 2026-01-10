@@ -1,7 +1,7 @@
 ---
 id: 3403
 title: To Mary Caroline Butler
-date: '1899-04-11'
+iso-date: '1899-04-11'
 display-date: April 11th 1899
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne

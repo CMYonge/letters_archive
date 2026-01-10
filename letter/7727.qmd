@@ -1,7 +1,7 @@
 ---
 id: 7727
 title: To Sir John Taylor Coleridge
-date: '1862-02-21'
+iso-date: '1862-02-21'
 display-date: Feb 21st [1862 ]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -11,55 +11,33 @@ manuscript-location: 'MS British Library: Coleridge Family Papers E: Add MSS 862
 ---
 
 My dear [Sir John](/person/344),
-I asked [Milly](/person/17) to thank you and tell you that I was taking time to ponder over your kind suggestion about old Lauderdale’s remains – and I think I should like to transfer the sight of the book to Dr May, who shall tell Leonard of it.[^1] I had already made his son in law Hector a Dorsetshire Squire, so that he would bring the Doctor to Portland and introduce him to the governor, and it would thus happen that the book would be shown and Leonard told of it. I am afraid of making mistakes if I give more of Leonard’s prison adventures and life than would appear in the Doctor’s visits; and I want too not to shew him any favour, but let him take the course of an ordinary prisoner – for if he was not innocent he must have been obdurate and impenitent.
-
-If it is not inflicting a great deal too much on you, I should like when you get home to send you the two next chapters – under sentence and the Commutation to know whether I have got them right, and to shew the spirit in which it is to go on.
-
-They are all I shall do before Easter as I must go back and doctor parts up.
+I asked [Milly](/person/17) to thank you and tell you that I was taking time to ponder over your kind suggestion about old Lauderdale’s remains – and I think I should like to transfer the sight of the book to Dr May, who shall tell Leonard of it.[^1] I had already made his son in law Hector a Dorsetshire Squire, so that he would bring the Doctor to Portland and introduce him to the governor, and it would thus happen that the book would be shown and Leonard told of it. I am afraid of making mistakes if I give more of Leonard’s prison adventures and life than would appear in the Doctor’s visits; and I want too not to shew him any favour, but let him take the course of an ordinary prisoner – for if he was not innocent he must have been obdurate and impenitent. If it is not inflicting a great deal too much on you, I should like when you get home to send you the two next chapters – under sentence and the Commutation to know whether I have got them right, and to shew the spirit in which it is to go on. They are all I shall do before Easter as I must go back and doctor parts up.
 
 But there are one or two things on which I should be very glad of a little information, and I write about them now because it might be easier to obtain it in London than at Ottery.
 
 The [Cornhill](/periodical/156) says Millbank is the first stage – how long do prisoners remain there, do they write letters and see friends there – is there any schooling.[^2]
 
-Both there and at Pentonville are prisoners’ letters inspected?
-
-What would be done about the schooling of a man of good education already?
+Both there and at Pentonville are prisoners’ letters inspected? What would be done about the schooling of a man of good education already?
 
 Never mind about these answers unless they obviously fall in your way. I can keep out of wanting them – only if it is easy to find out, it would be foolish of me not to ask – but they signify very little.
 
 Will you also tell me who brings an action for forgery – the person whose writing was imitated, or the person who loses by the imposition.
-
+	
 This has to do with the pursuit of Sam subsequently. I must go back to the Inquest, and there make Leonard mention among the contents of the pocket book a £10 cheque on Whitford Bank payable by Order to his uncle – saying it was the rent of a house paid at Midsummer which he had himself received, receipted, and carried to the old man then ill with gout, and never again able to write.
 
 This order was watched for at the Bank before the Trial but never came.
 
 Two years after Rankin, the clerk who had been Leonard’s friend, wrote to Tom that it had been sent in and cashed – coming from some obscure London Bank – the signature Francis Axworthy at the back not satisfactory.
 
-Sam has by this time sold the Mill, and been living after a dissipated fashion so as to be almost lost sight of.
-
-Tom opens vigorously on the scent, and as I meant it to be.
-
-Is greatly vexed at failing to stir up the Bank to a prosecution, but succeeds in tracing the cheque to a lodging house, where Sam being hard up had paid his debt with it and gone to Paris.
+Sam has by this time sold the Mill, and been living after a dissipated fashion so as to be almost lost sight of. Tom opens vigorously on the scent, and as I meant it to be. Is greatly vexed at failing to stir up the Bank to a prosecution, but succeeds in tracing the cheque to a lodging house, where Sam being hard up had paid his debt with it and gone to Paris.
 
 This, though failing to make a public case, would certify Tom where the book must be. I then mean him to go to Paris to pursue his medical studies – continuing to keep up a certain knowledge of Sam’s whereabouts – always hoping to bring him to confession.
 
 Finally Tom identifies Sam’s body at the Morgue – and on his person is found the pocket book with receipt.
 
-I want to know whether I should get the English consulate or the French police authorities to draw up a statement and forward it to the Home Secretary – or if he may carry home book an report of procés verbal himself, which would be the most effective thing for the story.
+I want to know whether I should get the English consulate or the French police authorities to draw up a statement and forward it to the Home Secretary – or if he may carry home book an report of procés verbal himself, which would be the most effective thing for the story. In that case would not he and Dr May go up with it to the Home Secretary with it [sic] and the old report of the case? If it is not troublesome to you to tell me this I should be very much obliged – as likewise for the Castle scenery & description which will come in excellently. Is [Capt Manning](/person/1885) governor of the island or of the prison?[^3]
 
-In that case would not he and Dr May go up with it to the Home Secretary with it [sic] and the old report of the case?
-
-If it is not troublesome to you to tell me this I should be very much obliged – as likewise for the Castle scenery & description which will come in excellently.
-
-Is [Capt Manning](/person/1885) governor of the island or of the prison?[^3]
-
-I have had a letter from New Zealand by this mail. [Coley](/person/1155) is unwilling to put the [Daisy Chain](/book/24) money into the ship and wants to consider it as a loan to himself for the ship and finally to be spend in the Chapel. I do not think he can guess how high [Wigram](/person/157)’s estimate is.
-
-We shewed it to a yacht building neighbour of ours, who says it is 'monstrous'- and moreover that a good and seasoned yacht of 150 tons much better than new, could easily be purchased, & fitted out.
-
-At this time of year he says perhaps even for £1000 – at any rate that the estimate is infinitely above the mark.
-
-He is a man to be trusted, and it is a great pity something should not be done to save such a waste as this seems to be.
+I have had a letter from New Zealand by this mail. [Coley](/person/1155) is unwilling to put the [Daisy Chain](/book/24) money into the ship and wants to consider it as a loan to himself for the ship and finally to be spend in the Chapel. I do not think he can guess how high [Wigram](/person/157)’s estimate is. We shewed it to a yacht building neighbour of ours, who says it is 'monstrous'- and moreover that a good and seasoned yacht of 150 tons much better than new, could easily be purchased, & fitted out. At this time of year he says perhaps even for £1000 – at any rate that the estimate is infinitely above the mark. He is a man to be trusted, and it is a great pity something should not be done to save such a waste as this seems to be.
 
 [Lord Seaton](/person/313) has caught cold again but is mending. I hope this is not an overwhelmingly long letter
 
@@ -68,8 +46,6 @@ Your affectionate
 C M Yonge
 
 
-[^1]: Leonard is the hero of [The Trial](/book/53).
-
-While he is imprisoned at Portland, Dr May visits him and describes a volume (in the library of Portland Castle) of Archbishop Ussher\'s inscribed inspiringly by John Maitland, Duke of Lauderdale (1616-1682) while imprisoned.
+[^1]: Leonard is the hero of [The Trial](/book/53). While he is imprisoned at Portland, Dr May visits him and describes a volume (in the library of Portland Castle) of Archbishop Ussher\'s inscribed inspiringly by John Maitland, Duke of Lauderdale (1616-1682) while imprisoned.
 [^2]: The article referred to was probably Thornton Hunt, \'The English convict system\' Cornhill (3 June 1861), 708.
 [^3]: Manning was Lord Lieutenant of the Isle of Wight and Governor of Portland Castle; the Governor of Portland Prison was Captain William Clay.

@@ -1,7 +1,7 @@
 ---
 id: 2728
 title: To Ann Maria Carter Smith
-date: '1881-05-24'
+iso-date: '1881-05-24'
 display-date: May 24th 1881
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,19 +10,11 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1881/ 6
 ---
 
 My dear [Miss Smith](/person/263)
-I do not like to lay more revising on your eyes, but since you propose it, I think it would be safer.
-
-Armigel’s surname is a very undetermined matter, though I think you mean it to be Griffiths, by which I think Gladys is rather victimized. I think it will be certainly better to omit the engagement which does spoil the generosity of the act, and has not been prepared for.[^1] A little shortening here and there, not discussing irrelevant matters- eg, all the newspapers.
-
+I do not like to lay more revising on your eyes, but since you propose it, I think it would be safer. Armigel’s surname is a very undetermined matter, though I think you mean it to be Griffiths, by which I think Gladys is rather victimized. I think it will be certainly better to omit the engagement which does spoil the generosity of the act, and has not been prepared for.[^1] A little shortening here and there, not discussing irrelevant matters- eg, all the newspapers.
 Is it not rather a warm joke about the Standard? I think except the lamentation for the Times that names are better avoided, as they only give offence.
-I see your Bedford recollections.
-
-It is a part of the world I do not know at all - except through Cowper’s letters. I like the bit about all the poor creatures beset by the machines.
-
-The keepers generally watch to save them, but of course it was Mr Addison’s own land.
-
+I see your Bedford recollections. It is a part of the world I do not know at all - except through Cowper’s letters. I like the bit about all the poor creatures beset by the machines. The keepers generally watch to save them, but of course it was Mr Addison’s own land.
 But are you not too discursive about all the people with whom Armigil and Gladys stay? I had rather have kept closer to the Addisons But I only throw this out for consideration.
-I have written [a little Sunday School treatise](/book/140), which the [N S ](/organisation/32)is bringing out in which I have gone a little into the question of occasional influence of those who cannot be regular or come both times[^2]
+I have written [a little Sunday School treatise](/book/140), which the [N S](/organisation/32)is bringing out in which I have gone a little into the question of occasional influence of those who cannot be regular or come both times[^2]
 
 yours sincerely
 

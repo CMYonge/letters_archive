@@ -1,7 +1,7 @@
 ---
 id: 3095
 title: Frances Mary Yonge to Anne Sturges Bourne
-date: '1857-03-21'
+iso-date: '1857-03-21'
 display-date: '[21 March 1857]'
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -10,22 +10,10 @@ manuscript-location: MS Hampshire Record Office 9M55 F55/1/1
 ---
 
 My dear [Miss Bourne](/person/1379)
-[I](/person/1606) waited a few days to see if time would come to make something like a drawing, but waited in vain, so now I send a mere tracing of what my notion is, as well as the size of our letters and Numerals, the Exodus in red with blue border, the figures blue with red, and white patterns on all. I wish they would look as pretty in the sketch as they do when well finished.
-
-The S is especially good. I cannot remember now what were our authorities, but they were well ascertained at the time.
-
-Charlotte likes us all to read over her proofs and revises separately and really that takes more time than you would think. [Julian](/person/1624) is in all the pleasure of his first election eagerness, the third generation whom I have seen equally interested Just before my time, [my Father](/person/106) half killed himself for ‘Heathcote and Chute’ but happily there is not so much time for the fever to last in these days.[^2]
+[I](/person/1606) waited a few days to see if time would come to make something like a drawing, but waited in vain, so now I send a mere tracing of what my notion is, as well as the size of our letters and Numerals, the Exodus in red with blue border, the figures blue with red, and white patterns on all. I wish they would look as pretty in the sketch as they do when well finished. The S is especially good. I cannot remember now what were our authorities, but they were well ascertained at the time. Charlotte likes us all to read over her proofs and revises separately and really that takes more time than you would think. [Julian](/person/1624) is in all the pleasure of his first election eagerness, the third generation whom I have seen equally interested Just before my time, [my Father](/person/106) half killed himself for ‘Heathcote and Chute’ but happily there is not so much time for the fever to last in these days.[^2]
 Charlotte says you ought to be told that the [Peter Young](/person/1636)s have a nursery maid now, they go next week, leaving two children to console [Mrs Keble](/person/795).
-
 Yours very truly
 F M Yonge
 
 
-[^1]: Black-edged paper.
-
-With black-edged envelope (MS Hampshire Record Office 9M55F55/1/8), addressed to Miss Sturges Bourne/Testwood/Southampton postmarked MR21/1857/C., and labelled ‘C.M.Y. 1857/Reredos for Netley’.
-
-Some or all of the various drawings in MS 9M55F55/1 presumably accompanied this letter.
-[^2]: In 1790 William Chute (1757-1824) and Sir William Heathcote, 3rd Bt. (1746-1819) were elected for the first of many times M.P.s for Hampshire in the Conservative interest.
-
-Jane Austen refers to their slogan ‘Heathcote and Chute forever’ in a letter to Cassandra Austen (27 October 1800) ([Jane Austen\'s Letters](/place/261), 50)
+[^2]: In 1790 William Chute (1757-1824) and Sir William Heathcote, 3rd Bt. (1746-1819) were elected for the first of many times M.P.s for Hampshire in the Conservative interest. Jane Austen refers to their slogan ‘Heathcote and Chute forever’ in a letter to Cassandra Austen (27 October 1800) ([Jane Austen\'s Letters](/place/261), 50)

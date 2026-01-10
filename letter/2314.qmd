@@ -1,7 +1,7 @@
 ---
 id: 2314
 title: To Sarah Anne Mercier
-date: '1869-04-01'
+iso-date: '1869-04-01'
 display-date: April 1st [1869]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -15,6 +15,3 @@ As [Madame Melon](/person/2031) says SHE has not written to you I enclose her no
 Yours truly
 
 C M Yonge
-
-
-[^1]: Black-edged paper.

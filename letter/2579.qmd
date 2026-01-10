@@ -1,7 +1,7 @@
 ---
 id: 2579
 title: To Messrs Macmillan
-date: '1877-05-01'
+iso-date: '1877-05-01'
 display-date: '[May 1877]'
 from-name: Charlotte Mary Yonge
 to-name: To Messrs Macmillan
@@ -13,6 +13,3 @@ Sister Elizabeth
 [St Mary’s](/organisation/21) Home
 Wantage
 Also one copy of [the Heir of Redclyffe](/book/15) for herself
-
-
-[^1]: Endorsed ‘Rail/28 5/77’ and (against ‘herself’) ‘Post 28/5/77’.

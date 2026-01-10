@@ -1,7 +1,7 @@
 ---
 id: 19572
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1866-07-06'
+iso-date: '1866-07-06'
 display-date: July 6 1866
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -10,23 +10,13 @@ manuscript-location: Copy outletter book British Library Add MSS.55386 (1) p. 22
 
 Dear Miss Yonge
 
-[Mr Craik](/person/379)’s title was Heroes of History, which was less objectionable than A Book of Heroes as regards the chance of confusion with [Mr Kingsley](/person/816)'s.[^1] Still there is some objection to it.
+[Mr Craik](/person/379)’s title was Heroes of History, which was less objectionable than A Book of Heroes as regards the chance of confusion with [Mr Kingsley](/person/816)'s.[^1] Still there is some objection to it. It had not struck either of us before, but we both feel it now when you point it out.
 
-It had not struck either of us before, but we both feel it now when you point it out.
-
-How would [“A Book of Worthies”](/book/80) do?
-
-There is the old “Scotch Worthies” and “Worthies of France” and Fuller’s “worthies”.
-
-The first objection that strikes me is that the word has a semi-derisive(?) application in some modern day regions.
-
-But it is a capital old word nevertheless, and there is no harm but much good in restoring a noble word from lower use. I rather feel that ‘true chivalry’ lacks sim[illegible]  And the epithet “true” has a sort of antagonistic tone, [illegible] for books that I do not like. “A Book of Chivalry” would be better I think. I will have little hope of you  [next two paragraphs indecipherable]
+How would [“A Book of Worthies”](/book/80) do? There is the old “Scotch Worthies” and “Worthies of France” and Fuller’s “worthies”. The first objection that strikes me is that the word has a semi-derisive(?) application in some modern day regions. But it is a capital old word nevertheless, and there is no harm but much good in restoring a noble word from lower use. I rather feel that ‘true chivalry’ lacks sim[illegible]  And the epithet “true” has a sort of antagonistic tone, [illegible] for books that I do not like. “A Book of Chivalry” would be better I think. I will have little hope of you  [next two paragraphs indecipherable]
 
 Very faithfully yours
 
-[A.
-
-Macmillan](/person/939)
+[A. Macmillan](/person/939)
 
 I went to the Delegates meeting last Monday [rest of the paragraph indecipherable][^2]
 

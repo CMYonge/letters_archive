@@ -1,7 +1,7 @@
 ---
 id: 1915
 title: To Ann Maria Carter Smith
-date: '1863-11-12'
+iso-date: '1863-11-12'
 display-date: Novr 12th [1863]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourn
@@ -15,6 +15,3 @@ I hope you will forgive me for leaving out a few bits of the Thorne in order to 
 yours sincerely
 
 C M Yonge
-
-
-[^1]: Envelope addressed to Miss Smith/ 8 Wellington Buildings/ Old Charlton/ SE and postmarked Winchester 13 November 1863 and London SE 14 November 1863.

@@ -1,7 +1,7 @@
 ---
 id: 3279
 title: To Mary Yonge
-date: '1894-11-01'
+iso-date: '1894-11-01'
 display-date: '[November or December?1894]'
 from-name: Charlotte Mary Yonge
 to-name: To Mary Yonge
@@ -12,10 +12,4 @@ manuscript-location: MS fragment West Devon Area Record Office Ac 1092/37
 [Henry](/person/184)’s old [uncle](/person/2144), a Canon of Chichester has left him £1000[^1]
 
 
-[^1]: The death of the Rev.
-
-Francis Alfred Bowles, Rector of Singleton, Prebendary of Chichester, was reported in the Morning Post (30 October 1894).
-
-His nephew the Rev.
-
-Henry Bowles, vicar of Otterbourne, was married to CMY\'s niece Alethea, who was entertaining her mother and sister for Christmas.
+[^1]: The death of the Rev. Francis Alfred Bowles, Rector of Singleton, Prebendary of Chichester, was reported in the Morning Post (30 October 1894). His nephew the Rev. Henry Bowles, vicar of Otterbourne, was married to CMY\'s niece Alethea, who was entertaining her mother and sister for Christmas.

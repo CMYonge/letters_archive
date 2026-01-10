@@ -1,7 +1,7 @@
 ---
 id: 2351
 title: To Elizabeth Missing Sewell
-date: '1869-11-05'
+iso-date: '1869-11-05'
 display-date: Nov 5th [1869]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester
@@ -17,5 +17,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: CMY had written to Macmillan on September 30th: \'I believe the [second part](/book/82) of Historical Selections is almost ready.\'

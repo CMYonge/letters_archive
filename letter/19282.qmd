@@ -1,7 +1,7 @@
 ---
 id: 19282
 title: To George Lillie Craik
-date: '1864-03-06'
+iso-date: '1864-03-06'
 display-date: March 6th [1864]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -20,7 +20,4 @@ Yours sincerely
 CM Yonge
 
 
-[^1]: Black-edged paper.
-[^2]: Henriette de Witt\'s earliest contribution to MP seems to have been \'A Good Example, or, A Manufacturing Town in France\' Monthly Packet (October 1868) 378-92, but CMY\'s correspondence with her seems to date from 1864.
-
-In March that year CMY was still using black-edged paper following the death of her cousin John Bargus Yonge in November 1863.
+[^2]: Henriette de Witt\'s earliest contribution to MP seems to have been \'A Good Example, or, A Manufacturing Town in France\' Monthly Packet (October 1868) 378-92, but CMY\'s correspondence with her seems to date from 1864. In March that year CMY was still using black-edged paper following the death of her cousin John Bargus Yonge in November 1863.

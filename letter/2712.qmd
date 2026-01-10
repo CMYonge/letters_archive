@@ -1,7 +1,7 @@
 ---
 id: 2712
 title: To the Commissioners of Customs and Excise?
-date: '1880-09-30'
+iso-date: '1880-09-30'
 display-date: Sept 30th 1880
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.

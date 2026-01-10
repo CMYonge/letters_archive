@@ -1,8 +1,8 @@
 ---
 id: 115
 title: Womankind. By Charlotte Mary Yonge.
-author: Charlotte Mary Yonge
-date: '1876'
+author-name: Charlotte Mary Yonge
+publication-date: '1876'
 genre: 'Non-fiction: advice book'
 publication-format: Book 327pp
 publisher: 'London: Mozley and Smith, 6 Paternoster Row.'

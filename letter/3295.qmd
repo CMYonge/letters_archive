@@ -1,7 +1,7 @@
 ---
 id: 3295
 title: To Mary Trebeck
-date: '1895-05-08'
+iso-date: '1895-05-08'
 display-date: May 8th [1895]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -18,5 +18,4 @@ yours sincerely
 C M Yonge
 
 
-[^1]: Envelope addressed to Mrs Trebeck/ Southwell and postmarked Winchester 8 May 1895 and Southwell 9 May 1895.
 [^2]: Roundell Palmer, 1st Earl of Selborne (1812-4 May 1895).

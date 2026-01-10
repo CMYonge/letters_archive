@@ -1,7 +1,7 @@
 ---
 id: 2093
 title: To Frances Mary Peard
-date: '1865-01-06'
+iso-date: '1865-01-06'
 display-date: '[1865/6]'
 from-name: Charlotte Mary Yonge
 to-name: To Frances Mary Peard
@@ -10,13 +10,7 @@ manuscript-location: MS location unknown. This fragment printed in Mary J. Y. Ha
 ---
 
 My dear [Frances](/person/1160),
-Is this a very outrageous thing I am going to propose.
-
-You must know [Goosedom](/topic/104) has had a shock and a revolution, chiefly induced by [Mildred Coleridge](/person/17) having no time for it and her [aunt](/person/351) therefore losing her interest in it.
-
-So after having very nearly broken up, we are beginning again in a more brilliant manner, and the thing is would you condescend to be a Gosling.
-
-All you would have to do would be to take a Goosey name, receive two questions on the first of each month--except August and September--and send the answers to me, then in due time the best answers would be sent to you to be handed on to the next Gosling, but the Goslings sit very loose to their questions and do not answer unless it quite suits their convenience; also any contribution of wit, wisdom, or drawing to that esteemed Quarterly the [Barnacle](/periodical/89) is likewise much coveted. I think the old Goslings who have kept on, i.e., [Christabel](/person/329) and [Alice Coleridge](/person/327) need some real thought and power in their colleagues to balance them so we were very glad to catch [Florence Wilford](/person/1520)-otherwise called ‘Turk’s cap’---and such a Gosling as you, even if you answered only one question once in two months would be very wholesome for us.
+Is this a very outrageous thing I am going to propose. You must know [Goosedom](/topic/104) has had a shock and a revolution, chiefly induced by [Mildred Coleridge](/person/17) having no time for it and her [aunt](/person/351) therefore losing her interest in it. So after having very nearly broken up, we are beginning again in a more brilliant manner, and the thing is would you condescend to be a Gosling. All you would have to do would be to take a Goosey name, receive two questions on the first of each month--except August and September--and send the answers to me, then in due time the best answers would be sent to you to be handed on to the next Gosling, but the Goslings sit very loose to their questions and do not answer unless it quite suits their convenience; also any contribution of wit, wisdom, or drawing to that esteemed Quarterly the [Barnacle](/periodical/89) is likewise much coveted. I think the old Goslings who have kept on, i.e., [Christabel](/person/329) and [Alice Coleridge](/person/327) need some real thought and power in their colleagues to balance them so we were very glad to catch [Florence Wilford](/person/1520)-otherwise called ‘Turk’s cap’---and such a Gosling as you, even if you answered only one question once in two months would be very wholesome for us.
 
 Yours affectionately,
 C. M. YONGE.

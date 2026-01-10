@@ -1,7 +1,7 @@
 ---
 id: 2744
 title: To the Reverend William Harris Bigg Wither
-date: '1882-03-26'
+iso-date: '1882-03-26'
 display-date: March 26th 1882
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,32 +11,14 @@ manuscript-location: MS Princeton University, Parrish Collection
 
 My dear [Mr Wither](/person/1544)
 The news of the day is that [Lady Chichester](/person/1744) is to be doubly Lady Chichester She marries [Sir Arthur Chichester](/person/2335), a widower over 60, whose estate joins on to Arlington[^1]
-He joins her at Arlington and his two unmarried daughters remain in possession.
-
-One of his daughters is [Mrs Chichester](/person/2336) so they have a small choice of names. [Mrs Johnstone](/person/277)’s two pretty little boys have begun to come to Church
+He joins her at Arlington and his two unmarried daughters remain in possession. One of his daughters is [Mrs Chichester](/person/2336) so they have a small choice of names. [Mrs Johnstone](/person/277)’s two pretty little boys have begun to come to Church
 I suppose [the archbishop](/person/1391) is really going now and I fully expect we shall lose [our Harold](/person/213) but it will be a good thing for the Church, and if they gave us [yours](/person/926), it would be a consolation[^2]
-[Gilbert Heathcote](/person/661) has come to the park. [Ellie ](/person/663)and [Bella](/person/1690) drove over the other day and told us about him.[^3] His daughter [Gertrude](/person/2337) rises to the occasion, she has had sole charge of the poor little [baby](/person/2339) every since it was born, and brought it and the years old [Caroline](/person/2338) home without a nurse Twenty years between her and Caroline is quite enough to give authority.
-
-Gilbert is going to spend the rest of his leave of absence in Scotland. [Charles Mackarness](/person/1883) is an excellent person and has been so all his life he is a Wykehamist
+[Gilbert Heathcote](/person/661) has come to the park. [Ellie](/person/663)and [Bella](/person/1690) drove over the other day and told us about him.[^3] His daughter [Gertrude](/person/2337) rises to the occasion, she has had sole charge of the poor little [baby](/person/2339) every since it was born, and brought it and the years old [Caroline](/person/2338) home without a nurse Twenty years between her and Caroline is quite enough to give authority. Gilbert is going to spend the rest of his leave of absence in Scotland. [Charles Mackarness](/person/1883) is an excellent person and has been so all his life he is a Wykehamist
 Your affectionate
 
 C M Yonge
 
 
-[^1]: Rosalie Amelia Chamberlayne (1842/3-1908), daughter of Thomas Chamberlayne of Cranbury Park,  married first (9 February 1865), Sir Alexander Palmer Bruce Chichester, 2nd Bt. (1842/3-1881), of Arlington Park, Devon, and, secondly (23 January 1883), his cousin Sir Arthur Chichester, 8th Bt. (1822/3-1898).
-
-Mrs Johnstone was Lady Chichester\'s sister, another daughter of Thomas Chamberlayne.
-[^2]: The word \'Brown\' added here in a different hand.
-
-The Rt.
-
-Rev.
-
-Harold Browne (1811–1891) had been Bishop of Winchester since 1873, and was a candidate to succeed the dying Archibald Campbell Tait (1811–3 December 1882) as Archbishop of Canterbury, though he did not. CMY suggests that she would be happy to see the Bishop of Oxford, John Mackarness, promoted to become Bishop of Winchester.
-[^3]: The Rev.
-
-Gilbert Heathcote (1830-1890), son of Sir William Heathcote, had been married twice.
-
-His second wife Helen Maxwell Cunningham was to die in Florence on 29 October 1882, leaving five children of whom the youngest was a few months old.
-
-He remarried for the third time in November 1883.
+[^1]: Rosalie Amelia Chamberlayne (1842/3-1908), daughter of Thomas Chamberlayne of Cranbury Park,  married first (9 February 1865), Sir Alexander Palmer Bruce Chichester, 2nd Bt. (1842/3-1881), of Arlington Park, Devon, and, secondly (23 January 1883), his cousin Sir Arthur Chichester, 8th Bt. (1822/3-1898). Mrs Johnstone was Lady Chichester\'s sister, another daughter of Thomas Chamberlayne.
+[^2]: The word \'Brown\' added here in a different hand. The Rt. Rev. Harold Browne (1811–1891) had been Bishop of Winchester since 1873, and was a candidate to succeed the dying Archibald Campbell Tait (1811–3 December 1882) as Archbishop of Canterbury, though he did not. CMY suggests that she would be happy to see the Bishop of Oxford, John Mackarness, promoted to become Bishop of Winchester.
+[^3]: The Rev. Gilbert Heathcote (1830-1890), son of Sir William Heathcote, had been married twice. His second wife Helen Maxwell Cunningham was to die in Florence on 29 October 1882, leaving five children of whom the youngest was a few months old. He remarried for the third time in November 1883.

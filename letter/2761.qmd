@@ -1,7 +1,7 @@
 ---
 id: 2761
 title: To an Unknown Man
-date: '1882-12-04'
+iso-date: '1882-12-04'
 display-date: Decr 4th 1882
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,9 +10,7 @@ manuscript-location: MS Hertfordshire County Record Office D/EP F587 p24
 ---
 
 Dear Sir
-I am much obliged for this notice, but I have always wished to keep clear of the whole subject of scepticism for fear of opening the thought of it to younger readers.
-
-Would not the [Literary Churchman](/periodical/76) be the best home for this notice
+I am much obliged for this notice, but I have always wished to keep clear of the whole subject of scepticism for fear of opening the thought of it to younger readers. Would not the [Literary Churchman](/periodical/76) be the best home for this notice
 
 yours truly
 

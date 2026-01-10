@@ -1,8 +1,8 @@
 ---
 id: 321
 title: \'A wheel and a fall\'. By C.M. Yonge
-author: Charlotte Mary Yonge
-date: '1898'
+author-name: Charlotte Mary Yonge
+publication-date: '1898'
 genre: Fiction (modern)
 publication-format: Short Story in Journal
 publisher: <i>Friendly Leaves</i> (December 1898) 2-9.

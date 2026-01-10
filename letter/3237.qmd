@@ -1,7 +1,7 @@
 ---
 id: 3237
 title: To an Unknown Woman
-date: '1893-12-04'
+iso-date: '1893-12-04'
 display-date: Decr 4th [1893?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -17,9 +17,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: A tiny piece from an envelope is pasted in with the address ‘The Revd/ J.J.
-
-Stone/ Windsor’.
-
-The recipient was perhaps a member of his household, or the letter may not belong to it.
 [^2]: Florence Freeman, \'Taormina and its Neighbourhood\' MP 3s 2 (December 1891), 617-29; and \'Palermo and its Neighbourhood\' MP 3s 6 (September 1893), 296-310.

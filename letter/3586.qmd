@@ -1,7 +1,7 @@
 ---
 id: 3586
 title: To an Unknown Man
-date: '1892-01-03'
+iso-date: '1892-01-03'
 display-date: '[1892/3?]'
 from-name: Charlotte Mary Yonge
 to-name: To an Unknown Man

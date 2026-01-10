@@ -1,8 +1,8 @@
 ---
 id: 3555
 title: To the Hon. Mrs Warburton
-date: '1866-08-01'
-display-date: '[August 1866[[footnote:1]]]'
+iso-date: '1866-08-01'
+display-date: '[August 1866]'
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
 to-name: To the Hon. Mrs Warburton
@@ -15,6 +15,3 @@ I am sorry to say I have to dine with a great wedding party on Monday at my [bro
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: Louisa Walter married Francis Edward Halliday in Otterbourne on Tuesday 7 August 1866.

@@ -2,8 +2,8 @@
 id: 217
 title: Simple Stories Relating to English History, Part 1 of the Westminster Historical
   Reading Books, Adapted to the Requirements of the New Code of 1891.
-author: Charlotte Mary Yonge
-date: '1891'
+author-name: Charlotte Mary Yonge
+publication-date: '1891'
 genre: 'Non-fiction: history'
 publication-format: Book
 publisher: National Society’s Depository, Broad Sanctuary, London.

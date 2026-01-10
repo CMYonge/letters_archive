@@ -1,12 +1,12 @@
 ---
 id: 3481
 title: To Charlotte Fortescue Yonge
-date: '1901-02-26'
+iso-date: '1901-02-26'
 display-date: February 26, 1901
 from-name: Charlotte Mary Yonge
 from-address: Elderfield,
 to-name: To Charlotte Fortescue Yonge
-manuscript-location: MS location unknown.  Printed in Coleridge, [[otherbook:40]<i>Life</i>],
+manuscript-location: MS location unknown. Printed in Coleridge, [[otherbook:40]<i>Life</i>],
   347
 ---
 
@@ -14,16 +14,9 @@ My dear [Lottie](/person/1588)-
 How are you getting on ; I am afraid there is not much change any way and that your hands are full.
 I believe [Helen](/person/1613) is somewhere either in the Bay of Biscay or the Chops of the Channel; she sailed on the 18th, and in a nice cabin with her goldfinches, and after to-morrow I may have a telegram any day to say she is in the Thames.
 [Christabel](/person/329) talks of coming on the 7th or 8th; 1 will let you know when, as you might be able to come over and see them.
-
-Poor [Reggie](/person/189) has never been well since he went to St.
-
-Leonards; [Alethea](/person/182) is going over to-morrow to see about him and bring him home.
-[Cordelia Steer](/person/1364) was to come to her[ grandmother](/person/1587) for good, as soon as she has fully recovered on the Blue Mountains from her fever. [Charles](/person/1656) and [Ada](/person/2256) are in their new house.
-
+Poor [Reggie](/person/189) has never been well since he went to St. Leonards; [Alethea](/person/182) is going over to-morrow to see about him and bring him home.
+[Cordelia Steer](/person/1364) was to come to her[grandmother](/person/1587) for good, as soon as she has fully recovered on the Blue Mountains from her fever. [Charles](/person/1656) and [Ada](/person/2256) are in their new house.
 Fancy a girl writing to me for my autograph and saying she had got [Lord Roberts](/person/2258), and hoped to get [General Buller](/person/2257) when she knew his address. I could not help telling her that I thought it very impertinent to worry a busy General about a young lady's fashion of collection. I wonder if she will heed.-
 Your affectionate
 C. M. YONGE.
-
-Mr.
-
-Hare's recollections are very entertaining, brimful of Ghost Stories.
+Mr. Hare's recollections are very entertaining, brimful of Ghost Stories.

@@ -1,7 +1,7 @@
 ---
 id: 3339
 title: To Elizabeth Wordsworth
-date: '1897-01-02'
+iso-date: '1897-01-02'
 display-date: January 2, 1897
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,34 +10,13 @@ manuscript-location: MS location unknown; these fragments printed in Wordsworth,
   of the Past</i>], 187-8
 ---
 
-. . .Whether I shall accomplish wishing [you](/person/1566) and [Lady Margaret Hall](/organisation/6) a good New Year to-day must depend on the need of refreshing the church decorations, which always comes severely on the permanent workers, when the enthusiasm of the festival is over, with their occasional helpers . . . . I sometimes think I could make a dissertation on staying at home in the holidays and getting every one's work to do.
-
-Not that I mind it, but it is rather amusing - from hunting up a clergyman to baptize a child, to supplying half a crown towards the rent of some one going to be turned out, not knowing if it be a just demand.
+. . .Whether I shall accomplish wishing [you](/person/1566) and [Lady Margaret Hall](/organisation/6) a good New Year to-day must depend on the need of refreshing the church decorations, which always comes severely on the permanent workers, when the enthusiasm of the festival is over, with their occasional helpers . . . . I sometimes think I could make a dissertation on staying at home in the holidays and getting every one's work to do. Not that I mind it, but it is rather amusing - from hunting up a clergyman to baptize a child, to supplying half a crown towards the rent of some one going to be turned out, not knowing if it be a just demand.
 . . .What joy there must be at Salisbury over the little daughter![^1] I think the family has chiefly 'run to boys,' so she is the more welcome. . . .Please give your sister [Susan](/person/1570) my love, if I may. . . .
-
-Have you read Lord Selborne's 'Recollections'?
-
-The wisdom of his old father impresses me exceedingly, as does his own.
-
-And the account of [Lord Chewton](/person/2161) is so beautiful.
-
-He was one of the veritable héros de roman.
-
-One thing that pleased me in the ['Daisy Chain'](/book/24) article in the [Guardian](/periodical/75) was the recognition that my good men were really imitations of the good men of the day, not mere ideals, as the present generation has come to imagine them.
-
-You may like to know that 'Heartsease' was the last book [Lord Raglan](/person/1276) read; the man ([Admiral Stewart](/person/1277)) who lent it to him told me so. I have, in the last year or so, done what Rousseau's [Thérèse](/person/2422) called the peacock admiring its own tail, or tale (it was hard that the pun was denied her), and been edified by the changes traceable in manners; the funniest perhaps is, when Clement, a choir boy, talks of going third-class as a condescension.[^2]
-Oh, the contrast of the Selborne life and the Manning one!
-
-The ambition and the want of real truth, yet the self-conscious nature trying to convince itself that he was neither ambitious nor untruthful.
-
-And, as some review rightly observed, really repressing the faults, while Anglican, but thinking they were for the good of the Church when he had Romanized.
-
-He hated Jesuits, but he had essentially the Jesuit nature.
+Have you read Lord Selborne's 'Recollections'? The wisdom of his old father impresses me exceedingly, as does his own. And the account of [Lord Chewton](/person/2161) is so beautiful. He was one of the veritable héros de roman. One thing that pleased me in the ['Daisy Chain'](/book/24) article in the [Guardian](/periodical/75) was the recognition that my good men were really imitations of the good men of the day, not mere ideals, as the present generation has come to imagine them. You may like to know that 'Heartsease' was the last book [Lord Raglan](/person/1276) read; the man ([Admiral Stewart](/person/1277)) who lent it to him told me so. I have, in the last year or so, done what Rousseau's [Thérèse](/person/2422) called the peacock admiring its own tail, or tale (it was hard that the pun was denied her), and been edified by the changes traceable in manners; the funniest perhaps is, when Clement, a choir boy, talks of going third-class as a condescension.[^2]
+Oh, the contrast of the Selborne life and the Manning one! The ambition and the want of real truth, yet the self-conscious nature trying to convince itself that he was neither ambitious nor untruthful. And, as some review rightly observed, really repressing the faults, while Anglican, but thinking they were for the good of the Church when he had Romanized. He hated Jesuits, but he had essentially the Jesuit nature.
 
 Yours sincerely and affectionately
-C. M.
-
-Yonge
+C. M. Yonge
 
 
 [^1]: Elizabeth Wordsworth\'s brother [John](/person/1567), Bishop of Salisbury (1843-1911) had married for the second time in 1896, and his daughter Margaret Faith Wordsworth was born in 1897.

@@ -5,6 +5,4 @@ name: R & R Clark
 title: R & R Clark
 ---
 
-An Edinburgh printing firm.
-
-They were the printers of [Stray Pearls](/book/170) (1883).
+An Edinburgh printing firm. They were the printers of [Stray Pearls](/book/170) (1883).

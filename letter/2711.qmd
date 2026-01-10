@@ -1,18 +1,16 @@
 ---
 id: 2711
 title: To Anna Rachel Bramston?
-date: '1880-07-07'
+iso-date: '1880-07-07'
 display-date: July 7th [1880]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
 to-name: To Anna Rachel Bramston?
-manuscript-location: 'MS  UCLA: collection 100: box 95'
+manuscript-location: 'MS UCLA: collection 100: box 95'
 ---
 
 My dear [Anna](/person/195),
-You did not give the name of your friend’s story, but I conclude that it is the Days of the Bruce.[^1] I had so many at the same time that it is not easy to distinguish between them.
-
-However, the Bruce is a very nice story, and though I cannot certainly promise, I think it has a good chance.
+You did not give the name of your friend’s story, but I conclude that it is the Days of the Bruce.[^1] I had so many at the same time that it is not easy to distinguish between them. However, the Bruce is a very nice story, and though I cannot certainly promise, I think it has a good chance.
 
 Yours sincerely
 

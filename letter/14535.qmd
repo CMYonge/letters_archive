@@ -1,7 +1,7 @@
 ---
 id: 14535
 title: To Francis Turner Palgrave
-date: '1874-09-08'
+iso-date: '1874-09-08'
 display-date: Sept 8th 1874
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.

@@ -1,7 +1,7 @@
 ---
 id: 7759
 title: To Sir William Heathcote, Bt.
-date: '1869-02-15'
+iso-date: '1869-02-15'
 display-date: Feb 15th 1869
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,24 +10,16 @@ manuscript-location: 'MS British Library: Coleridge Family Papers E: Add MSS 862
   Yonge JTC'
 ---
 
-My dear[ Sir William](/person/669),
-[Julian](/person/1624) and I have been looking over the plans in the [Church](/place/158), and find every proof (except[ Repton](/person/1888)’s plan) that the history of the matter was as you believed.
+My dear[Sir William](/person/669),
+[Julian](/person/1624) and I have been looking over the plans in the [Church](/place/158), and find every proof (except[Repton](/person/1888)’s plan) that the history of the matter was as you believed.
 
-The original design was made out between Repton and my [father](/person/1631), and [Carter](/person/1886) was employed to make the drawings but finding him not up the requirements of a taste so fastidious and minute as my father’s was, he (my father) collected examples, made designs, stood over Carter, and then did every drawing over again himself for the workmen.
+The original design was made out between Repton and my [father](/person/1631), and [Carter](/person/1886) was employed to make the drawings but finding him not up the requirements of a taste so fastidious and minute as my father’s was, he (my father) collected examples, made designs, stood over Carter, and then did every drawing over again himself for the workmen. There is, I suppose thus much ground for[Mr Colson](/person/1887)’s assertion that in the present day the business he did would be left to a clerk of the works:- I mean making working drawings on a large scale – But as you remember, the collection of materials (if I may so call them) was his doing – the examples I mean – the bell turret from Carstone the finials from Walsingham, the finial of the open benches from an ornament on a little gothic crown – These are but a few of what we have drawings of his and [my mothe](/person/1606)r’s to prove –
 
-There is, I suppose thus much ground for[ Mr Colson](/person/1887)’s assertion that in the present day the business he did would be left to a clerk of the works:- I mean making working drawings on a large scale – But as you remember, the collection of materials (if I may so call them) was his doing – the examples I mean – the bell turret from Carstone the finials from Walsingham, the finial of the open benches from an ornament on a little gothic crown – These are but a few of what we have drawings of his and [my mothe](/person/1606)r’s to prove –
-
-There are two copies of specifications, each signed on every single sheet by my father, [Mr Keble](/person/798), [Mr Chamberlayne](/person/282) and the builders.
-
-One is entirely in my father’s handwriting, the other in my mother’s.
+There are two copies of specifications, each signed on every single sheet by my father, [Mr Keble](/person/798), [Mr Chamberlayne](/person/282) and the builders. One is entirely in my father’s handwriting, the other in my mother’s.
 
 I suppose the professional esprit de corps of architects would prevent them from ever believing the real facts, but thirty years age there was no study of ecclesiastical architecture, and Mr Carter could not do much more than draw from models set before him.
 
-It is fair to say however that among the mass of drawings we found a rough copy of part of a notice evidently intended for the county paper, in my father’s writing, saying that the Church “reflected the greatest credit on Mr Carter, the architect who –” There it breaks off and and another rough copy begins of a note to some person about the state of the roof, mentioning a small drawing of Carter’s and a large one of his own to be worked from.
-
-It is an instance of the way everything was done.
-
-The calling Mr Carter the architect in the paper was no doubt from the kindly wish to make the most of what he had done as to advertise him, but the huge mass of papers we turned over quite substantiate whose was the head and hand that designed and carried out the design.
+It is fair to say however that among the mass of drawings we found a rough copy of part of a notice evidently intended for the county paper, in my father’s writing, saying that the Church “reflected the greatest credit on Mr Carter, the architect who –” There it breaks off and and another rough copy begins of a note to some person about the state of the roof, mentioning a small drawing of Carter’s and a large one of his own to be worked from. It is an instance of the way everything was done. The calling Mr Carter the architect in the paper was no doubt from the kindly wish to make the most of what he had done as to advertise him, but the huge mass of papers we turned over quite substantiate whose was the head and hand that designed and carried out the design.
 
 Of the [Ampfield](/place/124) plans we have none. I think you must have had them made over to you.
 

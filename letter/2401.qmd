@@ -1,7 +1,7 @@
 ---
 id: 2401
 title: To Elizabeth Missing Sewell
-date: '1871-03-01'
+iso-date: '1871-03-01'
 display-date: March 3d 1871
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,10 +11,7 @@ manuscript-location: MS Princeton University, Parrish Collection
 
 My dear [Miss Sewell](/person/1301),
 Would you mind my changing the time of your proposed session to the later day you had fixed. I am asked to spend a day or two at [Mr Portal](/person/1196)’s to meet the [Bishop](/person/1512) on the 10th, and that is a thing I should like so much to do that I venture to ask you to change the day. [^1] The week after I go to [Miss Dyson](/person/464).
-I think you said at first Friday the 21st.
-
-My only objection to a Friday is that I want to begin a class of freshly confirmed girls on Friday evenings (the confirmation is on the 1st and I think if I break it up so soon after the first start it will never come to good - but that does not signify as an objection.
-
+I think you said at first Friday the 21st. My only objection to a Friday is that I want to begin a class of freshly confirmed girls on Friday evenings (the confirmation is on the 1st and I think if I break it up so soon after the first start it will never come to good - but that does not signify as an objection.
 Would the Monday after suit you as well? I hope I an not putting out your plans very much
 
 Yours sincerely

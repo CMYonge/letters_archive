@@ -1,16 +1,13 @@
 ---
 id: 2823
 title: To Gertrude Mary Ireland Blackburne
-date: '1885-01-01'
-display-date: '[1885[[footnote:1]]]'
+iso-date: '1885-01-01'
+display-date: '[1885]'
 from-name: Charlotte Mary Yonge
 to-name: To Gertrude Mary Ireland Blackburne
-manuscript-location: MS location unknown.  Printed in Romanes, [[otherbook:241]<i>Appreciation</i>],
+manuscript-location: MS location unknown. Printed in Romanes, [[otherbook:241]<i>Appreciation</i>],
   184, 185.
 ---
 
 [To [Gertrude Mary Ireland Blackburne](/person/160)]I can’t help being attracted by ghost discussions, and there are some things that I very decidedly believe.
 I don’t care much for [Nuttie](/book/183) myself. I am getting too old to write of the swing of modern life; I don’t see enough of it.
-
-
-[^1]: Nuttie\'s Father was published in autumn 1885.

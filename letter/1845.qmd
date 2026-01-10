@@ -1,7 +1,7 @@
 ---
 id: 1845
 title: To Ann Maria Carter Smith
-date: '1861-11-01'
+iso-date: '1861-11-01'
 display-date: Novr 23d 1861
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester
@@ -11,9 +11,7 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1861/14
 
 My dear [Miss Smith](/person/263)
 I have not the letter, at least I do not believe I have but I am almost certain that it was to be the 4 couples at 2lb; and I think you may safely so apply it. I will wait a week to write to [Mrs Elphinstone](/person/482) in case you should be able to tell me anything specially about any of the people.[^1]
-I do not know whether I forgot to finish my story or only put it stupidly, the point of it was the staring of the strangers at hearing such a grave polished man as [Dr Harris](/person/629) proposing the worst street in Torr as an allurement to a lady.
-
-That Torr Churchyard is indeed a strangely mournful place, with all its records of early deaths among strangers and its graves so close together I wish we had more time to spend with the kind cousins there, but I was hurried away by having to meet [Mrs Selwyn](/person/1297) before her return to New Zealand, and I could not go to Cockington though I have a whole houseful of cousins and a godson there.[^2] I did once walk there from Livermead many years ago.
+I do not know whether I forgot to finish my story or only put it stupidly, the point of it was the staring of the strangers at hearing such a grave polished man as [Dr Harris](/person/629) proposing the worst street in Torr as an allurement to a lady. That Torr Churchyard is indeed a strangely mournful place, with all its records of early deaths among strangers and its graves so close together I wish we had more time to spend with the kind cousins there, but I was hurried away by having to meet [Mrs Selwyn](/person/1297) before her return to New Zealand, and I could not go to Cockington though I have a whole houseful of cousins and a godson there.[^2] I did once walk there from Livermead many years ago.
 [Masters](/person/981)’s corrections and criticisms amuse me very much - it was great fun to see how he presided over the Maiden of our own day. I wish you would have a good fight with him it would do him good
 
 yours sincerely

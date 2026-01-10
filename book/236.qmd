@@ -2,8 +2,8 @@
 id: 236
 title: Carbonels, The By Charlotte M. Yonge, author of “Under the Storm,” “The Cook
   and the Captive,” etc.
-author: Charlotte Mary Yonge
-date: n.d. [September 1895]
+author-name: Charlotte Mary Yonge
+publication-date: n.d. [September 1895]
 genre: Fiction (historical)
 publication-format: Book
 publisher: 'London: National Society’s Depository, Broad Sanctuary, Westminster, New

@@ -1,7 +1,7 @@
 ---
 id: 3167
 title: To an Unknown Woman
-date: '1890-01-13'
+iso-date: '1890-01-13'
 display-date: Jany 13th 18901
 from-name: Charlotte Mary Yonge
 from-address: Elderfield

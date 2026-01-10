@@ -1,7 +1,7 @@
 ---
 id: 3186
 title: To an Unknown Man
-date: '1892-01-01'
+iso-date: '1892-01-01'
 display-date: Jan 2d 1892
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -11,7 +11,6 @@ manuscript-location: MS Princeton University Parrish Collection
 
 Sir
 I think the books I most enjoyed in early childhood were Miss Edgeworth’s series of Early Lessons, Frank, Rosamond and Harry and Lucy.
-
 Mrs Whately’s Fairfax family
 Anna Ross -
 Miss Strickland’s Rival Crusoes

@@ -1,7 +1,7 @@
 ---
 id: 2307
 title: To the Members of the Gosling Society
-date: '1869-03-01'
+iso-date: '1869-03-01'
 display-date: '[March 1869]'
 from-name: Charlotte Mary Yonge
 to-name: To the Members of the Gosling Society
@@ -9,11 +9,5 @@ manuscript-location: MS Mrs Clare Roels
 ---
 
 Cackle
-Mother Goose having gone out on her broomstick she has had to delay the answers.
-
-They are not many in number this time, for [Chelsea China](/person/329)’s popularity and [Windermere](/person/1467)’s Wars of the Roses are decidedly the superior articles. [Cricket](/person/1603) is the next to ask the questions.
+Mother Goose having gone out on her broomstick she has had to delay the answers. They are not many in number this time, for [Chelsea China](/person/329)’s popularity and [Windermere](/person/1467)’s Wars of the Roses are decidedly the superior articles. [Cricket](/person/1603) is the next to ask the questions.
 [Mignonette](/person/1637) and [Sparrow Hawk](/person/97) retire
-
-
-[^1]: Black-edged paper.
-[^2]: This seems to be the only surviving example of a \'Cackle\', one of the circular letters with which CMY communicated with the members of the [Gosling Society](/topic/104).

@@ -1,7 +1,7 @@
 ---
 id: 1983
 title: To an Unknown Man
-date: '1864-10-07'
+iso-date: '1864-10-07'
 display-date: Oct 7th 1864 [?]
 from-name: Charlotte Mary Yonge
 to-name: To an Unknown Man
@@ -9,18 +9,11 @@ manuscript-location: 'MS UCLA: collection 100: box 95'
 ---
 
 Sir,
-I am inclined to think that your purpose would best by answered by [SW](/person/1475)’s Manuals on the Prayerbook, which have been written to enable scholars to prepare for competition for the Bishop of Exeter’s Prize.[^1] They, however, are only on parts of the Prayer book.
-
-There are also easy questions, going through the Prayerbook in recent volumes of the [Monthly Paper](/periodical/81), I think the 3d and 4th but am not sure.
-
+I am inclined to think that your purpose would best by answered by [SW](/person/1475)’s Manuals on the Prayerbook, which have been written to enable scholars to prepare for competition for the Bishop of Exeter’s Prize.[^1] They, however, are only on parts of the Prayer book. There are also easy questions, going through the Prayerbook in recent volumes of the [Monthly Paper](/periodical/81), I think the 3d and 4th but am not sure.
 Yours faithfully
 
 C M Yonge
 Both are published by Mozley
 
 
-[^1]: Susanna Warren published, as ‘S.W.’, A Manual of the Litany (London: Mozley 1865), A Manual of the Te Deum (London: Mozley 1865) and A Manual of the Office for Public Baptism of Infants, the Office for Private Baptism of Children, and the Order of Confirmation.
-
-For the use of Candidates for the examination for the Bishop of Exeter’s Prayer-Book Prizes (London, Derby, Mozley 1866).
-
-These books do not seem to have been published any earlier (the first was commended in \'Hints on Reading\' in MP September 1865), and it may be that this letter in fact dates from later in the 1860s.
+[^1]: Susanna Warren published, as ‘S.W.’, A Manual of the Litany (London: Mozley 1865), A Manual of the Te Deum (London: Mozley 1865) and A Manual of the Office for Public Baptism of Infants, the Office for Private Baptism of Children, and the Order of Confirmation. For the use of Candidates for the examination for the Bishop of Exeter’s Prayer-Book Prizes (London, Derby, Mozley 1866). These books do not seem to have been published any earlier (the first was commended in \'Hints on Reading\' in MP September 1865), and it may be that this letter in fact dates from later in the 1860s.

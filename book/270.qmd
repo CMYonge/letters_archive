@@ -1,6 +1,6 @@
 ---
 id: 270
 title: Historical Poetry see Historical Ballads
-author: Charlotte Mary Yonge
-date: '1883'
+author-name: Charlotte Mary Yonge
+publication-date: '1883'
 ---

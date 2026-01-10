@@ -1,7 +1,7 @@
 ---
 id: 3439
 title: To Lady Brandreth
-date: '1900-01-16'
+iso-date: '1900-01-16'
 display-date: Jan 16 1900
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -14,6 +14,4 @@ I hope in time to accomplish meeting you and conferring about the [G F S](/organ
 I have never had the specimen packet, not having been the Branch associate for Literature. I think [Miss Stanford](/person/2209) has it for Winchester Country and [Miss Carey](/person/2210) for the City
 
 Yours sincerely
-C.M.
-
-Yonge
+C.M. Yonge

@@ -2,8 +2,8 @@
 id: 227
 title: Treasures in the Marshes, The By Charlotte M. Yonge, author of ‘The Cross Roads’
   ‘The Constable’s Tower’ etc.
-author: Charlotte Mary Yonge
-date: n.d. [September 1893]
+author-name: Charlotte Mary Yonge
+publication-date: n.d. [September 1893]
 genre: Fiction
 publication-format: Book
 publisher: 'London: National Society’s Depository, Broad Sanctuary, Westminster, New

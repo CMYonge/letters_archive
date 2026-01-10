@@ -1,7 +1,7 @@
 ---
 id: 3097
 title: Sir William Heathcote to Caroline Elizabeth Heathcote
-date: '1857-04-21'
+iso-date: '1857-04-21'
 display-date: April 21 1857
 from-name: Charlotte Mary Yonge
 from-address: Malvern
@@ -10,67 +10,28 @@ manuscript-location: MS Girton College, Cambridge Yonge, I 1
 ---
 
 Dearest [Carry](/person/367)[^1],
-[I](/person/669) enclose the memoranda which I have made in reading [Dynevor Terrace](/book/27) here for the second time.
-
-If you can not explain all my difficulties, perhaps you will get Charlotte herself to do so.
-
-Some of them, mainly those which proceed from ignorance or forgetfulness of passages in books with which she is quite familiar, will appear to her very strange, and many of them probably to you also.
-
+[I](/person/669) enclose the memoranda which I have made in reading [Dynevor Terrace](/book/27) here for the second time. If you can not explain all my difficulties, perhaps you will get Charlotte herself to do so. Some of them, mainly those which proceed from ignorance or forgetfulness of passages in books with which she is quite familiar, will appear to her very strange, and many of them probably to you also.
 The characters are I think in general drawn with her remarkable power of giving individuality to them, and reality, even when they do odd and irreconciliable things.
-
-James is, as she told us, more disagreeable than she had intended him to be.
-
-Certainly he is more intensely odious than any character in her books that has good qualities.
-
-Still I can quite conceive such a person.
-
+James is, as she told us, more disagreeable than she had intended him to be. Certainly he is more intensely odious than any character in her books that has good qualities. Still I can quite conceive such a person.
 But the least successful character appears to me to be Lord Ormersfield.
-
 We are told that he 1st sacrified himself to release his Father from embarrassments which he had brought on himself by foolish speculations.
 2nd persevered in the same course of self denial in order to relieve his own son, and the Family position, from being swamped by the very burden, or any part of it.
 3. succeeded in paying off every mortgage
 4. kept himself throughout all this from becoming a money making machine like Oliver Dynevor; and on the contrary was conspicuous in public life & even became a Minister of the Crown.
 5. was dignified in appearance and manners.
-
 With this remarkable combination of qualities one feels all through the Book that he is not really looked up to by any body; nor does he show wisdom. - He makes a blunder (on which much of the story hinges) in his journey to Peru with Mary, which no man of sagacity or experience should have made.
-
-He has not dignity of presence or manner enough to make it impossible as one would have expected, for that brute James to treat him with insolence.
-
-He appears in the eyes of Mr Ponsonby (not a mere Merchant - but a Diplomatist you will remember and likely to appreciate, perhaps to over-rate, the position of a Cabinet Minister) not as the successful statesman, hateful indeed personally to him but still at a great height above him as well in hereditary rank, as in personal importance, but as a needy fortune hunter to whom the connection with a Peruvian merchant was a great catch! - Now that this notion was possible implies that Lord O. was not what his history before the book makes if necessary that he should have been, but on the contrary that he was personally below his great position and great achievements.
-
-The Ladies are, as is usual with Charlotte, the most interesting.
-
-Even in [Redclyffe](/book/15), I prefer Amy to Guy - in no other of her books, as far as I remember, is there any man fit to hold a candle to the woman.
+He has not dignity of presence or manner enough to make it impossible as one would have expected, for that brute James to treat him with insolence. He appears in the eyes of Mr Ponsonby (not a mere Merchant - but a Diplomatist you will remember and likely to appreciate, perhaps to over-rate, the position of a Cabinet Minister) not as the successful statesman, hateful indeed personally to him but still at a great height above him as well in hereditary rank, as in personal importance, but as a needy fortune hunter to whom the connection with a Peruvian merchant was a great catch! - Now that this notion was possible implies that Lord O. was not what his history before the book makes if necessary that he should have been, but on the contrary that he was personally below his great position and great achievements.
+The Ladies are, as is usual with Charlotte, the most interesting. Even in [Redclyffe](/book/15), I prefer Amy to Guy - in no other of her books, as far as I remember, is there any man fit to hold a candle to the woman.
 I am afraid however that this is true in real life also - so it only makes her the better author.
-
 The crash of Oliver’s Fortune is badly managed, & for anything which is told us need not have happened at all with ordinary good management - let alone the acuteness of old Oliver.
-
-Mr Dyson has paid me a visit today.
-
-He brought me a message from Clara that she is going back to Edinburgh[?illegible] as Evelyn is to return on Thursday.[^2]
+Mr Dyson has paid me a visit today. He brought me a message from Clara that she is going back to Edinburgh[?illegible] as Evelyn is to return on Thursday.[^2]
 love to you all Ever dear little love
 yr very affect Father
 William Heathcote
-1/4 to 6.
-
-Thank [Mama](/person/665) for her letter, just arrived. I saw Miss Dyson today, who seemed comfortable.
-
-She says the new Establishment at Malvern Wells is not [Dr Gully](/person/599)’s
-One of the letters forwarded by Mama is dated in London 17th & bears Winton post mark of 18th & yet is only just come.
-
-Unluckily it was very important and it shd not have been delayed.
+1/4 to 6. Thank [Mama](/person/665) for her letter, just arrived. I saw Miss Dyson today, who seemed comfortable. She says the new Establishment at Malvern Wells is not [Dr Gully](/person/599)’s
+One of the letters forwarded by Mama is dated in London 17th & bears Winton post mark of 18th & yet is only just come. Unluckily it was very important and it shd not have been delayed.
 [encloses elaborate notes on Dynevor Terrace]
 
 
-[^1]: Caroline Elizabeth Heathcote (1833-1910), eldest daughter of Sir William by his first marriage, married (1858) T.R.F.
-
-Cooke-Trench.
-[^2]: The Mr and Miss Dyson referred to in this letter may be the [Rev.
-
-Charles Dyson](/person/461) and his half-sister [Mary Anne Dyson](/person/464).
-
-It is more likely however that Charles Dyson\'s brother, the Rev.
-
-Canon [Francis Dyson](/person/1774), who seems to have lived in Great Malvern, is meant.
-
-He had daughters named Charlotte and Fanny, and one may be the Miss Dyson referred to here.
+[^1]: Caroline Elizabeth Heathcote (1833-1910), eldest daughter of Sir William by his first marriage, married (1858) T.R.F. Cooke-Trench.
+[^2]: The Mr and Miss Dyson referred to in this letter may be the [Rev. Charles Dyson](/person/461) and his half-sister [Mary Anne Dyson](/person/464). It is more likely however that Charles Dyson\'s brother, the Rev. Canon [Francis Dyson](/person/1774), who seems to have lived in Great Malvern, is meant. He had daughters named Charlotte and Fanny, and one may be the Miss Dyson referred to here.

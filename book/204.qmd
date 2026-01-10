@@ -1,8 +1,8 @@
 ---
 id: 204
 title: Parent’s Power, The Address to the Conference of the Mother’s Union
-author: Charlotte Mary Yonge
-date: '1889'
+author-name: Charlotte Mary Yonge
+publication-date: '1889'
 genre: 'Non-fiction: advice to charity workers'
 publication-format: Pamphlet
 publisher: 'Winchester: Warren'

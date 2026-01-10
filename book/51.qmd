@@ -2,8 +2,8 @@
 id: 51
 title: Book of Golden Deeds of all Times and all Lands Gathered and Narrated by the
   author of “The Heir of Redclyffe, A”
-author: Charlotte Mary Yonge
-date: '1864'
+author-name: Charlotte Mary Yonge
+publication-date: '1864'
 genre: 'Non-fiction: history'
 publication-format: Book
 publisher: 'London and Cambridge: Macmillan and Company.'

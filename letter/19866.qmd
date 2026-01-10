@@ -1,7 +1,7 @@
 ---
 id: 19866
 title: To Florence Horatia Nelson Suckling
-date: '1884-03-30'
+iso-date: '1884-03-30'
 display-date: March 30 1884
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.

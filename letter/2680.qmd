@@ -1,7 +1,7 @@
 ---
 id: 2680
 title: To Alexander Macmillan
-date: '1879-07-09'
+iso-date: '1879-07-09'
 display-date: July 9th 1879
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,9 +11,7 @@ manuscript-location: 'MS British Library Add MSS 54921: 99-100'
 
 Dear [Mr Macmillan](/person/939)
 Old proofs of these Christmas stories have fortunately been discovered so I send them off herewith.[^1]
-I find I must ask you to be kind enough to let me have [£200 on account](/topic/160), or else £100 now and another £100 before Christmas.
-
-There have been some unexpected calls upon me which drive me to ask this favour of you, though I am sorry to have to do so so early in the year
+I find I must ask you to be kind enough to let me have [£200 on account](/topic/160), or else £100 now and another £100 before Christmas. There have been some unexpected calls upon me which drive me to ask this favour of you, though I am sorry to have to do so so early in the year
 
 Yours sincerely
 

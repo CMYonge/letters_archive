@@ -1,7 +1,7 @@
 ---
 id: 2853
 title: To the Reverend James Duncan?
-date: '1887-03-19'
+iso-date: '1887-03-19'
 display-date: March 19th [1887]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -17,6 +17,4 @@ C M Yonge
 
 
 [^1]: Duncan was her usual correspondent at the [National Society](/organisation/32), the publishers of [What Books to Lend and What to Give](/book/196) (1887), but she usually called him Mr Duncan.
-[^2]: Mary and Catherine Lee, Goldhanger Woods: A Child\'s Romance (London: National Society 1886).
-
-Mary Lee had collaborated with CMY on [The Miz Maze](/book/165) (1883).
+[^2]: Mary and Catherine Lee, Goldhanger Woods: A Child\'s Romance (London: National Society 1886). Mary Lee had collaborated with CMY on [The Miz Maze](/book/165) (1883).

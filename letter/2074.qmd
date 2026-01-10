@@ -1,7 +1,7 @@
 ---
 id: 2074
 title: To Alexander Macmillan
-date: '1865-10-21'
+iso-date: '1865-10-21'
 display-date: Saturday Evening Oct 21st 1865
 from-name: Charlotte Mary Yonge
 to-name: To Alexander Macmillan
@@ -10,11 +10,7 @@ manuscript-location: 'MS British Library Add MSS 54920: 113'
 
 Dear [Mr Macmillan](/person/939)
 My London plans have dwindled down to the smallest span - i.e. - to running up for a day with my [sister in law](/person/1604) on Wednesday the 25th. I hope to call at 16 Bedford St[^1] somewhere between 12 and ½ past 4.
-
-Would you send me a line to say whether I shall find you, and if one time is more convenient than another.
-
-Please write by Mondays post as I shall have to start before the letters came[sic] on Wednesday.
-
+Would you send me a line to say whether I shall find you, and if one time is more convenient than another. Please write by Mondays post as I shall have to start before the letters came[sic] on Wednesday.
 My present address is at [Mrs Dyson](/person/462)’s, Church-Crookham, Farnham.
 
 Yours sincerely

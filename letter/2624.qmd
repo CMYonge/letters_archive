@@ -1,7 +1,7 @@
 ---
 id: 2624
 title: To the Reverend James Edwards Sewell
-date: '1878-03-25'
+iso-date: '1878-03-25'
 display-date: March 25th 1878
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -9,17 +9,13 @@ to-name: To the Reverend James Edwards Sewell
 manuscript-location: 'MS UCLA: collection 100: box 95'
 ---
 
-My dear [Mr Warden ](/person/1304)
+My dear [Mr Warden](/person/1304)
 Thank you much for your kind reply. I hope to appear with my maid by the train that reaches Oxford at 4.25, when I think I arrive just in time for chapel. I have just got a card for [Mrs Talbot](/person/2082)’s evening party that night.
 I am afraid I cannot stay after Saturday as I am engaged to spend Sunday at the Deanery at St Pauls.[^2]
 With all thanks and kind regards to [Miss Sewell](/person/1305).
-
 Yours very sincerely
 
 C M Yonge
 
 
-[^1]: Black-edged paper.
-[^2]: The Dean of St.
-
-Paul\'s was the Very Rev. [Richard William Church](/person/297).
+[^2]: The Dean of St. Paul\'s was the Very Rev. [Richard William Church](/person/297).

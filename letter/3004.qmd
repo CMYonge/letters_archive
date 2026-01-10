@@ -1,7 +1,7 @@
 ---
 id: 3004
 title: To Elizabeth Roberts
-date: '1852-11-01'
+iso-date: '1852-11-01'
 display-date: Novr 22d [1852]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
@@ -10,10 +10,7 @@ manuscript-location: 'MS Huntington Library: Yonge Letters'
 ---
 
 My dear [Madam](/person/1243),
-The wreaths for these autumn months have been so much smaller that I am sorry to say that there is [only 7/6](/topic/102) to send you for this quarter, and here are P.O. stamps to that amount. I have not yet heard what we shall be able to do next year. I think that '[the Lesser Holydays](/organisation/234)’ is the name that best approves itself to me, what do you think of it. I know the poem of [Mary Howitt](/person/1729)’s you mention, but we have it not in the house nor do I know where I read it.
-
-If ever I come on it I will send it to you.
-
+The wreaths for these autumn months have been so much smaller that I am sorry to say that there is [only 7/6](/topic/102) to send you for this quarter, and here are P.O. stamps to that amount. I have not yet heard what we shall be able to do next year. I think that '[the Lesser Holydays](/organisation/234)’ is the name that best approves itself to me, what do you think of it. I know the poem of [Mary Howitt](/person/1729)’s you mention, but we have it not in the house nor do I know where I read it. If ever I come on it I will send it to you.
 With many thanks for your [Garland](/topic/225), which has been one of the choicest possessions of this years [Packet](/periodical/52)
 
 Yours sincerely

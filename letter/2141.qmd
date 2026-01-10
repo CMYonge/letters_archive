@@ -1,7 +1,7 @@
 ---
 id: 2141
 title: To the Reverend John Frewen Moor
-date: '1866-12-28'
+iso-date: '1866-12-28'
 display-date: Innocents’ day [28 December 1866]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -18,5 +18,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Envelope pasted on previous page addressed to \'The Revd/ J F Moor/Ampfield/Romsey.\' and postmarked Winchester De 28/66. \'Miss Yonge’s autograph\' written across the side in a different hand.
 [^2]: A magic lantern show to be put on for the entertainment of the parish, later postponed because of bad weather.

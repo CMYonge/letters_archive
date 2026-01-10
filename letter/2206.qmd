@@ -1,7 +1,7 @@
 ---
 id: 2206
 title: To Robert Brett
-date: '1867-09-04'
+iso-date: '1867-09-04'
 display-date: Sept 4th 1867
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,15 +11,8 @@ manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
 
 Dear [Mr Brett](/person/210),
 I am told that to your other labours, you add that of acting for a [Society](/organisation/194) for the promotion of Churches entirely free and unappropriated[^1]
-I am very much interested in building such a [Church](/place/188) at Eastleigh, better known as the Bishopstoke Junction station, where there is a large and fast encreasing [sic] colony of railway men, 3 miles from the parish Church (South Stoneham) and two miles from any other.
-
-We laid the first stones of a small new Church on the Feast of St Bartholomew, the seats are entirely free and we should be grateful for a grant.
-
-If there is a form of application to filled up, perhaps you would be so kind as to send it to me, when I would get it filled up and signed by the [Vicar of South Stoneham](/person/636).
-
-The endowment is secured by the [Bishop](/person/1383) giving up the great tithes of two adjoining farms, which belong to the See, and by £40 which the Vicar proposed to give up but the [owner](/person/282) of the land makes up instead, so that there will be £120 per annum.
-
-The name is the Church of the Resurrection.
+I am very much interested in building such a [Church](/place/188) at Eastleigh, better known as the Bishopstoke Junction station, where there is a large and fast encreasing [sic] colony of railway men, 3 miles from the parish Church (South Stoneham) and two miles from any other.	
+We laid the first stones of a small new Church on the Feast of St Bartholomew, the seats are entirely free and we should be grateful for a grant. If there is a form of application to filled up, perhaps you would be so kind as to send it to me, when I would get it filled up and signed by the [Vicar of South Stoneham](/person/636). The endowment is secured by the [Bishop](/person/1383) giving up the great tithes of two adjoining farms, which belong to the See, and by £40 which the Vicar proposed to give up but the [owner](/person/282) of the land makes up instead, so that there will be £120 per annum. The name is the Church of the Resurrection.
 
 Yours sincerely
 

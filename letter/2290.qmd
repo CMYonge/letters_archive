@@ -1,7 +1,7 @@
 ---
 id: 2290
 title: To Sophia Jane Harrison
-date: '1868-11-06'
+iso-date: '1868-11-06'
 display-date: Novr 6th [1868]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,15 +10,10 @@ manuscript-location: MS King Edward VI School, Southampton.
 ---
 
 My dear [Mrs Harrison](/person/638),
-I begin to fear that ‘[Katharine Charlotte](/person/2022)’’s photograph could not have taken effect, but you see I send her (or you) one of her godmother - It was done by [one of my cousins](/person/1599), and if any of the kind friends at Whitburn care to have the like, we are selling them for a shilling apiece, our mercenary spirit being roused by the desire to build a school for the new [Church](/place/188) at Eastleigh. I am told I ought to charge /6 more if I write my name on it but I have not made up my mind to be so rapacious. I am afraid this early sudden cold must be very trying to [Mrs Collinson](/person/2021), I hope she is in her warm house at Elrig. I suppose you and the children are in the north, I hope I may see you next year.
-
-For the present I am going into Devon, hoping to return just before Christmas, but I shall be at home all next week I do not fancy travelling in the middle of the elections.[^2] What a state of things it is!
-
-And shall we be the worse or the better for it. I am tempted to end my letter as emigrants do - ‘with love and respects to all enquiring friends’
+I begin to fear that ‘[Katharine Charlotte](/person/2022)’’s photograph could not have taken effect, but you see I send her (or you) one of her godmother - It was done by [one of my cousins](/person/1599), and if any of the kind friends at Whitburn care to have the like, we are selling them for a shilling apiece, our mercenary spirit being roused by the desire to build a school for the new [Church](/place/188) at Eastleigh. I am told I ought to charge /6 more if I write my name on it but I have not made up my mind to be so rapacious. I am afraid this early sudden cold must be very trying to [Mrs Collinson](/person/2021), I hope she is in her warm house at Elrig. I suppose you and the children are in the north, I hope I may see you next year. For the present I am going into Devon, hoping to return just before Christmas, but I shall be at home all next week I do not fancy travelling in the middle of the elections.[^2] What a state of things it is! And shall we be the worse or the better for it. I am tempted to end my letter as emigrants do - ‘with love and respects to all enquiring friends’
 yours very sincerely
 
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: The elections of 23 November 1868 were the first under the extended franchise, and resulted in a Liberal landslide and the formation of Gladstone’s first ministry.

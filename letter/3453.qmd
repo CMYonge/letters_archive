@@ -1,7 +1,7 @@
 ---
 id: 3453
 title: To Christabel Rose Coleridge
-date: '1900-04-01'
+iso-date: '1900-04-01'
 display-date: April 23d [1900?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,14 +10,9 @@ manuscript-location: MS Mrs Clare Roels/94
 ---
 
 My dear [Christabel](/person/329)
-[Mrs Sewell ](/person/2220)came to call on Saturday and brought [Mrs Brook](/person/2221), who said she was one of your old friends, so we had a talk about you. [Henry](/person/184) has been setting up flags and making the children do honour to St George’s day.
-
-We are in high spirits about our reports, they are better than ever they have been but there is influenza still about.
-
+[Mrs Sewell](/person/2220)came to call on Saturday and brought [Mrs Brook](/person/2221), who said she was one of your old friends, so we had a talk about you. [Henry](/person/184) has been setting up flags and making the children do honour to St George’s day. We are in high spirits about our reports, they are better than ever they have been but there is influenza still about.
 Adam Grigson is good but the cult of noble blood is too serious.
-
 Rosamund was not a wretch because her mother was a tobacconists daughter- and why does Francis always think without g to his participles he might speak but not think in slang grammar.
-
 The Valley of the Great Shadow is very good.
 I have got the number of the CL I do believe [Mary Bramston](/person/198) will live to repent of being bitten by ?Driver when she feels what it involves towards the Gospels
 your affte

@@ -1,24 +1,17 @@
 ---
 id: 3011
 title: The Reverend John Keble to Charlotte Mary Yonge
-date: '1853-06-07'
+iso-date: '1853-06-07'
 display-date: 7 June, 1853.
 from-name: Charlotte Mary Yonge
 from-address: H.V.,
 to-name: The Reverend John Keble to Charlotte Mary Yonge
-manuscript-location: MS location unknown.  Printed in [[cmybook:88]<i>Musings over
+manuscript-location: MS location unknown. Printed in [[cmybook:88]<i>Musings over
   the Christian Year]</i>, xxvii.
 ---
 
 My dear Child,
 I hope I have not embarrassed you by keeping these slips till now.
-I a little doubt about the bits of Greek you put in, and I certainly should advise more to be said about Pentecost.
-
-There was a Church in a kind of sense, but according to my understanding there was no Church in the proper sense until then – vid. S.
-
-John vii, 39, &c., and the many places in which the Church is said to go out from Zion.
-
-Do you not think there is some danger of your crowding too much matter into [these brief dialogues](/book/33), I mean danger of their being less interesting and useful than they might be . . . .
-
+I a little doubt about the bits of Greek you put in, and I certainly should advise more to be said about Pentecost. There was a Church in a kind of sense, but according to my understanding there was no Church in the proper sense until then – vid. S. John vii, 39, &c., and the many places in which the Church is said to go out from Zion. Do you not think there is some danger of your crowding too much matter into [these brief dialogues](/book/33), I mean danger of their being less interesting and useful than they might be . . . .
 Yours affte,
 [J. K.](/person/798)

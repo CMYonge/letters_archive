@@ -1,7 +1,7 @@
 ---
 id: 2035
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1865-05-25'
+iso-date: '1865-05-25'
 display-date: May 25. 1865
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -10,15 +10,10 @@ manuscript-location: 'Copy outletter book British Library Add MSS. 55384 (2): P.
 
 Dear Miss Yonge	
 [I](/person/939) quite hope to write to you about the [Bethlehem](/topic/177) this week. I have the duplicates, but have not got time to read them at a sitting as I meant.
-
-Will you kindly send the Cawnpore [notice](/book/59) to me. [Mr Trevelyan](/person/1943) has just been in.
-
-He was much gratified by your estimate of his book.[^1] For long your books and name have been familiar and dear in their family.
+Will you kindly send the Cawnpore [notice](/book/59) to me. [Mr Trevelyan](/person/1943) has just been in. He was much gratified by your estimate of his book.[^1] For long your books and name have been familiar and dear in their family.
 
 Yours ever faithfully
-A.
-
-Macmillan
+A. Macmillan
 
 
 [^1]: CMY had written a review for [Macmillan\'s Magazine](/periodical/78) of George Otto Trevelyan\'s book on the massacre at Cawnpore during the [[other:]Indian Mutiny].

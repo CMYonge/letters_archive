@@ -1,7 +1,7 @@
 ---
 id: 2722
 title: To Eliza Callahan Cleveland
-date: '1881-04-01'
+iso-date: '1881-04-01'
 display-date: April 2d 1881
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,9 +11,7 @@ manuscript-location: MS Princeton University, Parrish Collection.
 
 My dear [Miss Cleveland](/person/307)
 
-Thank you much for sending me the answer to that question.
-
-Do you remember sending me the two volumes of the Harvard biographies, James Lowells’ was the one I liked above all others, there seemed to be such depth and originality in his whole character.
+Thank you much for sending me the answer to that question. Do you remember sending me the two volumes of the Harvard biographies, James Lowells’ was the one I liked above all others, there seemed to be such depth and originality in his whole character.
 
 I have lent the book to several persons chiefly on his account
 
@@ -21,19 +19,11 @@ I remember that pleasant visit well.
 
 Pray assure friend that our little Scamp is in full health and beauty, and I hope a little better behaved.
 
-I have not seen [  Miss Sewell](/person/1301) for a good while, but I hear from her often and she seems as busy as ever upon her plans for education being made as wide as it is universal.
-
-Have you seen the life of sister Augustine?
-
-Kegan Paul publishes it[^1] She was too true a Catholic to accept the dogma of Infallibility, and therefore had to die excommunicate
+I have not seen [Miss Sewell](/person/1301) for a good while, but I hear from her often and she seems as busy as ever upon her plans for education being made as wide as it is universal. Have you seen the life of sister Augustine? Kegan Paul publishes it[^1] She was too true a Catholic to accept the dogma of Infallibility, and therefore had to die excommunicate
 
 Yours sincerely
 
 C M Yonge
 
 
-[^1]: Sister Augustine, Superior of the Sisters of Charity at the St.
-
-Johannis Hospital at Bonn (London: Kegan Paul 1880) was an authorized translation, by Emily Augusta, Lady Durand, of Henri Lecoultre’s German biography of Amalie von Lasaulx (1815-1872).
-
-The doctrine of papal infallibility had been affirmed by the Vatican Council of 1869-70.
+[^1]: Sister Augustine, Superior of the Sisters of Charity at the St. Johannis Hospital at Bonn (London: Kegan Paul 1880) was an authorized translation, by Emily Augusta, Lady Durand, of Henri Lecoultre’s German biography of Amalie von Lasaulx (1815-1872). The doctrine of papal infallibility had been affirmed by the Vatican Council of 1869-70.

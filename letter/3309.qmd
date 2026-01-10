@@ -1,7 +1,7 @@
 ---
 id: 3309
 title: To Charles Wooldridge
-date: '1896-01-27'
+iso-date: '1896-01-27'
 display-date: Jan 27th 1896
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -11,7 +11,6 @@ manuscript-location: MS Hampshire Record Office 67M92W/82/24
 
 Dear [Mr Wooldridge](/person/2094)
 You have the deed of gift executed from my [brother](/person/1624) to me of [Hicks](/person/689)’s cottage therefore there can be no doubt that it is my property and he certainly told me that he meant to make it over to me but he never seems to have told any one here, and Hicks has been paying rent to him and [Mrs Yonge](/person/1604) ever since.
-
 The accounts have been so mixed with repairs for cottages that I suppose it was not observed and I had been paying rates and taxes for the house all the time, till now when I have enquired into the matter. I could not write sooner till I had seen [Miss Hicks](/person/2147), who I found had no idea that I ought to be her landlord
 
 Yours truly

@@ -1,7 +1,7 @@
 ---
 id: 3246
 title: To the Reverend John Frederick Watkinson Bullock
-date: '1894-02-06'
+iso-date: '1894-02-06'
 display-date: Feb 6th [1894]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -10,33 +10,14 @@ manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e.174 ff 
 ---
 
 Dear [Mr Bullock](/person/221),
-I will try to write Abp Sancroft[^1], and [Bp Mackenzie](/person/929) but have you thought of asking [Miss Awdry](/person/82), Notton, Chippenham.
-
-She is the author of [‘An Elder Sister’](/person/687) and would do [Anne Mackenzie](/person/930)’s life excellently.
-
-She could also do well [Henrietta Robertson](/person/1952), a grand missionary worker.
-
-And have you thought of [Mrs Macdougal](/person/1949) who sacrificed so much-?
-
-Miss Awdry could well do all these.
-
-She edited the [Gospel Missionary](/periodical/227) till lately when it was decided that the Editor must live in London.
-I hope you will take [Miss Havergal](/person/2091).
-
-You know there are two hymns of hers in A and M - and the way she took her poetical and musical powers as gifts to be used always struck me as most beautiful.
-I see what you mean about [Miss Sellon](/person/1294), as the work and victory she effected, but after much enthusiasm about her, I own I was much disappointed (as were others) when she came to Hursley to see her [Sisters](/organisation/46) off to Honolulu.
-
-Being such an invalid herself, she did not know what was to be expected of her Sisters.
-
-However she fought the battle. I see [Lincoln diocesan mag](/periodical/228) has a life of [Dean Butler](/person/244).
-
-Could you get leave to use that?
+I will try to write Abp Sancroft[^1], and [Bp Mackenzie](/person/929) but have you thought of asking [Miss Awdry](/person/82), Notton, Chippenham. She is the author of [‘An Elder Sister’](/person/687) and would do [Anne Mackenzie](/person/930)’s life excellently. She could also do well [Henrietta Robertson](/person/1952), a grand missionary worker.
+And have you thought of [Mrs Macdougal](/person/1949) who sacrificed so much-? Miss Awdry could well do all these. She edited the [Gospel Missionary](/periodical/227) till lately when it was decided that the Editor must live in London.
+I hope you will take [Miss Havergal](/person/2091). You know there are two hymns of hers in A and M - and the way she took her poetical and musical powers as gifts to be used always struck me as most beautiful.
+I see what you mean about [Miss Sellon](/person/1294), as the work and victory she effected, but after much enthusiasm about her, I own I was much disappointed (as were others) when she came to Hursley to see her [Sisters](/organisation/46) off to Honolulu. Being such an invalid herself, she did not know what was to be expected of her Sisters. However she fought the battle. I see [Lincoln diocesan mag](/periodical/228) has a life of [Dean Butler](/person/244). Could you get leave to use that?
 
 Yours truly
 
 C M Yonge
 
 
-[^1]: William Sancroft (1617-1693), archbishop of Canterbury.
-
-The proposed biographies, of which CMY wrote several, were for the [\'Biographies of Eminent Anglicans\' ](/book/358)series, which were intended to form part of Bullock\'s Daily Lections project, but were not in fact published.
+[^1]: William Sancroft (1617-1693), archbishop of Canterbury. The proposed biographies, of which CMY wrote several, were for the [\'Biographies of Eminent Anglicans\'](/book/358)series, which were intended to form part of Bullock\'s Daily Lections project, but were not in fact published.

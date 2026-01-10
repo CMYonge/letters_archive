@@ -1,7 +1,7 @@
 ---
 id: 2819
 title: To Lucy Helen Muriel Soulsby
-date: '1885-11-12'
+iso-date: '1885-11-12'
 display-date: Novr 12th 1885
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -15,9 +15,7 @@ The worst of it is that I am afraid all the writers of the ‘rejected addresses
 yours truly
 
 C M Yonge
-I have just found one.
-
-If it will do, write and ask permission of the
+I have just found one. If it will do, write and ask permission of the
 [the rest missing]
 
 

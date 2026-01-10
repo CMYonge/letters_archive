@@ -1,7 +1,7 @@
 ---
 id: 3132
 title: To Ann Maria Carter Smith
-date: '1859-06-28'
+iso-date: '1859-06-28'
 display-date: June 28 1859
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -10,19 +10,8 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1859/8
 ---
 
 My dear [Miss Smith](/person/263)
-Many thanks for your pretty old style story, which has a great sweetness about it, and I shall be very glad to get in when I can. [^2] One thing - does it not make a confusion that Isabella calls Mrs Margaret Aunt, and one other - would a lady whose daughter died under 50 speak of her as an old woman?
-
-It is not like the lady of 100 who losing a daughter of 80, said ‘Ah! poor girl, I knew I never should rear her’.
-
-And is not the grandson rather unnecessarily old?
-
-If 28, the daughter must have married very young.
-
-But this is all nothing, and the story is beautiful, the recognition most especially so. I fear I shall have to keep it some time and all I can say is that you are used to your patience being tried.
-
-Margaret’s contentment is so pretty
+Many thanks for your pretty old style story, which has a great sweetness about it, and I shall be very glad to get in when I can. [^2] One thing - does it not make a confusion that Isabella calls Mrs Margaret Aunt, and one other - would a lady whose daughter died under 50 speak of her as an old woman? It is not like the lady of 100 who losing a daughter of 80, said ‘Ah! poor girl, I knew I never should rear her’. And is not the grandson rather unnecessarily old? If 28, the daughter must have married very young. But this is all nothing, and the story is beautiful, the recognition most especially so. I fear I shall have to keep it some time and all I can say is that you are used to your patience being tried. Margaret’s contentment is so pretty
 [signature missing]
 
 
-[^1]: With envelope addressed to Miss A C Smith/ Old Charlton Rectory/ London S E and postmarked Winchester 28 June and London SE 29 June 1859.
 [^2]: ‘The Two Beauties of the Camberwell Assemblies, 1778’, which CMY was to return, and which was published in Once A Week in 1860.

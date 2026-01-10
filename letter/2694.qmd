@@ -1,7 +1,7 @@
 ---
 id: 2694
 title: To Sarah Anne Mercier
-date: '1870-06-08'
+iso-date: '1870-06-08'
 display-date: June 8th [1870]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,27 +11,12 @@ manuscript-location: 'MS Princeton University, Parrish Collection, CO171: Box 29
 
 My dear [Mrs Mercier](/person/990)
 Here is that charming little story at last.
-
-One thing might I ask?
-
-Could not poor Maria’s one note of admiration be changed from Lor! I have rather the feeling that it is an abridgement of a more sacred word.[^1]
-Did you mean Marian to blunder about feeding cows and milking chickens - ?
-
-Also did you send me a capital paper about fashion?
+One thing might I ask? Could not poor Maria’s one note of admiration be changed from Lor! I have rather the feeling that it is an abridgement of a more sacred word.[^1]
+Did you mean Marian to blunder about feeding cows and milking chickens - ? Also did you send me a capital paper about fashion?
 
 Yours sincerely
 
 C M Yonge
 
 
-[^1]: ‘Hints on Reading’ MP (April 1871), 418, recommends ‘Mr.
-
-Warne’s last Victoria Packet, where . . .
-
-Mrs.Filby’s Maria rises far above the general order of such little books’.
-
-However, since this letter evidently encloses a proof for correction, it presumably dates from the previous year.
-
-Several series of [‘Warne’s Victoria Toy Books: A Packet of Twelve Nursery Stories’ ](/book/211)were published.
-
-Since they appeared under CMY\'s editorship and several were anonymous, they are sometimes incorrectly catalogued as her work.
+[^1]: ‘Hints on Reading’ MP (April 1871), 418, recommends ‘Mr. Warne’s last Victoria Packet, where . . . Mrs.Filby’s Maria rises far above the general order of such little books’. However, since this letter evidently encloses a proof for correction, it presumably dates from the previous year. Several series of [‘Warne’s Victoria Toy Books: A Packet of Twelve Nursery Stories’](/book/211)were published. Since they appeared under CMY\'s editorship and several were anonymous, they are sometimes incorrectly catalogued as her work.

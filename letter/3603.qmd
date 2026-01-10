@@ -1,7 +1,7 @@
 ---
 id: 3603
 title: To an Unknown Woman
-date: '1887-11-28'
+iso-date: '1887-11-28'
 display-date: Novr 28th [after 1887]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -18,8 +18,4 @@ Yours truly,
 C M Yonge
 
 
-[^1]: It is not at all clear what book is referred to here, and CMY herself does not seem to have published a book of this name.
-
-However, a book did appear called Sunny Half-Hours: pleasant tales at pleasant times.
-
-By Aunt Charlotte (London: Dean 1876).
+[^1]: It is not at all clear what book is referred to here, and CMY herself does not seem to have published a book of this name. However, a book did appear called Sunny Half-Hours: pleasant tales at pleasant times. By Aunt Charlotte (London: Dean 1876).

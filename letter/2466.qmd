@@ -1,7 +1,7 @@
 ---
 id: 2466
 title: To Christabel Rose Coleridge
-date: '1872-12-28'
+iso-date: '1872-12-28'
 display-date: Innocents day [28 December 1872]
 from-name: Charlotte Mary Yonge
 to-name: To Christabel Rose Coleridge
@@ -10,15 +10,7 @@ manuscript-location: MS Mrs Clare Roels
 
 My dear [Christabel](/person/329)
 
-Thanks for the grand faithful [Gosling](/topic/104) card, which is capital.
-
-These two Escorials are all that Goosedom has produced[^2] I never expected any thing of it at Christmas They both seem to be of the childish good kind.
-
-No, I have not seen Garnstone. [Warne](/person/1433) is not very liberal of his books. I don’t know what school children would do but for the happy dispensation that makes their own people prefer them to all others!
-
-Our mistress is I believe to visit a friend in your parish next week. I can’t say I prefer her to all others!
-
-She is quite devoid of the moral influence [her predecessor](/person/1178) had
+Thanks for the grand faithful [Gosling](/topic/104) card, which is capital. These two Escorials are all that Goosedom has produced[^2] I never expected any thing of it at Christmas They both seem to be of the childish good kind. No, I have not seen Garnstone. [Warne](/person/1433) is not very liberal of his books. I don’t know what school children would do but for the happy dispensation that makes their own people prefer them to all others! Our mistress is I believe to visit a friend in your parish next week. I can’t say I prefer her to all others! She is quite devoid of the moral influence [her predecessor](/person/1178) had
 
 your affectionate
 
@@ -27,5 +19,4 @@ C M Yonge
 [Florence Wilford](/person/1520)’s [Aunt](/person/384) died on Monday-
 
 
-[^1]: The paper has an ornamental decoration: \'Dear Friend Accept This CHRISTMAS Greeting Heart with Heart in Memory Meeting\'.
 [^2]: The Goslings had been asked to write an essay on ‘The history of the Escorial’, a theme proposed by Pixie (CMY to Mary Fursdon, 15 November 1872)

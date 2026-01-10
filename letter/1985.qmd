@@ -1,7 +1,7 @@
 ---
 id: 1985
 title: To Alexander Macmillan
-date: '1864-10-24'
+iso-date: '1864-10-24'
 display-date: Oct 24th 1864
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,30 +10,14 @@ manuscript-location: 'MS British Library Add MSS 54920: 49-51'
 ---
 
 Dear [Mr Macmillan](/person/939),
-I should prefer keeping the [Clever Woman](/book/58) uniform with the other tales, as I think a good many people have a set of them, to which they would add it.
-
-And I should be scolded by half my friends for coming out in the 3 vol shape!
-I am glad [the Trial](/book/53) has done well. I see you are advertising a cheap edition.
-
-What are to be the terms for it.
-I have this morning finished the [Golden Deeds](/book/51).
-
-The M S pages are 319.
-
-Is this too many?
-
-There were 140 when you told me there was only half the quantity. I will not send them to the printer till the day after tomorrow to give time for hearing from you whether these would be too many, and would make the book too thick.
-I send my ideas of the title page. I should like to have this motto. I am not sure whether your Golden Treasury professes to be altogether for the young, otherwise there should be some indication.
-
-It seem to be an insult to grown up people to put out for their reading such stories as that of Thermopylae &c.
-
-And I think it has told against some of my books that the line of 'youth' has not been marked in advertising them.
+I should prefer keeping the [Clever Woman](/book/58) uniform with the other tales, as I think a good many people have a set of them, to which they would add it. And I should be scolded by half my friends for coming out in the 3 vol shape!
+I am glad [the Trial](/book/53) has done well. I see you are advertising a cheap edition. What are to be the terms for it.
+I have this morning finished the [Golden Deeds](/book/51). The M S pages are 319. Is this too many? There were 140 when you told me there was only half the quantity. I will not send them to the printer till the day after tomorrow to give time for hearing from you whether these would be too many, and would make the book too thick.
+I send my ideas of the title page. I should like to have this motto. I am not sure whether your Golden Treasury professes to be altogether for the young, otherwise there should be some indication. It seem to be an insult to grown up people to put out for their reading such stories as that of Thermopylae &c. And I think it has told against some of my books that the line of 'youth' has not been marked in advertising them.
 I have a short [story](/book/61) by me only needing rewriting about a son of Simon de Montfort, but I have not touched it up, partly because it is rather dismal, and partly because since the [Little Duke](/book/20)’s time, I have come to have less faith in my own knowledge of ancient customs.
 I have hopes of making something of another [story](/book/62) but I must get some information about Germany under Maximilian I before I can set to work on it
 Yours very truly
-C. M.
-
-Yonge		
+C. M. Yonge		
 The chronological index will take at least three pages more - and I must put a sort of preface.
 A Book
 of

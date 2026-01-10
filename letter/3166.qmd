@@ -1,7 +1,7 @@
 ---
 id: 3166
 title: To Arthur Donald Innes
-date: '1891-01-13'
+iso-date: '1891-01-13'
 display-date: Jany 13th 1891
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -27,6 +27,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: CMY was related to the Crawley Boeveys through her paternal grandmother Catharina Crawley.
-
-Sybella Crawley Boevey (d. 1911), daughter of CMY’s second cousin Sir Thomas Crawley-Boevey, 4th Bt., had contributed \'A Love picture in three strokes\' MP (Christmas 1890), 234-45.
+[^1]: CMY was related to the Crawley Boeveys through her paternal grandmother Catharina Crawley. Sybella Crawley Boevey (d. 1911), daughter of CMY’s second cousin Sir Thomas Crawley-Boevey, 4th Bt., had contributed \'A Love picture in three strokes\' MP (Christmas 1890), 234-45.

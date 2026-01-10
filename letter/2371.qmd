@@ -1,7 +1,7 @@
 ---
 id: 2371
 title: To Mary Penelope Fursdon
-date: '1870-01-29'
+iso-date: '1870-01-29'
 display-date: Jany 29th [1870]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -12,10 +12,5 @@ manuscript-location: MS Mrs Katherine Wykes-Sneyd
 [To [Mary Penelope Fursdon](/person/539)]
 [Gosling](/topic/104) questions for February
 Write the history of Henry VIII's expedition to France.
-
 What parallel stories does folklore in different countries present to the adventures of Ulysses in the Odyssey?
-
 Mother Goose
-
-
-[^1]: Black-edged paper, with black-edged blue envelope addressed to Miss Mary Fursdon/ Fursdon/ Tiverton postmarked Winchester 29 Jan and Tiverton 30 Jan 1870.

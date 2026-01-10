@@ -1,7 +1,7 @@
 ---
 id: 1914
 title: To Alexander Macmillan
-date: '1863-11-11'
+iso-date: '1863-11-11'
 display-date: Novr 11th [1863]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -21,19 +21,10 @@ I should be obliged if you would let me know whether you would undertake my work
 [Lances of Lynwood](/book/23)
 [Marie Theresè of Lamourous](/book/31)
 [The Young Stepmother](/book/38)
-the stock and stereotypes being transferred to you.
-
-All these have been hitherto on commission, and would I suppose so continue until the present [copies on hand](/topic/155) are sold off. I find there are 900 of the Heir of Redclyffe and 700 of Heartsease - and I suppose you would hardly recommend venturing on a cheaper edition till these are disposed of.
-
+the stock and stereotypes being transferred to you. All these have been hitherto on commission, and would I suppose so continue until the present [copies on hand](/topic/155) are sold off. I find there are 900 of the Heir of Redclyffe and 700 of Heartsease - and I suppose you would hardly recommend venturing on a cheaper edition till these are disposed of.
 Of the Daisy Chain there are 312 on hand, and perhaps this might be the best to put into a cheap form first, as it does not belong quite to the same series as the other, there has always been a fair demand for it, and railway stall keepers say they should sell it in large numbers if it were cheaper.
-
 Should you be willing to bring out such an edition and at what rate would you allow me per 1000?
 
 I remain
 Yours faithfully
-C.M.
-
-Yonge
-
-
-[^1]: Black-edged paper.
+C.M. Yonge

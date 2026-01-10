@@ -1,7 +1,7 @@
 ---
 id: 2578
 title: To Alexander Macmillan
-date: '1877-04-19'
+iso-date: '1877-04-19'
 display-date: April 19th 1877
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.

@@ -1,7 +1,7 @@
 ---
 id: 3317
 title: To Mary Elizabeth (Wormeley) Latimer
-date: '1896-03-05'
+iso-date: '1896-03-05'
 display-date: Mar 5th 1896
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -11,29 +11,11 @@ manuscript-location: 'MS Historical Society of Pennsylvania: Gratz Collection: C
 ---
 
 My dear [Mrs Latimer](/person/846)
-I rejoiced much to see your writing again though I burn with shame that I was in debt to you, having rather dawdled over my thanks for the African book which told me much more than I knew before about that dismal country which really seems to me to have such an effect on people’s tempers as to make them quite unlike them selves.[^1] There has enough happened to make a fresh volume since, - and the English enthusiasm for Dr Jameson seems to me premature.[^2] But fancy, on the Emperor’s telegram appeared, two towns insisted on the itinerant German bands playing nothing but Rule Britannia, and one would not even allow the unhappy innocent band to sleep within it.
-
-Your books are lent all round everyone likes them so much, but in the English one I should like to change ‘worthless mother’ - for worthless father in the summing up of George III. [^3] I have a great respect for poor Augusta, I think she took infinite pains to make her sons good.
-
-Your recollections run along with mine, though you are two years older. I belong as I daresay you have guessed to a very Tory family, and I recollect expecting a Guillotine in every street, and looking with fears the faggot at a certain map of England marked with R C chapels.
-
-Plenty more of them now! I suppose your humorous poems go back to the Tears of the Cruets which my mother used to repeat
+I rejoiced much to see your writing again though I burn with shame that I was in debt to you, having rather dawdled over my thanks for the African book which told me much more than I knew before about that dismal country which really seems to me to have such an effect on people’s tempers as to make them quite unlike them selves.[^1] There has enough happened to make a fresh volume since, - and the English enthusiasm for Dr Jameson seems to me premature.[^2] But fancy, on the Emperor’s telegram appeared, two towns insisted on the itinerant German bands playing nothing but Rule Britannia, and one would not even allow the unhappy innocent band to sleep within it. Your books are lent all round everyone likes them so much, but in the English one I should like to change ‘worthless mother’ - for worthless father in the summing up of George III. [^3] I have a great respect for poor Augusta, I think she took infinite pains to make her sons good.
+Your recollections run along with mine, though you are two years older. I belong as I daresay you have guessed to a very Tory family, and I recollect expecting a Guillotine in every street, and looking with fears the faggot at a certain map of England marked with R C chapels. Plenty more of them now! I suppose your humorous poems go back to the Tears of the Cruets which my mother used to repeat
 Poor Bartolozzi, miserable Burgoyne
 Victims of Pitt, of Huskisson & Sturges
-[Mr Sturges](/person/2150) was a magnate of this county, and in late years his [daughter](/person/1379) was a great friend of mine.
-
-My [father ](/person/1631)fought at Waterloo and I grew up to many army traditions from him, and his Colonel,[ Lord Seaton](/person/313).
-
-Your energy astonishes me as well as your handwriting. [^4] I am well and strong, and have good eyesight but I do not write as fast as I used to do. I should much like to see your [daughter](/person/845)’s article on the novelists medical knowledge.
-
-Brain fevers and consumptions are their delight. I turned up the old Diary of a Physician and was amused at the endless hectic ladies.
-
-The moon is an equal trap to novels, but I think nothing equals Corinne, who when dying gazed at the very same cloud she had seen years before when parting with Oswald.
-
-It is very curious how people read Corinne without sticking at the absurdities, Lucile rushing out to weep at her father’s tomb in the middle of a ball!
-
-Or the ‘chasse au renard ‘that lasted for days!
-
+[Mr Sturges](/person/2150) was a magnate of this county, and in late years his [daughter](/person/1379) was a great friend of mine. My [father](/person/1631)fought at Waterloo and I grew up to many army traditions from him, and his Colonel,[Lord Seaton](/person/313). Your energy astonishes me as well as your handwriting. [^4] I am well and strong, and have good eyesight but I do not write as fast as I used to do. I should much like to see your [daughter](/person/845)’s article on the novelists medical knowledge. Brain fevers and consumptions are their delight. I turned up the old Diary of a Physician and was amused at the endless hectic ladies. The moon is an equal trap to novels, but I think nothing equals Corinne, who when dying gazed at the very same cloud she had seen years before when parting with Oswald. It is very curious how people read Corinne without sticking at the absurdities, Lucile rushing out to weep at her father’s tomb in the middle of a ball! Or the ‘chasse au renard ‘that lasted for days!
 Yours very sincerely
 
 C M Yonge
@@ -42,6 +24,4 @@ C M Yonge
 [^1]: Elizabeth Wormeley Latimer, Europe in Africa in the Nineteenth Century (Chicago: McClurg 1895).
 [^2]: Leander Starr Jameson (1853-1917)
 [^3]: Elizabeth Wormeley Latimer, England in the Nineteenth Century (Chicago: McClurg 1894).
-[^4]: A reference perhaps to the 10 books she had published since 1888.
-
-In the same period CMY had published more than 40.
+[^4]: A reference perhaps to the 10 books she had published since 1888. In the same period CMY had published more than 40.

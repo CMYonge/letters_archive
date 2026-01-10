@@ -1,7 +1,7 @@
 ---
 id: 2106
 title: To Elizabeth Missing Sewell
-date: '1866-03-15'
+iso-date: '1866-03-15'
 display-date: March 15th [1866]
 from-name: Charlotte Mary Yonge
 to-name: To Elizabeth Missing Sewell
@@ -15,9 +15,7 @@ I suppose Carter’s history was the other authority for Hereward that I propose
 Yours sincerely
 
 C M Yonge
-After all the Judge’s letter has hidden itself.
-
-When it comes up you shall have the autograph.
+After all the Judge’s letter has hidden itself. When it comes up you shall have the autograph.
 
 
 [^1]: They were working together on Historical Selections, an anthology of passages from different historians arranged chronologically by subject, beginning with the Norman Conquest.

@@ -1,7 +1,7 @@
 ---
 id: 2322
 title: To Arthur John Butler
-date: '1869-06-18'
+iso-date: '1869-06-18'
 display-date: June 18th [1869]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -23,6 +23,4 @@ yours sincerely
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: This correspondence with Arthur Butler relates to a series in MP on which they were collaborating entitled [\'Polyglott Parsing\'](/book/348), which traced the connections between several ancient and modern languages.
-[^3]: CMY felt that she photographed badly, and had nicknamed some taken by her cousin Duke Yonge \'the Bandit\'s Bride\', perhaps after The Bandit\'s Bride; or, The Maid of Saxony.: A romance by Louisa Sidney Stanhope (London: Minerva Press 1807). \'smiling at grief\' is from Twelfth Night II, 4.

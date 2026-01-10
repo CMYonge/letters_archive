@@ -1,7 +1,7 @@
 ---
 id: 2681
 title: To Alexander Macmillan
-date: '1879-07-11'
+iso-date: '1879-07-11'
 display-date: '[11 July 1879]'
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -14,5 +14,4 @@ manuscript-location: 'MS British Library Add MSS 54921: 101'
 C M Yonge
 
 
-[^1]: Postcard addressed to \'A Macmillan Esq/ 30 Bedford Street/ Covent Garden/ London E C.\' and postmarked Winchester, 11 July 1879.
 [^2]: CMY was assembling the stories which were republished as [Bye-Words](/book/135) (1880).

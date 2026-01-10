@@ -2,18 +2,12 @@
 id: 91
 title: Journal of the Lady Beatrix Graham, Sister of the Marquis of Montrose [Preface
   by CMY]
-author: Charlotte Mary Yonge
-date: '1871'
+author-name: Charlotte Mary Yonge
+publication-date: '1871'
 genre: 'Non-fiction: preface'
 publication-format: Preface to book
 publisher: 'London: Bell and Daldy, York Street, Covent Garden'
 illustrator: Unsigned decorations
 ---
 
-This was an anonymous novel by Jane Mary Dampier.
-
-The preface is dated August 1870.
-
-It was reviewed in ‘Hints on Reading’ MP (April 1871) 420: \'Journal of Lady Beatrix Graham (Bell and Daldy) is a charming picture of the life of the great Marquis of Montrose and his loving admiring young sister, during the interval between his loyal exploits in Scotland and his death.
-
-We like it the best of all the imaginary diaries that have been so numerous.’ .
+This was an anonymous novel by Jane Mary Dampier. The preface is dated August 1870. It was reviewed in ‘Hints on Reading’ MP (April 1871) 420: \'Journal of Lady Beatrix Graham (Bell and Daldy) is a charming picture of the life of the great Marquis of Montrose and his loving admiring young sister, during the interval between his loyal exploits in Scotland and his death. We like it the best of all the imaginary diaries that have been so numerous.’ .

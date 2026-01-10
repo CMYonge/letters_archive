@@ -2,8 +2,8 @@
 id: 233
 title: Cook and the Captive, or, Attalus the Hostage, The By Charlotte M.Yonge, author
   of ‘The Constable’s Tower’ ‘The Slaves of Sabinus’ etc.
-author: Charlotte Mary Yonge
-date: September 1894
+author-name: Charlotte Mary Yonge
+publication-date: September 1894
 genre: Fiction (historical)
 publication-format: Book 8vo 228pp
 publisher: 'London: National Society’s Depository, Broad Sanctuary, Westminster, New

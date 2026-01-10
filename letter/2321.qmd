@@ -1,7 +1,7 @@
 ---
 id: 2321
 title: To Jean Ingelow
-date: '1869-06-17'
+iso-date: '1869-06-17'
 display-date: June 17th [1869?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -15,6 +15,3 @@ I enclose a note from a friend of mine, a young clergyman’s wife, who is as yo
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: Black-edged paper.

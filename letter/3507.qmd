@@ -1,7 +1,7 @@
 ---
 id: 3507
 title: To Robert Harrison
-date: '1860-04-07'
+iso-date: '1860-04-07'
 display-date: April 7th [mid 1860s?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester

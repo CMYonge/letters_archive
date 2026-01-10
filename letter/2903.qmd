@@ -1,7 +1,7 @@
 ---
 id: 2903
 title: To the Reverend William Parsons Warburton
-date: '1889-03-04'
+iso-date: '1889-03-04'
 display-date: March 4th [1889?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,15 +10,9 @@ manuscript-location: MS Girton College, Cambridge
 ---
 
 My dear [Canon Warburton](/person/1466)
-‘Foundations of the Creed’ by the Bishop of Carlisle has just been mentioned to me in a letter as a particularly good book for the present time.
-
-Perhaps someone else has set it down, but it is better to run the risk of mentioning what is known than to leave it out.
-
+‘Foundations of the Creed’ by the Bishop of Carlisle has just been mentioned to me in a letter as a particularly good book for the present time. Perhaps someone else has set it down, but it is better to run the risk of mentioning what is known than to leave it out.
 That Pearl story haunts me. I think I see how it may make a very nice little romance after incubation!
 
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: This was probably in connection with the [Winchester Diocesan Society for Higher Religious Education](/organisation/48).

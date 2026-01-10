@@ -1,8 +1,8 @@
 ---
 id: 3539
 title: To Jane Mary Dampier
-date: '1868-04-24'
-display-date: April 24th [1868?[[footnote:1]]]
+iso-date: '1868-04-24'
+display-date: April 24th [1868?]
 from-name: Charlotte Mary Yonge
 to-name: To Jane Mary Dampier
 manuscript-location: 'MS UCLA: collection 100: box 95'
@@ -14,8 +14,3 @@ I am sorry to do no more than leave the parcel but we have to be at home in time
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: The letter must post-date the marriage of Frances Yonge’s sister Louisa to Frank Halliday in August 1866.
-
-The reference to Montrose (about whom Dampier published a novel with a preface by CMY, [Lady Beatrix Graham](/book/91)) may possibly relate to a correspondence in MP between September and December 1868, in which a line from Lovelace\'s \'To Lucasta, on Going to the Wars\' was incorrectly attributed to Montrose.

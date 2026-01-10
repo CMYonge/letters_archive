@@ -1,8 +1,8 @@
 ---
 id: 258
 title: \'Real Childhood- the Teens, A\' by C. M. Yonge
-author: Charlotte Mary Yonge
-date: '1893'
+author-name: Charlotte Mary Yonge
+publication-date: '1893'
 genre: Non-fiction, reminiscences
 publication-format: Article in Journal
 publisher: '<i>Mothers in Council</i> 3: 9 (January 1893) 15-21'

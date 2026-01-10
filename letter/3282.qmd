@@ -1,7 +1,7 @@
 ---
 id: 3282
 title: To Miss Hale
-date: '1895-01-26'
+iso-date: '1895-01-26'
 display-date: Jan 26th 1895
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne

@@ -5,6 +5,4 @@ name: Wigram and Sons
 title: Wigram and Sons
 ---
 
-shipbuilders.
-
-They constructed the Southern Cross.
+shipbuilders. They constructed the Southern Cross.

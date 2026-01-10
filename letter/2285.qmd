@@ -1,7 +1,7 @@
 ---
 id: 2285
 title: To Anne Yonge
-date: '1868-10-24'
+iso-date: '1868-10-24'
 display-date: Octr 24. 1868
 from-name: Charlotte Mary Yonge
 to-name: To Anne Yonge
@@ -9,16 +9,6 @@ manuscript-location: 'MS WDRO Acc No 308: 24/10/68'
 ---
 
 [Character of [Anne Yonge](/person/1582)]
-So unselfish as to have no will of her own - strong opinions, kept under great check & reserve - A great sense of subordination and an infinite kindness and charity, taking up small disregarded offices. A great power of effectiveness, though want of method makes her do less than might be.
-
-True but reserved.
-
-Very strong & deep affections, without much demonstration, prone to tormenting herself.
-
-Very attractive in her whole nature, gaining much influence from strong reliance on her - but putting herself out more to the weak than to her equals - strong sense of humour – but deep reverence - and some severity in judgements
+So unselfish as to have no will of her own - strong opinions, kept under great check & reserve - A great sense of subordination and an infinite kindness and charity, taking up small disregarded offices. A great power of effectiveness, though want of method makes her do less than might be. True but reserved. Very strong & deep affections, without much demonstration, prone to tormenting herself. Very attractive in her whole nature, gaining much influence from strong reliance on her - but putting herself out more to the weak than to her equals - strong sense of humour – but deep reverence - and some severity in judgements
 [Character of herself]
-Selfish really & self indulgent, but with a good natured open manner that veils it.
-
-True and open handed, and not very sensitive or jealous – getting on easily with superiors, but stiff, shy, & disagreeable to others - ready to do whatever does not involve personal discomfort - Punctual to time but to nothing else – slovenly - but with superinduced accuracy - Good tempered & cheerful, when self indulgence is not in the way - Severer on others than to herself.
-
-Living on a false reputation for good qualities she has not, and seeming good by mere cleverness -
+Selfish really & self indulgent, but with a good natured open manner that veils it. True and open handed, and not very sensitive or jealous – getting on easily with superiors, but stiff, shy, & disagreeable to others - ready to do whatever does not involve personal discomfort - Punctual to time but to nothing else – slovenly - but with superinduced accuracy - Good tempered & cheerful, when self indulgence is not in the way - Severer on others than to herself. Living on a false reputation for good qualities she has not, and seeming good by mere cleverness -

@@ -1,7 +1,7 @@
 ---
 id: 2438
 title: To Christabel Rose Coleridge
-date: '1872-02-01'
+iso-date: '1872-02-01'
 display-date: Feb 1st [endorsed \'1872\']
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,9 +10,7 @@ manuscript-location: MS Mrs Clare Roels
 ---
 
 My dear [Christabel](/person/329)
-Here are the answers please to set on the next questioner.
-
-Is it [Polypodium](/person/50) whom I think a very good one with plenty of stuff in her.[^1] I am sorry you have not caught any pupils I thought you would have had [Mr Johns](/person/769)’s rejected addresses.[^2]
+Here are the answers please to set on the next questioner. Is it [Polypodium](/person/50) whom I think a very good one with plenty of stuff in her.[^1] I am sorry you have not caught any pupils I thought you would have had [Mr Johns](/person/769)’s rejected addresses.[^2]
 I am having new school experiences, having taken half an hour twice a week of our boys’ [school](/organisation/107), which somehow had got a good deal let down, so that nobody knew who his neighbour was.[^3] They are quiet little lads and I don’t think stupid
 Cannot you invent some small stimulus to break the silent spell? I believe it is the second stage of civilisation there is the blurting out period, the silent one and that of reasonable speech
 your affectionate
@@ -21,11 +19,5 @@ C M Yonge
 
 
 [^1]: Polypodium, Maria Archer Houblon, was a member of the [Gosling Society](/topic/104), of which Christabel Coleridge was the secretary.
-[^2]: The phrase no doubt comes from the well-known parodies of Wordsworth etc. (James and Horatio Smith, Rejected Addresses, 1812).
-
-The Rev.
-
-Charles Alexander Johns ran a prep school at Winton House, Winchester, until his death in 1874; but was absent during the 1871 census, and it is possible that ill-health or some other reason had led to a scaling down of the school.
-
-Christabel\'s brother [Ernest](/person/336) had perhaps hoped for his pupils.
+[^2]: The phrase no doubt comes from the well-known parodies of Wordsworth etc. (James and Horatio Smith, Rejected Addresses, 1812). The Rev. Charles Alexander Johns ran a prep school at Winton House, Winchester, until his death in 1874; but was absent during the 1871 census, and it is possible that ill-health or some other reason had led to a scaling down of the school. Christabel\'s brother [Ernest](/person/336) had perhaps hoped for his pupils.
 [^3]: This refers to the questions in the church catechism about \'my duty towards my Neighbour\'.

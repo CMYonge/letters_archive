@@ -1,63 +1,24 @@
 ---
 id: 3197
 title: To Elizabeth Barnett
-date: '1892-06-07'
+iso-date: '1892-06-07'
 display-date: 7 June 1892
 from-name: Charlotte Mary Yonge
 from-address: Elderfield,
 to-name: To Elizabeth Barnett
-manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i>
   pp. 312-313
 ---
 
 Dearest [Lizzie](/person/113)-
-Here am I writing to you out upon the lawn under the pleasant shade of the berberis.
-
-There ought to be a nightingale singing, for one lives at the corner, but he is a lazy bird, and year after year always is nearly silent after the first fortnight, though yesterday I not only heard but saw his fellow singing with all his might in a young oak, making his tail and wings quiver.
-I had your letter just as I was starting for Amport where [Emily Awdry](/person/81) had asked me to come for her [G.F.S.](/organisation/23) festival- a quiet little parish excellently worked, and it was a happy visit, though saddened by [Mr.
-
-Chute](/person/299)'s death.[^1] I think you know all about that almost ideal family in their historical old home, the Vyne.
-
-He has had heart complaint for years, so it was not unexpected, but he went about and was a most helpful churchman.
-
-His family called him their Saintly Chaloner.
-
-He had just had the pleasure of his eldest [boy](/person/2113) getting into college at Eton with only his preparation.
-
-He is a very great loss. [Mr.
-
-Brock](/person/201) still has heard nothing from Government about his [father](/person/2112)'s living, though as all Guernsey has begged for him, there seems no doubt that he will go, and he thinks he can deal with the people as no one can whom they do not already care for.
-
-It is an anxious time, but in the main we are in safe hands.[^2]
-My old frail house has had to be shored up and [Gertrude](/person/1462) had to be moved into the drawing-room, bed and all; she goes back today, but the déménagement will last for another week at least, and then I go to London for the G.F.S. week.
-
-After her last year's experience I suppose [Emma](/person/240) will not encounter it again this time.
-
-My old [Harriet](/person/1359) is to meet me there; she has been visiting her nieces, and there a great dog bit her; she was feeding it, and it thought she was going to take away its dish of water.
-
-It was only a graze, but it swelled so much that after ten days she can only just put her foot to the ground.
-
-She is on the whole much better.
-I am glad to hear of the two more volumes of Essays; we have been reading the Blackwood ones, also that very striking ‘Pharaohs and Fellahs’.[^3] You will like [C.
-
-Coleridge](/person/329)'s [N. S.](/organisation/32) story, a German chivalrous one.
-
+Here am I writing to you out upon the lawn under the pleasant shade of the berberis. There ought to be a nightingale singing, for one lives at the corner, but he is a lazy bird, and year after year always is nearly silent after the first fortnight, though yesterday I not only heard but saw his fellow singing with all his might in a young oak, making his tail and wings quiver.
+I had your letter just as I was starting for Amport where [Emily Awdry](/person/81) had asked me to come for her [G.F.S.](/organisation/23) festival- a quiet little parish excellently worked, and it was a happy visit, though saddened by [Mr. Chute](/person/299)'s death.[^1] I think you know all about that almost ideal family in their historical old home, the Vyne. He has had heart complaint for years, so it was not unexpected, but he went about and was a most helpful churchman. His family called him their Saintly Chaloner. He had just had the pleasure of his eldest [boy](/person/2113) getting into college at Eton with only his preparation. He is a very great loss. [Mr. Brock](/person/201) still has heard nothing from Government about his [father](/person/2112)'s living, though as all Guernsey has begged for him, there seems no doubt that he will go, and he thinks he can deal with the people as no one can whom they do not already care for. It is an anxious time, but in the main we are in safe hands.[^2]
+My old frail house has had to be shored up and [Gertrude](/person/1462) had to be moved into the drawing-room, bed and all; she goes back today, but the déménagement will last for another week at least, and then I go to London for the G.F.S. week. After her last year's experience I suppose [Emma](/person/240) will not encounter it again this time. My old [Harriet](/person/1359) is to meet me there; she has been visiting her nieces, and there a great dog bit her; she was feeding it, and it thought she was going to take away its dish of water. It was only a graze, but it swelled so much that after ten days she can only just put her foot to the ground. She is on the whole much better.
+I am glad to hear of the two more volumes of Essays; we have been reading the Blackwood ones, also that very striking ‘Pharaohs and Fellahs’.[^3] You will like [C. Coleridge](/person/329)'s [N. S.](/organisation/32) story, a German chivalrous one.
 Your affectionate
 C. M. YONGE.
 
 
-[^1]: Chaloner William Chute (d. 30 May 1892), of the Vyne, Sherborne St.
-
-John, Hampshire.
-
-Emily (Moberly) Awdry (1844-1921) was married to the Rev.
-
-William Awdry (1842-1910), Vicar of Amport.
-[^2]: The Rev.
-
-Henry Walter Brock (1849-1919), Vicar of Otterbourne, resigned the living in 1892 to succeed his father, the Very Rev.
-
-Carey Brock (1824-1892), dean of Guernsey, as Rector of St Pierre-du-Bois.
-[^3]: CMY had evidently been reading Anne Mozley\'s Essays from Blackwood (1892).
-
-Elizabeth Barnett may have been referring to two other volumes of essays by Mozley published anonymously by Blackwood in 1865: Essays on Social Subjects from the Saturday Review.
+[^1]: Chaloner William Chute (d. 30 May 1892), of the Vyne, Sherborne St. John, Hampshire. Emily (Moberly) Awdry (1844-1921) was married to the Rev. William Awdry (1842-1910), Vicar of Amport.
+[^2]: The Rev. Henry Walter Brock (1849-1919), Vicar of Otterbourne, resigned the living in 1892 to succeed his father, the Very Rev. Carey Brock (1824-1892), dean of Guernsey, as Rector of St Pierre-du-Bois.
+[^3]: CMY had evidently been reading Anne Mozley\'s Essays from Blackwood (1892). Elizabeth Barnett may have been referring to two other volumes of essays by Mozley published anonymously by Blackwood in 1865: Essays on Social Subjects from the Saturday Review.

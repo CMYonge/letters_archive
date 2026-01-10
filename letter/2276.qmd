@@ -1,7 +1,7 @@
 ---
 id: 2276
 title: To Mary Ann Moberly
-date: '1868-10-01'
+iso-date: '1868-10-01'
 display-date: '[early] Oct. 1868.'
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne,
@@ -10,9 +10,7 @@ manuscript-location: MS location unknown. This fragment printed in <i>[[otherboo
   Domum]</i>, 207.
 ---
 
-[Anne](/person/1582) and I were pleased to have a sight of [Emily](/person/81); there is more change in the latter than in the former in the fourteen years since they met.[^1] I hope [you](/person/1019) will not have to part with the Chester division[^2] of the family much before Christmas.
-
-Perhaps if you do not join them there very soon after they go, you would let me come to you for a little while. . . I am not afraid of solitary days; after all, it is all well . . .
+[Anne](/person/1582) and I were pleased to have a sight of [Emily](/person/81); there is more change in the latter than in the former in the fourteen years since they met.[^1] I hope [you](/person/1019) will not have to part with the Chester division[^2] of the family much before Christmas. Perhaps if you do not join them there very soon after they go, you would let me come to you for a little while. . . I am not afraid of solitary days; after all, it is all well . . .
 
 
 [^1]: Anne Yonge (b. 1825) would have been 29 fourteen years earlier, Emily Awdry (nee Moberly) (b. 1839) only 15.

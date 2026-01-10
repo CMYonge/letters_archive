@@ -1,7 +1,7 @@
 ---
 id: 1944
 title: To Alexander Macmillan
-date: '1864-03-11'
+iso-date: '1864-03-11'
 display-date: March 11th 1864
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne, Winchester.
@@ -10,26 +10,17 @@ manuscript-location: 'MS British Library Add MSS 54920:'
 ---
 
 Dear [Mr Macmillan](/person/939),
-I sent the [drawing](/topic/167) by the train yesterday.
-
-It was very dull of me not to have seen that it was a drawing.
-
-Our only other criticism is that a touch or two might make the [little Duke](/book/20)’s limbs more child like.
-
+I sent the [drawing](/topic/167) by the train yesterday. It was very dull of me not to have seen that it was a drawing. Our only other criticism is that a touch or two might make the [little Duke](/book/20)’s limbs more child like.
 As a matter of fact I believe the Normans did not wear beards, but I only found this out long after the book was out, so book and beard must both stand as they are much to the advantage of the picturesque.
-I add the list of people to whom I should like copies of the [Trial](/book/53) to be sent.
-
-If it comes out during the Easter recess however that first copy in the list should come with mine instead of going to Victoria Street
+I add the list of people to whom I should like copies of the [Trial](/book/53) to be sent. If it comes out during the Easter recess however that first copy in the list should come with mine instead of going to Victoria Street
 Yours faithfully
-C. M.
-
-Yonge		
+C. M. Yonge		
 [Sir William Heathcote](/person/669) Bart M P
 91 Victoria Street
-[Mrs Pode ](/person/1180)
+[Mrs Pode](/person/1180)
 3 Craven Place
 Westbourne Terrace
-The[ London Library](/organisation/29)
+The[London Library](/organisation/29)
 12 St James’s Street
 [Miss Coleridge](/person/351)
 Heaths Court
@@ -48,6 +39,5 @@ Edinburgh
 6 copies to myself[^2]
 
 
-[^1]: Black-edged paper.
 [^2]: Another hand has written ‘6 by rail’ across the top left corner.
 <br/

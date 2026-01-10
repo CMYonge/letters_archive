@@ -1,4 +1,0 @@
-::: {.entity-meta}
-{{< if-meta "reference-type" >}}**Type:** {{< meta reference-type >}}  {{< /if-meta >}}
-{{< if-meta "name" >}}**Name:** {{< meta name >}}{{< /if-meta >}}
-:::

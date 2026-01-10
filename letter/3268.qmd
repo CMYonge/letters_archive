@@ -1,7 +1,7 @@
 ---
 id: 3268
 title: To the Reverend John Frederick Watkinson Bullock
-date: '1894-06-22'
+iso-date: '1894-06-22'
 display-date: June 22 [1894?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -17,7 +17,5 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: CMY refers to the work she was doing for Bullock\'s Daily Lections project.
-
-The last four Bishops of Salisbury had been [Edward Denison](/person/2137), [Walter Kerr Hamilton](/person/2138), [George Moberly](/person/1015) and [John Wordsworth](/person/1567), all High Churchmen.
+[^1]: CMY refers to the work she was doing for Bullock\'s Daily Lections project. The last four Bishops of Salisbury had been [Edward Denison](/person/2137), [Walter Kerr Hamilton](/person/2138), [George Moberly](/person/1015) and [John Wordsworth](/person/1567), all High Churchmen.
 [^2]: Gilbert Burnet (1643-1715) was probably both too worldly and too Low Church to please CMY.

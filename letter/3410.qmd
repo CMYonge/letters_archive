@@ -1,12 +1,12 @@
 ---
 id: 3410
 title: To Margaret Jane Mowbray
-date: '1899-07-20'
+iso-date: '1899-07-20'
 display-date: July 20, 1899.
 from-name: Charlotte Mary Yonge
 from-address: Elderfield,
 to-name: To Margaret Jane Mowbray
-manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:]Life]</i>
+manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:]Life]</i>
   p. 284
 ---
 
@@ -17,12 +17,4 @@ Yours sincerely,
 C. M. YONGE.
 
 
-[^1]: On 18 July 1899 a presentation was made to Yonge of £1800 to found a [scholarship](/topic/113) in her name enabling a former pupil of Winchester High School for Girls (now St.
-
-Swithun\'s School) to attend a university.
-
-Speeches were made by the Bishop of Guildford (the Rt.
-
-Rev.
-
-George Sumner) and Canon Warburton.
+[^1]: On 18 July 1899 a presentation was made to Yonge of £1800 to found a [scholarship](/topic/113) in her name enabling a former pupil of Winchester High School for Girls (now St. Swithun\'s School) to attend a university. Speeches were made by the Bishop of Guildford (the Rt. Rev. George Sumner) and Canon Warburton.

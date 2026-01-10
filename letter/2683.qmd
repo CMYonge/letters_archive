@@ -1,7 +1,7 @@
 ---
 id: 2683
 title: To George Lillie Craik
-date: '1879-07-14'
+iso-date: '1879-07-14'
 display-date: July 14th 1879
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -17,6 +17,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: This was extra material to make up the collection of previously published stories which appeared as [Bye-Words](/book/135) (1879).
-
-The \'queer little drama\' was \'The Campbells are Coming\'.
+[^1]: This was extra material to make up the collection of previously published stories which appeared as [Bye-Words](/book/135) (1879). The \'queer little drama\' was \'The Campbells are Coming\'.

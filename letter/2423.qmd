@@ -1,7 +1,7 @@
 ---
 id: 2423
 title: To Mary Eliza Bramston
-date: '1871-11-21'
+iso-date: '1871-11-21'
 display-date: Novr 21st [1871?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.

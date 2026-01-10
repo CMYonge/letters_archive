@@ -1,7 +1,7 @@
 ---
 id: 3096
 title: To the Reverend Edward Coleridge
-date: '1857-03-28'
+iso-date: '1857-03-28'
 display-date: March 28th [1857]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
@@ -10,28 +10,13 @@ manuscript-location: MS University of Manchester Ryl Eng. MS 734/183
 ---
 
 My dear [Mr Coleridge](/person/332)[^1]
-I am very much obliged to you for so kindly undertaking the enquiry at Goslings which must be the preliminary to any undertaking in the cause of the [Bells](/topic/103).[^2] I would not however have given you the trouble of reading my thanks had I not been charged with a message to you from [Mrs Keble](/person/795) She obtained a promise from [Mrs Selwyn](/person/1297) when in England that [little John](/person/1296) might sometimes visit them in the holidays, and she would much like to have him for a little while this Easter but she does not know to whom to write for him, nor whether he might like to come, and as [Mr Keble](/person/798) is so busy that she is afraid he will hardly have time to write before Easter to you, she desired me to ask you if you could tell her how the visit can be managed or if likely to be agreeable to the boy (as I should think it would be).
-
-What [Fanny Patteson](/person/1151) lent me was her copies from [Coley](/person/1155)’s letters and journals; of which probably you have seen more details.
-
-The description of the scenery of those tropical islands delighted us extremely.
+I am very much obliged to you for so kindly undertaking the enquiry at Goslings which must be the preliminary to any undertaking in the cause of the [Bells](/topic/103).[^2] I would not however have given you the trouble of reading my thanks had I not been charged with a message to you from [Mrs Keble](/person/795) She obtained a promise from [Mrs Selwyn](/person/1297) when in England that [little John](/person/1296) might sometimes visit them in the holidays, and she would much like to have him for a little while this Easter but she does not know to whom to write for him, nor whether he might like to come, and as [Mr Keble](/person/798) is so busy that she is afraid he will hardly have time to write before Easter to you, she desired me to ask you if you could tell her how the visit can be managed or if likely to be agreeable to the boy (as I should think it would be). What [Fanny Patteson](/person/1151) lent me was her copies from [Coley](/person/1155)’s letters and journals; of which probably you have seen more details. The description of the scenery of those tropical islands delighted us extremely.
 [Mrs Abraham](/person/3) had had a bad influenza and feverish attack, but was much better when she wrote.
-
 With many thanks for the kindness of your note
 yours very sincerely
 
 C M Yonge
 
 
-[^1]: The Rev.
-
-Edward Coleridge (1800-1883), was a master at Eton, where he had taught his and CMY’s cousin the future Bishop of Melanesia, John Coleridge Patteson, who was at this time acting as missionary chaplain to the Rt.
-
-Rev.
-
-George Augustus Selwyn, Bishop of New Zealand.
-
-The latter\'s son John Richardson Selwyn (1844-1898), was a current pupil at Eton.
-[^2]: A fund for the purchase of bells for Auckland church was held at Goslings’ bank. A pamphlet concerning the Auckland bells is bound into a copy of MP in the University of Queensland Library, between the numbers for April and May 1857.
-
-Subscribers are instructed to send their money \'to the account of the Bishop of New Zealand, for the bells Mesrs Gosling and Sharpe, 19, Fleet Street\'.
+[^1]: The Rev. Edward Coleridge (1800-1883), was a master at Eton, where he had taught his and CMY’s cousin the future Bishop of Melanesia, John Coleridge Patteson, who was at this time acting as missionary chaplain to the Rt. Rev. George Augustus Selwyn, Bishop of New Zealand. The latter\'s son John Richardson Selwyn (1844-1898), was a current pupil at Eton.
+[^2]: A fund for the purchase of bells for Auckland church was held at Goslings’ bank. A pamphlet concerning the Auckland bells is bound into a copy of MP in the University of Queensland Library, between the numbers for April and May 1857. Subscribers are instructed to send their money \'to the account of the Bishop of New Zealand, for the bells Mesrs Gosling and Sharpe, 19, Fleet Street\'.

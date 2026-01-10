@@ -1,25 +1,19 @@
 ---
 id: 3459
 title: To Christabel Rose Coleridge
-date: '1900-05-14'
+iso-date: '1900-05-14'
 display-date: May 14 [1900]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
 to-name: To Christabel Rose Coleridge
-manuscript-location: MS Mrs Clare Roels/96.  Printed by Coleridge, [[otherbook:40]<i>Life</i>],
+manuscript-location: MS Mrs Clare Roels/96. Printed by Coleridge, [[otherbook:40]<i>Life</i>],
   344, and dated by her 1900
 ---
 
 My dear [C C](/person/329)
-No, you did not send me a notice of Red Pottage I am thankful you did not for that and [Canon Lias](/person/2227) would have been enough to tear [M in C](/periodical/82) to pieces.[^1] However he thinks too much fuss is made about the MS in the brother’s house.
-
-Do you remember [Edna Lyall](/person/2228) subscribing to [Bradlaugh](/person/2229) from [Canon Crowfoot](/person/2230)’s house at Lincoln[^2]
+No, you did not send me a notice of Red Pottage I am thankful you did not for that and [Canon Lias](/person/2227) would have been enough to tear [M in C](/periodical/82) to pieces.[^1] However he thinks too much fuss is made about the MS in the brother’s house. Do you remember [Edna Lyall](/person/2228) subscribing to [Bradlaugh](/person/2229) from [Canon Crowfoot](/person/2230)’s house at Lincoln[^2]
 But I think people with Consciences ought to reflect on the harm they do to morbid imaginations by dwelling on suicide, and I do think that contemplation of sin is not the way to purity of heart.
-[Rosina](/person/418) has had very good marks for all her [R U ](/organisation/211)work, once 100 once 99 - never less than 70, the last on the Little Treasury was 89[^3] but I think it is rather hard to be censored for not being long enough when there were orders only to use two sheets, and every corner was filled.
-
-She was told she should have paraphrased the Bar, and there was no room to have done it, though she explained and commented on it.[^4] The same with a bit of Church history.
-
-Her writing is not small, so some may have had room but I think they must have compared B with A She does not mean to try again as the writing takes too much time but goes on reading with me, and we have just begun [Sintram](/topic/102)
+[Rosina](/person/418) has had very good marks for all her [R U](/organisation/211)work, once 100 once 99 - never less than 70, the last on the Little Treasury was 89[^3] but I think it is rather hard to be censored for not being long enough when there were orders only to use two sheets, and every corner was filled. She was told she should have paraphrased the Bar, and there was no room to have done it, though she explained and commented on it.[^4] The same with a bit of Church history. Her writing is not small, so some may have had room but I think they must have compared B with A She does not mean to try again as the writing takes too much time but goes on reading with me, and we have just begun [Sintram](/topic/102)
 your affte
 
 C M Yonge

@@ -5,6 +5,4 @@ name: Nutt and Wells
 title: Nutt and Wells
 ---
 
-Probably the same as D.
-
-Nutt, bookseller of College Street, Winchester.
+Probably the same as D. Nutt, bookseller of College Street, Winchester.

@@ -1,7 +1,7 @@
 ---
 id: 2267
 title: To Christabel Rose Coleridge
-date: '1868-09-15'
+iso-date: '1868-09-15'
 display-date: Sept 15th [1868]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -19,9 +19,5 @@ C M Yonge
 You idle [Gosling](/topic/104) - you don’t give a hint where here  is - so this must go to Hanwell.
 
 
-[^1]: For Cape Town to work as a missionary.
-
-See letter to Christabel Coleridge, 1 July 1868.
-[^2]: Laura Valentine worked as a children’s books editor for Warne, who published Giftie in 1869; the annual was probably Warne’s Home Annual (1869 etc).
-
-Perhaps the Christmas 1868 edition was dated 1869.
+[^1]: For Cape Town to work as a missionary. See letter to Christabel Coleridge, 1 July 1868.
+[^2]: Laura Valentine worked as a children’s books editor for Warne, who published Giftie in 1869; the annual was probably Warne’s Home Annual (1869 etc). Perhaps the Christmas 1868 edition was dated 1869.

@@ -1,7 +1,7 @@
 ---
 id: 7150
 title: To Margaret Benson
-date: '1890-05-09'
+iso-date: '1890-05-09'
 display-date: May 9th 1890
 from-name: Charlotte Mary Yonge
 from-address: Torquay

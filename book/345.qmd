@@ -1,8 +1,8 @@
 ---
 id: 345
 title: ‘A Lot in Life.’ By C.M. Yonge
-author: Charlotte Mary Yonge
-date: '1901'
+author-name: Charlotte Mary Yonge
+publication-date: '1901'
 genre: Non-fiction
 publication-format: Article in Journal
 publisher: <i>Mothers in Council</i> 11.41 (April 1901) 21-26

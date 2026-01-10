@@ -1,7 +1,7 @@
 ---
 id: 3253
 title: To the Reverend John Frederick Watkinson Bullock
-date: '1894-03-01'
+iso-date: '1894-03-01'
 display-date: March 1st 1894
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -17,6 +17,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: The biographies of the Rev.
-
-John William Fletcher and of Lettice, Viscountess Falkland were among the [\'Biographies of Eminent Anglicans\'](/book/358) intended for Bullock\'s Daily Lections project, but were never published.
+[^1]: The biographies of the Rev. John William Fletcher and of Lettice, Viscountess Falkland were among the [\'Biographies of Eminent Anglicans\'](/book/358) intended for Bullock\'s Daily Lections project, but were never published.

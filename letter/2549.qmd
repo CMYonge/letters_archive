@@ -1,7 +1,7 @@
 ---
 id: 2549
 title: To Christabel Rose Coleridge
-date: '1876-04-04'
+iso-date: '1876-04-04'
 display-date: April 4 th [1876?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,28 +10,14 @@ manuscript-location: MS Mrs Clare Roels
 ---
 
 My dear [Christabel](/person/329)
-Pretty well all I could pick up about those four Portuguese brothers is in a [cameo](/book/124).
-
-They must have been splendid people particularly Enrique and they had a curious resemblance to their first cousins - Henry IV’s sons –[^1] You know ‘The Constant Prince’ is the name of a play of Calderon’s about him but I don’t think that would help you much.
-
-There is a translation either by [Abp Trench](/person/1419) or [Archdn Churton](/person/298) I can’t remember which.[^2] Dr Neale’s little history of Portugal was the place where I first knew him- and there is the reign of Duarte told in a stupid sort of way in the [Universal history](/organisation/139), but I am afraid one must know Portuguese to get to the bottom of it all.
-
-However as in the case of that little rebellion of yours in Lady Betty nobody else knows anything so you can use your discretion.[^3]
-5th – This morning I have a note from [Dr Littledale](/person/885) which observes that the Crescent is only the badge of Constantinople itself, not of all Islam- and that the treating it as a Crusading emblem against the Cross, when dealing with Moors & Saracens is a mistake.
-
-He is a man who knows all sorts of odd things so I shall ask if he can help us to anything about Dom Fernando
+Pretty well all I could pick up about those four Portuguese brothers is in a [cameo](/book/124). They must have been splendid people particularly Enrique and they had a curious resemblance to their first cousins - Henry IV’s sons –[^1] You know ‘The Constant Prince’ is the name of a play of Calderon’s about him but I don’t think that would help you much. There is a translation either by [Abp Trench](/person/1419) or [Archdn Churton](/person/298) I can’t remember which.[^2] Dr Neale’s little history of Portugal was the place where I first knew him- and there is the reign of Duarte told in a stupid sort of way in the [Universal history](/organisation/139), but I am afraid one must know Portuguese to get to the bottom of it all. However as in the case of that little rebellion of yours in Lady Betty nobody else knows anything so you can use your discretion.[^3]
+5th – This morning I have a note from [Dr Littledale](/person/885) which observes that the Crescent is only the badge of Constantinople itself, not of all Islam- and that the treating it as a Crusading emblem against the Cross, when dealing with Moors & Saracens is a mistake. He is a man who knows all sorts of odd things so I shall ask if he can help us to anything about Dom Fernando
 your affectionate
 
 C M Yonge
 I have a note from [F Wilford](/person/1520) this morning- I think she must be somewhat better
 
 
-[^1]: The words \'first\' and \'second\' have been erased and the words ‘yes they were’ inserted.
-
-Henry the Navigator, King of Portugal (1394-1560), and his brothers were connected to English history by their mother, Philippa, daughter of John of Gaunt, which explains how CMY had worked them into one of her Cameos from English History.
-
-Coleridge was writing a novel about them.
-[^2]: Pedro Calderón de la Barca, El Principe Constante y Martyr de Portugal (1680?).
-
-Archbishop Trench had published some translations of Calderon, and also a poem called \'The Steadfast Prince\' about Prince Ferdinand of Portugal (1402-1443), the subject of the play, but no translation of the play by him has been found.
+[^1]: The words \'first\' and \'second\' have been erased and the words ‘yes they were’ inserted. Henry the Navigator, King of Portugal (1394-1560), and his brothers were connected to English history by their mother, Philippa, daughter of John of Gaunt, which explains how CMY had worked them into one of her Cameos from English History. Coleridge was writing a novel about them.
+[^2]: Pedro Calderón de la Barca, El Principe Constante y Martyr de Portugal (1680?). Archbishop Trench had published some translations of Calderon, and also a poem called \'The Steadfast Prince\' about Prince Ferdinand of Portugal (1402-1443), the subject of the play, but no translation of the play by him has been found.
 [^3]: Coleridge\'s novel Lady Betty is about a pair of Jacobite sisters.

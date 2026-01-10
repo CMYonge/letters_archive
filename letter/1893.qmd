@@ -1,7 +1,7 @@
 ---
 id: 1893
 title: To Ann Maria Carter Smith
-date: '1863-06-13'
+iso-date: '1863-06-13'
 display-date: June 13th [1863]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester
@@ -15,6 +15,3 @@ In great haste, I enclose [£10](/topic/102) for this half year’s Thorne
 yours sincerely
 
 C M Yonge
-
-
-[^1]: With envelope addressed to Miss Smith/ 8 Wellington Road/ Charlton SE and postmarked Winchester 13 July and London SE 15 July 1863.

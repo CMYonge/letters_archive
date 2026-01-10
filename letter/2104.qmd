@@ -1,7 +1,7 @@
 ---
 id: 2104
 title: To Alexander Macmillan
-date: '1866-02-17'
+iso-date: '1866-02-17'
 display-date: Feb 17th [1866]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,31 +11,11 @@ manuscript-location: 'MS British Library Add MSS 54920: 144-147'
 
 My dear [Mr Macmillan](/person/939)
 I am sorry that [Dr Vaughan](/person/1439) cannot undertake to give us his name. I wish indeed that the [Archbishop of Dublin](/person/1419) could, but if it is in vain to fly so high, what do you think of [Dean Alford](/person/23)? I do not know him personally, nor would his name give the same complete confidence to the High Church as those before mentioned, but it might be the best attainable.
-I had only thought of [Mr Ashwell](/person/68) as likely to be a useful contributor, not as an editor, though he would well serve for one if he had time and you could find no one of more name. I think what he would do best would be - what I think would be specially useful and attractive, natural science in its connection with the Creation and general Preservation, and Wisdom - adaptation of animals and vegetables.
-
-Or astronomy and the like.
-
-If I could set him and his sister to work together I think we should get something very valuable, his sister doing the liveliness.
-
-If you have any volumes of the [Monthly Packet](/periodical/52), and would refer to some 'Readings from the Four Gospels' you would see some specimens of his writing.
-
-And there were a good while ago, some papers on 'the Winds' by his [sister](/person/1863) that I liked extremely, but she went to study painting abroad and they came to an end.
-
-The only person to whom I have actually proposed the work is [Miss Peard](/person/1160).
-
-In the '[Monthly Paper on Sunday Teaching](/periodical/81)' (Mozley) there are many good papers of hers signed FMP - as there are also of Mr Ashwell’s signed ARA - rather tied down in both cases by being written for a lower class, but good specimens.
-
-She would be glad to undertake either the History of the Prayer Book or Bible Scenery, I suppose the first would be the best for her to begin with, as you propose [Mr Grove](/person/588) for the Geography, and that would of course include scenery. I think Miss Wilbraham would do St Bernard and the Crusades beautifully .
-
-She got up the subject well, when about her 'Cheshire Pilgrims,' and though she writes a story heavily, yet on historical ground, she describes beautifully, and with all her heart The only specimen of hers I can think of besides the Kings of Judah is a little book called Royal Rosebuds, (Mozley) with histories of all the specially attractive royal children who died young.
-[Miss Roberts](/person/1244) (Mlle Mori) told me of a book for children on the Prophet Daniel which she said was /mostly\ excellent, but must be rather adapted than translated, as after an admirable early part, it went rather wild into the unfulfilled prophecies. I think it would be well to find out more about it. I like all your subjects exceedingly - though I had rather put the Talmud legends somewhat far on in the set, after confidence has been established.
-
-They might rather confuse a child’s mind unless very skilfully treated. I am not afraid of Laud, Juxon, Andrewes, Hammond, Ken,[^1] &c- not being attractive, even when the first are candidly treated. I have a view on that point which I do not think blinks their faults - though twenty years ago I was of the mind of a little cousin of mine who gravely said the other day 'I wonder if anyone living now would be a Round Head' /(not that I am one now!\ But I had rather begin with the history of the Bible.
-
-It is sketched out a good deal in the Readings in that same Monthly Paper, but only for the uneducated, and I shall much like to work it up for educated children. I suppose the wisest way would be to have materials enough to make a good start by next January, and then it would be very likely that we might have volunteers. I quite feel satisfied with the programme - and if you would apply to your other friends, I could ask Miss Keary, the only one in the list I personally know.
-I think Messrs [Clay](/organisation/173) are proceeding in a most leisurely manner with the [Dove](/book/62).
-
-They send me one proof a week, and have come to page 96,
+I had only thought of [Mr Ashwell](/person/68) as likely to be a useful contributor, not as an editor, though he would well serve for one if he had time and you could find no one of more name. I think what he would do best would be - what I think would be specially useful and attractive, natural science in its connection with the Creation and general Preservation, and Wisdom - adaptation of animals and vegetables. Or astronomy and the like. If I could set him and his sister to work together I think we should get something very valuable, his sister doing the liveliness.
+If you have any volumes of the [Monthly Packet](/periodical/52), and would refer to some 'Readings from the Four Gospels' you would see some specimens of his writing. And there were a good while ago, some papers on 'the Winds' by his [sister](/person/1863) that I liked extremely, but she went to study painting abroad and they came to an end.
+The only person to whom I have actually proposed the work is [Miss Peard](/person/1160). In the '[Monthly Paper on Sunday Teaching](/periodical/81)' (Mozley) there are many good papers of hers signed FMP - as there are also of Mr Ashwell’s signed ARA - rather tied down in both cases by being written for a lower class, but good specimens. She would be glad to undertake either the History of the Prayer Book or Bible Scenery, I suppose the first would be the best for her to begin with, as you propose [Mr Grove](/person/588) for the Geography, and that would of course include scenery. I think Miss Wilbraham would do St Bernard and the Crusades beautifully . She got up the subject well, when about her 'Cheshire Pilgrims,' and though she writes a story heavily, yet on historical ground, she describes beautifully, and with all her heart The only specimen of hers I can think of besides the Kings of Judah is a little book called Royal Rosebuds, (Mozley) with histories of all the specially attractive royal children who died young.
+[Miss Roberts](/person/1244) (Mlle Mori) told me of a book for children on the Prophet Daniel which she said was /mostly\ excellent, but must be rather adapted than translated, as after an admirable early part, it went rather wild into the unfulfilled prophecies. I think it would be well to find out more about it. I like all your subjects exceedingly - though I had rather put the Talmud legends somewhat far on in the set, after confidence has been established. They might rather confuse a child’s mind unless very skilfully treated. I am not afraid of Laud, Juxon, Andrewes, Hammond, Ken,[^1] &c- not being attractive, even when the first are candidly treated. I have a view on that point which I do not think blinks their faults - though twenty years ago I was of the mind of a little cousin of mine who gravely said the other day 'I wonder if anyone living now would be a Round Head' /(not that I am one now!\ But I had rather begin with the history of the Bible. It is sketched out a good deal in the Readings in that same Monthly Paper, but only for the uneducated, and I shall much like to work it up for educated children. I suppose the wisest way would be to have materials enough to make a good start by next January, and then it would be very likely that we might have volunteers. I quite feel satisfied with the programme - and if you would apply to your other friends, I could ask Miss Keary, the only one in the list I personally know.
+I think Messrs [Clay](/organisation/173) are proceeding in a most leisurely manner with the [Dove](/book/62). They send me one proof a week, and have come to page 96,
 
 Yours sincerely
 

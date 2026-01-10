@@ -1,7 +1,7 @@
 ---
 id: 2501
 title: To Florence Freeman
-date: '1874-05-13'
+iso-date: '1874-05-13'
 display-date: May 13th 1874
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,10 +10,7 @@ manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
 ---
 
 My dear [Miss Freeman](/person/524)
-I am very sorry if there is any mistake about one of your webs.[^1] Did you send an address and a stamp with it?
-
-We cannot return them without the latter, as when we get 20 answers or so it would be large undertaking for our finances!
-
+I am very sorry if there is any mistake about one of your webs.[^1] Did you send an address and a stamp with it? We cannot return them without the latter, as when we get 20 answers or so it would be large undertaking for our finances!
 If yours was late, it may have missed mention in the printed list. I get the whole parcel sent down on the first day of the month, and my neighbour [Miss Finlaison](/person/512) sorts them and picks out the superior articles to be chosen from
 I am glad you have done the Multiplication I do not expect the question to be popular and the winner will be hard to decide![^1]
 
@@ -23,4 +20,3 @@ C M Yonge
 
 
 [^1]: CMY\'s correspondent was taking part in the [Spider Society](/organisation/116)\'s essay competitions in the Monthly Packet.
-[^2]: \'Describe and explain the process of multiplying 4265 by 3902\' was one of the Spider questions for May 1874.

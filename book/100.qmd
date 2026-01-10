@@ -2,8 +2,8 @@
 id: 100
 title: Dames of High Estate By Henriette de Witt. The translations edited by Charlotte
   M. Yonge.
-author: Charlotte Mary Yonge
-date: '1869'
+author-name: Charlotte Mary Yonge
+publication-date: '1869'
 genre: Edited translation
 publication-format: Edited book
 publisher: 'London: Frederick Warne and Co., Bedford Street, Covent Garden.'

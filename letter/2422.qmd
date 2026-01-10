@@ -1,7 +1,7 @@
 ---
 id: 2422
 title: To Christabel Rose Coleridge
-date: '1871-11-08'
+iso-date: '1871-11-08'
 display-date: Novr 8th [1871]
 from-name: Charlotte Mary Yonge
 from-address: ‘Monthly Packet’ /6 Paternoster Row /London EC.
@@ -14,9 +14,7 @@ I see no reason against a [Barnacle](/periodical/89) if you have time to edit it
 Patience cousin and shuffle the cards.[^1]
 which would not be a bad proverb to write on.
 [Mrs Johns](/person/772) is well again I was at Winton House on Thursday to see [Miss Eliza Keary](/person/794), and we all went to the lecture together.[^2]
-I hope [Good Words](/periodical/73) will behave well to your story.
-
-Everybody will give it up if it goes on having things as bad as the Sylvestres[^3]
+I hope [Good Words](/periodical/73) will behave well to your story. Everybody will give it up if it goes on having things as bad as the Sylvestres[^3]
 your affectionate
 Mother Goose
 

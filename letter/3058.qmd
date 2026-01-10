@@ -1,21 +1,18 @@
 ---
 id: 3058
 title: To Maria Matilda Harris
-date: '1854-12-01'
+iso-date: '1854-12-01'
 display-date: Otterbourn Friday [December 1854?]
 from-name: Charlotte Mary Yonge
 to-name: To Maria Matilda Harris
-manuscript-location: 'MS Princeton University:  Parrish Collection, Princeton: C0171:
+manuscript-location: 'MS Princeton University: Parrish Collection, Princeton: C0171:
   Box 29.'
 ---
 
 My dear [Mrs Harris](/person/1759)[^2]
 We have had a long time to wait before I could write to tell you of [my brother](/person/1624)’s arrival.
-
 The British Queen was so slow in her progress that all her coal was exhausted and they were obliged to burn their top masts as they put into Falmouth.
-
 His arrival at eight o’clock last night, thin but not otherwise looking ill, though he is not fully recovered, the climate entirely overpowered him even before positive illness came on, and we cannot but feel convinced that his leaving the army is all for the best.
-
 He desires his regard to [Captain Harris](/person/624) and hopes that it will not be long before they meet
 
 Yours sincerely
@@ -23,5 +20,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: This is assumed to be addressed to the wife of Captain William Harris, Chief Constable of Hampshire.

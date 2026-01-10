@@ -2,8 +2,8 @@
 id: 28
 title: 'Landmarks of History III. Modern History: From the Reformation to the Fall
   of Napoleon. By the author of “The Heir of Redclyffe” and “The Kings of England.”'
-author: Charlotte Mary Yonge
-date: '1857'
+author-name: Charlotte Mary Yonge
+publication-date: '1857'
 genre: 'Non-fiction: history'
 publication-format: Book
 publisher: John and Charles Mozley, 6 Paternoster Row, London. Masters and Co. 78,

@@ -1,7 +1,7 @@
 ---
 id: 2265
 title: To George Lillie Craik
-date: '1868-09-05'
+iso-date: '1868-09-05'
 display-date: Sept 5th [1868]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,10 +11,7 @@ manuscript-location: 'MS British Library Add MSS 54920: 208-9'
 
 My dear [Mr Craik](/person/379),
 I am dismayed at what I never found out till the [Saturday Review](/periodical/99) called my attention to it - ie that the [Cameo](/book/73) about the conquest of Wales was left out.
-
-Such a Cameo there was written, it is at Vol IV p. 6 of the [Monthly Packet](/periodical/52), but it must have been neglected when I was collecting the Cameos and the printing was done so very slowly that I lost the connection, and so did not miss it. I am very sorry for it, but it must go in whenever there is a new edition - or would it be possible to add it as a kind of appendix to the copies not yet bound. I suppose it would make about 8pp.
-
-The name is the Last & first Princes of Wales
+Such a Cameo there was written, it is at Vol IV p. 6 of the [Monthly Packet](/periodical/52), but it must have been neglected when I was collecting the Cameos and the printing was done so very slowly that I lost the connection, and so did not miss it. I am very sorry for it, but it must go in whenever there is a new edition - or would it be possible to add it as a kind of appendix to the copies not yet bound. I suppose it would make about 8pp. The name is the Last & first Princes of Wales
 
 Yours sincerely
 

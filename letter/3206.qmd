@@ -1,7 +1,7 @@
 ---
 id: 3206
 title: To Arthur Donald Innes
-date: '1892-11-09'
+iso-date: '1892-11-09'
 display-date: Novr 9th 1892
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,9 +10,7 @@ manuscript-location: MS Girton College Cambridge, Yonge IV 27
 ---
 
 Dear [Mr Innes](/person/744)
-I think as you propose [Langley Adventures](/book/163) ‘[Langley School’](/book/9) Royalty at the rate of [2/3 of a 1d](/topic/160) in the shilling on the published price. ‘Langley Adventures’ Royalty at the rate of ¾d in the shilling on the published price beyond the first 2000 sold which are free of royalty, in the case of Langley Adventures only: twelve copies counting as twelve in all cases.’ might be transferred to you, and the royalty may be paid when the sale exceeds 2,000.
-
-Langley School was one of my earliest books, and had very little value when Messrs [Mozley](/organisation/108) paid for the copyright
+I think as you propose [Langley Adventures](/book/163) ‘[Langley School’](/book/9) Royalty at the rate of [2/3 of a 1d](/topic/160) in the shilling on the published price. ‘Langley Adventures’ Royalty at the rate of ¾d in the shilling on the published price beyond the first 2000 sold which are free of royalty, in the case of Langley Adventures only: twelve copies counting as twelve in all cases.’ might be transferred to you, and the royalty may be paid when the sale exceeds 2,000. Langley School was one of my earliest books, and had very little value when Messrs [Mozley](/organisation/108) paid for the copyright
 I should like to see Mrs Walford’s Grown up children
 
 Yours truly

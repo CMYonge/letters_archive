@@ -1,7 +1,7 @@
 ---
 id: 19058
 title: To Miss Redgrave
-date: '1862-11-01'
+iso-date: '1862-11-01'
 display-date: Nov 3d 1862
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -10,17 +10,11 @@ manuscript-location: MS Charlotte Mitchell
 ---
 
 Dear [Miss Redgrave](/person/2411),
-I like your plea for the Hedgerow very much indeed and hope to put it in whenever there is room.
-
-Was that old man a real character, if he was, should there not be a note to say so.
-
-It would so much enhance the interest[^1]
+I like your plea for the Hedgerow very much indeed and hope to put it in whenever there is room. Was that old man a real character, if he was, should there not be a note to say so. It would so much enhance the interest[^1]
 
 yours sincerely
 
 C M Yonge
 
 
-[^1]: This article cannot be identified in MP. CMY\'s correspondent may possibly be the Elizabeth Redgrave whose The Word and the Work, or, The Harmony of Scripture with Geological Discoveries (London: Mozley 1860) was praised in MP (January 1860), 111.
-
-It was described as \'a series of conversations between a clergyman and a mechanic, intended to popularize Hugh Miller\'s views of the Periods of Creation, and to show how they may be reconciled with the Scriptural narrative.\'
+[^1]: This article cannot be identified in MP. CMY\'s correspondent may possibly be the Elizabeth Redgrave whose The Word and the Work, or, The Harmony of Scripture with Geological Discoveries (London: Mozley 1860) was praised in MP (January 1860), 111. It was described as \'a series of conversations between a clergyman and a mechanic, intended to popularize Hugh Miller\'s views of the Periods of Creation, and to show how they may be reconciled with the Scriptural narrative.\'

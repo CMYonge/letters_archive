@@ -1,31 +1,17 @@
 ---
 id: 2932
 title: To Anne Yonge
-date: '1834-07-04'
+iso-date: '1834-07-04'
 display-date: July 4, 1834
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne
 to-name: To Anne Yonge
-manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:40]Life]</i>,
+manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i>,
   123.
 ---
 
 My dear [Anne](/person/1582),
-Have you seen any more of [Charles](/person/1601)’s owl?
-
-The shells got home quite safe. I send you a carrier Trochus and Charles a waved whelk, [Duke](/person/1599) a fresh-water mussel and [Jane](/person/1616) a cyprea.[^1] I went to the theatre whilst I was at Oxford; it is a great large place shaped like a horse shoe; at the flat end sat all the musicians and singers on a stand raised on pillars; in the middle was a great round place called the area, in which all the gentlemen squeezed in if they could; at the tip-top of all the college people all round under them were all the ladies and doctors; there were two great sticking-out boxes like pulpits, at the end of each was an axe tied up in what was meant to look like the Roman lictors’ bundles of rods.[^2] The [Duke of Wellington](/person/1486) sat on a most beautiful velvet cushion on a carved chair.
-
-The [Duke of Cumberland](/person/394) on a velvet and gold chair.
-
-His uniform was very funny; first he wore a red coat, then fastened on his shoulder a blue coat trimmed with fur; tied to his sword was a sort of pocket called a sabre-dash.
-
-The Duke of Wellington wore robes of black and gold.
-
-One day when he came to Exeter C. he kissed [Julian](/person/1624) and shook hands with me.
-
-There were a great many people besides doctors; they all wore red robes.
-
-We went to New College and Magdalen; the windows of the first were painted all manner of colours, but the other was brown.
+Have you seen any more of [Charles](/person/1601)’s owl? The shells got home quite safe. I send you a carrier Trochus and Charles a waved whelk, [Duke](/person/1599) a fresh-water mussel and [Jane](/person/1616) a cyprea.[^1] I went to the theatre whilst I was at Oxford; it is a great large place shaped like a horse shoe; at the flat end sat all the musicians and singers on a stand raised on pillars; in the middle was a great round place called the area, in which all the gentlemen squeezed in if they could; at the tip-top of all the college people all round under them were all the ladies and doctors; there were two great sticking-out boxes like pulpits, at the end of each was an axe tied up in what was meant to look like the Roman lictors’ bundles of rods.[^2] The [Duke of Wellington](/person/1486) sat on a most beautiful velvet cushion on a carved chair. The [Duke of Cumberland](/person/394) on a velvet and gold chair. His uniform was very funny; first he wore a red coat, then fastened on his shoulder a blue coat trimmed with fur; tied to his sword was a sort of pocket called a sabre-dash. The Duke of Wellington wore robes of black and gold. One day when he came to Exeter C. he kissed [Julian](/person/1624) and shook hands with me. There were a great many people besides doctors; they all wore red robes. We went to New College and Magdalen; the windows of the first were painted all manner of colours, but the other was brown.
 I am your affectionate
 Charlotte Mary Yonge
 

@@ -1,7 +1,7 @@
 ---
 id: 3502
 title: To an Unknown Woman
-date: '1884-07-17'
+iso-date: '1884-07-17'
 display-date: July 17th [1884-1893]
 from-name: Charlotte Mary Yonge
 to-name: To an Unknown Woman
@@ -10,7 +10,6 @@ manuscript-location: MS Winchester City Council, Historic Resources Centre LH 38
 
 Dear Madam
 I am afraid these papers will not quite suit the [Packet](/periodical/52).
-
 Would not [Friendly Leaves](/periodical/71) be a good field for them[^1]
 
 yours truly

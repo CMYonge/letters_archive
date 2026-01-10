@@ -1,7 +1,7 @@
 ---
 id: 1917
 title: To Alexander Macmillan
-date: '1863-11-24'
+iso-date: '1863-11-24'
 display-date: Novr 24th [1863]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,23 +10,10 @@ manuscript-location: 'MS British Library Add MSS 54920: 9-10'
 ---
 
 [Sir](/person/939),
-I am obliged for your letter of the 23d, and the terms you propose.
-
-My [brother](/person/1624) will be in town next week, and will call on you to make the arrangements on any day after Tuesday.
-
-Perhaps you would be good enough to send me a line saying on which day he would be most sure of finding you at home.
-
-He would be with you at any hour of the morning you would name after 10.30-
+I am obliged for your letter of the 23d, and the terms you propose. My [brother](/person/1624) will be in town next week, and will call on you to make the arrangements on any day after Tuesday. Perhaps you would be good enough to send me a line saying on which day he would be most sure of finding you at home. He would be with you at any hour of the morning you would name after 10.30-
 I omitted to mention my [history of Christian names](/book/48) in the list of books I sent up to you that I should wish to place in your hands -
 The printing of my books has hitherto been done by [Messrs Saville and Edwards](/organisation/162) and if it fell in with your arrangements, I would think this had better continue, but this as well as the other matters had best be settled between you and my brother
 
 Yours faithfully
-C.M.
-
-Yonge		
-A.
-
-Macmillan Esq
-
-
-[^1]: Black-edged paper.
+C.M. Yonge		
+A. Macmillan Esq

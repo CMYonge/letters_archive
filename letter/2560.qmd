@@ -1,7 +1,7 @@
 ---
 id: 2560
 title: To Mary Yonge
-date: '1876-08-07'
+iso-date: '1876-08-07'
 display-date: Aug 7 th [1876]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,27 +11,10 @@ manuscript-location: 'MS Plymouth and West Devon Area Record Office Acc No 308: 
 
 My dear [Mary](/person/1626)
 Many thanks for this letter.[^1] I suppose the congestion is the great danger now, but youth does so much that I cannot help still hoping and with all the suffering it is not so sad as poor [Mr Chamberlayne](/person/282)’s state, for this creeping paralysis has now mastered both arms, so that he can not even point to letters and spell words but he takes food, and his pulse is stronger, and they say he may live two or three months.
-
-It is [Sir William’](/person/669)s [eldest grandson](/person/672) who is the Jesuit.
-
-Only [his eldest son](/person/668) became a Romanist, and married [an Irish RC](/person/664), who is a very good religious woman and has brought up all her children very well but of course in her own Church.[^2] The [second son](/person/671) (hers I mean) is in the army Of Sir William’s own sons poor [George](/person/660) as you know died after 11 years of this same creeping paralysis his [widow](/person/1690) is a great friend of [Gertrude](/person/1462)’s and I hope we shall have her here in the spring. [Gilbert](/person/661) has a living in Lincolnshire and has turned out very hardworking & very High Church. [Charles](/person/670) is a soldier. [Evelyn](/person/659) was presented to Sparsholt, a village bordering on Hursley & Winchester last year, & is going to marry a Miss [Grace Hussey](/person/662) at Salisbury of whom the Moberlys speak highly, and [Arthur](/person/653), having a strong taste for teaching, has set up in a house at Hursley with little boys as pupils, and people say very foolish things about its being beneath him, but it is a nice place for a quiet boy to begin in, and if we could afford it we should send [Maurice](/person/1630) but it is £100 for a boarder & £75 for a day boy dining there. I have referred this gentleman to [Edmund Colborne](/person/322) who is sure to know
+It is [Sir William’](/person/669)s [eldest grandson](/person/672) who is the Jesuit. Only [his eldest son](/person/668) became a Romanist, and married [an Irish RC](/person/664), who is a very good religious woman and has brought up all her children very well but of course in her own Church.[^2] The [second son](/person/671) (hers I mean) is in the army Of Sir William’s own sons poor [George](/person/660) as you know died after 11 years of this same creeping paralysis his [widow](/person/1690) is a great friend of [Gertrude](/person/1462)’s and I hope we shall have her here in the spring. [Gilbert](/person/661) has a living in Lincolnshire and has turned out very hardworking & very High Church. [Charles](/person/670) is a soldier. [Evelyn](/person/659) was presented to Sparsholt, a village bordering on Hursley & Winchester last year, & is going to marry a Miss [Grace Hussey](/person/662) at Salisbury of whom the Moberlys speak highly, and [Arthur](/person/653), having a strong taste for teaching, has set up in a house at Hursley with little boys as pupils, and people say very foolish things about its being beneath him, but it is a nice place for a quiet boy to begin in, and if we could afford it we should send [Maurice](/person/1630) but it is £100 for a boarder & £75 for a day boy dining there. I have referred this gentleman to [Edmund Colborne](/person/322) who is sure to know
 your most affectionate
 
 C M Yonge
 
 
 [^2]: Evidently the letter described the illness of their cousin [Henry Anderson Morshead](/person/32) (1848/9-1876).
-[^3]: Sir William Heathcote\'s eldest son, Sir William Perceval Heathcote, 6th Bt. (1826-1903) married (1849) Letitia Maria Daly (1828/9-1910).
-
-Their eldest son was
-Sir William Arthur Heathcote , S.J., 7th Bt. (1853-1924).
-[^5]: Sir Gilbert Redvers Heathcote, 8th Bt. (1854-1937).
-[^6]: Captain George Parker Heathcote (1828-1871) returned from India a cripple in 1860 and married (1869) his cousin Isabella Margaretta Elizabeth Walpole (d.1938).
-[^7]: The Rev.
-
-Gilbert Vyvyan Heathcote (1830-1890), Rector of West Deeping, Lincs..
-[^8]: Major Charles George Heathcote (1843-1924).
-[^9]: See above.
-
-He married (19 December 1876) Grace Hussey (d. 1932).
-[^10]: Arthur Malcolm Heathcote (1847-1934).

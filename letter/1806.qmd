@@ -1,7 +1,7 @@
 ---
 id: 1806
 title: To Anna Butler
-date: '1860-11-20'
+iso-date: '1860-11-20'
 display-date: Novr 20th [1860]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
@@ -10,9 +10,7 @@ manuscript-location: MS Mrs Caroline Fairclough/16
 ---
 
 My dear [Miss Butler](/person/237)								
-I cannot tell you much about poor [Mr Parker](/person/1143).[^1] I fancy he has not been in good health for some time he went abroad for the winter about 4 years ago, and was abroad again all August & September this year, only coming home just at the beginning of October, when I had one or two notes from him, but when [my book](/book/37) came out, 5 weeks ago, his man [Mr Bourn](/person/178) wrote to me announcing it, and saying he had been 5 days in bed. I heard no more till on the 10th I got an official notification of his death. I was in London for a days shopping on Monday week, and left a card for [old Mr Parker](/person/1144) at the office, but I did not hear anything to signify, nor do I know how far the poor old man may be capable of carrying on the business.
-
-So sensible and pleasant a person to deal with is a great loss. I liked him the best of any publisher with whom I have corresponded. I only had one interview with him, so you knew him more personally than I did. I find the general habit is either to detest Lucilla or Phoebe[^2] but luckily for me, all do not detest both!
+I cannot tell you much about poor [Mr Parker](/person/1143).[^1] I fancy he has not been in good health for some time he went abroad for the winter about 4 years ago, and was abroad again all August & September this year, only coming home just at the beginning of October, when I had one or two notes from him, but when [my book](/book/37) came out, 5 weeks ago, his man [Mr Bourn](/person/178) wrote to me announcing it, and saying he had been 5 days in bed. I heard no more till on the 10th I got an official notification of his death. I was in London for a days shopping on Monday week, and left a card for [old Mr Parker](/person/1144) at the office, but I did not hear anything to signify, nor do I know how far the poor old man may be capable of carrying on the business. So sensible and pleasant a person to deal with is a great loss. I liked him the best of any publisher with whom I have corresponded. I only had one interview with him, so you knew him more personally than I did. I find the general habit is either to detest Lucilla or Phoebe[^2] but luckily for me, all do not detest both!
 I have not seen [Grace](/person/594) since she was quite a child, I should like to renew my acquaintance[^3]
 
 yours sincerely

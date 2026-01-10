@@ -1,7 +1,7 @@
 ---
 id: 3597
 title: To the Reverend John Frederick Watkinson Bullock
-date: '1890-01-01'
+iso-date: '1890-01-01'
 display-date: '[1890s?]'
 from-name: Charlotte Mary Yonge
 to-name: To the Reverend John Frederick Watkinson Bullock
@@ -9,6 +9,4 @@ manuscript-location: 'MS Bodleian Library, Oxford: English Letters: e.174 ff177'
 ---
 
 Will this answer the purpose?
-C. M.
-
-Yonge
+C. M. Yonge

@@ -1,7 +1,7 @@
 ---
 id: 2888
 title: To Arthur Donald Innes
-date: '1888-07-24'
+iso-date: '1888-07-24'
 display-date: July 24th [1888]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,11 +10,7 @@ manuscript-location: MS Girton College Cambridge, Yonge IV 9
 ---
 
 Dear [Mr Innes](/person/744)Miss Robertson’s two papers Home Daughters and Power are quite safe, only there has not been room for them yet.[^1] Does she want them back?
-I find I cannot get Plataea into the Christmas number, it must come in a regular one. I sent off the bill of fare for the Xmas no yesterday.
-
-The first story is Friday’s Child, which I think would afford the best illustration.
-
-The little boy listening to the old sailor-gardener’s stories would I think be best - To have him sitting in the wood with the dead dog would be too sad, or too like last year’s picture
+I find I cannot get Plataea into the Christmas number, it must come in a regular one. I sent off the bill of fare for the Xmas no yesterday. The first story is Friday’s Child, which I think would afford the best illustration. The little boy listening to the old sailor-gardener’s stories would I think be best - To have him sitting in the wood with the dead dog would be too sad, or too like last year’s picture
 
 Yours truly
 

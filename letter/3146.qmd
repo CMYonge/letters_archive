@@ -1,36 +1,21 @@
 ---
 id: 3146
 title: To Elizabeth Roberts
-date: '1859-12-27'
+iso-date: '1859-12-27'
 display-date: St John’s day [27 December] 1859
 from-name: Charlotte Mary Yonge
 to-name: To Elizabeth Roberts
-manuscript-location: MS  Huntington Library
+manuscript-location: MS Huntington Library
 ---
 
 My dear [Miss Roberts](/person/1243),
-It is indeed a long time since we have had any communication, though I have been intending to write to you for more weeks past than I like to count - ever since I think, I sent [Lincoln Cathedral ](/periodical/244)to be put in type!
-
-Then I put it off from day to day, meaning to send you the proof, but at last the article was put in without sufficient notice for me to be able to send you the proof to correct I shall soon have to send you the amount for it. I fancied that you had told me that you were acquainted with none of the Southern Cathedrals and Chichester has therefore been done by another hand, for which I am now sorry.
-
-St Paul’s also I have been offered by [Miss Goodrich](/person/567), who did Canterbury, Salisbury I have half done myself, and there can be few more remaining to be described besides Exeter, which I ought to be able to describe, but I fear I cannot.[^1]
+It is indeed a long time since we have had any communication, though I have been intending to write to you for more weeks past than I like to count - ever since I think, I sent [Lincoln Cathedral](/periodical/244)to be put in type! Then I put it off from day to day, meaning to send you the proof, but at last the article was put in without sufficient notice for me to be able to send you the proof to correct I shall soon have to send you the amount for it. I fancied that you had told me that you were acquainted with none of the Southern Cathedrals and Chichester has therefore been done by another hand, for which I am now sorry. St Paul’s also I have been offered by [Miss Goodrich](/person/567), who did Canterbury, Salisbury I have half done myself, and there can be few more remaining to be described besides Exeter, which I ought to be able to describe, but I fear I cannot.[^1]
 I am indeed concerned to hear that you have had such a year of sorrow and trial - Such a sorrow too as makes one of the marked points of our life and removes one of the pillars of home to make home seem more nearly above than it often does while the home is complete on earth. I sometimes think that the single woman’s feeling for her father is the most complete of filial relations because there is the full power and maturity of mind and feeling together with the trust and dependance, that necessarily passes away in the grown up son and is otherwise directed in the married daughter.
-
 Six years do not seem to me to have made much difference in the missing and loss, above all when last autumn I went into Devonshire, [his](/person/1631) own county, where every place was full of his delight in it.
-I hope soon to hear from you again, and that you will have something more to send me.
-
-The [Packet ](/periodical/52)is in a very prosperous state, and has gone on doing better and better almost ever since its first start.
-
-Some time ago we had some cards given us with coloured pictures of the flowers of each month that would have been just the way to bring out your [Garland](/topic/225), but I suspect the Black Letter and other Saints would be alarming to the weak minds of many purchasers
+I hope soon to hear from you again, and that you will have something more to send me. The [Packet](/periodical/52)is in a very prosperous state, and has gone on doing better and better almost ever since its first start. Some time ago we had some cards given us with coloured pictures of the flowers of each month that would have been just the way to bring out your [Garland](/topic/225), but I suspect the Black Letter and other Saints would be alarming to the weak minds of many purchasers
 With all Christmas wishes yours sincerely
 
 C M Yonge
 
 
-[^1]: ‘Christ Church of Canterbury, the Mother Cathedral of England’ MP 17 (February 1859), 172-187 is signed A. M. G., which initials are those of a regular contributor.
-
-She was almost certainly the ‘Miss A. M.
-
-Goderich’ to whom there are several payments from CMY’s account, and the author of anonymous fiction which the British Library Catalogue attributes to A. M.
-
-Goodrich.
+[^1]: ‘Christ Church of Canterbury, the Mother Cathedral of England’ MP 17 (February 1859), 172-187 is signed A. M. G., which initials are those of a regular contributor. She was almost certainly the ‘Miss A. M. Goderich’ to whom there are several payments from CMY’s account, and the author of anonymous fiction which the British Library Catalogue attributes to A. M. Goodrich.

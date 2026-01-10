@@ -1,7 +1,7 @@
 ---
 id: 3387
 title: To an Unknown Woman
-date: '1898-11-29'
+iso-date: '1898-11-29'
 display-date: Novr 29 1898
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne

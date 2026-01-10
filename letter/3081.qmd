@@ -1,7 +1,7 @@
 ---
 id: 3081
 title: To Ann Maria Carter Smith
-date: '1856-04-02'
+iso-date: '1856-04-02'
 display-date: April 2nd [1856]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
@@ -10,12 +10,7 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1856/1
 ---
 
 [Madam](/person/263),
-I delayed to thank you for [your M S](/periodical/253), till I had had time to read it.
-
-It is a very well told story, and I shall have great pleasure in inserting it in an early number of the ensuing volume, either in July or August.
-
-The only criticism I should make, is that the boys are rather too old, even at that date, for a schoolroom tea, especially Johnnie, if he had already been to Otaheite.
-
+I delayed to thank you for [your M S](/periodical/253), till I had had time to read it. It is a very well told story, and I shall have great pleasure in inserting it in an early number of the ensuing volume, either in July or August. The only criticism I should make, is that the boys are rather too old, even at that date, for a schoolroom tea, especially Johnnie, if he had already been to Otaheite.
 Allow me to add that [Lucy and Christian](/organisation/31) have been universally liked, and I have been many times asked whether there were any foundation of truth for the story[^1]
 With many thanks
 
@@ -24,6 +19,4 @@ yours sincerely
 C M Yonge
 
 
-[^1]: Lucy and Christian Wainwright, a story by Ann Carter Smith which appeared in MP 11 (February 1856) 111-37, and was subsequently published in Lucy and Christian Wainwright and Other Tales (1863).
-
-The manuscript referred to is presumably that of Thorns and Roses in a Homely Life, published in MP 12 (December 1856), 414-64.
+[^1]: Lucy and Christian Wainwright, a story by Ann Carter Smith which appeared in MP 11 (February 1856) 111-37, and was subsequently published in Lucy and Christian Wainwright and Other Tales (1863). The manuscript referred to is presumably that of Thorns and Roses in a Homely Life, published in MP 12 (December 1856), 414-64.

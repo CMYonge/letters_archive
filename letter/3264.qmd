@@ -1,7 +1,7 @@
 ---
 id: 3264
 title: To the Reverend John Frederick Watkinson Bullock
-date: '1894-05-15'
+iso-date: '1894-05-15'
 display-date: May 15th 1894
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,15 +10,11 @@ manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e.174 ff 
 ---
 
 Dear [Mr Bullock](/person/221),
-I send you [Charles Simeon](/person/1275) You see he was entirely taught by the Church and nothing else, so far as his first beginnings of religion were concerned.
-
-He disowned being a Calvinist; but I think his mistake was in studying Huguenot sermons. I do not know if you will put the Simeonite preferments into a note. I thought some explanation was needful I daresay you may know one or other of his three grand-nephews.[^1] The very strong sense of devotion seems to belong to the family and I have little doubt that in these days he would be as strong a Churchman as they are
+I send you [Charles Simeon](/person/1275) You see he was entirely taught by the Church and nothing else, so far as his first beginnings of religion were concerned. He disowned being a Calvinist; but I think his mistake was in studying Huguenot sermons. I do not know if you will put the Simeonite preferments into a note. I thought some explanation was needful I daresay you may know one or other of his three grand-nephews.[^1] The very strong sense of devotion seems to belong to the family and I have little doubt that in these days he would be as strong a Churchman as they are
 
 Yours truly
 
 C M Yonge
 
 
-[^1]: CMY probably meant the sons of Captain [Charles Simeon](/person/1322) of Hursley (though he had more than three who were clergymen).
-
-She was urging Bullock to include Simeon in the [\'Biographies of Eminent Anglicans\'](/book/358) for his Daily Lections project.
+[^1]: CMY probably meant the sons of Captain [Charles Simeon](/person/1322) of Hursley (though he had more than three who were clergymen). She was urging Bullock to include Simeon in the [\'Biographies of Eminent Anglicans\'](/book/358) for his Daily Lections project.

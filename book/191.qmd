@@ -2,8 +2,8 @@
 id: 191
 title: 'Story in Just One More Tale: A Second Collection of Stories for Children from
   Four to Twelve Years of Age. Being a Companion volume to “Please Tell Me a Tale”'
-author: Charlotte Mary Yonge
-date: '1886'
+author-name: Charlotte Mary Yonge
+publication-date: '1886'
 genre: Fiction
 publication-format: Story in collection
 publisher: 'London: Skeffington & Son'

@@ -1,7 +1,7 @@
 ---
 id: 2492
 title: To the Reverend Henry Honywood D'Ombrain
-date: '1874-02-26'
+iso-date: '1874-02-26'
 display-date: Feb 26th 1874
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -18,7 +18,4 @@ yours truly
 C M Yonge
 
 
-[^1]: With envelope addressed to The Revd/ H.
-
-Dombrain/ Framilode Rectory/ Stonehouse/Gloucester.
 [^2]: The document referred to, an account of the Hursley windows in Keble’s hand, is with the letter in Gloucestershire Record Office.

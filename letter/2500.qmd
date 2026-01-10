@@ -1,7 +1,7 @@
 ---
 id: 2500
 title: To Florence Freeman
-date: '1874-05-10'
+iso-date: '1874-05-10'
 display-date: May 10th [1874]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,11 +10,8 @@ manuscript-location: 'Bodleian Library, Oxford: Bryce 156 (microfilm) ff17-18'
 ---
 
 My dear [Miss Freeman](/person/524)
-I see how it has been about your Pleiades.
-
-You see we printed a large slice of them, though not the whole and we did not think you would care for the mutilated remains.
+I see how it has been about your Pleiades. You see we printed a large slice of them, though not the whole and we did not think you would care for the mutilated remains.
 I cannot tell how we missed returning your St Chrysostom.
-
 Three more sums have come in but no regalia[^1]
 
 Yours sincerely
@@ -22,6 +19,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: This letter is addressed to Florence, one of the daughters of the historian Edward Augustus Freeman, who is taking part in the [Spider Society](/organisation/116) essay competitions run in the Monthly Packet, using the name \'Pisa\'. ‘Collect the various associations - Scriptural, astronomical, classical and poetical - of the Constellation of the Pleiades’ was one of the Spider Questions for March 1874. A long answer by a Spider called \'P\' was printed, and a shorter section by \'Pisa\' in MP 17 (May 1874), 4. ‘Write the life of St.
-
-Chrysostom’ was one of the Spider questions for January 1874, and \'Pisa\'\'s answer was commended. \'What curious adventures have the Regalia of different countries undergone? and \'Describe and explain the process of multiplying 4265 by 3902\' were the Spider questions for May 1874. \'Pisa\'\'s \'Curious Adventures of the Regalia of Different Countries\', appeared in MP (July 1874), 3-9.
+[^1]: This letter is addressed to Florence, one of the daughters of the historian Edward Augustus Freeman, who is taking part in the [Spider Society](/organisation/116) essay competitions run in the Monthly Packet, using the name \'Pisa\'. ‘Collect the various associations - Scriptural, astronomical, classical and poetical - of the Constellation of the Pleiades’ was one of the Spider Questions for March 1874. A long answer by a Spider called \'P\' was printed, and a shorter section by \'Pisa\' in MP 17 (May 1874), 4. ‘Write the life of St. Chrysostom’ was one of the Spider questions for January 1874, and \'Pisa\'\'s answer was commended. \'What curious adventures have the Regalia of different countries undergone? and \'Describe and explain the process of multiplying 4265 by 3902\' were the Spider questions for May 1874. \'Pisa\'\'s \'Curious Adventures of the Regalia of Different Countries\', appeared in MP (July 1874), 3-9.

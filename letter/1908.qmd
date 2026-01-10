@@ -1,7 +1,7 @@
 ---
 id: 1908
 title: To an Unknown Man
-date: '1863-10-24'
+iso-date: '1863-10-24'
 display-date: Oct 24th 1863
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -10,18 +10,11 @@ manuscript-location: MS Charlotte Mitchell
 ---
 
 Sir,
-The [Revd Dr Littledale](/person/885) has encouraged me to send you the book that I hope may arrive by the same mail as this letter, namely the [History of Christian names](/book/48), in the hope that you will kindly point out and correct the errors in the portion upon Cymric names, which I know are done with much greater disadvantages than those which have been elucidated by more modern authorities than I could obtain for the Welsh.
-
-It was a very presumptuous work to undertake at all, but I found that the subject was so entirely [neglected][^2] by English writers th[at I] could gain no sufficient light on it, and put forth the book at last hoping that when I had classified the subject, further assistance in correcting it might come into me from the kindness of scholars in the various branches referred to.
-
-If you are kind enough to bestow any such corrections upon me, I shall be extremely grateful
+The [Revd Dr Littledale](/person/885) has encouraged me to send you the book that I hope may arrive by the same mail as this letter, namely the [History of Christian names](/book/48), in the hope that you will kindly point out and correct the errors in the portion upon Cymric names, which I know are done with much greater disadvantages than those which have been elucidated by more modern authorities than I could obtain for the Welsh. It was a very presumptuous work to undertake at all, but I found that the subject was so entirely [neglected][^2] by English writers th[at I] could gain no sufficient light on it, and put forth the book at last hoping that when I had classified the subject, further assistance in correcting it might come into me from the kindness of scholars in the various branches referred to. If you are kind enough to bestow any such corrections upon me, I shall be extremely grateful
 
 your faithful servant
 
 C M Yonge
 
 
-[^1]: Pasted into a handsomely bound copy of The Dove in the Eagle’s Nest 2 vols (London: Macmillan 1866), with the bookplate of St.
-
-Edward’s School, Oxford.
 [^2]: The corner of the letter is missing.

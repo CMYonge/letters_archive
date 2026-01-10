@@ -1,7 +1,7 @@
 ---
 id: 2874
 title: To Mary Drew
-date: '1888-02-01'
+iso-date: '1888-02-01'
 display-date: Feb 1st [1888]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -10,22 +10,9 @@ manuscript-location: 'MS British Library: Mary Gladstone Papers. Add MSS 46252: 
 ---
 
 My dear [Mrs Drew](/person/443)
-No book ever was quite equal to the [Conversations with Cousin Rachel](/periodical/60), which I believe Masters still publishes.
-
-It may here and there seem rather antiquated, but the solid part is of all times.
-
-Then there is a little book called ‘Girls’ - published by Skeffington, and one by Lady Barker, published by Hatchard in connection with [G F S](/organisation/23)fr. I cannot recollect its name, but Hatchard’s list gives it.[^1]
-As to fiction, girls in their teens seem ready for anything, and the less it is about servants the better they like it - I hardly know what specially to recommend.
-
-Esmé Stewart’s For Half a Crown- National Society is a great favourite and ‘A Promise Kept’ of the same set is very good.
-
-The [NS](/organisation/32) has published my [‘What to lend - &c’ ](/book/196)- and you will find a list there
-Have you seen the [Mother’s Union Journal](/periodical/93)?
-
-It is to be quarterly, and costs a penny.[^2] I wish the size could be larger for the money, but it must make its way first.
-
-Its first start is very good, I think.
-
+No book ever was quite equal to the [Conversations with Cousin Rachel](/periodical/60), which I believe Masters still publishes. It may here and there seem rather antiquated, but the solid part is of all times. Then there is a little book called ‘Girls’ - published by Skeffington, and one by Lady Barker, published by Hatchard in connection with [G F S](/organisation/23)fr. I cannot recollect its name, but Hatchard’s list gives it.[^1]
+As to fiction, girls in their teens seem ready for anything, and the less it is about servants the better they like it - I hardly know what specially to recommend. Esmé Stewart’s For Half a Crown- National Society is a great favourite and ‘A Promise Kept’ of the same set is very good. The [NS](/organisation/32) has published my [‘What to lend - &c’](/book/196)- and you will find a list there
+Have you seen the [Mother’s Union Journal](/periodical/93)? It is to be quarterly, and costs a penny.[^2] I wish the size could be larger for the money, but it must make its way first. Its first start is very good, I think.
 It is to be had of 	[Mr Warren](/person/2377) - Printer
 High Street
 Winchester
@@ -36,11 +23,5 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Drew had evidently asked for advice books for servant girls.
-
-Conversations with Cousin Rachel (London: Burns 1844) was an anonymous conduct book by Mary Anne Dyson.
-
-Girls: Their Work and Influence.
-
-Skeffington, 1877 was praised by CMY in What Books to Lend (9d.) ‘Practical advice in short compass; excellent for Confirmation gifts.’ The third book was perhaps Amy Susan (Marryat), Lady Baker, Half-Hours with my Girls, or, ‘Talks about anything’ (London : Hatchards, 1879).
+[^1]: Drew had evidently asked for advice books for servant girls. Conversations with Cousin Rachel (London: Burns 1844) was an anonymous conduct book by Mary Anne Dyson. Girls: Their Work and Influence. Skeffington, 1877 was praised by CMY in What Books to Lend (9d.) ‘Practical advice in short compass; excellent for Confirmation gifts.’ The third book was perhaps Amy Susan (Marryat), Lady Baker, Half-Hours with my Girls, or, ‘Talks about anything’ (London : Hatchards, 1879).
 [^2]: The first issue of the Mothers\' Union Journal is dated 1888.

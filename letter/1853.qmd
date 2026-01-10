@@ -1,7 +1,7 @@
 ---
 id: 1853
 title: To Katharine Olive Helmore
-date: '1862-01-20'
+iso-date: '1862-01-20'
 display-date: Jan 20th [1862]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
@@ -12,13 +12,10 @@ manuscript-location: MS Charlotte Mitchell/Cobweb-5
 My dear [Cobweb](/person/675)
 Your book is come, and as it will not travel by the post well, I am going to send it to London by [Mr](/person/1184) and [Mrs Pode](/person/1180)[^1] - Will you let me know whether they shall leave it anywhere for you or send it on to Chelsea by parcels delivery
 I have not been able to settle the prize questions yet as all the answers have not come in.
-
 Owl[^2] sent me a very tough set of questions the other day, but I have since heard that her brother is very ill, so I do not know whether she will have time or spirits to reconsider them
 your faithful
 Mother Goose
 
 
-[^1]: John Duke Pode (1832-1921) and Augusta Boevey Crawley (d.1900), first cousins to CMY and each other on her father’s side, had married on 30 August 1860.
-
-Augusta Pode appears among the Goslings in some lists and she may have briefly belonged to the society before her marriage.
+[^1]: John Duke Pode (1832-1921) and Augusta Boevey Crawley (d.1900), first cousins to CMY and each other on her father’s side, had married on 30 August 1860. Augusta Pode appears among the Goslings in some lists and she may have briefly belonged to the society before her marriage.
 [^2]: Owl was evidently a member of the [Gosling Society](/topic/104), but has not been identified.

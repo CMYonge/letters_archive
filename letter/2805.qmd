@@ -1,7 +1,7 @@
 ---
 id: 2805
 title: To Mary Yonge
-date: '1885-04-05'
+iso-date: '1885-04-05'
 display-date: Easter day [5 April 1885]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,16 +10,8 @@ manuscript-location: MS Princeton University, Parrish Collection
 ---
 
 My dear [Mary](/person/1626)
-[Gertrude](/person/1462) has brightened up this week but she had an embarras de richesses on Wednesday for[ Jane Harper](/person/2360), two children, [Bella Heathcote](/person/1690) [Mrs Buston](/person/236) and [Emily Dampier](/person/404) all came.
-
-She could not see the last two but they are coming on Wednesday afternoon to see her.
-
-We had 104 communicants today - 50 early and 54 late. [Frances](/person/1604) was neuralgic and could not come out so [Maurice](/person/1630) was alone. [George](/person/1610) has grown very tall.
-
-Poor [Caroline Martin](/person/967) died the night before good Friday.
+[Gertrude](/person/1462) has brightened up this week but she had an embarras de richesses on Wednesday for[Jane Harper](/person/2360), two children, [Bella Heathcote](/person/1690) [Mrs Buston](/person/236) and [Emily Dampier](/person/404) all came. She could not see the last two but they are coming on Wednesday afternoon to see her.
+We had 104 communicants today - 50 early and 54 late. [Frances](/person/1604) was neuralgic and could not come out so [Maurice](/person/1630) was alone. [George](/person/1610) has grown very tall. Poor [Caroline Martin](/person/967) died the night before good Friday.
 I never had such a scarcity of primroses at Easter!
-
 Your affectionate
-C.M.
-
-Yonge
+C.M. Yonge

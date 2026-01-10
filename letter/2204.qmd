@@ -1,7 +1,7 @@
 ---
 id: 2204
 title: George Lillie Craik to Charlotte Mary Yonge
-date: '1867-08-15'
+iso-date: '1867-08-15'
 display-date: 15th Aug. 1867.
 from-name: Charlotte Mary Yonge
 to-name: George Lillie Craik to Charlotte Mary Yonge
@@ -9,15 +9,7 @@ manuscript-location: 'Copy outletter book British Library Add MSS.55387 (1): P. 
 ---
 
 Dear Miss Yonge	
-The end of the [M.S](/book/72). reached [me](/person/379) with your letter. I at once sent it to the Printer.
-
-Whatever alteration you may wish to make either in [illegible] or modifying can be done in the proof.
+The end of the [M.S](/book/72). reached [me](/person/379) with your letter. I at once sent it to the Printer. Whatever alteration you may wish to make either in [illegible] or modifying can be done in the proof.
 [Miss Martin](/person/971) - whom I saw yesterday - agreed with me in this.
-
 Yours very [illegible]
 Geo Lillie Craik
-
-
-[^1]: Frances Martin was the editor of [Macmillan\'s Sunday Library](/topic/145), in which CMY\'s The Pupils of St.
-
-John the Divine was going to appear.

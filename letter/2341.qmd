@@ -1,7 +1,7 @@
 ---
 id: 2341
 title: To Mary Yonge
-date: '1869-09-11'
+iso-date: '1869-09-11'
 display-date: September 11, 1869
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester
@@ -11,36 +11,14 @@ manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:4
 ---
 
 My dear [Mary](/person/1626)
-My thoughts have verily been with you, waking and going to bed, and at that twelve o’clock, when I could see the place and almost hear the bell and think of you all.
-
-It is a great comfort to hear of [Uncle Yonge](/person/1623)’s peace and resignation, and to read his letters so thoroughly himself in all ways. I am always thinking of those words over [James](/person/1615)’s and [Charles](/person/1601)’s tablet, and how blessed and beautiful a thing it is for us to see even here below what it is to be trained by great tribulation.[^1] I believe it was a more than commonly close link that united our dear Anne and me, though I always knew that as one of several sisters she never could need me as much as I needed her, and I was wont to turn to the knowledge of her feeling and opinion many a time when nothing passed between us, being sure that one day I should be with her and talk, after the time began when writing letters was an effort to her.
-
-How much the recollection of those ways and thoughts of hers should be with me, and guide me still, having lived with them for more than half a life-time, and written to one another ever since babyhood.
-
-The last I had from her was a note before I went away, the greeting return which you say she intended was not written. I am quite well again, thank you, it was only Sunday and Monday that I was out of order.
-
-It is always being brought before me that there are sorrows far more dreadful.
-
-Little [Helen](/person/1613) has been very nice and good and anxious to save me trouble; I think she will always remember.
-
-She has grown much wiser in many ways than when you saw her; I think my [Frances](/person/1604) is really well and strong now.
-I shall not see [Ernest](/person/29) for some time, as I think the extra week covers St.
-
-Matthew’s day.[^2] To him the loss must be most great, there was such a love between them.
-
+My thoughts have verily been with you, waking and going to bed, and at that twelve o’clock, when I could see the place and almost hear the bell and think of you all. It is a great comfort to hear of [Uncle Yonge](/person/1623)’s peace and resignation, and to read his letters so thoroughly himself in all ways. I am always thinking of those words over [James](/person/1615)’s and [Charles](/person/1601)’s tablet, and how blessed and beautiful a thing it is for us to see even here below what it is to be trained by great tribulation.[^1] I believe it was a more than commonly close link that united our dear Anne and me, though I always knew that as one of several sisters she never could need me as much as I needed her, and I was wont to turn to the knowledge of her feeling and opinion many a time when nothing passed between us, being sure that one day I should be with her and talk, after the time began when writing letters was an effort to her. How much the recollection of those ways and thoughts of hers should be with me, and guide me still, having lived with them for more than half a life-time, and written to one another ever since babyhood. The last I had from her was a note before I went away, the greeting return which you say she intended was not written. I am quite well again, thank you, it was only Sunday and Monday that I was out of order. It is always being brought before me that there are sorrows far more dreadful.
+Little [Helen](/person/1613) has been very nice and good and anxious to save me trouble; I think she will always remember. She has grown much wiser in many ways than when you saw her; I think my [Frances](/person/1604) is really well and strong now.
+I shall not see [Ernest](/person/29) for some time, as I think the extra week covers St. Matthew’s day.[^2] To him the loss must be most great, there was such a love between them.
 Your most affectionate
-C. M.
-
-Yonge
+C. M. Yonge
 
 
 [^1]: The tablet in the church of Holy Cross, Newton Ferrars, near Puslinch, reads:
 
-To/ the Memory/of/ James Yonge/ Who died Nov 2nd 1834/ Aged 18 years/ Also of Edmund Charles Yonge,/ who died Jany 15 1847: aged 19 years/ sons of the Revd John Yonge,/ of Puslinch, (rector of this parish),/ and Alethea H.
-
-His Wife/ They both died at Otterbourn/ in the County of Hants./ And are interred there.
-
-Jesus said ‘What I do, thou knowest not now But thou shalt know hereafter.’ John 13. 7.
-[^2]: Anne Yonge’s nephew and godson Ernest Garstin Anderson Morshead (b. 1851), was at school at Winchester College, and would have had a holiday on St.
-
-Matthew’s Day (21 September).
+To/ the Memory/of/ James Yonge/ Who died Nov 2nd 1834/ Aged 18 years/ Also of Edmund Charles Yonge,/ who died Jany 15 1847: aged 19 years/ sons of the Revd John Yonge,/ of Puslinch, (rector of this parish),/ and Alethea H. His Wife/ They both died at Otterbourn/ in the County of Hants./ And are interred there. Jesus said ‘What I do, thou knowest not now But thou shalt know hereafter.’ John 13. 7.
+[^2]: Anne Yonge’s nephew and godson Ernest Garstin Anderson Morshead (b. 1851), was at school at Winchester College, and would have had a holiday on St. Matthew’s Day (21 September).

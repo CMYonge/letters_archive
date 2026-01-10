@@ -1,7 +1,7 @@
 ---
 id: 2092
 title: To the Reverend Orby Shipley
-date: '1865-12-29'
+iso-date: '1865-12-29'
 display-date: Decr 29th 1865
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -17,9 +17,4 @@ Yours sincerely
 C M Yonge
 [In different handwriting on the second half of the sheet]
 Dear Mr Bramley
-I am very sorry for this Suppose you write to the [Churchman Family](/periodical/63) (Bride’s Avenue, Fleet St, Hogg & Son) by return of post & offer the MS - say it is suitable for Lent & must appear then V.
-
-Orby Shipley
-
-
-[^1]: The Net Cast in Many Waters: Sketches from the Life of Missionaries, a missionary magazine edited by Anne Mackenzie and published annually from 1866 to 1896.
+I am very sorry for this Suppose you write to the [Churchman Family](/periodical/63) (Bride’s Avenue, Fleet St, Hogg & Son) by return of post & offer the MS - say it is suitable for Lent & must appear then V. Orby Shipley

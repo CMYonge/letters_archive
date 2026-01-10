@@ -1,7 +1,7 @@
 ---
 id: 2907
 title: To George Lillie Craik
-date: '1889-05-01'
+iso-date: '1889-05-01'
 display-date: May 22d 1889
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -13,10 +13,8 @@ Dear [Mr Craik](/person/379)
 Thanks for the last set of my books, and for the Kingsley’s whereof we have been going through a course.[^1]
 If I might have the payment for the first edition of [Beechcroft at Rockstone](/book/201) I should be glad.
 I suppose the [last volume of Cameos](/book/213) is waiting for its index, but I hope it will be out before the season is over.[^2]
-[The Reputed Changeling ](/book/205)is a much better thing I hope than the Rockstone story, which is really only a continuation for the sake of old friends
-I suppose it will soon be ready.
-
-Please let these copies be sent, and the sheets to [Tauchnitz](/person/2124).
+[The Reputed Changeling](/book/205)is a much better thing I hope than the Rockstone story, which is really only a continuation for the sake of old friends
+I suppose it will soon be ready. Please let these copies be sent, and the sheets to [Tauchnitz](/person/2124).
 I hear that [the Dove in the Eagle’s Nest](/book/62) is much used as a class book in Switzerland
 
 Yours truly

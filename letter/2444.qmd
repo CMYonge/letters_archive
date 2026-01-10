@@ -1,12 +1,12 @@
 ---
 id: 2444
 title: To Sir William Heathcote, Bt.
-date: '1872-04-23'
+iso-date: '1872-04-23'
 display-date: April 23, 1872.
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester
 to-name: To Sir William Heathcote, Bt.
-manuscript-location: MS location unknown.  Printed in Coleridge, [[otherbook:40]<i>Life</i>],
+manuscript-location: MS location unknown. Printed in Coleridge, [[otherbook:40]<i>Life</i>],
   302-303.
 ---
 

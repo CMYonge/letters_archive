@@ -1,7 +1,7 @@
 ---
 id: 3545
 title: To Miss Merriman
-date: '1898-05-18'
+iso-date: '1898-05-18'
 display-date: May 18 [1898]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,9 +10,7 @@ manuscript-location: 'UCLA: collection 100: box 95'
 ---
 
 My dear [Miss Merriman](/person/991)[^1]
-I am sorry to hear [Mrs Sumner ](/person/1381)is laid up but I am sure it is a good thing that she should be obliged to take a little entire rest.
-
-The MSS went last week. I thought they would be easier to look over as proofs, and I wanted to have [Christabel Coleridge](/person/329) while she is here. [Mrs Matthew](/person/1689) has asked me the last moment available for the report of the meeting, I begged her to avoid too many names to take up room. I go into Devon from the 7th to the 17th of June. I hope the proofs will come in good time.
+I am sorry to hear [Mrs Sumner](/person/1381)is laid up but I am sure it is a good thing that she should be obliged to take a little entire rest. The MSS went last week. I thought they would be easier to look over as proofs, and I wanted to have [Christabel Coleridge](/person/329) while she is here. [Mrs Matthew](/person/1689) has asked me the last moment available for the report of the meeting, I begged her to avoid too many names to take up room. I go into Devon from the 7th to the 17th of June. I hope the proofs will come in good time.
 
 Yours sincerely
 

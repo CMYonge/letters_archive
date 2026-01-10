@@ -1,11 +1,11 @@
 ---
 id: 2397
 title: To ?Selina Heathcote
-date: '1871-01-01'
+iso-date: '1871-01-01'
 display-date: '[?1871]'
 from-name: Charlotte Mary Yonge
 to-name: To ?Selina Heathcote
-manuscript-location: MS location unknown.  This fragment quoted in Mare and Percival,
+manuscript-location: MS location unknown. This fragment quoted in Mare and Percival,
   [[otherbook:598]<i>Victorian Best-Seller</i>], 215.
 ---
 

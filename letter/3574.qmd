@@ -1,7 +1,7 @@
 ---
 id: 3574
 title: To an unknown person
-date: '1865-01-01'
+iso-date: '1865-01-01'
 display-date: '[1865]'
 from-name: Charlotte Mary Yonge
 to-name: To an unknown person
@@ -16,12 +16,4 @@ yours sincerely
 C M Yonge
 
 
-[^1]: The Rev.
-
-Joseph Hemington Harris (1799/1800-1881), Vicar of Tor Mohun, Torquay, was married to Jane Yonge, sister of the Rev.
-
-John Yonge of Puslinch.
-
-His son the Rev.
-
-George Collyer Harris (1833-1874) married Percy Primrose in London in 1865 (June 1865).
+[^1]: The Rev. Joseph Hemington Harris (1799/1800-1881), Vicar of Tor Mohun, Torquay, was married to Jane Yonge, sister of the Rev. John Yonge of Puslinch. His son the Rev. George Collyer Harris (1833-1874) married Percy Primrose in London in 1865 (June 1865).

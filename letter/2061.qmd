@@ -1,7 +1,7 @@
 ---
 id: 2061
 title: To Alexander Macmillan
-date: '1865-08-02'
+iso-date: '1865-08-02'
 display-date: Aug 2nd 1865
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -13,12 +13,7 @@ Dear [Mr Macmillan](/person/939),
 Thanks for the [cheque](/topic/160). I enclose the receipt.
 I do not know whether the British Museum has a copy of Theurdanck - probably it would I think, but if you should be in Oxford, there is a beauty at the Bodleian, a much better one than that which I have here, which is only lent to me.[^1]
 You should also look at the wonderful wood cuts in ‘Der Weise König.’[^2] There is a demon sitting on the shoulder of the witch who is teaching Maximilian the black art who is extremely comical.
-
-The proper name of Theurdanck is Die Allerdurch Leuchtigiste Reise ........Maximilian I ....... unter dem Nahmen Theurdanck The illustrations that might give ideas to be copied would be the 22d the 27th and 56th; I think few even heard of the book.
-
-The illustration belonging to his exploit on Ulm Cathedral was evidently too much for the designer who has made it much more absurd than frightful.
-
-But these would not illustrate the whole story, as the events only come in incidentally
+The proper name of Theurdanck is Die Allerdurch Leuchtigiste Reise ........Maximilian I ....... unter dem Nahmen Theurdanck The illustrations that might give ideas to be copied would be the 22d the 27th and 56th; I think few even heard of the book. The illustration belonging to his exploit on Ulm Cathedral was evidently too much for the designer who has made it much more absurd than frightful. But these would not illustrate the whole story, as the events only come in incidentally
 I will get the rest of the [Prince & Page](/book/61) put in type and send it as soon as I can.[^3]
 
 Yours sincerely

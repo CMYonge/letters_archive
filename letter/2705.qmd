@@ -1,7 +1,7 @@
 ---
 id: 2705
 title: To Margaret Anne Macmillan
-date: '1880-04-26'
+iso-date: '1880-04-26'
 display-date: April 26th 1880
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,7 +11,6 @@ manuscript-location: 'MS UCLA: collection 100: box 95'
 
 My dear [Miss Macmillan](/person/2274)
 If you will send me a short account of the Working Women’s College I will gladly put it in.[^1] Perhaps it will be best to do so when everything is settled. I wonder how much the women read the papers, I suppose they may be more alive to public matters than their sisters in the country, but even the men at our village reading room care much less for papers than for books.
-
 The [Goslings](/topic/104) have turned into [Spiders](/organisation/116), almost as wonderful a transformation as that of barnacles into barnacle geese![^2]
 
 Yours sincerely

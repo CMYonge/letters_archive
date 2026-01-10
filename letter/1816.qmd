@@ -1,7 +1,7 @@
 ---
 id: 1816
 title: To Elizabeth Missing Sewell
-date: '1861-02-18'
+iso-date: '1861-02-18'
 display-date: Febry 18th 1861
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne,Winchester.
@@ -21,16 +21,8 @@ Yours sincerely
 
 C M Yonge
 
-Some people have asked me if you wrote ‘My Life’.
-
-You would have made a much less bitter and better balanced book, but this is a very clever one, though it might be wiser.
+Some people have asked me if you wrote ‘My Life’. You would have made a much less bitter and better balanced book, but this is a very clever one, though it might be wiser.
 
 
-[^1]: The review of Hopes and Fears in the Morning Post (13 December 1860) 2: \'The author of the \'Heir of Redclyffe\' has been long and deservedly a popular writer for youth.
-
-It is in no disparaging spirit that it is asked, Is not that popularity rather imaginary than real; does it not exist rather among older persons, who read her works, and decide that they must be very pleasing to young people, than among young people whom they have really pleased?\'.
-[^2]: In her Autobiography (London: 1907) E.
-
-Sewell wrote (p. 168) that she “spent five months in Italy and Germany”.
-
-The visit can be dated as 1861 because she reports that she was in Turin at the time of Cavour’s funeral. [Eliza](/person/1578) and [Adelaide Yard](/person/1577) were friends of Sewell\'s who lived in Otterbourne.
+[^1]: The review of Hopes and Fears in the Morning Post (13 December 1860) 2: \'The author of the \'Heir of Redclyffe\' has been long and deservedly a popular writer for youth. It is in no disparaging spirit that it is asked, Is not that popularity rather imaginary than real; does it not exist rather among older persons, who read her works, and decide that they must be very pleasing to young people, than among young people whom they have really pleased?\'.
+[^2]: In her Autobiography (London: 1907) E. Sewell wrote (p. 168) that she “spent five months in Italy and Germany”. The visit can be dated as 1861 because she reports that she was in Turin at the time of Cavour’s funeral. [Eliza](/person/1578) and [Adelaide Yard](/person/1577) were friends of Sewell\'s who lived in Otterbourne.

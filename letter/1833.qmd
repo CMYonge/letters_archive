@@ -1,7 +1,7 @@
 ---
 id: 1833
 title: To an Unknown Woman
-date: '1861-06-21'
+iso-date: '1861-06-21'
 display-date: June 21st 1861
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -10,10 +10,7 @@ manuscript-location: MS Princeton University, Parrish Collection, Box 29
 ---
 
 Dear Madam,
-I am very grateful for your kind extracts from your Register which will be very useful to me - Avis or Avice - the same as Havois or Hedwig is less uncommon than one at first imagines.[^1] I knew a servant so called and a child who had it by inheritance from her grandmother & I have found it often in an old register in the N of Hants.
-
-Wilmot too is often in Cornish and West Devon registers. I believe it is the older feminine of William discarded now in favour of Wilhelmina.
-
+I am very grateful for your kind extracts from your Register which will be very useful to me - Avis or Avice - the same as Havois or Hedwig is less uncommon than one at first imagines.[^1] I knew a servant so called and a child who had it by inheritance from her grandmother & I have found it often in an old register in the N of Hants. Wilmot too is often in Cornish and West Devon registers. I believe it is the older feminine of William discarded now in favour of Wilhelmina.
 Cornwall seems to me the only county where the march of intellect has not put an end to all curious names - and it always was so peculiar that it is a grand field
 With many thanks
 Yours very truly

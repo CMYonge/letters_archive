@@ -1,7 +1,7 @@
 ---
 id: 1905
 title: To Alexander Macmillan
-date: '1863-10-07'
+iso-date: '1863-10-07'
 display-date: Oct 7th 1863
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -14,10 +14,4 @@ manuscript-location: 'MS British Library Add 54920: : 1-2:'
 The last years half profits on the Heir of Redclyffe were £28 .. 15 - on Heartsease £9..13 -
 I mention this to facilitate your estimate of the worth of the half profits in case you should wish to purchase them
 Your obt servt
-C. M.
-
-Yonge
-
-
-[^1]: Black-edged paper.
-[^2]: Serialised in Churchman\'s Family Magazine, Jan 1864 to March 1865 and published by Macmillan and Co. 1865.
+C. M. Yonge

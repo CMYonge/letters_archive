@@ -1,7 +1,7 @@
 ---
 id: 1953
 title: To Alexander Macmillan
-date: '1864-05-07'
+iso-date: '1864-05-07'
 display-date: May 7th [1864]
 from-name: Charlotte Mary Yonge
 to-name: To Alexander Macmillan
@@ -9,9 +9,7 @@ manuscript-location: 'MS British Library Add MSS 54920: 25'
 ---
 
 Dear [Mr Macmillan](/person/939),
-I should be much obliged if you would send a copy of [the Trial](/book/53) to [M.
-
-Guizot](/person/597)’s daughter
+I should be much obliged if you would send a copy of [the Trial](/book/53) to [M. Guizot](/person/597)’s daughter
 [Madame de Witt](/person/423)
 Val Richer
 Lisieux
@@ -19,6 +17,4 @@ Calvados
 France
 as she wishes to translate the book. I believe I sent before the list of copies that I should like to have sent out. I hope the book will appear soon now
 Yours faithfully
-C.M.
-
-Yonge
+C.M. Yonge

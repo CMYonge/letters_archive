@@ -1,7 +1,7 @@
 ---
 id: 2048
 title: To an Unknown Woman
-date: '1864-06-01'
+iso-date: '1864-06-01'
 display-date: June 23d [1864?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -16,6 +16,3 @@ I am glad that the [Christian names](/book/48) gave you any amusement
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: This letter evidently predates the republication of Last Heartsease Leaves as \'Lost Heartsease Leaves\' in Events of the Month (January 1865).

@@ -1,18 +1,10 @@
 ---
 id: 358
 title: \'Biographies of Eminent Anglicans\'
-author: Charlotte Mary Yonge
-date: 1890s
+author-name: Charlotte Mary Yonge
+publication-date: 1890s
 genre: Non-fiction, biography
 publication-format: MS Bodleian Library, unpublished
 ---
 
-CMY contributed to a series of short biographies of Anglican saints at the behest of the Rev. [J. F. W.
-
-Bullock](/person/221), Rector of Radwinter.
-
-In 1902 he finally published the first three volumes of a projected six volume work called Daily Lections for every Morning and Evening throughout the Year (London: Rivington 1902).
-
-Volume V of this work, described in his preface, was to have consisted of \'Lections on Anglican Worthies, arranged as additional Readings for Sunday\'.
-
-These \'Biographies of Eminent Anglicans\' exist in MS and are catalogued under that name among the Bullock papers in the Bodleian Library, Oxford, but were never published, since no more of the Daily Lections ever appeared.
+CMY contributed to a series of short biographies of Anglican saints at the behest of the Rev. [J. F. W. Bullock](/person/221), Rector of Radwinter. In 1902 he finally published the first three volumes of a projected six volume work called Daily Lections for every Morning and Evening throughout the Year (London: Rivington 1902). Volume V of this work, described in his preface, was to have consisted of \'Lections on Anglican Worthies, arranged as additional Readings for Sunday\'. These \'Biographies of Eminent Anglicans\' exist in MS and are catalogued under that name among the Bullock papers in the Bodleian Library, Oxford, but were never published, since no more of the Daily Lections ever appeared.

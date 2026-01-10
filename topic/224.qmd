@@ -5,8 +5,4 @@ name: Collection of British Authors
 title: Collection of British Authors
 ---
 
-This was a series published by the Leipzig publisher Firma Tauchnitz, which circulated small paperback novels in English on the continent.
-
-Travellers were not meant to bring them back to England, because of the law of copyright, but of course many did.
-
-Many of CMY\'s works appeared in the series, and she received payments from Tauchnitz for many years.
+This was a series published by the Leipzig publisher Firma Tauchnitz, which circulated small paperback novels in English on the continent. Travellers were not meant to bring them back to England, because of the law of copyright, but of course many did. Many of CMY\'s works appeared in the series, and she received payments from Tauchnitz for many years.

@@ -9,9 +9,7 @@ manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
 ---
 
 My dear George Huntinford,[^1]
-I hope you will come to luncheon here at one on Tuesday, Talbot from Mr Jeavon’s is I believe also coming I enclose a note for Mr Richardson.
-
-No, I have written to [Dr Ridding](/person/1237)
+I hope you will come to luncheon here at one on Tuesday, Talbot from Mr Jeavon’s is I believe also coming I enclose a note for Mr Richardson. No, I have written to [Dr Ridding](/person/1237)
 
 Yours truly
 
@@ -19,4 +17,3 @@ C M Yonge
 
 
 [^1]: Endorsed in pencil \'1874\'.
-[^2]: The letter is evidently addressed to a schoolboy at Winchester College, but the most likely candidate, George Tremenheere Huntingford (1873-1939) did not attend the school until 1886, after George Ridding\'s departure.

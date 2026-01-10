@@ -2,8 +2,8 @@
 id: 144
 title: How to Teach the New Testament. By Charlotte Mary Yonge (author of “The Heir
   of Redclyffe”) A Teacher of Many Years’ Standing.
-author: Charlotte Mary Yonge
-date: '1881'
+author-name: Charlotte Mary Yonge
+publication-date: '1881'
 genre: Non-fiction, theology, advice to church workers
 publication-format: Booklet
 publisher: 'London: National Society’s Depository, Broad Sanctuary, Westminster.'

@@ -1,7 +1,7 @@
 ---
 id: 1782
 title: To Ann Maria Carter Smith
-date: '1860-03-05'
+iso-date: '1860-03-05'
 display-date: March 5th 1860
 from-name: Charlotte Mary Yonge
 to-name: To Ann Maria Carter Smith
@@ -9,46 +9,15 @@ manuscript-location: MS Westcountry Studies Library, Exeter
 ---
 
 My dear [Miss Smith](/person/263),
-I should be very sorry to let the tardiness of the [Monthly Packet](/periodical/52) stand in the way of your Two Beauties[^2] so I hope you will offer them elsewhere, and find them successful.
-
-There is such a quiet prettiness about them that I am sure they ought to do.
-
-And I always have a sense of guiltiness is keeping a thing so long by me, so that I shall be quite relieved if you find a readier opening for your Beauties.
-I was glad to meet you in the [Churchman’s Companion](/periodical/62)[^3] again. I thought it was you before I saw your A C D, and very pretty the little chapter was.
-
-Don’t you rejoice in the Early and Latter Rain being over. I think that was the most exaggerated, over wrought story I ever met with.
-I have no fears of not being well able, and much delighted to read the opening of the story you are so kindly doing ‘to order’.
-
-It will be more comfortable, as I shall not feel afraid to mark anything I doubt of.
-
-Which is not a very flattering sentence but I will let it stand in consideration of its truth, and I shall be very glad to see the M. S. as soon as ever it may suit you.
-
-We continue our great liking for the Wynnes but I am seized with a little fear whether they have plot enough.
-
-Your short stories have plenty but your long ones somehow want to be so arranged as to rise up gradually into the leading event and then cease. I think the critique upon Mary in the [S R](/periodical/99) might not have been made if her discovery had come before, not after, John’s recovery, which was the dénouement.
-
-But I do not think I have told you that Frank is a very decided favorite in two houses.[^4] One little girl even wished he was her brother!
-
-In which I cannot say that I joined
+I should be very sorry to let the tardiness of the [Monthly Packet](/periodical/52) stand in the way of your Two Beauties[^2] so I hope you will offer them elsewhere, and find them successful. There is such a quiet prettiness about them that I am sure they ought to do. And I always have a sense of guiltiness is keeping a thing so long by me, so that I shall be quite relieved if you find a readier opening for your Beauties.
+I was glad to meet you in the [Churchman’s Companion](/periodical/62)[^3] again. I thought it was you before I saw your A C D, and very pretty the little chapter was. Don’t you rejoice in the Early and Latter Rain being over. I think that was the most exaggerated, over wrought story I ever met with.
+I have no fears of not being well able, and much delighted to read the opening of the story you are so kindly doing ‘to order’. It will be more comfortable, as I shall not feel afraid to mark anything I doubt of. Which is not a very flattering sentence but I will let it stand in consideration of its truth, and I shall be very glad to see the M. S. as soon as ever it may suit you. We continue our great liking for the Wynnes but I am seized with a little fear whether they have plot enough. Your short stories have plenty but your long ones somehow want to be so arranged as to rise up gradually into the leading event and then cease. I think the critique upon Mary in the [S R](/periodical/99) might not have been made if her discovery had come before, not after, John’s recovery, which was the dénouement. But I do not think I have told you that Frank is a very decided favorite in two houses.[^4] One little girl even wished he was her brother! In which I cannot say that I joined
 
 yours sincerely
 
 C M Yonge
 
 
-[^1]: With envelope addressed to Miss A. M.
-
-Smith/ Compton Rectory/ Shefford/ Beds and postmarked Winchester 5 March and Campton nd.
-
-Endorsed March 3/60 [sic].
-
-Smith was presumably the guest of her maternal uncle the Rev.
-
-Edmund Riland Williamson (d.1864 aged 68), who succeeded her grandfather as Rector of Campton in 1839.
 [^2]: Reprinted in Lucy and Christian Wainwright and Other Tales (London 1863).
-[^3]: ‘Agatha’s Sampler’, a story set in the reign of George III, signed A. C. D., was published in the Churchman’s Companion (March 1860) 221-7, the issue also containing two chapters of Ann Carter Smith’s story The Wynnes and the conclusion of a story called The Early and the Latter Rain.
-
-The MP commented on the last: “We can by no means understand the principle on which the good heroine of the ‘early rain’ consecrated her voice to sing nothing but sacred music, and never in company, unless it were to render her religion repulsive to her mother, as she certainly did.”
-[^4]: One of the houses was no doubt Otterbourne House where CMY and her mother were still living with her brother and his wife.
-
-The other is possibly the household of the Moberlys which contained “little girls” aged seven and thirteen..
+[^3]: ‘Agatha’s Sampler’, a story set in the reign of George III, signed A. C. D., was published in the Churchman’s Companion (March 1860) 221-7, the issue also containing two chapters of Ann Carter Smith’s story The Wynnes and the conclusion of a story called The Early and the Latter Rain. The MP commented on the last: “We can by no means understand the principle on which the good heroine of the ‘early rain’ consecrated her voice to sing nothing but sacred music, and never in company, unless it were to render her religion repulsive to her mother, as she certainly did.”
+[^4]: One of the houses was no doubt Otterbourne House where CMY and her mother were still living with her brother and his wife. The other is possibly the household of the Moberlys which contained “little girls” aged seven and thirteen..

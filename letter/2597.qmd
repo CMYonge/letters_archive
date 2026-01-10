@@ -1,7 +1,7 @@
 ---
 id: 2597
 title: To Alexander Macmillan
-date: '1877-09-11'
+iso-date: '1877-09-11'
 display-date: Sept 11th 1877
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -16,6 +16,3 @@ I am waiting for [Mr Freeman](/person/523)’s orders before I send back [the Fr
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: Black-edged paper.

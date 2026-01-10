@@ -1,8 +1,8 @@
 ---
 id: 350
 title: article on French history
-author: Charlotte Mary Yonge
-date: 1892?
+author-name: Charlotte Mary Yonge
+publication-date: 1892?
 genre: non-fiction, history
 publication-format: article in journal
 publisher: Cassell?

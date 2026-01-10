@@ -1,32 +1,21 @@
 ---
 id: 2442
 title: To Sir William Heathcote, Bt.
-date: '1872-04-08'
+iso-date: '1872-04-08'
 display-date: April 8, 1872
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester
 to-name: To Sir William Heathcote, Bt.
-manuscript-location: MS location unknown.  Printed in Coleridge, [[otherbook:40]<i>Life</i>],
+manuscript-location: MS location unknown. Printed in Coleridge, [[otherbook:40]<i>Life</i>],
   301-2
 ---
 
 My dear [Sir William](/person/669)
-Would you be so kind as to look at page 9 of the 'Gleanings' at the beginning of the [Musings on the Christian Year](/book/88), and tell me whether you have any recollection of telling [Mr.
-
-Keble](/person/798) anything about your opinion of [King Charles](/person/1768)'s truth?[^1]
-There is a new edition called for, and [Miss Dyson](/person/464) wants me to take it out.
-
-Her letter coming while I was at Salisbury, I asked whether it was there thought that I ought, as it was not according to my impression lightly thrown out, and I put it in because I thought it disproved blind admiration, while showing the real tenderness.
-[The Bishop](/person/1015) advised me to ask whether you remembered having said anything of the kind to him - if you did, to leave it; if not, to take it out.
-
-So I am acting by order in troubling you about it.
-
+Would you be so kind as to look at page 9 of the 'Gleanings' at the beginning of the [Musings on the Christian Year](/book/88), and tell me whether you have any recollection of telling [Mr. Keble](/person/798) anything about your opinion of [King Charles](/person/1768)'s truth?[^1]
+There is a new edition called for, and [Miss Dyson](/person/464) wants me to take it out. Her letter coming while I was at Salisbury, I asked whether it was there thought that I ought, as it was not according to my impression lightly thrown out, and I put it in because I thought it disproved blind admiration, while showing the real tenderness.
+[The Bishop](/person/1015) advised me to ask whether you remembered having said anything of the kind to him - if you did, to leave it; if not, to take it out. So I am acting by order in troubling you about it.
 Your affectionate
-C. M.
-
-Yonge
+C. M. Yonge
 
 
-[^1]: The cult of Charles I was very significant to the Tractarians.
-
-In the case of the Hursley group their intense historical consciousness was stimulated by the fact that Richard Cromwell had inhabited the village.
+[^1]: The cult of Charles I was very significant to the Tractarians. In the case of the Hursley group their intense historical consciousness was stimulated by the fact that Richard Cromwell had inhabited the village.

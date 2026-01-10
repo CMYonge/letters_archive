@@ -1,7 +1,7 @@
 ---
 id: 2167
 title: To Ann Maria Carter Smith
-date: '1867-05-08'
+iso-date: '1867-05-08'
 display-date: May 8th 1867
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,40 +10,8 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1867/ 1
 ---
 
 My dear [Miss Smith](/person/263),
-I am ashamed and concerned at not having answered you sooner.
-
-If I had known of any thing more likely to suit your purpose than Mr Ridley’s book, I should have done so, but on Saturday I waited to see whether Sunday would inspire me with any conjecture, and I am afraid I must confess that then I forgot it My experience of school work is altogether country and of girls, and I do not know what has been put forth for boys of a little more cultivation. I suppose Steps to the Altar would be too far advanced. I have often thought a guide to using Bp Wilson would be best of all, but I am afraid there is no such thing.
-
-There are newer books, such as that Weekly preparation which [Mr Keble](/person/798) sanctioned with his initials, or that in Mr Brett’s Churchman’s Guide but these are adapted to Weekly Communions and Mr Brett’s book is too large and has much to puzzle young boys in it. I wish I could have helped you better nor do I know a form for coming in and going out of Church.
-
-One was written for me in my first prayer book by my [Father](/person/1631), but where he took it from I never knew. I had afterwards these printed from it to put into the school children’s Prayer books, and I send you a specimen. I see you want rather a manual for daily life than a Companion to the Altar as I thought you meant at first.
-
-Would not one of those little books with a text and a thought for each day in the year be more likely to be read and kept up than anything else.
-
-The best is by the late Arthur Acland Troyte Esq. but I cannot recollect its name though I think his name would find it at [Masters](/organisation/112)’s.
-
-There is another called ‘The Brook in the Way’ by [Bp Mackenzie](/person/929)’s youngest [sister](/person/589). I think what could be read daily with the year would longer have an influence than a book read straight through
+I am ashamed and concerned at not having answered you sooner. If I had known of any thing more likely to suit your purpose than Mr Ridley’s book, I should have done so, but on Saturday I waited to see whether Sunday would inspire me with any conjecture, and I am afraid I must confess that then I forgot it My experience of school work is altogether country and of girls, and I do not know what has been put forth for boys of a little more cultivation. I suppose Steps to the Altar would be too far advanced. I have often thought a guide to using Bp Wilson would be best of all, but I am afraid there is no such thing. There are newer books, such as that Weekly preparation which [Mr Keble](/person/798) sanctioned with his initials, or that in Mr Brett’s Churchman’s Guide but these are adapted to Weekly Communions and Mr Brett’s book is too large and has much to puzzle young boys in it. I wish I could have helped you better nor do I know a form for coming in and going out of Church. One was written for me in my first prayer book by my [Father](/person/1631), but where he took it from I never knew. I had afterwards these printed from it to put into the school children’s Prayer books, and I send you a specimen. I see you want rather a manual for daily life than a Companion to the Altar as I thought you meant at first. Would not one of those little books with a text and a thought for each day in the year be more likely to be read and kept up than anything else. The best is by the late Arthur Acland Troyte Esq. but I cannot recollect its name though I think his name would find it at [Masters](/organisation/112)’s. There is another called ‘The Brook in the Way’ by [Bp Mackenzie](/person/929)’s youngest [sister](/person/589). I think what could be read daily with the year would longer have an influence than a book read straight through
 
 yours sincerely
 
 C M Yonge
-
-
-[^1]: Black-edged paper.
-[^2]: William Henry Ridley, The Holy Communion (1854), or possibly his Daily Service and How All Persons can Take Part in It (1859).
-[^3]: W. E.
-
-Scudamore, Steps to the Altar: A Manual of Devotion for the Blessed Eucharist (1840).
-[^4]: [Maria Trench] Devotions before and after Holy Communion (1865) with a recommendatory notice signed J. K. [John Keble].
-[^5]: Robert Brett, The Churchman’s Guide to Faith and Piety (1862).
-[^6]: Arthur Henry Dyke Acland Troyte, Daily Steps towards Heaven, or, Practical Thoughts on the Gospel History . . . for Every Day in the Year (1850).
-[^7]: The High Church publishers.
-[^8]: The Brook by the Way: A Text and Prayer for Every Day in the Year (London, RTS 1867) was published anonymously and is not attributed in the BL catalogue.
-
-Alice Mackenzie (b. 1823), sixth and youngest sister of the Rt.
-
-Rev.
-
-Charles Frederick Mackenzie (d. 1862), married (1861) the Reverend Charles Grubbe.
-
-Her diary and correspondence with her brother were published in 1900.

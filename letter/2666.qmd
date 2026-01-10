@@ -1,7 +1,7 @@
 ---
 id: 2666
 title: To Walter Besant
-date: '1879-03-18'
+iso-date: '1879-03-18'
 display-date: March 18th 1879
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -19,6 +19,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: This letter probably relates to Besant\'s editorship (with W. J.
-
-Brodribb) of The New Plutarch Series, \'Lives of those who have made the history of the world\', published by Ward.
+[^1]: This letter probably relates to Besant\'s editorship (with W. J. Brodribb) of The New Plutarch Series, \'Lives of those who have made the history of the world\', published by Ward.

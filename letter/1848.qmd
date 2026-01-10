@@ -1,7 +1,7 @@
 ---
 id: 1848
 title: To the Reverend William George Henderson
-date: '1861-12-10'
+iso-date: '1861-12-10'
 display-date: Decr 10th 1861
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -11,26 +11,15 @@ manuscript-location: MS Yale University, Beinecke Library
 
 Dear [Mr Henderson](/person/678)[^1] ,
 Pray take your own time in making the addition to the paper on Folk Lore, it will not be able to appear in the January no. and indeed I fear I may have to divide it, as 45pp is rather a large allowance out of 112 for one subject, and it will answer better to cut it in two. I am glad to hear of the further additions.
-
-Many thanks also for the list of the Surtees Society publications. I will consult [Mr Gibbs](/person/558) about them and hear if he wishes me to avail myself of your very kind offer. I send you the proposals for the [Philological Dictionary](/topic/151) on whose behalf the collection of words is being made[^2]. [Mr Furnival ](/person/531)[sic] is the present editor, since the death of [Mr H Coleridge](/person/340).
-I observe in the list of Denham Tracts in one of the little bound volumes of Folk Lore which you lent me – No 7- Lodge’s Baptismal Names in the Olden Time.[^3] Is it one of which it is likely to be possible to obtain a sight or is the sight likely to be useful to my [history of Christian names](/book/48)?
-
-If you ever saw it, I have no doubt that you could judge, and would be kind enough to tell me. I have been making use of the droll Berwick rhyme about ‘Gillie gachs’.
-
+Many thanks also for the list of the Surtees Society publications. I will consult [Mr Gibbs](/person/558) about them and hear if he wishes me to avail myself of your very kind offer. I send you the proposals for the [Philological Dictionary](/topic/151) on whose behalf the collection of words is being made[^2]. [Mr Furnival](/person/531)[sic] is the present editor, since the death of [Mr H Coleridge](/person/340).
+I observe in the list of Denham Tracts in one of the little bound volumes of Folk Lore which you lent me – No 7- Lodge’s Baptismal Names in the Olden Time.[^3] Is it one of which it is likely to be possible to obtain a sight or is the sight likely to be useful to my [history of Christian names](/book/48)? If you ever saw it, I have no doubt that you could judge, and would be kind enough to tell me. I have been making use of the droll Berwick rhyme about ‘Gillie gachs’.
 My [mother](/person/1606) and I beg to be remembered to [Mrs Henderson](/person/2401), and to thank her and you for your kind invitation If our Scottish expedition do take place, we shall have great pleasure in availing ourselves of it, but we are apt to make schemes long before hand that come to nothing.
-
 With many thanks
 yours very truly
 
 C M Yonge
 
 
-[^1]: The Rev.
-
-William George Henderson was one of the editors of the Surtees Society’s publications, and was evidently the author of the series of articles ‘Notes on the Folk Lore of the North of England’ which appeared in the Monthly Packet in 1862 signed ‘W. H.’.
-
-His ODNB entry implies that he did not move from Jersey to become headmaster of Leeds Grammar School until 1862, but this letter suggests that he was already residing in the north of England in the previous year.
-[^2]: See note to letter to H.H.
-
-Gibbs, 25 November 1861.
+[^1]: The Rev. William George Henderson was one of the editors of the Surtees Society’s publications, and was evidently the author of the series of articles ‘Notes on the Folk Lore of the North of England’ which appeared in the Monthly Packet in 1862 signed ‘W. H.’. His ODNB entry implies that he did not move from Jersey to become headmaster of Leeds Grammar School until 1862, but this letter suggests that he was already residing in the north of England in the previous year.
+[^2]: See note to letter to H.H. Gibbs, 25 November 1861.
 [^3]: This is a puzzling reference, since the Denham Tracts do not seem to include such a work, nor can it be identified.

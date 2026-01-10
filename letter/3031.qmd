@@ -1,22 +1,17 @@
 ---
 id: 3031
 title: To Elizabeth Barnett
-date: '1854-02-01'
+iso-date: '1854-02-01'
 display-date: '[February 1854]'
 from-name: Charlotte Mary Yonge
 from-address: '[Otterbourne]'
 to-name: To Elizabeth Barnett
-manuscript-location: MS location unknown.  This fragment printed in Romanes, <i>[[otherbook:241]Appreciation]</i>
+manuscript-location: MS location unknown. This fragment printed in Romanes, <i>[[otherbook:241]Appreciation]</i>
   p. 76
 ---
 
 Dear, good [old slave](/person/113),
 How nice and kind and understanding your letter was, and how thankful one should be for such friends! ...
-
-The worst will be over when we hear from [Julian](/person/1624), poor boy!
-
-Till then it seems like bearing the first stroke.
-
-But I am sure it fell mercifully as far as we were concerned, and the flow of feelings that meet us from all is very gratifying.
+The worst will be over when we hear from [Julian](/person/1624), poor boy! Till then it seems like bearing the first stroke. But I am sure it fell mercifully as far as we were concerned, and the flow of feelings that meet us from all is very gratifying.
 I believe [my uncle](/person/1614), always living in his own town far off, had no notion of the estimation in which his brother was held.
 . . . I know I shall miss [him](/person/1631) more when he has been away longer.

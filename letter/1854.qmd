@@ -1,7 +1,7 @@
 ---
 id: 1854
 title: To Ann Maria Carter Smith
-date: '1862-01-01'
+iso-date: '1862-01-01'
 display-date: Jan 22d [1862]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester
@@ -18,5 +18,4 @@ yours sincerely
 C M Yonge
 
 
-[^1]: Envelope addressed to Miss Ann Smith/ Rectory/ Old Charlton/ SE and postmarked Winchester 22 January 1862 and London SE 23 January 1862.
 [^2]: The Trial, the sequel to The Daisy Chain, began serial pulication in the MP in January 1862.

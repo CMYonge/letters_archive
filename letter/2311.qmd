@@ -1,7 +1,7 @@
 ---
 id: 2311
 title: To Alexander Macmillan
-date: '1869-03-20'
+iso-date: '1869-03-20'
 display-date: March 20th [1869]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,21 +10,13 @@ manuscript-location: 'MS British Library Add MSS 54920: 227-8'
 ---
 
 Dear [Mr Macmillan](/person/939),
-Many thanks, it is very agreeable to get anything out of [America](/topic/172). I have a [story](/book/81) of the time of Henry V and James I of Scotland - about half out in the [Monthly Packet](/periodical/52), and all written. I was thinking of proposing it to you for Christmas when it will be finished in the Monthly Packet.
-
-Might not some arrangement be made about it with [Scribner](/organisation/204). I could either send them the numbers already in type the MP - or they might be printed at once, and the duplicate sheets sent up to the end. I do not think we ever came to any agreement about the [Chaplet](/book/69) itself - whether you give me £200 as before for the first edition.
-I do not know what has become of the proof of the [Parallel History](/book/89).
-
-The printers sent me the copy, evidently printed from but no proofs with it.
-
-What do you think about a volume of essay kind of papers? I have done a few at times for the [Christian Remembrancer](/periodical/59), [one](/book/302) on Miss Sewell’s principles of education - one on [Folklore](/book/65), an [account of the Sanitary Commission](/book/303) in the American war, a [life of Lord Seaton](/book/66), and a few more which are in the [Literary Churchman](/periodical/76) - they seem to me some of them rather worth saving, but they would keep. I have likewise in MS a nearly completed essay on or rather history of literature for children, which I should add to those.
-
-It is too long for the [Magazine](/periodical/78), and not at all in the same tone.[^2]
+Many thanks, it is very agreeable to get anything out of [America](/topic/172). I have a [story](/book/81) of the time of Henry V and James I of Scotland - about half out in the [Monthly Packet](/periodical/52), and all written. I was thinking of proposing it to you for Christmas when it will be finished in the Monthly Packet. Might not some arrangement be made about it with [Scribner](/organisation/204). I could either send them the numbers already in type the MP - or they might be printed at once, and the duplicate sheets sent up to the end. I do not think we ever came to any agreement about the [Chaplet](/book/69) itself - whether you give me £200 as before for the first edition.
+I do not know what has become of the proof of the [Parallel History](/book/89). The printers sent me the copy, evidently printed from but no proofs with it.
+What do you think about a volume of essay kind of papers? I have done a few at times for the [Christian Remembrancer](/periodical/59), [one](/book/302) on Miss Sewell’s principles of education - one on [Folklore](/book/65), an [account of the Sanitary Commission](/book/303) in the American war, a [life of Lord Seaton](/book/66), and a few more which are in the [Literary Churchman](/periodical/76) - they seem to me some of them rather worth saving, but they would keep. I have likewise in MS a nearly completed essay on or rather history of literature for children, which I should add to those. It is too long for the [Magazine](/periodical/78), and not at all in the same tone.[^2]
 
 Yours sincerely
 
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: Nevertheless Macmillan was to publish it in his magazine, in three parts: [\'Children’s literature of the last century: I. - Nursery books of the eighteenth century.\'](/book/74); [Children’s literature of the last century: II. - Didactic fiction.\'](/book/75); and [\'Children’s literature of the last century: III. - Class literature of the last thirty years.\'](/book/76)

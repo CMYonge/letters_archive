@@ -1,7 +1,7 @@
 ---
 id: 2196
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1867-07-20'
+iso-date: '1867-07-20'
 display-date: July 20 1867
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -9,27 +9,10 @@ manuscript-location: 'Copy outletter book British Library Add MSS.55387 (1): P. 
 ---
 
 My dear Miss Yonge'
-By all means let my satirical country woman send [me](/person/939) the [novels](/topic/193) 'she is not clever enough to write.'[^1] I shall certainly give them every attention.
-
-You know we Scotch like early Christians love one another. I had a long and very interesting talk with [Mr Gladstone](/person/1653) yesterday about our [Sunday Library](/topic/145) in which he is much interested.
-
-He asked how we were to adjust and harmonise persons of various shades of opinion.
-
-He thought any attempt to get persons to conceal any conviction deeply held would result only in tameness and baldness. I said that our intention was to do nothing of the kind, that a perfectly free speech from each would be encouraged and allowed.
-
-But of course the object not being controversial and the several authors being aware that among her or his companions of the voyage were others who held diverse views, would be careful in giving utterance to opinions that they were put in no form that might or at least need provoke dissension or criticisms in other minds.
-
-He said he thought this quite possible and indeed likely to have a wholesome & widening effect both on readers & writers.
-
-He instanced his own experiences in the House of Commons where every one is permitted to let it be manifest what his convictions are, and no one obtruding them particularly, unless those are content to be conspicuous and ridiculous.
-
-It was pleasant to get his confirmation of what I had felt quite possible, the difficulty was there he saw, but he also saw that our line was a solution of it.
+By all means let my satirical country woman send [me](/person/939) the [novels](/topic/193) 'she is not clever enough to write.'[^1] I shall certainly give them every attention. You know we Scotch like early Christians love one another. I had a long and very interesting talk with [Mr Gladstone](/person/1653) yesterday about our [Sunday Library](/topic/145) in which he is much interested. He asked how we were to adjust and harmonise persons of various shades of opinion. He thought any attempt to get persons to conceal any conviction deeply held would result only in tameness and baldness. I said that our intention was to do nothing of the kind, that a perfectly free speech from each would be encouraged and allowed. But of course the object not being controversial and the several authors being aware that among her or his companions of the voyage were others who held diverse views, would be careful in giving utterance to opinions that they were put in no form that might or at least need provoke dissension or criticisms in other minds. He said he thought this quite possible and indeed likely to have a wholesome & widening effect both on readers & writers. He instanced his own experiences in the House of Commons where every one is permitted to let it be manifest what his convictions are, and no one obtruding them particularly, unless those are content to be conspicuous and ridiculous. It was pleasant to get his confirmation of what I had felt quite possible, the difficulty was there he saw, but he also saw that our line was a solution of it.
 [Dr Alexander](/person/1840) will do St Augustine. I believe he is now Bishop Designate of Derry.
-
 Yours very truly
-A.
-
-Macmillan
+A. Macmillan
 
 
 [^1]: See also letters from Macmillan, 25 July and from CMY to Macmillan 29 July 1867.

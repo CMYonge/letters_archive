@@ -1,7 +1,7 @@
 ---
 id: 2222
 title: To George Lillie Craik
-date: '1867-12-04'
+iso-date: '1867-12-04'
 display-date: Decr 4th 1867
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.

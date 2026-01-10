@@ -1,7 +1,7 @@
 ---
 id: 2056
 title: To the Reverend John Frewen Moor
-date: '1873-07-20'
+iso-date: '1873-07-20'
 display-date: July 20th [1873?]
 from-name: Charlotte Mary Yonge
 to-name: To the Reverend John Frewen Moor
@@ -16,6 +16,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: The reference to Hardwick, Bucks., of which the Rev.
-
-William Bigg Wither became Rector in 1871, suggests the 1870s; and CMY visited him in July 1873.
+[^1]: The reference to Hardwick, Bucks., of which the Rev. William Bigg Wither became Rector in 1871, suggests the 1870s; and CMY visited him in July 1873.

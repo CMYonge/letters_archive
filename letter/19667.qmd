@@ -1,7 +1,7 @@
 ---
 id: 19667
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1867-01-01'
+iso-date: '1867-01-01'
 display-date: Jan. 1. 1867
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -18,8 +18,6 @@ With all kind New Year wishes
 
 Yours very faithfully
 
-[A.
-
-Macmillan](/person/939)
+[A. Macmillan](/person/939)
 
 &nbsp;

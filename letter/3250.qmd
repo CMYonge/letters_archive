@@ -1,7 +1,7 @@
 ---
 id: 3250
 title: To Mrs Egerton
-date: '1894-02-15'
+iso-date: '1894-02-15'
 display-date: Feb 15th 1894
 from-name: Charlotte Mary Yonge
 from-address: '[[other:23]G F S] Elderfield Otterbourne Winchester'
@@ -15,6 +15,3 @@ Unluckily the matter of the Grants could not come on till the last and I never f
 Yours truly
 
 C M Yonge
-
-
-[^1]: In matching envelope with G F S written in upper left corner and stamp removed, addressed ‘Mrs Egerton/The Cottage/Alresford.’

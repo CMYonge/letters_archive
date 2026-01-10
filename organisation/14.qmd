@@ -5,12 +5,4 @@ name: St. Hugh’s College
 title: St. Hugh’s College
 ---
 
-This was founded in 1886 as St.
-
-Hugh’s Hall, for women students who were too poor to afford Lady Margaret Hall.
-
-Its first principal was Annie Moberly.
-
-It became a college of Oxford University in 1959.
-
-Its website is www.st-hughs.ox.ac.uk
+This was founded in 1886 as St. Hugh’s Hall, for women students who were too poor to afford Lady Margaret Hall. Its first principal was Annie Moberly. It became a college of Oxford University in 1959. Its website is www.st-hughs.ox.ac.uk

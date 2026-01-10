@@ -1,7 +1,7 @@
 ---
 id: 19637
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1866-10-12'
+iso-date: '1866-10-12'
 display-date: Oct.12 1866
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -10,23 +10,11 @@ manuscript-location: Copy outletter book British Library Add MSS.55386 (1) P. 47
 
 My dear Miss Yonge
 
-I am glad you like [my kinsman](/person/2430)s work.  I am venturing to send him your good opinion[^1] as he is a man of a genuine modesty of temper, a [sic]. I think he is a man of true genius.
-
-And a word of praise from a competent judge cannot but be pleasant.
-
-By all means keep the papers for leisurely [sic] reading.
-
-About the end of next week I should like to have them.
+I am glad you like [my kinsman](/person/2430)s work.  I am venturing to send him your good opinion[^1] as he is a man of a genuine modesty of temper, a [sic]. I think he is a man of true genius. And a word of praise from a competent judge cannot but be pleasant.  By all means keep the papers for leisurely [sic] reading. About the end of next week I should like to have them.
 
 Yours very faithfully
 
-[A.
-
-Macmillan](/person/939)
+[A. Macmillan](/person/939)
 
 
-[^1]: The letter with these comments is not held in the Macmillan papers in the British Library.
-
-Possibly Macmillan forwarded it to his relation, the Rev.
-
-Hugh Macmillan, author of Bible Teachings in Nature.
+[^1]: The letter with these comments is not held in the Macmillan papers in the British Library. Possibly Macmillan forwarded it to his relation, the Rev. Hugh Macmillan, author of Bible Teachings in Nature.

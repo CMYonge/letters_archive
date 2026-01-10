@@ -1,7 +1,7 @@
 ---
 id: 1931
 title: To the Reverend John Frewen Moor
-date: '1864-01-26'
+iso-date: '1864-01-26'
 display-date: Jany 26 [1864]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -17,10 +17,3 @@ I suppose it will not wait till we see you
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: Black-edged paper.
-
-Envelope addressed to “The Revd/ J F Moor/Ampfield/Romsey.
-
-Postmarked Winchester J 24/64.

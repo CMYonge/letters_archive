@@ -1,7 +1,7 @@
 ---
 id: 2502
 title: To Anne Isabella Thackeray
-date: '1874-05-13'
+iso-date: '1874-05-13'
 display-date: May 13 1874
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,11 +10,7 @@ manuscript-location: MS Eton College, ALS to AIT.
 ---
 
 My dear [Miss Thackeray](/person/1240)
-Did you have a silver gilt button for fastening a glove the day you were here?
-
-We found one the next morning but as we had some visitors after you.
-
-We waited to ask them, and one of them was gone away, and could not be applied to.
+Did you have a silver gilt button for fastening a glove the day you were here? We found one the next morning but as we had some visitors after you. We waited to ask them, and one of them was gone away, and could not be applied to.
 I conclude you are still in your old home, and shall therefore address to you there.
 
 Yours sincerely

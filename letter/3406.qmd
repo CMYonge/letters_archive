@@ -1,7 +1,7 @@
 ---
 id: 3406
 title: To Lady Leconfield
-date: '1899-05-01'
+iso-date: '1899-05-01'
 display-date: May 23d 1899
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -11,19 +11,11 @@ manuscript-location: MS Lord Egremont, Petworth House, in the care of West Susse
 ---
 
 Dear [Lady Leconfield](/person/1664)[^1]
-Indeed I enjoyed your visit with [Mary Harris](/person/626) very much.
-
-She is an old friend connected with happy old days at Torquay, and the shyness that ought not to hang about one at seventy five is not a thing that endures when one well known comes at the same time.
-
-If ever you are near enough again, I hope to see you if you think it worth while - and I shall be happy to write in your birthday book.
-
-Your allowance of the [Daisy Chain](/book/24) reminds me of my chapter a day of [Walter Scott](/person/1672), though I don’t think one of my chapters could have been half so well worth reading I think however they were longer, and might make up in quantity for what was wanting in quality- I used to go back to the beginning and read up the previous chapters of [Waverley](/place/195) &c over and over up to my days allowance, and I had always to take a previous dose of [Goldsmiths history of Rome](/organisation/203), where I greatly preferred chapters about the wickedest Emperors they were so much the most entertaining
+Indeed I enjoyed your visit with [Mary Harris](/person/626) very much. She is an old friend connected with happy old days at Torquay, and the shyness that ought not to hang about one at seventy five is not a thing that endures when one well known comes at the same time. If ever you are near enough again, I hope to see you if you think it worth while - and I shall be happy to write in your birthday book. Your allowance of the [Daisy Chain](/book/24) reminds me of my chapter a day of [Walter Scott](/person/1672), though I don’t think one of my chapters could have been half so well worth reading I think however they were longer, and might make up in quantity for what was wanting in quality- I used to go back to the beginning and read up the previous chapters of [Waverley](/place/195) &c over and over up to my days allowance, and I had always to take a previous dose of [Goldsmiths history of Rome](/organisation/203), where I greatly preferred chapters about the wickedest Emperors they were so much the most entertaining
 
 yours sincerely
 
 C M Yonge
 
 
-[^1]: Lady Constance Evelyn Primrose (d.1939) married (1867) the 2nd Baron Leconfield (1830-1901).
-
-She was the Vice President of the Mothers’ Union in the diocese of Chichester.
+[^1]: Lady Constance Evelyn Primrose (d.1939) married (1867) the 2nd Baron Leconfield (1830-1901). She was the Vice President of the Mothers’ Union in the diocese of Chichester.

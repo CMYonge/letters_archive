@@ -1,18 +1,12 @@
 ---
 id: 2871
 title: To Elizabeth Barnett
-date: '1887-01-01'
-display-date: '[January 1887][[footnote:1]]'
+iso-date: '1887-01-01'
+display-date: '[January 1887]'
 from-name: Charlotte Mary Yonge
 to-name: To Elizabeth Barnett
-manuscript-location: MS location unknown.  Printed in Romanes, [[otherbook:241]<i>Appreciation</i>],  180.
+manuscript-location: MS location unknown. Printed in Romanes, [[otherbook:241]<i>Appreciation</i>],
+  180.
 ---
 
-[To [Elizabeth Barnett](/person/113)]I have been reading an article in the [National Review](/periodical/259), showing how utterly [Carlyle](/person/1972) misquoted Cromwell’s speeches, and absolutely neglected shoals of contemporary papers which would have spoilt his conceptions of his idol.
-
-It is curious, but really, poor old Carlyle must have been a good deal of a humbug for all his bluster.
-
-
-[^1]: The article referred to was no doubt Reginald F. D.
-
-Palgrave, \'Carlyle, the \"pious editor\" of Cromwell\'s speeches\' National Review 8 (January 1887), 588-604.
+[To [Elizabeth Barnett](/person/113)]I have been reading an article in the [National Review](/periodical/259), showing how utterly [Carlyle](/person/1972) misquoted Cromwell’s speeches, and absolutely neglected shoals of contemporary papers which would have spoilt his conceptions of his idol. It is curious, but really, poor old Carlyle must have been a good deal of a humbug for all his bluster.

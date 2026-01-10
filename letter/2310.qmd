@@ -1,7 +1,7 @@
 ---
 id: 2310
 title: To Miss Cole
-date: '1869-03-17'
+iso-date: '1869-03-17'
 display-date: March 17 [1869]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -16,6 +16,3 @@ I am afraid though that it is not of much use for your friend to send me a fairy
 yours sincerely
 
 C M Yonge
-
-
-[^1]: Black-edged paper.

@@ -1,7 +1,7 @@
 ---
 id: 1786
 title: To John William Parker, Jr.
-date: '1860-03-16'
+iso-date: '1860-03-16'
 display-date: March 16th 1860
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -15,9 +15,7 @@ If you are writing to [Tauchnitz](/person/1396),[^1] I hope you will be kind eno
 
 Yours faithfully
 
-C.M.
-
-Yonge
+C.M. Yonge
 
 
 [^1]: A Leipzig publishing firm, headed by Bernhard, Baron von Tauchnitz (1816-1895), which circulated paperback reprints of many English novels on the continent.

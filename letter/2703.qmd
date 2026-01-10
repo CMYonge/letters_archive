@@ -1,7 +1,7 @@
 ---
 id: 2703
 title: To an Unknown Woman
-date: '1880-03-01'
+iso-date: '1880-03-01'
 display-date: March 1st 1880
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,9 +10,7 @@ manuscript-location: MS Devon Record Office, Exeter 53/10/9/4
 ---
 
 My dear Madam
-I am very sorry that [Mr Macmillan](/person/939) was so disappointing.
-
-He might as well have looked at the drawings I have been waiting to hear from [Mr Ward](/organisation/236), 67 Chandos St, Covent Garden He will gladly see you, and I sent him the MS of the Bear and the Goblin.[^1] You had better make an appointment with him mentioning my name; and shew him some of your drawings I think it might lead to something as his line is illustration
+I am very sorry that [Mr Macmillan](/person/939) was so disappointing. He might as well have looked at the drawings I have been waiting to hear from [Mr Ward](/organisation/236), 67 Chandos St, Covent Garden He will gladly see you, and I sent him the MS of the Bear and the Goblin.[^1] You had better make an appointment with him mentioning my name; and shew him some of your drawings I think it might lead to something as his line is illustration
 
 yours truly
 

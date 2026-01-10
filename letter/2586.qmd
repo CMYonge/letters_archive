@@ -1,7 +1,7 @@
 ---
 id: 2586
 title: To George Lillie Craik.
-date: '1877-07-07'
+iso-date: '1877-07-07'
 display-date: July 7th 1877
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,12 +11,9 @@ manuscript-location: 'MS British Library Add MSS 54921: 20-21'
 
 My dear [Mr Craik](/person/379)
 I am rather anxious to know the upshot of the new arrangement which we were to have this year into the details of which I do not think we went.
-
 What however is really important to me to know quickly is whether I am likely to receive enough at Christmas to warrant me in promising a payment of £250 - remembering that I have had [£200 in advance](/topic/160)
 I want very much to know whether [Mr Freeman](/person/523) despairs of my [French history](/book/99) I have heard nothing of it or of him since I sent it off revised and abridged six months ago.[^1]
-There are some old papers of mine in the [Christian Remembrancer](/periodical/59), on [Ghosts](/book/65), on [Education](/book/302), on [Eugenie de Guérin](/book/50) and [Alexandrine de la Ferronays](/book/64), which - with those on children’s books in the [Magazine](/periodical/78)[^1] - would they not make a nice volume to come out at Christmas and would you give me £100 for its first edition.
-
-Shall I look them out and send them to you
+There are some old papers of mine in the [Christian Remembrancer](/periodical/59), on [Ghosts](/book/65), on [Education](/book/302), on [Eugenie de Guérin](/book/50) and [Alexandrine de la Ferronays](/book/64), which - with those on children’s books in the [Magazine](/periodical/78)[^1] - would they not make a nice volume to come out at Christmas and would you give me £100 for its first edition. Shall I look them out and send them to you
 
 Yours truly
 
@@ -24,6 +21,3 @@ C M Yonge
 
 
 [^1]: For Freeman\'s opinion of CMY\'s History of France, see \'Introduction to Letters 1870-1879\'.
-[^2]: CMY contributed three articles on \'Children’s literature of the last century\' to Macmillan\'s Magazine in 1869: \'[Nursery books of the eighteenth century\'](/book/74), [\'Didactic fiction\'](/book/75) and [\'Class literature of the last thirty years\'](/book/76).
-
-The proposed volume was not published.

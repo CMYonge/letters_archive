@@ -1,7 +1,7 @@
 ---
 id: 2658
 title: To Messrs Macmillan
-date: '1879-01-15'
+iso-date: '1879-01-15'
 display-date: Jany 15th 1879
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.

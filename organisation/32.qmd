@@ -5,10 +5,4 @@ name: National Society, The
 title: National Society, The
 ---
 
-The National Society for Promoting the Education of the Poor in the Principles of the Established Church, now National Society, Church of England, for Promoting Religious Education.
-
-This charity, which was enormously influential in the Victorian educational world, was founded in 1811, and started or supported a very large number of Anglican schools for the working classes.
-
-It also published textbooks and fiction, often used for school prizes, and CMY wrote many children’s books for them.
-
-See http://www.natsoc.org.uk/society/history/
+The National Society for Promoting the Education of the Poor in the Principles of the Established Church, now National Society, Church of England, for Promoting Religious Education. This charity, which was enormously influential in the Victorian educational world, was founded in 1811, and started or supported a very large number of Anglican schools for the working classes. It also published textbooks and fiction, often used for school prizes, and CMY wrote many children’s books for them. See http://www.natsoc.org.uk/society/history/

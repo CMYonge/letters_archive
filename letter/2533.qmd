@@ -1,7 +1,7 @@
 ---
 id: 2533
 title: To Christabel Rose Coleridge
-date: '1875-07-31'
+iso-date: '1875-07-31'
 display-date: July 31st 1875
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,17 +10,11 @@ manuscript-location: MS Mrs Clare Roels
 ---
 
 My dear [Christabel](/person/329)
-Writing about cheerfulness with a heavy cold in one’s head on a summer day, may be as hard as writing in the midst of a wet cricket match but I am trying to do it. I shall direct this to Hanwell, not knowing where you are at Chiddingfold I suppose with the [Humberts](/person/730).
-
-Have you heard that Mr [Trant Bramston](/person/196) is going to be married, and so [Miss Bramston](/person/198)’s occupation comes to an end.
-
-Luckily the lady, a [Miss Adey](/person/2303) is her dearest friend.
-
+Writing about cheerfulness with a heavy cold in one’s head on a summer day, may be as hard as writing in the midst of a wet cricket match but I am trying to do it. I shall direct this to Hanwell, not knowing where you are at Chiddingfold I suppose with the [Humberts](/person/730). Have you heard that Mr [Trant Bramston](/person/196) is going to be married, and so [Miss Bramston](/person/198)’s occupation comes to an end. Luckily the lady, a [Miss Adey](/person/2303) is her dearest friend.
 Your book will come I suppose in that October batch will [sic?] calls itself the next years[^2]
 your affectionate
 
 C M Yonge
 
 
-[^1]: The envelope also engraved on flap with address, postmarked Winchester 31 July 1875 and addressed to ‘Miss C.R.Coleridge/ Hanwell Rectory/Middlesex’.
 [^2]: Coleridge\'s novel Hugh Crichton\'s Romance was published in November 1875.

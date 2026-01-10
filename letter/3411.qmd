@@ -1,46 +1,21 @@
 ---
 id: 3411
 title: To Charlotte Fortescue Yonge
-date: '1899-07-20'
+iso-date: '1899-07-20'
 display-date: July 20, 1899
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
 to-name: To Charlotte Fortescue Yonge
-manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:40]Life]</i>  343
+manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  343
 ---
 
 My dear [Lottie](/person/1588)
-I put off writing till the 19th was over, for it really was a very interesting day, though I little knew beforehand all they were going to make of it.
-
-About £1800 was collected for [the scholarship](/topic/113), and this was presented, with a beautifully illuminated address, by [the Bishop](/person/1382) in [the High School](/organisation/51), making a wonderful speech about having read the [Little Duke](/book/20) when he was a small boy, and all that had turned up about the usefulness of the books.
-
-Also they gave me a basket of flowers - [daisies](/book/24), [heartsease](/book/19) and the like, with violet ribbons to represent the violet, as of course there were none to be had, and ropes of daisy chain hung all about.
-
-Afterwards the girls made some very pretty tableaux from the stories, the Little Duke, the [Caged Lion](/book/81), and the [Chaplet of Pearls](/book/69), and had a daisy-chain dance in thin white frocks.
-
-It really was as pretty a sight as ever was; the pity was that I had none of my own people with me, for [Alethea](/person/182)'s children have all been having the measles, and are not out yet, and [Henry](/person/184) is gone to Switzerland to meet his sisters, and have a good bracing holiday.
-
-Alley will take the children to lodgings at Dorking or near it as soon as they are safe, and I go to stay with [Frances](/person/1604) on the 9th August.
-
-She goes in September to her sisters, and then I shall have [Helen](/person/1613) for a little while.
-
-There is a [Mr.
-
-Ffinch](/person/1688) coming for locum tenens for the month of August, to lodge at [Miss Finlaison](/person/512)'s.
-
-There has been a bazaar for Chandler's Ford Church, and they made £70, but I am afraid they are still a long way from their church yet. I am sorry you have not a better account of Emma[^1] to give; I hope she will go from home and get a rest.
-
-How hot it is!
-
-But the beautiful day was a great ingredient in the success of yesterday, as a good deal was out of doors.
-I am afraid the poor old [Monthly Packet](/periodical/52) is coming to an end, as [Innes](/person/744)'s affairs have got into a mess.
-
-It has not come out this month, but it may revive at half the price.
-
+I put off writing till the 19th was over, for it really was a very interesting day, though I little knew beforehand all they were going to make of it. About £1800 was collected for [the scholarship](/topic/113), and this was presented, with a beautifully illuminated address, by [the Bishop](/person/1382) in [the High School](/organisation/51), making a wonderful speech about having read the [Little Duke](/book/20) when he was a small boy, and all that had turned up about the usefulness of the books. Also they gave me a basket of flowers - [daisies](/book/24), [heartsease](/book/19) and the like, with violet ribbons to represent the violet, as of course there were none to be had, and ropes of daisy chain hung all about. Afterwards the girls made some very pretty tableaux from the stories, the Little Duke, the [Caged Lion](/book/81), and the [Chaplet of Pearls](/book/69), and had a daisy-chain dance in thin white frocks. It really was as pretty a sight as ever was; the pity was that I had none of my own people with me, for [Alethea](/person/182)'s children have all been having the measles, and are not out yet, and [Henry](/person/184) is gone to Switzerland to meet his sisters, and have a good bracing holiday. Alley will take the children to lodgings at Dorking or near it as soon as they are safe, and I go to stay with [Frances](/person/1604) on the 9th August. She goes in September to her sisters, and then I shall have [Helen](/person/1613) for a little while. There is a [Mr. Ffinch](/person/1688) coming for locum tenens for the month of August, to lodge at [Miss Finlaison](/person/512)'s.
+There has been a bazaar for Chandler's Ford Church, and they made £70, but I am afraid they are still a long way from their church yet. I am sorry you have not a better account of Emma[^1] to give; I hope she will go from home and get a rest. How hot it is! But the beautiful day was a great ingredient in the success of yesterday, as a good deal was out of doors.
+I am afraid the poor old [Monthly Packet](/periodical/52) is coming to an end, as [Innes](/person/744)'s affairs have got into a mess. It has not come out this month, but it may revive at half the price.
 Your affectionate cousin
-C. M.
-
-Yonge
+C. M. Yonge
 
 
 [^1]: Perhaps her correspondent\'s sister-in-law, [Emma (Sherlock) Yonge](/person/2081).

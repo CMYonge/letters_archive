@@ -1,7 +1,7 @@
 ---
 id: 2024
 title: To an Unknown Person, perhaps Elizabeth Barnett
-date: '1865-01-01'
+iso-date: '1865-01-01'
 display-date: '[1865]'
 from-name: Charlotte Mary Yonge
 to-name: To an Unknown Person, perhaps Elizabeth Barnett
@@ -9,13 +9,7 @@ manuscript-location: MS location unknown. Printed in Romanes, <i>[[otherbook:241
   p. 93
 ---
 
-We have just finished [Dr.
-
-Livingstone](/person/1935), noble man that he is; all that one can wish is that he knew what the Church meant.[^1] The grand simplicity of his courage and endurance is most magnificent. I am sure England has not come to degeneracy yet.
+We have just finished [Dr. Livingstone](/person/1935), noble man that he is; all that one can wish is that he knew what the Church meant.[^1] The grand simplicity of his courage and endurance is most magnificent. I am sure England has not come to degeneracy yet.
 
 
-[^1]: The explorer and missionary Dr.
-
-David Livingstone (1813-1873) was a Congregationalist, which would account for CMY’s regret.
-
-She and her mother had no doubt been reading his Narrative of an expedition to the Zambesi and its tributaries and of the discovery of the lakes Shirwa and Nyassa, 1858-1864 (1865).
+[^1]: The explorer and missionary Dr. David Livingstone (1813-1873) was a Congregationalist, which would account for CMY’s regret. She and her mother had no doubt been reading his Narrative of an expedition to the Zambesi and its tributaries and of the discovery of the lakes Shirwa and Nyassa, 1858-1864 (1865).

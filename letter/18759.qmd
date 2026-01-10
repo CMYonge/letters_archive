@@ -1,7 +1,7 @@
 ---
 id: 18759
 title: To Groombridge and Sons
-date: '1860-09-18'
+iso-date: '1860-09-18'
 display-date: Sept 18th 1860
 from-name: Charlotte Mary Yonge
 to-name: To Groombridge and Sons
@@ -9,13 +9,9 @@ manuscript-location: MS Special Collections, University of Virginia Library
 ---
 
 [Gentlemen](/organisation/148),
-Herewith I send the proofs corrected of the [Mice at Play](/book/35).
+Herewith I send the proofs corrected of the [Mice at Play](/book/35). If you prefer that I should look at the revise, I shall be very happy to do so.
 
-If you prefer that I should look at the revise, I shall be very happy to do so.
-
-I have done my best in the enclosed to describe my ideas of the illustrations, but I think the designer had better refer to Knight's Old England, or to the Pictorial History of England for the costumes.
-
-The tower for Cecily's headdress in vignettes is not in Old England, but it occurs in many of the illustrations in the 2nd vol of the Pictorial history
+I have done my best in the enclosed to describe my ideas of the illustrations, but I think the designer had better refer to Knight's Old England, or to the Pictorial History of England for the costumes. The tower for Cecily's headdress in vignettes is not in Old England, but it occurs in many of the illustrations in the 2nd vol of the Pictorial history
 
 [sketch of axe head]
 

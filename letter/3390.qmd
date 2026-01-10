@@ -4,7 +4,7 @@ title: To an Unknown Person
 display-date: '2010-03-09'
 from-name: Charlotte Mary Yonge
 to-name: To an Unknown Person
-manuscript-location: MS location unknown.  This fragment quoted in Mare and Percival,
+manuscript-location: MS location unknown. This fragment quoted in Mare and Percival,
   <i>[[otherbook:598]Victorian Best-seller]</i>, 228.
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: 2651
 title: To Alexander Macmillan
-date: '1878-11-01'
+iso-date: '1878-11-01'
 display-date: Novr 22d 1878
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -23,6 +23,3 @@ I don’t generally care about criticism when I am quite sure that it is only de
 
 
 [^1]: This relates to the unkind review by Mary Augusta Ward of CMY\'s [The Christians and the Moors in Spain](/book/126).
-[^2]: Felix Dahn, Die Könige der Germanen : Das Wesen des ältesten Königthums der germanischen Stämme und seine Geschichte bis auf die Feudalzeit 6 vols (Munich, Wurzburg: 1861, 1866, 1871).
-
-The quotation is from Mary Ward’s Academy review of The Christians and the Moors in Spain.

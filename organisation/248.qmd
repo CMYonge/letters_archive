@@ -5,8 +5,4 @@ name: Harper & Bros
 title: Harper & Bros
 ---
 
-American publishers, founded in New York in 1817.
-
-It is now (2011) part of HarperCollins, a division of News Corporation.
-
-Its website is http://www.harpercollins.com/
+American publishers, founded in New York in 1817. It is now (2011) part of HarperCollins, a division of News Corporation. Its website is http://www.harpercollins.com/

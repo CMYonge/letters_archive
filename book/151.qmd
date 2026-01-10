@@ -3,8 +3,8 @@ id: 151
 title: Catharine of Aragon and the Sources of the English Reformation. By Albert Du
   Boys. Edited from the French, with notes, by Charlotte M. Yonge, author of “The
   Heir of Redclyffe” &c. &c.. 2 vols
-author: Charlotte Mary Yonge
-date: '1881'
+author-name: Charlotte Mary Yonge
+publication-date: '1881'
 genre: Edited translation
 publication-format: Edited book
 publisher: 'London : Hurst and Blackett, 13 Great Marlborough Street.'

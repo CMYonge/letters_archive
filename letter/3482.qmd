@@ -1,7 +1,7 @@
 ---
 id: 3482
 title: To an unknown woman
-date: '1901-03-01'
+iso-date: '1901-03-01'
 display-date: March 1901
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -15,12 +15,3 @@ I have desired a few of my village books to be sent to you - I cannot do more as
 yours truly
 
 C M Yonge
-
-
-[^1]: The transcription was kindly supplied by Mr Stephen C.
-
-Erskine, the Librarian.
-
-If the date is correct it is a very late letter indeed since CMY died on 24 March.
-
-It is uncharacteristic of her to give only the month.

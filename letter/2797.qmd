@@ -1,7 +1,7 @@
 ---
 id: 2797
 title: To Christabel Rose Coleridge
-date: '1885-01-01'
+iso-date: '1885-01-01'
 display-date: Jan 2d [1885]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,9 +10,7 @@ manuscript-location: MS Mrs Clare Roels/66
 ---
 
 My dear [Christabel](/person/329)
-I should think on the whole that it was intended to decline the book except at your expense. I do think the resemblance to Don John is a disadvantage though you have treated it in such a different way.[^2] And had not [Low](/person/1992) something to do with Don John, either through [Good Words](/periodical/73) or [Miss Ingelow](/person/741). I am on the whole afraid that as I see in the [Guardian](/periodical/75) that Mr Mallock says that the age has got past the spirituality of Tennyson, so it is getting past the quiet style of domestic Churchey novels– not that there is much of that in the Lot- but it is the undercurrent.[^3] Amethyst may do better, but I wouldn’t begin her – the book I mean – with the Sisterhood scene.
-
-Shall you try anywhere else?
+I should think on the whole that it was intended to decline the book except at your expense. I do think the resemblance to Don John is a disadvantage though you have treated it in such a different way.[^2] And had not [Low](/person/1992) something to do with Don John, either through [Good Words](/periodical/73) or [Miss Ingelow](/person/741). I am on the whole afraid that as I see in the [Guardian](/periodical/75) that Mr Mallock says that the age has got past the spirituality of Tennyson, so it is getting past the quiet style of domestic Churchey novels– not that there is much of that in the Lot- but it is the undercurrent.[^3] Amethyst may do better, but I wouldn’t begin her – the book I mean – with the Sisterhood scene. Shall you try anywhere else?
 I should think [S T C](/person/1667) was horribly difficult to do properly.- The old unmitigated hero worship was one thing, and the Froude & Carlyle method another and to strike the balance between the two is uncommonly hard.[^4]
 We have and are having a course of diversions for Christmas here- a Band of Hope[^5] Tree comes off this evening
 your affectionate
@@ -20,10 +18,7 @@ your affectionate
 C M Yonge
 
 
-[^1]: With envelope addressed to Miss C R Coleridge/ Eldon Lodge/ Torquay and postmarked Winchester 2 January 1885.
 [^2]: Jean Ingelow, Don John (London, Sampson Low 1881), the plot of which resembled Christabel Coleridge’s story A Lot with a Crook in it.
-[^3]: CMY refers to the discussion of Tennyson\'s poetry in the context of Victorian cultural change in W. H.
-
-Mallock\'s Atheism and the Value of Life (1884).
+[^3]: CMY refers to the discussion of Tennyson\'s poetry in the context of Victorian cultural change in W. H. Mallock\'s Atheism and the Value of Life (1884).
 [^4]: James Anthony Froude, History of the First Forty Years of Carlyle’s Life (1882) and History of Carlyle’s Life in London (1884) had caused great scandal and set new standards of biographical frankness.
 [^5]: The United Kingdom Band of Hope Union was a children’s temperance organisation founded in 1855.

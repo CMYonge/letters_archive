@@ -1,7 +1,7 @@
 ---
 id: 2989
 title: To Elizabeth Roberts
-date: '1852-05-15'
+iso-date: '1852-05-15'
 display-date: May 15th [1852]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
@@ -10,15 +10,8 @@ manuscript-location: 'MS Huntington Library: Yonge Letters to Elizabeth Roberts'
 ---
 
 Dear [Madam](/person/1243)
-I return the Stories on the Calendar, which you so bravely speak of rewriting.
-
-After all, I feel myself that that is a much more comfortable plan than patching, one spoils the new to make it suit the old, and then the old looks ill by the side of the new.
-
-Thank you for so kindly receiving my criticisms, and I hope you will not hurry yourself, as one chapter on the first of the month before it comes out, is all that I wish for.
-
-One thing I forgot to mention, and that is that surely it should be mentioned that divines do not all identify Mary Magdalene with the sinner.
-
-There is much on the subject in [Mr Isaac Williams books on the Gospels](/organisation/230).
+I return the Stories on the Calendar, which you so bravely speak of rewriting. After all, I feel myself that that is a much more comfortable plan than patching, one spoils the new to make it suit the old, and then the old looks ill by the side of the new. Thank you for so kindly receiving my criticisms, and I hope you will not hurry yourself, as one chapter on the first of the month before it comes out, is all that I wish for.
+One thing I forgot to mention, and that is that surely it should be mentioned that divines do not all identify Mary Magdalene with the sinner. There is much on the subject in [Mr Isaac Williams books on the Gospels](/organisation/230).
 I suppose you know Mrs Jamieson’s [sic] books on [Sacred and Legendary Art](/periodical/87), though no authorities, they bring information pleasantly together.
 I am glad to have so agreeable a prospect for next year as Margaret with her mind more developed
 

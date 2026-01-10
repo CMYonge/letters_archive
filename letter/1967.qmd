@@ -1,7 +1,7 @@
 ---
 id: 1967
 title: Alexander Macmillan to Julian Bargus Yonge
-date: '1864-07-30'
+iso-date: '1864-07-30'
 display-date: July 30 1864
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Julian Bargus Yonge
@@ -9,15 +9,8 @@ manuscript-location: 'Copy outletter book British Library Add MSS. 55383 (1): P.
 ---
 
 My dear [Sir](/person/1624),
-Your paper on Bridge Bracing has not come to hand.[^1][ I](/person/939) am rather hesitant whether [Mr Masson](/person/980) has any article on American affairs for the September [number](/periodical/78).
-
-If he has not I will ask him to see whether yours wd suit him.
-
-You know he is the chief who has authority. [^2] I shall be very glad if it does.
-
-In the mean time I tell you that the paper has not reached me.
-
-Your letter seemed to imply that you had sent it.
+Your paper on Bridge Bracing has not come to hand.[^1][I](/person/939) am rather hesitant whether [Mr Masson](/person/980) has any article on American affairs for the September [number](/periodical/78). If he has not I will ask him to see whether yours wd suit him. You know he is the chief who has authority. [^2] I shall be very glad if it does.
+In the mean time I tell you that the paper has not reached me. Your letter seemed to imply that you had sent it.
 
 
 [^1]: This letter and certain requests from CMY to Macmillan (see letters dated 12 September 1864 and 14 July 1865) suggest that Julian Yonge was hoping for literary work.

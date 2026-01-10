@@ -1,7 +1,7 @@
 ---
 id: 2042
 title: To Alexander Macmillan
-date: '1865-06-09'
+iso-date: '1865-06-09'
 display-date: June 9th 1865
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,17 +10,9 @@ manuscript-location: 'MS British Library Add MSS 54920: 94-95'
 ---
 
 My dear [Mr Macmillan](/person/939)
-It does not seem after my last letter that this is the moment to write to you about a fresh plan, but this is a matter that [Miss Sewell](/person/1301) and I talked over together last winter, and which has been waiting since for her to have time to give her mind to it. I send her letter to speak for itself.
-
-You know she has for many years taken girl pupils to whom she has given a first rate education, and this is the view she has arrived at about the reading.
-
-She and I would select passages, give a short notice uniting them, and get up the book altogether - and we agreed that when she was ready she should put forth her ideas, and we should ask you what you thought of the matter. I have felt my way since by talking to two clever people who have had much to do with teaching, and they both say it is the very thing they want.
-
+It does not seem after my last letter that this is the moment to write to you about a fresh plan, but this is a matter that [Miss Sewell](/person/1301) and I talked over together last winter, and which has been waiting since for her to have time to give her mind to it. I send her letter to speak for itself. You know she has for many years taken girl pupils to whom she has given a first rate education, and this is the view she has arrived at about the reading. She and I would select passages, give a short notice uniting them, and get up the book altogether - and we agreed that when she was ready she should put forth her ideas, and we should ask you what you thought of the matter. I have felt my way since by talking to two clever people who have had much to do with teaching, and they both say it is the very thing they want.
 Thanks for the £25, for which I enclose the receipt
 
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: The proposed project resulted in the publication of [Historical Selections](/book/71) (1868) and its successor volume of 1870. CMY\'s previous letter had postponed work on Macmillan\'s idea for a scripture history provisionally entitled \'[Bethlehem](/topic/177)\'.

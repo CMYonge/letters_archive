@@ -1,7 +1,7 @@
 ---
 id: 2246
 title: To Alexander Macmillan
-date: '1868-05-29'
+iso-date: '1868-05-29'
 display-date: May 29th [1868]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,14 +10,9 @@ manuscript-location: 'MS British Library Add MSS 54920: 199-200'
 ---
 
 My dear [Mr Macmillan](/person/939),
-[Miss Sewell](/person/1301) is in want of a volume of Milmans Latin Christianity which the [London Library](/organisation/29) does not send.
-
-She will write to you which it is and perhaps you could kindly cause it to be sent to her. I cant think what [Clay](/organisation/173) meant by our delaying the [proofs](/book/71) for we had never done so.
+[Miss Sewell](/person/1301) is in want of a volume of Milmans Latin Christianity which the [London Library](/organisation/29) does not send. She will write to you which it is and perhaps you could kindly cause it to be sent to her. I cant think what [Clay](/organisation/173) meant by our delaying the [proofs](/book/71) for we had never done so.
 I have never had any of [Heartsease](/book/19) to put the headings to the pages.[^2]
 
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: This issue, and the reference to Clay’s complaint, must have been raised by Macmillan in letters either missing from the archive, or indecipherable because of bad wet-press copying.

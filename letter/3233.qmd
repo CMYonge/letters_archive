@@ -1,7 +1,7 @@
 ---
 id: 3233
 title: To an Unknown Man
-date: '1893-09-01'
+iso-date: '1893-09-01'
 display-date: Sept 22d 1893
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester

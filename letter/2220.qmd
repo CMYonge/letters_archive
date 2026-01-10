@@ -1,7 +1,7 @@
 ---
 id: 2220
 title: To Ellen Julia Johns
-date: '1867-11-30'
+iso-date: '1867-11-30'
 display-date: Novr 30th [1867?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.

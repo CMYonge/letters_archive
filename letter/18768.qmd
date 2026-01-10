@@ -1,7 +1,7 @@
 ---
 id: 18768
 title: To an Unknown Woman
-date: '1878-01-05'
+iso-date: '1878-01-05'
 display-date: Jany 5th [1878]
 from-name: Charlotte Mary Yonge
 to-name: To an Unknown Woman
@@ -9,27 +9,11 @@ manuscript-location: MS Special Collections, University of Virginia Library
 ---
 
 Madam
-Your Magician is very amusing, and shall be inserted when there is room, which is I fear the scarcest commodity in the [Monthly Packet](/periodical/52).
-
-It is a capital story and I am only puzzled by the names not being given to the police and so explaining things[^1]
+Your Magician is very amusing, and shall be inserted when there is room, which is I fear the scarcest commodity in the [Monthly Packet](/periodical/52). It is a capital story and I am only puzzled by the names not being given to the police and so explaining things[^1]
 
 yours sincerely
 
 C M Yonge
 
 
-[^1]: The story, \'In the Fog, or, The Magician Hunt\' MP (Christmas 1878), is about a clergyman\'s daughter who is accused of being a pickpocket; the police do not know her because she new to the locality, a detail which may have been changed.
-
-It is described as being by \'the author of \"Marling Hall\" and \"William Hooper\".\' The former story appeared in London Society in 1866, the latter has not been traced.
-
-Another letter from CMY, evidently to the same person, also on MP writing paper, dated 10 September, was advertised for sale by David J.
-
-Holmes Autographs in November 2000.
-
-The extract quoted ran \'The Last of the Heryngs[?] is very amusing, but I am afraid it is a little entrely made to fit its own purpose - which it does admirably for general publication.
-
-St.
-
-Cadoc\'s Well is I hope soon to be printed among the [Victoria Stories](/book/211) and will bring you 5 pounds. I was in hopes that the Magician Hunt would have shared the same fate, but . .
-
-Messrs. [Warne](/person/1433), saying that as the tales were all to be of a moral tendency the name would not suit, and so they substituted another story!\'
+[^1]: The story, \'In the Fog, or, The Magician Hunt\' MP (Christmas 1878), is about a clergyman\'s daughter who is accused of being a pickpocket; the police do not know her because she new to the locality, a detail which may have been changed. It is described as being by \'the author of \"Marling Hall\" and \"William Hooper\".\' The former story appeared in London Society in 1866, the latter has not been traced. Another letter from CMY, evidently to the same person, also on MP writing paper, dated 10 September, was advertised for sale by David J. Holmes Autographs in November 2000. The extract quoted ran \'The Last of the Heryngs[?] is very amusing, but I am afraid it is a little entrely made to fit its own purpose - which it does admirably for general publication. St. Cadoc\'s Well is I hope soon to be printed among the [Victoria Stories](/book/211) and will bring you 5 pounds. I was in hopes that the Magician Hunt would have shared the same fate, but . . Messrs. [Warne](/person/1433), saying that as the tales were all to be of a moral tendency the name would not suit, and so they substituted another story!\'

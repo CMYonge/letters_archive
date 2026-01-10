@@ -1,7 +1,7 @@
 ---
 id: 1823
 title: To Ann Maria Carter Smith
-date: '1861-03-14'
+iso-date: '1861-03-14'
 display-date: March 14th 1861
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester
@@ -10,14 +10,8 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1861/5
 ---
 
 My dear [Miss Smith](/person/263)
-I am sure it is due that you should have the reading of this letter and the administration of the £10 as you must know much better how to reach the destitute families than I do, and [the donor](/person/482) will I am sure be well pleased to hear it is in the hands of [Frances Dysart](/organisation/265)’s author.[^1] If you will be so kind as to undertake it, I will write to her by the next mail, and tell her to send me the money.
-
-And will you send me such particulars as would answer the question whether £10 would provide one or two families - things are at such different prices here that I have no idea.
-
-Is it not a pleasant fruit of Frances’s example
-Many thanks for the information about the Clothing Society. I have since got a full and explicit account from [Mrs Laurie](/person/847), the lady of Life in the Factories, which will I think answer all that the lady need enquire with the help of a few notes from the letter of a country clergyman’s daughter.
-
-The Clothing Society is an excellent notion. I thought the proofs of On the Banks of the Thorne would have come by this time but they are late this month
+I am sure it is due that you should have the reading of this letter and the administration of the £10 as you must know much better how to reach the destitute families than I do, and [the donor](/person/482) will I am sure be well pleased to hear it is in the hands of [Frances Dysart](/organisation/265)’s author.[^1] If you will be so kind as to undertake it, I will write to her by the next mail, and tell her to send me the money. And will you send me such particulars as would answer the question whether £10 would provide one or two families - things are at such different prices here that I have no idea. Is it not a pleasant fruit of Frances’s example
+Many thanks for the information about the Clothing Society. I have since got a full and explicit account from [Mrs Laurie](/person/847), the lady of Life in the Factories, which will I think answer all that the lady need enquire with the help of a few notes from the letter of a country clergyman’s daughter. The Clothing Society is an excellent notion. I thought the proofs of On the Banks of the Thorne would have come by this time but they are late this month
 
 yours sincerely
 

@@ -1,15 +1,15 @@
 ---
 id: 2701
 title: To the Reverend William Parsons Warburton
-date: '1881-02-24'
-display-date: Feb 24th [?1881[[footnote:1]]]
+iso-date: '1881-02-24'
+display-date: Feb 24th [?1881]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
 to-name: To the Reverend William Parsons Warburton
 manuscript-location: MS Girton College Cambridge, Yonge VIII 1
 ---
 
-My dear [Mr Warburton ](/person/1466)
+My dear [Mr Warburton](/person/1466)
 I am glad you are coming to us, and hope you will come to luncheon. I trust we shall have all things in right order but to have so active and efficient a head suddenly laid aside is somewhat paralysing. I trust however that the corner will have been turned some days before Thursday.
 I am afraid there are no daffodils and only scant primroses to attract your daughters
 
@@ -17,14 +17,3 @@ Yours sincerely
 
 C M Yonge
 [Mr Elgie](/person/478) is rather worse than better today and I fear there is not much chance of a change before Sunday
-
-
-[^1]: The letter probably dates from 1881, when the Rev.
-
-Walter Elgie was dying.
-
-In fact he died on 25 February 1881.
-
-Warburton was the diocesan school inspector, and was coming to look at [Otterbourne School](/organisation/107).
-
-From her next letter to him it sounds as if the inspection had been scheduled for Thursday 3 March.

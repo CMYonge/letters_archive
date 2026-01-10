@@ -1,7 +1,7 @@
 ---
 id: 2719
 title: To Catharine Elgie
-date: '1881-02-25'
+iso-date: '1881-02-25'
 display-date: '[25 February 1881]'
 from-name: Charlotte Mary Yonge
 to-name: To Catharine Elgie
@@ -9,7 +9,7 @@ manuscript-location: MS Charlotte Mary Yonge Society/4
 ---
 
 My dear [Mrs Elgie](/person/475)
-This is only to tell you that I am thinking about you and [Blanche](/person/1480) and all.[^1] I would come to see you, but I think you had better not see a fresh person, and besides [Annie Moberly ](/person/1024)comes to me tomorrow May God bear you all through it
+This is only to tell you that I am thinking about you and [Blanche](/person/1480) and all.[^1] I would come to see you, but I think you had better not see a fresh person, and besides [Annie Moberly](/person/1024)comes to me tomorrow May God bear you all through it
 
 Ever yours affectionately
 

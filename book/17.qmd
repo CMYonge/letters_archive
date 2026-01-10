@@ -2,8 +2,8 @@
 id: 17
 title: Herb of the Field, The By the author of “The Kings of England”, “Langley School”,
   “Scenes and Characters”, etc..
-author: Charlotte Mary Yonge
-date: '1853'
+author-name: Charlotte Mary Yonge
+publication-date: '1853'
 genre: 'Non-fiction: natural history'
 publication-format: Book
 publisher: John and Charles Mozley, 6, Paternoster Row, London.

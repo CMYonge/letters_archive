@@ -1,7 +1,7 @@
 ---
 id: 2653
 title: To an Unknown Woman
-date: '1878-11-29'
+iso-date: '1878-11-29'
 display-date: Novr 29 1878
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,9 +10,7 @@ manuscript-location: MS Charlotte Mitchell/7
 ---
 
 Dear Madam
-I wish I could promise a ready admittance to My English Servant into the [Monthly Packet](/periodical/52), but I am afraid that sending it to me would only involve an almost endless waiting.
-
-Some stories I have had by me for two years, and I think yours deserves a better fate, I wish the [SPCK](/organisation/40) would take it, I can’t understand their principles, for I am sure there are two or three stories in their last set of no use to anybody!
+I wish I could promise a ready admittance to My English Servant into the [Monthly Packet](/periodical/52), but I am afraid that sending it to me would only involve an almost endless waiting. Some stories I have had by me for two years, and I think yours deserves a better fate, I wish the [SPCK](/organisation/40) would take it, I can’t understand their principles, for I am sure there are two or three stories in their last set of no use to anybody!
 
 yours truly
 

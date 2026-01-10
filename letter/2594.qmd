@@ -1,7 +1,7 @@
 ---
 id: 2594
 title: To Alexander Macmillan
-date: '1877-08-15'
+iso-date: '1877-08-15'
 display-date: Aug 15th 1877
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -18,8 +18,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: CMY was simultaneously working on two books for Macmillan called History of France, one in the Historical Primers series edited by J. R.
-
-Green, and [another](/book/99) in the Historical Course for Schools series edited by E. A.
-
-Freeman, who was extremely critical of her work and demanded extensive revisions.
+[^1]: CMY was simultaneously working on two books for Macmillan called History of France, one in the Historical Primers series edited by J. R. Green, and [another](/book/99) in the Historical Course for Schools series edited by E. A. Freeman, who was extremely critical of her work and demanded extensive revisions.

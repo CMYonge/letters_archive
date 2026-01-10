@@ -1,7 +1,7 @@
 ---
 id: 2129
 title: To Alexander Macmillan
-date: '1866-07-11'
+iso-date: '1866-07-11'
 display-date: July 11th [1866]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -12,12 +12,7 @@ manuscript-location: 'British Library Add MSS 54920: 160-161'
 Dear [Mr Macmillan](/person/939),
 I like the name of the [Book of Worthies](/book/80). I think I might begin with mentioning the old Nine Worthies, and then say that here we set forth whatever multiple of nine it may be possible to produce.
 I believe that 'nine-worthiness' is a word, which perhaps may sanction it! though I am afraid it is only one of the [Carlyle](/person/1972)’s words.
-
-Worthy is a vague word, which is convenient.
-
-How would 'Good men and true of all times and all lands' do for the second and explanatory title, and answering to the motto we had for the [Golden Deeds](/book/51) 'Be strong and of a good courage'. I mean to make Joshua the type of the perfect Worthy.
-
-His patience during the 40 days waiting outside the Cloud on Mount Sinai, when all the rest were so restless as to make the Golden Calf seems to me to supply the grand still obedience which goes to make up the perfect heroic nature. I have not yet actually begun but I have been looking out the Aristides in Plutarch which is one step to it
+Worthy is a vague word, which is convenient. How would 'Good men and true of all times and all lands' do for the second and explanatory title, and answering to the motto we had for the [Golden Deeds](/book/51) 'Be strong and of a good courage'. I mean to make Joshua the type of the perfect Worthy. His patience during the 40 days waiting outside the Cloud on Mount Sinai, when all the rest were so restless as to make the Golden Calf seems to me to supply the grand still obedience which goes to make up the perfect heroic nature. I have not yet actually begun but I have been looking out the Aristides in Plutarch which is one step to it
 
 Yours sincerely
 

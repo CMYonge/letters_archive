@@ -1,7 +1,7 @@
 ---
 id: 2756
 title: To Elizabeth Wordsworth
-date: '1882-08-25'
+iso-date: '1882-08-25'
 display-date: 25th August [1882]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,19 +11,14 @@ manuscript-location: MS Lady Margaret Hall, Oxford. Printed in part by Wordswort
 ---
 
 My dear [Elizabeth](/person/1566)
-I have often meant to write and say how much your Buxton book helped me in the descriptions of the place, though I had to construct it a good deal from my own consciousness- Queen Elizabeth’s looking down the assassin is perfectly true - I should have not have dared to write– if I could have imagined– anything so improbable as poor Babington having that picture taken, and Gifford’s shewing it to the Queen, who recognized Barnwell from it.
-
-Never should I have supposed that she walked about so entirely unguarded, but all that is perfectly historical. I never could make out how big the picture was- One person said he was taken into a barber’s shop to see it, but since it was shewn to the Queen I think it must have been a miniature, and I preferred Pauls’ walk to the barber’s shop.[^1]
+I have often meant to write and say how much your Buxton book helped me in the descriptions of the place, though I had to construct it a good deal from my own consciousness- Queen Elizabeth’s looking down the assassin is perfectly true - I should have not have dared to write– if I could have imagined– anything so improbable as poor Babington having that picture taken, and Gifford’s shewing it to the Queen, who recognized Barnwell from it. Never should I have supposed that she walked about so entirely unguarded, but all that is perfectly historical. I never could make out how big the picture was- One person said he was taken into a barber’s shop to see it, but since it was shewn to the Queen I think it must have been a miniature, and I preferred Pauls’ walk to the barber’s shop.[^1]
 I think those horrid cancans must have suggested all the classical notions of the infernal regions.
-
-There is a big and useful book by some man at Sheffield about the captivity of the Queen which I luckily got hold of, and which helped me through the rest. I never saw any one keep youthful brightness like my dear old [Julia Argles](/person/57), I am glad you have been seeing her, but I suppose you have to part with [Edith](/person/56).[^2] I have had [Miss Sewell ](/person/1301)here very anxious about promoting secondary schools for girls. [^3] Boys do seem well attended to, but Girls not.
+There is a big and useful book by some man at Sheffield about the captivity of the Queen which I luckily got hold of, and which helped me through the rest. I never saw any one keep youthful brightness like my dear old [Julia Argles](/person/57), I am glad you have been seeing her, but I suppose you have to part with [Edith](/person/56).[^2] I have had [Miss Sewell](/person/1301)here very anxious about promoting secondary schools for girls. [^3] Boys do seem well attended to, but Girls not.
 
 Yours affectionately
 
 C M Yonge
 
 
-[^1]: CMY refers to her novel [Unknown to History](/book/157) (1882).
-
-She had asked Wordsworth\'s help with making plausible her description of the visit to Buxton by Mary, Queen of Scots.
+[^1]: CMY refers to her novel [Unknown to History](/book/157) (1882). She had asked Wordsworth\'s help with making plausible her description of the visit to Buxton by Mary, Queen of Scots.
 [^2]: Elizabeth Missing Sewell had stayed the night of the 14 August.

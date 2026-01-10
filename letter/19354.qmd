@@ -1,7 +1,7 @@
 ---
 id: 19354
 title: To Frances Mary Peard
-date: '1865-01-01'
+iso-date: '1865-01-01'
 display-date: '[?1865]'
 from-name: Charlotte Mary Yonge
 to-name: To Frances Mary Peard
@@ -12,8 +12,4 @@ manuscript-location: This fragment printed in Mary J. Harris, 1903. [[otherbook:
 [To [Frances Mary Peard](/person/1160)].. . . .  to add to the casualties of croquet[^1] a boy had the most terrible blow on his (head ?) the other day from the swinging round of a mallet, and had an artery cut open so as to be very seriously in danger for a day or two.
 
 
-[^1]: Croquet is believed to have been introduced into England in 1856.
-
-It was played by adults and children of both sexes on the lawns of private houses.
-
-It figures in the plot of Yonge\'s [The Clever Woman of the Family](/book/58), and may have provoked comments from FMP to which this is a response.
+[^1]: Croquet is believed to have been introduced into England in 1856. It was played by adults and children of both sexes on the lawns of private houses. It figures in the plot of Yonge\'s [The Clever Woman of the Family](/book/58), and may have provoked comments from FMP to which this is a response.

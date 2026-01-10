@@ -1,7 +1,7 @@
 ---
 id: 2997
 title: To Elizabeth Roberts
-date: '1852-08-09'
+iso-date: '1852-08-09'
 display-date: Aug 9th [1852]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
@@ -10,20 +10,13 @@ manuscript-location: 'MS Huntington Library: Yonge Letters'
 ---
 
 My dear [Madam](/person/1243),
-Thank you very much for your interesting account of your expedition, I am sure you must have enjoyed it very much, and brought home a great many recollections which after all are the best part of pleasure, they last so much longer than it does.
-
-We have just wished [Mr](/person/798) and [Mrs Keble](/person/795) good bye before their departure for their summer holiday to the Isle of Man to study some of Bishop Wilson’s papers,[^1] it is very good for him to be from home a little while as for almost the first time in his life, he has been unwell during the hot part of the summer and till last Sunday was not allowed to do any duty.
-
-You had better if you please send your addition to the September [garland](/topic/225) straight to Derby, with a note to say it is to be added, I shall be at Salisbury for a few days next week so that it might make too much delay if it were directed to me here. I agree with you in much preferring St Margaret of Antioch and her legend, and for a drawing the poppy bud certainly is the best, but the real flower is not an agreeable one to handle as the daisy is, and it suggests the idea of sleep rather than the bright purity of the daisy.
-
-You spoke of going to Chatsworth in your last letter, there are few places I should like better to see, I think you must have laid up some ideas among those beautiful conservatories, and I hope you met with my friend the Dove Orchis.
+Thank you very much for your interesting account of your expedition, I am sure you must have enjoyed it very much, and brought home a great many recollections which after all are the best part of pleasure, they last so much longer than it does. We have just wished [Mr](/person/798) and [Mrs Keble](/person/795) good bye before their departure for their summer holiday to the Isle of Man to study some of Bishop Wilson’s papers,[^1] it is very good for him to be from home a little while as for almost the first time in his life, he has been unwell during the hot part of the summer and till last Sunday was not allowed to do any duty.
+You had better if you please send your addition to the September [garland](/topic/225) straight to Derby, with a note to say it is to be added, I shall be at Salisbury for a few days next week so that it might make too much delay if it were directed to me here. I agree with you in much preferring St Margaret of Antioch and her legend, and for a drawing the poppy bud certainly is the best, but the real flower is not an agreeable one to handle as the daisy is, and it suggests the idea of sleep rather than the bright purity of the daisy. You spoke of going to Chatsworth in your last letter, there are few places I should like better to see, I think you must have laid up some ideas among those beautiful conservatories, and I hope you met with my friend the Dove Orchis.
 
 Yours sincerely
 
 C M Yonge
-Your paper is just come, thank you for it, and for the pretty custom you mention.
-
-Is there not something like it in one of the [Parents’ Assistant](/organisation/233)s Miss Edgeworth’s, only there it was a mother’s grave, decked with white paper, I suppose the custom has lived among Irish Roman Catholics also by her mentioning it
+Your paper is just come, thank you for it, and for the pretty custom you mention. Is there not something like it in one of the [Parents’ Assistant](/organisation/233)s Miss Edgeworth’s, only there it was a mother’s grave, decked with white paper, I suppose the custom has lived among Irish Roman Catholics also by her mentioning it
 
 
 [^1]: Keble was working on [The Life of the Right Reverend Father in God, Thomas Wilson, Lord Bishop of Sodor and Man](/periodical/96) 2 vols (Oxford, Parker 1893).

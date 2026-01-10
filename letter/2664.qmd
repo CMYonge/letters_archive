@@ -1,7 +1,7 @@
 ---
 id: 2664
 title: To George Lillie Craik
-date: '1879-03-08'
+iso-date: '1879-03-08'
 display-date: March 8th 1879
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,13 +10,9 @@ manuscript-location: 'MS British Library Add MSS 54921: 84-85'
 ---
 
 Dear [Mr Craik](/person/379)
-I enclose the receipts and agreement with many thanks. I hope the [Primer](/book/353) is doing well.
-
-One Blunder ought to be set right. I can’t help thinking it must have been a misprint. I knew it so well - ie that the Karling line had not died out - but been set aside.
+I enclose the receipts and agreement with many thanks. I hope the [Primer](/book/353) is doing well. One Blunder ought to be set right. I can’t help thinking it must have been a misprint. I knew it so well - ie that the Karling line had not died out - but been set aside.
 I have done a good many correction to the [Christians & Moors](/book/126) and will finish them up when wanted.
-
 As a matter of curiosity, what has [Mr Freeman](/person/523) done with [France](/book/99)? I have kept all my old proofs for comparison when the book comes out.
-
 Yours very truly
 
 C M Yonge

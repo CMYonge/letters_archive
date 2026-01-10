@@ -1,7 +1,7 @@
 ---
 id: 1885
 title: From the Right Reverend John Coleridge Patteson to Charlotte Mary Yonge
-date: '1863-02-28'
+iso-date: '1863-02-28'
 display-date: Feb. 28, 1863.
 from-name: Charlotte Mary Yonge
 from-address: St. Andrew’s
@@ -11,39 +11,14 @@ manuscript-location: MS location unknown. Printed in Yonge, <i>[[cmybook:102]Lif
 ---
 
 My dear Cousin,
-The ‘Southern Cross’[^1] arrived safely this morning.
-
-Thanks to God!
-
-What it is to us even you can hardly tell; I know not how to pour out my thankfulness.
-
-She seems admirably adapted for the work. [Mr.
-
-Tilly](/person/1410)’s report of her performance is most satisfactory: safe, fast, steers well, and very manageable.
-
-Internal arrangements very good; after cabin too luxurious, but then that may be wanted for sick folk, and as it is luxurious, why I shall get a soft bed, and take to it very kindly.
-
-Pray let dear [Mr.
-
-Keble](/person/798) and [Dr.
-
-Moberly](/person/1015) know at once how very happy and thankful I am for this blessing. I know all you good friends at home will try to picture to yourselves my delight as I jumped on board!
-
-The boys are, of course, wild with excitement.
-
-It is blowing very hard.
-
-Last night (when we were thinking of them) it was an anxious night for them close on the coast.
+The ‘Southern Cross’[^1] arrived safely this morning. Thanks to God!
+What it is to us even you can hardly tell; I know not how to pour out my thankfulness. She seems admirably adapted for the work. [Mr. Tilly](/person/1410)’s report of her performance is most satisfactory: safe, fast, steers well, and very manageable. Internal arrangements very good; after cabin too luxurious, but then that may be wanted for sick folk, and as it is luxurious, why I shall get a soft bed, and take to it very kindly.
+Pray let dear [Mr. Keble](/person/798) and [Dr. Moberly](/person/1015) know at once how very happy and thankful I am for this blessing. I know all you good friends at home will try to picture to yourselves my delight as I jumped on board!
+The boys are, of course, wild with excitement. It is blowing very hard. Last night (when we were thinking of them) it was an anxious night for them close on the coast.
 I have no time to write more, I thought of Lady --- as I looked at the chronometers and instruments, and of you all as I looked at the beautiful vessel slipping along through the water with scarce a stitch of canvas. I pray that she may be spared many years to the Mission, and that we may have grace to use her, as she ought to be used, to His glory.
-
 Your affectionate Cousin,
 J. C. PATTESON, Bishop.
-
-You know that you are daily remembered in our prayers.
-
-God bless you.
+You know that you are daily remembered in our prayers. God bless you.
 
 
-[^1]: The [Melanesian Mission](/organisation/30)’s own specially commissioned ship, paid for in part by CMY’s earnings from her novels.
-
-Before it arrived the missionaries visiting the islands and the scholars coming to St Andrew’s College in New Zealand had to rely on commercial vessels.
+[^1]: The [Melanesian Mission](/organisation/30)’s own specially commissioned ship, paid for in part by CMY’s earnings from her novels. Before it arrived the missionaries visiting the islands and the scholars coming to St Andrew’s College in New Zealand had to rely on commercial vessels.

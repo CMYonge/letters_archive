@@ -1,8 +1,8 @@
 ---
 id: 3534
 title: To an Unknown Woman
-date: '1881-10-19'
-display-date: Oct 19th [before 1881][[footnote:1]]
+iso-date: '1881-10-19'
+display-date: Oct 19th [before 1881]
 from-name: Charlotte Mary Yonge
 from-address: “Monthly Packet” 6, Paternoster Row, London, E.C.
 to-name: To an Unknown Woman

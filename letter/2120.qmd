@@ -1,7 +1,7 @@
 ---
 id: 2120
 title: From the Right Reverend John Coleridge Patteson to Charlotte Mary Yonge
-date: '1866-04-24'
+iso-date: '1866-04-24'
 display-date: April 24, 1866.
 from-name: Charlotte Mary Yonge
 from-address: '[[other:139]St. Andrew’s]'
@@ -12,57 +12,12 @@ manuscript-location: MS location unknown. Printed in Yonge, <i>[[cmybook:102]Lif
 
 My dear Cousin,
 [I](/person/1155) write a line at once in reply to a letter of January 29, for I see that a great sorrow is hanging over you, is perhaps already fallen on you, and I would fain say my word of sympathy, possibly of comfort.[^1]
-One, perhaps, of the great blessings that a person in my position enjoys is that he must perforce see through the present gloom occasioned by loss of present companionship on to the joy beyond. I hear of the death of dear Uncle, and friends, and even of that loving and holy [Father](/person/1156) of mine, and somehow it seems all peace, and calmness, and joy.
-
-It would not be so were I in England, to actually experience the sense of loss, to see the vacant seat, and miss the well-known voice; but it is (as I see) a great and most blessed alleviation to the loss of their society here below.
-
-You feel that when those loving hearts at Hursley can no longer be a stay and comfort to you here, you will have a sense almost of desolation pressing on you.
-
-You must, we all have, many trials and some sorrows, and I suppose Hursley has always been to you a city of refuge and house of rest.
-
-But I think the anticipation is harder than the reality.
-
-For [him](/person/798), but how can I speak of such as he is?
-
-Why should we feel anxiety?
-
-Surely he is just the man upon whom we should expect some special suffering, which is but some special mark of love and (may we not say in such a case?) of approbation.
-
-Some special aid to a very close conformity to the mind and character of Christ, to be sent in special love and mercy.
-I always seem to think that in the case of good men the suffering is the sure earnest of special nearness to God.
-
-It surely--if one may dare so to speak, and the case of Job warrants it, and the great passage ‘Simon, Simon, Satan hath desired to have you’ (all)--is true that God is glorified in the endurance of sufferings which He lays upon the saints.
-
-And if dear Mr.
-
-Keble must suffer this last blow, as all through his life he has felt the care of the Churches pressing sorely on him, and has even had to comfort the weary, and guide the wayward, and to endure disappointment, and to restrain the over zealotis, and reprove the thoughtless, and bear in his bosom the infirmities of many people--why must we be unhappy about him, and why mourn for ourselves?
-
-God forbid!
-
-It is only one mark of the cross stamped upon him, only one more draught of the cup of the lacking measures of the afflictions of Christ.
-
-But you must, more than I, know and feel all this; and it is only in attempting to put before your eyes your own thoughts, that I have written this.
-
-For, indeed, I do sympathise with you, and I think how to me, who knew him so little yet yield to no one in deep reverence and love for him, his departure would be almost what the passing away of one of those who had seen the Lord must have been to those of old time; yet our time is not so very long now, and may be short, and we have had this blessed example for a long time, and there is on all accounts far more cause for joy than for sorrow.
-
-You must not think me unkind to [Miss Mackenzie](/person/930), because I have written to [Fan](/person/1151) to say that my letters and anecdotes are not to be fishes to swim in her ‘[Net.](/periodical/94)’ It may be unwise in me to write all that kind of thing, but it does such an infinity of harm by its reflex action upon us who are engaged in this work.
-
-And I can’t write brotherly letters, if they are to be treated as public property. I could not trust my own brother to make extracts from my letters.
-
-No one in England can be a judge of the mischief that the letters occasion printed contrary to my wish by friends.
-
-We in the [Mission](/organisation/30) think them so infinitely absurd, one-sided, exaggerated, &c., though we don’t mean to make them so when we write them.
-
-We are all well, thank God, except a good fellow called [Walter Hotaswol](/person/1970), from Matlavo (Saddle Island), who is in a decline.
-
-He has had two bad hemorrhages; but he is patient, simple-minded, quite content to die, and not doubting at all his Father’s love, and his Saviour’s merits, so I cannot grieve for him, though he was the one, humanly speaking, to have led the way in his home.
-
-You know that I sympathise with all your anxieties about Church matters.
-
-Parliamentary legislation would be the greatest evil of all.
-
-All your troubles only show that synodical action, and I believe with the laity in the Synod, is the only cure for these troubles.
-
+One, perhaps, of the great blessings that a person in my position enjoys is that he must perforce see through the present gloom occasioned by loss of present companionship on to the joy beyond. I hear of the death of dear Uncle, and friends, and even of that loving and holy [Father](/person/1156) of mine, and somehow it seems all peace, and calmness, and joy. It would not be so were I in England, to actually experience the sense of loss, to see the vacant seat, and miss the well-known voice; but it is (as I see) a great and most blessed alleviation to the loss of their society here below. You feel that when those loving hearts at Hursley can no longer be a stay and comfort to you here, you will have a sense almost of desolation pressing on you. You must, we all have, many trials and some sorrows, and I suppose Hursley has always been to you a city of refuge and house of rest.
+But I think the anticipation is harder than the reality. For [him](/person/798), but how can I speak of such as he is? Why should we feel anxiety? Surely he is just the man upon whom we should expect some special suffering, which is but some special mark of love and (may we not say in such a case?) of approbation. Some special aid to a very close conformity to the mind and character of Christ, to be sent in special love and mercy.
+I always seem to think that in the case of good men the suffering is the sure earnest of special nearness to God. It surely--if one may dare so to speak, and the case of Job warrants it, and the great passage ‘Simon, Simon, Satan hath desired to have you’ (all)--is true that God is glorified in the endurance of sufferings which He lays upon the saints. And if dear Mr. Keble must suffer this last blow, as all through his life he has felt the care of the Churches pressing sorely on him, and has even had to comfort the weary, and guide the wayward, and to endure disappointment, and to restrain the over zealotis, and reprove the thoughtless, and bear in his bosom the infirmities of many people--why must we be unhappy about him, and why mourn for ourselves? God forbid! It is only one mark of the cross stamped upon him, only one more draught of the cup of the lacking measures of the afflictions of Christ. But you must, more than I, know and feel all this; and it is only in attempting to put before your eyes your own thoughts, that I have written this. For, indeed, I do sympathise with you, and I think how to me, who knew him so little yet yield to no one in deep reverence and love for him, his departure would be almost what the passing away of one of those who had seen the Lord must have been to those of old time; yet our time is not so very long now, and may be short, and we have had this blessed example for a long time, and there is on all accounts far more cause for joy than for sorrow.
+You must not think me unkind to [Miss Mackenzie](/person/930), because I have written to [Fan](/person/1151) to say that my letters and anecdotes are not to be fishes to swim in her ‘[Net.](/periodical/94)’ It may be unwise in me to write all that kind of thing, but it does such an infinity of harm by its reflex action upon us who are engaged in this work. And I can’t write brotherly letters, if they are to be treated as public property. I could not trust my own brother to make extracts from my letters. No one in England can be a judge of the mischief that the letters occasion printed contrary to my wish by friends. We in the [Mission](/organisation/30) think them so infinitely absurd, one-sided, exaggerated, &c., though we don’t mean to make them so when we write them.
+We are all well, thank God, except a good fellow called [Walter Hotaswol](/person/1970), from Matlavo (Saddle Island), who is in a decline. He has had two bad hemorrhages; but he is patient, simple-minded, quite content to die, and not doubting at all his Father’s love, and his Saviour’s merits, so I cannot grieve for him, though he was the one, humanly speaking, to have led the way in his home.
+You know that I sympathise with all your anxieties about Church matters. Parliamentary legislation would be the greatest evil of all. All your troubles only show that synodical action, and I believe with the laity in the Synod, is the only cure for these troubles.
 God bless you, my dear Cousin,
 Your affectionate Cousin,
 J. C. PATTESON.

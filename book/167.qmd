@@ -2,8 +2,8 @@
 id: 167
 title: Shakespeare’s Plays for Schools. Prepared and annotated for school use by Charlotte
   M. Yonge. 5 vols
-author: Charlotte Mary Yonge
-date: 1883-5
+author-name: Charlotte Mary Yonge
+publication-date: 1883-5
 genre: 'Non-fiction: edited drama'
 publication-format: Book, 5 vols
 publisher: 'London: National Society’s Depository, Broad Sanctuary, Westminster.'

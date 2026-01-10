@@ -1,12 +1,12 @@
 ---
 id: 2566
 title: To Emilie Thal Wigan
-date: '1876-11-18'
+iso-date: '1876-11-18'
 display-date: Novr 18th 1876
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester
 to-name: To Emilie Thal Wigan
-manuscript-location: MS Lambeth Palace Library  3996 f.105-6
+manuscript-location: MS Lambeth Palace Library 3996 f.105-6
 ---
 
 Dear [Madam](/person/1509)
@@ -17,9 +17,7 @@ She has a very fine voice, and her singing is excellent.
 
 She is a pleasant looking person, short and plump, but with no peculiarity about her, very clever and lively in conversation and when she came first, she was thought very excitable in manner but this was partly from her spirits having been much tried by family troubles in the course of the former year.
 
-She is a very good Churchwoman, and used to help in the Sunday School.
-
-She was friendly and obliging in every way, - and quite lady like in her ways and expressions. I am not sure whether her relations are more than large farmers in Cheshire, but she is a a very pleasant companion and more bright and conversible than I think is generally the case with governesses.
+She is a very good Churchwoman, and used to help in the Sunday School. She was friendly and obliging in every way, - and quite lady like in her ways and expressions. I am not sure whether her relations are more than large farmers in Cheshire, but she is a a very pleasant companion and more bright and conversible than I think is generally the case with governesses.
 
 I am afraid she is a little dressy, but a little influence would soon decide that question.
 
@@ -36,5 +34,4 @@ yours truly
 C M Yonge
 
 
-[^1]: Catalogued as to \'Mrs Alfred Wigan\'.
 [^2]: It is evident from this letter that Julian Yonge\'s financial crisis had led to the sacking of his family\'s governess, a Miss Douglas, who cannot be further identified with certainty.

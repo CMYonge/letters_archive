@@ -1,7 +1,7 @@
 ---
 id: 1981
 title: To Alexander Macmillan
-date: '1864-10-01'
+iso-date: '1864-10-01'
 display-date: Oct 3d 1864
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne,Winchester.
@@ -10,18 +10,8 @@ manuscript-location: 'MS British Library Add MSS 54920: 45-46'
 ---
 
 Dear [Mr Macmillan](/person/939),
-Will you kindly give me your advice on this letter?
-
-It is written to [friend](/person/873) of mine at Philadelphia who seeing my '[Clever Woman of the Family](/book/58)' was about to appear in parts in '[the Living Age](/periodical/171)' wrote to enquire about it.
-
-This is [Mr Littell](/person/883)’s answer.
-I should tell you that [Appleton](/organisation/142) gave me £25 for each of my larger books till the war, when he said he did not get profit enough to pay me anything, though he has [published](/topic/172) my books since, without any communication with me. I do not think therefore that I am at all bound to him.
-
-The Clever Woman is about half finished in [Hogg](/organisation/159)’s [Churchman’s Family Magazine](/periodical/63).
-
-She is to be completed in March, when I hope you will publish her for me, in the mean time would it be better to let Messrs Hogg send advance sheets to Messrs Littell, and try to make terms with them? I do not know what to ask. I am sure Appleton must have underpaid me, though he always declared that English authors were best off in trusting to the honor of Americans
+Will you kindly give me your advice on this letter? It is written to [friend](/person/873) of mine at Philadelphia who seeing my '[Clever Woman of the Family](/book/58)' was about to appear in parts in '[the Living Age](/periodical/171)' wrote to enquire about it. This is [Mr Littell](/person/883)’s answer.
+I should tell you that [Appleton](/organisation/142) gave me £25 for each of my larger books till the war, when he said he did not get profit enough to pay me anything, though he has [published](/topic/172) my books since, without any communication with me. I do not think therefore that I am at all bound to him. The Clever Woman is about half finished in [Hogg](/organisation/159)’s [Churchman’s Family Magazine](/periodical/63). She is to be completed in March, when I hope you will publish her for me, in the mean time would it be better to let Messrs Hogg send advance sheets to Messrs Littell, and try to make terms with them? I do not know what to ask. I am sure Appleton must have underpaid me, though he always declared that English authors were best off in trusting to the honor of Americans
 I am sending the [Golden Deeds](/book/51) proofs back to the printers
 Yours very truly
-C.M.
-
-Yonge
+C.M. Yonge

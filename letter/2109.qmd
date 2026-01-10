@@ -1,7 +1,7 @@
 ---
 id: 2109
 title: To Alexander Macmillan
-date: '1866-03-27'
+iso-date: '1866-03-27'
 display-date: March 27th 1866
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,17 +10,8 @@ manuscript-location: 'MS British Library Add MSS 54920: 150-151'
 ---
 
 Dear [Mr Macmillan](/person/939),
-I am in rather a fitter condition for thinking than I was in when I wrote my last note, being really under the necessity of getting the subject off my mind, as a bad attack of influenza set it haunting me.
-
-Now I am all right again only still obliged to do little, and to look forward to a holiday in Devonshire in May.
-
-Meantime I still feel strongly that I could not work satisfactorily except with what I must call a thorough High Church Editor. I know that cases of doubt would arise and that there would be a sort of harass that - to give no other reason, I should break down under. I think it was a mistake of mine to think of [Dean Alford](/person/23), though what led me to it was his work in the Five Clergyman’s translation, and I do not like all I have read of [Mr Plumptre](/person/1175)’s. I could work most satisfactorily with [Mr Ashwell](/person/68), or with Mr [H.W.
-
-Burrowes](/person/1969), the brother of the [Professor](/person/229), as far as doctrine goes, but if I have any superintendence at all or any share beyond a mere personal contribution it can only be with a head whose judgement I could trust in points of doctrine and theology.
-
-Perhaps you would write to Mr Ashwell about the history of the Church of the Apostles that he proposes.
-
-He knows Mr Burrowes I believe.
+I am in rather a fitter condition for thinking than I was in when I wrote my last note, being really under the necessity of getting the subject off my mind, as a bad attack of influenza set it haunting me. Now I am all right again only still obliged to do little, and to look forward to a holiday in Devonshire in May. Meantime I still feel strongly that I could not work satisfactorily except with what I must call a thorough High Church Editor. I know that cases of doubt would arise and that there would be a sort of harass that - to give no other reason, I should break down under. I think it was a mistake of mine to think of [Dean Alford](/person/23), though what led me to it was his work in the Five Clergyman’s translation, and I do not like all I have read of [Mr Plumptre](/person/1175)’s. I could work most satisfactorily with [Mr Ashwell](/person/68), or with Mr [H.W. Burrowes](/person/1969), the brother of the [Professor](/person/229), as far as doctrine goes, but if I have any superintendence at all or any share beyond a mere personal contribution it can only be with a head whose judgement I could trust in points of doctrine and theology.
+Perhaps you would write to Mr Ashwell about the history of the Church of the Apostles that he proposes. He knows Mr Burrowes I believe.
 I have had a German translation of the [Dove](/book/62) sent me, printed at Stuttgard.[^1]
 
 Yours sincerely
@@ -28,6 +19,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Die Taube im Adlerhorst Aus dem Englischen (Stuttgart: S. G.
-
-Liesching 1866).
+[^1]: Die Taube im Adlerhorst Aus dem Englischen (Stuttgart: S. G. Liesching 1866).

@@ -1,7 +1,7 @@
 ---
 id: 2073
 title: To Alexander Macmillan
-date: '1865-10-04'
+iso-date: '1865-10-04'
 display-date: Oct 4th 1865
 from-name: Charlotte Mary Yonge
 from-address: '[[other:181]Sorel] Torquay'
@@ -10,16 +10,9 @@ manuscript-location: 'MS British Library Add MSS 54920: 111-2'
 ---
 
 My dear [Mr Macmillan](/person/939)
-I enclose the [receipt](/topic/160) with many thanks.
-
-Your letter followed me hither this morning. I think we shall be in these parts about a fortnight longer - and shall then come to a place about a couple of hours of London - whence I hope to run up for a few hours to town, and I shall then be able to talk over matters with you. I fancy it will be somewhere about the 25th, but our doings are some what uncertain
+I enclose the [receipt](/topic/160) with many thanks. Your letter followed me hither this morning. I think we shall be in these parts about a fortnight longer - and shall then come to a place about a couple of hours of London - whence I hope to run up for a few hours to town, and I shall then be able to talk over matters with you. I fancy it will be somewhere about the 25th, but our doings are some what uncertain
 I hope you had weather as fine as ours. I have scarcely seen a drop of rain since we left home this day four weeks.
-
-Pray do not decide on the [Dove](/book/62)’s illustration without looking at the queer old contemporary books.
-
-Ulm from the Nuremberg Chronicle which I could easily get etched exactly in pen and ink would be explanatory, being that I constructed the topography in the story from it.
-
-How intensely interesting the history of [Eyre](/person/1960) the explorer is.[^1]
+Pray do not decide on the [Dove](/book/62)’s illustration without looking at the queer old contemporary books. Ulm from the Nuremberg Chronicle which I could easily get etched exactly in pen and ink would be explanatory, being that I constructed the topography in the story from it. How intensely interesting the history of [Eyre](/person/1960) the explorer is.[^1]
 
 Yours sincerely
 

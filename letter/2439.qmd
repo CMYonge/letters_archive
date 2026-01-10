@@ -1,7 +1,7 @@
 ---
 id: 2439
 title: To Charlotte Cordelia Yonge
-date: '1872-03-01'
+iso-date: '1872-03-01'
 display-date: March 23d 1872
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,64 +10,20 @@ manuscript-location: MS Plymouth and West Devon Area Record Office Ac 1092/36
 ---
 
 My dear [Charlotte](/person/1587)
-I had written one letter to you today when your other came by the second post and I just stopped it. I am writing to [Mrs Johns](/person/772) to desire her to put these Carters into communication with you. I believe the Bishop of Victoria is not much of a Churchman.[^1] On the whole I think governesses are much more inclined to height than depth in the present day. [Mrs Fairbairn](/person/2279) was asked by one if we observed the colours here – and the Elgies had one -recommended by some Sisters- who first treated us all as if we had never heard of the Church – and then got into terrible scrapes by slandering [Mrs Elgie](/person/475)’s temper to the children – and in the tailor’s shop. [^2] She was a passionate little thing, with no power of accuracy, and she treated the lady in the next family she got into just in the same way – only worse as there were more people at Ryde to gossip to than here!
-
-Besides not paying her debts – and yet she was always talking and writing about Church privileges.
-
-This is a pleasant foretaste for you of what a governess can be .
-
-The Elgies have a very nice person now whom I knew for many years before, as at one time she worked under [Miss Dyson](/person/464). [^3] She is very helpful in the parish – and is learning German with [Gertrude](/person/1462).
-
-She came to them for (I think) £35 and washing, though she would have asked £45, because she wanted ‘Church privileges’ and was rather attracted by its being within easy reach of Miss Dyson and close to me.
-
-She told me this morning that her mother & younger sister would be likely to like just this sort of thing but I have some doubt whether she thinks the sister has had experience enough The £100 is much certainly, but I fancy such a school as that would give a thorough education superior to what £40 people have.
-
-If this fails, I am told that [Miss Ensor](/person/2280) at Exmouth is devoted to the training of governesses, and that it would be well to write to her.
-
-So also is [Miss Selwyn](/person/2281), Sandwell, Birmingham, the [Bishop](/person/1295)’s sister.
-
-She allows none of her pupils to be taken for less than £60.
-
-How very sad this is about [George Harris](/person/625).[^4] Even if he gets better he can never work as he has done – and what a sorrow for them.
-I saw a letter today from[^5] [Mr Codrington](/person/312) about the Rosario’s visit to Norfolk Island[^6] Even if they did shell, it would have been only an empty village it was so in that former case when some dissenting missionary complained whereas now they have protested.
-
-Mr Codrington thinks the chief wanted to save the [Bishop](/person/1155), but that the party bent on revenge got the better It may have been he who so reverently treated the body.
-I am glad [Annie](/person/1556)’s children are better. [^7] We finished our course of lectures on magnetism by having a miniature torpedo fired off.
-
-It was much more like a peg top. I go to the palace at Salisbury on Easter Monday till Thursday
-I believe that unfortunate [William Spratt](/person/1362) (Joel)? is dying of consumption and bronchitis He is at his [mother](/person/1360)s and gets worse every day.
-
-His daughter [Emmeline](/person/1358) keeps infant school as monitor, and our trained mistress says ‘She has not the right method but she gets them on’[^8]
+I had written one letter to you today when your other came by the second post and I just stopped it. I am writing to [Mrs Johns](/person/772) to desire her to put these Carters into communication with you. I believe the Bishop of Victoria is not much of a Churchman.[^1] On the whole I think governesses are much more inclined to height than depth in the present day. [Mrs Fairbairn](/person/2279) was asked by one if we observed the colours here – and the Elgies had one -recommended by some Sisters- who first treated us all as if we had never heard of the Church – and then got into terrible scrapes by slandering [Mrs Elgie](/person/475)’s temper to the children – and in the tailor’s shop. [^2] She was a passionate little thing, with no power of accuracy, and she treated the lady in the next family she got into just in the same way – only worse as there were more people at Ryde to gossip to than here! Besides not paying her debts – and yet she was always talking and writing about Church privileges. This is a pleasant foretaste for you of what a governess can be . The Elgies have a very nice person now whom I knew for many years before, as at one time she worked under [Miss Dyson](/person/464). [^3] She is very helpful in the parish – and is learning German with [Gertrude](/person/1462). She came to them for (I think) £35 and washing, though she would have asked £45, because she wanted ‘Church privileges’ and was rather attracted by its being within easy reach of Miss Dyson and close to me. She told me this morning that her mother & younger sister would be likely to like just this sort of thing but I have some doubt whether she thinks the sister has had experience enough The £100 is much certainly, but I fancy such a school as that would give a thorough education superior to what £40 people have. If this fails, I am told that [Miss Ensor](/person/2280) at Exmouth is devoted to the training of governesses, and that it would be well to write to her. So also is [Miss Selwyn](/person/2281), Sandwell, Birmingham, the [Bishop](/person/1295)’s sister. She allows none of her pupils to be taken for less than £60. How very sad this is about [George Harris](/person/625).[^4] Even if he gets better he can never work as he has done – and what a sorrow for them.
+I saw a letter today from[^5] [Mr Codrington](/person/312) about the Rosario’s visit to Norfolk Island[^6] Even if they did shell, it would have been only an empty village it was so in that former case when some dissenting missionary complained whereas now they have protested. Mr Codrington thinks the chief wanted to save the [Bishop](/person/1155), but that the party bent on revenge got the better It may have been he who so reverently treated the body.
+I am glad [Annie](/person/1556)’s children are better. [^7] We finished our course of lectures on magnetism by having a miniature torpedo fired off. It was much more like a peg top. I go to the palace at Salisbury on Easter Monday till Thursday
+I believe that unfortunate [William Spratt](/person/1362) (Joel)? is dying of consumption and bronchitis He is at his [mother](/person/1360)s and gets worse every day. His daughter [Emmeline](/person/1358) keeps infant school as monitor, and our trained mistress says ‘She has not the right method but she gets them on’[^8]
 your affectionate cousin
 
 C M Yonge
 
 
-[^1]: The reference is probably to the Rt.
-
-Rev.
-
-Charles Richard Alford (1816-1898), Bishop of Victoria, Hong Kong (1867-72).
-
-It seems hardly likely that CMY could already have heard of the election of his successor the Rt.
-
-Rev.
-
-John Shaw Burdon (1826–1907).
+[^1]: The reference is probably to the Rt. Rev. Charles Richard Alford (1816-1898), Bishop of Victoria, Hong Kong (1867-72). It seems hardly likely that CMY could already have heard of the election of his successor the Rt. Rev. John Shaw Burdon (1826–1907).
 [^2]: The word \'abusing\' deleted.
-[^3]: [Laura Milner](/person/1002) (b.London 1839/40) was the Elgie\'s governess at the time of the 1871 census.
-
-However, the current governess may have been [Harriet Poole](/person/1187), who is probably the Miss Poole referred to as reading German with Gertrude later this year (To Mary Anne Dyson, 11 May 1872), and who possessed a mother and younger sister.
-[^4]: The Rev.
-
-George Harris was a clergyman in Torquay, and a cousin, his mother Jane (Yonge) Harris being a sister of the Rev.
-
-John Yonge of Puslinch.
+[^3]: [Laura Milner](/person/1002) (b.London 1839/40) was the Elgie\'s governess at the time of the 1871 census. However, the current governess may have been [Harriet Poole](/person/1187), who is probably the Miss Poole referred to as reading German with Gertrude later this year (To Mary Anne Dyson, 11 May 1872), and who possessed a mother and younger sister.
+[^4]: The Rev. George Harris was a clergyman in Torquay, and a cousin, his mother Jane (Yonge) Harris being a sister of the Rev. John Yonge of Puslinch.
 [^5]: From this word on the letter is taken from MS Ac 1092/38, which though on different paper seems to be the same letter.
-[^6]: The Rev.
-
-Robert Henry Codrington (1830-1922), Patteson’s successor as head of the Melanesian mission, author of a Mota dictionary.
-
-There was much debate about the propriety of retaliation for Bishop Patteson’s death.
+[^6]: The Rev. Robert Henry Codrington (1830-1922), Patteson’s successor as head of the Melanesian mission, author of a Mota dictionary. There was much debate about the propriety of retaliation for Bishop Patteson’s death.
 [^7]: Anne Catharina Pode (d.1913) married (1861) William John Woollcombe (1832-1913) and had ten children between 1862 and 1877; she was the eldest sister of Charlotte Cordelia (Pode) Yonge.
 [^8]: William Spratt (1819-26 March 1872) was a brother of CMY’s maid Harriet Spratt, and Emmeline (b.1857) was his daughter.

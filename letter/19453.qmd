@@ -1,7 +1,7 @@
 ---
 id: 19453
 title: To Arthur Duke Yonge [?]
-date: '1873-12-12'
+iso-date: '1873-12-12'
 display-date: Decr 12th [?1873]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield,
@@ -20,6 +20,4 @@ CM Yonge
 &nbsp;
 
 
-[^1]: It seems possible that this letter relates to the abridgement of the[ Life of John Coleridge Patteson](/book/102) and is addressed to [Arthur Duke Yonge](/person/1583) who was in correspondence with his brother,[ Frederick Duke Yonge](/person/1608), who lived in New Zealand.
-
-The letter is in the autograph album of Mary Millais, and Arthur Yonge was a professional painter.
+[^1]: It seems possible that this letter relates to the abridgement of the[Life of John Coleridge Patteson](/book/102) and is addressed to [Arthur Duke Yonge](/person/1583) who was in correspondence with his brother,[Frederick Duke Yonge](/person/1608), who lived in New Zealand. The letter is in the autograph album of Mary Millais, and Arthur Yonge was a professional painter.

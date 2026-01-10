@@ -1,7 +1,7 @@
 ---
 id: 2918
 title: James Augustus Henry Murray to Charlotte Mary Yonge
-date: '1889-09-20'
+iso-date: '1889-09-20'
 display-date: 20 Sept. 1889
 from-name: Charlotte Mary Yonge
 from-address: From <u>Dr. MURRAY</u>, (Sunnyside, Banbury Road,) <u>OXFORD</u>,
@@ -10,18 +10,8 @@ manuscript-location: MS UCLA collection 100 box 119/9
 ---
 
 Dear Miss Yonge,
-New Eng.
-
-Dictionary
-Mr. [Fitzedward Hall](/person/2388) has given me a reference for Clidders to [Heir of Redclyffe](/book/15) ch. vii., which we cannot find.
-
-Would it be possible for you to send me the quotation & with the proper reference?
-
-Literary quotations for the word are not very easily got.
-
+New Eng. Dictionary
+Mr. [Fitzedward Hall](/person/2388) has given me a reference for Clidders to [Heir of Redclyffe](/book/15) ch. vii., which we cannot find. Would it be possible for you to send me the quotation & with the proper reference? Literary quotations for the word are not very easily got.
 We know your hand well in the [earlier Dictionary material](/topic/151), though it has not been my fortune to see it often in later times.
-
 Yours very truly,
-[J.A.H.
-
-Murray ](/person/1074)
+[J.A.H. Murray](/person/1074)

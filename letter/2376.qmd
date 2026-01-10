@@ -1,7 +1,7 @@
 ---
 id: 2376
 title: To Edward Augustus Freeman
-date: '1870-03-14'
+iso-date: '1870-03-14'
 display-date: March 14th 1870
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,10 +11,8 @@ manuscript-location: MS John Rylands Library, Manchester, FA1/7/832
 
 Dear [Mr Freeman](/person/523) [^1],
 I waited to thank you for your kind note to see if there was any chance of so getting rid of the old edition of [History of Christian Names](/book/48), as to make it reasonable to put an abridgment much corrected in hand - But unluckily the book was printed in the anarchy of the [J W Parker](/organisation/152) establishment and the edition was too large, so that I do not know how to get through the dregs of it, and [Mr Macmillan](/person/939) does not give much encouragement to selling it off en masse.
-
 It is a pity for I would like to improve it myself, but on the other hand, though some part - i.e. the Teutonic, I could mend, all I know about the Keltic is that it is all wrong! I long to sweep away the letters of the alphabet which I blundered out without having ever heard of Grimm’s law.
 I have always wished to tell you that it was on the authority of [Professor Münch](/person/1071) of Christiania that I made those Frank names like Hadweh &c come from wehe - consecration, instead of wig - man. [^2] He died just as the book came out, and I have never been able to find out if this was a crotchet of his own or not.
-
 Two or three people busy in education want the old Stream of Time renewed, corrected and modernized.[^3] I believe it would be very desirable if only one could indicate the doubtfully a haze of some kind.[^4]
 Yours very truly
 

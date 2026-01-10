@@ -1,7 +1,7 @@
 ---
 id: 2131
 title: To Ann Maria Carter Smith
-date: '1866-08-21'
+iso-date: '1866-08-21'
 display-date: '[21 August 1866]'
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,14 +10,11 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1866/2
 ---
 
 My dear [Miss Smith](/person/263)
-Thank you for the Acrostic, but I had decided on leaving that field to the [Magazine for the Young](/periodical/79), which always has a batch of Acrostics at Christmas.[^2] I have so often refused them on that score that I could not take these.
-
-We guessed all except the two Es, which I do not quite understand, unless it means Edward and Elizabeth - and for Idiot too we had to go to the answer.
+Thank you for the Acrostic, but I had decided on leaving that field to the [Magazine for the Young](/periodical/79), which always has a batch of Acrostics at Christmas.[^2] I have so often refused them on that score that I could not take these. We guessed all except the two Es, which I do not quite understand, unless it means Edward and Elizabeth - and for Idiot too we had to go to the answer.
 
 yours sincerely
 
 C M Yonge
 
 
-[^1]: In envelope addressed to Miss Smith/ 8 Wellington Road/ Old Charlton/ SE and postmarked Winchester 20 August and London SE 21 August 1866.
 [^2]: In fact the Magazine for the Young was increasingly making a feature of acrostics, not just at Christmas but throughout the year.

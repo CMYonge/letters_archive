@@ -2,8 +2,8 @@
 id: 186
 title: Chantry House. By Charlotte M. Yonge. author of “The Heir of Redclyffe,” “Unknown
   to History,” etc.. 2 vols
-author: Charlotte Mary Yonge
-date: '1886'
+author-name: Charlotte Mary Yonge
+publication-date: '1886'
 genre: Fiction (modern)
 publication-format: Book
 publisher: 'London and New York: Macmillan and Co.'

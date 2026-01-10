@@ -1,7 +1,7 @@
 ---
 id: 2064
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1865-08-12'
+iso-date: '1865-08-12'
 display-date: Aug 12. 1865
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -10,9 +10,7 @@ manuscript-location: 'Copy outletter book British Library Add MSS. 55384 (2): P.
 
 Dear Miss Yonge
 The colonial conscience exists as you see in relation to [copyright.](/topic/172) If you will kindly sign the enclosed receipt we will be able to recover for you munificent sum of 11/8d. for the wrong done you by the sale of Yankee reprints in British territory.
-[I](/person/939) am not going to America after all, & will, I trust have the pleasure of seeing you at my house when you come to London.
-
-Will you kindly give me as long notice as you can. I am going for a holiday, but could regulate it as to time.
+[I](/person/939) am not going to America after all, & will, I trust have the pleasure of seeing you at my house when you come to London. Will you kindly give me as long notice as you can. I am going for a holiday, but could regulate it as to time.
 
 Yours ever faithfully
 Alex Macmillan

@@ -1,7 +1,7 @@
 ---
 id: 2613
 title: To Constance O'Brien
-date: '1877-12-12'
+iso-date: '1877-12-12'
 display-date: Decr 12th [1877]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -20,5 +20,4 @@ yours truly
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: Two of Constance O\' Brien\'s series of articles on \'Shakespeare Talks with Uncritical People\' appeared in MP 25 (January, February 1878).

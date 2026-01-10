@@ -1,8 +1,8 @@
 ---
 id: 47
 title: Sea Spleenwort and Other Stories, The. By the author of “The Heir of Redclyffe.”
-author: Charlotte Mary Yonge
-date: '1862'
+author-name: Charlotte Mary Yonge
+publication-date: '1862'
 genre: Fiction
 publication-format: Book
 publisher: Groombridge and Sons, 5, Paternoster Row, London.

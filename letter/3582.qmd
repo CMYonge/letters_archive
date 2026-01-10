@@ -7,9 +7,7 @@ to-name: To Mrs Bacon
 manuscript-location: MS with Waiting For Godot Books, 2005, transcribed from Abebooks.
 ---
 
-Dear [Mrs.
-
-Bacon](/person/89)
+Dear [Mrs. Bacon](/person/89)
 With many thanks I am afraid I do not see my way to being able to come to your garden party on the 6th. I am going from home the week after and there is a good deal on hand.
 
 Yours sincerely,

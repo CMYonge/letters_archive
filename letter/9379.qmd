@@ -1,7 +1,7 @@
 ---
 id: 9379
 title: To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>
-date: '1892-12-01'
+iso-date: '1892-12-01'
 display-date: '[December 1892]'
 from-name: Charlotte Mary Yonge
 to-name: To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>
@@ -14,27 +14,7 @@ THE [G.F.S.](/organisation/23) READING UNION
 Madam,-
 I must protest against the unfortunate mis-statements in the paper on [Longfellow](/person/1961), in the current number of [Friendly Work](/periodical/182). I am sure it will pain and distress hundreds of other Associates, and cause them to pause as to sending the paper among their readers.
 
-The writer has committed the old vulgar error of confounding Catholic with Roman Catholic.
+The writer has committed the old vulgar error of confounding Catholic with Roman Catholic. Our church was Catholic long before any power over it was assumed by, and weakly conceded to the Pope. It is Catholic still. Why should our Members be spoken to as if they were not believers in the Holy Catholic Church? It would have been a more fair account of the matter to explain that the exiles who fled during Queen Mary’s reign had become infected with foreign opinions and habits, and objected to much that had been always the rule of the Church. Moreover, to identify Scottish Presbyterians with English Puritans is a great historical error. Moreover every sovereign of the period held it his bounden duty to direct the conscience of his subjects, and whether this were right or wrong, it is not fair to charge it on James I. as an individual folly. Nor is the account of his controversy with the Puritan Ministers a fair one. Does the writer know what they wanted to abolish? That they were conscientious persons is true, and likewise that persecution was not the way to treat them, but to teach us that our Church is not Catholic and that their grievances were just, is a fatal error, which true Churchwomen must regret.
 
-Our church was Catholic long before any power over it was assumed by, and weakly conceded to the Pope.
-
-It is Catholic still.
-
-Why should our Members be spoken to as if they were not believers in the Holy Catholic Church?
-
-It would have been a more fair account of the matter to explain that the exiles who fled during Queen Mary’s reign had become infected with foreign opinions and habits, and objected to much that had been always the rule of the Church.
-
-Moreover, to identify Scottish Presbyterians with English Puritans is a great historical error.
-
-Moreover every sovereign of the period held it his bounden duty to direct the conscience of his subjects, and whether this were right or wrong, it is not fair to charge it on James I. as an individual folly.
-
-Nor is the account of his controversy with the Puritan Ministers a fair one.
-
-Does the writer know what they wanted to abolish?
-
-That they were conscientious persons is true, and likewise that persecution was not the way to treat them, but to teach us that our Church is not Catholic and that their grievances were just, is a fatal error, which true Churchwomen must regret.
-
-Charlotte M.
-
-Yonge,
+Charlotte M. Yonge,
 Head of Literature Department, Winchester Diocese.

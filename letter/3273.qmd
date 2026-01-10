@@ -1,7 +1,7 @@
 ---
 id: 3273
 title: To Frederick Orridge Macmillan
-date: '1894-09-20'
+iso-date: '1894-09-20'
 display-date: Sept 20th 1894
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -10,9 +10,7 @@ manuscript-location: 'MS British Library Add MSS 54921: 210-11'
 ---
 
 Dear [Mr Macmillan](/person/942)
-I shall be very glad that [the Rubies of St Lo](/book/234) should be published as you propose, I receiving [/4 per copy](/topic/160) sold.
-
-Thanks for the two school Lances of Lynwood.[^1] I am only just come home from Devon or I should have written sooner
+I shall be very glad that [the Rubies of St Lo](/book/234) should be published as you propose, I receiving [/4 per copy](/topic/160) sold. Thanks for the two school Lances of Lynwood.[^1] I am only just come home from Devon or I should have written sooner
 
 Yours truly
 

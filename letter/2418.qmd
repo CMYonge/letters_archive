@@ -1,7 +1,7 @@
 ---
 id: 2418
 title: To Elizabeth Missing Sewell
-date: '1871-09-08'
+iso-date: '1871-09-08'
 display-date: Sept 8th [1871]
 from-name: Charlotte Mary Yonge
 to-name: To Elizabeth Missing Sewell
@@ -17,5 +17,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: The next two papers by Sewell to appear in MP were \'Questions of the Day: Reason and Faith\' (November 1871), 421-427, and \'Questions of the Day: The Limits of Evidence\' (February 1872), 111-118, both part of an occasional series published between June 1871 and May 1875, collected as Some Questions of the Day (1875).

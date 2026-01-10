@@ -1,7 +1,7 @@
 ---
 id: 3059
 title: To Elizabeth Roberts
-date: '1855-02-16'
+iso-date: '1855-02-16'
 display-date: Febry 16th [1855]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
@@ -10,32 +10,15 @@ manuscript-location: 'MS Huntington Library: Yonge Letters'
 ---
 
 My dear [Madam](/person/1243),
-I have delayed thanking you for [Lichfield](/periodical/244) till I could send you the proof of Durham.
+I have delayed thanking you for [Lichfield](/periodical/244) till I could send you the proof of Durham. Lichfield is exceedingly interesting, and quite a proof that it is our own Mother Church that we can best describe. The whole history and description of the town are delightful, and I am glad you did not leave out[Dr Johnson](/person/1760) whom I do not think it is the habit of these days to respect as he deserves. I cannot remember whether you said Canterbury was one of the Cathedrals you know. If not, [a lady](/person/567) has offered to undertake it, and though I should prefer having all the Cathedrals by one hand, it would be better to insert a different one than to leave out any so important as Canterbury. Winchester I could describe myself, as my own, and Salisbury I know just well enough to be able to get it up for the purpose. Exeter and Chichester I could also get done in case you do not know them well enough.
 
-Lichfield is exceedingly interesting, and quite a proof that it is our own Mother Church that we can best describe.
+I could never feel that a Gothic Cathedral had any signification otherwise than that made out in Mr [Isaac Williams](/person/1523)’ poem of ‘The Cathedral’, a sort of visible emblem of the Christian faith, and surely it is on this that the appropriateness of the different details depends. How far this was present to the minds of the architects is another question, which can hardly be answered. I do not suppose it was by any means consistent or conscious, but surely the Same who instructed Bezaleel and Solomon, may have guided our mediæval builders to raise allegories in stone as His Temples.[^2]
 
-The whole history and description of the town are delightful, and I am glad you did not leave out[ Dr Johnson](/person/1760) whom I do not think it is the habit of these days to respect as he deserves. I cannot remember whether you said Canterbury was one of the Cathedrals you know.
-
-If not, [a lady](/person/567) has offered to undertake it, and though I should prefer having all the Cathedrals by one hand, it would be better to insert a different one than to leave out any so important as Canterbury.
-
-Winchester I could describe myself, as my own, and Salisbury I know just well enough to be able to get it up for the purpose.
-
-Exeter and Chichester I could also get done in case you do not know them well enough.
-
-I could never feel that a Gothic Cathedral had any signification otherwise than that made out in Mr [Isaac Williams](/person/1523)’ poem of ‘The Cathedral’, a sort of visible emblem of the Christian faith, and surely it is on this that the appropriateness of the different details depends.
-
-How far this was present to the minds of the architects is another question, which can hardly be answered. I do not suppose it was by any means consistent or conscious, but surely the Same who instructed Bezaleel and Solomon, may have guided our mediæval builders to raise allegories in stone as His Temples.[^2]
-
-I am very sorry to hear that you are still suffering I fear this strangely lengthened frost is not in your favour.
-
-For my own part, I enjoy the clear bracing, and the power of taking long walks, but it is sad to think how much distress it must occasion. I suppose you cannot attempt going out, but I sincerely hope that this long nursing of yourself will ultimately prove beneficial.
-
-You must not hurry yourself with the Cathedrals, I have enough to last some time only please send this proof when corrected, on to Derby
+I am very sorry to hear that you are still suffering I fear this strangely lengthened frost is not in your favour. For my own part, I enjoy the clear bracing, and the power of taking long walks, but it is sad to think how much distress it must occasion. I suppose you cannot attempt going out, but I sincerely hope that this long nursing of yourself will ultimately prove beneficial. You must not hurry yourself with the Cathedrals, I have enough to last some time only please send this proof when corrected, on to Derby
 
 Yours sincerely
 
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: 2 Chronicles 1:5.

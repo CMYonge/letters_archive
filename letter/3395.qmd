@@ -1,7 +1,7 @@
 ---
 id: 3395
 title: To Sir Walter Besant
-date: '1899-02-08'
+iso-date: '1899-02-08'
 display-date: Feb 8th [1899?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester

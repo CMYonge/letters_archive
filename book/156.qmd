@@ -1,18 +1,14 @@
 ---
 id: 156
 title: Historical Ballads Arranged to meet the New Code of 1882, Schedule II, English.
-author: Charlotte Mary Yonge
-date: '1882'
+author-name: Charlotte Mary Yonge
+publication-date: '1882'
 genre: 'Non-fiction: critical anthology'
 publication-format: Edited book
 publisher: National Society’s Depository, Broad Sanctuary, London.
 ---
 
 This seems to have been a work in three parts of which the first two were entitled Historical Ballads, and the third (aimed at older children) Historical Poetry.
-
 Historical Ballads: Part I., for Standards II. and III
 Historical Ballads: Part II., for Standards IV. and V.
-
-Historical Poetry: Part III, for Standards VI. and VII edited and annotated by Charlotte M.
-
-Yonge, author of \'Cameos from English history\', \"The heir of Redclyffe\', &c.; arranged to meet the New Code of 1882, Schedule II., English.
+Historical Poetry: Part III, for Standards VI. and VII edited and annotated by Charlotte M. Yonge, author of \'Cameos from English history\', \"The heir of Redclyffe\', &c.; arranged to meet the New Code of 1882, Schedule II., English.

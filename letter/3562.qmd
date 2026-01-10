@@ -1,15 +1,15 @@
 ---
 id: 3562
 title: To Christabel Rose Coleridge?
-date: '1860-01-01'
+iso-date: '1860-01-01'
 display-date: '[1860s]'
 from-name: Charlotte Mary Yonge
 to-name: To Christabel Rose Coleridge?
-manuscript-location: MS  Harry Ransom Humanities Research Center, University of Texas,
+manuscript-location: MS Harry Ransom Humanities Research Center, University of Texas,
   Austin
 ---
 
-[probably to [Christabel Coleridge](/person/329), secretary of the [Gosling Society](/topic/104)]The first instalment of[ Barnacle](/periodical/89) is come
+[probably to [Christabel Coleridge](/person/329), secretary of the [Gosling Society](/topic/104)]The first instalment of[Barnacle](/periodical/89) is come
 
 Yours affectionately
 

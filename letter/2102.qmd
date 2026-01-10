@@ -1,8 +1,8 @@
 ---
 id: 2102
 title: To Margaret Gatty
-date: '1866-01-01'
-display-date: '[“early” 1866] [[footnote:1]]'
+iso-date: '1866-01-01'
+display-date: '[“early” 1866] '
 from-name: Charlotte Mary Yonge
 to-name: To Margaret Gatty
 manuscript-location: MS location unknown. This fragment printed in Christabel Maxwell,
@@ -10,8 +10,3 @@ manuscript-location: MS location unknown. This fragment printed in Christabel Ma
 ---
 
 [To [Margaret Gatty](/person/549)]Pray tell [Juliana](/person/494) that I have been told of a master at Rugby who was so fascinated with The Brownies that he ordered all the 30 old volumes of the [magazine](/periodical/52) for his house!
-
-
-[^1]: ‘The Brownies’ had appeared in the MP (December 1865).
-
-Maxwell writes: \'Early in 1866 there was a letter from Miss Yonge to say that it [the Brownies] had evoked a perfect chorus of approval and in her opinion it had been the most successful that they had had in the Monthly Packet for a long time.\' This letter was sent “shortly afterwards”.

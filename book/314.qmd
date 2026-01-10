@@ -1,8 +1,8 @@
 ---
 id: 314
 title: \'Stepmothers\' By C. M. Yonge
-author: Charlotte Mary Yonge
-date: '1896'
+author-name: Charlotte Mary Yonge
+publication-date: '1896'
 genre: Non-fiction
 publication-format: Article in Journal
 publisher: <i>Mothers in Council</i> 6.23 (July, 1896) 130-135

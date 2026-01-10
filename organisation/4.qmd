@@ -5,6 +5,4 @@ name: Huggens College
 title: Huggens College
 ---
 
-This was an Anglican charity and almshouse, founded by John Huggens in 1844.
-
-Now Huggens College Retirement Community, it has a website at http://www.huggenscollege.org/
+This was an Anglican charity and almshouse, founded by John Huggens in 1844. Now Huggens College Retirement Community, it has a website at http://www.huggenscollege.org/

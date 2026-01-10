@@ -1,7 +1,7 @@
 ---
 id: 3462
 title: To Maria Edith Walker
-date: '1900-06-15'
+iso-date: '1900-06-15'
 display-date: June 15 1900
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -18,10 +18,4 @@ yours sincerely
 C M Yonge
 
 
-[^1]: The Rev.
-
-Alfred Bertie Hobart-Hampden (1860-1923), rector of Cottered, Herts.
-
-His eldest sister was Sarah Maria Hobart Hampden (d.1939).
-
-Their mother was Jane Awdry (d.1874).
+[^1]: The Rev. Alfred Bertie Hobart-Hampden (1860-1923), rector of Cottered, Herts. His eldest sister was Sarah Maria Hobart Hampden (d.1939). Their mother was Jane Awdry (d.1874).

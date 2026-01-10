@@ -1,13 +1,11 @@
 ---
 id: 296
 title: \'Seed time at Oxford\'
-author: Charlotte Mary Yonge
-date: '1891'
+author-name: Charlotte Mary Yonge
+publication-date: '1891'
 genre: Non-fiction, literary criticism
 publication-format: Article in Journal
 publisher: MP (May 1891) 495-502
 ---
 
-This is a review of Anne Mozley\'s edition of Newman\'s early correspondence and of R. W.
-
-Church\'s The Oxford Movement.
+This is a review of Anne Mozley\'s edition of Newman\'s early correspondence and of R. W. Church\'s The Oxford Movement.

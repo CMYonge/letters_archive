@@ -1,7 +1,7 @@
 ---
 id: 10615
 title: To John William Parker, Jr.
-date: '1855-05-05'
+iso-date: '1855-05-05'
 display-date: May 5th 1855
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn

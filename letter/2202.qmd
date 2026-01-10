@@ -1,7 +1,7 @@
 ---
 id: 2202
 title: George Lillie Craik to Charlotte Mary Yonge
-date: '1867-08-10'
+iso-date: '1867-08-10'
 display-date: 10 Aug. 1867.
 from-name: Charlotte Mary Yonge
 to-name: George Lillie Craik to Charlotte Mary Yonge
@@ -10,9 +10,6 @@ manuscript-location: 'Copy outletter book British Library Add MSS.55387 (1): P. 
 
 Dear Miss Yonge	
 I suppose you [illegible] the translation of Alexandre Dumas & after some difficulty we have a shabby copy which I am sending by post.
-
-We will be glad to have the whole [M.S.](/book/72) when it is ready.
-
-You can either send it to [Miss Martin](/person/971) or to us
+We will be glad to have the whole [M.S.](/book/72) when it is ready. You can either send it to [Miss Martin](/person/971) or to us
 Yours very [illegible]
 [Geo Lillie Craik](/person/379)

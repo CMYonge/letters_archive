@@ -1,7 +1,7 @@
 ---
 id: 2089
 title: To Alexander Macmillan
-date: '1865-12-01'
+iso-date: '1865-12-01'
 display-date: Decr 23d [1865]
 from-name: Charlotte Mary Yonge
 to-name: To Alexander Macmillan
@@ -10,7 +10,6 @@ manuscript-location: 'MS British Library Add MSS 54920: 128-9'
 
 Dear [mr Macmillan](/person/939),
 [The Prince and Page](/book/61) look very well, and I hope will thrive as well as they look. I think I sent the names for the copies - but I suppose the general mass of them are not ready yet.
-
 If [my brother](/person/1624)’s M S about the Reading Biscuits is not available and can be recovered he would be very glad to have it again.[^1]
 With all Christmas wishes to the Elms party
 

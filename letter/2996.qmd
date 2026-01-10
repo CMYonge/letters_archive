@@ -1,8 +1,8 @@
 ---
 id: 2996
 title: To Elizabeth Roberts
-date: '1852-01-01'
-display-date: '[summer 1852?[[footnote:1]]]'
+iso-date: '1852-01-01'
+display-date: '[summer 1852?]'
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
 to-name: To Elizabeth Roberts
@@ -18,7 +18,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Small envelope, with stamped circle enclosing flowering plant on flap, addressed Miss E P Roberts/ Walker’s Hotel/ Matlock Bath/ Derbyshire.
-[^2]: Helmington Hall, Durham, was the seat of Henry Spencer (b. 1820/1) and his wife Jane Hamilla Hamilton (1825/6-1907), who had married in 1843.
-
-It is not clear whether they were friends or employers of Roberts.
+[^2]: Helmington Hall, Durham, was the seat of Henry Spencer (b. 1820/1) and his wife Jane Hamilla Hamilton (1825/6-1907), who had married in 1843. It is not clear whether they were friends or employers of Roberts.

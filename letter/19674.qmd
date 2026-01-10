@@ -1,7 +1,7 @@
 ---
 id: 19674
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1867-02-18'
+iso-date: '1867-02-18'
 display-date: Feb. 18. 1867
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -14,17 +14,11 @@ Very deeply do I feel your [illegible] and sympathy.[^1] The events of the past
 
 I shall be very glad to have the [Cameos](/book/73) - to go on with, and you shall have proofs steadily and as fast as I can persuade the printer to go.
 
-[Miss Wilford](/person/1520) has sent me her story. I have glanced carefully over it. I think it certainly has grace, but it is rather stately and stiff like brocade, it lacks the grace of life, and freedom of movement which will [illegible] a child.
-
-Even when you have [illegible] in chains, you hear them clank.
-
-Even the [illegible] of the boy being locked up and escaping from that stern old monk is hampered as though with a [next nine lines indecipherable.][^2]
+[Miss Wilford](/person/1520) has sent me her story. I have glanced carefully over it. I think it certainly has grace, but it is rather stately and stiff like brocade, it lacks the grace of life, and freedom of movement which will [illegible] a child. Even when you have [illegible] in chains, you hear them clank. Even the [illegible] of the boy being locked up and escaping from that stern old monk is hampered as though with a [next nine lines indecipherable.][^2]
 
 Yours very faithfully
 
- [A.
-
-Macmillan](/person/939)
+ [A. Macmillan](/person/939)
 
 &nbsp;
 

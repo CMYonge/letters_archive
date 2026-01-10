@@ -1,21 +1,15 @@
 ---
 id: 2025
 title: To the Reverend William Parsons Warburton
-date: '1865-06-01'
+iso-date: '1865-06-01'
 display-date: '[Before June 1865]'
 from-name: Charlotte Mary Yonge
 to-name: To the Reverend William Parsons Warburton
 manuscript-location: MS location unknown. This fragment printed in <i>[[otherbook:396]Letters
-  of Alfred Lord Tennyson]</i>,  II,  471
+  of Alfred Lord Tennyson]</i>, II, 471
 ---
 
-It is in an appendix to collected editions of [Mrs.
-
-Hemans](/person/1936)’ life and works, where she had made notes of subjects from history suitable to write poems upon, unluckily without saying where they came from. I have watched for this story for years . . . I will write to the friend who owns the copy of Mrs Hemans from which I took it.[^1]
+It is in an appendix to collected editions of [Mrs. Hemans](/person/1936)’ life and works, where she had made notes of subjects from history suitable to write poems upon, unluckily without saying where they came from. I have watched for this story for years . . . I will write to the friend who owns the copy of Mrs Hemans from which I took it.[^1]
 
 
-[^1]: [Alfred Tennyson](/person/1874) had asked [Warburton](/person/1466) (later a canon of Winchester but at that date an inspector of schools) to find out from CMY the source of the story, ‘Odin’s Sacrifice’, in the [Book of Golden Deeds](/book/51).
-
-On 6 June 1865, he quoted this extract from one of two letters he had received from her.
-
-Tennyson used the story in his poem \'The Victim\'.
+[^1]: [Alfred Tennyson](/person/1874) had asked [Warburton](/person/1466) (later a canon of Winchester but at that date an inspector of schools) to find out from CMY the source of the story, ‘Odin’s Sacrifice’, in the [Book of Golden Deeds](/book/51). On 6 June 1865, he quoted this extract from one of two letters he had received from her. Tennyson used the story in his poem \'The Victim\'.

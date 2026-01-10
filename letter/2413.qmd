@@ -1,7 +1,7 @@
 ---
 id: 2413
 title: To an Unknown Woman
-date: '1871-08-01'
+iso-date: '1871-08-01'
 display-date: Aug 1st [?1871]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester
@@ -10,7 +10,7 @@ manuscript-location: MS New York Public Library, De Coursey Fales Collection/3
 ---
 
 Dear Madam,
-The Daisy Chain cot in which I am specially interested is in the [Belgravian Children’s Hospital ](/organisation/17) 1 Cumberland Street Belgrave Square[^1] Anything addressed to [Miss Munro](/person/2272) - at this direction, for the inmates will be gratefully accepted The [Children’s Hospital at Great Ormond Street](/organisation/3) has two [Aunt Judy](/periodical/54) cots which seem to be always well supplied
+The Daisy Chain cot in which I am specially interested is in the [Belgravian Children’s Hospital](/organisation/17) 1 Cumberland Street Belgrave Square[^1] Anything addressed to [Miss Munro](/person/2272) - at this direction, for the inmates will be gratefully accepted The [Children’s Hospital at Great Ormond Street](/organisation/3) has two [Aunt Judy](/periodical/54) cots which seem to be always well supplied
 With many thanks
 
 yours truly

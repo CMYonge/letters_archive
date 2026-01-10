@@ -1,29 +1,21 @@
 ---
 id: 18956
 title: To Mary Elizabeth Hawker
-date: '1892-01-01'
+iso-date: '1892-01-01'
 display-date: '[1892]'
 from-name: Charlotte Mary Yonge
 to-name: To Mary Elizabeth Hawker
-manuscript-location: MS location unknown.  This excerpt quoted in March-Phillipps,
+manuscript-location: MS location unknown. This excerpt quoted in March-Phillipps,
   [[otherbook:1115]<i>Lanoe Falconer</i>] (1915), 184.
 ---
 
 [To [Mary Elizabeth Hawker](/person/499)]
-I endorsed a strong remonstrance in [Mothers in Council](/periodical/82) against English girls marrying Italians, as representing much misery which the author knew only too well to be the consequence, and to adopt a story where this is the happy conclusion seems to me inconsistent. . .
-
-But that I know that altering does not answer, and that it would destroy the point of your tale, I should have liked Margaret six years after to have seen her lover fat and unromantic, and the doleful state of an Englishwoman in the Castle of the Sea, and to be very thankful to her good father for his prohibition.[^1]
+I endorsed a strong remonstrance in [Mothers in Council](/periodical/82) against English girls marrying Italians, as representing much misery which the author knew only too well to be the consequence, and to adopt a story where this is the happy conclusion seems to me inconsistent. . . But that I know that altering does not answer, and that it would destroy the point of your tale, I should have liked Margaret six years after to have seen her lover fat and unromantic, and the doleful state of an Englishwoman in the Castle of the Sea, and to be very thankful to her good father for his prohibition.[^1]
 
 
-[^1]: The letter concerns the publication of Hawker\'s story \'Kismet!\' in MP (November 1892), which appeared with a note from the editor warning against marriage to an Italian.
+[^1]: The letter concerns the publication of Hawker\'s story \'Kismet!\' in MP (November 1892), which appeared with a note from the editor warning against marriage to an Italian. Hawker\'s biographer [Evelyn March-Phillipps](/person/955) explains, 183-4, the context:
 
-Hawker\'s biographer [Evelyn March-Phillipps](/person/955) explains, 183-4, the context:
-
-It is impossible to help smiling, as Marie must have done herself, over a passage with Miss Yonge.
-
-In spite of the opinion of the author of the Heir of Redclyffe that it was \'a pity that so fine a book as Cecilia de Noël should be injured by the entire absence of Christianity\', Marie had been pressed to contribute a story to the Christmas number of the Monthly Packet, Miss Yonge\'s special organ.
-
-The story turns on the happy marriage of an English girl with an Italian nobleman, an innocent subject it would appear on the surface, but Miss Yonge, who did not always include a sense of humour among her other distinguished attributes, sets for the difficulties arising.
+It is impossible to help smiling, as Marie must have done herself, over a passage with Miss Yonge. In spite of the opinion of the author of the Heir of Redclyffe that it was \'a pity that so fine a book as Cecilia de Noël should be injured by the entire absence of Christianity\', Marie had been pressed to contribute a story to the Christmas number of the Monthly Packet, Miss Yonge\'s special organ. The story turns on the happy marriage of an English girl with an Italian nobleman, an innocent subject it would appear on the surface, but Miss Yonge, who did not always include a sense of humour among her other distinguished attributes, sets for the difficulties arising.
 
 March-Phillipps goes on to quote part of a letter from Hawker to [Christabel Coleridge](/person/329):
 

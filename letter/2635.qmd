@@ -1,7 +1,7 @@
 ---
 id: 2635
 title: To Ellen Julia Johns
-date: '1878-07-27'
+iso-date: '1878-07-27'
 display-date: July 27th 1878
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,17 +10,8 @@ manuscript-location: MS University of Iowa; MsL/Y56jo
 ---
 
 Dear [Mrs Johns](/person/772),
-So many thanks for the penwipers.
-
-They are exceedingly pretty, and will last long to be a pleasant remembrance.
-
-You will indeed miss your boys.
-
-When are you looking for a house?
-
-It will be a change from your beautiful garden.
+So many thanks for the penwipers. They are exceedingly pretty, and will last long to be a pleasant remembrance. You will indeed miss your boys. When are you looking for a house? It will be a change from your beautiful garden.
 I am going from home in a few days, so I am afraid I shall not see you before your move.
-
 With many thanks
 
 Yours sincerely

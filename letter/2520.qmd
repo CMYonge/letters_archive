@@ -1,7 +1,7 @@
 ---
 id: 2520
 title: To Edith Emma Butler
-date: '1875-01-06'
+iso-date: '1875-01-06'
 display-date: Jany 6th 1875 [1876]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,12 +11,7 @@ manuscript-location: MS Mrs Julia Birley/1
 
 My dear [Emma](/person/822)
 I know nothing about [Miss Butt](/person/246), I suppose she has not vanished from the face of Creation as she sent me a rather foolish little book the other day called Lads and Lasses, but without any letter or clue to her whereabouts, so I think she had better be simply disregarded till we hear of her again.[^1] I cannot recollect what was the Concatenation that introduced her. I am very angry with the [Spiders](/organisation/116) for only five of them have attempted to answer about the religions of the world, and one of them says that Henry VIII was the first to embrace the Protestant Religion.[^2]
-Only think of our having had a wolf running about the country for the last three weeks.
-
-There is no doubt of the fact for people have seen him who really know a wolf, and every now and then he eats a pig or a lamb, he has sprung at a colt’s throat, and it is said at a man.
-
-He lives in the wild heathy parts, and is heard of about every two days as appearing in different places!
-
+Only think of our having had a wolf running about the country for the last three weeks. There is no doubt of the fact for people have seen him who really know a wolf, and every now and then he eats a pig or a lamb, he has sprung at a colt’s throat, and it is said at a man. He lives in the wild heathy parts, and is heard of about every two days as appearing in different places!
 With love to all your affectionate
 
 C M Yonge

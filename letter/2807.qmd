@@ -1,7 +1,7 @@
 ---
 id: 2807
 title: To Ernest Hartley Coleridge
-date: '1885-04-18'
+iso-date: '1885-04-18'
 display-date: April 18th 1885
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne,Winchester.

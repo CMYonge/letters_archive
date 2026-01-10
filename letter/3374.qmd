@@ -1,7 +1,7 @@
 ---
 id: 3374
 title: To Misey ?
-date: '1898-05-28'
+iso-date: '1898-05-28'
 display-date: May 28th 1898
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,13 +10,7 @@ manuscript-location: MS Charlotte Mitchell
 ---
 
 My dear [Misey](/person/2293)[^1]
-I have been looking for the book, but it is a dilapidated little brochure and has disappeared.
-
-Sentence No 1 was only my awkward translation, the crowd was impeding progress, so the old soldier called out ‘Come on, Crawlers, hindering us from going out to die for you’ is the sense The other bit is wrong from a careless omission which I have supplied. I don’t want the M S again, if I may have it in print when the Mag is out.
-
-From the 7th to the 17th of June I am going to Rockstone Yealmpton, Plymouth so if there is anything to write to me about please put my initials.[^2] I go to the last remnant of my dear Puslinch cousins, I think [she](/person/1626) is the only person left whom I remember from babyhood.
-
-She is older than me, but stronger in some ways, though I am quite well and strong - I wish you were!
+I have been looking for the book, but it is a dilapidated little brochure and has disappeared. Sentence No 1 was only my awkward translation, the crowd was impeding progress, so the old soldier called out ‘Come on, Crawlers, hindering us from going out to die for you’ is the sense The other bit is wrong from a careless omission which I have supplied. I don’t want the M S again, if I may have it in print when the Mag is out. From the 7th to the 17th of June I am going to Rockstone Yealmpton, Plymouth so if there is anything to write to me about please put my initials.[^2] I go to the last remnant of my dear Puslinch cousins, I think [she](/person/1626) is the only person left whom I remember from babyhood. She is older than me, but stronger in some ways, though I am quite well and strong - I wish you were!
 your affectionate
 
 C M Yonge

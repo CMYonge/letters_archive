@@ -1,7 +1,7 @@
 ---
 id: 1837
 title: To Ann Maria Carter Smith
-date: '1861-07-01'
+iso-date: '1861-07-01'
 display-date: July 3d 1861
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -10,18 +10,9 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1861/11
 ---
 
 My dear [Miss Smith](/person/263)
-I have sent my brother to torment the Winchester postmaster, so I hope it will all come right. I sent another at the same time to Old Charlton to [Mrs Carr](/person/259), which perhaps made this confusion.
-
-Perhaps I should have told you that I made out the order in the name only of Ann Smith.
-
-How happy you must be with your sailor - it seems like all the holidays of many brothers pressed into a short bright time. I have heard from [Mrs Elphinstone](/person/482), who promises to send the £10 in August, and would prefer its being spent according to your first alternative, in helping three respectable old couples through the winter.
-
-She says she longs to send more to England but the Indian famine prevents it.
+I have sent my brother to torment the Winchester postmaster, so I hope it will all come right. I sent another at the same time to Old Charlton to [Mrs Carr](/person/259), which perhaps made this confusion. Perhaps I should have told you that I made out the order in the name only of Ann Smith. How happy you must be with your sailor - it seems like all the holidays of many brothers pressed into a short bright time. I have heard from [Mrs Elphinstone](/person/482), who promises to send the £10 in August, and would prefer its being spent according to your first alternative, in helping three respectable old couples through the winter. She says she longs to send more to England but the Indian famine prevents it.
 
 yours sincerely
 
 C M Yonge
 The postmaster will send another letter of advice
-
-
-[^1]: Envelope addressed to Miss Ann Smith/ Rectory/ Old Charlton/ SE and postmarked Winchester (date incomplete) and London SE 4 July 1861.

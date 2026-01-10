@@ -1,7 +1,7 @@
 ---
 id: 2126
 title: To Miss Erskine
-date: '1866-06-18'
+iso-date: '1866-06-18'
 display-date: June 18th [1866]
 from-name: Charlotte Mary Yonge
 from-address: Torquay

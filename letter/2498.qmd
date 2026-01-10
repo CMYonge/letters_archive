@@ -1,7 +1,7 @@
 ---
 id: 2498
 title: To Frederick James Furnivall
-date: '1874-04-23'
+iso-date: '1874-04-23'
 display-date: April 23rd 1874
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -13,9 +13,7 @@ Dear [Mr Furnivall](/person/531)
 I am afraid I cannot now read the books mentioned, as they have drifted out of my reach and I have much less time than I had in the old times when it was undertaken[^1]
 
 Yours truly
-C.M.
-
-Yonge
+C.M. Yonge
 
 
 [^1]: CMY and her mother had been recruited by Furnivall among the readers collecting quotations for the [project](/topic/151) which was to become the New English Dictionary.

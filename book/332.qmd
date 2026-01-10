@@ -1,13 +1,11 @@
 ---
 id: 332
 title: '‘The Empress Elizabeth: A bit of true history.’'
-author: Charlotte Mary Yonge
-date: '1900'
+author-name: Charlotte Mary Yonge
+publication-date: '1900'
 genre: Non-fiction
 publication-format: Article in Journal
 publisher: <i>Friendly Leaves</i> (January 1900) 48-49.
 ---
 
-Signed C.M.
-
-Yonge.
+Signed C.M. Yonge.

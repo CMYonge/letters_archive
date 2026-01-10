@@ -2,8 +2,8 @@
 id: 43
 title: Biographies of Good Women, chiefly by contributors to ‘The Monthly Packet’.
   Edited by the author of “The Heir of Redclyffe.” First Series.
-author: Charlotte Mary Yonge
-date: '1862'
+author-name: Charlotte Mary Yonge
+publication-date: '1862'
 genre: 'Non-fiction: biography'
 publication-format: Contributions to collection, edited collection
 publisher: John and Charles Mozley, 6, Paternoster Row, London; Masters and Co., 78,
@@ -12,18 +12,6 @@ publisher: John and Charles Mozley, 6, Paternoster Row, London; Masters and Co.,
 
 The biographies of Lady Grisell Baillie, Lady Fanshawe, the Countess of Balcarres, Elizabeth Smith and Madame Swetchine are “By the author of ‘The Heir of Redclyffe’”.
 
-Olympia Morata and Amalie Sieveking are signed E.T. and the work of Emily Taylor.
-
-So, according to CMY, is the unsigned article on Mum Bet (perhaps unsigned because derivative of the work of Harriet Martineau).
-
-Anna Gurney is signed by Sarah Austin.
-
-Princess Galitzin is signed H. D..
-
-Mrs Hutchinson, Caroline Perthes and Lady Russell are attributed to \'the author of Magdalen Stafford\', who may have been Mrs Bromfield.
-
-Elizabeth Carter and Anne Grant of Laggan are unsigned and the work of Ann Carter Smith.
-
-Elizabeth Fry is unsigned.
+Olympia Morata and Amalie Sieveking are signed E.T. and the work of Emily Taylor. So, according to CMY, is the unsigned article on Mum Bet (perhaps unsigned because derivative of the work of Harriet Martineau). Anna Gurney is signed by Sarah Austin. Princess Galitzin is signed H. D.. Mrs Hutchinson, Caroline Perthes and Lady Russell are attributed to \'the author of Magdalen Stafford\', who may have been Mrs Bromfield. Elizabeth Carter and Anne Grant of Laggan are unsigned and the work of Ann Carter Smith. Elizabeth Fry is unsigned.
 
 A second series of biographies was published in 1865.

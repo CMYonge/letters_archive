@@ -5,14 +5,4 @@ name: St. Mark’s College, Chelsea
 title: St. Mark’s College, Chelsea
 ---
 
-This was a training college for elementary schoolteachers, founded in 1841.
-
-Its first head was the Rev.
-
-Derwent Coleridge, son of the poet and father of Christabel Coleridge, who worked there until 1864.
-
-The music teaching there was provided by his friend Thomas Helmore, and transformed English church services.
-
-It is mentioned by the Rev.
-
-Derwent Coleridge (15 November 1873).
+This was a training college for elementary schoolteachers, founded in 1841. Its first head was the Rev. Derwent Coleridge, son of the poet and father of Christabel Coleridge, who worked there until 1864. The music teaching there was provided by his friend Thomas Helmore, and transformed English church services. It is mentioned by the Rev. Derwent Coleridge (15 November 1873).

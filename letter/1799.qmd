@@ -1,7 +1,7 @@
 ---
 id: 1799
 title: To John William Parker, Jr.
-date: '1860-07-31'
+iso-date: '1860-07-31'
 display-date: July 31st 1860
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne,Winchester.
@@ -18,5 +18,4 @@ Yours faithfully
 C M Yonge
 
 
-[^1]: Printed by Green, \'[Two Popular Novelists of the ‘Fifties and Their Publisher\'](/periodical/75)
 [^2]: [Hopes and Fears](/book/37) was published in 1861 by Appleton, who was the American publisher of most of Yonge’s novels and of many of her other works.

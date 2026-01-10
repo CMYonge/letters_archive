@@ -1,7 +1,7 @@
 ---
 id: 2532
 title: To Christabel Rose Coleridge
-date: '1875-05-24'
+iso-date: '1875-05-24'
 display-date: May 24th 1875
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,15 +10,7 @@ manuscript-location: MS Mrs Clare Roels
 ---
 
 My dear [Christabel](/person/329)
-The 1st of July is the right day, but it is convenient to be beforehand with it, as things get much better read than in the great mass of strangers.[^1] [Miss Bramston](/person/198) has sent a splendid one called the Isle of Progress, - all about 500 years hence. [Fanny Awdry](/person/82) has done rather a nice one of the boy type, and I have a few more but dying is so much the fashion with the Grandmothers that I hope you won’t do it.
-
-What did make your secretary call [Mary Avice Butler](/person/242), first Marcus, instead of Mavis and then Maria!!! I suppose Staddacombe is Miss [Geraldine Butt](/person/246) but I have not her address.[^1] I am rather glad [King](/organisation/242) declined you for I don’t like his books in general Sometimes he has a good one, but in general they are trumpery. I wish [Miss Helmore](/person/676) had not dedicated such an unpleasant book as Cap & Bells to CRC[^3] Why does she write in such a style?
-
-It seems to me that she ought to hear that a lady (not by any means over particular) said ‘She did not think it could be a nice girl who wrote that book’.
-
-Is it fast spirit, or supposing it more profitable?
-
-Pray forgive me for saying this of your cousin but it did vex me to see your initials. I think you could not have read it when you accepted it
+The 1st of July is the right day, but it is convenient to be beforehand with it, as things get much better read than in the great mass of strangers.[^1] [Miss Bramston](/person/198) has sent a splendid one called the Isle of Progress, - all about 500 years hence. [Fanny Awdry](/person/82) has done rather a nice one of the boy type, and I have a few more but dying is so much the fashion with the Grandmothers that I hope you won’t do it. What did make your secretary call [Mary Avice Butler](/person/242), first Marcus, instead of Mavis and then Maria!!! I suppose Staddacombe is Miss [Geraldine Butt](/person/246) but I have not her address.[^1] I am rather glad [King](/organisation/242) declined you for I don’t like his books in general Sometimes he has a good one, but in general they are trumpery. I wish [Miss Helmore](/person/676) had not dedicated such an unpleasant book as Cap & Bells to CRC[^3] Why does she write in such a style? It seems to me that she ought to hear that a lady (not by any means over particular) said ‘She did not think it could be a nice girl who wrote that book’. Is it fast spirit, or supposing it more profitable? Pray forgive me for saying this of your cousin but it did vex me to see your initials. I think you could not have read it when you accepted it
 
 yours affectionately
 
@@ -26,5 +18,4 @@ C M Yonge
 
 
 [^1]: This was the deadline for the submission of MSS for the Christmas number of MP.
-[^2]: Geraldine Butt and Mary Avice Butler were both members of the [Gosling Society](/topic/104), of which Christabel Coleridge was the administrator.
 [^3]: Coleridge\'s cousin Margaret Helmore was the author of Cap and Bells, whose hero is horrified to discover that he is probably illegitimate, but subsequently turns out to have been changed at birth.

@@ -1,7 +1,7 @@
 ---
 id: 2668
 title: Linda Mary Villari to Charlotte Mary Yonge
-date: '1879-04-26'
+iso-date: '1879-04-26'
 display-date: 26th April [1879]
 from-name: Charlotte Mary Yonge
 from-address: 93d Via Piat

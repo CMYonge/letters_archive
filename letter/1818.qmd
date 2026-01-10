@@ -1,7 +1,7 @@
 ---
 id: 1818
 title: To Anne Sturges Bourne
-date: '1861-02-01'
+iso-date: '1861-02-01'
 display-date: Febry 23d 1861
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -11,42 +11,14 @@ manuscript-location: 'MS Hampshire Record Office: Sturges Bourne Collection: 9M5
 ---
 
 My dear [Miss Bourne](/person/1379),
-I believe I sent you a queer incoherent note yesterday, but we were so glad to find [the hospital](/organisation/36) taken up in that quarter that there was an immediate impulse of writing, not very rationally carried out I suspect.
-
-Now after seeing your note to [M A D](/person/464) I will begin with Ploughing and Sowing about which I thought I had told you long ago. 'My Life' does not write from it, for her book is 4 or 5 months old, this scarcely one.
-
-The locality of Ploughing and Sowing is Boynton, and [Miss Simpson](/person/1326)’s uncle [Sir G Boynton](/person/1843) is the squire which I suppose smooths her way with the farmers.
-
-Her [father](/person/1844) is an old man of the fox hunting stamp but rather conscientious than otherwise, and the daughters were very highly educated, this one being especially fond of deep study and metaphysics in her younger days.
-
-She is now nearer 50 than 40, which makes a great difference to the possibility of what she does.
-
-Her father about 5 years ago gave up one family living to a son (more fox-hunting than himself) and moved to Boynton where Miss Simpson’s work began as here described, necessarily singlehanded because she could not get other people to do their own work, not that she makes any complaint and I think does not see her father’s slackness. I believe the Yorkshire clergy are at a very low ebb, and she has told me herself that it was the want of sympathy he met with that drove [Adn Wilberforce](/person/1511) away from us, though she has herself met with traces of his teaching bearing fruit after.[^1]
-These papers and letters were copied for friends and lent about.
-
-Some of them came to me through a concatenation of friends, and I have since had some correspondence with her, shewing the beautiful humility and straight forwardness of her nature so that I cannot help delighting in her.
-
-Some of the clergy who saw the letters in this way, were very anxious to have them published, and she unwillingly consented.
-
-There are some further letters and remarks on dissent that the editor thought would prejudice people, and they were left out much against her opinion, so you must not judge that part as a whole.
-
-She has lately been in London with a sick friend. [Lizzie Barnett](/person/113) saw her and was delighted with her. I send a little alteration that I made in the beginning of your notes on My Life, just to bring in some of your former letter, which no one else has said at all about pauperizing.
-
-And as to imposition, she forgets that where families have lived near together, and in mutual relations for generations past, this is not easy.
-
-The real pauperized parishes are those with numerous heedless gentry who are not in close communication with the clergyman or with one another, so that no one knows whose wants have been supplied. I have also added a little bit about age, and married women, who certainly are not all mammas in drawing rooms afraid of infection - and then I led off to Ploughing and sowing.[^2]
-Please return it if you think it will do, and that I have not garbled you too much, and add whatever you please. I must put it in in April, or it will all be too old.
-
-We had a happy evening at the Old Vic
+I believe I sent you a queer incoherent note yesterday, but we were so glad to find [the hospital](/organisation/36) taken up in that quarter that there was an immediate impulse of writing, not very rationally carried out I suspect. Now after seeing your note to [M A D](/person/464) I will begin with Ploughing and Sowing about which I thought I had told you long ago. 'My Life' does not write from it, for her book is 4 or 5 months old, this scarcely one. The locality of Ploughing and Sowing is Boynton, and [Miss Simpson](/person/1326)’s uncle [Sir G Boynton](/person/1843) is the squire which I suppose smooths her way with the farmers. Her [father](/person/1844) is an old man of the fox hunting stamp but rather conscientious than otherwise, and the daughters were very highly educated, this one being especially fond of deep study and metaphysics in her younger days. She is now nearer 50 than 40, which makes a great difference to the possibility of what she does. Her father about 5 years ago gave up one family living to a son (more fox-hunting than himself) and moved to Boynton where Miss Simpson’s work began as here described, necessarily singlehanded because she could not get other people to do their own work, not that she makes any complaint and I think does not see her father’s slackness. I believe the Yorkshire clergy are at a very low ebb, and she has told me herself that it was the want of sympathy he met with that drove [Adn Wilberforce](/person/1511) away from us, though she has herself met with traces of his teaching bearing fruit after.[^1]
+These papers and letters were copied for friends and lent about. Some of them came to me through a concatenation of friends, and I have since had some correspondence with her, shewing the beautiful humility and straight forwardness of her nature so that I cannot help delighting in her. Some of the clergy who saw the letters in this way, were very anxious to have them published, and she unwillingly consented. There are some further letters and remarks on dissent that the editor thought would prejudice people, and they were left out much against her opinion, so you must not judge that part as a whole. She has lately been in London with a sick friend. [Lizzie Barnett](/person/113) saw her and was delighted with her. I send a little alteration that I made in the beginning of your notes on My Life, just to bring in some of your former letter, which no one else has said at all about pauperizing. And as to imposition, she forgets that where families have lived near together, and in mutual relations for generations past, this is not easy. The real pauperized parishes are those with numerous heedless gentry who are not in close communication with the clergyman or with one another, so that no one knows whose wants have been supplied. I have also added a little bit about age, and married women, who certainly are not all mammas in drawing rooms afraid of infection - and then I led off to Ploughing and sowing.[^2]
+Please return it if you think it will do, and that I have not garbled you too much, and add whatever you please. I must put it in in April, or it will all be too old. We had a happy evening at the Old Vic
 
 Yours sincerely
 
 C M Yonge
 
 
-[^1]: The Rev.
-
-Robert Isaac Wilberforce (1802-1857) was archdeacon of the East Riding from 1841 until he joined the Roman Catholic church in 1853.
-[^2]: \'Hints on Reading\' MP (April 1861) 446-8.
-
-These two books were also reviewed together, probably by Anne Mozley, under the title 1The work of charity\' in the Christian Remembrancer 41:111 (1861), 120-169.
+[^1]: The Rev. Robert Isaac Wilberforce (1802-1857) was archdeacon of the East Riding from 1841 until he joined the Roman Catholic church in 1853.
+[^2]: \'Hints on Reading\' MP (April 1861) 446-8. These two books were also reviewed together, probably by Anne Mozley, under the title 1The work of charity\' in the Christian Remembrancer 41:111 (1861), 120-169.

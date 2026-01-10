@@ -1,7 +1,7 @@
 ---
 id: 1785
 title: To Ann Maria Carter Smith
-date: '1860-03-15'
+iso-date: '1860-03-15'
 display-date: March 15th 1860
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -10,33 +10,9 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1860/7
 ---
 
 My dear [Miss Smith](/person/263),
-Thanks for the continuation, some of which we like very much, but I have a good deal to say about it, which is all the easier to do, as you tell me you were thinking of making some alterations in the re writing.
-
-First - to begin with what struck us in its order.
-
-Grandpapa’s account of his own youth is a little dull and I do not think his history of his first wife helps the story- & it rather vexes one the more at his 2nd marriage.
-
-And there is nothing memorable in the day of preparation for the party at Friarswood, so I think that had better be missed out altogether.
-
-In this sort of story of ordinary events, it is so very necessary to take care to choose the events that tell, or it gets merely lengthy.
-
-Will it be disagreeable or wise to tell you how a clever friend of mine wrote to me?
-‘Aggesden Vicarage is by far the best specimen of Miss Yonge and water /’Don’t be angry’ - she ended To which I answered that it was certainly not Miss Y and water, for you were original, and yourself, but I only tell you to shew that it is desirable to squeeze out the water, and leave yourself unmitigated.
-
-And I am afraid the plaiting of Grandmamma’s cap is a decided drop.
-
-The party itself is good, the clergyman’s daughters and their supposed airs making a point.
-
-Then the chess, it is a most well imagined scrape, and Harry’s demi jealousy excellently done, but what I a little doubt of is George’s making such a point of the telling his father - not that he ought not, but I believe the best boys are infected with the school habit of reserve, & that George would though shocked - have regarded it as entirely between themselves and that a very small recommendation to confess would have contented him.
-I own to some of Mr Webster’s feelings about the inundation of cousins - tho’ I have no doubt they have their object, and the sketches of the definite ones are capital, but I was happier before they came, and you must take care to avoid useless meetings and comings and goings. I believe the rule is that when enough has been told to make characters distinct then only to put in such scenes as carry on the progress of events. I am very much afraid Harold & Grace are to marry, and I do not like encouraging first cousins to do any such thing, but I have some hope that you only mean her to be a little unsettled, which would be highly probable and improving.
-
-George altogether is the great interest of the book, his mathematics practically working out his principles is so well done, and his indolent but honest shrinking from the labour of high profession.
-
-But in his fit of madness, pray do not let his father strike him, it is too like one scene in Aggesden to repeat it, and really George was too big for it. I see that Harry is to deteriorate as George improves, and that the cousins are to assist in this, and it will be useful, but pray keep the story well together, and beware of letting it draw out with needless people & scenes, & repetitions of scrapes of the same kind.
-
-You see I have told you candidly exactly what crossed me, hoping I have not spoken so as to vex you, but well knowing the use to myself of being cruelly picked to pieces by my good friends. I hope that the ‘Common Sense Magazine’ will prove sensible of the prettiness of the beauties. I hope [Masters](/person/981) will be amiable about the 2nd publishing of the Wynnes separately.[^2] Could you not give a few touches to the language in the proofs to make up for the loss of the rewriting. I hope to send the Franklin story[^3] to press next month.
-
-If any one had belonged to the Slippers [?] Sir F M’Clintock’s book must have brought it to light
+Thanks for the continuation, some of which we like very much, but I have a good deal to say about it, which is all the easier to do, as you tell me you were thinking of making some alterations in the re writing. First - to begin with what struck us in its order. Grandpapa’s account of his own youth is a little dull and I do not think his history of his first wife helps the story- & it rather vexes one the more at his 2nd marriage. And there is nothing memorable in the day of preparation for the party at Friarswood, so I think that had better be missed out altogether. In this sort of story of ordinary events, it is so very necessary to take care to choose the events that tell, or it gets merely lengthy. Will it be disagreeable or wise to tell you how a clever friend of mine wrote to me?
+‘Aggesden Vicarage is by far the best specimen of Miss Yonge and water /’Don’t be angry’ - she ended To which I answered that it was certainly not Miss Y and water, for you were original, and yourself, but I only tell you to shew that it is desirable to squeeze out the water, and leave yourself unmitigated. And I am afraid the plaiting of Grandmamma’s cap is a decided drop. The party itself is good, the clergyman’s daughters and their supposed airs making a point. Then the chess, it is a most well imagined scrape, and Harry’s demi jealousy excellently done, but what I a little doubt of is George’s making such a point of the telling his father - not that he ought not, but I believe the best boys are infected with the school habit of reserve, & that George would though shocked - have regarded it as entirely between themselves and that a very small recommendation to confess would have contented him.
+I own to some of Mr Webster’s feelings about the inundation of cousins - tho’ I have no doubt they have their object, and the sketches of the definite ones are capital, but I was happier before they came, and you must take care to avoid useless meetings and comings and goings. I believe the rule is that when enough has been told to make characters distinct then only to put in such scenes as carry on the progress of events. I am very much afraid Harold & Grace are to marry, and I do not like encouraging first cousins to do any such thing, but I have some hope that you only mean her to be a little unsettled, which would be highly probable and improving. George altogether is the great interest of the book, his mathematics practically working out his principles is so well done, and his indolent but honest shrinking from the labour of high profession. But in his fit of madness, pray do not let his father strike him, it is too like one scene in Aggesden to repeat it, and really George was too big for it. I see that Harry is to deteriorate as George improves, and that the cousins are to assist in this, and it will be useful, but pray keep the story well together, and beware of letting it draw out with needless people & scenes, & repetitions of scrapes of the same kind. You see I have told you candidly exactly what crossed me, hoping I have not spoken so as to vex you, but well knowing the use to myself of being cruelly picked to pieces by my good friends. I hope that the ‘Common Sense Magazine’ will prove sensible of the prettiness of the beauties. I hope [Masters](/person/981) will be amiable about the 2nd publishing of the Wynnes separately.[^2] Could you not give a few touches to the language in the proofs to make up for the loss of the rewriting. I hope to send the Franklin story[^3] to press next month. If any one had belonged to the Slippers [?] Sir F M’Clintock’s book must have brought it to light
 
 yours sincerely
 
@@ -44,13 +20,6 @@ C M Yonge
 I have two pages still to read but I will return all together tomorrow.[^4]
 
 
-[^1]: Partly printed by [Battiscombe](/organisation/17) 113.
-
-Envelope addressed to Miss A M Smith/ Compton Rectory/ Shefford and postmarked Winchester 15 March 1860 and Campton.
 [^2]: The Wynnes appeared first in the Churchman’s Companion, published by Masters, and was published separately in 1861.
-[^3]: ‘The Lost are Found’ MP (May 1860) 496-517.
-
-In this story a young navel cadet joins the ill-fated Franklin expedition to the Arctic, taking a slipper worked by his sister as a memento of home.
-
-Fourteen yers later the position of the slipper among the relics found by M’Clintock tell his mother and sister that he died before his suffering could be prolonged.
+[^3]: ‘The Lost are Found’ MP (May 1860) 496-517. In this story a young navel cadet joins the ill-fated Franklin expedition to the Arctic, taking a slipper worked by his sister as a memento of home. Fourteen yers later the position of the slipper among the relics found by M’Clintock tell his mother and sister that he died before his suffering could be prolonged.
 [^4]: Written inside the flap of the envelope.

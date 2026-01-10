@@ -2,8 +2,8 @@
 id: 39
 title: 'Selections from the Hursley Magazine for the Years 1848 & 1849: With Facsimiles
   of the Original Title Pages and Other Illustrations. [Edited by Selina, Lady Heathcote]'
-author: Charlotte Mary Yonge
-date: '1861'
+author-name: Charlotte Mary Yonge
+publication-date: '1861'
 genre: Fiction, history
 publication-format: contributions to collection
 publisher: 'Hursley: Hursley Park, privately printed.'

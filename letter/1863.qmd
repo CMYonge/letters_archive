@@ -1,8 +1,8 @@
 ---
 id: 1863
 title: To Jane Augusta Merriman
-date: '1862-05-07'
-display-date: May 7th 1862[[footnote:1]]
+iso-date: '1862-05-07'
+display-date: May 7th 1862
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
 to-name: To Jane Augusta Merriman
@@ -10,20 +10,7 @@ manuscript-location: MS Winchester College Library
 ---
 
 My dear [Mrs Merriman](/person/992),
-I ought to have written sooner to thank you for so kindly writing about [Mary Hicks](/person/691). I suppose the fact is that she would have done better if she had been less well off at home.
-
-Her [mother](/person/690) we always thought waited on the children and did not make them do enough for themselves, but when she took Mary from school to train her for service for a year, I thought she would really have done so, being an excellent servant herself.
-
-The girls are always kept tidy, but no doubt it was her doing, and the natural indolence did not keep up the neatness where it depended on herself. I dare say Mrs Hicks has found by the state of the clothes that she was too tender hearted.
-
-If she had been a little poorer, I dare say Mary would have exerted herself more, but if they will be wise enough not to pet her at home, I have little doubt that this failure will be a lesson to her.
-
-She seemed so thoroughly happy at first, and her parents felt your kindness so much that this is a great disappointment and I am inclined to lay it all on the girl not knowing ‘when she was well off’ as they say, and so not exerting herself and probably being deplorable at reproof so as to dismay over tender parents. I can only thank you for having been patient with her so long and rejoice that at least she does not come back to a home of danger and temptation like so many. I am very glad to hear [Anne Collins](/person/361) is more promising.
-
-She is a very nice little girl, and had had rather more experience than Mary
+I ought to have written sooner to thank you for so kindly writing about [Mary Hicks](/person/691). I suppose the fact is that she would have done better if she had been less well off at home. Her [mother](/person/690) we always thought waited on the children and did not make them do enough for themselves, but when she took Mary from school to train her for service for a year, I thought she would really have done so, being an excellent servant herself. The girls are always kept tidy, but no doubt it was her doing, and the natural indolence did not keep up the neatness where it depended on herself. I dare say Mrs Hicks has found by the state of the clothes that she was too tender hearted. If she had been a little poorer, I dare say Mary would have exerted herself more, but if they will be wise enough not to pet her at home, I have little doubt that this failure will be a lesson to her. She seemed so thoroughly happy at first, and her parents felt your kindness so much that this is a great disappointment and I am inclined to lay it all on the girl not knowing ‘when she was well off’ as they say, and so not exerting herself and probably being deplorable at reproof so as to dismay over tender parents. I can only thank you for having been patient with her so long and rejoice that at least she does not come back to a home of danger and temptation like so many. I am very glad to hear [Anne Collins](/person/361) is more promising. She is a very nice little girl, and had had rather more experience than Mary
 yours very truly
 
 C M Yonge
-
-
-[^1]: It looks as if CMY wrote ‘5th’ and corrected it to ‘7th’.

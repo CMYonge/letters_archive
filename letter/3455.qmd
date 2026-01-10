@@ -1,7 +1,7 @@
 ---
 id: 3455
 title: To Mary Yonge
-date: '1900-03-30'
+iso-date: '1900-03-30'
 display-date: March 30th [1900]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -20,7 +20,5 @@ your affte
 C M Yonge
 
 
-[^1]: Ulick was probably Jane’s nephew Major the Hon.
-
-James Ulysses Graham Raymond Colborne (1863- 1955), later 4th Lord Seaton.
+[^1]: Ulick was probably Jane’s nephew Major the Hon. James Ulysses Graham Raymond Colborne (1863- 1955), later 4th Lord Seaton.
 [^2]: Piet Joubert (1834-1900), commander of the Transvaal army, and Paul Kruger (1825-1904) were leaders of the Boers.

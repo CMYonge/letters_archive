@@ -1,8 +1,8 @@
 ---
 id: 2448
 title: To the Reverend Dr. Marsham Argles
-date: '1872-06-05'
-display-date: June 5th [1872] [[footnote:1]]
+iso-date: '1872-06-05'
+display-date: 'June 5th [1872] '
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
 to-name: To the Reverend Dr. Marsham Argles
@@ -10,20 +10,11 @@ manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
 ---
 
 My dear [Mr Argles](/person/58)
-I am so glad to hear there is a chance of seeing you and [your daughter](/person/56). I wish I could ask you to stay but my abode is small and is at this moment full. I hope we shall see you at luncheon which is naturally at two.
-
-The only time I must ask you to avoid is between three and six on Thursday when I must go to a lecture on German history at Winchester.
-
-If you are here on Tuesday the 11th Edith and [Dolly](/person/1401) would find us at three o’clock setting out to a picnic tea, where they might like to join us[^2]
+I am so glad to hear there is a chance of seeing you and [your daughter](/person/56). I wish I could ask you to stay but my abode is small and is at this moment full. I hope we shall see you at luncheon which is naturally at two. The only time I must ask you to avoid is between three and six on Thursday when I must go to a lecture on German history at Winchester. If you are here on Tuesday the 11th Edith and [Dolly](/person/1401) would find us at three o’clock setting out to a picnic tea, where they might like to join us[^2]
 
 Yours sincerely
 
 C M Yonge
 
 
-[^1]: 11 June 1872 was a Tuesday.
-[^2]: Edith Margaret Argles (1853-1935) was the daughter of Marsham Argles and CMY’s childhood friend Margaret Davys.
-
-Her sister Agnes, nicknamed Dolly, was one of the correspondents of Lewis Carroll.
-
-Perhaps the word transcribed \'daughter\' in the first sentence may have been \'daughters\'?
+[^2]: Edith Margaret Argles (1853-1935) was the daughter of Marsham Argles and CMY’s childhood friend Margaret Davys. Her sister Agnes, nicknamed Dolly, was one of the correspondents of Lewis Carroll. Perhaps the word transcribed \'daughter\' in the first sentence may have been \'daughters\'?

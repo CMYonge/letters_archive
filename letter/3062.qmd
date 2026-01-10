@@ -1,7 +1,7 @@
 ---
 id: 3062
 title: To Anne Yonge
-date: '1855-03-23'
+iso-date: '1855-03-23'
 display-date: Friday [23 March 1855]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
@@ -10,21 +10,8 @@ manuscript-location: MS West Devon Record Office Acc 1092/12
 ---
 
 My dear [Anne](/person/1582)
-I must write a word or two before Church. I do not think I dared to expect better than this, and I do hope that at least the suffering is not what it was the day before.[^1] It is the Cross at least, and she has been bearing it so in patience and meekness all her days that one thinks of her as one made meet. I am glad that [Alethea](/person/27) is coming to you. I think I am relieved that the violent attack did not come at the periodical time, and that it does seem gentler now.
-
-But I don’t know how to write. [Mamma](/person/1606) is well, and liked hearing the N Z journals.
-
-The Selwyns left Hursley too early to be seen, so the Miss Palmers went to meet them at Winchester at 9.25. [Mrs Keble](/person/795) was well enough to enjoy her evening with them.
-
-They went to the Moberlys, & the [Bishop](/person/1295) took 9 of the little hands together in his, & blessed them – it was all the young ones except [the baby](/person/1026) and [Margaret](/person/83), who was afraid.
-
-The [Wigram](/organisation/157)s pay all the expenses of the Southern Cross till she or such another reach NZ.[^3] I say all this because you may be able to care to read it, otherwise it will not trouble you.
-I have one of those 4 sermons of the Bishop from himself.
-
-Our good old friend [Mrs Heathcote](/person/658) died this morning.[^2] She had had some sleepless nights, and [Mr Wither](/person/1544) thought her failing when he saw her yesterday but she was in better spirits & asked him to send her a fast day service, as they had missed having any at the Park. I do not think Mamma is knocking up.
-
-She & [Julian](/person/1624) have been looking over the boxes of papers almost all day.
-
+I must write a word or two before Church. I do not think I dared to expect better than this, and I do hope that at least the suffering is not what it was the day before.[^1] It is the Cross at least, and she has been bearing it so in patience and meekness all her days that one thinks of her as one made meet. I am glad that [Alethea](/person/27) is coming to you. I think I am relieved that the violent attack did not come at the periodical time, and that it does seem gentler now. But I don’t know how to write. [Mamma](/person/1606) is well, and liked hearing the N Z journals. The Selwyns left Hursley too early to be seen, so the Miss Palmers went to meet them at Winchester at 9.25. [Mrs Keble](/person/795) was well enough to enjoy her evening with them. They went to the Moberlys, & the [Bishop](/person/1295) took 9 of the little hands together in his, & blessed them – it was all the young ones except [the baby](/person/1026) and [Margaret](/person/83), who was afraid. The [Wigram](/organisation/157)s pay all the expenses of the Southern Cross till she or such another reach NZ.[^3] I say all this because you may be able to care to read it, otherwise it will not trouble you.
+I have one of those 4 sermons of the Bishop from himself. Our good old friend [Mrs Heathcote](/person/658) died this morning.[^2] She had had some sleepless nights, and [Mr Wither](/person/1544) thought her failing when he saw her yesterday but she was in better spirits & asked him to send her a fast day service, as they had missed having any at the Park. I do not think Mamma is knocking up. She & [Julian](/person/1624) have been looking over the boxes of papers almost all day.
 Goodbye my dear Anne. I can only pray for you all.
 your most affectionate
 CMY
@@ -32,6 +19,4 @@ CMY
 
 [^1]: Anne was nursing her sister [Jane Duke Yonge](/person/1616) (1820/1-27 March 1855).
 [^2]: Elizabeth (Bigg) Heathcote (1773-23 March 1855), Sir William’s mother.
-[^3]: Messrs.
-
-Wigram were the shipbuilders who had built the missionary ship, the Southern Cross.
+[^3]: Messrs. Wigram were the shipbuilders who had built the missionary ship, the Southern Cross.

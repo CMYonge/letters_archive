@@ -5,7 +5,5 @@ name: Community of St Michael and All Angels, Bloemfontein
 title: Community of St Michael and All Angels, Bloemfontein
 ---
 
-This was a nursing sisterhood founded in 1874.
-
-It still (2010) exists.
+This was a nursing sisterhood founded in 1874. It still (2010) exists.
 http://communities.anglicancommunion.org/communities/detail.cfm?ID=28&types=byname

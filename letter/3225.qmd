@@ -1,21 +1,18 @@
 ---
 id: 3225
 title: To George Lillie Craik
-date: '1893-08-08'
+iso-date: '1893-08-08'
 display-date: Aug 8th 1893
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
 to-name: To George Lillie Craik
-manuscript-location: 'MS British Library  Add MSS 54921: 196-7'
+manuscript-location: 'MS British Library Add MSS 54921: 196-7'
 ---
 
 Dear [Mr Craik](/person/379)
-I shall be very happy to have the [Little Duke ](/book/20)and [the Dove in the Eagle’s Nest ](/book/62)manipulated for schools. I should think there would be little to do to the Little Duke as it was written for children. I should have thought the [Lances of Lynwood ](/book/23)more suitable than the Dove as being on English history.
-I know the Eversley country is full of beauty, I once drove through it. I believe there is rather a complication of trains for coming to Winchester or Shawford, our nearest station, but if you and [Mrs Craik ](/person/378)could come and lunch here it would be very pleasant I shall however be at [Miss Moberly](/person/1025)’s The Close Winchester all next week
+I shall be very happy to have the [Little Duke](/book/20)and [the Dove in the Eagle’s Nest](/book/62)manipulated for schools. I should think there would be little to do to the Little Duke as it was written for children. I should have thought the [Lances of Lynwood](/book/23)more suitable than the Dove as being on English history.
+I know the Eversley country is full of beauty, I once drove through it. I believe there is rather a complication of trains for coming to Winchester or Shawford, our nearest station, but if you and [Mrs Craik](/person/378)could come and lunch here it would be very pleasant I shall however be at [Miss Moberly](/person/1025)’s The Close Winchester all next week
 
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: [‘Royalty of 5 per cent’](/topic/160) is written in another hand at the top.

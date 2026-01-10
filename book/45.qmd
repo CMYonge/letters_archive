@@ -1,13 +1,11 @@
 ---
 id: 45
 title: Last Heartsease Leaves. By the author of “The Heir of Redclyffe.”
-author: Charlotte Mary Yonge
-date: '1862'
+author-name: Charlotte Mary Yonge
+publication-date: '1862'
 genre: Fiction (modern)
 publication-format: Booklet
 publisher: 500 printed privately for sale for a charity.
 ---
 
-Reprinted as “Lost Heartsease Leaves” in last number of Events of the Month, Jan 2, 1865, pp. 615-618.
-
-The letters from Keble reprinted in Musings over the Christian Year make it clear that this was originally written as the ending of Heartsease, and was not an afterthought.
+Reprinted as “Lost Heartsease Leaves” in last number of Events of the Month, Jan 2, 1865, pp. 615-618. The letters from Keble reprinted in Musings over the Christian Year make it clear that this was originally written as the ending of Heartsease, and was not an afterthought.

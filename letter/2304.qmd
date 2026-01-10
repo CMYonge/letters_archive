@@ -1,47 +1,28 @@
 ---
 id: 2304
 title: To Sir William Heathcote, Bt.
-date: '1869-02-28'
+iso-date: '1869-02-28'
 display-date: February 28, 1869
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester
 to-name: To Sir William Heathcote, Bt.
-manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i> 299-300
+manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  299-300
 ---
 
 My dear [Sir William](/person/669)
-I am not quite so audacious as to sit down in cold blood to review Sir[ J. T. C](/person/344).,[^1] but you are quite right that many of the expressions were mine.
+I am not quite so audacious as to sit down in cold blood to review Sir[J. T. C](/person/344).,[^1] but you are quite right that many of the expressions were mine. The fact was that the editor of the [Literary Churchman](/periodical/76), [Mr. Ashwell](/person/68), who has been a very kind friend and helper, asked me to tell him what chiefly struck me with a view to his paper, and he has put many of the words in from a letter I wrote to him a few days before I saw you, but he has given them the setting of his own peculiarly lucid and sober language and with much of his own besides. He always seems to me one of the clearest-headed men I know. He has quite revived the Literary Churchman after its decay, and this year there has been a great influx of subscribers; I do write in it a good deal, but chiefly of light literature such as is wanted to enliven it. I hope you will take it in, for there are often very valuable papers.
 
-The fact was that the editor of the [Literary Churchman](/periodical/76), [Mr.
+If you wish to be disgusted you should read [Dean Stanley](/person/1987)’s paper on [Mr. Keble](/person/798) in [Macmillan](/periodical/78), where all in kindness he finds his own latitudinarianisms all through the poetry. It is much worse than any real enemy - open enemy I mean. I hope to bring home the number of the British Critic on Saturday when I return from a few days in London[^2] - I go to-morrow. [Lady Seaton](/person/314) was very sorry she had not a spare copy of that photograph; her son [Graham](/person/321) has some and promised to send one when he went home, but as he never remembers anything except by accident, I am afraid he has forgotten.
 
-Ashwell](/person/68), who has been a very kind friend and helper, asked me to tell him what chiefly struck me with a view to his paper, and he has put many of the words in from a letter I wrote to him a few days before I saw you, but he has given them the setting of his own peculiarly lucid and sober language and with much of his own besides.
-
-He always seems to me one of the clearest-headed men I know.
-
-He has quite revived the Literary Churchman after its decay, and this year there has been a great influx of subscribers; I do write in it a good deal, but chiefly of light literature such as is wanted to enliven it. I hope you will take it in, for there are often very valuable papers.
-
-If you wish to be disgusted you should read [Dean Stanley](/person/1987)’s paper on [Mr.
-
-Keble](/person/798) in [Macmillan](/periodical/78), where all in kindness he finds his own latitudinarianisms all through the poetry.
-
-It is much worse than any real enemy - open enemy I mean. I hope to bring home the number of the British Critic on Saturday when I return from a few days in London[^2] - I go to-morrow. [Lady Seaton](/person/314) was very sorry she had not a spare copy of that photograph; her son [Graham](/person/321) has some and promised to send one when he went home, but as he never remembers anything except by accident, I am afraid he has forgotten.
-
-I have had a most kind invitation to stay with [M.
-
-Guizot](/person/597) and his [daughter](/person/423) in Normandy next August or September; I hope [Julian](/person/1624) and his [wife](/person/1604) will go with me to Paris, and see what we can there, but I do not think we shall get any further.
-
-It will be a great holiday, and I assure you I mean to make it so. I hear from [Mary Coleridge ](/person/351)this morning that her father wrote to Street, but they have not heard again, so they suppose him satisfied.[^3]
+I have had a most kind invitation to stay with [M. Guizot](/person/597) and his [daughter](/person/423) in Normandy next August or September; I hope [Julian](/person/1624) and his [wife](/person/1604) will go with me to Paris, and see what we can there, but I do not think we shall get any further. It will be a great holiday, and I assure you I mean to make it so. I hear from [Mary Coleridge](/person/351)this morning that her father wrote to Street, but they have not heard again, so they suppose him satisfied.[^3]
 
 I did not mean to trouble you with so long a letter, but your kindness led to it.
 
 Yours ever affectionately
-C. M.
-
-Yonge
+C. M. Yonge
 
 
 [^1]: CMY means she was unwilling to review Coleridge\'s recent [biography](/organisation/226) of Keble.
 [^2]: The British Critic had ceased publication in 1843; CMY was no doubt looking for an article by or about Keble in it.
-[^3]: It sounds as if Sir John Taylor Coleridge was involved in a dispute of some kind with the architect [G. E.
-
-Street](/person/2028).
+[^3]: It sounds as if Sir John Taylor Coleridge was involved in a dispute of some kind with the architect [G. E. Street](/person/2028).

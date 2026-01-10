@@ -1,7 +1,7 @@
 ---
 id: 2913
 title: To Arthur Donald Innes
-date: '1889-07-27'
+iso-date: '1889-07-27'
 display-date: July 27th 1889
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,11 +10,7 @@ manuscript-location: MS Girton College Cambridge, Yonge IV 11
 ---
 
 Dear [Mr Innes](/person/744)
-Thanks for the [cheque](/topic/160). I think it is a very good thing to cheapen [Womankind](/book/115), especially as it is getting a start through the [Mothers’ Union](/organisation/31) taking it up.
-
-It will also be well to have [New Ground](/book/68) at 2s [Mr Scarth](/person/1272) of the Waterside Mission is very anxious to have Friday’s Child published separately for the sake of the sailors. I believe [Miss Crompton](/person/390)[^2] has been urged to write to you about it and I hope you will do it.
-
-She is singularly unambitious
+Thanks for the [cheque](/topic/160). I think it is a very good thing to cheapen [Womankind](/book/115), especially as it is getting a start through the [Mothers’ Union](/organisation/31) taking it up. It will also be well to have [New Ground](/book/68) at 2s [Mr Scarth](/person/1272) of the Waterside Mission is very anxious to have Friday’s Child published separately for the sake of the sailors. I believe [Miss Crompton](/person/390)[^2] has been urged to write to you about it and I hope you will do it. She is singularly unambitious
 
 Yours truly
 

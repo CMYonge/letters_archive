@@ -1,7 +1,7 @@
 ---
 id: 3104
 title: To Emma Butler
-date: '1857-07-10'
+iso-date: '1857-07-10'
 display-date: July 10th 1857
 from-name: Charlotte Mary Yonge
 to-name: To Emma Butler
@@ -9,12 +9,7 @@ manuscript-location: MS Winchester City Council, Historic Resources Centre LH380
 ---
 
 My dear [Mrs Butler](/person/240)
-Please to consider this note as coming from [Mr](/person/798) and [Mrs Keble](/person/795), as they are very anxious to get this woman’s petition[^1] signed as universally and numerously as possible before the end of next week, when it should be returned (with a tail of names on the ruled lines, and on further sheets gummed on beyond if necessary) to Mrs Keble.
-
-The name of the place to be written at the top of each district, and people’s husband’s or father’s professions after their names.
-
-It is supposed it may have an effect as the Woman’s petition about the Wife’s Sister certainly did.
-
+Please to consider this note as coming from [Mr](/person/798) and [Mrs Keble](/person/795), as they are very anxious to get this woman’s petition[^1] signed as universally and numerously as possible before the end of next week, when it should be returned (with a tail of names on the ruled lines, and on further sheets gummed on beyond if necessary) to Mrs Keble. The name of the place to be written at the top of each district, and people’s husband’s or father’s professions after their names. It is supposed it may have an effect as the Woman’s petition about the Wife’s Sister certainly did.
 If you think of any other quarters to which to send them, please apply to Mrs Keble for them, as she keeps the store
 
 yours sincerely
@@ -22,6 +17,4 @@ yours sincerely
 C M Yonge
 
 
-[^1]: A bill to allow marriage to a deceased wife’s sister was first presented to the House of Commons in 1850 and finally passed in 1907.
-
-The present petition probably related to the Matrimonial Causes Act 1857, which simplified the divorce process, and to which Keble was strongly opposed.
+[^1]: A bill to allow marriage to a deceased wife’s sister was first presented to the House of Commons in 1850 and finally passed in 1907. The present petition probably related to the Matrimonial Causes Act 1857, which simplified the divorce process, and to which Keble was strongly opposed.

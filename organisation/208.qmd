@@ -5,6 +5,4 @@ name: Winchester Literary and Scientific Society
 title: Winchester Literary and Scientific Society
 ---
 
-It was founded by the Rev.
-
-Charles Alexander Johns in 1870. CMY was one of the earliest members.
+It was founded by the Rev. Charles Alexander Johns in 1870. CMY was one of the earliest members.

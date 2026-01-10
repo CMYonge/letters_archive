@@ -1,7 +1,7 @@
 ---
 id: 2931
 title: To Anne Elizabeth Mary Anderson Morshead?
-date: '1880-08-28'
+iso-date: '1880-08-28'
 display-date: Aug 28th [1880s?]
 from-name: Charlotte Mary Yonge
 to-name: To Anne Elizabeth Mary Anderson Morshead?
@@ -17,7 +17,4 @@ Your affectionate cousin
 C M Yonge
 
 
-[^1]: Watermarked 1877.
-[^2]: Mary Anderson Morshead was author or editor of several books, and this probably refers to her attempts to find a publisher, possibly for the first of them, Chips from the Royal Image: Being Fragments of Eikon Basilike (London: Masters 1887), to which CMY contributed her name as editor. (Anderson Morshead had been a fanatical supporter of Charles I since she was a teenager.) But equally the letter might be to another person or refer to another book.
-
-Another possible correspondent is [Mary Isabel Yonge](/person/1628), the sister of \'Lottie\' Yonge.
+[^2]: Mary Anderson Morshead was author or editor of several books, and this probably refers to her attempts to find a publisher, possibly for the first of them, Chips from the Royal Image: Being Fragments of Eikon Basilike (London: Masters 1887), to which CMY contributed her name as editor. (Anderson Morshead had been a fanatical supporter of Charles I since she was a teenager.) But equally the letter might be to another person or refer to another book. Another possible correspondent is [Mary Isabel Yonge](/person/1628), the sister of \'Lottie\' Yonge.

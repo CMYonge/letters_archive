@@ -1,7 +1,7 @@
 ---
 id: 2622
 title: To George Lillie Craik
-date: '1878-03-19'
+iso-date: '1878-03-19'
 display-date: March 19th 1878
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -21,11 +21,4 @@ C M Yonge
 Of course I shall be glad to finish up the French primer
 
 
-[^1]: Black-edged paper.
-[^2]: CMY refers to the smaller of the two books called History of France which she wrote for Macmillan.
-
-It appeared in the \'Historical Primers\' series in 1878.
-
-The [other](/book/99), which appeared in the \'Historical Course for Schools\' series edited by E. A.
-
-Freeman, had been so fiercely criticized by him that she had had to revise it heavily, and it did not appear until 1879.
+[^2]: CMY refers to the smaller of the two books called History of France which she wrote for Macmillan. It appeared in the \'Historical Primers\' series in 1878. The [other](/book/99), which appeared in the \'Historical Course for Schools\' series edited by E. A. Freeman, had been so fiercely criticized by him that she had had to revise it heavily, and it did not appear until 1879.

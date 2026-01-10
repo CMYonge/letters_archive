@@ -1,7 +1,7 @@
 ---
 id: 1868
 title: To Frances Mary Peard
-date: '1862-07-12'
+iso-date: '1862-07-12'
 display-date: July 12th 1862
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -10,16 +10,9 @@ manuscript-location: MS Brigham Young University
 ---
 
 My dear [Miss Peard](/person/1160),
-You are a most comfortable correspondent and contributor, and it will be very pleasant to us to have the print of St.
-
-Sebastian which your friend has so kindly procured for us.
-
-We shall be wandering for two or three months to come but it will be sure to reach me safely if sent either direct here, or to the care of Messrs [Mozley](/organisation/108) 6 Paternoster Row.
-
-Which perhaps will be the best way. I send you in stamps the small amount due for all your kind help last year in the [Monthly Paper](/periodical/81), and for the paper in the [Monthly Packet](/periodical/52).
-I shall be most thankful if you will take those Books of the Bible for the next years Monthly Paper and hope to send you a specimen when I can write it, but next week is to be spent in London, and though I am thence going to a very quiet parsonage,[^1] where I hope to do some work, it will not be quiet on St James’s day, which is its Consecration anniversary. I must ask you to send me [Mrs Trehawke Kekewich](/person/805)’s[^2] address once more, as I have somehow lost it – but it is hardly worth while to ask you to write to me till I get to Baldersby and write to you, as I hope to do in a little more than a fortnight.
-
-After all I find the amount would be too cumbrous in stamps, so that I must delay a little while to get an order, which will be only in your first Christian name, as the post is so apt to be puzzled by two.
+You are a most comfortable correspondent and contributor, and it will be very pleasant to us to have the print of St. Sebastian which your friend has so kindly procured for us.
+We shall be wandering for two or three months to come but it will be sure to reach me safely if sent either direct here, or to the care of Messrs [Mozley](/organisation/108) 6 Paternoster Row. Which perhaps will be the best way. I send you in stamps the small amount due for all your kind help last year in the [Monthly Paper](/periodical/81), and for the paper in the [Monthly Packet](/periodical/52).
+I shall be most thankful if you will take those Books of the Bible for the next years Monthly Paper and hope to send you a specimen when I can write it, but next week is to be spent in London, and though I am thence going to a very quiet parsonage,[^1] where I hope to do some work, it will not be quiet on St James’s day, which is its Consecration anniversary. I must ask you to send me [Mrs Trehawke Kekewich](/person/805)’s[^2] address once more, as I have somehow lost it – but it is hardly worth while to ask you to write to me till I get to Baldersby and write to you, as I hope to do in a little more than a fortnight. After all I find the amount would be too cumbrous in stamps, so that I must delay a little while to get an order, which will be only in your first Christian name, as the post is so apt to be puzzled by two.
 I am longing to see the Belgian martyrdom at the International I have heard so much of it but I fear we shall be over hurried[^3]
 
 Yours sincerely
@@ -31,9 +24,5 @@ I find there are only 23 Sundays after Trinity this year, so a chapter on ‘Wis
 
 [^1]: In Baldersby, Yorkshire, the home of the Rev. [R.F.Wilson](/person/1541).
 [^2]: Charlotte Peard (d.1879), daughter of Captain George Peard R.N., and sister of Frances Mary Peard, married (1849) Trehawke Kekewich (b.1823), of Peamore House, near Exeter.
-[^3]: CMY may refer to the \'Triomphe de Martyre\', a picture of St.
-
-Cecilia by William-Adolphe Bouguereau which had a great success at the International Exhibition in London, 1 May-1 November 1862.
-
-However the artist was French not Belgian.
+[^3]: CMY may refer to the \'Triomphe de Martyre\', a picture of St. Cecilia by William-Adolphe Bouguereau which had a great success at the International Exhibition in London, 1 May-1 November 1862. However the artist was French not Belgian.
 [^4]: This sentence is inserted at right angles to the address and salutation and may or may not have been written before the first postscript.

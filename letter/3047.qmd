@@ -1,25 +1,17 @@
 ---
 id: 3047
 title: Frances Mary Yonge to Alice Arbuthnot Moberly
-date: '1854-06-01'
+iso-date: '1854-06-01'
 display-date: June 1854.
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne,
 to-name: Frances Mary Yonge to Alice Arbuthnot Moberly
-manuscript-location: MS location unknown.  Printed in <i>[[otherbook:122]Dulce Domum]</i>
+manuscript-location: MS location unknown. Printed in <i>[[otherbook:122]Dulce Domum]</i>
   112-3.
 ---
 
 My dear [Alice](/person/1025),
-The [Warden](/person/118) has asked Charlotte and [Anne](/person/1582) to dine there to be ready for the evening meeting; but at all events they will come to you first, about 10 o'clock, to go with you to the Cathedral.
-
-You would have enjoyed a walk with us last evening in a part of [Cranbury](/place/119) quite unknown to us, where we found some beautiful lady-fern and a dragon-fly surpassing in beauty.
-
-And so the dear people did come to us, [Mary](/person/1020), [Dora](/person/968), [Emily](/person/81), and [Annie](/person/1024), and we are only just come from walking to meet [Miss Cowing](/person/374)[^1] and the rest.
-
-Charlotte sends all that is finished of '[Heartsease](/book/19),' and has no doubt there will be more by the time you are ready for it; she is numbering the pages with red, in case they get wrong. I do think [Mrs.
-
-Moberly](/person/1019) will enjoy little John Martindale, even more this time than before. [Miss Keble](/person/796) is very fond of him.
+The [Warden](/person/118) has asked Charlotte and [Anne](/person/1582) to dine there to be ready for the evening meeting; but at all events they will come to you first, about 10 o'clock, to go with you to the Cathedral. You would have enjoyed a walk with us last evening in a part of [Cranbury](/place/119) quite unknown to us, where we found some beautiful lady-fern and a dragon-fly surpassing in beauty. And so the dear people did come to us, [Mary](/person/1020), [Dora](/person/968), [Emily](/person/81), and [Annie](/person/1024), and we are only just come from walking to meet [Miss Cowing](/person/374)[^1] and the rest. Charlotte sends all that is finished of '[Heartsease](/book/19),' and has no doubt there will be more by the time you are ready for it; she is numbering the pages with red, in case they get wrong. I do think [Mrs. Moberly](/person/1019) will enjoy little John Martindale, even more this time than before. [Miss Keble](/person/796) is very fond of him.
 
 
 [^1]: Jane Cowing (b.1807/8), the Moberlys\' governess.

@@ -1,7 +1,7 @@
 ---
 id: 1907
 title: To Alexander Macmillan
-date: '1863-10-13'
+iso-date: '1863-10-13'
 display-date: Oct 13th 1863
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -10,18 +10,8 @@ manuscript-location: 'MS British Library Add MSS 54920: 3-4'
 ---
 
 [Sir](/person/939),
-I am obliged for your letter of the 9th.
-
-The MS of the [Clever Woman of the Family](/book/58) is not sufficiently forward for the calculations for printing to be made yet. I have however a tale called '[the Trial](/book/53)' which has been coming out in the [Monthly Packet](/periodical/52), where it will be completed in the early spring when I should wish to bring it out, but it ought to be uniform with the '[Daisy Chain](/book/24)' as it is in some degree a continuation.
-
-If you think it worth while to make any calculations regarding it so long beforehand, I will send you as much as is printed, which is by far the greater part.
-I should prefer the arrangement you propose of receiving a fixed sum for each edition.
-
-With regard to my other works I have long thought it would be well to bring out a cheap edition, but [Messrs Parker](/organisation/152) were averse to so doing, and I think it may be a difficulty that all the books are in stereotype, so that there can hardly be a change of size in a new edition.
-I find that [Mr Parker](/person/1144) has made over his interest in my works to Messrs [Longman](/organisation/153), to whom I wrote to enquire various particulars as to terms and as to the price they would set upon the half profits of the [Heir of Redclyffe](/book/15) and [Heartsease](/book/19).
-
-In answer they say that they will take 'the earliest opportunity of replying to my question.' When I have received this reply, I shall hope to communicate with you again
+I am obliged for your letter of the 9th. The MS of the [Clever Woman of the Family](/book/58) is not sufficiently forward for the calculations for printing to be made yet. I have however a tale called '[the Trial](/book/53)' which has been coming out in the [Monthly Packet](/periodical/52), where it will be completed in the early spring when I should wish to bring it out, but it ought to be uniform with the '[Daisy Chain](/book/24)' as it is in some degree a continuation. If you think it worth while to make any calculations regarding it so long beforehand, I will send you as much as is printed, which is by far the greater part.
+I should prefer the arrangement you propose of receiving a fixed sum for each edition. With regard to my other works I have long thought it would be well to bring out a cheap edition, but [Messrs Parker](/organisation/152) were averse to so doing, and I think it may be a difficulty that all the books are in stereotype, so that there can hardly be a change of size in a new edition.
+I find that [Mr Parker](/person/1144) has made over his interest in my works to Messrs [Longman](/organisation/153), to whom I wrote to enquire various particulars as to terms and as to the price they would set upon the half profits of the [Heir of Redclyffe](/book/15) and [Heartsease](/book/19). In answer they say that they will take 'the earliest opportunity of replying to my question.' When I have received this reply, I shall hope to communicate with you again
 Your obt servt
-C.M.
-
-Yonge
+C.M. Yonge

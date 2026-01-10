@@ -2,8 +2,8 @@
 id: 229
 title: 'Strolling Players: A Harmony of Contrasts. By Charlotte M. Yonge and Christabel
   R. Coleridge.'
-author: Charlotte Mary Yonge
-date: '1893'
+author-name: Charlotte Mary Yonge
+publication-date: '1893'
 genre: Fiction (modern)
 publication-format: Book
 publisher: 'London and New York: Macmillan and Co.'

@@ -1,7 +1,7 @@
 ---
 id: 2062
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1865-08-03'
+iso-date: '1865-08-03'
 display-date: Aug 3. 1865
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -9,13 +9,7 @@ manuscript-location: 'Copy outletter book British Library Add MSS. 55384 (2): P.
 ---
 
 Dear Miss Yonge	
-[I](/person/939) will see Theuerdank somehow though I fear I shall not be at Oxford before I go to America on the 28th.
-
-The Bodleian dont let books out - in which they are quite right.
-
-Cambridge U.L. does - in which they are quite wrong, though I often benefit by it. I have written to Cambridge.
-
-When I see what the [pictures](/topic/167) look like I will be able to judge how the [book](/book/62) can be treated so as to have some novel effect.[^1]
+[I](/person/939) will see Theuerdank somehow though I fear I shall not be at Oxford before I go to America on the 28th. The Bodleian dont let books out - in which they are quite right. Cambridge U.L. does - in which they are quite wrong, though I often benefit by it. I have written to Cambridge. When I see what the [pictures](/topic/167) look like I will be able to judge how the [book](/book/62) can be treated so as to have some novel effect.[^1]
 ever faithfully yours
 Alex Macmillan
 

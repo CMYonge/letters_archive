@@ -1,7 +1,7 @@
 ---
 id: 2315
 title: To the Reverend John Frewen Moor
-date: '1869-05-29'
+iso-date: '1869-05-29'
 display-date: May 29th [1869]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -15,6 +15,3 @@ Your letter followed me home from [Brighstone](/place/140) whence I returned on 
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: Black-edged paper.

@@ -1,7 +1,7 @@
 ---
 id: 2462
 title: To Mary Penelope Fursdon
-date: '1872-11-15'
+iso-date: '1872-11-15'
 display-date: Novr 15 1872
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.

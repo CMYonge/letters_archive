@@ -1,7 +1,7 @@
 ---
 id: 2785
 title: To Walter Besant?
-date: '1884-01-01'
+iso-date: '1884-01-01'
 display-date: Jany 23d 1884
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,11 +10,8 @@ manuscript-location: 'MS UCLA: collection 100: box 95'
 ---
 
 [Sir](/person/1652)
-I should be very glad of the establishment of the copy right system with [America ](/topic/172)but I should like to have more information before joining the [Company of Authors](/organisation/44).
+I should be very glad of the establishment of the copy right system with [America](/topic/172)but I should like to have more information before joining the [Company of Authors](/organisation/44).
 
 Yours truly
 
 C M Yonge
-
-
-[^1]: The letter evidently relates to the foundation of the Society of Authors in 1884; Besant was the prime mover in the organisation but the letter may have been addressed to a colleague.

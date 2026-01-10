@@ -1,7 +1,7 @@
 ---
 id: 3105
 title: To Ann Maria Carter Smith
-date: '1857-07-28'
+iso-date: '1857-07-28'
 display-date: July 28 1857
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne Winchester.
@@ -18,5 +18,4 @@ yours sincerely
 C M Yonge
 
 
-[^1]: With envelope addressed to Miss Anne Smith/ Stepney Rectory/ London and postmarked Winchester 29 July and on reverse 30 July 1857.
 [^2]: ‘A Glimpse into a Royal Home Seventy Years Ago’ MP 14 (November 1857) 470-96.

@@ -1,34 +1,25 @@
 ---
 id: 3300
 title: To Frederick Orridge Macmillan
-date: '1895-10-14'
+iso-date: '1895-10-14'
 display-date: Oct 14th [1895]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
 to-name: To Frederick Orridge Macmillan
-manuscript-location: 'MS British Library  Add MSS 54921: 218'
+manuscript-location: 'MS British Library Add MSS 54921: 218'
 ---
 
 Dear [Mr Macmillan](/person/942)
 I have a story within three or four short chapters of completion, which I should like to mention in case it should come within the scope of any autumn arrangements.
-I think the title might be ‘A Release’.[^1] It is founded on a story that [Guizot](/person/597) once told me that [Mongolfier](/person/1036), the aëronaut gained the affections of a noble young lady, whose parents forced her to become a nun.
-
-She appealed to the Pope who absolved her, and they were married.
+I think the title might be ‘A Release’.[^1] It is founded on a story that [Guizot](/person/597) once told me that [Mongolfier](/person/1036), the aëronaut gained the affections of a noble young lady, whose parents forced her to become a nun. She appealed to the Pope who absolved her, and they were married.
 I asked [Madame de Witt](/person/423) if I might use the story, and she said yes, but not the name as there are Mongolfiers still living.[^2]
-It is about half as long as the [Long Vacation](/book/237) too long for the present arrangements of the [Monthly Packet](/periodical/52), for which I began it.
-
-Had it better be published by you as it is, or go into any periodical first.
-
-One title might be ‘Caroline’s French Kindred’ Caroline is English, but the moving spirit.
-
-When published in a volume it would begin with the Christmas number story ‘Caroline’s Defiance in which she first appeared - Christmas 1893.
+It is about half as long as the [Long Vacation](/book/237) too long for the present arrangements of the [Monthly Packet](/periodical/52), for which I began it. Had it better be published by you as it is, or go into any periodical first.
+One title might be ‘Caroline’s French Kindred’ Caroline is English, but the moving spirit. When published in a volume it would begin with the Christmas number story ‘Caroline’s Defiance in which she first appeared - Christmas 1893.
 
 Yours truly
 
 C M Yonge
 
 
-[^1]: [The Release, or, Caroline\'s French Kindred](/book/239) (London: Macmillan 1896).
-
-Part 1 appeared in MP (Christmas 1894) under the title ‘Caroline\'s Defiance’.
+[^1]: [The Release, or, Caroline\'s French Kindred](/book/239) (London: Macmillan 1896). Part 1 appeared in MP (Christmas 1894) under the title ‘Caroline\'s Defiance’.
 [^2]: The story of the marriage between Jacques-Étienne Montgolfier (1745-1799) and Mademoiselle Brun (d.1845) who had been a nun, is told by Bessie Belloc, In a Walled Garden (London: Ward 1895), 119.

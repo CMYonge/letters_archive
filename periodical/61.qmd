@@ -5,6 +5,4 @@ name: <i> Church Times, The</i>
 title: <i> Church Times, The</i>
 ---
 
-This is a High Church Anglican weekly newspaper founded in 1863.
-
-It still exists and its website is www.churchtimes.co.uk
+This is a High Church Anglican weekly newspaper founded in 1863. It still exists and its website is www.churchtimes.co.uk

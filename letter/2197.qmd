@@ -1,7 +1,7 @@
 ---
 id: 2197
 title: To Marianne Bigg Wither
-date: '1867-01-01'
+iso-date: '1867-01-01'
 display-date: '[1867]'
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -12,7 +12,6 @@ manuscript-location: MS Royal Institution of Great Britain, XVA/186/32 f.63/2
 My dear [Marianne](/person/1546)
 The great heads will be 1/6, but I fear they will be long in coming like all the rest.[^1]
 I will thankfully send you some of all kinds when I get them.
-
 In haste your aff
 
 C M Yonge

@@ -1,7 +1,7 @@
 ---
 id: 3465
 title: To Christabel Rose Coleridge
-date: '1900-07-30'
+iso-date: '1900-07-30'
 display-date: July 30th [1900]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,21 +10,13 @@ manuscript-location: MS Mrs Clare Roels/101
 ---
 
 My dear [CC](/person/329)
-Poor [Queen Margarita](/person/956)[^1] This to be added to all the other dreadful things that are going on.
-
-Letting off an anarchist just encourages the rest.
-[Annie Cazenove](/person/274)’s long time of watching and perplexity is over, her mother died suddenly at last in her sleep.[^2] I wonder what Annie will do, now she is free, very well off I believe. I wonder how your discordant element will settle down One will be eliminated or else they will settle down in violent friendship like their tempers.
-
-We had much thunder on Friday, striking but not killing at Winchester and yesterday in the children’s service, it poured, so we kept the children in their places singing hymns, till it had done.
-
-We had a nice L T these two Sundays, [Mr Roberts](/person/2236) a Newton Abbot curate who catechized very nicely - I never thought [Mrs Steele](/person/2405) had any religion.
+Poor [Queen Margarita](/person/956)[^1] This to be added to all the other dreadful things that are going on. Letting off an anarchist just encourages the rest.
+[Annie Cazenove](/person/274)’s long time of watching and perplexity is over, her mother died suddenly at last in her sleep.[^2] I wonder what Annie will do, now she is free, very well off I believe. I wonder how your discordant element will settle down One will be eliminated or else they will settle down in violent friendship like their tempers. We had much thunder on Friday, striking but not killing at Winchester and yesterday in the children’s service, it poured, so we kept the children in their places singing hymns, till it had done. We had a nice L T these two Sundays, [Mr Roberts](/person/2236) a Newton Abbot curate who catechized very nicely - I never thought [Mrs Steele](/person/2405) had any religion.
 [Mary Morshead](/person/28) is here going to Domum tomorrow [Sister Sarah](/person/466) at [Miss Finlaison](/person/512)’s, but spending the afternoon here today as Miss F is escorting Beatrice to Brighton [Mrs Barton](/person/2235) continues unable to see that Irene has shewn more than ‘a childish freak’ If she likes it it is her concern!
 your affectionate
 
 C M Yonge
 
 
-[^1]: King Umberto of Italy had been assassinated at Monza on 19 July 1900.
-
-His widow Queen Margherita (1851-1926), after whom the pizza was named, was a CMY fan.
+[^1]: King Umberto of Italy had been assassinated at Monza on 19 July 1900. His widow Queen Margherita (1851-1926), after whom the pizza was named, was a CMY fan.
 [^2]: Louise (Evans) Cazenove – had remarried?

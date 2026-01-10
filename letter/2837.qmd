@@ -1,7 +1,7 @@
 ---
 id: 2837
 title: To George Lillie Craik
-date: '1886-06-29'
+iso-date: '1886-06-29'
 display-date: June 29th [1886]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -14,7 +14,6 @@ I think I had better glance over [the Shells](/book/357).
 I have begun upon [the flowers](/book/17) but I find there must be a great revolution there, as it is no use in these days to teach the old Linnean system. I can manage by transposition, but it will take some time to set it in order, and I think it had better come in time for the spring, as it starts with the flowers of the months.
 I do not think ‘Householders’ need as much retouching, but I only have it in the magazine, and could look it over better in the pages to be printed from.[^1]
 I have been waiting to hear what the Liverpool lady says to the downfall of her plans - but she has not written.
-
 My present idea is to put [the history of the Reign](/book/189) into the [Monthly Packet](/periodical/52) and then publish it after wards if there seems an opening, but I have not yet had her answer so that I cannot quite decide.[^2]
 
 Yours truly

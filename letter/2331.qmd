@@ -1,7 +1,7 @@
 ---
 id: 2331
 title: To Mary Anne Dyson
-date: '1869-08-10'
+iso-date: '1869-08-10'
 display-date: August 10. [1869]
 from-name: Charlotte Mary Yonge
 from-address: '[[other:205]Val Richer],'
@@ -11,64 +11,7 @@ manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:4
 ---
 
 My dear [Marianne](/person/464)-
-Yesterday was so rainy that there really is very little to say about it.
-
-The breakfast was enlivened by our being told that [Madame Adelaide](/person/2038) always had a set of bonbons placed beside the seat of each member of her brother’s cabinet whenever they met, and that they were of a superior quality or not according as to whether she liked the ministry or not. [M.
-
-Guizot](/person/597) said he had the experience of both, for at first she was very fond of him, and then they were very good, but when she liked him less the bonbons deteriorated.
-
-He said she was la femme la plus passionée in her loves and hates that he had ever known, and he went on to Queen [Marie Amelie](/person/1737), whom I think he loved very much, but he said the [king](/person/2039) had told him that the way he came to marry her was that in the midst of his exile, when he was in Sicily, [Queen Caroline](/person/2040) came and said to him, 'You are a remarkable man.
-
-You will do something great.
-
-You will marry my daughter.
-
-Oui, oui, oui, vous serez Roi de France.' It certainly was a curious divination, and a good speculation, but I don’t think that taking her in that way he deserved to get so good a wife.
-
-She, the Queen, used to say that she herself and her [niece](/person/2041) of Tuscany were the only ones of her family who were good for anything.
-
-Queen Caroline taught her [husband](/person/2042) to read, and he used to say when he was angry with her that if she had not done that he would have cut off her head.
-
-Then of course we came to [Lord Nelson](/person/2043), and some one (English I think) who told M.
-
-Guizot, 'He was a hero, but he was an idiot,' the which I believe. I was comparing his bust with the [Duke](/person/1486)’s in the Taylor buildings at Oxford, and saying how disappointing it was, but [Frances Peard](/person/1160) did not agree with me. I do not think he had any countenance.
-
-After breakfast[ Julian](/person/1624) discovered a book on the turning lathe, which he has wished to see all his life. 'Mr.
-
-Yonge does not read that book, he does study it,' they say. [Frances](/person/1604) worked and played at loto in the drawing-room with the girls, and [Mme. de Witt](/person/423) and I worked at the index till the arrival of [Mme.
-
-Cornélis de W](/person/427). and [Marie](/person/426), who is eighteen, and a bright talking girl, devoted to little [Suzanne](/person/431). [Miss Martin](/person/971) and I got an hour’s walk between the showers, in which we saw nothing remarkable but a little frog so green that we took him for a grasshopper, and then we came back to a merry dinner, when, in honour of Mme.
-
-Cornélis, we each had a glass of champagne, and M.
-
-Guizot made every one drink it at the same moment, à la santé de Suzanne, whose mamma put her hand over her mouth to stop her from shouting her own health.
-
-Music in the evening, and Marie and [Cornélis](/person/421) set upon me about my stories in a very comical way, Norman being Cornélis’s favourite.[^1] Mme.
-
-Cornélis is younger than her sister, but looks older and more worn, and much less clear and fresh.
-
-Her [husband](/person/420) is député for this district, and in a Government office for Algeria; he is junior and is secure of no holidays at all, but works from 9 a.m. to 7 p.m.
-
-He hoped to come down at 12 last night, but was obliged to send a telegram to say he could not.
-
-She is taking her children to Buzenval, a little bathing place, and [Marguerite](/person/425) and [Jeanne](/person/424) too.
-
-They will all go off early to-morrow morning, and a great loss they will be.
-
-We go at 12.30 on Friday, and so any one who writes had better direct Hotel de Castiglione, 12 Rue de Castiglione, Paris.
-
-We tried to find the parish church yesterday, but it was all in the midst of fields, we were afterwards told, with no way to it.
-
-There were no roads at all up to this place when M.
-
-Guizot bought it, and he came to it riding.
-
-It is dry this morning, but quite cold and windy; indeed, we have done what M.
-
-Guizot calls bruler un fagot both the last two evenings.
-
-Frances is out playing at croquet, and a brass band is performing before the front door; I have just seen [Pierre](/person/428) rush out with their pay. I am very much in love with those young people, Cornélis and Marguerite are particularly engaging. I am writing to [Puslinch](/place/123), so I shall cut you off short this morning.
-
+Yesterday was so rainy that there really is very little to say about it. The breakfast was enlivened by our being told that [Madame Adelaide](/person/2038) always had a set of bonbons placed beside the seat of each member of her brother’s cabinet whenever they met, and that they were of a superior quality or not according as to whether she liked the ministry or not. [M. Guizot](/person/597) said he had the experience of both, for at first she was very fond of him, and then they were very good, but when she liked him less the bonbons deteriorated. He said she was la femme la plus passionée in her loves and hates that he had ever known, and he went on to Queen [Marie Amelie](/person/1737), whom I think he loved very much, but he said the [king](/person/2039) had told him that the way he came to marry her was that in the midst of his exile, when he was in Sicily, [Queen Caroline](/person/2040) came and said to him, 'You are a remarkable man. You will do something great. You will marry my daughter. Oui, oui, oui, vous serez Roi de France.' It certainly was a curious divination, and a good speculation, but I don’t think that taking her in that way he deserved to get so good a wife. She, the Queen, used to say that she herself and her [niece](/person/2041) of Tuscany were the only ones of her family who were good for anything. Queen Caroline taught her [husband](/person/2042) to read, and he used to say when he was angry with her that if she had not done that he would have cut off her head. Then of course we came to [Lord Nelson](/person/2043), and some one (English I think) who told M. Guizot, 'He was a hero, but he was an idiot,' the which I believe. I was comparing his bust with the [Duke](/person/1486)’s in the Taylor buildings at Oxford, and saying how disappointing it was, but [Frances Peard](/person/1160) did not agree with me. I do not think he had any countenance. After breakfast[Julian](/person/1624) discovered a book on the turning lathe, which he has wished to see all his life. 'Mr. Yonge does not read that book, he does study it,' they say. [Frances](/person/1604) worked and played at loto in the drawing-room with the girls, and [Mme. de Witt](/person/423) and I worked at the index till the arrival of [Mme. Cornélis de W](/person/427). and [Marie](/person/426), who is eighteen, and a bright talking girl, devoted to little [Suzanne](/person/431). [Miss Martin](/person/971) and I got an hour’s walk between the showers, in which we saw nothing remarkable but a little frog so green that we took him for a grasshopper, and then we came back to a merry dinner, when, in honour of Mme. Cornélis, we each had a glass of champagne, and M. Guizot made every one drink it at the same moment, à la santé de Suzanne, whose mamma put her hand over her mouth to stop her from shouting her own health. Music in the evening, and Marie and [Cornélis](/person/421) set upon me about my stories in a very comical way, Norman being Cornélis’s favourite.[^1] Mme. Cornélis is younger than her sister, but looks older and more worn, and much less clear and fresh. Her [husband](/person/420) is député for this district, and in a Government office for Algeria; he is junior and is secure of no holidays at all, but works from 9 a.m. to 7 p.m. He hoped to come down at 12 last night, but was obliged to send a telegram to say he could not. She is taking her children to Buzenval, a little bathing place, and [Marguerite](/person/425) and [Jeanne](/person/424) too. They will all go off early to-morrow morning, and a great loss they will be. We go at 12.30 on Friday, and so any one who writes had better direct Hotel de Castiglione, 12 Rue de Castiglione, Paris. We tried to find the parish church yesterday, but it was all in the midst of fields, we were afterwards told, with no way to it. There were no roads at all up to this place when M. Guizot bought it, and he came to it riding. It is dry this morning, but quite cold and windy; indeed, we have done what M. Guizot calls bruler un fagot both the last two evenings. Frances is out playing at croquet, and a brass band is performing before the front door; I have just seen [Pierre](/person/428) rush out with their pay. I am very much in love with those young people, Cornélis and Marguerite are particularly engaging. I am writing to [Puslinch](/place/123), so I shall cut you off short this morning.
 The post comes at 11, and we are hoping for home news.-
 Your most affectionate
 C. M. YONGE,

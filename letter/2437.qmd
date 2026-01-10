@@ -1,24 +1,18 @@
 ---
 id: 2437
 title: To Sir William Heathcote, Bt.
-date: '1872-01-30'
+iso-date: '1872-01-30'
 display-date: Jan 30th 1872
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester
 to-name: To Sir William Heathcote, Bt.
-manuscript-location: MS Girton College Cambridge, Yonge  I 1. Printed in Coleridge,
+manuscript-location: MS Girton College Cambridge, Yonge I 1. Printed in Coleridge,
   [[otherbook:40]<i>Life</i>] 301.
 ---
 
 My dear [Sir William](/person/669),
-Many warm thanks for sending me [Mr Austen Leigh](/person/78)’s kind comment on the [Daisies](/book/24). I believe I enjoyed them most, which is the best way to make a thing prosper. I am afraid the moral is not good but I have always found that what one likes best one does best.
-
-As to the crayfish, I did not know that they were so local, having always associated them with rivers and they do not proclaim their presence like nightingales.
-
-But the criticism has come happily in time to expel these same crayfish from a feast given by Felix Underwood after he came into his property which was in the same neighbourhood.[^1] Altogether it is such a story of young people and chatter that it always especially amazes and pleases me when such judges care for it.
-
+Many warm thanks for sending me [Mr Austen Leigh](/person/78)’s kind comment on the [Daisies](/book/24). I believe I enjoyed them most, which is the best way to make a thing prosper. I am afraid the moral is not good but I have always found that what one likes best one does best. As to the crayfish, I did not know that they were so local, having always associated them with rivers and they do not proclaim their presence like nightingales. But the criticism has come happily in time to expel these same crayfish from a feast given by Felix Underwood after he came into his property which was in the same neighbourhood.[^1] Altogether it is such a story of young people and chatter that it always especially amazes and pleases me when such judges care for it.
 Some day next week I hope to drive over and see if I can find you at 5 o’clock tea. I have been wanting to come for some little time, but opportunity was wanting.
-
 The Pillars of the House are written to the end - by which I do not by any means mean finished, but they will not be all out in the [Monthly Packet](/periodical/52) till the end of 1873, at which time I suppose they will be published so all corrections and annotations before that time will be most thankfully received.
 [Mr Faithfull](/person/497) has sent round his papers to ask for subscriptions to his poems
 Your affectionate

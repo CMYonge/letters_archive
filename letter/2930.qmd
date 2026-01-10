@@ -1,7 +1,7 @@
 ---
 id: 2930
 title: To an Unknown Woman
-date: '1880-12-13'
+iso-date: '1880-12-13'
 display-date: Decr 13th [late 1880s?]
 from-name: Charlotte Mary Yonge
 to-name: To an Unknown Woman
@@ -16,12 +16,4 @@ yours truly
 C M Yonge
 
 
-[^1]: Probably CMY had been offered for [MP](/periodical/52) the letters published in The Journal of General Sir Martin Hunter and some letters of his wife Lady Hunter put together by their daughter Miss A.
-
-Hunter and Miss Bell (1894).
-
-Sir Martin Hunter (1757–1846), served during the American War of Independence and in Canada and India; he married (1797) Jean Dickson (d.1845) and had a large family.
-
-See D. M.
-
-Young, ‘Hunter, Sir Martin’ in Dictionary of Canadian Biography Online at www.biographi.ca
+[^1]: Probably CMY had been offered for [MP](/periodical/52) the letters published in The Journal of General Sir Martin Hunter and some letters of his wife Lady Hunter put together by their daughter Miss A. Hunter and Miss Bell (1894). Sir Martin Hunter (1757–1846), served during the American War of Independence and in Canada and India; he married (1797) Jean Dickson (d.1845) and had a large family. See D. M. Young, ‘Hunter, Sir Martin’ in Dictionary of Canadian Biography Online at www.biographi.ca

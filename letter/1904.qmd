@@ -1,7 +1,7 @@
 ---
 id: 1904
 title: To Charles Raikes
-date: '1863-09-12'
+iso-date: '1863-09-12'
 display-date: Sept 12th [1863]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -11,7 +11,6 @@ manuscript-location: 'MS UCLA: collection 100: box 95'
 
 My dear [Mr Raikes](/person/1223),
 I am very sorry to have been so long answering your note. I have been from home, and have come back into a great confusion, and much that is trying.[^2] I believe I can quite manage without a chapter of yours this time, so I hope you will not hurry yourself to let me have one before the 18th of October.
-
 In much haste and confusion,
 
 Yours sincerely
@@ -19,5 +18,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: Probably as a result of the move from Otterbourn House to Elderfield.

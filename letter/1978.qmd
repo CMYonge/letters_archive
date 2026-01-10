@@ -1,7 +1,7 @@
 ---
 id: 1978
 title: To Alexander Macmillan
-date: '1864-09-17'
+iso-date: '1864-09-17'
 display-date: Sept 17th [1864]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -11,12 +11,8 @@ manuscript-location: 'MS British Library Add MSS 54920: 42'
 
 Dear [Mr Macmillan](/person/939),
 The lamp is decidedly a bright thought.[^1] I will add a bit about [Miss Nightingale](/person/1086) to the introduction to bring it in appropriately.
-
 Yours very truly
-C. M.
-
-Yonge
+C. M. Yonge
 
 
 [^1]: Black-edged paper.
-[^2]: It had been decided to use an [illustration](/topic/167) of Florence Nightingale\'s lamp in [A Book of Golden Deeds](/book/51).

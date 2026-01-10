@@ -1,7 +1,7 @@
 ---
 id: 2521
 title: To Edward Augustus Freeman
-date: '1875-01-27'
+iso-date: '1875-01-27'
 display-date: Jany 27th 1875
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,23 +10,9 @@ manuscript-location: MS John Rylands Library, Manchester, FA1/7/837a-837b
 ---
 
 My dear [Mr Freeman](/person/523),
-I am going to take two or three days more that I may finish up Philip IV and his three disagreeable sons, who will complete the 2nd chapter - the 3d is to be the Hundred Years War, the 4th the Italian wars, the 5th must go from Louis XIII to the end of Louis XV, and ought to be called the Absolutism of the King.[^1] I expect you will find the 1st chapter will not do. I began with Hugh Capet and put in explanations but I dont think they are good enough. I want to call it ‘the house of Paris’ instead of the foolish name of Capetian. I have gone on the plan of ignoring all the histories of other countries, and only bringing the name in when necessary - it would take up so much room to explain who everybody was - in Sicily, Germany &c.
-
-Even those broken threads of the Counts of Flanders I have not tried to join, nor to do the succession of the Kings of Jerusalem
-I think I had better stick to France with a single and narrow eye, I am not sure that it does not read rather childishly, but I have nobody to read it to, so I cant tell.
-
-Where was the root of the Montfort family, I know it is in your big history but I have not got it.[^2] I did not put in the history of Aquitaine Provence &c as I thought I had better give all the room possible to the kingdom, and I doubt if this is not too long after all - too anecdoty and not wise enough.
-
-If by any good chance it does not want to be done over again, I think it might go to [Macmillan](/organisation/111) and be begun upon.[^3] I have Mr Green’s little primer but not the longer history[^4] I could not write my French kings Lewis. I longed to call the Saint Loys as he wrote himself. I hope it is all right, I go chiefly by Sismondi except as to the origin of the Albigenses, whom I don’t believe in as pious Protestants one bit. I think [Cassell's ](/periodical/55)wants a good cutting up.
-I never ask for reviews in general, but just now I cannot help wishing that the [Saturday](/periodical/99) could notice those three volumes of [Scripture Readings](/book/87) with comments that Macmillan brought out.
-
-Strange to say, [Professor Huxley](/person/2300) praised them at the London School boards and the comments are I think as sensible as anything I have done, the prophecies and Psalms are worked in in historical order as far as possible. [^5] I am trying to get the [SPCK](/organisation/40) to take it, for I cannot make it cheap enough or enough known - though to my surprise the Record praised it. I wrote it for intelligent school room girls - (ladies) but people do find it useful for pupil teachers, and there is rather a call for such selections. I am finishing the [4th volume](/book/118) now as I always keep all my irons in the fire together.
-
-Would it be any use to cause the 3d going from Jeroboam to Daniel to be sent to you or anyone else-?
-
-Poor old [Canon Beadon](/person/2301) has been at deaths door with bronchitis but is better when so many die.
-
-Here among our nearest neighbours, a bright girl of sixteen, [Sir T Fairbairn](/person/496)’s daughter, is dead after one week’s pneumonia, from some unhappy carelessness about damp feet.
+I am going to take two or three days more that I may finish up Philip IV and his three disagreeable sons, who will complete the 2nd chapter - the 3d is to be the Hundred Years War, the 4th the Italian wars, the 5th must go from Louis XIII to the end of Louis XV, and ought to be called the Absolutism of the King.[^1] I expect you will find the 1st chapter will not do. I began with Hugh Capet and put in explanations but I dont think they are good enough. I want to call it ‘the house of Paris’ instead of the foolish name of Capetian. I have gone on the plan of ignoring all the histories of other countries, and only bringing the name in when necessary - it would take up so much room to explain who everybody was - in Sicily, Germany &c. Even those broken threads of the Counts of Flanders I have not tried to join, nor to do the succession of the Kings of Jerusalem
+I think I had better stick to France with a single and narrow eye, I am not sure that it does not read rather childishly, but I have nobody to read it to, so I cant tell. Where was the root of the Montfort family, I know it is in your big history but I have not got it.[^2] I did not put in the history of Aquitaine Provence &c as I thought I had better give all the room possible to the kingdom, and I doubt if this is not too long after all - too anecdoty and not wise enough. If by any good chance it does not want to be done over again, I think it might go to [Macmillan](/organisation/111) and be begun upon.[^3] I have Mr Green’s little primer but not the longer history[^4] I could not write my French kings Lewis. I longed to call the Saint Loys as he wrote himself. I hope it is all right, I go chiefly by Sismondi except as to the origin of the Albigenses, whom I don’t believe in as pious Protestants one bit. I think [Cassell's](/periodical/55)wants a good cutting up.
+I never ask for reviews in general, but just now I cannot help wishing that the [Saturday](/periodical/99) could notice those three volumes of [Scripture Readings](/book/87) with comments that Macmillan brought out. Strange to say, [Professor Huxley](/person/2300) praised them at the London School boards and the comments are I think as sensible as anything I have done, the prophecies and Psalms are worked in in historical order as far as possible. [^5] I am trying to get the [SPCK](/organisation/40) to take it, for I cannot make it cheap enough or enough known - though to my surprise the Record praised it. I wrote it for intelligent school room girls - (ladies) but people do find it useful for pupil teachers, and there is rather a call for such selections. I am finishing the [4th volume](/book/118) now as I always keep all my irons in the fire together. Would it be any use to cause the 3d going from Jeroboam to Daniel to be sent to you or anyone else-? Poor old [Canon Beadon](/person/2301) has been at deaths door with bronchitis but is better when so many die. Here among our nearest neighbours, a bright girl of sixteen, [Sir T Fairbairn](/person/496)’s daughter, is dead after one week’s pneumonia, from some unhappy carelessness about damp feet.
 I hope [Miss Florence](/person/524) will do Sidonius Apollinaris in spite of the wedding! I kept it till I thought she would be come home.[^6]
 
 Yours sincerely
@@ -36,11 +22,7 @@ C M Yonge
 
 [^1]: This refers to CMY\'s work on [History of France](/book/99), a volume in the \'Historical Course for Schools\' edited by Freeman.
 [^2]: Freeman had observed in his The Growth of the English Constitution, 71, that the \'career of Simon of Montfort is the most glorious in our later history\'.
-[^3]: Freeman was far from agreeing that the book was ready for the press: see Susan Walton\'s \'Charlotte M.
-
-Yonge and the \"historic harem\" of Edward Augustus Freeman\'.
+[^3]: Freeman was far from agreeing that the book was ready for the press: see Susan Walton\'s \'Charlotte M. Yonge and the \"historic harem\" of Edward Augustus Freeman\'.
 [^4]: John Richard Green, A Short History of the English People (London: Macmillan 1874) was probably the longer history referred to.
-[^5]: Huxley had indeed mentioned CMY\'s Scripture Readings as possible textbooks for children, \'strangely\', since he was himself an agnostic.
-
-He did not quite praise them, but instanced them as illustrations of the fact that even pious people thought young children should be given extracts from the Bible, rather than the whole thing, to read; see \'The London School Board\' The Times (30 March 1871), 10.
+[^5]: Huxley had indeed mentioned CMY\'s Scripture Readings as possible textbooks for children, \'strangely\', since he was himself an agnostic. He did not quite praise them, but instanced them as illustrations of the fact that even pious people thought young children should be given extracts from the Bible, rather than the whole thing, to read; see \'The London School Board\' The Times (30 March 1871), 10.
 [^6]: Florence Freeman took part in the Spider Society essay competitions in MP; one of the questions for February 1875 was \'Write the Life of Sidonius Apollinaris\'.

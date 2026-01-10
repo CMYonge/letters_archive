@@ -1,7 +1,7 @@
 ---
 id: 2137
 title: To Alexander Macmillan
-date: '1866-10-26'
+iso-date: '1866-10-26'
 display-date: Oct 26th 1866
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,15 +10,8 @@ manuscript-location: 'MS British Library Add MSS 54920: 166-167'
 ---
 
 My dear [Mr Macmillan](/person/939),
-We - ie [Miss Sewell](/person/1301) and I - send off by train today the first section of our [extracts](/book/71) for your inspection.
-
-They are intended to cover the reigns of Williams I & II, exclusive of the first Crusade - which is to class in with the other crusades in the next division.
-
-There is a list in the pencil of the Authors and subjects, we took long pieces because there is so much more interest in them than in scraps, and besides they are less in the line of Knight’s Half hours of English history.
-
-There is an introduction which is a sort of joint composition of our own. I wrote the first sketch and Miss Sewell amplified it where it was too brief and took too much knowledge on the readers part for granted.
-
-There must be a preface besides. I think this is about a third part of the whole
+We - ie [Miss Sewell](/person/1301) and I - send off by train today the first section of our [extracts](/book/71) for your inspection. They are intended to cover the reigns of Williams I & II, exclusive of the first Crusade - which is to class in with the other crusades in the next division. There is a list in the pencil of the Authors and subjects, we took long pieces because there is so much more interest in them than in scraps, and besides they are less in the line of Knight’s Half hours of English history.
+There is an introduction which is a sort of joint composition of our own. I wrote the first sketch and Miss Sewell amplified it where it was too brief and took too much knowledge on the readers part for granted. There must be a preface besides. I think this is about a third part of the whole
 
 Yours sincerely
 

@@ -2,8 +2,8 @@
 id: 20
 title: Little Duke, or, Richard the Fearless, The. By the author of “The Heir of Redclyffe”,
   “The Kings of England.”
-author: Charlotte Mary Yonge
-date: '1854'
+author-name: Charlotte Mary Yonge
+publication-date: '1854'
 genre: Fiction (historical)
 publication-format: Book
 publisher: John W Parker and Son, West Strand, London

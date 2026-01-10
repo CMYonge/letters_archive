@@ -1,7 +1,7 @@
 ---
 id: 2665
 title: To Henriette Elizabeth de Witt
-date: '1879-03-10'
+iso-date: '1879-03-10'
 display-date: March 10th 1879
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,11 +10,7 @@ manuscript-location: MS Fondation Guizot-Val Richer
 ---
 
 My dear [Mme de Witt](/person/423)
-You are quite welcome to make any use you please of my [Scripture Readings](/book/87). I have just completed them, though the last volume is not quite out.
-
-You must miss the spring after this severe winter Your En Quarantaine seems to have been a prediction of your winter of nursing. I am glad all is now well.
-
-We have all been having very severe colds, but are quite repaired now except my brother who has been much pulled down. I am expecting [Mary Coleridge](/person/351) here tomorrow. I made her a visit in the autumn in a very pretty house at Ottery, which [her brother](/person/343) has put into repair for her
+You are quite welcome to make any use you please of my [Scripture Readings](/book/87). I have just completed them, though the last volume is not quite out. You must miss the spring after this severe winter Your En Quarantaine seems to have been a prediction of your winter of nursing. I am glad all is now well. We have all been having very severe colds, but are quite repaired now except my brother who has been much pulled down. I am expecting [Mary Coleridge](/person/351) here tomorrow. I made her a visit in the autumn in a very pretty house at Ottery, which [her brother](/person/343) has put into repair for her
 
 yours affectionately
 

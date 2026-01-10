@@ -1,7 +1,7 @@
 ---
 id: 3600
 title: To Miss Higginbotham
-date: '1892-10-06'
+iso-date: '1892-10-06'
 display-date: Oct 6th [1892-1898]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -17,6 +17,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: The question was evidently which were the earliest of the linked stories.
-
-Innes reprinted Countess Kate in 1892 and The Castle-Builders in 1896.
+[^1]: The question was evidently which were the earliest of the linked stories. Innes reprinted Countess Kate in 1892 and The Castle-Builders in 1896.

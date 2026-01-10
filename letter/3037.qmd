@@ -1,7 +1,7 @@
 ---
 id: 3037
 title: To John William Parker, Jr.
-date: '1854-03-21'
+iso-date: '1854-03-21'
 display-date: March 21st [1854]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn Winchester
@@ -9,16 +9,11 @@ to-name: To John William Parker, Jr.
 manuscript-location: MS Princeton University, Parrish Collection, C0171 Box 29
 ---
 
-Dear[ Sir](/person/1143),
+Dear[Sir](/person/1143),
 There are a few slight corrections of the [‘Heir of Redclyffe](/book/15)’ which I will send in a day or two. I am glad to learn that this edition has sold off so well, but I think we should take it into consideration whether it might not be better still further to lessen the price. I have been much urged by influential persons to publish a large and really cheap edition, such as would fall into the hands of a more extensive class of purchasers, and this would certainly well accord with my own views. I see that Lady Catherine Long’s ‘[Sir Roland Ashton](/organisation/107)’[^2] originally a three volume novel is now published at 2/ and the great sale that books thus cheaply printed obtain would seem to point this out as a desirable measure now that the work has become known
 I remain
 Yours faithfully
-C.M.
-
-Yonge
+C.M. Yonge
 
 
-[^1]: Black-edged paper.
-[^2]: Sir Roland Ashton: A Tale of the Times (1844), an anti-tractarian novel by Lady Catherine (Walpole) Long (d. 1867).
-
-The edition referred to was advertised in The Times (10 March 1854), 13.
+[^2]: Sir Roland Ashton: A Tale of the Times (1844), an anti-tractarian novel by Lady Catherine (Walpole) Long (d. 1867). The edition referred to was advertised in The Times (10 March 1854), 13.

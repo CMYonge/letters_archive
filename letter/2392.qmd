@@ -1,8 +1,8 @@
 ---
 id: 2392
 title: Margaret Gatty to Charlotte Mary Yonge
-date: '1870-11-01'
-display-date: Friday [November or December 1870][[footnote:1]]
+iso-date: '1870-11-01'
+display-date: Friday [November or December 1870]
 from-name: Charlotte Mary Yonge
 from-address: Ecclesfield
 to-name: Margaret Gatty to Charlotte Mary Yonge
@@ -10,23 +10,11 @@ manuscript-location: MS UCLA collection 100 box 119/5
 ---
 
 My dear Miss Yonge
-When the Nov M.P. came I at once referred the quotation ‘No longer mourn for me’ to ‘the divine William’.
-
-But I forgot to send it & by this time I dare say you have been referred scores of times to that loveliest of sonnets.
-
-If by any incredible chance the matter has escaped notice, put—‘Opening lines of one of Shakespeare’s most beautiful sonnets.’[^2] I hear you have a tale from Mrs.
-
-Ewing.[^3] You may imagine what a blessing we feel it to be that her health is so good and her mental powers so vigorous.
-
-We hope to have them here at Christmas.
-
-Accept my good wishes herewith.
-
-They have had me at the sea—which I thoroughly enjoyed—i.e. as well as a cripple can be said to enjoy anything
+When the Nov M.P. came I at once referred the quotation ‘No longer mourn for me’ to ‘the divine William’. But I forgot to send it & by this time I dare say you have been referred scores of times to that loveliest of sonnets. If by any incredible chance the matter has escaped notice, put—‘Opening lines of one of Shakespeare’s most beautiful sonnets.’[^2] I hear you have a tale from Mrs. Ewing.[^3] You may imagine what a blessing we feel it to be that her health is so good and her mental powers so vigorous. We hope to have them here at Christmas.
+Accept my good wishes herewith. They have had me at the sea—which I thoroughly enjoyed—i.e. as well as a cripple can be said to enjoy anything
 yours very sincerely
 [Margt Gatty](/person/549)
 
 
-[^1]: [The watermark on the paper is Joynson 1869.
 [^2]: A correspondent named K.A.H. in MP ns 10 (November 1870), 528, asked for the identification of the first four lines of Shakespeare’s sonnet 71, and was answered in the December number, 628, with the rather discouraging comment: ‘Those of the Sonnets which most readers of English Poetry know, are exquisite; but the whole collection amounts to one hundred and fifty-four and these are of all degrees of merit, or the reverse.’
 [^3]: Juliana Horatia Ewing, ‘The blind hermit and the Trinity flower’ MP ns 11 (May 1871) 490-7.

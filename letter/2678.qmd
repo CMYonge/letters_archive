@@ -1,7 +1,7 @@
 ---
 id: 2678
 title: To Alexander Macmillan
-date: '1879-07-04'
+iso-date: '1879-07-04'
 display-date: July 4th/1879
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -19,7 +19,7 @@ Yours sincerely
 
 C M Yonge
 
-Would it be too late to suggest to the illustrator of [Heartsease ](/book/19)that in those days the Guards wore no moustaches?[^3]
+Would it be too late to suggest to the illustrator of [Heartsease](/book/19)that in those days the Guards wore no moustaches?[^3]
 
 I should have thanked you for Spenser and Burns, I was sorry not
 

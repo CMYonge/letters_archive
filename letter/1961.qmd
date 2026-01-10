@@ -1,8 +1,8 @@
 ---
 id: 1961
 title: To Alice Arbuthnot Moberly
-date: '1864-01-01'
-display-date: '[Summer 1864][[footnote:1]]'
+iso-date: '1864-01-01'
+display-date: '[Summer 1864]'
 from-name: Charlotte Mary Yonge
 to-name: To Alice Arbuthnot Moberly
 manuscript-location: MS location unknown. This fragment printed in <i>[[otherbook:122]Dulce
@@ -10,12 +10,7 @@ manuscript-location: MS location unknown. This fragment printed in <i>[[otherboo
 ---
 
 My dear [Alice](/person/1025),
-I was thinking of sending ‘The Mice at Play’ to [Maggie](/person/83), but somehow I felt that the note must be to one who could remember the old days, when the three bright faces[^2] it brings to mind were with us.
-
-If you had been people who shrank from such recollections instead of cherishing them, I would of course never have disinterred this old affair, but I know you will like the recurrence to those merry old days and bright remembrances.
+I was thinking of sending ‘The Mice at Play’ to [Maggie](/person/83), but somehow I felt that the note must be to one who could remember the old days, when the three bright faces[^2] it brings to mind were with us. If you had been people who shrank from such recollections instead of cherishing them, I would of course never have disinterred this old affair, but I know you will like the recurrence to those merry old days and bright remembrances.
 
 
-[^1]: This is printed by the author of Dulce Domum as part of a group of fragments with dates ranging from May to October 1864.
-[^2]: Two of the faces must be those of Alice’s second brother, [Arthur Moberly](/person/1011) (1840?-1858), and second sister, [Mary Louisa (Moberly) Ridding](/person/1020) (1838-1859).
-
-The third person was perhaps [WCY](/person/1631).
+[^2]: Two of the faces must be those of Alice’s second brother, [Arthur Moberly](/person/1011) (1840?-1858), and second sister, [Mary Louisa (Moberly) Ridding](/person/1020) (1838-1859). The third person was perhaps [WCY](/person/1631).

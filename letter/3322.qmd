@@ -1,7 +1,7 @@
 ---
 id: 3322
 title: To the Reverend John Frewen Moor
-date: '1896-04-13'
+iso-date: '1896-04-13'
 display-date: April 13th 1896
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -18,7 +18,5 @@ C M Yonge
 Mr Davies writes to[^2]
 
 
-[^1]: Anne Norgate (1876-1896), was blind.
-
-Her death was registered in the last quarter of 1896.
+[^1]: Anne Norgate (1876-1896), was blind. Her death was registered in the last quarter of 1896.
 [^2]: The letter breaks off thus.

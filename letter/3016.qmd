@@ -1,11 +1,11 @@
 ---
 id: 3016
 title: To Messrs Forbes and Marshall
-date: '1853-01-01'
+iso-date: '1853-01-01'
 display-date: '[1853?]'
 from-name: Charlotte Mary Yonge
 to-name: To Messrs Forbes and Marshall
-manuscript-location: MS  Harry Ransom Humanities Research Center, University of Texas,
+manuscript-location: MS Harry Ransom Humanities Research Center, University of Texas,
   Austin
 ---
 

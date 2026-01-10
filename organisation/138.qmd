@@ -5,10 +5,4 @@ name: St. John\'s College, Auckland
 title: St. John\'s College, Auckland
 ---
 
-Founded as a school and theological college by the Rt.
-
-Rev.
-
-George Augustus Selwyn, Bishop of New Zealand, in 1844.
-
-The website of the theological college is www.stjohnscollege.ac.nz. A picture of the buildings in 1862 drawn by Caroline Abraham iand now in the Alexander Turnbull Library is available at http://www.teara.govt.nz/en/auckland-places/13/4
+Founded as a school and theological college by the Rt. Rev. George Augustus Selwyn, Bishop of New Zealand, in 1844. The website of the theological college is www.stjohnscollege.ac.nz. A picture of the buildings in 1862 drawn by Caroline Abraham iand now in the Alexander Turnbull Library is available at http://www.teara.govt.nz/en/auckland-places/13/4

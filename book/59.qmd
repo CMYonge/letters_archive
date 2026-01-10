@@ -1,13 +1,11 @@
 ---
 id: 59
 title: \'Cawnpore\'
-author: Charlotte Mary Yonge
-date: '1865'
+author-name: Charlotte Mary Yonge
+publication-date: '1865'
 genre: 'Non-Fiction: criticism'
 publication-format: Article in Journal
 publisher: <i>Macmillan’s Magazine</i> 12 (July 1865) 267-274
 ---
 
-This was a review of Cawnpore by George Otto Trevelyan.
-
-The author was not named.
+This was a review of Cawnpore by George Otto Trevelyan. The author was not named.

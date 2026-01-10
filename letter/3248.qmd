@@ -1,7 +1,7 @@
 ---
 id: 3248
 title: To the Reverend John Frederick Watkinson Bullock
-date: '1894-02-09'
+iso-date: '1894-02-09'
 display-date: Feb 9th 1894
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -10,13 +10,8 @@ manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e.174 ff 
 ---
 
 Dear [Mr Bullock](/person/221),	
-Here I send Archbishop Sancroft, hoping he is the right length.
-
-Miss Strickland’s Seven Bishops made it rapid work.
-
-Have you thought of Frampton - a non juror, though not in time to be added to the 7. I have a life of him and could write it. I have just had your letter. I do not much incline to Sir R Fanshaw. I had his wife’s book long ago, and lost sight of it. I think it was from the [London Library](/organisation/29) but went on into vanities of political mission rather wearily.
-
-However, Lord Carnarvon who was killed at Newbury or Edmund Verney are more model Cavaliers.[^1]
+Here I send Archbishop Sancroft, hoping he is the right length. Miss Strickland’s Seven Bishops made it rapid work.
+Have you thought of Frampton - a non juror, though not in time to be added to the 7. I have a life of him and could write it. I have just had your letter. I do not much incline to Sir R Fanshaw. I had his wife’s book long ago, and lost sight of it. I think it was from the [London Library](/organisation/29) but went on into vanities of political mission rather wearily. However, Lord Carnarvon who was killed at Newbury or Edmund Verney are more model Cavaliers.[^1]
 Thank you for your card about Bp Andrews. I handed it to the Chairman of our society - Andrews’ [descendant](/person/40) is Master of [St Cross](/organisation/130)[^2]
 
 Yours truly
@@ -24,11 +19,5 @@ Yours truly
 C M Yonge
 
 
-[^1]: Robert Dormer, Earl of Carnarvon (1610?-1643); Sir Edmund Verney (1616-1649).
-
-These biographies were for the [\'Biographies of Eminent Anglicans\'](/book/358) series, of which CMY wrote several for Bullock\'s Daily Lections project, but which were not in fact published.
-[^2]: W. G.
-
-Andrewes became Master of St.
-
-Cross Hospital in 1868.
+[^1]: Robert Dormer, Earl of Carnarvon (1610?-1643); Sir Edmund Verney (1616-1649). These biographies were for the [\'Biographies of Eminent Anglicans\'](/book/358) series, of which CMY wrote several for Bullock\'s Daily Lections project, but which were not in fact published.
+[^2]: W. G. Andrewes became Master of St. Cross Hospital in 1868.

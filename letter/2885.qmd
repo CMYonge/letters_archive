@@ -1,7 +1,7 @@
 ---
 id: 2885
 title: To Mr Dean? or the Dean of ?
-date: '1888-06-14'
+iso-date: '1888-06-14'
 display-date: June 14th 1888
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne

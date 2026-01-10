@@ -1,7 +1,7 @@
 ---
 id: 3604
 title: To Cordelia Elizabeth Yonge?
-date: '1896-11-24'
+iso-date: '1896-11-24'
 display-date: Novr 24 [1896 or earlier]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,18 +10,8 @@ manuscript-location: MS Mrs Philip Drazin
 ---
 
 My dear [Cordelia](/person/1593)
-I shall be very glad to see you and [Alethea](/person/1581) on Wednesday - tomorrow afternoon if you can come out. I am sorry I can say no more, but Thursday is [Mother’s Meeting](/organisation/31) day.
-
-Friday School, Saturday a Sunday School meeting at the Vicarage.
-
+I shall be very glad to see you and [Alethea](/person/1581) on Wednesday - tomorrow afternoon if you can come out. I am sorry I can say no more, but Thursday is [Mother’s Meeting](/organisation/31) day. Friday School, Saturday a Sunday School meeting at the Vicarage.
 And [Miss Walter](/person/1462) is so ill that I dare not make arrangements for more than that short afternoon time
 your affectionate cousin
 
 C M Yonge
-
-
-[^1]: Cordelia Elizabeth Yonge (1874-1958) and Alethea Yonge (1876-1959) were the younger daughters of CMY’s cousin the Rev.
-
-Duke Yonge of Puslinch.
-
-The names were common in the family, but these seem to be the most likely candidates.

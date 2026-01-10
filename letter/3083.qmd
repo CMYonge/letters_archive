@@ -1,7 +1,7 @@
 ---
 id: 3083
 title: To Anna Butler
-date: '1856-06-01'
+iso-date: '1856-06-01'
 display-date: June 23d [1856]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
@@ -10,13 +10,7 @@ manuscript-location: MS Mrs Caroline Fairclough/8
 ---
 
 My dear [Miss Butler](/person/237)
-Many thanks for [Chapter XV](/organisation/248) which is very lively and promising, and in itself is all that the [Packet](/periodical/52) could wish, though of course I know it is but a single brick of the house which you have not yet built.
-
-It amused us exceedingly, and your writing is so easy to read that it is as pleasant as having a chapter of some printed book sent to us.
-
-Shall I return it, or keep it for a continuation? I get such an amount of murmurs at only half the [Daisy Chain](/book/24) being in the Packet that I dont know what people will say to being served in the same way again.[^1] On the whole too, I think the Packet has grown older and more grown up than when it began.
-
-But we shall judge better in time, when your plan is complete, and in the mean time, there is no hurry, as we could not have the continuation before this time next year, which sounds so far off to anything but Packet plans that perhaps you would not care to wait.
+Many thanks for [Chapter XV](/organisation/248) which is very lively and promising, and in itself is all that the [Packet](/periodical/52) could wish, though of course I know it is but a single brick of the house which you have not yet built. It amused us exceedingly, and your writing is so easy to read that it is as pleasant as having a chapter of some printed book sent to us. Shall I return it, or keep it for a continuation? I get such an amount of murmurs at only half the [Daisy Chain](/book/24) being in the Packet that I dont know what people will say to being served in the same way again.[^1] On the whole too, I think the Packet has grown older and more grown up than when it began. But we shall judge better in time, when your plan is complete, and in the mean time, there is no hurry, as we could not have the continuation before this time next year, which sounds so far off to anything but Packet plans that perhaps you would not care to wait.
 
 yours sincerely
 

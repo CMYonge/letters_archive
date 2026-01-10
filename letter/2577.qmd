@@ -1,7 +1,7 @@
 ---
 id: 2577
 title: To Mr Hoskins
-date: '1877-03-20'
+iso-date: '1877-03-20'
 display-date: March 20th 1877
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -9,11 +9,7 @@ to-name: To Mr Hoskins
 manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
 ---
 
-Miss Yonge is glad to be able to inform [Mr Hoskins](/person/718) that the 1st volume of the [Beginnings of Church history](/book/119) is nearly printed and will soon be out. A large number of orders for it is the only way of cheapening it.
-
-Miss Yonge fears the Societies would not accept the book without omissions to which she could not consent.[^1]
+Miss Yonge is glad to be able to inform [Mr Hoskins](/person/718) that the 1st volume of the [Beginnings of Church history](/book/119) is nearly printed and will soon be out. A large number of orders for it is the only way of cheapening it. Miss Yonge fears the Societies would not accept the book without omissions to which she could not consent.[^1]
 
 
-[^1]: It seems likely that the societies referred to here included the [SPCK](/organisation/40), since CMY regarded it as cautious about publishing books which might be considered too High Church.
-
-She was perhaps also thinking of the [National Society](/organisation/32).
+[^1]: It seems likely that the societies referred to here included the [SPCK](/organisation/40), since CMY regarded it as cautious about publishing books which might be considered too High Church. She was perhaps also thinking of the [National Society](/organisation/32).

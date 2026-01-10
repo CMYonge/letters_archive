@@ -1,7 +1,7 @@
 ---
 id: 3003
 title: To Elizabeth Roberts
-date: '1852-11-08'
+iso-date: '1852-11-08'
 display-date: Nov 8th [1852]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
@@ -10,11 +10,7 @@ manuscript-location: 'MS Huntington Library: Yonge Letters to Elizabeth Roberts'
 ---
 
 My dear [Madam](/person/1243),
-I must send you a few lines of thanks for Margaret whom I think extremely ‘grown and improved,’ and like very much so far, I have only one criticism to make, surely Arius was an Egyptian born at Lybia, and so presbyter of Alexandria as all the Church histories call him.[^1] St Blaise is very interesting. I have been used to see him made very frightful as the sign of a public house at Romsey - where there is one of the Churches that is the glory of Hampshire belonging to the old nunnery where good Queen Maude disdained the veil.[^2] I am like you hardly satisfied to call these Stories.
-
-How would it be to call them ‘[The Lesser Holydays](/organisation/234)’ or ‘Evenings with the Saints’ It would be better not to say dialogues or discussions or conversations, as all these have been used up already, and so has Calendar in other Magazines.
-
-Thank you for making them short, it is great gain to have a contributor who knows the evils of redundancy.
+I must send you a few lines of thanks for Margaret whom I think extremely ‘grown and improved,’ and like very much so far, I have only one criticism to make, surely Arius was an Egyptian born at Lybia, and so presbyter of Alexandria as all the Church histories call him.[^1] St Blaise is very interesting. I have been used to see him made very frightful as the sign of a public house at Romsey - where there is one of the Churches that is the glory of Hampshire belonging to the old nunnery where good Queen Maude disdained the veil.[^2] I am like you hardly satisfied to call these Stories. How would it be to call them ‘[The Lesser Holydays](/organisation/234)’ or ‘Evenings with the Saints’ It would be better not to say dialogues or discussions or conversations, as all these have been used up already, and so has Calendar in other Magazines. Thank you for making them short, it is great gain to have a contributor who knows the evils of redundancy.
 I do not like to lose your heaths, I daresay time might yet be made for them, and it is a pity to miss one flower from the last wreath of our [Garland](/topic/225), which I am sorry to see quite finished
 Perhaps Mr Mozley refused to do with the collection of poetry you mention thinking the ground pre occupied by ‘[Days and Seasons](/place/125),’ one of three little books which he has published of poetry, original & selected, much from old writers and very well chosen
 

@@ -1,7 +1,7 @@
 ---
 id: 19839
 title: To a member of the Gosling Society
-date: '1875-01-20'
+iso-date: '1875-01-20'
 display-date: Jany 20th 1875
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,13 +11,7 @@ manuscript-location: MS Charlotte Mitchell.
 
 My dear Lily of the Valley
 
-I send you the scraps our boys say before Service.
-
-It comes from a little book of Mowbrays publishing like the enclosed.
-
-If these are too simple Mowbray publishes other little books of prayers such as these, and you might order them.
-
-Please return this little book.
+I send you the scraps our boys say before Service.  It comes from a little book of Mowbrays publishing like the enclosed.  If these are too simple Mowbray publishes other little books of prayers such as these, and you might order them.  Please return this little book.
 
 I think I must have an answer[^1] with facts and not ideas, there are so many [Goslings](/topic/104) who can narrate better than give their ideas.
 

@@ -1,8 +1,8 @@
 ---
 id: 2558
 title: To an Unknown Woman
-date: '1876-07-10'
-display-date: July 10th 1876[[footnote:1]]
+iso-date: '1876-07-10'
+display-date: July 10th 1876
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
 to-name: To an Unknown Woman
@@ -15,6 +15,3 @@ Will you kindly send the advertisement with six stamps direct to the publisher a
 yours sincerely
 
 C M Yonge
-
-
-[^1]: The number is indistinct and might read 19th.

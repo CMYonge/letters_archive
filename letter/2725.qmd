@@ -1,7 +1,7 @@
 ---
 id: 2725
 title: To Ann Maria Carter Smith
-date: '1881-05-16'
+iso-date: '1881-05-16'
 display-date: May 16th [1881]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,26 +10,14 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ 1881/ 3
 ---
 
 My dear [Miss Smith](/person/263)
-Thank you, I like the beginning very much, and I think it much to the purpose, as you always are.[^1] I hope it is not to turn out very melancholy, though I have my fears.
-
-The Church going is very pretty and calm.
-
-But I cannot help thinking that though the favoured inmates of the pew do feel the shelter, and the associations, the poor had much less chance of ever learning reverence or devotion. I once sat for a year or two in the gallery with the boys, & I found it really much harder to realise that I was in Church- and there must be distinction of rich and poor if there are those old pews so I do not like pleading for them, though I do enter into the old associations of people brought up to them.
-I suppose nothing can be truer than that there is much irreverence in the present forms of Religious teaching but it has not come in my way, and I think the general inclination has improved the children’s powers of comprehension.
-
-Do you think taking one thing with another that it is worse irreverence than when the Bible was the only reading book?
-
-No doubt the carefully taught class of a good lady was excellent under her personal influence, but I think there was a large proportion that learnt nothing at all, in all the ill tended parishes, among boys especially - so that with all the evils, I think the balance is for the better, where there is Religious Instruction By the by, ‘Je mourrai seul’ is Pascal’s - not à Kempis.[^2]
-I long for the rest.
-
-It is a revival of old times
+Thank you, I like the beginning very much, and I think it much to the purpose, as you always are.[^1] I hope it is not to turn out very melancholy, though I have my fears. The Church going is very pretty and calm. But I cannot help thinking that though the favoured inmates of the pew do feel the shelter, and the associations, the poor had much less chance of ever learning reverence or devotion. I once sat for a year or two in the gallery with the boys, & I found it really much harder to realise that I was in Church- and there must be distinction of rich and poor if there are those old pews so I do not like pleading for them, though I do enter into the old associations of people brought up to them.
+I suppose nothing can be truer than that there is much irreverence in the present forms of Religious teaching but it has not come in my way, and I think the general inclination has improved the children’s powers of comprehension. Do you think taking one thing with another that it is worse irreverence than when the Bible was the only reading book? No doubt the carefully taught class of a good lady was excellent under her personal influence, but I think there was a large proportion that learnt nothing at all, in all the ill tended parishes, among boys especially - so that with all the evils, I think the balance is for the better, where there is Religious Instruction By the by, ‘Je mourrai seul’ is Pascal’s - not à Kempis.[^2]
+I long for the rest. It is a revival of old times
 
 yours sincerely
 
 C M Yonge
 
 
-[^1]: ‘A Little Less than Kin and More than Kind’, a tale by Smith serialized in MP (April-June 1882).
-
-The issue of the box pews, rented or owned by the wealthier classes, separating them from the common people in churches, was a preoccupation for early Victorian reforming clergymen, and by the 1880s most had been replaced by open pews in parishes with any pretensions to being up-to-date.
+[^1]: ‘A Little Less than Kin and More than Kind’, a tale by Smith serialized in MP (April-June 1882). The issue of the box pews, rented or owned by the wealthier classes, separating them from the common people in churches, was a preoccupation for early Victorian reforming clergymen, and by the 1880s most had been replaced by open pews in parishes with any pretensions to being up-to-date.
 [^2]: Blaise Pascal, Pensées, 211: ‘On mourra seul’.

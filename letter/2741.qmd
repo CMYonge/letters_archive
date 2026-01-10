@@ -1,8 +1,8 @@
 ---
 id: 2741
 title: To Annie Louise Cazenove
-date: '1881-01-21'
-display-date: Jan 21st 1881 [for 1882][[footnote:1]]
+iso-date: '1881-01-21'
+display-date: Jan 21st 1881 [for 1882]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
 to-name: To Annie Louise Cazenove
@@ -22,5 +22,4 @@ Your affectionate
 C M Yonge
 
 
-[^1]: The letter is placed here, in spite of the year written, on the assumption that it relates to Annie Cazenove, ‘A Prayer for the Parliament’ MP 3s 3 (March 1882) 298-9.
 [^2]: The Watchword (1880-1972) was the journal of the Society of Watchers and Workers, founded by Edith Jacob.

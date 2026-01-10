@@ -1,8 +1,8 @@
 ---
 id: 3239
 title: To an Unknown Woman
-date: '1893-12-22'
-display-date: Decr 22 [1893][[footnote:1]]
+iso-date: '1893-12-22'
+display-date: Decr 22 [1893]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
 to-name: To an Unknown Woman
@@ -10,20 +10,8 @@ manuscript-location: MS Princeton University, Parrish Collection
 ---
 
 Dear Madam
-The best modern prints in point of art are Hoffman’s series, uncoloured, only the Gospels.[^2] I have seen a beautiful edition given by the Duchess of Albany to [Bishop Harold Browne](/person/213)’s grandchildren. I think they could be had from [Williams and Norgate](/organisation/165).
-
-The only fault is a certain weakness in the Divine face.
-
-There is a fairly good series of ‘Sunday Picture books’ - each little book /6 -drawn by André edited by Rev Theodore Johnston published by Dean, 160 Piccadilly.
-
-The pictures are square the size of this sheet of paper, coloured but well and artistically and quite reverent.
-
-Some of the parables are really beautiful
-[Nelson](/organisation/226) has a nice little shilling set on the Nativity.
-
-Some of [SPCK](/organisation/40) are good, others the reverse.
-
-The history of Joseph is well done.
+The best modern prints in point of art are Hoffman’s series, uncoloured, only the Gospels.[^2] I have seen a beautiful edition given by the Duchess of Albany to [Bishop Harold Browne](/person/213)’s grandchildren. I think they could be had from [Williams and Norgate](/organisation/165). The only fault is a certain weakness in the Divine face. There is a fairly good series of ‘Sunday Picture books’ - each little book /6 -drawn by André edited by Rev Theodore Johnston published by Dean, 160 Piccadilly. The pictures are square the size of this sheet of paper, coloured but well and artistically and quite reverent. Some of the parables are really beautiful
+[Nelson](/organisation/226) has a nice little shilling set on the Nativity. Some of [SPCK](/organisation/40) are good, others the reverse. The history of Joseph is well done.
 I think the book you recollect must have been Schnorr’s Bibel in Bildern. [Masters](/organisation/112) (I think) reprinted it but hardly as well and with omissions some desirable
 The [Religious Tract Society](/organisation/35) has a series some very pretty - but neither artistic nor archaic
 I have collected for many years to make up a series for Sunday Lessons and Gospels
@@ -33,8 +21,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: The year has been added in another hand.
-[^2]: The problem addressed by this letter is how to amuse small children during Sunday.
-
-By the late Victorian period the ban on non-religious books and toys was widely observed in respectable families, and there was a consequent need for suitable picture books.
-[^3]: Julius Schnorr von Carolsfeld, Die Bibel in Bildern (Leipzig 1852-1860).
+[^2]: The problem addressed by this letter is how to amuse small children during Sunday. By the late Victorian period the ban on non-religious books and toys was widely observed in respectable families, and there was a consequent need for suitable picture books.

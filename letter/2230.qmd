@@ -1,7 +1,7 @@
 ---
 id: 2230
 title: The Right Reverend John Coleridge Patteson to Charlotte Mary Yonge
-date: '1868-01-22'
+iso-date: '1868-01-22'
 display-date: January 22, 1868.
 from-name: Charlotte Mary Yonge
 from-address: '[Norfolk Island]'
@@ -11,62 +11,24 @@ manuscript-location: MS location unknown. Printed in Yonge, <i>[[cmybook:102]Lif
 ---
 
 My dear Cousin,
-[I](/person/1155) write you a line: I have not time for more in addition to my other epistle, to tell you that I purpose to baptize, on Sunday next, eight Melanesian youths and one girl.
-
-You will, I know, thank God for this.
-
-Indeed I hope (though I say it with a kind of trembling and wonder) that a succession of scholars is now regularly established from the Banks Islands.
-
-These nine are being closely followed by some ten or twelve more, younger than they, averaging from seven to eleven years, who all read and write and know the elements of Christian teaching, but you should see them, bright merry little fellows, and the girls too, full of play and fun.
-
-Yet so docile, and obedient, and good-tempered.
-
-They all volunteer to stay here again this winter, though they have not been at home since they first left it, in July and August 1866.
-
-They have a generation of Christians --I mean one of our generations’--some two dozen or more, to help them; they have not the brunt of the battle to bear, like dear [George](/person/1980) and [Henry](/person/1975) and others; and because, either here or there, they will be living with Christians, I need not, I think, subject them to a probation.
-
-Next year (D.V.) they may be baptized, and so the ranks are being filled up.
-I would call the girl Charlotte were she a favourite of mine, but I wait in hopes that a nicer girl (though this one is good and nice too) may be baptized by your and [Mrs.
-
-Keble](/person/795)’s name.
-
-You may well believe that my heart and mind are very full of this.
-
-May God grant that they may continue His for ever!
+[I](/person/1155) write you a line: I have not time for more in addition to my other epistle, to tell you that I purpose to baptize, on Sunday next, eight Melanesian youths and one girl. You will, I know, thank God for this. Indeed I hope (though I say it with a kind of trembling and wonder) that a succession of scholars is now regularly established from the Banks Islands.
+These nine are being closely followed by some ten or twelve more, younger than they, averaging from seven to eleven years, who all read and write and know the elements of Christian teaching, but you should see them, bright merry little fellows, and the girls too, full of play and fun. Yet so docile, and obedient, and good-tempered. They all volunteer to stay here again this winter, though they have not been at home since they first left it, in July and August 1866. They have a generation of Christians --I mean one of our generations’--some two dozen or more, to help them; they have not the brunt of the battle to bear, like dear [George](/person/1980) and [Henry](/person/1975) and others; and because, either here or there, they will be living with Christians, I need not, I think, subject them to a probation. Next year (D.V.) they may be baptized, and so the ranks are being filled up.
+I would call the girl Charlotte were she a favourite of mine, but I wait in hopes that a nicer girl (though this one is good and nice too) may be baptized by your and [Mrs. Keble](/person/795)’s name. You may well believe that my heart and mind are very full of this. May God grant that they may continue His for ever!
 I confirm on the same day fourteen Norfolk Islanders.
-[Walter Hotaswol](/person/1970), from Matlavo, the southern part of Saddle Island, died on the evening of the Epiphany: a true Epiphany to him, I trust.
-
-He was remarkably gentle and innocent for one born in a heathen land.
-
-His confession, very fully made to me before his first Communion, was very touching, simply given, and, thank God, he had been wonderfully kept from the sins of heathenism.
-
-With us, his life for years was blameless.
-
-He died almost without pain, after many weeks of lingering in consumption, I verily believe in full faith in his Saviour and his God.
-
-During his last illness, and for a short time before he actually took to his bed, he frequently received the Holy Communion.
-
-And very remarkable were his words to me the day after his first Communion. I was sitting by him, when he said, apropos of nothing, ‘Very good!’
+[Walter Hotaswol](/person/1970), from Matlavo, the southern part of Saddle Island, died on the evening of the Epiphany: a true Epiphany to him, I trust. He was remarkably gentle and innocent for one born in a heathen land. His confession, very fully made to me before his first Communion, was very touching, simply given, and, thank God, he had been wonderfully kept from the sins of heathenism. With us, his life for years was blameless. He died almost without pain, after many weeks of lingering in consumption, I verily believe in full faith in his Saviour and his God.
+During his last illness, and for a short time before he actually took to his bed, he frequently received the Holy Communion. And very remarkable were his words to me the day after his first Communion. I was sitting by him, when he said, apropos of nothing, ‘Very good!’
 ‘What is very good, Walter?’
 ‘The Lord’s Supper.’
 ‘Why do you think so?’
 ‘I can’t talk about it. I feel it here (touching his heart), I don’t feel as I did! ‘
 ‘But you have long believed in Him.’
-‘Yes, but I feel different from that; I don’t feel afraid for death.
-
-My heart is calm (me masur kal, of a calm following a gale).’ His look was very earnest as he added: ‘I do believe that I am going to Him.’ Presently, ‘Bishop!’
+‘Yes, but I feel different from that; I don’t feel afraid for death. My heart is calm (me masur kal, of a calm following a gale).’ His look was very earnest as he added: ‘I do believe that I am going to Him.’ Presently, ‘Bishop!’
 ‘Well.’
-‘Last night--no, the night before I received the Lord’s Supper, I saw a man standing there, a tanum liana (a man of rank, or authority).
-
-He said “Your breath is bad, I will give you a new breath.’’’
+‘Last night--no, the night before I received the Lord’s Supper, I saw a man standing there, a tanum liana (a man of rank, or authority). He said “Your breath is bad, I will give you a new breath.’’’
 ‘Yes.’
 ‘I thought it meant, I will give you a new life. I thought it must be JESUS.’
 He was weak, but not wandering. ‘Yes, better to die here with a bright heart than to live in my old home with a dark one.’
-January 28th.--The nine young Christians were baptized on Sunday evening; a very touching and solemn service it was, very full of comfort.
-
-It may be that now, in full swing of work, I am too sanguine, but I try to be sober-minded, thankful, and hopeful. I try, I say--it is not easy.
-
+January 28th.--The nine young Christians were baptized on Sunday evening; a very touching and solemn service it was, very full of comfort. It may be that now, in full swing of work, I am too sanguine, but I try to be sober-minded, thankful, and hopeful. I try, I say--it is not easy.
 God bless you, my dear Cousin, and as I pray for you, so I know you pray for us.
-
 Your affectionate Cousin,
 J. C. PATTESON.

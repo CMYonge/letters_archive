@@ -1,7 +1,7 @@
 ---
 id: 2047
 title: To Alexander Macmillan
-date: '1865-06-01'
+iso-date: '1865-06-01'
 display-date: June 23d [1865]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -12,13 +12,8 @@ manuscript-location: 'MS British Library Add MSS 54920: 97-98'
 Dear [Mr Macmillan](/person/939)
 Somehow my direction book has been faithless and I have missed [Mr Masson](/person/980)’s address, so I am sending the new chapters of [Dove](/book/62) etc. direct to you. I am afraid the story may be thought to flag a little just here, but I could not help it, and there is plenty of incident to come after the next division.
 I think [Miss Sewell](/person/1301)’s idea was to divide by periods.[^1] I think I should have ended the stage in the constitutional existence/history not with Montfort’s death but with the establishing of his measures under Edward I, but I shall know more of Miss Sewell’s plan by this day week.
-
-This year’s [Monthly Packet](/periodical/52) has a story of mine about the Sons of Montfort which I want to bring out at Christmas in the same shape with the [Little Duke](/book/20) and [Lances of Lynwood](/book/23).
-
-It is called the [Prince and the Page](/book/61), and is/has long been all written, though I had rather it did not appear till December, when the last chapter will have come out in the Monthly Packet.
-I am promised some illustrations the first of which is excellent.
-
-What would be the cost of photozincography, and how soon should they be sent if such were the medium?[^2]
+This year’s [Monthly Packet](/periodical/52) has a story of mine about the Sons of Montfort which I want to bring out at Christmas in the same shape with the [Little Duke](/book/20) and [Lances of Lynwood](/book/23). It is called the [Prince and the Page](/book/61), and is/has long been all written, though I had rather it did not appear till December, when the last chapter will have come out in the Monthly Packet.
+I am promised some illustrations the first of which is excellent. What would be the cost of photozincography, and how soon should they be sent if such were the medium?[^2]
 
 Yours sincerely
 

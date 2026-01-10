@@ -1,7 +1,7 @@
 ---
 id: 20049
 title: To Anna Rachel Bramston
-date: '1875-10-15'
+iso-date: '1875-10-15'
 display-date: Oct 15th [1875-8?]
 from-name: Charlotte Mary Yonge
 to-name: To Anna Rachel Bramston

@@ -1,7 +1,7 @@
 ---
 id: 3516
 title: To Mary Elizabeth Coleridge?
-date: '1870-02-14'
+iso-date: '1870-02-14'
 display-date: Febry 14th [1870s?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -17,6 +17,4 @@ your affectionate cousin
 C M Yonge
 
 
-[^1]: The letter is obviously addressed to a child, and is catalogued in the Coleridge collection at Texas. [Mary Elizabeth Coleridge](/person/350) (1861-1907) is suggested as a possibility.
-
-None of the books mentioned was published later than 1862.
+[^1]: The letter is obviously addressed to a child, and is catalogued in the Coleridge collection at Texas. [Mary Elizabeth Coleridge](/person/350) (1861-1907) is suggested as a possibility. None of the books mentioned was published later than 1862.

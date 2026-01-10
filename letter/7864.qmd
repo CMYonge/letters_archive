@@ -1,7 +1,7 @@
 ---
 id: 7864
 title: To John Duke Coleridge
-date: '1854-03-07'
+iso-date: '1854-03-07'
 display-date: March 7th [1854]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
@@ -11,31 +11,12 @@ manuscript-location: 'MS British Library: Coleridge Family Papers E: Add MSS 862
 ---
 
 My dear [John](/person/343)
-Since writing to you I have to thank you for your very kind long letter, shewing, what indeed I knew, how well you appreciated the power and the tenderness of that nature.
-
-But it is pleasant to have such things said, and makes one grateful.
-
-And now I will say no more of our selves, or of Saturday, because I am writing it to [May](/person/351), and you will hear it from her[^2] I want to ask you if you will be so kind as to finish for me a business correspondence with [Mr Mozley](/person/1065) which my dear [Father](/person/1631) had embarked in. I never cared about the gains but he could not bear not to see me get what he thought my due, and had been writing about the [Kings](/book/6) and Landmarks.[^3] I feel as if it would be giving up his cause, as he would not like, if I yielded now, and as these two books are out of print, it will not do to wait long.
-
-If he had gone to London, as he had intended on the day he was taken ill, I believe he would have shewn you and the [Judge](/person/344) the correspondence, his last letter was copied for the purpose, so I think he would prefer its being committed to you, if you have no objection, and have time, to write a letter or two for which I have not force or judgment.
-
-The point is that Mr Mozley declared that having published the first edition at half profits, implies an agreement that all future editions must be necessarily be on the same terms, even when he stereotypes at the joint expense, so that I suppose I have a joint property in the stereotype plates.
-
-Several letters had passed.
-
-Mr Mozley’s last Papa never read at all, but had put it in his pocket to read when he should have the leisure that never came, and now we have searched everywhere without finding it.
-
-So we suppose it must have dropped out at Portsmouth.
-
-If you will be so kind as to finish the correspondence for me, I will send you the copies of our answers, and Mr Mozley’s letters, and the copy of accounts that Papa drew up to shew how small in proportion my gains were to his. I hope it will not take much of your time and trouble for I should think at the most two letters would settle it. I scarcely suppose you are at home, but I send my letter there as they will send it on. [Mamma](/person/1606) looks thin but is well, and equal to all. I am glad you did not try to be here on Saturday as[?] it was inconvenient. I could not have seen you for there were so many cousins and friends, I had to see no one, but keep quiet for the Church going.
+Since writing to you I have to thank you for your very kind long letter, shewing, what indeed I knew, how well you appreciated the power and the tenderness of that nature. But it is pleasant to have such things said, and makes one grateful. And now I will say no more of our selves, or of Saturday, because I am writing it to [May](/person/351), and you will hear it from her[^2] I want to ask you if you will be so kind as to finish for me a business correspondence with [Mr Mozley](/person/1065) which my dear [Father](/person/1631) had embarked in. I never cared about the gains but he could not bear not to see me get what he thought my due, and had been writing about the [Kings](/book/6) and Landmarks.[^3] I feel as if it would be giving up his cause, as he would not like, if I yielded now, and as these two books are out of print, it will not do to wait long. If he had gone to London, as he had intended on the day he was taken ill, I believe he would have shewn you and the [Judge](/person/344) the correspondence, his last letter was copied for the purpose, so I think he would prefer its being committed to you, if you have no objection, and have time, to write a letter or two for which I have not force or judgment. The point is that Mr Mozley declared that having published the first edition at half profits, implies an agreement that all future editions must be necessarily be on the same terms, even when he stereotypes at the joint expense, so that I suppose I have a joint property in the stereotype plates. Several letters had passed. Mr Mozley’s last Papa never read at all, but had put it in his pocket to read when he should have the leisure that never came, and now we have searched everywhere without finding it. So we suppose it must have dropped out at Portsmouth. If you will be so kind as to finish the correspondence for me, I will send you the copies of our answers, and Mr Mozley’s letters, and the copy of accounts that Papa drew up to shew how small in proportion my gains were to his. I hope it will not take much of your time and trouble for I should think at the most two letters would settle it. I scarcely suppose you are at home, but I send my letter there as they will send it on. [Mamma](/person/1606) looks thin but is well, and equal to all. I am glad you did not try to be here on Saturday as[?] it was inconvenient. I could not have seen you for there were so many cousins and friends, I had to see no one, but keep quiet for the Church going.
 
 Your affectionate cousin
 
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: The funeral of CMY\'s father WCY, who died on 26 February 1854, took place on Saturday 4 March.
-[^3]: CMY refers to [Landmarks of History: Ancient History from the Earliest Times to the Mahometan Conquest](/book/14) (1852), [Landmarks of History: Middle Ages from the Reign of Charlemagne to that of Charles V](/book/16) and [Landmarks of History III.
-
-Modern History: From the Reformation to the Fall of Napoleon](/book/28) (1857).
+[^3]: CMY refers to [Landmarks of History: Ancient History from the Earliest Times to the Mahometan Conquest](/book/14) (1852), [Landmarks of History: Middle Ages from the Reign of Charlemagne to that of Charles V](/book/16) and [Landmarks of History III. Modern History: From the Reformation to the Fall of Napoleon](/book/28) (1857).

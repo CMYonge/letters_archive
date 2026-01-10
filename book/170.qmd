@@ -2,8 +2,8 @@
 id: 170
 title: 'Stray Pearls: Memoirs of Margaret de Ribaumont, Viscountess of Bellaise. 2
   vols'
-author: Charlotte Mary Yonge
-date: '1883'
+author-name: Charlotte Mary Yonge
+publication-date: '1883'
 genre: Fiction (historical)
 publication-format: Book
 publisher: 'London and New York: Macmillan and Company.'

@@ -1,7 +1,7 @@
 ---
 id: 3285
 title: To Walter Besant
-date: '1895-03-09'
+iso-date: '1895-03-09'
 display-date: March 9th 1895
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester

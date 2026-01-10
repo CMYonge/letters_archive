@@ -1,7 +1,7 @@
 ---
 id: 2784
 title: To Eleanor Catharine Price?
-date: '1883-01-01'
+iso-date: '1883-01-01'
 display-date: '[1883?]'
 from-name: Charlotte Mary Yonge
 to-name: To Eleanor Catharine Price?

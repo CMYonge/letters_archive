@@ -1,7 +1,7 @@
 ---
 id: 3060
 title: To Anne Yonge
-date: '1855-03-19'
+iso-date: '1855-03-19'
 display-date: March 19th [1855]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
@@ -11,28 +11,13 @@ manuscript-location: MS West Devon Record Office Acc 1092/10
 
 My dear [Anne](/person/1582)
 
-We were quite glad you were not here on Saturday morning, as the letter then would have made your journey so much more anxious.
+We were quite glad you were not here on Saturday morning, as the letter then would have made your journey so much more anxious. Now I trust the accounts are beginning to mend, and that we shall here of their continuing to do so. I am almost surprised to hear of[Jane](/person/1616)’s being able to speak even a few words, and that she should have been allowed to see you so soon is a great comfort. She must be less weak than I had dared to hope, if she is able to speak at all after all that bleeding. I am glad you can begin the nursing at once, and indeed we could not wish either for your sake or [Mary](/person/1626)’s that you should have been here an hour longer. All I do regret is, (besides of course the cause) that we did not know that was the last day, there seemed so much left to say till the last, which ended in nothing, and we frittered up our evening talks on Thursday, till I was quite sorry even then as I went to bed that we had made so little use of the time, and I had not even seemed to be thinking of dear Jane as I was, all the time that day. I wonder why sympathy always is so hard of coming out, and then one is sorry afterwards. How glad I am you fared so well in your journey! [Mr Keble](/person/798) soon came, prepared to look over my [Landmarks](/book/28) about Luther and Calvin and after Church, the Withers called, so my letters hurried themselves into a very short span.[^2] We did some [Paradiso](/periodical/246) and began[Friends & Fortune](/periodical/56)
 
-Now I trust the accounts are beginning to mend, and that we shall here of their continuing to do so. I am almost surprised to hear of[ Jane](/person/1616)’s being able to speak even a few words, and that she should have been allowed to see you so soon is a great comfort.
-
-She must be less weak than I had dared to hope, if she is able to speak at all after all that bleeding. I am glad you can begin the nursing at once, and indeed we could not wish either for your sake or [Mary](/person/1626)’s that you should have been here an hour longer.
-
-All I do regret is, (besides of course the cause) that we did not know that was the last day, there seemed so much left to say till the last, which ended in nothing, and we frittered up our evening talks on Thursday, till I was quite sorry even then as I went to bed that we had made so little use of the time, and I had not even seemed to be thinking of dear Jane as I was, all the time that day. I wonder why sympathy always is so hard of coming out, and then one is sorry afterwards.
-
-How glad I am you fared so well in your journey! [Mr Keble](/person/798) soon came, prepared to look over my [Landmarks](/book/28) about Luther and Calvin and after Church, the Withers called, so my letters hurried themselves into a very short span.[^2] We did some [Paradiso](/periodical/246) and began[ Friends & Fortune](/periodical/56)
-
-Sunday’s post cheered us a good deal, and after Church, we had a fine river walk including [Julian](/person/1624)’s, and found the [Simmondses](/person/1762) flourishing, [Maria Evans](/person/1761) gone to Boyatt farm. [Alice](/person/1025) came just too late for Church this morning [Dr Moberly](/person/1015) is well again, but she is to go home for the feast day, just as I came back from Dogd tomorrow!
-
-We are going to afternoon Church at Hursley to hear how [Mrs Keble](/person/795) is, as there have been no tidings since you went, and this makes my letter short.
-
-You will not try to write at length, only let us have little scraps to tell us how things are going on. I shall not go to Dogd till after the post, though we think no news of the Sunday would be good news, you will have missed [Duke](/person/1599) that day. [Mamma](/person/1606) had no headaches, and is as bold as a lion today spite of fog.
+Sunday’s post cheered us a good deal, and after Church, we had a fine river walk including [Julian](/person/1624)’s, and found the [Simmondses](/person/1762) flourishing, [Maria Evans](/person/1761) gone to Boyatt farm. [Alice](/person/1025) came just too late for Church this morning [Dr Moberly](/person/1015) is well again, but she is to go home for the feast day, just as I came back from Dogd tomorrow! We are going to afternoon Church at Hursley to hear how [Mrs Keble](/person/795) is, as there have been no tidings since you went, and this makes my letter short. You will not try to write at length, only let us have little scraps to tell us how things are going on. I shall not go to Dogd till after the post, though we think no news of the Sunday would be good news, you will have missed [Duke](/person/1599) that day. [Mamma](/person/1606) had no headaches, and is as bold as a lion today spite of fog.
 
 your most affectionate
 
 C M Yonge
 
 
-[^1]: Black-edged paper endorsed in another hand ‘(1855)’.
-[^2]: The \'Withers\' were perhaps the curate, the [Rev.
-
-William Bigg Wither](/person/1544), and his sister [Marianne](/person/1546).
+[^2]: The \'Withers\' were perhaps the curate, the [Rev. William Bigg Wither](/person/1544), and his sister [Marianne](/person/1546).

@@ -5,8 +5,4 @@ name: Great Ormond Street Hospital
 title: Great Ormond Street Hospital
 ---
 
-A children’s hospital was founded in Great Ormond Street in 1852.
-
-Individuals and groups could sponsor beds for sick children.
-
-See Nicholas Baldwin, ‘The History of GOSH: The Whole Story’ at http://www.ich.ucl.ac.uk/about_gosh/gosh_history/
+A children’s hospital was founded in Great Ormond Street in 1852. Individuals and groups could sponsor beds for sick children. See Nicholas Baldwin, ‘The History of GOSH: The Whole Story’ at http://www.ich.ucl.ac.uk/about_gosh/gosh_history/

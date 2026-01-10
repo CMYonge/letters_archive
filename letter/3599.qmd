@@ -1,7 +1,7 @@
 ---
 id: 3599
 title: To an Unknown Woman
-date: '1894-11-10'
+iso-date: '1894-11-10'
 display-date: Novr 10 [1894?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -11,11 +11,7 @@ manuscript-location: MS Princeton University, Parrish Collection
 
 Dear Madam
 I send two of the books you wish for. [The Cross Roads](/book/221) is I find being read to a class of [G F S](/organisation/23) girls, but will be finished by the time you have done with these two. [John Brent](/organisation/211) is by S Baring Gould, one of the penny SPCK series. I know I have it and have read it aloud, but I cannot lay my hand on it this moment.
-I have only one copy of the [Chimes](/book/232), which is being read every week so I cannot well send it.
-
-Our Mothers are fairly punctual, and the accounts cover the little irregular time so we begin with the Litany provided by the [Mother’s Union](/organisation/31) and then have the religious reading.
-
-It is a better time for the [Vicar](/person/184)’s being able to come as he does sometimes that[sic] at the end, when the children are apt to get restless
+I have only one copy of the [Chimes](/book/232), which is being read every week so I cannot well send it. Our Mothers are fairly punctual, and the accounts cover the little irregular time so we begin with the Litany provided by the [Mother’s Union](/organisation/31) and then have the religious reading. It is a better time for the [Vicar](/person/184)’s being able to come as he does sometimes that[sic] at the end, when the children are apt to get restless
 
 Yours truly
 

@@ -1,7 +1,7 @@
 ---
 id: 1834
 title: To Ann Maria Carter Smith
-date: '1861-06-26'
+iso-date: '1861-06-26'
 display-date: June 26th 1861
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.

@@ -1,7 +1,7 @@
 ---
 id: 1935
 title: To the Reverend John Mason Neale
-date: '1864-02-01'
+iso-date: '1864-02-01'
 display-date: Febry 3d [1864]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -16,5 +16,4 @@ yours faithfully
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: Queen [Emma](/person/485) of Hawaii visited Hursley in August 1865, and the Honolulu letters may have been in connection with this.

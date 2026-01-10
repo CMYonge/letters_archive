@@ -1,7 +1,7 @@
 ---
 id: 1876
 title: From the Right Reverend John Coleridge Patteson to Charlotte Mary Yonge
-date: '1862-11-01'
+iso-date: '1862-11-01'
 display-date: '[November 1862]'
 from-name: Charlotte Mary Yonge
 to-name: From the Right Reverend John Coleridge Patteson to Charlotte Mary Yonge
@@ -10,40 +10,13 @@ manuscript-location: MS location unknown. Printed in Yonge, <i>Life of John Cole
 ---
 
 CMY introduces this letter by explaining that they had been discussing [Bishop Mackenzie](/person/929)’s use of force against slavers in Africa:
-‘In a letter to myself, written by the same mail, in reply to one in which I had begged him to consider what was the sight, to a Christian man, of slaves driven oft with heavy yokes on their necks, and whether it did not justify armed interposition, he replies with arguments that it is needless now to repeat, but upholding the principle that the shepherd is shepherd to the cruel and erring as well as to the oppressed, and ought not to use force.
-
-The opinion is given most humbly and tenderly, for he had a great veneration for his brother Missionary Bishop.
-
-Commenting on the fact that [Bishop Selwyn](/person/1295)’s speech at Cambridge had made Charles Mackenzie a missionary, and that he would gladly have hailed an invitation to the Australasian field of labour, the letter proceeds:
-How wonderful it is to reflect upon the events of the last few years!
-
-Had he [Mackenzie] come out when I did to New Zealand, I might be now his Missionary Chaplain and yet it is well that there should be two missionary dioceses, and without the right man for the African mission, there might have been a difficulty in carrying out the plan.
-
-Sadder, far sadder than aught else is the case of [Bishop Colenso](/person/1872).[^1] From my heart of hearts I pray and feel for that unhappy man.
-
-Oh ! may the prayer of our Lord still permit that ‘his faith fail not,’ but my heart is very sad.
-
+‘In a letter to myself, written by the same mail, in reply to one in which I had begged him to consider what was the sight, to a Christian man, of slaves driven oft with heavy yokes on their necks, and whether it did not justify armed interposition, he replies with arguments that it is needless now to repeat, but upholding the principle that the shepherd is shepherd to the cruel and erring as well as to the oppressed, and ought not to use force. The opinion is given most humbly and tenderly, for he had a great veneration for his brother Missionary Bishop. Commenting on the fact that [Bishop Selwyn](/person/1295)’s speech at Cambridge had made Charles Mackenzie a missionary, and that he would gladly have hailed an invitation to the Australasian field of labour, the letter proceeds:
+How wonderful it is to reflect upon the events of the last few years! Had he [Mackenzie] come out when I did to New Zealand, I might be now his Missionary Chaplain and yet it is well that there should be two missionary dioceses, and without the right man for the African mission, there might have been a difficulty in carrying out the plan. Sadder, far sadder than aught else is the case of [Bishop Colenso](/person/1872).[^1] From my heart of hearts I pray and feel for that unhappy man. Oh ! may the prayer of our Lord still permit that ‘his faith fail not,’ but my heart is very sad.
 You may not know all that I know, but probably you know more.
-
-One of the only twenty copies of his last book came out to [Sir George Grey](/person/1873).[^2] I need say no more.
-
-Only God’s Spirit can pierce through all that dark cloud which has settled down on his mind.
-
-How like the fall of an archangel!
-
-The chapel[^3] is not built yet, for I have sixty mouths to feed, and other buildings must he thought of for health’s sake.
-
-But I have settled all that in my will.
+One of the only twenty copies of his last book came out to [Sir George Grey](/person/1873).[^2] I need say no more. Only God’s Spirit can pierce through all that dark cloud which has settled down on his mind. How like the fall of an archangel!
+The chapel[^3] is not built yet, for I have sixty mouths to feed, and other buildings must he thought of for health’s sake. But I have settled all that in my will.
 
 
-[^1]: The Rt.
-
-Rev.
-
-John William Colenso (1814 - 1883), Bishop of Natal, developed views that shocked High Church theologians.
-
-He would not preach that the ancestors of newly-Christianised Africans were condemned to eternal damnation.
-
-Questions put to him by students at his missionary station led him to query whether the early books of the bible were literally true and to publish a series of books expounding his views.
+[^1]: The Rt. Rev. John William Colenso (1814 - 1883), Bishop of Natal, developed views that shocked High Church theologians. He would not preach that the ancestors of newly-Christianised Africans were condemned to eternal damnation. Questions put to him by students at his missionary station led him to query whether the early books of the bible were literally true and to publish a series of books expounding his views.
 [^2]: Grey, then in his second term as governor of New Zealand, had been governor of Cape Colony from 1854 to 1861.
 [^3]: The chapel was for St Andrew’s College Kohimarama, New Zealand.

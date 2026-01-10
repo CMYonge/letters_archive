@@ -1,8 +1,8 @@
 ---
 id: 208
 title: Life of H.R.H. the Prince Consort.
-author: Charlotte Mary Yonge
-date: '1890'
+author-name: Charlotte Mary Yonge
+publication-date: '1890'
 genre: 'Non-fiction: biography'
 publication-format: Book
 publisher: 'London: W. H. Allen'

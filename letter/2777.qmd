@@ -1,7 +1,7 @@
 ---
 id: 2777
 title: To an Unknown Woman
-date: '1883-08-08'
+iso-date: '1883-08-08'
 display-date: Aug 8th 1883
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,9 +10,7 @@ manuscript-location: 'MS UCLA: collection 100: box 95'
 ---
 
 Dear Madam
-I am sorry to say your story did not come till the number had been chosen and sent to the printer.
-
-It is very pretty, but here and there a little long.[^1]
+I am sorry to say your story did not come till the number had been chosen and sent to the printer. It is very pretty, but here and there a little long.[^1]
 
 Yours truly
 

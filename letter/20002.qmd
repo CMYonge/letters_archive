@@ -1,7 +1,7 @@
 ---
 id: 20002
 title: To Edith Sophia Jacob
-date: '1881-07-21'
+iso-date: '1881-07-21'
 display-date: July 21st [1881]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,11 +11,7 @@ manuscript-location: MS Charlotte Mitchell
 
 My dear [Edith](/person/749)
 
-I suppose you want the cutting down process to be done in time for October, as you speak of three numbers.
-
-If it is for September tell me how soon it is wanted.
-
-The MS did not come with your letter, and if not posted, might return by Mrs Collins on Saturday, unless you would cut down the first chapter yourself, which would be a great kindness as I have my hands full, having a little book on ['how to teach the New Testament](/book/144)['][^1] to finish for the National Society, and the [Christian Names](/book/48) to correct for a new edition.[^2]
+I suppose you want the cutting down process to be done in time for October, as you speak of three numbers.  If it is for September tell me how soon it is wanted.  The MS did not come with your letter, and if not posted, might return by Mrs Collins on Saturday, unless you would cut down the first chapter yourself, which would be a great kindness as I have my hands full, having a little book on ['how to teach the New Testament](/book/144)['][^1] to finish for the National Society, and the [Christian Names](/book/48) to correct for a new edition.[^2]
 
 Leave out, if you like the Wounds, but I never doubted that 'they also which pierced Him'[^3] referred to one way in which they shall be looked at and 'the Lamb as It had been slain'[^4]  to the way He shewed Himself to St John.
 
@@ -25,9 +21,7 @@ Gaze we on those Glorious scars[^5]
 
 I think it is and has been a universal belief in the Church, that we shall see them made radiant and glorified, I suppose, nay, I am certain;  but still there
 
-Surely, the feeling we have for a veteran's scarred brow shews in a measure the reverence we have for the 'dear tokens of His Passion'[^6] and I should think the Resurrection Body would have its beauty unchanged by them looking at it not materially.
-
-What the Likeness consists in even St John did not know - but may it not be somehow in expression reflected from His Countenance - as in some measure people do get beautiful as they grow older & better.  I always think that beautiful countenance of the freshly departed is to shew how they will bear the image of the Heavenly.  I should think it would end in the Church Americans taking to the Holy Cross and the Dissenters to the Shut ins - the which has an odd sound to me.
+Surely, the feeling we have for a veteran's scarred brow shews in a measure the reverence we have for the 'dear tokens of His Passion'[^6] and I should think the Resurrection Body would have its beauty unchanged by them looking at it not materially.  What the Likeness consists in even St John did not know - but may it not be somehow in expression reflected from His Countenance - as in some measure people do get beautiful as they grow older & better.  I always think that beautiful countenance of the freshly departed is to shew how they will bear the image of the Heavenly.  I should think it would end in the Church Americans taking to the Holy Cross and the Dissenters to the Shut ins - the which has an odd sound to me.
 
 I have often heard of that good lady and had occasional correspondence with her.  I rather dread her as having a considerable flow of ink to the pen, but she is intensely good.  I feel foolish for I saw a charming extract which I thought of sending you, but I was so silly as not to mark it, and now I can't remember where it was!  I am sorry [the Bp of Bedford](/person/722)[^6] cannot come
 
@@ -46,10 +40,3 @@ CMYonge
 [^4]: Revelation 5: 6: \'And I beheld, and lo, in the midst of the throne and of the four beasts, and in the midst of the elders, stood a Lamb as it had been slain, having seven horns, and seven eyes, which are the seven Spirits of God, sent forth into all the earth\'.
 [^5]: Charles Wesley, \'Lo, He comes with clouds descending\', ll. 16-17.
 [^6]: Ibid. l.13.
-[^7]: The Rt.
-
-Rev.
-
-Dr William Walsham How (1823-1897), suffragan bishop of East London, who held the title Bishop of Bedford after his appointment in 1879.
-
-He was one of the patrons of the Society of Watchers and Workers.

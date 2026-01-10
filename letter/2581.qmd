@@ -1,7 +1,7 @@
 ---
 id: 2581
 title: To George Lillie Craik
-date: '1877-05-25'
+iso-date: '1877-05-25'
 display-date: May 25th 1877
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -12,7 +12,6 @@ manuscript-location: 'MS British Library Add MSS 54921: 18-19'
 Dear Mr Craik
 I think a letter of mine which I wrote last week to the ‘house’ must have been overlooked at least in part. I asked for a copy of the [Heir of Redclyffe](/book/15) to be sent to myself,[^1] and a set of all my books to the [Sisterhood](/organisation/21) at Wantage[^2] who want to have them to lend from their branch at Bombay
 The one I asked for has never come and I have not heard of theirs.
-
 Why does [Clay](/organisation/173) go on printing [Cameos](/book/124), for which I am in no particular hurry instead of the last volume of the [Scripture Readings](/book/129) which is really wanted to finish the set
 
 Yours truly
@@ -23,10 +22,4 @@ I wish someone would discover how much there is about St Katherine’s Hospital 
 
 [^1]: Endorsed here ‘Posted this morning 28 5/77’.
 [^2]: Endorsed here ‘Shall go to-day 28 5/77’.
-[^3]: The mediaeval hospital of St.
-
-Katherine had been demolished in the 1820s to make way for St.
-
-Katherine’s Docks and its charitable funds diverted to other purposes.
-
-There was correspondence on the subject in The Times (22 May 1877). 11.
+[^3]: The mediaeval hospital of St. Katherine had been demolished in the 1820s to make way for St. Katherine’s Docks and its charitable funds diverted to other purposes. There was correspondence on the subject in The Times (22 May 1877). 11.

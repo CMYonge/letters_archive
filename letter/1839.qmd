@@ -1,7 +1,7 @@
 ---
 id: 1839
 title: To the Reverend Henry Octavius Coxe
-date: '1861-10-13'
+iso-date: '1861-10-13'
 display-date: Oct 13th [1861]
 from-name: Charlotte Mary Yonge
 from-address: Torquay
@@ -10,10 +10,7 @@ manuscript-location: 'MS Bodleian Library, Oxford: MS. Don. d.144 ff 158-9'
 ---
 
 My dear [Mr Coxe](/person/377),
-If you have become a DD you must excuse me just as you had to do about the omission of your final e for which [Mr Wither](/person/1544) scolded me.
-
-As I never hear him call [you] anything but Coxe I have nothing to go upon.
-
+If you have become a DD you must excuse me just as you had to do about the omission of your final e for which [Mr Wither](/person/1544) scolded me. As I never hear him call [you] anything but Coxe I have nothing to go upon.
 When we were going to Oxford before, he gave me a message from you that you would be so kind as to look out for me the books I most wanted to consult, if I would tell you their names beforehand and not too long beforehand and I hope that I may be hitting off the happy medium by writing today, the day week from that on which we hope to be at Oxford. I am afraid my wits have been so dissipated of late that I do not know what I want half as well as starting from home, and my wants are likewise so priggish that I am ashamed of them, but some I only want to look at to see whether they are too utterly beyond my capacity to make it worth while to get them to study, and others only just to consult. I hope it will not be giving you very much trouble
 
 Yours sincerely
@@ -28,17 +25,12 @@ Glossary of the Norse poetical works (I don’t know its right name, it is a new
 Kemble’s Beowulf
 The most reliable comment on the Ossianic traditions (not Campbell’s 2 last vols) - perhaps the papers of the Ossianic Society but I suspect them of being a wood where one could not find one’s way in so short a time
 The most reasonable, very early Irish history giving national conjectures on their ethnology of Ireland.
-
 Any later information than is to be found in Tooke’s history about the Slavonian mythology, names and language
 Further questions whose answers I want to make out
 Why was Caius college Cambridge so called?
-
 Who were the Slovinians?
-
 Who were the Wends - were they the same as the Vandals, were they Slav or Teuton?
-
 Were there ever any Kelts in Scandinavia before the Northmen.
-
 The pros and cons of the Phoenicians in Cornwall
 History of Greek saints as distinct from Latin ones
 Anything helpful about the transimulation of Letters in different languages and history of the alphabet

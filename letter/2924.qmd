@@ -1,8 +1,8 @@
 ---
 id: 2924
 title: To Susan Esther Wordsworth
-date: '1889-01-29'
-display-date: Jan 29th [l887-1889[[footnote:1]]]
+iso-date: '1889-01-29'
+display-date: Jan 29th [l887-1889]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
 to-name: To Susan Esther Wordsworth
@@ -17,7 +17,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Dating from after the death of George Moberly in July 1885, and probably dating from before the death of his widow Mary Ann Moberly in February 1890.
-[^2]: Susan Esther (Coxe) Wordsworth (d. 1894) was the first wife of the Right Rev.
-
-John Wordsworth (1843-1911), who succeeded George Moberly as Bishop of Salisbury in 1885.
+[^2]: Susan Esther (Coxe) Wordsworth (d. 1894) was the first wife of the Right Rev. John Wordsworth (1843-1911), who succeeded George Moberly as Bishop of Salisbury in 1885.

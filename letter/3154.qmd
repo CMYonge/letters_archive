@@ -1,7 +1,7 @@
 ---
 id: 3154
 title: To Arthur Donald Innes
-date: '1890-02-24'
+iso-date: '1890-02-24'
 display-date: Feb 24 1890
 from-name: Charlotte Mary Yonge
 from-address: Elderfield

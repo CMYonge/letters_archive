@@ -1,7 +1,7 @@
 ---
 id: 2706
 title: To the Reverend John Frewen Moor
-date: '1880-04-05'
+iso-date: '1880-04-05'
 display-date: April 5th 1880
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne,Winchester.

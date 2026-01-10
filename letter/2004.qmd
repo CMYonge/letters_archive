@@ -1,7 +1,7 @@
 ---
 id: 2004
 title: To Elizabeth Missing Sewell
-date: '1865-01-25'
+iso-date: '1865-01-25'
 display-date: Jany 25th 1865
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,7 +11,6 @@ manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
 
 My dear [Miss Sewell](/person/1301),	
 [Miss Cleveland](/person/307) did not put her direction in full so that I must ask you to be so kind as to enclose this note to her. I am afraid people would have an over dose of America if I put in both journals together and I don’t think the contrast would be so much in favour of the North as she thinks, since these holiday makings, so pleasantly described are not quite so touching as the terrible straits the poor lady in the south is undergoing, her family are sending out clothes to her in uncertainty whether she may ever get them, and all her friends seem to be homeless and bereaved of all their sons.[^1] What ever one thinks of the cause, the invaded always gets one’s sympathy.
-
 But the descriptions in this are very interesting and I should like to put them in when the South has said its say.
 I talked a little to [Miss Dyson](/person/464) about your plan,[^2] and she thought it excellent, but I am sure it may well and safely wait till you are at leisure.
 A French Protestant Minstre 'du Ste Es' - what ever that may be short for writes to me for leave to translate some future book of mine, telling me he has translated some of yours, and is in relations with [Mrs Dallas](/person/400) of Wonstone[^3]. I do not think I can set him on anything as [Mme de Witt](/person/423) likes to translate such of my books as seem likely to do in France, and she takes the Protestant side.
@@ -21,10 +20,6 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: \'Home life in a Confederate state\', appeared in MP (November 1864-December 1865).
-
-By 1866 the writer was back in England, had found out that her letters had been published in the MP and consented to more information appearing as \'Extracts from the journal of a refugee in Georgia\' (August 1866-May 1867\').
+[^1]: \'Home life in a Confederate state\', appeared in MP (November 1864-December 1865). By 1866 the writer was back in England, had found out that her letters had been published in the MP and consented to more information appearing as \'Extracts from the journal of a refugee in Georgia\' (August 1866-May 1867\').
 [^2]: Possibly the plan for editing a selection of historical readings, ultimately published as Historical Selections (see letter to Macmillan dated 9 June 1865).
-[^3]: Ann Biscoe (Tyndale) Dallas (d. 1877), wife of the Rev.
-
-Alexander Robert Charles Dallas (1791-1869), Rector of Wonston, near Winchester, a prominent opponent of Tractarianism and moving spirit in the Irish Church Mission to Roman Catholics, which tried to encourage conversions in Ireland.
+[^3]: Ann Biscoe (Tyndale) Dallas (d. 1877), wife of the Rev. Alexander Robert Charles Dallas (1791-1869), Rector of Wonston, near Winchester, a prominent opponent of Tractarianism and moving spirit in the Irish Church Mission to Roman Catholics, which tried to encourage conversions in Ireland.

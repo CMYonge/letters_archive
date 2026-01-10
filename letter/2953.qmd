@@ -1,8 +1,8 @@
 ---
 id: 2953
 title: To Anne Yonge
-date: '1845-07-01'
-display-date: July 22d [1845[[footnote:1]]]
+iso-date: '1845-07-01'
+display-date: July 22d [1845]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
 to-name: To Anne Yonge
@@ -10,55 +10,14 @@ manuscript-location: MS West Devon Record Office Acc 1092/3
 ---
 
 My dear [Anne](/person/1582)
-Thank you for taking all my impertinence so kindly. I hope you will not be very angry with me for being highly delighted with [Mary Coleridge](/person/351)’s prospects, and not even pitying [Alethea](/person/923) so much as [Cordelia Colborne](/person/319), for you must remember that Mary will live very near home and the sisters may see each other every day of their lives, and for Mary’s youth, she is much older at twenty, than many people are at twenty five, besides you will allow me to make some difference in my rejoicings between [a man](/person/18) of whom I never heard any thing but that his father belongs to the Free Scottish Kirk, and one whom everyone mentions with high respect and admiration. I am very glad to have seen [Mr Palmer](/person/1129), so as really to have heard him talk, one day at [Dr Moberly](/person/1015)’s when there was no one else but ourselves, and it has always been my especial wish, that one of my friends would marry a very great good person, and I am sure that wish is fulfilled.[^2] I always told Mary she should not marry without my consent, and I think she has it indeed. [Mr Wordsworth](/person/1564)[^3] had the great news from Mr Palmer and came to tell us the very day I heard it from Mary.
-
-She will be at [Hursley](/place/127) next week when I hope I shall hear all about it. I do not think anything ever delighted me more.
-
-We are beginning to prepare for [Mr Wither](/person/1544)’s Consecration feast on the 30th, he means to borrow [Mr Chamberlayne](/person/282)’s tent for the occasion, he has the fifth of his eldest brother’s twelve children staying with him by name [Guy](/person/1545), a very nice little boy of nine years old. [Mr E.
-
-Sewell](/person/1304) has just been there and brings news that [Gertrude](/periodical/147), his sister’s new story will very soon be out, it is rather older than [Amy Herbert](/topic/145) and is about a Consecration.
-
-Miss Sewell was staying with us at the [Ampfield](/place/124) Consecration, I wonder whether it was taken from that. [ Julian](/person/1624) comes home next Monday. I am afraid not till quite late in the day.
-
-There has been a great sale at Brambridge[^4] which has caused a great beautification of our abode, we have a new low book case for the drawing room, to go along under the noble Persian, with marble at the top, and some beautiful green and white silk damask curtains for that same drawing room which were very cheap The Indian Moberlys[^5] have had either chicken or small pox at Field House which has prevented the others from coming there I am sorry to say.
-
-How glad I am to hear of [Aunt Marianne](/person/1627).
-
-How do your turkies grow?
-
-You have never told me what you thought of [Eton Charlotte](/person/979) which I really do want to know.
-
-Also I should like to hear how you got on with [Dr Arnold](/person/64)[^6] The [Heathcotes](/person/669) come home the first week in August.
-
-Little [Fanny](/person/666) was here the other day, she is growing tall, and in her irons can walk much better, though she will not attempt it without at hand, or a hold of [Caroline](/person/367)’s frock, to make her feel secure though it affords her no support.
-
-Poor [Mason](/person/1702), (Mrs Reeves) is turned out of her school because she cannot teach history and geography, and she has written to Mamma to ask her to find her a new situation[^7]
+Thank you for taking all my impertinence so kindly. I hope you will not be very angry with me for being highly delighted with [Mary Coleridge](/person/351)’s prospects, and not even pitying [Alethea](/person/923) so much as [Cordelia Colborne](/person/319), for you must remember that Mary will live very near home and the sisters may see each other every day of their lives, and for Mary’s youth, she is much older at twenty, than many people are at twenty five, besides you will allow me to make some difference in my rejoicings between [a man](/person/18) of whom I never heard any thing but that his father belongs to the Free Scottish Kirk, and one whom everyone mentions with high respect and admiration. I am very glad to have seen [Mr Palmer](/person/1129), so as really to have heard him talk, one day at [Dr Moberly](/person/1015)’s when there was no one else but ourselves, and it has always been my especial wish, that one of my friends would marry a very great good person, and I am sure that wish is fulfilled.[^2] I always told Mary she should not marry without my consent, and I think she has it indeed. [Mr Wordsworth](/person/1564)[^3] had the great news from Mr Palmer and came to tell us the very day I heard it from Mary. She will be at [Hursley](/place/127) next week when I hope I shall hear all about it. I do not think anything ever delighted me more. We are beginning to prepare for [Mr Wither](/person/1544)’s Consecration feast on the 30th, he means to borrow [Mr Chamberlayne](/person/282)’s tent for the occasion, he has the fifth of his eldest brother’s twelve children staying with him by name [Guy](/person/1545), a very nice little boy of nine years old. [Mr E. Sewell](/person/1304) has just been there and brings news that [Gertrude](/periodical/147), his sister’s new story will very soon be out, it is rather older than [Amy Herbert](/topic/145) and is about a Consecration. Miss Sewell was staying with us at the [Ampfield](/place/124) Consecration, I wonder whether it was taken from that. [Julian](/person/1624) comes home next Monday. I am afraid not till quite late in the day. There has been a great sale at Brambridge[^4] which has caused a great beautification of our abode, we have a new low book case for the drawing room, to go along under the noble Persian, with marble at the top, and some beautiful green and white silk damask curtains for that same drawing room which were very cheap The Indian Moberlys[^5] have had either chicken or small pox at Field House which has prevented the others from coming there I am sorry to say. How glad I am to hear of [Aunt Marianne](/person/1627). How do your turkies grow? You have never told me what you thought of [Eton Charlotte](/person/979) which I really do want to know. Also I should like to hear how you got on with [Dr Arnold](/person/64)[^6] The [Heathcotes](/person/669) come home the first week in August. Little [Fanny](/person/666) was here the other day, she is growing tall, and in her irons can walk much better, though she will not attempt it without at hand, or a hold of [Caroline](/person/367)’s frock, to make her feel secure though it affords her no support. Poor [Mason](/person/1702), (Mrs Reeves) is turned out of her school because she cannot teach history and geography, and she has written to Mamma to ask her to find her a new situation[^7]
 Your most affectionate cousin
 CMY
 
 
-[^1]: Endorsed in another hand’ / 45’.
-[^2]: Mary Coleridge never married.
-
-She had evidently become engaged to Roundell Palmer (1812-1895), the future Earl of Selborne, then a rising young barrister, a great friend of Charles Wordsworth and of the Coleridges and the Moberlys.
-
-In his memoirs and among his papers in Lambeth Palace Library there are signs of significant omissions and some sort of spiritual and emotional crisis in this year, also letters of commiseration with unspecified grief from John Keble.
-
-David Pugsley, ‘Coleridge, Sir John Taylor (1790–1876)’, Oxford Dictionary of National Biography (Oxford: Oxford University Press, 2004), states that she ‘rejected a proposal of marriage in 1845 from Roundell Palmer, the future Lord Chancellor Selborne, to her father’s deep regret’.
-
-It sounds from this as though an engagement briefly existed, and was ended. CMY was more pleased by the news of this engagement than of the news that their cousin [Jane Colborne](/person/1042) had become engaged to Andrew Agnew.
-[^3]: The Rev.
-
-Charles Wordsworth (1806-1892), second master of Winchester College and subsequently (1852) Bishop of St.
-
-Andrews.
-
-He had travelled in France with Roundell Palmer in 1834.
+[^2]: Mary Coleridge never married. She had evidently become engaged to Roundell Palmer (1812-1895), the future Earl of Selborne, then a rising young barrister, a great friend of Charles Wordsworth and of the Coleridges and the Moberlys. In his memoirs and among his papers in Lambeth Palace Library there are signs of significant omissions and some sort of spiritual and emotional crisis in this year, also letters of commiseration with unspecified grief from John Keble. David Pugsley, ‘Coleridge, Sir John Taylor (1790–1876)’, Oxford Dictionary of National Biography (Oxford: Oxford University Press, 2004), states that she ‘rejected a proposal of marriage in 1845 from Roundell Palmer, the future Lord Chancellor Selborne, to her father’s deep regret’. It sounds from this as though an engagement briefly existed, and was ended. CMY was more pleased by the news of this engagement than of the news that their cousin [Jane Colborne](/person/1042) had become engaged to Andrew Agnew.
+[^3]: The Rev. Charles Wordsworth (1806-1892), second master of Winchester College and subsequently (1852) Bishop of St. Andrews. He had travelled in France with Roundell Palmer in 1834.
 [^4]: Brambridge House, Brambridge, a village just east of Otterbourne, beyond the river Itchen, in Twyford parish, belonged to the Roman Catholic Smythe family, to which Maria Anne (Smythe) Fitzherbert (1756-1837), the unlawful wife of George IV, belonged. [Probably her brother Charles Smythe sold up?]
-[^5]: [Harry](/person/1016), [Louisa](/person/1018) and [Rosa Moberly](/person/1022), children of a brother of the Rev.
-
-George Moberly who worked in India, lived with their uncle and aunt from 1841.
-[^6]: The reference is presumably to a book by the Rev.
-
-Thomas Arnold (1795-1842), D.D., headmaster of Rugby.
+[^5]: [Harry](/person/1016), [Louisa](/person/1018) and [Rosa Moberly](/person/1022), children of a brother of the Rev. George Moberly who worked in India, lived with their uncle and aunt from 1841.
+[^6]: The reference is presumably to a book by the Rev. Thomas Arnold (1795-1842), D.D., headmaster of Rugby.
 [^7]: Mason (Mrs Reeves) is probably Maria Mason, CMY’s former nurse, sister of the transported rioter [Joseph Mason](/person/977) (1799-1863), who may also be the ‘old nurse of mine who married a drum major’ mentioned in a letter to Ann Carter Smith (31 March 1864).

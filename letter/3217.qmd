@@ -1,7 +1,7 @@
 ---
 id: 3217
 title: To Isabella Lucy Wilcox?
-date: '1893-03-25'
+iso-date: '1893-03-25'
 display-date: March 25th [1893]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -17,6 +17,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: The recipient of this letter was evidently a member of the Wilcox family of Whitburn, cousins of Lewis Carroll, whom CMY had met through her friendship with the Collinson and Harrison families.
-
-Grisly Grisell is set in Whitburn, and the book was probably a local history. [Margaret Wilcox](/person/1517) was dead, and this letter was perhaps addressed to her younger sister Isabella, who was still living in Whitburn at the time of the 1891 census.
+[^1]: The recipient of this letter was evidently a member of the Wilcox family of Whitburn, cousins of Lewis Carroll, whom CMY had met through her friendship with the Collinson and Harrison families. Grisly Grisell is set in Whitburn, and the book was probably a local history. [Margaret Wilcox](/person/1517) was dead, and this letter was perhaps addressed to her younger sister Isabella, who was still living in Whitburn at the time of the 1891 census.

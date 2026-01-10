@@ -1,7 +1,7 @@
 ---
 id: 3235
 title: Henrietta Eliza Vaughan Stannard to Charlotte Mary Yonge
-date: '1893-10-09'
+iso-date: '1893-10-09'
 display-date: Oct 9th, 1893.
 from-name: Charlotte Mary Yonge
 from-address: Montague House. Birchington. Thanet.
@@ -10,24 +10,13 @@ manuscript-location: TS UCLA collection 100 box 119/13
 ---
 
 Dear Miss Yonge,
-I do think it was so kind of you to write to [me](/person/2132) with your own hand; it is an honour that I very highly value.
-
-By an accident I was prevented from signing your [birthday roll](/topic/225), as I was to have done so at the Writer’s Club but was unavoidably prevented by a business appointment from being there soon enough.
-
-But no one would have signed it with greater pleasure and sincerity than I.
-I feel very strongly about the birds, especially the ospreys.[^1] I convicted and converted a very fashionable lady down here the other day on that point.
-
-She said in an airy way ‘Oh, well, I always say it does no good to hear about those things and one must have a proper finish to one’s bonnet.’ I promptly told her that every woman who knew how ospreys were got would brand her as a cruel unwomanly blood thirsty wretch and I made her listen till I could see she was feeling quite sick. I dont think she will ever wear an osprey again.
-
+I do think it was so kind of you to write to [me](/person/2132) with your own hand; it is an honour that I very highly value. By an accident I was prevented from signing your [birthday roll](/topic/225), as I was to have done so at the Writer’s Club but was unavoidably prevented by a business appointment from being there soon enough. But no one would have signed it with greater pleasure and sincerity than I.
+I feel very strongly about the birds, especially the ospreys.[^1] I convicted and converted a very fashionable lady down here the other day on that point. She said in an airy way ‘Oh, well, I always say it does no good to hear about those things and one must have a proper finish to one’s bonnet.’ I promptly told her that every woman who knew how ospreys were got would brand her as a cruel unwomanly blood thirsty wretch and I made her listen till I could see she was feeling quite sick. I dont think she will ever wear an osprey again.
 Believe me with much admiration,
 
 Ever yours,
 John Strange Winter
-(Henrietta E.V.
-
-Stannard)
+(Henrietta E.V. Stannard)
 
 
-[^1]: The use of birds\' feathers and bird wings in costume, especially hats, was a controversial topic in the 1890s, and was several times discussed in MP.
-
-Perhaps this correspondence was prompted by the publication of a poem by Harold Pilkington Turner, \'Pro Avibus\' MP (April 1893) 455.
+[^1]: The use of birds\' feathers and bird wings in costume, especially hats, was a controversial topic in the 1890s, and was several times discussed in MP. Perhaps this correspondence was prompted by the publication of a poem by Harold Pilkington Turner, \'Pro Avibus\' MP (April 1893) 455.

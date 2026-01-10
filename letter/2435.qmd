@@ -1,26 +1,21 @@
 ---
 id: 2435
 title: To Sir William Heathcote, Bt.
-date: '1872-01-10'
+iso-date: '1872-01-10'
 display-date: January 10, 1872.
 from-name: Charlotte Mary Yonge
 from-address: Palace, Lichfield,
 to-name: To Sir William Heathcote, Bt.
-manuscript-location: MS location unknown.  Printed in Coleridge, [[otherbook:40]<i>Life</i>],
+manuscript-location: MS location unknown. Printed in Coleridge, [[otherbook:40]<i>Life</i>],
   300-301
 ---
 
 My dear [Sir William](/person/669)-
-Your letter has come on to me here. I came on Monday to be instructed respecting[ Bishop Patteson](/person/1155)'s life, which I am to try to [draw up](/book/102) from the very full materials that his family and [Bishop Selwyn](/person/1295) can provide. I hope to return on Saturday.
-
-Thank you for letting me see [Mr.
-
-Faithfull](/person/497)'s decision; I think he is wise to give his name, and so obtain the subscriptions of all his friends. I daresay in this way he will obtain a good
+Your letter has come on to me here. I came on Monday to be instructed respecting[Bishop Patteson](/person/1155)'s life, which I am to try to [draw up](/book/102) from the very full materials that his family and [Bishop Selwyn](/person/1295) can provide. I hope to return on Saturday.
+Thank you for letting me see [Mr. Faithfull](/person/497)'s decision; I think he is wise to give his name, and so obtain the subscriptions of all his friends. I daresay in this way he will obtain a good
 deal of pleasure out of it himself, and I hope some benefit to the hospital funds.-[^1]
 Your affectionate
 C. M. YONGE.
 
 
-[^1]: Edward Williams Faithfull, Occasional Thoughts (London, E.
-
-Faithfull, and Winchester, Jacob and Johnson 1872), a volume of verse published by private subscription, probably in aid of the rebuilt [Royal Hampshire Hospital](/organisation/36) in Winchester.
+[^1]: Edward Williams Faithfull, Occasional Thoughts (London, E. Faithfull, and Winchester, Jacob and Johnson 1872), a volume of verse published by private subscription, probably in aid of the rebuilt [Royal Hampshire Hospital](/organisation/36) in Winchester.

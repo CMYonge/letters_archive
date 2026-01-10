@@ -1,7 +1,7 @@
 ---
 id: 2939
 title: To Anne Yonge
-date: '1838-12-05'
+iso-date: '1838-12-05'
 display-date: Wednesday 5 [December 1838]
 from-name: Charlotte Mary Yonge
 to-name: To Anne Yonge
@@ -9,76 +9,18 @@ manuscript-location: MS West Devon Record Office Acc 1092/1
 ---
 
 My dear [Anne](/person/1582),
-You must not expect a very continuous letter from me as [Mary Davys](/person/1201)[^2] is here but I believe the best chance is to begin a long time beforehand to thank you for your charming long letter which we were delighted to see on coming back from [school](/organisation/107) on Sunday.
-
-You said when you were here that we should sit in the drawing room gasping for a drop of water but last Sunday evening far from being in that condition, we were threatened with a flood for the drain in front of the window had become stopped up with mud and there was a thunder storm about ten so that when we looked out as we went up to bed there was the water half way up the green so [Papa](/person/1631) was obliged to take off his stockings and grope about with his hands till he found the drain.
-
-What horrible weather we have had and I am afraid a great deal of mischief must be done at sea.
-
-There was one wreck off the Isle of Wight and every one perished.
-
-On Saturday evening as poor old [M. de Normanville](/person/1088) was riding home in the dark he met two carriages and a horse in a narrow part of the road and somehow he entangled his leg in the wheel of the carriage and tore out a piece as large as a walnut and when he got home they could not stop the blood so they sent for [Mr Stanier](/person/1695) (Alethea’s friend the funny little barber) and he tried to cure it with Friar’s Balsam but I have not heard how it is going on since Sunday.
-
-Mary Davys arrived yesterday and seems very glad to be here.
-
-She has brought me a pattern of a bird to work a very splendid blue and yellow creature. [[person1624]Julian] is very indignant at [Charles](/person/1601) not having written and I do not know whether he will choose to write. [Mary Bogue](/person/167)[^3] sent us a magnificent piece of wedding cake in a triangular box which Julian has and has put a pair of hinges and a padlock which Papa gave him to it and calls it the Pig’s mouth after that which we had full of riddles when you were here. [Mamma](/person/1606) says the motto should be ‘the padlock shut no secrets he’ll disclose.’ [Mr Wither](/person/1544) has given [Miss Katherine Tucker](/person/1423) a journey to London meaning her to stay a week instead of which she has taken a holiday of six weeks which we think very hard on poor [Miss Tucker](/person/1422) who means to go the Saturday before Christmas day in order to be at home on her father’s birthday which is Christmas Eve.
-
-Mr Wither’s landlord begged the other day to make him a present and what do you think it was you would never guess.
-
-It was some of those enormous combs like what Mamma gave Alethea with two little combs for the sides!!
-
-Thursday.
-
-Yesterday we took a walk to the Brambridge Gardens. [Mrs Heathcote](/person/658) is coming to dinner today so I will ask her what became of the pan of pins.[^4] [Harriet](/person/1359) & Mary’s maid are going to walk to Hursley today but I do not know anything more to say.
-
-Friday.
-
-Mrs Heathcote does not know what became of the pins but they have some leather candlesticks which we suppose belonged to King Stephen but they are come to the bottom and nothing more has been found except an axe thrown down fifty years ago.
-
-It is very odd but [Caroline Coxwell](/person/1633) is so dreadfully sleepy all day long that she can hardly hold up her head or open her eyes. [Dr Harris](/person/628) has prescribed for her to wake her It has been coming on ever since August when she used to have cayenne lozenges to keep her awake but now it is very bad, she starves and takes long walks. I must write to [Frances](/person/1605) soon. [ Edmund](/person/322) and [Graham](/person/321) are coming here at Christmas for a week but as I have not much to say I am getting to such short sentences that I must leave off for the present.
-
-Mamma had a letter from Edmund yesterday and he says they have very nearly been drowned for the water ?rose so that [Mr Wortley](/person/1698) found himself above his knees in water when he went down stairs & they are forced to keep the pumps at work night and day.
-
-This is the second time he has been in danger of drowning.
-
-Mary Davys plays at Coronella very well.
-
-Mamma and she kept up thirty four and seventeen.
-
-Papa has hooked out the cornée which fell down behind the bookcase when you were here.
-
-They have finished freshening up the Communion Rail so Papa and Dr Harris are going to see it at Portsmouth on Monday.
-
-They have put Papa on the Committee about the Normal Schools as they call them; as might have been expected, for I think he is on the committee for everything
-We have hatched up amongst us some articles for the [Cottager](/periodical/67) which will be in this month and next.
-
-Try to guess which they are and I will tell you if you are right. [Mr](/person/798) and [Mrs Keble](/person/795) go to London tomorrow.
-
-Papa and Dr Harris set off this morning to go to Portsmouth to see the Communion Rail which I hope will come here soon.
-
-Our new little kitchen maid is not strong enough so we are going to have [Judith Whorley](/person/1495) a month upon[^5] as soon as [Miss Jackson](/person/1696) has done with her
-Julian beat Mary in a game at chess last night of which he is very proud of [sic] as he has by that means beat the [Queen](/person/1694), [Lord Glenelg](/person/576) and I do not know who besides.
-
-Mary is just as charming as ever, she plays at battledore with Julian at all sort of games with Mamma and me whilst her maid instructs Harriet in dressmaking
+You must not expect a very continuous letter from me as [Mary Davys](/person/1201)[^2] is here but I believe the best chance is to begin a long time beforehand to thank you for your charming long letter which we were delighted to see on coming back from [school](/organisation/107) on Sunday. You said when you were here that we should sit in the drawing room gasping for a drop of water but last Sunday evening far from being in that condition, we were threatened with a flood for the drain in front of the window had become stopped up with mud and there was a thunder storm about ten so that when we looked out as we went up to bed there was the water half way up the green so [Papa](/person/1631) was obliged to take off his stockings and grope about with his hands till he found the drain. What horrible weather we have had and I am afraid a great deal of mischief must be done at sea. There was one wreck off the Isle of Wight and every one perished. On Saturday evening as poor old [M. de Normanville](/person/1088) was riding home in the dark he met two carriages and a horse in a narrow part of the road and somehow he entangled his leg in the wheel of the carriage and tore out a piece as large as a walnut and when he got home they could not stop the blood so they sent for [Mr Stanier](/person/1695) (Alethea’s friend the funny little barber) and he tried to cure it with Friar’s Balsam but I have not heard how it is going on since Sunday. Mary Davys arrived yesterday and seems very glad to be here. She has brought me a pattern of a bird to work a very splendid blue and yellow creature. [[person1624]Julian] is very indignant at [Charles](/person/1601) not having written and I do not know whether he will choose to write. [Mary Bogue](/person/167)[^3] sent us a magnificent piece of wedding cake in a triangular box which Julian has and has put a pair of hinges and a padlock which Papa gave him to it and calls it the Pig’s mouth after that which we had full of riddles when you were here. [Mamma](/person/1606) says the motto should be ‘the padlock shut no secrets he’ll disclose.’ [Mr Wither](/person/1544) has given [Miss Katherine Tucker](/person/1423) a journey to London meaning her to stay a week instead of which she has taken a holiday of six weeks which we think very hard on poor [Miss Tucker](/person/1422) who means to go the Saturday before Christmas day in order to be at home on her father’s birthday which is Christmas Eve. Mr Wither’s landlord begged the other day to make him a present and what do you think it was you would never guess. It was some of those enormous combs like what Mamma gave Alethea with two little combs for the sides!!
+Thursday. Yesterday we took a walk to the Brambridge Gardens. [Mrs Heathcote](/person/658) is coming to dinner today so I will ask her what became of the pan of pins.[^4] [Harriet](/person/1359) & Mary’s maid are going to walk to Hursley today but I do not know anything more to say. Friday. Mrs Heathcote does not know what became of the pins but they have some leather candlesticks which we suppose belonged to King Stephen but they are come to the bottom and nothing more has been found except an axe thrown down fifty years ago.
+It is very odd but [Caroline Coxwell](/person/1633) is so dreadfully sleepy all day long that she can hardly hold up her head or open her eyes. [Dr Harris](/person/628) has prescribed for her to wake her It has been coming on ever since August when she used to have cayenne lozenges to keep her awake but now it is very bad, she starves and takes long walks. I must write to [Frances](/person/1605) soon. [Edmund](/person/322) and [Graham](/person/321) are coming here at Christmas for a week but as I have not much to say I am getting to such short sentences that I must leave off for the present. Mamma had a letter from Edmund yesterday and he says they have very nearly been drowned for the water ?rose so that [Mr Wortley](/person/1698) found himself above his knees in water when he went down stairs & they are forced to keep the pumps at work night and day. This is the second time he has been in danger of drowning.
+Mary Davys plays at Coronella very well. Mamma and she kept up thirty four and seventeen. Papa has hooked out the cornée which fell down behind the bookcase when you were here. They have finished freshening up the Communion Rail so Papa and Dr Harris are going to see it at Portsmouth on Monday. They have put Papa on the Committee about the Normal Schools as they call them; as might have been expected, for I think he is on the committee for everything
+We have hatched up amongst us some articles for the [Cottager](/periodical/67) which will be in this month and next. Try to guess which they are and I will tell you if you are right. [Mr](/person/798) and [Mrs Keble](/person/795) go to London tomorrow. Papa and Dr Harris set off this morning to go to Portsmouth to see the Communion Rail which I hope will come here soon. Our new little kitchen maid is not strong enough so we are going to have [Judith Whorley](/person/1495) a month upon[^5] as soon as [Miss Jackson](/person/1696) has done with her
+Julian beat Mary in a game at chess last night of which he is very proud of [sic] as he has by that means beat the [Queen](/person/1694), [Lord Glenelg](/person/576) and I do not know who besides. Mary is just as charming as ever, she plays at battledore with Julian at all sort of games with Mamma and me whilst her maid instructs Harriet in dressmaking
 I must go on writing to Frances after her little letter so I am, dear Anne,
 your affectionate friend and cousin
 Charlotte Mary Yonge
 
 
-[^1]: A single sheet folded and sealed, addressed to Miss Anne Yonge/ Puslinch.
-[^2]: Mary Davys was the daughter of the Rt.
-
-Rev.
-
-Dr.
-
-George Davys (1780-1864), Bishop of Peterborough, who owed his preferment to his having been chaplain to the young Queen Victoria.
-
-His wife Marianne Mapletoft (1788/9-1858) had been a childhood friend of FMY’s.
-
-Mary Davys was at this time Extra Woman of the Bedchamber to Queen Victoria.
+[^2]: Mary Davys was the daughter of the Rt. Rev. Dr. George Davys (1780-1864), Bishop of Peterborough, who owed his preferment to his having been chaplain to the young Queen Victoria. His wife Marianne Mapletoft (1788/9-1858) had been a childhood friend of FMY’s. Mary Davys was at this time Extra Woman of the Bedchamber to Queen Victoria.
 [^3]: The letter is dated on the assumption that it refers to the wedding on 22 November 1838 of Mary Isabella Bogue (1823?-1878) daughter of Captain Richard Bogue, to the Reverend Francis Smith, son of Sir John Wyldbore Smith, 2nd Bt..
 [^4]: CMY wrote of the well at Merdon in [[cmybook:]John Keble’s Parishes], 46: ‘The well was cleaned out in later times, and nothing was found but a pair of curious pattens, cut away to receive a high-heeled shoe, also a mazer-bowl, an iron flesh-hook and small cooking-pot, and a multitude of pins, thrown in to make the curious reverberating sound when, after several seconds, they reached the water.’
-[^5]: i.e. ‘a month upon trial’; servants were often engaged on these terms.
-
-Judith Whorley (b.1822/3) was perhaps related to ‘Little Whorley’, mentioned in Letter 4 (6 August 1838).
+[^5]: i.e. ‘a month upon trial’; servants were often engaged on these terms. Judith Whorley (b.1822/3) was perhaps related to ‘Little Whorley’, mentioned in Letter 4 (6 August 1838).

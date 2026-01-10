@@ -1,7 +1,7 @@
 ---
 id: 3610
 title: To the Reverend William Parsons Warburton
-date: '1890-01-01'
+iso-date: '1890-01-01'
 display-date: '[1890s?]'
 from-name: Charlotte Mary Yonge
 to-name: To the Reverend William Parsons Warburton
@@ -9,10 +9,7 @@ manuscript-location: MS Girton College Cambridge, Yonge VIII 2
 ---
 
 My dear [Mr Warburton](/person/1466)
-Alas! I wish I could be in two places at once, for I do not at all want to miss the Committee which is enjoyable and instructive- But I have been engaged for weeks past to a [GFS](/organisation/23) meeting, and I can’t get off for I have a note from [Mrs Elgee](/person/475) this morning that her speaker one at least fails, & I must do it.
-
-Whereby it is all the more unavoidable and unpleasant!
-
+Alas! I wish I could be in two places at once, for I do not at all want to miss the Committee which is enjoyable and instructive- But I have been engaged for weeks past to a [GFS](/organisation/23) meeting, and I can’t get off for I have a note from [Mrs Elgee](/person/475) this morning that her speaker one at least fails, & I must do it. Whereby it is all the more unavoidable and unpleasant!
 In haste - with [Mr Green](/person/1647) looming on us in this dismal wet
 
 Yours sincerely

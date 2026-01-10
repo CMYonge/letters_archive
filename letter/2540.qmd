@@ -1,7 +1,7 @@
 ---
 id: 2540
 title: To Louisa Lilias Greene
-date: '1876-01-29'
+iso-date: '1876-01-29'
 display-date: Jany 29th 1876
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -12,7 +12,6 @@ manuscript-location: MS Humanities Research Center, University of Texas, Austin,
 
 Dear [Mrs Greene](/person/583)
 It is very prettily described but I am afraid the revulsion of feeling is too painful so I think I had better not accept it.
-
 The Copyright of your stories remains with you, and you are quite welcome to publish them separately[^1]
 
 yours truly

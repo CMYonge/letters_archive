@@ -1,8 +1,8 @@
 ---
 id: 2808
 title: To Annie Louise Cazenove
-date: '1885-04-01'
-display-date: '[?April, 1885][[footnote:1]]'
+iso-date: '1885-04-01'
+display-date: '[?April, 1885]'
 from-name: Charlotte Mary Yonge
 to-name: To Annie Louise Cazenove
 manuscript-location: MS location unknown. Printed in Romanes, [[otherbook:241]<i>Appreciation</i>],
@@ -10,30 +10,9 @@ manuscript-location: MS location unknown. Printed in Romanes, [[otherbook:241]<i
 ---
 
 My dear [Annie](/person/274)
-If only you would not snap your fingers at Rome! I don’t want to give her more than her due, but I do love and honour S.
-
-Gregory the Great too much to like what we owe to him and his noble spirit to be so treated.
-
+If only you would not snap your fingers at Rome! I don’t want to give her more than her due, but I do love and honour S. Gregory the Great too much to like what we owe to him and his noble spirit to be so treated.
 You know it is a fact that, though there were British clergy about, they did not choose to try to convert the Saxons, because they wished them to come to a bad end altogether, which was not exactly Christian.[^2]
-Bertha [Queen] had a Gallic chaplain, but I don’t think he did much.
-
-The impulse was given by S.
-
-Gregory and Augustine. I know there is a great controversy about S.
-
-Patrick, and nobody seems to know certainly whether he came from Gaul or the Lothians before he was stolen, or whether he was commissioned at Rome or not.[^3] People settle it just the way their inclinations lead them. I don’t myself think he went to Pope Celestine, but there is no certainty.
+Bertha [Queen] had a Gallic chaplain, but I don’t think he did much. The impulse was given by S. Gregory and Augustine. I know there is a great controversy about S. Patrick, and nobody seems to know certainly whether he came from Gaul or the Lothians before he was stolen, or whether he was commissioned at Rome or not.[^3] People settle it just the way their inclinations lead them. I don’t myself think he went to Pope Celestine, but there is no certainty.
 
 
-[^1]: Ethel Romanes dates the letter April 1865, which is impossible given the recipient’s dates, and it is placed here on the assumption that she misread an 8 for a 6.
-[^2]: The ultimate source for this opinion is the Venerable Bede, History of the English Church and People, in his account of the conference between St.Augustine and the British clergy at St.
-
-Augustine’s Oak.
-[^4]: ER notes \'We must remember that this was written some forty years before Professor Bury’s Life of S.
-
-Patrick\'.
-
-John Bagnell Bury, The Life of St.
-
-Patrick and his Place in History (London: Macmillan 1905).
-
-This indicates that 1865 was not a misprint.
+[^2]: The ultimate source for this opinion is the Venerable Bede, History of the English Church and People, in his account of the conference between St.Augustine and the British clergy at St. Augustine’s Oak.

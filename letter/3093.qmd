@@ -1,7 +1,7 @@
 ---
 id: 3093
 title: To Jemima Blackburn
-date: '1857-01-24'
+iso-date: '1857-01-24'
 display-date: Jan 24th [1857]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
@@ -10,21 +10,8 @@ manuscript-location: 'University of Illinois, Urbana Champaign: Letter 7.'
 ---
 
 My dear [Mrs Blackburn](/person/159),
-The price of the binding was /6½ per volume, as that blue is an expensive cloth, and the binding of an [illustrated](/topic/167) book is always more expensive, because the plates have to be sewn in separately. I must say that I have a suspicion that you had divided the sum total by 1000 instead of 2150, for certainly 1/4 would have been almost enough to bind a quarto.
-
-The paper is included in the £64, as well as the printer’s journey in search of it, indeed [Parker](/person/1143) was quite surprised at the printing being done so cheaply. I have not heard any more as to how it is going off. I will let you know when I do.
-
-You ask what I am thinking about Queen Eleanor and that his horse was quite clumsy.[^1] I believe the great chargers were so in reality, but surely they had few slender palfreys.
-
-This was too early for Arabs.[^2] But after the Crusades I think they had some Spanish barbs.
-
-If you read [the Lances](/book/23), I think you will consider that Brigliador must have been a barb. I should be very sorry to part company, if I ever do bring out a book in the same style, and that I think must be determined by the aspect of affairs in the summer, and partly by your feelings too.
-
-By the by, I have been looking lately at Mrs Bayle’s,[^3] which I certainly do not in general think so successful as yours, and for the heads, I think hers are larger still in the summer in the country.
-
-That pretty one of [Lady Dalmeny](/person/1773)’s I only saw once, that is if hers is the clever illustration of “my lady loves her will”. I fancy your idea of me is not much like the reality. I never had a horse, and was by no means happy last time I was on the back of one to go up Skiddaw.
-
-My hunter and soldier temper is only sympathy with my [father](/person/1631) & [brother](/person/1624) who both have it keenly. I am personally a great coward and not at all enterprising, I was as a girl rather wild and scrambling, but it went off, I fancy from leading a quiet life, and in those things I am older at 30 than my cousins, though in love of fun and play rather younger. [Marian](/book/13) has a likeness but not me Elizth in [Abbeychurch](/book/2), [Lilias](/book/3), and Ethel in the [Daisy Chain](/book/24), though I beg to observe that I am not such an eccentric looking mortal as she was.
+The price of the binding was /6½ per volume, as that blue is an expensive cloth, and the binding of an [illustrated](/topic/167) book is always more expensive, because the plates have to be sewn in separately. I must say that I have a suspicion that you had divided the sum total by 1000 instead of 2150, for certainly 1/4 would have been almost enough to bind a quarto. The paper is included in the £64, as well as the printer’s journey in search of it, indeed [Parker](/person/1143) was quite surprised at the printing being done so cheaply. I have not heard any more as to how it is going off. I will let you know when I do. You ask what I am thinking about Queen Eleanor and that his horse was quite clumsy.[^1] I believe the great chargers were so in reality, but surely they had few slender palfreys. This was too early for Arabs.[^2] But after the Crusades I think they had some Spanish barbs. If you read [the Lances](/book/23), I think you will consider that Brigliador must have been a barb. I should be very sorry to part company, if I ever do bring out a book in the same style, and that I think must be determined by the aspect of affairs in the summer, and partly by your feelings too.
+By the by, I have been looking lately at Mrs Bayle’s,[^3] which I certainly do not in general think so successful as yours, and for the heads, I think hers are larger still in the summer in the country. That pretty one of [Lady Dalmeny](/person/1773)’s I only saw once, that is if hers is the clever illustration of “my lady loves her will”. I fancy your idea of me is not much like the reality. I never had a horse, and was by no means happy last time I was on the back of one to go up Skiddaw. My hunter and soldier temper is only sympathy with my [father](/person/1631) & [brother](/person/1624) who both have it keenly. I am personally a great coward and not at all enterprising, I was as a girl rather wild and scrambling, but it went off, I fancy from leading a quiet life, and in those things I am older at 30 than my cousins, though in love of fun and play rather younger. [Marian](/book/13) has a likeness but not me Elizth in [Abbeychurch](/book/2), [Lilias](/book/3), and Ethel in the [Daisy Chain](/book/24), though I beg to observe that I am not such an eccentric looking mortal as she was.
 I am glad you like the Columbus sketch. I was so much delighted with him when I got to know him and so provoked with the stupid books that made one think he had no glory but perseverance instead of the true beauty of his character. I do not think you will be satisfied with what I did with the White Hoods. I never could care for revolutionists of any sort, the only ones I do like at all were the Florentines for the sake of [Nicolo de Lapi.](/organisation/46) I wish you would read him, there is a translation of him now, I am quite sure dear old Fanfulla would instantly become a prime hero of yours, I long to hear how you would gloat over him
 
 Yours sincerely
@@ -35,8 +22,3 @@ C M Yonge
 [^1]: The Lances of Lynwood was serialised in MP (January 1853-December 1854) and published by Parker and Son in 1855 with illustrations by Jemima Blackburn. CMY would later write to Macmillan (26 February 1864) that Blackburn was ‘never really at home without animals as her subject.’
 [^2]: CMY must have changed her mind about this, as the text reads ‘Gaston . . . stood caressing his Arab steed Brigliador.’
 [^3]: Untraced.
-[^7]: Massimo D\'Azeglio, The Maid of Florence: or, Niccolò de Lapi, tr. W.
-
-Felgate (London, 1853).
-
-The novel was first published in Italian in 1841.

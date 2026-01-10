@@ -1,7 +1,7 @@
 ---
 id: 1810
 title: To Ann Maria Carter Smith
-date: '1860-12-04'
+iso-date: '1860-12-04'
 display-date: Decr 4th 1860
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -10,10 +10,7 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ 1860/ 13
 ---
 
 My dear [Miss Smith](/person/263),
-Many thanks for your kind answer, I think these [ladies’ biographies](/book/43) will be very nice work to do together, and I believe that to look into real life minutely is the best school for one’s own mind or for fiction.
-
-If I write nothing but fiction for some time, I begin to get stupid, and to feel rather as if it had been a long meal of sweets - then history is a rest, for research or narrative brings a different part of the mind into play.
-
+Many thanks for your kind answer, I think these [ladies’ biographies](/book/43) will be very nice work to do together, and I believe that to look into real life minutely is the best school for one’s own mind or for fiction. If I write nothing but fiction for some time, I begin to get stupid, and to feel rather as if it had been a long meal of sweets - then history is a rest, for research or narrative brings a different part of the mind into play.
 The people I had thought of were
 [Lady Fanshawe](/person/1835) X
 [Mrs Hutchinson](/person/1834) X
@@ -31,25 +28,14 @@ Mrs Bowey X
 [Mrs Grant of Laggan](/person/1825)
 [Miss Anna Gurney](/person/1824)[^2]
 But I am quite open to any other that you may like to do, and know enough of, and if you will take any of these except the marked ones, I shall be thankful
-I wish there were a few people in humbler life at whose biographies one could get at as thoroughly, but I fear this is impossible.
-
-As to the size of the book that must be settled by the size of the biographies.
-I will do as you wish about the Websters.
-
-The blunder between Wynnes & Winds[^3] was often made in our house- but I am afraid authorship is a secret that won’t keep much better than marriage and in spite of the change of name, Woolwich will be very betraying. I am amused that you & [Miss Wilford](/person/1520)[^4] should have both taken up the ladies’ side of military life at the same time
+I wish there were a few people in humbler life at whose biographies one could get at as thoroughly, but I fear this is impossible. As to the size of the book that must be settled by the size of the biographies.
+I will do as you wish about the Websters. The blunder between Wynnes & Winds[^3] was often made in our house- but I am afraid authorship is a secret that won’t keep much better than marriage and in spite of the change of name, Woolwich will be very betraying. I am amused that you & [Miss Wilford](/person/1520)[^4] should have both taken up the ladies’ side of military life at the same time
 
 yours sincerely
 
 C M Yonge
 
 
-[^1]: Envelope addressed to Miss A M Smith/ Rectory/ Old Charlton/ SE and postmarked Winchester 4 December 1860 and London SE 5 December 1860.
-
-Quoted by [Battiscombe](/organisation/17).
-[^2]: Of the proposed subjects, only Gurney, Grant, Fry, Perthes, Carter, Bailllie, Hutchinson and Fanshawe were given biographies in the first series of Biographies of Good Women (1862).
-
-Martin was the subject of one in the [second series](/book/57) (1865).
-[^3]: \'The Winds\' was a series of scientific articles which appeared intermittently in MP between July 1858 and December 1860.
-
-Carter Smith\'s story \'The Wynnes\' had appeared in the Churchman\'s Companion.
+[^2]: Of the proposed subjects, only Gurney, Grant, Fry, Perthes, Carter, Bailllie, Hutchinson and Fanshawe were given biographies in the first series of Biographies of Good Women (1862). Martin was the subject of one in the [second series](/book/57) (1865).
+[^3]: \'The Winds\' was a series of scientific articles which appeared intermittently in MP between July 1858 and December 1860. Carter Smith\'s story \'The Wynnes\' had appeared in the Churchman\'s Companion.
 [^4]: Florence Wilford was the daughter of Major-General Edmund Wilford, Governor of the Royal Military Academy, Woolwich, and thus a neighbour of Ann Carter Smith’s.

@@ -1,7 +1,7 @@
 ---
 id: 3158
 title: To Arthur Donald Innes
-date: '1890-06-06'
+iso-date: '1890-06-06'
 display-date: June 6th 1890
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -23,6 +23,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: ‘The Grey Woman’ is a harrowing tale signed ‘A.E.D.’, which appeared in the MP Christmas number (1889).
-
-Two letters in the Bodleian Library to [Margaret Benson](/person/1858) suggest she was a contributor, though neither seems to refer to this story directly.
+[^1]: ‘The Grey Woman’ is a harrowing tale signed ‘A.E.D.’, which appeared in the MP Christmas number (1889). Two letters in the Bodleian Library to [Margaret Benson](/person/1858) suggest she was a contributor, though neither seems to refer to this story directly.

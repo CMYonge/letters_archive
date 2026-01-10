@@ -1,7 +1,7 @@
 ---
 id: 2804
 title: To the Reverend William Harris Walter Bigg Wither
-date: '1885-04-05'
+iso-date: '1885-04-05'
 display-date: Easter [5 April 1885]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,9 +11,7 @@ manuscript-location: MS Harry Ransom Humanities Research Center, University of T
 ---
 
 My dear [Mr Wither](/person/1544)
-It has been a beautiful day Easter day, full Church and 104 Communicants – 50 early and 54 late – not quite so many as last year, but [Frances](/person/1604) was in bed with neuralgia and [Helen](/person/1613) is at Arlington.
-
-We had scarcely enough primroses for the Church, they are so late this year – but there were plenty of daffodils and it looked very well
+It has been a beautiful day Easter day, full Church and 104 Communicants – 50 early and 54 late – not quite so many as last year, but [Frances](/person/1604) was in bed with neuralgia and [Helen](/person/1613) is at Arlington. We had scarcely enough primroses for the Church, they are so late this year – but there were plenty of daffodils and it looked very well
 No, [Mildred Coleridge](/person/17) has not married [Adams](/person/12) nor do I think she will marry him.[^1]
 It is altogether the most extraordinary and miserable business I ever heard of, and my poor [Mary](/person/351) is quite heartbroken about it.
 [Mrs George Heathcote](/person/1690) is at the Park and came over on Wednesday to see [Gertrude](/person/1462)
@@ -22,6 +20,4 @@ Your affectionate
 C M Yonge
 
 
-[^1]: The Hon.
-
-Mildred Coleridge, niece of CMY\'s great friend Mary Coleridge, married Charles Warren Adams, against the wishes of her family, on the 24 June 1885.
+[^1]: The Hon. Mildred Coleridge, niece of CMY\'s great friend Mary Coleridge, married Charles Warren Adams, against the wishes of her family, on the 24 June 1885.

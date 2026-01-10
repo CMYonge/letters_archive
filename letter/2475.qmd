@@ -1,7 +1,7 @@
 ---
 id: 2475
 title: To Christabel Rose Coleridge
-date: '1873-07-02'
+iso-date: '1873-07-02'
 display-date: July 2nd 1873
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,18 +10,13 @@ manuscript-location: MS Mrs Clare Roels
 ---
 
 My dear [Christabel](/person/329)
-It is a fine story and I like it.[^2] I dare say you never read Rosanne, a very old book of the beginning of the century, where there is the same idea, a girl brought up by an infidel father with her mind a blank, and then struggling towards the light, and assimilating every shred. [^3] Her first prayer is very beautiful but I think your unprayed prayer is more touching Indeed it is Rosanne’s intellect rather than her heart that struggles to the light.
-
-They might as well have had holidays this month for only [Queen Bee](/person/31) and [Speedwell](/person/2291) have answered, and they are hardly worth cackling about, I don’t mean that they are not good. I will ask the [Sept questions](/topic/104) if it is my turn, but nearer the time I shall want a full list of the addresses.[^4] So far, you, [Miss Keary](/person/793), [Frances Peard](/person/1160) and [Fanny Awdry](/person/82) stand foremost among the select, and [Florence Wilford](/person/1520) has revived enough to write a story, which I expect every day to see.[^5] The next I fully believe will be one of you five but I shall not trust it to my own judgement but wait a little to gather up peoples impressions
-[Katie Johns](/person/887) was here the other day. I suppose [Mrs Johns ](/person/772)is better, but I had a very depressed note from her this morning
+It is a fine story and I like it.[^2] I dare say you never read Rosanne, a very old book of the beginning of the century, where there is the same idea, a girl brought up by an infidel father with her mind a blank, and then struggling towards the light, and assimilating every shred. [^3] Her first prayer is very beautiful but I think your unprayed prayer is more touching Indeed it is Rosanne’s intellect rather than her heart that struggles to the light. They might as well have had holidays this month for only [Queen Bee](/person/31) and [Speedwell](/person/2291) have answered, and they are hardly worth cackling about, I don’t mean that they are not good. I will ask the [Sept questions](/topic/104) if it is my turn, but nearer the time I shall want a full list of the addresses.[^4] So far, you, [Miss Keary](/person/793), [Frances Peard](/person/1160) and [Fanny Awdry](/person/82) stand foremost among the select, and [Florence Wilford](/person/1520) has revived enough to write a story, which I expect every day to see.[^5] The next I fully believe will be one of you five but I shall not trust it to my own judgement but wait a little to gather up peoples impressions
+[Katie Johns](/person/887) was here the other day. I suppose [Mrs Johns](/person/772)is better, but I had a very depressed note from her this morning
 your affectionate
 
 C M Yonge
 
 
-[^1]: With envelope addressed to \'Miss C R Coleridge Pickhurst/ Chiddingfold/ Godalming\' and postmarked Winchester 2 July 1873.
-
-Her brother Ernest Hartley Coleridge was running a school at Pickhurst, Chiddingfold.
 [^2]: \'The Light of the Sun\', the story of the daughter of an irreligious father, was contributed by Coleridge to the Christmas 1873 number of MP.
 [^3]: Laetitia Matilda Hawkins, Rosanne, or, A Father\'s Labour Lost 3 vols (London, Rivington 1814).
 [^4]: This refers to the administration of the Gosling Society, of which Coleridge was the secretary.

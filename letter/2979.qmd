@@ -1,8 +1,8 @@
 ---
 id: 2979
 title: To Anne Yonge
-date: '1851-10-01'
-display-date: Oct 22d [1851[[footnote:1]]]
+iso-date: '1851-10-01'
+display-date: Oct 22d [1851]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
 to-name: To Anne Yonge
@@ -10,37 +10,14 @@ manuscript-location: MS West Devon Record Office Acc 1092/7
 ---
 
 My dear [Anne](/person/1582)
-Many thanks for the further particulars of Tern, I am glad they are allowed to be Arctic. [Alethea](/person/27)’s children seem chequered in and out, brown and fair instead of being divided into boy and girl, how very amusing the others must be, I think [Edmund](/person/42) must be remarkably clever to be doing lessons, and joining so much in the play of the others.[^2] [Alethea Mackarness](/person/923)’s [daughter](/person/927) came as unexpectedly as [Frank](/person/30) did, she had no nurse, but Anne Coleridge was staying there, and the old school mistress came to help, the nurse did not come till the little thing was 3 hours old, but all is going on very well.
-
-One of [Julian](/person/1624)’s long letters was only from a tailor, the other was the real one, as perhaps you have seen his name by this time, so there is he, an officer. [Greener on the Gun](/periodical/76) is [Papa](/person/1631)’s and he will be obliged to you to keep it for an opportunity.
-
-Julian is very sorry you have had so much trouble about the Shag, he meant the Sun to have done all the work.
-
-They say that corrosive sublimate was never meant to come into contact with flesh, and that dry pepper would have been the thing to use, but he does not care in the least about it.
-
-Papa sends 6 queens[^3] for the repayment of those which conveyed the brooch, what a beauty it is, but I have not been able to wear it yet, having been in mourning. [Mrs Moore](/person/1051) keeps on talking of your letter, she was so much pleased with it.
-
-You or Alethea or [Jane](/person/1616) should manage to see the few last nos of [Chambers Edinburgh journal](/periodical/56) there is such a nice series of papers about the flowers at Budleigh Salterton, descriptions of the Otter &c, they are called Rambles in Search of Wild Flowers, and much surprised me by the familiar names.
-
-Mrs Moore goes on Monday, it has been a very short visit.
-
-You will be glad to get [Mary](/person/1626) and [Frances](/person/1605) back again and to settle in for the winter.
-
-Can you find for me the verses that begin ‘Rock of ages, cleft for me.’[^4]
-[Mamma](/person/1606) has been walking all along the Cretan Labyrinth at [Cranbury](/place/119) today, & does not seem tired.
-
-It was so beautiful, such a day of calm decay, so very still, and each elm branch tipped with a gold leaf
-Our new underling at school does very well.
-
-One of the girls here is going to live with an aunt married to ‘the Visionary Surgeon of the Life Guards’ It is [Guy](/book/15) that I have just finished but I dont know when he will come out
+Many thanks for the further particulars of Tern, I am glad they are allowed to be Arctic. [Alethea](/person/27)’s children seem chequered in and out, brown and fair instead of being divided into boy and girl, how very amusing the others must be, I think [Edmund](/person/42) must be remarkably clever to be doing lessons, and joining so much in the play of the others.[^2] [Alethea Mackarness](/person/923)’s [daughter](/person/927) came as unexpectedly as [Frank](/person/30) did, she had no nurse, but Anne Coleridge was staying there, and the old school mistress came to help, the nurse did not come till the little thing was 3 hours old, but all is going on very well. One of [Julian](/person/1624)’s long letters was only from a tailor, the other was the real one, as perhaps you have seen his name by this time, so there is he, an officer. [Greener on the Gun](/periodical/76) is [Papa](/person/1631)’s and he will be obliged to you to keep it for an opportunity. Julian is very sorry you have had so much trouble about the Shag, he meant the Sun to have done all the work. They say that corrosive sublimate was never meant to come into contact with flesh, and that dry pepper would have been the thing to use, but he does not care in the least about it. Papa sends 6 queens[^3] for the repayment of those which conveyed the brooch, what a beauty it is, but I have not been able to wear it yet, having been in mourning. [Mrs Moore](/person/1051) keeps on talking of your letter, she was so much pleased with it. You or Alethea or [Jane](/person/1616) should manage to see the few last nos of [Chambers Edinburgh journal](/periodical/56) there is such a nice series of papers about the flowers at Budleigh Salterton, descriptions of the Otter &c, they are called Rambles in Search of Wild Flowers, and much surprised me by the familiar names. Mrs Moore goes on Monday, it has been a very short visit. You will be glad to get [Mary](/person/1626) and [Frances](/person/1605) back again and to settle in for the winter. Can you find for me the verses that begin ‘Rock of ages, cleft for me.’[^4]
+[Mamma](/person/1606) has been walking all along the Cretan Labyrinth at [Cranbury](/place/119) today, & does not seem tired. It was so beautiful, such a day of calm decay, so very still, and each elm branch tipped with a gold leaf
+Our new underling at school does very well. One of the girls here is going to live with an aunt married to ‘the Visionary Surgeon of the Life Guards’ It is [Guy](/book/15) that I have just finished but I dont know when he will come out
 your most affect
 CMY
 Many thanks from the Editor to [Duke](/person/1599)
 
 
-[^1]: Endorsed in another hand ‘c.1852’.
 [^2]: Edmund Doidge Anderson Morshead (1849-1912) subsequently got a double first (1869, 71) and became a schoolmaster at Winchester and notorious eccentric.
 [^3]: Stamps.
-[^4]: The hymn by the Rev.
-
-Augustus Toplady (1740-78).
+[^4]: The hymn by the Rev. Augustus Toplady (1740-78).

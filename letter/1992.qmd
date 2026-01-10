@@ -1,7 +1,7 @@
 ---
 id: 1992
 title: To the Reverend Henry Octavius Coxe
-date: '1864-11-10'
+iso-date: '1864-11-10'
 display-date: Novr 10th 1864
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -20,6 +20,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: CMY and her mother were planning to stay with the Warden at New College. (See letter to Macmillan dated 11 November 1864).
-
-She was looking for background material for [The Dove in the Eagle’s Nest](/book/62) which she had just begun to write.
+[^1]: CMY and her mother were planning to stay with the Warden at New College. (See letter to Macmillan dated 11 November 1864). She was looking for background material for [The Dove in the Eagle’s Nest](/book/62) which she had just begun to write.

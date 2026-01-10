@@ -1,26 +1,21 @@
 ---
 id: 3332
 title: To Daniel Conner Lathbury
-date: '1896-12-03'
+iso-date: '1896-12-03'
 display-date: December 3, 1896.
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne,
 to-name: To Daniel Conner Lathbury
-manuscript-location: MS location unknown.  Printed in Coleridge, [[otherbook:40]<i>Life</i>],  337
+manuscript-location: MS location unknown. Printed in Coleridge, [[otherbook:40]<i>Life</i>],
+  337
 ---
 
 Dear [Sir](/person/2159)-
 I must write and thank you, and ask you to thank the [writer](/person/294) of the very kind and appreciative notice of my books.[^1]
-The balance, of praise and detection of weakness (though most kindly letting the former preponderate) is just what I have wished to see. I think that what pleases me best is the full recognition that the religious and conscientious men of the stories had their actual counterparts, and though no doubt needing more manly power to be thorough delineations, still by no means the impossible monsters they are sometimes declared to be.
-
-It was no small advantage and responsibility to have grown up among good men and women; and to their influence and, in earlier times, their actual criticism all that is best in my work is owing.
-
-It is an absolute pleasure, though not unmixed with regret and humiliation, to have read such a criticism, and 1 should like to thank both you and ‘ M. E. C.’ for it.-
+The balance, of praise and detection of weakness (though most kindly letting the former preponderate) is just what I have wished to see. I think that what pleases me best is the full recognition that the religious and conscientious men of the stories had their actual counterparts, and though no doubt needing more manly power to be thorough delineations, still by no means the impossible monsters they are sometimes declared to be. It was no small advantage and responsibility to have grown up among good men and women; and to their influence and, in earlier times, their actual criticism all that is best in my work is owing. It is an absolute pleasure, though not unmixed with regret and humiliation, to have read such a criticism, and 1 should like to thank both you and ‘ M. E. C.’ for it.-
 
 Yours truly,
 C. M. YONGE.
 
 
-[^1]: CRC’s note: A notice which appeared in the [Guardian](/periodical/75), written by Miss M. E.
-
-Christie.
+[^1]: CRC’s note: A notice which appeared in the [Guardian](/periodical/75), written by Miss M. E. Christie.

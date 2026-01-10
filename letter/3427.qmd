@@ -1,7 +1,7 @@
 ---
 id: 3427
 title: To Christabel Rose Coleridge
-date: '1899-09-19'
+iso-date: '1899-09-19'
 display-date: Sept 19 [1899]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -10,22 +10,14 @@ manuscript-location: MS Mrs Clare Roels/87
 ---
 
 My dear [C C](/person/329)
-I confess that though I mourn over the Manes of the [M P](/periodical/52) I am personally a little relieved, for I was considering what I could honestly personally undertake or allow my name to be used for, in relation first to Truth, secondly in public spirit to the Church and girlhood, and thirdly in justice to kind helpers and endeavours for a fresh start.[^1] [Helen](/person/1613) has been reading the early volumes which somehow she had never seen, and I find that they were almost entirely my best and most enduring things, such as I could hardly renew imitate, and if I did, they would be only stale.
-
-No, I could not do the same, nor could you, though you can do better and deeper and the young and lively do things of their own not in old grooves of their predecessors- So we had better throw it off our minds and turn to what we can do – though we do not finish – like the singers in one of Hardy’s books with ‘a Sunday that is not something after a feast day’-[^2]
-[Nat Soc](/organisation/32) has [paid](/topic/160) me as much as ever. I hope the [Herd Boy](/book/248) may come in a day or two. [Miss Fin](/person/512)’s [Miss Blunt](/person/163) is coming to see her on Thursday, she is all right again, but [Alethea](/person/182) has had the prevalent complaint! [Annie](/person/1024) went away yesterday, having had a fit of rheumatism in one leg. I hope you will see more of her.
-
-Wilfred Merrifield has set up a mischievous little flirtation with Vera.[^3] I think I shall finish by Christmas or before, and then my [missionary story](/book/250), but the aunt and niece might be simultaneous if we see an opening.
+I confess that though I mourn over the Manes of the [M P](/periodical/52) I am personally a little relieved, for I was considering what I could honestly personally undertake or allow my name to be used for, in relation first to Truth, secondly in public spirit to the Church and girlhood, and thirdly in justice to kind helpers and endeavours for a fresh start.[^1] [Helen](/person/1613) has been reading the early volumes which somehow she had never seen, and I find that they were almost entirely my best and most enduring things, such as I could hardly renew imitate, and if I did, they would be only stale. No, I could not do the same, nor could you, though you can do better and deeper and the young and lively do things of their own not in old grooves of their predecessors- So we had better throw it off our minds and turn to what we can do – though we do not finish – like the singers in one of Hardy’s books with ‘a Sunday that is not something after a feast day’-[^2]
+[Nat Soc](/organisation/32) has [paid](/topic/160) me as much as ever. I hope the [Herd Boy](/book/248) may come in a day or two. [Miss Fin](/person/512)’s [Miss Blunt](/person/163) is coming to see her on Thursday, she is all right again, but [Alethea](/person/182) has had the prevalent complaint! [Annie](/person/1024) went away yesterday, having had a fit of rheumatism in one leg. I hope you will see more of her. Wilfred Merrifield has set up a mischievous little flirtation with Vera.[^3] I think I shall finish by Christmas or before, and then my [missionary story](/book/250), but the aunt and niece might be simultaneous if we see an opening.
 your affectionate
 
 C M Yonge
-I wonder if we shall ever hear what has become of [A D I ](/person/744) I am very sorry for him, as well as sorry for you, and the upset of work
+I wonder if we shall ever hear what has become of [A D I](/person/744) I am very sorry for him, as well as sorry for you, and the upset of work
 
 
-[^1]: They were abandoning attempts to revive the Monthly Packet, which had come to an end as a result of the collapse of A. D.
-
-Innes\'s publishing business.
-[^2]: Thomas Hardy, Under the Greenwood Tree: A Rural Painting of the Dutch School 2 vols (London: Tinsley 1872), Chapter 4: ‘All we thought was, that for us old ancient singers to be choked off quiet at no time in particular, as now, in the Sundays after Easter, would seem rather mean in the eyes of other parishes, sir.
-
-But if we fell glorious with a bit of a flourish at Christmas, we should have a respectable end, and not dwindle away at some nameless paltry second-Sunday-after or Sunday-next-before something, that\'s got no name of his own.’
+[^1]: They were abandoning attempts to revive the Monthly Packet, which had come to an end as a result of the collapse of A. D. Innes\'s publishing business.
+[^2]: Thomas Hardy, Under the Greenwood Tree: A Rural Painting of the Dutch School 2 vols (London: Tinsley 1872), Chapter 4: ‘All we thought was, that for us old ancient singers to be choked off quiet at no time in particular, as now, in the Sundays after Easter, would seem rather mean in the eyes of other parishes, sir. But if we fell glorious with a bit of a flourish at Christmas, we should have a respectable end, and not dwindle away at some nameless paltry second-Sunday-after or Sunday-next-before something, that\'s got no name of his own.’
 [^3]: Characters in [Modern Broods](/book/251).

@@ -1,8 +1,8 @@
 ---
 id: 283
 title: \'Conversation on the Mothers\' Union\' by the Editor
-author: Charlotte Mary Yonge
-date: '1887'
+author-name: Charlotte Mary Yonge
+publication-date: '1887'
 genre: Non-fiction
 publication-format: Article in Journal
 publisher: MP (September 1887) 287-292

@@ -1,29 +1,22 @@
 ---
 id: 2985
 title: To Elizabeth Roberts
-date: '1852-01-31'
+iso-date: '1852-01-31'
 display-date: Jany 31st [1852]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
 to-name: To Elizabeth Roberts
-manuscript-location: 'MS Huntington Library:  Yonge Letters'
+manuscript-location: 'MS Huntington Library: Yonge Letters'
 ---
 
 Dear [Madam](/person/1243),
 You are of course perfectly at liberty to reserve the copyright of the [Garland for the Year](/topic/225). I should think it would form a very pretty little volume, and I hope, you will find, as I have done, that previous publication in a magazine is rather an advantage than otherwise in afterwards negociating for the publication of a work.
-I am sorry not to be able to offer a larger rate of payment, but the [Monthly Packet](/periodical/52) is still very new, and the Publisher only promises me £30 for the year, which, divided by the 960 pages, gives [/7½ per page](/topic/102), reserving nothing for myself as Editor, only paying for my own writings the same as any other contributor. I hope that the circulation will increase, as it has already done beyond my expectations.
-
-Though I have published before in Magazines, I have never made any bargain before hand, but taken at the end of the year the sum which the managers have chosen to give me, and thus I have not been in the way of judging the rate of payment. I should be much obliged if you would not object to tell me what proportion our scale bears to that of the periodicals with which you have been accustomed to have dealings.
-
-It is curious, how, when the attention is once directed to a subject, lights are thrown on it from every quarter.
-
-You asked if I knew anything of the Bean of St Ignatius and yesterday I came on a mention of it, in ‘[Travels in Thibet and Tartary](/periodical/86)’ by Huc and Gabet, two French missionaries.[^1] It grows in the Phillipine isles, is brown, hard and horny, very bitter, and is used in medicine by the Chinese, who call it Kon Kaow. I thought you would be glad to hear all I could find, though I do not think it sounds promising for a garland.
+I am sorry not to be able to offer a larger rate of payment, but the [Monthly Packet](/periodical/52) is still very new, and the Publisher only promises me £30 for the year, which, divided by the 960 pages, gives [/7½ per page](/topic/102), reserving nothing for myself as Editor, only paying for my own writings the same as any other contributor. I hope that the circulation will increase, as it has already done beyond my expectations. Though I have published before in Magazines, I have never made any bargain before hand, but taken at the end of the year the sum which the managers have chosen to give me, and thus I have not been in the way of judging the rate of payment. I should be much obliged if you would not object to tell me what proportion our scale bears to that of the periodicals with which you have been accustomed to have dealings.
+It is curious, how, when the attention is once directed to a subject, lights are thrown on it from every quarter. You asked if I knew anything of the Bean of St Ignatius and yesterday I came on a mention of it, in ‘[Travels in Thibet and Tartary](/periodical/86)’ by Huc and Gabet, two French missionaries.[^1] It grows in the Phillipine isles, is brown, hard and horny, very bitter, and is used in medicine by the Chinese, who call it Kon Kaow. I thought you would be glad to hear all I could find, though I do not think it sounds promising for a garland.
 
 yours sincerely
 
 C M Yonge
 
 
-[^1]: The plant is ignatia amara, the book Évariste Régis Huc, Travels in Tartary, Thibet and China, during the years 1844, 5, 6, Tr.
-
-William Hazlitt. 2 vols (London, National Illustrated 1852).
+[^1]: The plant is ignatia amara, the book Évariste Régis Huc, Travels in Tartary, Thibet and China, during the years 1844, 5, 6, Tr. William Hazlitt. 2 vols (London, National Illustrated 1852).

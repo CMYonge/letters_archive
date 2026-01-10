@@ -1,7 +1,7 @@
 ---
 id: 2585
 title: To Mr Collier
-date: '1877-06-14'
+iso-date: '1877-06-14'
 display-date: June 14th 1877
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.

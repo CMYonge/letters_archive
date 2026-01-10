@@ -2,8 +2,8 @@
 id: 23
 title: Lances of Lynwood, The. By the author of “The Little Duke;” “Heartsease:” “Heir
   of Redclyffe;” Etc.
-author: Charlotte Mary Yonge
-date: '.1855'
+author-name: Charlotte Mary Yonge
+publication-date: '.1855'
 genre: Fiction (historical)
 publication-format: Book
 publisher: John W Parker and Son West Strand, London.

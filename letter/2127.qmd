@@ -1,7 +1,7 @@
 ---
 id: 2127
 title: From the Right Reverend John Coleridge Patteson to Charlotte Mary Yonge
-date: '1866-07-01'
+iso-date: '1866-07-01'
 display-date: '[July 1866]'
 from-name: Charlotte Mary Yonge
 from-address: '[Bauro, now San Cristobal, Solomon Islands]'
@@ -10,27 +10,7 @@ manuscript-location: MS location unknown. This fragment printed in Yonge, <i>[[c
   of John Coleridge Patteson]</i> II, 205.
 ---
 
-You know that [I](/person/1155) look upon the training up of native scholars as the real hope of something being done.
-
-But it is during the immediate stage that men of the right sort would be so valuable.
-
-It is in my want of managing and organising an English staff far more than in my direct dealings with Melanesians that I am conscious of my great deficiencies, unfitness, in short, for the leader’s place.
-
-Think if [Bishop Mackenzie](/person/929) had been in my place and I had been his Missionary chaplain!
-
-Perhaps I should have been discontented then, though I can talk the leader’s talk, &c at Sydney or Melbourne meetings fairly, but there is little in that.
-
+You know that [I](/person/1155) look upon the training up of native scholars as the real hope of something being done. But it is during the immediate stage that men of the right sort would be so valuable.
+It is in my want of managing and organising an English staff far more than in my direct dealings with Melanesians that I am conscious of my great deficiencies, unfitness, in short, for the leader’s place. Think if [Bishop Mackenzie](/person/929) had been in my place and I had been his Missionary chaplain! Perhaps I should have been discontented then, though I can talk the leader’s talk, &c at Sydney or Melbourne meetings fairly, but there is little in that.
 It is 9 p.m., the pleasantest time, in one sense, of my twenty-four hours, for there are only two people with me in the hut.
-
-My arrangements are somewhat simple; but I am very comfortable.
-
-Delicious bathes I have in the stream: yams and fish are no bad fare; and I have some biscuit and essence of coffee, and a few books, and am perfectly well.
-
-The mode of life has become almost natural to me. I am on capital terms with the people, and even the babies are no longer afraid of me.
-
-Old and young, men and women, boys and girls about me of course all day; and small presents of yams, fish, bananas, almonds, show the friendliness of the people when properly treated.
-
-But the bunches of skulls remain slung up in the large canoe houses, and they can be wild enough when they are excited.
-
-
-[^1]: The passage about Mackenzie, as far as \'It is 9 p.m.\' was omitted from the 1875 revised edition.
+My arrangements are somewhat simple; but I am very comfortable. Delicious bathes I have in the stream: yams and fish are no bad fare; and I have some biscuit and essence of coffee, and a few books, and am perfectly well. The mode of life has become almost natural to me. I am on capital terms with the people, and even the babies are no longer afraid of me. Old and young, men and women, boys and girls about me of course all day; and small presents of yams, fish, bananas, almonds, show the friendliness of the people when properly treated. But the bunches of skulls remain slung up in the large canoe houses, and they can be wild enough when they are excited.

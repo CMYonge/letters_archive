@@ -1,7 +1,7 @@
 ---
 id: 2381
 title: To an Unknown Woman or to Alexander Macmillan?
-date: '1870-05-30'
+iso-date: '1870-05-30'
 display-date: May 30th [1870]
 from-name: Charlotte Mary Yonge
 from-address: Wantage
@@ -18,7 +18,6 @@ by
 
 Charlotte M Yonge
 Then people would ask for it as Yonge’s Scripture Readings.
-
 My address here is the [Rev’d Wm Butler](/person/244)’s Wantage - I go home on Thursday
 
 Yours sincerely
@@ -27,11 +26,4 @@ C M Yonge
 
 
 [^1]: Black-edged paper.
-[^2]: This letter is among the correspondence with [Alexander Macmillan](/person/939), and the salutation may simply be a mistake.
-
-Or the letter may have been addressed to his sister-in-law [Eliza (Orridge) Macmillan](/person/941), who was his partner, but one would expect CMY, who had met her, to address her as Mrs Macmillan.
-
-Or it is possible that the letter was addressed to [Frances Martin](/person/971), the editor of [Macmillan\'s Sunday Library](/topic/145), although the Scripture Readings do not appear to have come out in that series.
-[^3]: The first of the [Scripture Readings for schools, with comments, Genesis to Deuteronomy](/book/87), was published by Macmillan in May 1871; it cost 3s. 6d. and the version without comments was 1s. 6d..
-
-Eventually there were 5 volumes, 1871-1879.
+[^2]: This letter is among the correspondence with [Alexander Macmillan](/person/939), and the salutation may simply be a mistake. Or the letter may have been addressed to his sister-in-law [Eliza (Orridge) Macmillan](/person/941), who was his partner, but one would expect CMY, who had met her, to address her as Mrs Macmillan. Or it is possible that the letter was addressed to [Frances Martin](/person/971), the editor of [Macmillan\'s Sunday Library](/topic/145), although the Scripture Readings do not appear to have come out in that series.

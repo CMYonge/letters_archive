@@ -1,7 +1,7 @@
 ---
 id: 2357
 title: To Arthur John Butler
-date: '1869-12-07'
+iso-date: '1869-12-07'
 display-date: Decr 7th [1869]
 from-name: Charlotte Mary Yonge
 from-address: Heaths court
@@ -11,22 +11,11 @@ manuscript-location: MS Mrs Caroline Fairclough/22
 
 My dear [Arthur](/person/238)
 Your letter and the book arrived together yesterday just as I was setting off from home so that I could only glance at it, and see that [‘Polly’](/book/348) is likely to be very much edified by it, and to thank you very much.
-
-Pray excuse my having written the wrong way of my paper, I have only just found it out.
-
-Here is a chapter of Polly come, which I enclose.
-
-Being away from all my books, I make no doubt there are more mistakes in it uncorrected than usual indeed I am sure there is one in the Greek word for voice, but as I cannot feel sure of correcting it right I leave it for you.
-
-If there is no more to be done to it than rectifying a word or sentence here and there please to send it to [Mozley](/organisation/108), according to the direction on it.
-
-If there is anything for me to see to, I shall be here till Friday - (I believe though that Wednesday evening’s post from Wantage is the last that will catch me here) Here, I should say is [Sir J T Coleridge](/person/344)’s Heath’s Court, Ottery St Mary. I get home on Saturday sleeping a night at the Palace at Salisbury. I suspect there was a mistake in the last Polly in making the causal a voice instead of a kind of verb.
+Pray excuse my having written the wrong way of my paper, I have only just found it out. Here is a chapter of Polly come, which I enclose. Being away from all my books, I make no doubt there are more mistakes in it uncorrected than usual indeed I am sure there is one in the Greek word for voice, but as I cannot feel sure of correcting it right I leave it for you.
+If there is no more to be done to it than rectifying a word or sentence here and there please to send it to [Mozley](/organisation/108), according to the direction on it. If there is anything for me to see to, I shall be here till Friday - (I believe though that Wednesday evening’s post from Wantage is the last that will catch me here) Here, I should say is [Sir J T Coleridge](/person/344)’s Heath’s Court, Ottery St Mary. I get home on Saturday sleeping a night at the Palace at Salisbury. I suspect there was a mistake in the last Polly in making the causal a voice instead of a kind of verb.
 I have just seen the [Solicitor general](/person/343) and his [wife](/person/341) off to London, I think you will find your quarters exceedingly amusing and pleasant
 With my love to everybody at the Vicarage
 
 yours sincerely
 
 C M Yonge
-
-
-[^1]: Black-edged paper.

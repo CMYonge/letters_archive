@@ -1,12 +1,12 @@
 ---
 id: 3043
 title: To Ellen J. Millington
-date: '1854-03-09'
+iso-date: '1854-03-09'
 display-date: March 9th [?1854]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne
 to-name: To Ellen J. Millington
-manuscript-location: 'MS Princeton University, Parrish Collection,  C0171: Box 29'
+manuscript-location: 'MS Princeton University, Parrish Collection, C0171: Box 29'
 ---
 
 My dear [Miss Millington](/person/1000)

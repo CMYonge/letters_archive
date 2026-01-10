@@ -1,12 +1,12 @@
 ---
 id: 3136
 title: To Ann Maria Carter Smith
-date: '1859-10-04'
+iso-date: '1859-10-04'
 display-date: October 4th 1859
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
 to-name: To Ann Maria Carter Smith
-manuscript-location: MS Westcountry Studies Library, Exeter/  Yonge 1859/10
+manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1859/10
 ---
 
 My dear [Miss Smith](/person/263)
@@ -19,5 +19,4 @@ yours sincerely
 C M Yonge
 
 
-[^1]: With envelope addressed to Miss A F C Smith/ Old Charlton Rectory/ S E and postmarked Winchester 4 October and London SE 5 October 1859.
 [^2]: ‘Periodicals’ The Literary Churchman (16 Sept 1859) 344: ‘Of the Churchman’s Companion after awarding the usual meed of praise to the ‘Wynnes’, we are constrained to say that the September number is a little tame.’

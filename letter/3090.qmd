@@ -1,7 +1,7 @@
 ---
 id: 3090
 title: To Ann Maria Carter Smith
-date: '1856-12-09'
+iso-date: '1856-12-09'
 display-date: Decr 9th [1856]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
@@ -10,19 +10,9 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1856/4
 ---
 
 My dear [Madam](/person/263)
-When I wrote my first letter, I must have been under some hallucination that 52 shillings was £2 2. instead of £2.12. but I am glad the mistake was there instead of in the cheque.
-
-Your pretty [Household Record](/periodical/259) came safely this morning, and I have read nearly to the end with much pleasure. I think I like it better than [Wishop](/organisation/257) though not quite so well as the [Thorns and Roses](/periodical/253).
-
-Its charm is the seeming so very like life from the quietness and simplicity. I hope Wishop [will begin](/periodical/52) in April or March, but I cannot yet make quite sure.
-
-The Copyright of all is your own, with [our small pay](/topic/102). I am sure it would not be sufficient to buy the copyright, and I hope some day, your tales may make a pretty volume.
-
-Thanks for the permission to reveal the authorship to [Miss Emily Taylor](/person/1397). I have no doubt it will be safe with her. I do not know whether I let you to suppose that I prefer short tales to longer ones. I do not think that is the case, it only happened that the shorter one fitted the last number of the year better. I never could write a short story myself, and so have perhaps the more respect for the art of getting much into brief space
+When I wrote my first letter, I must have been under some hallucination that 52 shillings was £2 2. instead of £2.12. but I am glad the mistake was there instead of in the cheque. Your pretty [Household Record](/periodical/259) came safely this morning, and I have read nearly to the end with much pleasure. I think I like it better than [Wishop](/organisation/257) though not quite so well as the [Thorns and Roses](/periodical/253). Its charm is the seeming so very like life from the quietness and simplicity. I hope Wishop [will begin](/periodical/52) in April or March, but I cannot yet make quite sure.
+The Copyright of all is your own, with [our small pay](/topic/102). I am sure it would not be sufficient to buy the copyright, and I hope some day, your tales may make a pretty volume. Thanks for the permission to reveal the authorship to [Miss Emily Taylor](/person/1397). I have no doubt it will be safe with her. I do not know whether I let you to suppose that I prefer short tales to longer ones. I do not think that is the case, it only happened that the shorter one fitted the last number of the year better. I never could write a short story myself, and so have perhaps the more respect for the art of getting much into brief space
 
 yours truly
 
 C M Yonge
-
-
-[^1]: In envelope addressed to Miss A Carter Smith/ Stepney Rectory/ London and postmarked Winchester 9 December 1856 and 10 December 1856.

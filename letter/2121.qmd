@@ -1,7 +1,7 @@
 ---
 id: 2121
 title: To Alexander Macmillan
-date: '1866-04-26'
+iso-date: '1866-04-26'
 display-date: April 26th [1866]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,10 +10,7 @@ manuscript-location: 'MS British Library Add MSS 54920: 156-157'
 ---
 
 Dear [Mr Macmillan](/person/939),
-I enclose the list of the other copies of the [Dove](/book/62) to be sent out besides my own dozen.
-
-Our day of departure is still fixed for Monday, but it is very likely to be put off till Friday. I suppose you naturally send copies of my books to the [Guardian](/periodical/75) but it is odd how it has ceased to notice them.
-
+I enclose the list of the other copies of the [Dove](/book/62) to be sent out besides my own dozen. Our day of departure is still fixed for Monday, but it is very likely to be put off till Friday. I suppose you naturally send copies of my books to the [Guardian](/periodical/75) but it is odd how it has ceased to notice them.
 If [Miss Keary](/person/793)’s new book is finished at the same time, I should be glad to have a copy in the parcel.
 
 Yours sincerely

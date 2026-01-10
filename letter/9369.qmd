@@ -1,7 +1,7 @@
 ---
 id: 9369
 title: To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>
-date: '1895-04-02'
+iso-date: '1895-04-02'
 display-date: April 2nd [1895]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -15,13 +15,9 @@ OUR MAGAZINES
 Madam,-
 Is not ‘Genista,’ in accordance with her signature, a little too humble in her estimation of the wants of [Members](/organisation/23)?[^1] Girls of that age do not want simple ‘goody tales;’ they will find and read books that we think are quite beyond them.
 
-Most girls have passed their standards at school, and there have acquired knowledge enough to take an interest in subjects brought forward.
+Most girls have passed their standards at school, and there have acquired knowledge enough to take an interest in subjects brought forward. It is much more wholesome for them to have writing rather above than below them. 	
 
-It is much more wholesome for them to have writing rather above than below them. 	
-
-C. M.
-
-Yonge.
+C. M. Yonge.
 
 
 [^1]: The April issue had published a letter from \'Genista\' beginning \'I too should be very glad if Friendly Leaves could be made more suitable for and attractive to our ordinary Members. I can’t conscientiously urge it on my younger girls.\'

@@ -1,7 +1,7 @@
 ---
 id: 3484
 title: To Ellen Julia Johns
-date: '1867-07-09'
+iso-date: '1867-07-09'
 display-date: July 9th [1867]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,15 +10,8 @@ manuscript-location: MS Charlotte Mitchell
 ---
 
 My dear [Mrs Johns](/person/772),
-I am very glad there is a prospect of our seeing [Miss Keary](/person/793).
-
-Would you or [Kate](/person/887) be so kind as to let us know when she comes, and how long she is likely to be with you, and then we may fix a day for meeting or trying to meet.
-
-Next week and the week after too we have friends coming to us just so invalidish that I dare not make engagements till I have seen how they are, and the length of the second visit also, but at any rate, I hope we shall not miss seeing you and Miss Keary
+I am very glad there is a prospect of our seeing [Miss Keary](/person/793). Would you or [Kate](/person/887) be so kind as to let us know when she comes, and how long she is likely to be with you, and then we may fix a day for meeting or trying to meet. Next week and the week after too we have friends coming to us just so invalidish that I dare not make engagements till I have seen how they are, and the length of the second visit also, but at any rate, I hope we shall not miss seeing you and Miss Keary
 
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: With envelope addressed to Mrs Johns/ Winton House/ Winchester and postmarked Winchester 9 July 1867.

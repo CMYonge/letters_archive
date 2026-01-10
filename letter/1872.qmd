@@ -1,7 +1,7 @@
 ---
 id: 1872
 title: To Frances Mary Peard
-date: '1862-01-01'
+iso-date: '1862-01-01'
 display-date: '[1862]'
 from-name: Charlotte Mary Yonge
 to-name: To Frances Mary Peard

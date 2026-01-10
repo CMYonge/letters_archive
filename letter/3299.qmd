@@ -1,24 +1,18 @@
 ---
 id: 3299
 title: Charles Wooldridge to Charlotte Mary Yonge
-date: '1895-07-16'
+iso-date: '1895-07-16'
 display-date: July 16 1895
 from-name: Charlotte Mary Yonge
 to-name: Charles Wooldridge to Charlotte Mary Yonge
-manuscript-location: Copy outletter book,  Hampshire Record Office 70M92W/59/236
+manuscript-location: Copy outletter book, Hampshire Record Office 70M92W/59/236
 ---
 
 Dear Madam
-I have sent the policy to [Mrs.
-
-Yonge](/person/1604) as you desired.
+I have sent the policy to [Mrs. Yonge](/person/1604) as you desired.
 I have had a letter from her, she does not seem to understand about it. I have written to her to explain that you having paid the money besides the interest & premiums the policy had to become your property.
-I have not told her what you led me to suppose you thought of doing with regard to this policy, as I did not feel at liberty to do so, but it has occurred to me that perhaps when you had the opportunity to you might like to talk to her about it.
-
-Of course if you make her a present of the policy now it ought to be transferred into her name, but if you are going to continue to pay the premiums I think it right it should remain in your name, whatever you may decide to do hereafter, by will or otherwise.
-
+I have not told her what you led me to suppose you thought of doing with regard to this policy, as I did not feel at liberty to do so, but it has occurred to me that perhaps when you had the opportunity to you might like to talk to her about it. Of course if you make her a present of the policy now it ought to be transferred into her name, but if you are going to continue to pay the premiums I think it right it should remain in your name, whatever you may decide to do hereafter, by will or otherwise.
 The deed relating to the London mortgage has to be registered in Middlesex & for that purpose a form has to be signed by you in the presence of a witness &c.
-
 Shall you be coming into Winchester or would you prefer my calling?
 I shall be engaged tomorrow & Thursday, but at home on Friday or Saturday & could see you here on the mornings of either of those days or could go down to Otterbourne to see you on Friday afternoon
 I am yours faithy

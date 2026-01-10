@@ -5,8 +5,4 @@ name: <i>English Illustrated Magazine</i>
 title: <i>English Illustrated Magazine</i>
 ---
 
-This was published monthly by Macmillan 1883-1913. CMY published The Armourer’s Prentices in it in 1884.
-
-She wrote to G. L.
-
-Craik (10 July 1884) protesting about the publication in it of Henry James’s ‘The Author of Beltraffio’on the grounds that it was calculated to ‘make sceptically inclined people averse from devout faith’.
+This was published monthly by Macmillan 1883-1913. CMY published The Armourer’s Prentices in it in 1884. She wrote to G. L. Craik (10 July 1884) protesting about the publication in it of Henry James’s ‘The Author of Beltraffio’on the grounds that it was calculated to ‘make sceptically inclined people averse from devout faith’.

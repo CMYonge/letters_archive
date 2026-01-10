@@ -1,53 +1,25 @@
 ---
 id: 2825
 title: To Florence Wilford
-date: '1886-01-27'
+iso-date: '1886-01-27'
 display-date: January 27 [1886]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
 to-name: To Florence Wilford
-manuscript-location: MS location unknown.  Printed in Coleridge,[[otherbook:40] <i>Life</i>]
+manuscript-location: MS location unknown. Printed in Coleridge,[[otherbook:40] <i>Life</i>]
   318-9
 ---
 
 My dear [Florence](/person/1520)
-As next Tuesday is a Saint's day, perhaps I had better say that the boy would not find me at home, as the first Tuesday in every month there is a meeting of the [High School](/organisation/51) committee.[^1] On all Thursday afternoons till Easter I have to be at the [mother's meeting](/organisation/31), and indeed we are so eaten up with preparing for the examinations that I can answer for no afternoons in February or early March.
-
-It does seem very ridiculous, but having Monday, Thursday, Friday and Saturday always engaged, the other two afternoons get everything else in them, so that I am not very likely to be in the way.
-
-So I think he had better not try to find me till after the first fortnight in March, when I suppose the stress of preparation will be over. I never feel as if I had any time when the mother's meetings go on, from October to Easter; Thursday is so much the most available day of the week, and it is the one the women like best.
-
-By the bye, I have lent Tender and True to [Mrs.
-
-Wickham](/person/1500) of Compton, who says her mothers are delighted with it. [^2]
-I am glad to hear what you say of young ladies now; I suppose there are very different sets; I went by various things.[^3] I know of several cricket matches, and one poor girl wrote to me to ask how to manage about one where gentlemen were to play. I heard also the letters of a girl who came out under her sister's (a Countess) auspices this spring, and who could hardly get out of reading bad sensation novels because of the talk about them. I hear also of rompings, in high life chiefly, I am sorry to say.
-
-And one reason why I wrote the letter was because I had a piteous one from a clergyman's wife at a big smart place, because the young ladies acted as I described, and she could hardly keep up her Sunday school. [G. F. S.](/organisation/23) too has shown the difficulties of servants, because their young ladies lie down after Early Celebration and dress for luncheon, preventing them from church-going. [Miss Bramston](/person/198) has written a short paper in defence on the independent side, but she owns to their saying 'beastly' in confidential moments.[^4] Of course I know plenty of nice girls, and of more also, but I think the general run is deteriorated. I should like a further defence on another side. I want a discussion to strike out sparks.
-I don't think I have been hospitable to your boy, but it is a pity that he should come when I am out, or still worse so that I should have to say I must go.
-
-So I think he had better wait for a less hurried month.
-
-Certainly the roads have not been favourable to bicycles or anything else of late!
-
+As next Tuesday is a Saint's day, perhaps I had better say that the boy would not find me at home, as the first Tuesday in every month there is a meeting of the [High School](/organisation/51) committee.[^1] On all Thursday afternoons till Easter I have to be at the [mother's meeting](/organisation/31), and indeed we are so eaten up with preparing for the examinations that I can answer for no afternoons in February or early March. It does seem very ridiculous, but having Monday, Thursday, Friday and Saturday always engaged, the other two afternoons get everything else in them, so that I am not very likely to be in the way. So I think he had better not try to find me till after the first fortnight in March, when I suppose the stress of preparation will be over. I never feel as if I had any time when the mother's meetings go on, from October to Easter; Thursday is so much the most available day of the week, and it is the one the women like best. By the bye, I have lent Tender and True to [Mrs. Wickham](/person/1500) of Compton, who says her mothers are delighted with it. [^2]
+I am glad to hear what you say of young ladies now; I suppose there are very different sets; I went by various things.[^3] I know of several cricket matches, and one poor girl wrote to me to ask how to manage about one where gentlemen were to play. I heard also the letters of a girl who came out under her sister's (a Countess) auspices this spring, and who could hardly get out of reading bad sensation novels because of the talk about them. I hear also of rompings, in high life chiefly, I am sorry to say. And one reason why I wrote the letter was because I had a piteous one from a clergyman's wife at a big smart place, because the young ladies acted as I described, and she could hardly keep up her Sunday school. [G. F. S.](/organisation/23) too has shown the difficulties of servants, because their young ladies lie down after Early Celebration and dress for luncheon, preventing them from church-going. [Miss Bramston](/person/198) has written a short paper in defence on the independent side, but she owns to their saying 'beastly' in confidential moments.[^4] Of course I know plenty of nice girls, and of more also, but I think the general run is deteriorated. I should like a further defence on another side. I want a discussion to strike out sparks.
+I don't think I have been hospitable to your boy, but it is a pity that he should come when I am out, or still worse so that I should have to say I must go. So I think he had better wait for a less hurried month. Certainly the roads have not been favourable to bicycles or anything else of late!
 Your writing looks as if your arm was well, but I suppose you have been quite shut up in this snowy time.
-
 With love to [Emma](/person/1519), yours affectionately
-C. M.
-
-Yonge
+C. M. Yonge
 
 
-[^1]: The Winchester High School for Girls, now St.
-
-Swithun’s School, was founded in 1884.
-
-The Saint’s Day was probably Candlemas, which fell on Tuesday 2 February 1886.
-[^2]: Florence Wilford, Tender and True (1882).
-
-Mrs Wickham was probably Clara de Havilland Wickham, wife of the Rev.
-
-Charles Wickham, Rector of Compton at the time of the 1891 census.
-[^3]: This refers to the blistering [‘New Year’s Words.
-
-From the Editor’ ](/book/293)MP 3s 11 (January 1886) 41-47, which denounces the present generation of girls for slang, mixed cricketing, going unchaperoned, keeping maids from church and failing to teach Sunday school.
+[^1]: The Winchester High School for Girls, now St. Swithun’s School, was founded in 1884. The Saint’s Day was probably Candlemas, which fell on Tuesday 2 February 1886.
+[^2]: Florence Wilford, Tender and True (1882). Mrs Wickham was probably Clara de Havilland Wickham, wife of the Rev. Charles Wickham, Rector of Compton at the time of the 1891 census.
+[^3]: This refers to the blistering [‘New Year’s Words. From the Editor’](/book/293)MP 3s 11 (January 1886) 41-47, which denounces the present generation of girls for slang, mixed cricketing, going unchaperoned, keeping maids from church and failing to teach Sunday school.
 [^4]: ‘Middleage’, ‘The Modern Girl’ MP 3s 11 (February 1886), 191-2, defends the girls of the present day: ‘I own that they use the word ‘jolly’, but they do not use ‘beastly,’ or even ‘scrumptious,’ except now and then in most confidential moments of excited feeling, and certainly not in mixed society.’ The writer could have been Mary Eliza Bramston or her half-sister Anna Rachel Bramston, and was probably the former.

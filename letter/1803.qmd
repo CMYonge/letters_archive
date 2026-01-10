@@ -1,7 +1,7 @@
 ---
 id: 1803
 title: To Charlotte Champion Pascoe
-date: '1860-08-31'
+iso-date: '1860-08-31'
 display-date: Aug 31st 1860
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester
@@ -10,13 +10,9 @@ manuscript-location: MS Princeton University, Parrish Collection, C0171
 ---
 
 My dear [Mrs Pascoe](/person/1146),
-Just a few lines in haste to say that the two specimens arrived quite safe and in excellent order this morning - and that I greatly thank you and your friend for them. I wish I knew of a precedent of dried flowers travelling per post, but I don’t see how they can be charged as letters.
-
-Country posts are always more punctilious than the general post office, from the Jack in office principle I fancy
+Just a few lines in haste to say that the two specimens arrived quite safe and in excellent order this morning - and that I greatly thank you and your friend for them. I wish I knew of a precedent of dried flowers travelling per post, but I don’t see how they can be charged as letters. Country posts are always more punctilious than the general post office, from the Jack in office principle I fancy
 That red Orobanche I had always wished to see, as we have all the three brown ones, the Pinguicula Lusitanica was found in a bog near here this Summer much to my surprise but I suspect your race of flowers as well as natures are different altogether from ours, and the natives would find their tongue even more different than our folks do from that of Devon which a man whom we once took down from hence, was told by a quick spoken Devonian “My son, yew dew speak French!”
-We are attempting harvest on the few fine days and find our wheat in much better order than was feared.
-
-It is wonderful how little harm has been done
+We are attempting harvest on the few fine days and find our wheat in much better order than was feared. It is wonderful how little harm has been done
 
 Yours sincerely
 

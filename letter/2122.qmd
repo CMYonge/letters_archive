@@ -1,7 +1,7 @@
 ---
 id: 2122
 title: To Ann Maria Carter Smith
-date: '1866-05-01'
+iso-date: '1866-05-01'
 display-date: May 3d [1866]
 from-name: Charlotte Mary Yonge
 from-address: New College

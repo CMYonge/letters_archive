@@ -1,7 +1,7 @@
 ---
 id: 3292
 title: To Charles Wooldridge
-date: '1895-04-09'
+iso-date: '1895-04-09'
 display-date: April 9th 1895
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -10,10 +10,7 @@ manuscript-location: MS Hampshire Record Office 67M92W/82/24
 ---
 
 Dear [Mr Wooldridge](/person/2094),
-I think it will be wise to keep up the insurance on [Mrs Yonge](/person/1604)’s life.
-
-The only further question is whether it should be mentioned in my will that the payment should be continued, and to whom the amount should be paid.
-
+I think it will be wise to keep up the insurance on [Mrs Yonge](/person/1604)’s life. The only further question is whether it should be mentioned in my will that the payment should be continued, and to whom the amount should be paid.
 On this I will write to [Mr Houseman](/person/2146) who made my will.
 I enclose the cheque for the insurance understanding that it covers all the houses here and in London
 

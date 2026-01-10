@@ -1,7 +1,7 @@
 ---
 id: 3172
 title: To Mary Christiana Boyle?
-date: '1891-06-01'
+iso-date: '1891-06-01'
 display-date: June 1st 1891
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -17,6 +17,4 @@ yours sincerely
 C M Yonge
 
 
-[^1]: Perhaps Mary Christiana Robins, wife of the Very Rev.
-
-George David Boyle (1828-1901), dean of Salisbury 1880-1901.
+[^1]: Perhaps Mary Christiana Robins, wife of the Very Rev. George David Boyle (1828-1901), dean of Salisbury 1880-1901.

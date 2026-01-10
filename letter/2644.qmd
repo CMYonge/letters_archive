@@ -1,34 +1,20 @@
 ---
 id: 2644
 title: To Florence Wilford
-date: '1878-10-01'
+iso-date: '1878-10-01'
 display-date: October 1, 1878
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester
 to-name: To Florence Wilford
-manuscript-location: MS Miss Barbara Dennis.  Part facsimile in Dennis, [[otherbook:55]<i>Charlotte
-  Yonge</i>] following 45.   Printed in Coleridge, <i>Life</i> 319
+manuscript-location: MS Miss Barbara Dennis. Part facsimile in Dennis, [[otherbook:55]<i>Charlotte
+  Yonge</i>] following 45. Printed in Coleridge, <i>Life</i> 319
 ---
 
 My dear [Florence](/person/1520)
 I am glad you finished your journey prosperously, and I hope you have brought home a store of strength for the winter and for the trials.
-
-How one sometimes wishes that one's people may never have another worry, and yet I suppose it is all right! I have just lost my most good and wise friend [Marianne Dyson](/person/464).
-
-For more than a year she had been in so utterly feeble and broken a state that one could only dread further loss of faculties, and there was a good deal of wearing though not acute suffering, so that it was really thankworthy to know that rest had come on St.
-
-Michael's morning. I have known her 35 years, and she has been a great help and blessing throughout my life.
-
-Scarcely a story of mine but has been read and discussed with her, and I don't know any one I owe so much to after my [Father](/person/1631) and [Mother](/person/1606) and [Mr.
-
-Keble](/person/798). [Anna Bramston](/person/195) was there, being a friend of her companion [Miss Leroy](/person/869). [Mary Bramston](/person/198) spent last evening here, her farewell before going to Truro.[^1] [Gertrude](/person/1462) is better, but cannot walk at all now. I am so glad you are able to 'take up your pen,' as poor people's letters say. I hope the ideas will flow if you do not call them too hard.
-
+How one sometimes wishes that one's people may never have another worry, and yet I suppose it is all right! I have just lost my most good and wise friend [Marianne Dyson](/person/464). For more than a year she had been in so utterly feeble and broken a state that one could only dread further loss of faculties, and there was a good deal of wearing though not acute suffering, so that it was really thankworthy to know that rest had come on St. Michael's morning. I have known her 35 years, and she has been a great help and blessing throughout my life. Scarcely a story of mine but has been read and discussed with her, and I don't know any one I owe so much to after my [Father](/person/1631) and [Mother](/person/1606) and [Mr. Keble](/person/798). [Anna Bramston](/person/195) was there, being a friend of her companion [Miss Leroy](/person/869). [Mary Bramston](/person/198) spent last evening here, her farewell before going to Truro.[^1] [Gertrude](/person/1462) is better, but cannot walk at all now. I am so glad you are able to 'take up your pen,' as poor people's letters say. I hope the ideas will flow if you do not call them too hard.
 Your affectionate
-C. M.
-
-Yonge
+C. M. Yonge
 
 
-[^1]: Mary Bramston went to Truro as governess to the daughters of the new Bishop, the Rt.
-
-Rev. [Edward White Benson](/person/140).
+[^1]: Mary Bramston went to Truro as governess to the daughters of the new Bishop, the Rt. Rev. [Edward White Benson](/person/140).

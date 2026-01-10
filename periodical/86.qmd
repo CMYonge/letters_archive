@@ -5,6 +5,4 @@ name: <i>Sharpe’s Magazine</i>
 title: <i>Sharpe’s Magazine</i>
 ---
 
-Sharpe’s London Magazine of Entertainment and Instruction ran 1846-1870.
-
-Menella Bute Smedley and her cousin Frank Smedley both wrote for it, and the latter was briefly its editor.
+Sharpe’s London Magazine of Entertainment and Instruction ran 1846-1870. Menella Bute Smedley and her cousin Frank Smedley both wrote for it, and the latter was briefly its editor.

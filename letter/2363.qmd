@@ -1,7 +1,7 @@
 ---
 id: 2363
 title: To Alexander Macmillan
-date: '1869-12-29'
+iso-date: '1869-12-29'
 display-date: Decr 29th [1869]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,19 +10,10 @@ manuscript-location: 'MS British Library Add MSS 54920: 242-3'
 ---
 
 My dear [Mr Macmillan](/person/939)
-You will think there is no end to the irons we have in the fire.
-
-But the [Population of an Old Pear Tree](/book/84) would be finished if we had not lost a number, and had to renew it. I send you the earlier chapters.
-
-The places for the woodcuts are marked in the margin.
-
-But my chief reason for writing is to ask if you have heard of Beugnot’s [memoirs](/book/92) - he was employed under [Napoleon I ](/person/2207)and under the two or three ensuing kings, and has left two most amusing and spirited volumes of memoirs, including his experiences in the Conciergerie.[^2] They would make one English volume, which I think would take with the libraries.
-
+You will think there is no end to the irons we have in the fire. But the [Population of an Old Pear Tree](/book/84) would be finished if we had not lost a number, and had to renew it. I send you the earlier chapters. The places for the woodcuts are marked in the margin.
+But my chief reason for writing is to ask if you have heard of Beugnot’s [memoirs](/book/92) - he was employed under [Napoleon I](/person/2207)and under the two or three ensuing kings, and has left two most amusing and spirited volumes of memoirs, including his experiences in the Conciergerie.[^2] They would make one English volume, which I think would take with the libraries.
 Shall we - ie - my [brother](/person/1624) and I undertake to translate it - I should go over it as I do the Population of a pear tree? I think
 [last sheet is blank but letter ends here with no signature]
 
 
-[^1]: Black-edged paper.
-[^2]: The book CMY and JBY were offering to translate was Comte Jacques-Claude Beugnot, Mémoires du comte Beugnot, ancien ministre (1783-1815) 2 vols (Paris: Dentu 1866).
-
-The translation, edited by CMY, was published by Hurst and Blackett in 1871.
+[^2]: The book CMY and JBY were offering to translate was Comte Jacques-Claude Beugnot, Mémoires du comte Beugnot, ancien ministre (1783-1815) 2 vols (Paris: Dentu 1866). The translation, edited by CMY, was published by Hurst and Blackett in 1871.

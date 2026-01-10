@@ -1,7 +1,7 @@
 ---
 id: 3366
 title: To Arthur Duke Coleridge
-date: '1897-12-27'
+iso-date: '1897-12-27'
 display-date: Decr 27th 1897
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -11,21 +11,16 @@ manuscript-location: MS Princeton University, Parrish Collection
 
 My dear Cousin [Arthur](/person/328)
 [Charlotte F Yonge](/person/1588) tells me that you are anxious to know what I think of your [daughter](/person/350)’s book.[^1] Of course I looked it up at once in the Swedish history which, equally of course, was too small to give all the details, though there was quite enough to see that she had full authority for all she said.
-
 The first scene is wonderful, it reminds me nothing so much as that where the black Winkleworth puts on the clock.[^2]
 And I think the King is drawn in a masterly manner, with his real bravery, mixed with the consciousness of the prophecy, which renders him willing to have Adalf out of the way
 But I am afraid I cannot be much interested in Adalf himself I do not quite grasp him as a whole, and I wish Talla had really died.
-
-The book seems to me to suffer from the want of a very admirable character - Fersen is the only one about whom one can care very much.
-
-The King was (really in history) too tyrannical for one to be very sorry for him and in spite of his courage and generosity, he does not endear himself
+The book seems to me to suffer from the want of a very admirable character - Fersen is the only one about whom one can care very much. The King was (really in history) too tyrannical for one to be very sorry for him and in spite of his courage and generosity, he does not endear himself
 I think I have a better opinion of Mme de Stael but her part in the story is very well managed and the start of Varennes is wonderfully good.
-
 It is altogether a book of great ability and I am glad to have read it
 Yours very sincerely
 
 C M Yonge
-The part about [Marie Antoinette ](/person/2417)is beautiful
+The part about [Marie Antoinette](/person/2417)is beautiful
 
 
 [^1]: Mary Elizabeth Coleridge, The King with Two Faces (London: Arnold 1897).

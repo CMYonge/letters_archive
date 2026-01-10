@@ -1,8 +1,8 @@
 ---
 id: 340
 title: '‘Leaves of Promise: April.’ Unsigned.'
-author: Charlotte Mary Yonge
-date: '1901'
+author-name: Charlotte Mary Yonge
+publication-date: '1901'
 genre: Non-fiction
 publication-format: Article in Journal
 publisher: <i>Friendly Leaves</i> (April 1901) 138-9.

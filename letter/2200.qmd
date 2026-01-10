@@ -1,7 +1,7 @@
 ---
 id: 2200
 title: To Alexander Macmillan
-date: '1867-07-29'
+iso-date: '1867-07-29'
 display-date: July 29th [1867]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -18,6 +18,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: She was working on [The Pupils of St.
-
-John the Divine](/book/72).
+[^1]: She was working on [The Pupils of St. John the Divine](/book/72).

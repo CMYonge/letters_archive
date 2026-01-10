@@ -1,7 +1,7 @@
 ---
 id: 2160
 title: To Emma Frances Yonge
-date: '1867-01-01'
+iso-date: '1867-01-01'
 display-date: '[1867?]'
 from-name: Charlotte Mary Yonge
 to-name: To Emma Frances Yonge
@@ -13,10 +13,3 @@ manuscript-location: 'MS Huntington Library: Letter to Lady Mount Temple: Stampe
 Your affectionate Sister	
 
 C M Yonge
-
-
-[^1]: This fragment was almost certainly preserved simply for the autograph.
-
-It could date from any time between 1864, by which time Helen Yonge (b.1860) was presumably learning to read, to September 1869 when CMY was giving her regular lessons.
-
-The reference to \'keeping quiet\' suggests recovery from childbirth, and this probably dates from around the birth of either Maurice (b.1867), George (b.1871) or Joanna (b.1873).

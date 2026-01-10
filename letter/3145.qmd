@@ -1,11 +1,11 @@
 ---
 id: 3145
 title: To Margaret Helen Moberly
-date: '1859-12-24'
-display-date: '[24 December ?1859[[footnote:2]]]'
+iso-date: '1859-12-24'
+display-date: '[24 December ?1859]'
 from-name: Charlotte Mary Yonge
 to-name: To Margaret Helen Moberly
-manuscript-location: 'MS location unknown.  Photocopies lent by Barbara Dennis: Maggie/2'
+manuscript-location: 'MS location unknown. Photocopies lent by Barbara Dennis: Maggie/2'
 ---
 
 My dear [Maggie](/person/83)
@@ -13,12 +13,4 @@ I hope you will have a happy Christmas I daresay you have been singing already a
 I send you a green book with some very pretty pictures of [Tom Thumb](/book/21). I think you will like to see him driving his six little white mice and by and by you will be able to read his story.
 I wonder when you will write a letter to me.
 your affectionate godmother
-Charlotte M.
-
-Yonge
-
-
-[^1]: With envelope addressed to Miss Margaret Moberly.
-
-No address on letter.
-[^2]: Dated on the assumption that it relates to the letter (28 November ?1859) from Constable & Co, and that the edition of 1859 is there referred to.
+Charlotte M. Yonge

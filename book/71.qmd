@@ -2,8 +2,8 @@
 id: 71
 title: 'Historical Selections: A Series of Readings from the Best Authorities in English
   and European History. Selected and arranged by E.M. Sewell and C.M. Yonge'
-author: Charlotte Mary Yonge
-date: '1868'
+author-name: Charlotte Mary Yonge
+publication-date: '1868'
 genre: 'Non-fiction: history (by others)'
 publication-format: Edited book
 publisher: 'London: Macmillan and Company'

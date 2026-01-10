@@ -1,25 +1,15 @@
 ---
 id: 3293
 title: Charles Wooldridge to Charlotte Mary Yonge
-date: '1895-04-10'
+iso-date: '1895-04-10'
 display-date: Apr 10 1895
 from-name: Charlotte Mary Yonge
 to-name: Charles Wooldridge to Charlotte Mary Yonge
-manuscript-location: Copy outletter book,  Hampshire Record Office 70M92W/59/4
+manuscript-location: Copy outletter book, Hampshire Record Office 70M92W/59/4
 ---
 
 Dear Madam
-Judging from your former letter that you do not expect [Mrs.
-
-Yonge](/person/1604) to pay for the £1000 I think it will be best to have the policy transferred to you.
-
-For that purpose it will be necessary that Mrs.
-
-Yonge should sign the transfer.
-
-Will you kindly write to her & explain this & say that she may expect to hear from [me](/person/2094). I have duly recd the cheque for £1.15. this includes some of the property but I think there is another smaller sum at another quarter for the rest of the property.
-
-The amt. is £1.19 bu I will pay the 4/- & add to my account
+Judging from your former letter that you do not expect [Mrs. Yonge](/person/1604) to pay for the £1000 I think it will be best to have the policy transferred to you. For that purpose it will be necessary that Mrs. Yonge should sign the transfer. Will you kindly write to her & explain this & say that she may expect to hear from [me](/person/2094). I have duly recd the cheque for £1.15. this includes some of the property but I think there is another smaller sum at another quarter for the rest of the property. The amt. is £1.19 bu I will pay the 4/- & add to my account
 Please let me know Mrs Yonge’s address
 I am yours faithy
 Chas Wooldridge

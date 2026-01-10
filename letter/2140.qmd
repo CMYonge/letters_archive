@@ -1,7 +1,7 @@
 ---
 id: 2140
 title: To Anne Mackenzie
-date: '1866-12-06'
+iso-date: '1866-12-06'
 display-date: Dec 6th [1866]
 from-name: Charlotte Mary Yonge
 to-name: To Anne Mackenzie
@@ -9,14 +9,10 @@ manuscript-location: 'MS Princeton University, Parrish Collection, CO171: Box 29
 ---
 
 My dear [Anne](/person/930)
-[Mrs Keble](/person/797) has just returned me this, it had no end to it and I hope it ought not.
-
-How very interesting it is and how heart stirring [Miss Arthur](/person/65)’s letter, which I am sending to Mrs T Keble.[^1] Our [Nets](/periodical/94) are not come yet. I forgot to tell you of Miss Parkes’ Vignettes to order. I think you would find much to interest you
+[Mrs Keble](/person/797) has just returned me this, it had no end to it and I hope it ought not. How very interesting it is and how heart stirring [Miss Arthur](/person/65)’s letter, which I am sending to Mrs T Keble.[^1] Our [Nets](/periodical/94) are not come yet. I forgot to tell you of Miss Parkes’ Vignettes to order. I think you would find much to interest you
 Your most affectionate
 
 C M Yonge
 
 
-[^1]: The enclosure was no doubt some comment on the recent death of [John Keble](/person/798) and his wife, about which CMY had been corresponding with his sister-in-law Elizabeth Jane Keble (Mrs Thomas Keble).
-
-Anne Mackenzie edited a missionary magazine called The Net, and Mary Arthur, a missionary in South Africa, was probably one of her correspondents.
+[^1]: The enclosure was no doubt some comment on the recent death of [John Keble](/person/798) and his wife, about which CMY had been corresponding with his sister-in-law Elizabeth Jane Keble (Mrs Thomas Keble). Anne Mackenzie edited a missionary magazine called The Net, and Mary Arthur, a missionary in South Africa, was probably one of her correspondents.

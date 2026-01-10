@@ -1,7 +1,7 @@
 ---
 id: 2326
 title: To Arthur John Butler
-date: '1869-07-12'
+iso-date: '1869-07-12'
 display-date: July 12th [1869]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,21 +11,12 @@ manuscript-location: MS Mrs Caroline Fairclough/20
 
 My dear [Arthur](/person/238)
 Clark gives oinos as an original form of Ýíïò, and also of nous, but from the way he bracketted it I fancied he meant it for a form of one dialect, I ought to have verified it.[^2]
-I see the misunderstanding that brought me wrong in the vocatives - thank you.
-
-About the English apostrophe S I meant to say more when I had more space, I only put it there to stand for present use, till I went into the history of declensions, this is only the account of articles and cases.
-
-Old Veneroni and Zothi[^3] really does treat dal and dalla as ablative cases. I would not stick to it if it is really wrong, but it seems to me that having acknowledged the analytical method in modern languages, the preposition by which the case is indicated becomes the sign of the case in that language.
-
-If I have spoken is the perfect tense, and I may have spoken the imperfect (or whatever it is) of the subjunctive mood, surely - to a cat may be the dative case so the preposition united with the articles in the romance languages would become signs of the cases.
-
-It does not seem to me possible to compare the different grammars without granting leave to do this, but if there is any more abstruse reason against it that you can let me know there is still time to alter - i e if you write by the next day’s post -
+I see the misunderstanding that brought me wrong in the vocatives - thank you. About the English apostrophe S I meant to say more when I had more space, I only put it there to stand for present use, till I went into the history of declensions, this is only the account of articles and cases.
+Old Veneroni and Zothi[^3] really does treat dal and dalla as ablative cases. I would not stick to it if it is really wrong, but it seems to me that having acknowledged the analytical method in modern languages, the preposition by which the case is indicated becomes the sign of the case in that language. If I have spoken is the perfect tense, and I may have spoken the imperfect (or whatever it is) of the subjunctive mood, surely - to a cat may be the dative case so the preposition united with the articles in the romance languages would become signs of the cases. It does not seem to me possible to compare the different grammars without granting leave to do this, but if there is any more abstruse reason against it that you can let me know there is still time to alter - i e if you write by the next day’s post -
 Brachiet traces mieux from melius, through the intermediate old French miels - which I think is conclusive Meilleur would surely be the adjective and mieux the adverb.
-
 Those last lines have got into a horrible confusion, partly my fault and partly the printers - and those red lines dazzle so that it is difficult to see through their haze The sense of what I meant was that I think /viel\ full and fold both are from the same root as ðïëõò[^4] plus and plice - so that if there were a verb to much-fold it would exactly answer to multiply I do not know how to get at the root so as to satisfy myself - I wish there were some comprehensible genealogy of the chief roots accessible -
 But those last sentences were more than usually out of my depth and were misprinted besides - and I ought to have got them out of their muddle before sending them to you. I have simplified them now, and I mean to have a revise before I go away.
 I have just parted with [Emma](/person/822), I hope she enjoyed her visit as much as I did, and also that she is not going home in a thunder storm, it feels more like one than is pleasant.
-
 Thank you greatly, I hope this correcting is not as great a plague to you as it is profit to Polly!
 
 yours sincerely
@@ -33,7 +24,6 @@ yours sincerely
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: This letter refers to Chapters 2 and 3 of ‘[Polyglott Parsing](/book/348)’: ‘Articles and Cases’ and ‘Conjunctions and Comparatives’, which appeared in MP 8 (August 1869) 170-7 and (September 1869) 293-6, respectively.
 [^3]: This probably refers to one of the many editions and translations of Giovanni Veneroni, Le maître italien (1681), an Italian language manual originally written for the French market, or another work by the same author.
 [^4]: CMY actually wrote ðïëãò.

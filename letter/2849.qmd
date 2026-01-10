@@ -1,12 +1,12 @@
 ---
 id: 2849
 title: To Harper & Bros.
-date: '1887-01-13'
+iso-date: '1887-01-13'
 display-date: Jan 13th 1887
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
 to-name: To Harper & Bros.
-manuscript-location: 'MS Columbia University Library, New York:  Harper Bros Collection'
+manuscript-location: 'MS Columbia University Library, New York: Harper Bros Collection'
 ---
 
 [Gentlemen](/organisation/248)
@@ -15,6 +15,3 @@ I remain &c
 
 C M Yonge		
 Messrs Harper
-
-
-[^1]: The collection also includes a stamped receipt.

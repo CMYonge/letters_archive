@@ -1,7 +1,7 @@
 ---
 id: 3605
 title: To an Unknown Woman
-date: '1865-01-01'
+iso-date: '1865-01-01'
 display-date: '[after 1865]'
 from-name: Charlotte Mary Yonge
 to-name: To an Unknown Woman
@@ -13,9 +13,7 @@ Dear Madam
 I do not think Mr Clare resembles [Mr Keble](/person/798) at all.[^1] I certainly never should have consciously taken his portrait, I loved and honored him too much
 
 yours truly
-Charlotte M.
-
-Yonge
+Charlotte M. Yonge
 
 
 [^1]: Mr Clare is a character in CMY\'s [The Clever Woman of the Family](/book/58) (1865).

@@ -1,7 +1,7 @@
 ---
 id: 3313
 title: To Charles Wooldridge
-date: '1896-01-30'
+iso-date: '1896-01-30'
 display-date: Jan 30th 1896
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne

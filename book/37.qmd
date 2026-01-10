@@ -2,14 +2,12 @@
 id: 37
 title: Hopes and Fears, or, Scenes from the Life of a Spinster. By the author of “The
   Heir of Redclyffe,” “Heartsease,” Etc.
-author: Charlotte Mary Yonge
-date: '1860'
+author-name: Charlotte Mary Yonge
+publication-date: '1860'
 genre: Fiction (modern)
 publication-format: Book
 publisher: 'London: John W Parker and Son, West Strand.'
 serialization: Part serialized in the<i> Constitutional Press</i>, Jun 1859-Dec 1860
 ---
 
-The Rev.
-
-Robert Fulmort and other characters recur in The Pillars of the House.
+The Rev. Robert Fulmort and other characters recur in The Pillars of the House.

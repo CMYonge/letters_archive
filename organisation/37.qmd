@@ -5,6 +5,4 @@ name: Royal Hospital for Incurables, The
 title: Royal Hospital for Incurables, The
 ---
 
-This charity, founded in 1854, is now known as the Royal Hospital for Neuro-disability.
-
-See www.rhn.org.uk
+This charity, founded in 1854, is now known as the Royal Hospital for Neuro-disability. See www.rhn.org.uk

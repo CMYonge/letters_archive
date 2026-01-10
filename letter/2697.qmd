@@ -1,7 +1,7 @@
 ---
 id: 2697
 title: To Linda Mary Villari
-date: '1880-01-01'
+iso-date: '1880-01-01'
 display-date: Jany 1st [1880]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.

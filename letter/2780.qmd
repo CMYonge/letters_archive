@@ -1,7 +1,7 @@
 ---
 id: 2780
 title: To the Reverend Charles Moor
-date: '1883-10-08'
+iso-date: '1883-10-08'
 display-date: Oct 8th [1883]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -22,9 +22,3 @@ Yours truly
 C M Yonge
 
 Some of the pencil numbers are missing but the arrangement is all right
-
-
-[^1]: Envelope addressed to ‘The Revd/ C Moor/Great Grimsby.
-
-Postmarked Winchester Oc 8/83.
-[^2]: Charles Moor, who was perhaps running a parish magazine, had asked her for a story, and she sent him the MS of one which was about to be published in [Langley Adventures](/book/163).

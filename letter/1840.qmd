@@ -1,7 +1,7 @@
 ---
 id: 1840
 title: From the Reverend John Coleridge Patteson to Charlotte Mary Yonge
-date: '1861-10-19'
+iso-date: '1861-10-19'
 display-date: '[19 ?October or November 1861]'
 from-name: Charlotte Mary Yonge
 to-name: From the Reverend John Coleridge Patteson to Charlotte Mary Yonge
@@ -9,17 +9,7 @@ manuscript-location: MS location unknown. Printed in Yonge, <i>[[cmybook:102]Lif
   of John Coleridge Patteson]</i> I, 550
 ---
 
-How can [I](/person/1155) grieve and sorrow about my dear dear [Father](/person/1156)’s blessed end? . . . I shall like the photograph of Hursley Vicarage and Church, the lawn and group upon it.[^1] But most shall I like to think that [Mr.
-
-Keble](/person/798), and I dare say [Dr.
-
-Moberly](/person/1015) too, pray for me and this [Mission](/organisation/30). I need the prayers of all good people indeed.
+How can [I](/person/1155) grieve and sorrow about my dear dear [Father](/person/1156)’s blessed end? . . . I shall like the photograph of Hursley Vicarage and Church, the lawn and group upon it.[^1] But most shall I like to think that [Mr. Keble](/person/798), and I dare say [Dr. Moberly](/person/1015) too, pray for me and this [Mission](/organisation/30). I need the prayers of all good people indeed.
 
 
-[^1]: CMY introduces the letter by saying it \'contained thanks for a photograph of Hursley Church spire and Vicarage, which had been taken one summer afternoon, at the desire of Dr.
-
-Moberly (the present Bishop of Salisbury), and of which I had begged a copy for him\'.
-
-The photograph is probably that reproduced in [Dulce Domum](/place/122) facing page 184.
-
-It shows Moberly and Keble standing, with CMY and Charlotte Keble seated, in the garden of Hursley Vicarage.
+[^1]: CMY introduces the letter by saying it \'contained thanks for a photograph of Hursley Church spire and Vicarage, which had been taken one summer afternoon, at the desire of Dr. Moberly (the present Bishop of Salisbury), and of which I had begged a copy for him\'. The photograph is probably that reproduced in [Dulce Domum](/place/122) facing page 184. It shows Moberly and Keble standing, with CMY and Charlotte Keble seated, in the garden of Hursley Vicarage.

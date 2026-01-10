@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """
-Improved WordPress to Quarto Migration Script for Yonge Letters
-Fixes: dates, paragraphs, links, footnotes, and adds book references
+Improved WordPress to Quarto Migration Script for Yonge Letters.
+Adds sanitation, inline link fixes, and optional sampling for faster previews.
 """
 
+import argparse
 import os
 import re
 import shutil
@@ -14,7 +15,7 @@ import yaml
 
 # Database configuration
 DB_CONFIG = {
-    'host': os.environ.get('YONGE_DB_HOST', os.environ.get('DB_HOST', 'db')),
+    'host': os.environ.get('YONGE_DB_HOST', os.environ.get('DB_HOST', '127.0.0.1')),
     'port': int(os.environ.get('YONGE_DB_PORT', os.environ.get('DB_PORT', 3306))),
     'user': os.environ.get('YONGE_DB_USER', os.environ.get('DB_USER', 'mariadb')),
     'password': os.environ.get('YONGE_DB_PASSWORD', os.environ.get('DB_PASSWORD', 'mariadb')),
@@ -24,25 +25,36 @@ DB_CONFIG = {
 
 OUTPUT_ROOT = Path(os.environ.get("YONGE_QUARTO_DIR", Path(__file__).resolve().parents[1]))
 
+
+def parse_args():
+    parser = argparse.ArgumentParser(description="Migrate WordPress content into Quarto.")
+    parser.add_argument(
+        "--sample-limit",
+        type=int,
+        default=None,
+        help="Generate only N entries per entity type (letters, persons, books, references).",
+    )
+    return parser.parse_args()
+
+
 class ImprovedYongeLettersMigrator:
-    def __init__(self):
+    def __init__(self, sample_limit: int | None = None):
         self.conn = mysql.connector.connect(**DB_CONFIG)
         self.cursor = self.conn.cursor(dictionary=True)
         self.persons = {}
         self.others = {}
         self.books = {}
         self.output_dir = OUTPUT_ROOT
+        self.sample_limit = sample_limit
         self.letter_dir = self.output_dir / "letter"
         self.person_dir = self.output_dir / "person"
         self.book_dir = self.output_dir / "book"
-        self.partials_dir = self.output_dir / "_partials"
         self.prepared_reference_dirs = set()
 
         self._prepare_entity_dirs()
-        self.partials_dir.mkdir(parents=True, exist_ok=True)
-        self._ensure_metadata_file(self.letter_dir, "letter-meta.qmd")
-        self._ensure_metadata_file(self.person_dir, "person-meta.qmd")
-        self._ensure_metadata_file(self.book_dir, "book-meta.qmd")
+        self._ensure_metadata_file(self.letter_dir, "../filters/entity-meta.lua")
+        self._ensure_metadata_file(self.person_dir, "../filters/entity-meta.lua")
+        self._ensure_metadata_file(self.book_dir, "../filters/entity-meta.lua")
         
     def load_references(self):
         """Load persons, others, and books references into memory"""
@@ -159,9 +171,17 @@ class ImprovedYongeLettersMigrator:
         if path.exists():
             shutil.rmtree(path)
         path.mkdir(parents=True, exist_ok=True)
-        self._ensure_metadata_file(path, "reference-meta.qmd")
+        self._ensure_metadata_file(path, "../filters/entity-meta.lua")
         self.prepared_reference_dirs.add(slug)
         return path
+
+    def _ensure_metadata_file(self, directory: Path, filter_path: str):
+        meta_path = directory / "_metadata.yml"
+        meta_path.write_text(
+            "filters:\n"
+            f"  - {filter_path}\n",
+            encoding="utf-8",
+        )
 
     def _render_yaml(self, metadata: dict) -> str:
         cleaned = {}
@@ -172,6 +192,24 @@ class ImprovedYongeLettersMigrator:
                 continue
             cleaned[key] = value
         return yaml.safe_dump(cleaned, sort_keys=False, allow_unicode=True).strip()
+    
+    def _strip_footnotes(self, text):
+        if not text:
+            return text
+        return re.sub(r'\[\[footnote:\d+\]\]', '', text)
+    
+    def _safe_text(self, value):
+        cleaned = self._clean_inline(value)
+        return self._strip_footnotes(cleaned) if cleaned else cleaned
+    
+    def _safe_title(self, value, fallback):
+        cleaned = self._clean_inline(value)
+        return cleaned if cleaned else fallback
+    
+    def _apply_limit(self, items):
+        if self.sample_limit is None:
+            return items
+        return items[:self.sample_limit]
     
     def _normalise_type(self, raw_type):
         if not raw_type:
@@ -186,17 +224,6 @@ class ImprovedYongeLettersMigrator:
         slug = re.sub(r'[^a-z0-9]+', '-', label.lower()).strip('-') or "other"
         slug = slug.replace('organization', 'organisation')
         return label, slug
-    
-    def _ensure_metadata_file(self, directory: Path, partial_name: str):
-        meta_path = directory / "_metadata.yml"
-        if not meta_path.exists():
-            include_path = f"../_partials/{partial_name}"
-            meta_path.write_text(
-                "format:\n"
-                "  html:\n"
-                f"    include-before-body: \"{include_path}\"\n",
-                encoding='utf-8'
-            )
     
     def _extract_year(self, date_str):
         if not date_str:
@@ -258,7 +285,7 @@ class ImprovedYongeLettersMigrator:
             
             if person_id in self.persons:
                 person = self.persons[person_id]
-                label = display_name if display_name else person['full_name']
+                label = self._clean_inline(display_name) if display_name else person['full_name']
                 return f"[{label}](/person/{person_id}){trailing_space}"
             else:
                 return display_name + trailing_space if display_name else f"[Unknown Person {person_id}]{trailing_space}"
@@ -270,7 +297,7 @@ class ImprovedYongeLettersMigrator:
             
             if other_id in self.others:
                 other = self.others[other_id]
-                label = display_name if display_name else other['name']
+                label = self._clean_inline(display_name) if display_name else other['name']
                 _, type_slug = self._normalise_type(other['type'] if other['type'] else 'Other')
                 return f"[{label}](/{type_slug}/{other_id}){trailing_space}"
             else:
@@ -283,7 +310,7 @@ class ImprovedYongeLettersMigrator:
             
             if book_id in self.books:
                 book = self.books[book_id]
-                label = display_name if display_name else book['title']
+                label = self._clean_inline(display_name) if display_name else book['title']
                 return f"[{label}](/book/{book_id}){trailing_space}"
             else:
                 return display_name + trailing_space if display_name else f"[Unknown Book {book_id}]{trailing_space}"
@@ -305,7 +332,6 @@ class ImprovedYongeLettersMigrator:
         content = re.sub(r'\r\n|\r|\n', '\n', content)
         content = re.sub(r'\n\s*(yours\s+sincerely|yours\s+truly|yours\s+affectionately|yours\s+ever|ever\s+yours)', r'\n\n\1', content, flags=re.IGNORECASE)
         content = re.sub(r'\n\s*(C\s*M\s*Yonge|Charlotte\s+M\s*Yonge)', r'\n\n\1', content, flags=re.IGNORECASE)
-        content = re.sub(r'([.!?])\s+([A-Z][a-z])', r'\1\n\n\2', content)
         content = re.sub(r' +', ' ', content)
         content = re.sub(r'\n +', '\n', content)
         content = re.sub(r' +\n', '\n', content)
@@ -347,6 +373,7 @@ class ImprovedYongeLettersMigrator:
         
         self.cursor.execute(query)
         letters = self.cursor.fetchall()
+        letters = self._apply_limit(letters)
         
         letter_index = []
         
@@ -357,18 +384,18 @@ class ImprovedYongeLettersMigrator:
             footnotes = self._parse_footnotes(letter['letter_footnote'])
             parsed_date = self._parse_date(letter['letter_date'])
             post_date = letter['post_date']
-            display_date = self._clean_inline(letter['letter_date'])
+            display_date = self._safe_text(letter['letter_date'])
             if not display_date and post_date:
                 display_date = post_date.strftime("%Y-%m-%d")
             title = self._clean_inline(letter['post_title']) or f"Letter {post_id}"
-            from_address = self._clean_inline(letter['letter_fromAddress'])
+            from_address = self._safe_text(letter['letter_fromAddress'])
             manuscript_location_raw = re.sub(r'\[\[footnote:\d+\]\]', '', letter['manuscript_location']) if letter['manuscript_location'] else ''
-            manuscript_location = self._clean_block(manuscript_location_raw)
+            manuscript_location = self._safe_text(manuscript_location_raw)
             
             metadata = {
                 'id': post_id,
                 'title': title,
-                'date': parsed_date,
+                'iso-date': parsed_date,
                 'display-date': display_date,
                 'from-name': "Charlotte Mary Yonge",
                 'from-address': from_address,
@@ -384,6 +411,11 @@ class ImprovedYongeLettersMigrator:
                 md_parts.append(body_content + "\n")
             
             if footnotes:
+                referenced = set(re.findall(r'\[\^(\d+)\]', body_content or ""))
+                used_footnotes = {num: text for num, text in footnotes.items() if num in referenced}
+                footnotes = used_footnotes
+
+            if footnotes:
                 md_parts.append("")
                 for num in sorted(footnotes, key=lambda x: int(x) if x.isdigit() else x):
                     text = footnotes[num]
@@ -394,7 +426,7 @@ class ImprovedYongeLettersMigrator:
             letter_index.append({
                 'id': post_id,
                 'title': title,
-                'date': display_date,
+                'display_date': display_date,
                 'parsed_date': parsed_date,
                 'from_address': from_address
             })
@@ -417,7 +449,7 @@ class ImprovedYongeLettersMigrator:
         
         decades = {}
         for entry in letter_index:
-            year = self._extract_year(entry['parsed_date'] or entry['date'])
+            year = self._extract_year(entry['parsed_date'] or entry['display_date'])
             if year is None:
                 decade = "Undated"
             else:
@@ -437,7 +469,7 @@ class ImprovedYongeLettersMigrator:
                 key=lambda x: (x['parsed_date'] or "", x['title'])
             )
             for entry in entries:
-                date_display = entry['date'] or "Undated"
+                date_display = entry['display_date'] or "Undated"
                 from_addr = f" — From: {entry['from_address']}" if entry['from_address'] else ""
                 lines.append(f"- **[{entry['title']}](/letter/{entry['id']})** — {date_display}{from_addr}")
             lines.append("")
@@ -455,13 +487,19 @@ class ImprovedYongeLettersMigrator:
             "",
         ]
         
-        for book_id in sorted(self.books.keys()):
-            book = self.books[book_id]
+        books_sorted = sorted(
+            self.books.values(),
+            key=lambda b: (self._safe_title(b['title'], f"Book {b['id']}") or "", b['id'])
+        )
+        books_sorted = self._apply_limit(books_sorted)
+        
+        for book in books_sorted:
+            book_id = book['id']
             metadata = {
                 'id': book_id,
                 'title': self._clean_inline(book['title']),
-                'author': "Charlotte Mary Yonge",
-                'date': self._clean_inline(book['date']),
+                'author-name': "Charlotte Mary Yonge",
+                'publication-date': self._clean_inline(book['date']),
                 'genre': self._clean_inline(book['genre']),
                 'publication-format': self._clean_inline(book['format']),
                 'publisher': self._clean_inline(book['publisher']),
@@ -495,7 +533,14 @@ class ImprovedYongeLettersMigrator:
             "",
         ]
         
-        sorted_persons = sorted(self.persons.values(), key=lambda x: (x['surname'] or '', x['full_name']))
+        sorted_persons = sorted(
+            self.persons.values(),
+            key=lambda x: (
+                self._clean_inline(x['surname']) or self._clean_inline(x['full_name']) or "",
+                self._clean_inline(x['full_name']) or f"Person {x['id']}"
+            )
+        )
+        sorted_persons = self._apply_limit(sorted_persons)
         
         for person in sorted_persons:
             person_id = person['id']
@@ -555,7 +600,13 @@ class ImprovedYongeLettersMigrator:
             
             type_dir = self._ensure_reference_dir(type_slug)
             
-            for other in sorted(grouped[type_slug]['items'], key=lambda x: x['name']):
+            items = sorted(
+                grouped[type_slug]['items'],
+                key=lambda x: self._clean_inline(x['name']) or f"Reference {x['id']}"
+            )
+            items = self._apply_limit(items)
+            
+            for other in items:
                 other_id = other['id']
                 metadata = {
                     'id': other_id,
@@ -596,26 +647,15 @@ class ImprovedYongeLettersMigrator:
                 'navbar': {
                     'title': 'Yonge Letters',
                     'left': [
-                        {'text': 'Home', 'href': 'index.qmd'},
-                        {'text': 'Letters', 'href': 'letters-index.qmd'},
-                        {'text': 'Persons', 'href': 'persons.qmd'},
-                        {'text': 'Books', 'href': 'books.qmd'},
-                        {'text': 'References', 'href': 'references.qmd'},
-                        {'text': 'About', 'href': 'about.qmd'}
+                        {'text': 'Home', 'href': '/'},
+                        {'text': 'Letters', 'href': 'letters-index'},
+                        {'text': 'Persons', 'href': 'persons'},
+                        {'text': 'Books', 'href': 'books'},
+                        {'text': 'References', 'href': 'references'},
+                        {'text': 'About', 'href': 'about'}
                     ]
                 },
-                'sidebar': {
-                    'style': 'docked',
-                    'search': True,
-                    'contents': [
-                        'index.qmd',
-                        'letters-index.qmd',
-                        'persons.qmd',
-                        'books.qmd',
-                        'references.qmd',
-                        'about.qmd'
-                    ]
-                }
+                'search': True,
             },
             'format': {
                 'html': {
@@ -648,5 +688,6 @@ class ImprovedYongeLettersMigrator:
         self.conn.close()
 
 if __name__ == "__main__":
-    migrator = ImprovedYongeLettersMigrator()
+    cli_args = parse_args()
+    migrator = ImprovedYongeLettersMigrator(sample_limit=cli_args.sample_limit)
     migrator.run_migration()

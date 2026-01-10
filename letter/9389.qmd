@@ -1,7 +1,7 @@
 ---
 id: 9389
 title: To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>
-date: '1890-11-01'
+iso-date: '1890-11-01'
 display-date: '[November 1890]'
 from-name: Charlotte Mary Yonge
 to-name: To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>
@@ -12,13 +12,7 @@ manuscript-location: MS location unknown. Printed in the <i>[[other:72]Girls’ 
 A BLIND GIRL
 
 Dear Madam,-
-Would any Associate or [Member](/organisation/23), accustomed to cheer the blind, kindly get into communication with a Member, aged fourteen, a cottage child who is not in health for a blind school.
-
-She can knit, and read a little by Moon’s method, and has a mother and sister who can read letters to her.
-
-Her address is [Annie Nargate](/person/917) [sic], Fergern Hill, Otterbourne, Winchester; but it might perhaps be best to write to her Associate, [Miss Jacson](/person/1962), Yew-tree Cottage, Otterbourne, Winchester.		
+Would any Associate or [Member](/organisation/23), accustomed to cheer the blind, kindly get into communication with a Member, aged fourteen, a cottage child who is not in health for a blind school. She can knit, and read a little by Moon’s method, and has a mother and sister who can read letters to her. Her address is [Annie Nargate](/person/917) [sic], Fergern Hill, Otterbourne, Winchester; but it might perhaps be best to write to her Associate, [Miss Jacson](/person/1962), Yew-tree Cottage, Otterbourne, Winchester.		
 
 I remain,
-C. M.
-
-Yonge.
+C. M. Yonge.

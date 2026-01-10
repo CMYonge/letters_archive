@@ -1,47 +1,27 @@
 ---
 id: 2390
 title: To the Reverend William John Butler
-date: '1870-09-01'
+iso-date: '1870-09-01'
 display-date: September [1870]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester
 to-name: To the Reverend William John Butler
-manuscript-location: MS location unknown.  Printed in Coleridge, [[otherbook:40]<i>Life</i>] 305-6
+manuscript-location: MS location unknown. Printed in Coleridge, [[otherbook:40]<i>Life</i>]
+  305-6
 ---
 
-My dear [Mr.
-
-Butler](/person/244)
+My dear [Mr. Butler](/person/244)
 I have two kind letters to thank you for, first about the T[^1] and secondly about the war[^2] - I wish the authority for the former was more direct and conclusive, it is so very beautiful.
-
-The [Monthly Packet](/periodical/52) of October will be quite German enough to please you, having the journal of a lady at Homburg and a translation by [Miss Sewell](/person/1301) of 'Der Wacht am Rhein', but I confess that I have not personally been able to get into the stream of sympathy with Prussia, for [Bismarck](/person/2267)'s policy does seem to me that of the ambitious conqueror, and I never could forgive him for Holstein.[^3] German unity does not seem to me a rightful cause, though I can perceive that it may seem so to Germans themselves, who have a sort of fanaticism for that Vaterland of theirs.
-
-Of course the last offence was given by France, but was it not the result of the long course of aggression against which the stand had to be made?
-
-Actually I suppose that the last cause of quarrel was like Jenkins's ears, only a pretext, but that put the French in the wrong.
-
-My first feeling when war was proclaimed was that I could not wish much for victory for either side.
-
-Now sympathy chiefly goes to poor Strasburg and Phalsbourg, but on the whole the French nation has shown very little improvement.
-
-One account of the camp at Chalons reads just like a modernisation of the scene in King Henry V. in the dauphin's camp the night before Agincourt, and the description of the riotous scenes at the stations in France are in wonderful contrast with the weeping, grave, earnest Germans.
-
+The [Monthly Packet](/periodical/52) of October will be quite German enough to please you, having the journal of a lady at Homburg and a translation by [Miss Sewell](/person/1301) of 'Der Wacht am Rhein', but I confess that I have not personally been able to get into the stream of sympathy with Prussia, for [Bismarck](/person/2267)'s policy does seem to me that of the ambitious conqueror, and I never could forgive him for Holstein.[^3] German unity does not seem to me a rightful cause, though I can perceive that it may seem so to Germans themselves, who have a sort of fanaticism for that Vaterland of theirs. Of course the last offence was given by France, but was it not the result of the long course of aggression against which the stand had to be made? Actually I suppose that the last cause of quarrel was like Jenkins's ears, only a pretext, but that put the French in the wrong. My first feeling when war was proclaimed was that I could not wish much for victory for either side. Now sympathy chiefly goes to poor Strasburg and Phalsbourg, but on the whole the French nation has shown very little improvement. One account of the camp at Chalons reads just like a modernisation of the scene in King Henry V. in the dauphin's camp the night before Agincourt, and the description of the riotous scenes at the stations in France are in wonderful contrast with the weeping, grave, earnest Germans.
 But is this present deadly stroke to bring out that nobleness that France, or at least an individual Frenchman, is capable of, and is this to be the beginning of better things after ninety years and two Bonapartes - or is it still to be the 'house divided against itself'?
-
-How much there is to talk over when you and [Mrs.
-
-Butler](/person/240) come to the Congress. I hope I shall see you on the 10th of October, and on the 11th we may take our choice of the sermons of [your Bishop](/person/1512) and [him of Salisbury](/person/1015).
+How much there is to talk over when you and [Mrs. Butler](/person/240) come to the Congress. I hope I shall see you on the 10th of October, and on the 11th we may take our choice of the sermons of [your Bishop](/person/1512) and [him of Salisbury](/person/1015).
 
 Yours affectionately
-C. M.
-
-Yonge
+C. M. Yonge
 Thank you much for [Von Moltke](/person/2268) to add to my book of distinguished people.[^4] It is a fine face, but with more shrewdness and power than greatness.
 
 
 [^1]: This was the letter of 16 August 1870 printed in [Life and Letters of William John Butler](/organisation/26) (1897), 285-6, which answers an enquiry of CMY\'s about the Hebrew letter TAU.
 [^2]: The Franco-Prussian War of 1870.
-[^3]: During the Franco-Prussian War the poem \'Die Wacht am Rhein\' by Max Schneckenburger was sung as a patriotic anthem.
-
-The provinces of Schleswig and Holstein were seized from Denmark and taken by Prussia and Austria respectively in 1865 as a result of Prussian intervention organized by Bismarck.
+[^3]: During the Franco-Prussian War the poem \'Die Wacht am Rhein\' by Max Schneckenburger was sung as a patriotic anthem. The provinces of Schleswig and Holstein were seized from Denmark and taken by Prussia and Austria respectively in 1865 as a result of Prussian intervention organized by Bismarck.
 [^4]: Helmuth Karl von Moltke (1800-1891), the chief architect of German victory over France.

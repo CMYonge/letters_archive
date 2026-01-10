@@ -1,7 +1,7 @@
 ---
 id: 2877
 title: To Anna Butler?
-date: '1888-03-14'
+iso-date: '1888-03-14'
 display-date: March 14th 1888
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -11,7 +11,6 @@ manuscript-location: 'MS UCLA: collection 100: box 95'
 
 My dear [Miss Butler](/person/237)
 I am afraid that there would not be good room for your paper till the end of the year—I mean Jany 1889. I agree with you that those old letters are full of deep interest, and such curiously unexpected traits come out in them.
-
 You will see in a note in the next [Monthly Packet](/periodical/52) a very odd thing just disinterred out of some papers of my great-great-great grandfather about a tradition of Becket.[^1]
 
 Yours sincerely

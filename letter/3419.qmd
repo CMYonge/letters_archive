@@ -1,7 +1,7 @@
 ---
 id: 3419
 title: To Christabel Rose Coleridge
-date: '1899-08-21'
+iso-date: '1899-08-21'
 display-date: Aug 21 [1899]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,23 +10,13 @@ manuscript-location: MS Mrs Clare Roels/81
 ---
 
 My dear [C C](/person/329)
-[F M P](/person/1160) went on Saturday to various visits, before she goes, like an enterprising wandering woman to India.
+[F M P](/person/1160) went on Saturday to various visits, before she goes, like an enterprising wandering woman to India. This is the upshot of our talks. She says I know nothing of the modern young woman, or what she likes or despises as old and goody, and she is in favour of a Phoenix, but not with the old name- and though she would have the substance of the China Cupboard &c go on, she thinks the playful names are despised, and would have answers by you and [Bog Oak](/person/28) in your own names - (I can’t see this and said it was silly, but she holds that it is my being out of touch with the modern girl) Also she would I think not have it cheaper but I may be confused for I was tired and stupid and had too much to do on that Saturday- and of course we got discursive when we talked, but thinking it over, I fancy she knows more of the girls that fly about over the Continent than of home ones.[^1]
 
-This is the upshot of our talks.
+But it is hard to keep up with both sides and the home, careful mothers diminish. And how are Church principles – now that we are not at the foundations as in the days of Catechism- to be done without controversy?
 
-She says I know nothing of the modern young woman, or what she likes or despises as old and goody, and she is in favour of a Phoenix, but not with the old name- and though she would have the substance of the China Cupboard &c go on, she thinks the playful names are despised, and would have answers by you and [Bog Oak](/person/28) in your own names - (I can’t see this and said it was silly, but she holds that it is my being out of touch with the modern girl) Also she would I think not have it cheaper but I may be confused for I was tired and stupid and had too much to do on that Saturday- and of course we got discursive when we talked, but thinking it over, I fancy she knows more of the girls that fly about over the Continent than of home ones.[^1]
+One thing she said, it should be written for men. Also that at some place where she had just been staying she found the public school boys did not read any ‘boys’ books’- not even Rudyard Kipling the Jungle book. I could not understand what they did read.
 
-But it is hard to keep up with both sides and the home, careful mothers diminish.
-
-And how are Church principles – now that we are not at the foundations as in the days of Catechism- to be done without controversy?
-
-One thing she said, it should be written for men.
-
-Also that at some place where she had just been staying she found the public school boys did not read any ‘boys’ books’- not even Rudyard Kipling the Jungle book. I could not understand what they did read.
-
-[Sir W Besant](/person/1652)’s letter is very kind and interesting.
-
-After all you will have to think of the man and his son who carried the donkey, and act on your own opinion. [Miss Blackburne](/person/160) has written to Mary Morshead offering a temporary berth at the [Churchwoman](/periodical/64)
+[Sir W Besant](/person/1652)’s letter is very kind and interesting. After all you will have to think of the man and his son who carried the donkey, and act on your own opinion. [Miss Blackburne](/person/160) has written to Mary Morshead offering a temporary berth at the [Churchwoman](/periodical/64)
 
 Dear old [Lady Hertford](/person/1274) is beautiful and bright[^2]
 
@@ -38,6 +28,4 @@ Discussing modern doubtful books would upset the careful mothers – if there ar
 
 
 [^1]: This discussion relates to the collapse of the MP and the question of whether it could be revived in a cheaper and more popular form.
-[^2]: Lady Emily Murray (1816-1902) married (1839) the 5th Marquess of Hertford (1812-1884), who succeeded his notoriously dissolute cousin in 1870.
-
-As a recent widow, she was an early and enthusiastic supporter of the Mothers’ Union.
+[^2]: Lady Emily Murray (1816-1902) married (1839) the 5th Marquess of Hertford (1812-1884), who succeeded his notoriously dissolute cousin in 1870. As a recent widow, she was an early and enthusiastic supporter of the Mothers’ Union.

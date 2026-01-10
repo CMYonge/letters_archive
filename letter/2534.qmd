@@ -1,7 +1,7 @@
 ---
 id: 2534
 title: To Augusta Frederica Frere?
-date: '1875-08-04'
+iso-date: '1875-08-04'
 display-date: Aug 4th 1875
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,13 +10,8 @@ manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
 ---
 
 My dear [Miss Frere](/person/525)
-You have chosen a very cold summer for your visit to England and I am afraid you must think you have come there in the winter by mistake.
-
-We have had some revolutions in the state of the [Monthly Packet](/periodical/52), a new [partner](/person/373) at [Mozley](/organisation/108)’s[^1] and a new printer, and my effort for some time past has been to get old material finished up. I have still so many verses on hand that I think I had better return yours.
-
-For the story I think there will probably be room for it about July, if you feel able to go on with it.
-
-Eleven months hence sounds a long allowance, but one has to live beforehand with magazines[^1]
+You have chosen a very cold summer for your visit to England and I am afraid you must think you have come there in the winter by mistake. We have had some revolutions in the state of the [Monthly Packet](/periodical/52), a new [partner](/person/373) at [Mozley](/organisation/108)’s[^1] and a new printer, and my effort for some time past has been to get old material finished up. I have still so many verses on hand that I think I had better return yours.
+For the story I think there will probably be room for it about July, if you feel able to go on with it. Eleven months hence sounds a long allowance, but one has to live beforehand with magazines[^1]
 
 Yours sincerely
 

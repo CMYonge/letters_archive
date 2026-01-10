@@ -5,6 +5,4 @@ name: '<i>Reader: A review of current literature, science, and art, The</i>'
 title: '<i>Reader: A review of current literature, science, and art, The</i>'
 ---
 
-Mentioned 11 August 1863.
-
-It ran January 1863 - July 1866.
+Mentioned 11 August 1863. It ran January 1863 - July 1866.

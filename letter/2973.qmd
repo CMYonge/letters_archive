@@ -1,7 +1,7 @@
 ---
 id: 2973
 title: To Elizabeth Barnett
-date: '1850-11-01'
+iso-date: '1850-11-01'
 display-date: November [1850]
 from-name: Charlotte Mary Yonge
 to-name: To Elizabeth Barnett
@@ -9,9 +9,7 @@ manuscript-location: MS location unknown. This fragment printed in Romanes, <i>[
   54
 ---
 
-You really must beg, borrow or steal something to help me.[^1] After this winter I shall get on better, but there are [The Two Guardians](/book/13) and the [Landmarks of History](/book/14) to finish before I can feel really at ease in giving my mind to this affair. I am rather afraid of spoiling the Landmarks by getting into a hurry.
-
-If you can send me something, I think we could meet the first of January, but I am sure I cannot single-handed. . . .I wish it had found a name; if there was any word to express 'for Confirmation girls' it would be the thing. . . .
+You really must beg, borrow or steal something to help me.[^1] After this winter I shall get on better, but there are [The Two Guardians](/book/13) and the [Landmarks of History](/book/14) to finish before I can feel really at ease in giving my mind to this affair. I am rather afraid of spoiling the Landmarks by getting into a hurry. If you can send me something, I think we could meet the first of January, but I am sure I cannot single-handed. . . .I wish it had found a name; if there was any word to express 'for Confirmation girls' it would be the thing. . . .
 
 
 [^1]: i.e. to provide material for the new magazine, the first issue of which appeared on 1 January 1851 under the title [The Monthly Packet of Evening Readings for Younger Members of the English Church](/periodical/52).

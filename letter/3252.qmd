@@ -1,7 +1,7 @@
 ---
 id: 3252
 title: To the Reverend John Frederick Watkinson Bullock
-date: '1894-02-24'
+iso-date: '1894-02-24'
 display-date: Feb 24 [1894]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -17,9 +17,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: Envelope addressed to ‘The Revd J.F.
-
-Bullock/Radwinter Rectory/Saffron Walden.
-
-Postmark Feb 24/94.
 [^2]: CMY wrote several in a series of [\'Biographies of Eminent Anglicans\'](/book/358), which were intended to form part of Bullock\'s Daily Lections project, but were never published.

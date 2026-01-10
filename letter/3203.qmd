@@ -1,7 +1,7 @@
 ---
 id: 3203
 title: To an Unknown Woman
-date: '1892-09-20'
+iso-date: '1892-09-20'
 display-date: Sept 20 1892
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester

@@ -4,11 +4,8 @@ title: To Elizabeth Barnett
 display-date: '[not dated by Romanes] [Undated]'
 from-name: Charlotte Mary Yonge
 to-name: To Elizabeth Barnett
-manuscript-location: MS location unknown.  Printed in Romanes, [[otherbook:241]<i>Appreciation</i>],  181-2.
+manuscript-location: MS location unknown. Printed in Romanes, [[otherbook:241]<i>Appreciation</i>],
+  181-2.
 ---
 
-[To [Elizabeth Barnett](/person/113)]I do not think the mass of the world is as morally bad as it was then [in the Middle Ages].
-
-The great saints and the great sinners are much alike in all times, I suppose, and I am afraid there are fewer ignorant, simple saints.
-
-But I think the goodness of mediaeval times is altogether a delusion; and though I do not like ‘progress cant,’ I think the good should be owned, and not only the evil.
+[To [Elizabeth Barnett](/person/113)]I do not think the mass of the world is as morally bad as it was then [in the Middle Ages]. The great saints and the great sinners are much alike in all times, I suppose, and I am afraid there are fewer ignorant, simple saints. But I think the goodness of mediaeval times is altogether a delusion; and though I do not like ‘progress cant,’ I think the good should be owned, and not only the evil.

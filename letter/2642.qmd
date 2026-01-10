@@ -1,8 +1,8 @@
 ---
 id: 2642
 title: To Blanche Catherine Medhurst
-date: '1878-09-01'
-display-date: Sept 22d 1878[[footnote:1]]
+iso-date: '1878-09-01'
+display-date: Sept 22d 1878
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
 to-name: To Blanche Catherine Medhurst
@@ -11,16 +11,9 @@ manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
 
 My dear [Miss Medhurst](/person/988)
 I believe [Emmeline](/person/1358)s engagement is an excellent one in every way except for the unfortunate matter of [the man](/person/562) being a dissenter
-He seems to be a very good man, a clerk, and of a station rather above, much given to good works.
-
-He has had to provide for a large family of brothers and sisters and is waiting to marry till they are off his hands. I don’t think one can object, she is still a churchwoman and means to be, but is naturally so far unsettled as to think the one as good as the other
+He seems to be a very good man, a clerk, and of a station rather above, much given to good works. He has had to provide for a large family of brothers and sisters and is waiting to marry till they are off his hands. I don’t think one can object, she is still a churchwoman and means to be, but is naturally so far unsettled as to think the one as good as the other
 I fancy a vigorous church in those parts would have kept the family - (save that I think [her brother](/person/2287) has good deal of self-conceit) I hope you are comfortably settled
 
 Yours truly
 
 C M Yonge
-
-
-[^1]: The last number is hard to read and the date could be 1876.
-
-Emmeline Spratt married William John Gibson (b.1852/3), clerk, in 1883; he may be the man referred to here.

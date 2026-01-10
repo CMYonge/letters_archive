@@ -1,7 +1,7 @@
 ---
 id: 3326
 title: Henry Rider Haggard to Charlotte Mary Yonge
-date: '1896-05-02'
+iso-date: '1896-05-02'
 display-date: 2nd. May 1896
 from-name: Charlotte Mary Yonge
 from-address: The Society of Authors (Incorporated).
@@ -13,17 +13,9 @@ Dear Madam,
 At a Meeting of the Committee of Management of the [Society of Authors](/organisation/44) held at the Offices of the Society on Wednesday the 29th. day of April, the following Resolution proposed by [Sir Walter Besant](/person/1652), seconded by Mr. [Anthony Hope Hawkins](/person/2155) and put by the Chairman was carried unanimously:—
 	‘That ladies be declared eligible for election to the Council of the Society.’
 I have the honour to inform you that in pursuance of this Resolution, but subject to your assent, you were by the unanimous vote of the Committee elected to fill one of the vacancies in the Council, which, under the Articles of Association, is limited to sixty Members. I shall be glad to hear from you whether you are willing to accept your election & will allow your name to be printed among those of the existing Council.
-I may mention that the duties attached to the post are formal & that no financial responsibility is incurred.
-
-Under the Articles of the Association, however, Members of the Council must be shareholders in & Members of the Society.
-
-The value of the share is one pound and the Member’s subscription for the current year is taken in full payment of that amount.
+I may mention that the duties attached to the post are formal & that no financial responsibility is incurred. Under the Articles of the Association, however, Members of the Council must be shareholders in & Members of the Society. The value of the share is one pound and the Member’s subscription for the current year is taken in full payment of that amount.
 I beg to remain, Madam,
 Yours faithfully,
-[H.
-
-Rider Haggard](/person/2156)
+[H. Rider Haggard](/person/2156)
 Chairman Society of Authors
-Miss. C.M.
-
-Yonge
+Miss. C.M. Yonge

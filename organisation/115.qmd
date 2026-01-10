@@ -5,6 +5,4 @@ name: Dr. Barnardo\'s Homes
 title: Dr. Barnardo\'s Homes
 ---
 
-Founded by Thomas Barnardo in 1867, this organization ran orphanages and did welfare work among children.
-
-See http://www.barnardos.org.uk/who_we_are/history.htm
+Founded by Thomas Barnardo in 1867, this organization ran orphanages and did welfare work among children. See http://www.barnardos.org.uk/who_we_are/history.htm

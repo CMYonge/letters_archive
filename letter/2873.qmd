@@ -1,7 +1,7 @@
 ---
 id: 2873
 title: To Arthur Donald Innes
-date: '1888-02-08'
+iso-date: '1888-02-08'
 display-date: Feb 8th 1888
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,9 +10,7 @@ manuscript-location: MS Girton College Cambridge, Yonge IV 8
 ---
 
 Dear [Mr Innes](/person/744)
-I am afraid I never answered about the MS.
-
-It will not do being too much of the mere novelette. I do not object to such dénouements, but a story ought, I think to turn on something besides.
+I am afraid I never answered about the MS. It will not do being too much of the mere novelette. I do not object to such dénouements, but a story ought, I think to turn on something besides.
 [Miss Coleridge](/person/329) has £5 a year for her work upon Debatable Ground. I do not know if that was mentioned but she has not had it yet. I think you have her new address.
 I think you have all the addresses this time except
 Padre Agostino
@@ -31,6 +29,3 @@ She - as you know is an author with a name
 Yours truly
 
 C M Yonge
-
-
-[^1]:

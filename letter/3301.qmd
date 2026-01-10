@@ -1,12 +1,12 @@
 ---
 id: 3301
 title: To Frederick Orridge Macmillan
-date: '1895-10-16'
+iso-date: '1895-10-16'
 display-date: Oct 16th 1895
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
 to-name: To Frederick Orridge Macmillan
-manuscript-location: 'MS British Library  Add MSS 54921: 220'
+manuscript-location: 'MS British Library Add MSS 54921: 220'
 ---
 
 Dear [Mr Macmillan](/person/942)

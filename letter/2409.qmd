@@ -1,7 +1,7 @@
 ---
 id: 2409
 title: To Laura Valentine
-date: '1871-05-19'
+iso-date: '1871-05-19'
 display-date: May 19th [1871]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,14 +11,8 @@ manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
 
 My dear [Mrs Valentine](/person/1437),
 I think this is a very good time to bring forward the Story of the Crawl and your pretty ballad shall come in July.[^1] I am sorry it is too late for June.
-I am glad you are going to have another annual but I am afraid I am so busy that I have not a scrap available.
-
-But I do wish very much that you could persuade [Mr Warne](/person/1433) to take those [stories](/book/100) of [Madame Guizot de Witt](/person/423)’s.[^2] They have never been published in France and have been most carefully translated.
-
-He refused them rather peremptorily last year (not having seen them) from my description but I know I came too late for the Christmas season, and you were away
-There are four - on Simon de Montfort, on the childhood of Jaqueline Pascal - on Madame de Sevigné and another on La Vendée, the translation of which is not quite finished.
-
-They would make a charming volume.
+I am glad you are going to have another annual but I am afraid I am so busy that I have not a scrap available. But I do wish very much that you could persuade [Mr Warne](/person/1433) to take those [stories](/book/100) of [Madame Guizot de Witt](/person/423)’s.[^2] They have never been published in France and have been most carefully translated. He refused them rather peremptorily last year (not having seen them) from my description but I know I came too late for the Christmas season, and you were away
+There are four - on Simon de Montfort, on the childhood of Jaqueline Pascal - on Madame de Sevigné and another on La Vendée, the translation of which is not quite finished. They would make a charming volume.
 I am coming to London on Monday and will send the three from the parcels delivery to you - I am really anxious about them, for the sake of sending something to the family - and the tales seem to me excellent
 I shall be at [H H Gibbs](/person/558)’s, Esq, St Dunstan’s Regents Park, N W[^3] until Saturday, so please send me a note there. I have a little [niece](/person/1613) to shew all the wonders of London to, and I cannot much depend upon my self - but if I can I will try to call on you
 
@@ -27,10 +21,5 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: \'The Crawl: A Legend of Tichborne\', a ballad, was published in MP ns 12 (July 1871).
-
-The subject was topical because the trial of the Tichborne claimant was in progress (10 May 1871-6 March 1872).
-[^2]: Dames of High Estate (London: Warne 1871).
-
-Valentine worked for Warne as a children\'s books editor. CMY wanted to send money to Henriette de Witt who was doing charity work in the aftermath of the Franco-Prussian war.
-[^4]: St Dunstan\'s was a grand house in Regent\'s Park where CMY\'s cousin Henry Hucks Gibbs (1819-1901), later (1896) 1st Lord Aldenham, lived.
+[^1]: \'The Crawl: A Legend of Tichborne\', a ballad, was published in MP ns 12 (July 1871). The subject was topical because the trial of the Tichborne claimant was in progress (10 May 1871-6 March 1872).
+[^2]: Dames of High Estate (London: Warne 1871). Valentine worked for Warne as a children\'s books editor. CMY wanted to send money to Henriette de Witt who was doing charity work in the aftermath of the Franco-Prussian war.

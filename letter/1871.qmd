@@ -1,7 +1,7 @@
 ---
 id: 1871
 title: To Messrs. Bell and Daldy
-date: '1862-08-08'
+iso-date: '1862-08-08'
 display-date: Aug 8th [1862]
 from-name: Charlotte Mary Yonge
 from-address: Baldersby

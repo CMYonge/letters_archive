@@ -1,7 +1,7 @@
 ---
 id: 2751
 title: To Margaret Wilcox
-date: '1882-06-07'
+iso-date: '1882-06-07'
 display-date: June 7th 1882
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -14,16 +14,10 @@ So many thanks for sending me [Miss Smedley](/person/2346).[^1] I had a good dea
 [Mrs Langton Clarke](/person/301)’s death is a terrible blow[^4] There was something so bright and charming about her, which left a long impression though I have seen so little of her. I should think it must greatly dim the brightness of Whitburn for years to come though there will be every help that kindness can give, but poor [Mr Clarke](/person/2347) with his weak health has so depended upon her that I cant [sic] think how he will every hold up his head
 
 Yours affectionately
-C.M.
-
-Yonge
+C.M. Yonge
 
 
 [^1]: Menella Bute Smedley, Lays and Ballads from English History (1850).
-[^2]: Between 1881 and 1888 CMY edited a series of history readers, [English History Reading Books](/book/150) (1881-1883).
-
-At the time of this letter she was also working on another textbook for the National Society, [Historical Ballads](/book/156) (1882).
+[^2]: Between 1881 and 1888 CMY edited a series of history readers, [English History Reading Books](/book/150) (1881-1883). At the time of this letter she was also working on another textbook for the National Society, [Historical Ballads](/book/156) (1882).
 [^3]: Of her several brothers the one most likely to be referred to here was the much younger Ernest Shepley Wilcox, who was a widowed civil engineer living with her and his children in the 1881 census, but had remarried by 1891.
-[^4]: Frances Mary Clarke (1835/6-1882), the wife of the Rev.
-
-James Langton Clarke (b.1833/4), curate of Whitburn, was born at Whitburn, and was perhaps related to CMY’s friends Thomas and Sophia (Collinson) Harrison, friends and neighbours of Margaret Wilcox.
+[^4]: Frances Mary Clarke (1835/6-1882), the wife of the Rev. James Langton Clarke (b.1833/4), curate of Whitburn, was born at Whitburn, and was perhaps related to CMY’s friends Thomas and Sophia (Collinson) Harrison, friends and neighbours of Margaret Wilcox.

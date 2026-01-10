@@ -5,6 +5,4 @@ name: Church of England Society for Providing Homes for Waifs and Strays
 title: Church of England Society for Providing Homes for Waifs and Strays
 ---
 
-The Waifs and Strays' Society was founded in 1881 by Edward de Montjoie Rudolf (1852 -1933).
-
-There is an interesting history at http://www.hiddenlives.org.uk/articles/history.html The organization survives as The Children’s Society, see http://www.childrenssociety.org.uk/
+The Waifs and Strays' Society was founded in 1881 by Edward de Montjoie Rudolf (1852 -1933). There is an interesting history at http://www.hiddenlives.org.uk/articles/history.html The organization survives as The Children’s Society, see http://www.childrenssociety.org.uk/

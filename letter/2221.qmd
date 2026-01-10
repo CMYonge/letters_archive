@@ -1,7 +1,7 @@
 ---
 id: 2221
 title: To Miss Manning
-date: '1867-01-01'
+iso-date: '1867-01-01'
 display-date: '[1867]'
 from-name: Charlotte Mary Yonge
 to-name: To Miss Manning

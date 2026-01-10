@@ -1,7 +1,7 @@
 ---
 id: 3234
 title: To the Right Reverend George Francis Popham Blyth
-date: '1893-09-25'
+iso-date: '1893-09-25'
 display-date: Sept 25th 1893
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -16,9 +16,4 @@ I remain respectfully
 C M Yonge
 
 
-[^1]: The Rt.
-
-Rev.
-
-George Francis Popham Blyth (1832–1914), bishop of Jerusalem and the East, had founded the Jerusalem and the East Mission Fund in 1890.
-[^2]: On 3 October 1893 a cheque for £5 10s. was recorded as being paid from CMY’s account at Hoare’s to the Jerusalem & East Mission Fund.
+[^1]: The Rt. Rev. George Francis Popham Blyth (1832–1914), bishop of Jerusalem and the East, had founded the Jerusalem and the East Mission Fund in 1890.

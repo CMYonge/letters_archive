@@ -1,7 +1,7 @@
 ---
 id: 7267
 title: To Mr Chandler
-date: '1875-07-13'
+iso-date: '1875-07-13'
 display-date: July 13th 1875
 from-name: Charlotte Mary Yonge
 to-name: To Mr Chandler

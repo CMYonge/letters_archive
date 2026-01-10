@@ -2,26 +2,14 @@
 id: 211
 title: Warne’s Victoria Tales and Stories series. Edited by the author of “The Heir
   of Redclyffe.
-author: Charlotte Mary Yonge
-date: n.d. [1868-1871]
+author-name: Charlotte Mary Yonge
+publication-date: n.d. [1868-1871]
 genre: Edited fiction (by others)
 publication-format: Edited booklet series
 publisher: 'London: Frederick Warne and Co.'
 illustrator: Illustrated by the Dalziel Brothers.
 ---
 
-The volumes in this series are not by CMY, but are sometimes catalogued as by her.
-
-Titles include Ella’s Dream [1870], Mary, Mary, Quite Contrary [1870], Cloudland, Esther Stanhope, or, The Crowning Delight, Lost in the Lebanon, The Knight of the Feathery Sword, Sarah Watkins, or, Crumbs for the Birds.
-
-By E. E. G. B., Hasty Harry, A Bit of Fun, The Old School-room Piano, The Virtue of Patience, Alice\'s Watch, Wax Matches and Wooden Ones, Carrie\'s Two Victories, Harry\'s Snow-shoes, Lost on the Line, Summer Arithmetic and The Flax Gatherers.
-
-The MP (April 1871), 418, recommended Mrs Filby\'s Maria and Silvertongue from the same series.
-
-The former is referred to in a letter by CMY and was probably by her correspondent Anne Mercier.
-
-Although neither of the latter has a separate entry in either COPAC or WorldCat, Cambridge University Library holds a group catalogued as \'Victoria Tales and Stories, Packet F\', 12 volumes in paper wrapper, which consist of: A Bit of Fun, Cloudland, Found in the Fog, Hasty Harry, Lost on the Line, The Flax Gatherers, Wax Matches and Wooden Ones, The Old Bottle, Mrs.
-
-Filley\'s Maria, The Hunt Ribbon, The story of Dog Acis, Silver Tongue and Responsibility It also holds a similar \'Packet N\', consisting of Alice\'s Watch, Carrie\'s Two Victories, Ella\'s Dream, The Old Schoolroom Piano, The Knight of the Feathery Sword, A Girl\'s Adventure, To-Morrow, The Virtue of Patience, Lost in the Lebanon, Henry\'s Snow-Shoes, Mary, Mary, quite Contrary and Summer Arithmetic
+The volumes in this series are not by CMY, but are sometimes catalogued as by her. Titles include Ella’s Dream [1870], Mary, Mary, Quite Contrary [1870], Cloudland, Esther Stanhope, or, The Crowning Delight, Lost in the Lebanon, The Knight of the Feathery Sword, Sarah Watkins, or, Crumbs for the Birds. By E. E. G. B., Hasty Harry, A Bit of Fun, The Old School-room Piano, The Virtue of Patience, Alice\'s Watch, Wax Matches and Wooden Ones, Carrie\'s Two Victories, Harry\'s Snow-shoes, Lost on the Line, Summer Arithmetic and The Flax Gatherers. The MP (April 1871), 418, recommended Mrs Filby\'s Maria and Silvertongue from the same series. The former is referred to in a letter by CMY and was probably by her correspondent Anne Mercier. Although neither of the latter has a separate entry in either COPAC or WorldCat, Cambridge University Library holds a group catalogued as \'Victoria Tales and Stories, Packet F\', 12 volumes in paper wrapper, which consist of: A Bit of Fun, Cloudland, Found in the Fog, Hasty Harry, Lost on the Line, The Flax Gatherers, Wax Matches and Wooden Ones, The Old Bottle, Mrs. Filley\'s Maria, The Hunt Ribbon, The story of Dog Acis, Silver Tongue and Responsibility It also holds a similar \'Packet N\', consisting of Alice\'s Watch, Carrie\'s Two Victories, Ella\'s Dream, The Old Schoolroom Piano, The Knight of the Feathery Sword, A Girl\'s Adventure, To-Morrow, The Virtue of Patience, Lost in the Lebanon, Henry\'s Snow-Shoes, Mary, Mary, quite Contrary and Summer Arithmetic
 
 See also Warne’s Star of Hope series, for another group of tales sometimes erroneously attributed to CMY.

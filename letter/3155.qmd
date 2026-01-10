@@ -1,7 +1,7 @@
 ---
 id: 3155
 title: To Arthur Donald Innes
-date: '1890-03-06'
+iso-date: '1890-03-06'
 display-date: March 6th 1890
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -11,9 +11,7 @@ manuscript-location: MS Girton College Cambridge, Yonge IV 18
 
 Dear [Mr Innes](/person/744),
 I hope there are still some [Castle builders](/book/18) left for a lady in Portugal wrote a few days ago to ask me if it was still to be had, and I answered that it was.[^1] I suppose the Modern Landmarks are put out by later books.[^2]
-I am concerned about a long series of scientific papers on the physical structure of the Earth. I accepted them some time ago from [Miss Gaye](/person/552) and spoke of beginning in July 1890.[^3] Then came this great effort to make the [Packet ](/periodical/52)more popular, and I do not know what to do about it.
-
-At that time people were crying out that there ought to be more improving papers and fewer stories! I do not know if it would be best to put in the papers not as a series but individually.
+I am concerned about a long series of scientific papers on the physical structure of the Earth. I accepted them some time ago from [Miss Gaye](/person/552) and spoke of beginning in July 1890.[^3] Then came this great effort to make the [Packet](/periodical/52)more popular, and I do not know what to do about it. At that time people were crying out that there ought to be more improving papers and fewer stories! I do not know if it would be best to put in the papers not as a series but individually.
 
 Yours truly
 

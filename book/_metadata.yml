@@ -1,3 +1,2 @@
-format:
-  html:
-    include-before-body: "../_partials/book-meta.qmd"
+filters:
+  - ../filters/entity-meta.lua

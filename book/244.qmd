@@ -3,8 +3,8 @@ id: 244
 title: 'Women Novelists of Queen Victoria’s Reign : A Book of Appreciations by Mrs.
   Oliphant et aliae CMY contributed essays on Lady Georgiana Fullerton, Julia Stretton
   and Anne Manning.'
-author: Charlotte Mary Yonge
-date: '1897'
+author-name: Charlotte Mary Yonge
+publication-date: '1897'
 genre: Non-fiction, biography, criticism
 publication-format: Contributions to collection.
 publisher: 'London: Hurst & Blackett, Limited.'

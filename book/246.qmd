@@ -2,8 +2,8 @@
 id: 246
 title: 'Patriots of Palestine: A Story of the Maccabees, The By Charlotte M. Yonge,
   author of ‘Under the Storm’ ‘The Slaves of Sabinus’ etc.'
-author: Charlotte Mary Yonge
-date: October 1898
+author-name: Charlotte Mary Yonge
+publication-date: October 1898
 genre: Fiction (historical)
 publication-format: Book
 publisher: 'London: National Society’s Depository, Broad Sanctuary, Westminster, New

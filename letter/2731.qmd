@@ -1,7 +1,7 @@
 ---
 id: 2731
 title: To Helena Mary Heathcote
-date: '1881-08-19'
+iso-date: '1881-08-19'
 display-date: August 19, 1881
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester,
@@ -12,10 +12,7 @@ manuscript-location: MS location unknown. Printed in Coleridge, [[otherbook:40]<
 
 My dear [Ellie](/person/663)-
 I have just heard of that having happened which for years I have feared to recollect must come some day.[^1] I don't know how to dwell on it or how to think of it. I think what comes before me oftenest is selfishly the sorrow for not having seen more of him this last year, especially this spring.
-
-There are some friends that one looks to like a sort of father, and he was especially so to me.
-
-And it is selfish to talk of oneself, but my mind goes back to what he was to me when trouble came to me, and all I can say is that at such times one gets to feel that it is precious to begin with ‘ Our Father.’
+There are some friends that one looks to like a sort of father, and he was especially so to me. And it is selfish to talk of oneself, but my mind goes back to what he was to me when trouble came to me, and all I can say is that at such times one gets to feel that it is precious to begin with ‘ Our Father.’
 With much love, your affectionate
 C. M. YONGE.
 

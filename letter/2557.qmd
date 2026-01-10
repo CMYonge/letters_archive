@@ -1,7 +1,7 @@
 ---
 id: 2557
 title: To Catharine Elgie
-date: '1876-07-06'
+iso-date: '1876-07-06'
 display-date: July 6th [1876?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -16,6 +16,4 @@ your affectionate
 C M Yonge
 
 
-[^1]: Perhaps of the new incumbency of Otterbourne, so that the [Rev.
-
-Walter Elgie](/person/478) became Vicar rather than curate.
+[^1]: Perhaps of the new incumbency of Otterbourne, so that the [Rev. Walter Elgie](/person/478) became Vicar rather than curate.

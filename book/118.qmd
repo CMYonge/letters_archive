@@ -2,8 +2,8 @@
 id: 118
 title: Scripture Readings for Schools and Families. With Comments. Fourth Series--The
   Gospel Times
-author: Charlotte Mary Yonge
-date: '1876'
+author-name: Charlotte Mary Yonge
+publication-date: '1876'
 genre: 'Non-fiction: theology (bible selections)'
 publication-format: Edited book
 publisher: 'London and New York: Macmillan and Co'

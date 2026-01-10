@@ -1,7 +1,7 @@
 ---
 id: 2646
 title: To Frances Emily Awdry
-date: '1878-10-07'
+iso-date: '1878-10-07'
 display-date: Oct 7th 1878
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,13 +11,7 @@ manuscript-location: MS University of Kansas P357:1
 
 My dear [Emily](/person/81)
 
-Thank you for thinking of [Alice Perrin](/person/1115). I do not quite understand from your letter whether [Mrs Mitchell](/person/2317) is now at Ryde or at Dublin .
-
-If she is near, I should like her to see Alice Perrin.
-
-She is 13, a good steady child, but not equal to [Fanny](/person/1116) in any way, and so very small that I should not like to send her such a distance unseen by her mistress.
-
-Would it be possible to arrange a meeting? I have said nothing about it for fear of disappointment so I am not sure whether her parents would allow her to go to Ireland, though there is more chance in her case, as they have consented to Fanny’s being far off, and the mother is a step
+Thank you for thinking of [Alice Perrin](/person/1115). I do not quite understand from your letter whether [Mrs Mitchell](/person/2317) is now at Ryde or at Dublin . If she is near, I should like her to see Alice Perrin. She is 13, a good steady child, but not equal to [Fanny](/person/1116) in any way, and so very small that I should not like to send her such a distance unseen by her mistress. Would it be possible to arrange a meeting? I have said nothing about it for fear of disappointment so I am not sure whether her parents would allow her to go to Ireland, though there is more chance in her case, as they have consented to Fanny’s being far off, and the mother is a step
 
 With many thanks
 

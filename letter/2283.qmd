@@ -1,7 +1,7 @@
 ---
 id: 2283
 title: To Alexander Macmillan
-date: '1868-10-20'
+iso-date: '1868-10-20'
 display-date: Oct 20th [1868]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,20 +11,9 @@ manuscript-location: 'MS British Library Add MSS 54920: 220-1'
 
 Dear [Mr Macmillan](/person/939)
 The enclosed rather puzzles me, for I thought it was settled that sheets of the [Chaplet of Pearls](/book/69) were to be forwarded to [Mr Franke](/person/522) as they were ready for the Magazine?
-
 Will you kindly see if this has been done?
-
 Please send me back [Wooed and Won](/topic/202). I must try what I can do with it.
-
-Are you reprinting Kingsley’s Heroes.
-
-We tried for both them and Miss Keary’s heroes of Asgard for my brother’s children, and found both are out of print.
-
+Are you reprinting Kingsley’s Heroes. We tried for both them and Miss Keary’s heroes of Asgard for my brother’s children, and found both are out of print.
 The [Literary Churchman](/periodical/76) is very favorable [sic] to the [Selections](/book/71), as I hear they have begun on them at a great girls’ school
 Yours very truly
-C.M.
-
-Yonge
-
-
-[^1]: Black-edged paper.
+C.M. Yonge

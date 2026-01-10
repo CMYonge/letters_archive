@@ -1,7 +1,7 @@
 ---
 id: 2001
 title: To Elizabeth Barnett
-date: '1865-01-01'
+iso-date: '1865-01-01'
 display-date: '[1865?]'
 from-name: Charlotte Mary Yonge
 to-name: To Elizabeth Barnett
@@ -12,6 +12,4 @@ manuscript-location: MS location unknown. This fragment printed in Romanes, <i>[
 I hope [you](/person/113) have Eugénie de Guérin.[^1] You are one of the people to like her especially and extremely, with her sweet religious, pastoral spirit and . . . devotion to her brother. I am exceedingly in love with her myself.
 
 
-[^1]: CMY contributed an unsigned [article](/book/50) on Eugénie de Guérin to the Christian Remembrancer in 1864.
-
-Lettres d’Eugénie de Guérin (Paris, Didier 1865) was also reviewed in the MP 29 (March 1865) 297 as ‘Additional Letters of Eugenie de Guerin’.
+[^1]: CMY contributed an unsigned [article](/book/50) on Eugénie de Guérin to the Christian Remembrancer in 1864. Lettres d’Eugénie de Guérin (Paris, Didier 1865) was also reviewed in the MP 29 (March 1865) 297 as ‘Additional Letters of Eugenie de Guerin’.

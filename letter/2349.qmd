@@ -1,7 +1,7 @@
 ---
 id: 2349
 title: To James Yonge or the Rev. John Yonge
-date: '1869-10-17'
+iso-date: '1869-10-17'
 display-date: Oct 17th [1869]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester
@@ -10,16 +10,9 @@ manuscript-location: MS Charlotte Mitchell/16
 ---
 
 [To [James](/person/1614) or [John Yonge](/person/1623)]My dear Uncle,
-[rest of letter cut off.
-
-The reverse reads]
+[rest of letter cut off. The reverse reads]
 me depends much on what the parish consists of. I think he did not enter upon the field sports because they were disposed of by the
-[rest cut off.
-
-The signature is on the front]
+[rest cut off. The signature is on the front]
 your affectionate niece
 
 C M Yonge
-
-
-[^1]: Black-edged paper.

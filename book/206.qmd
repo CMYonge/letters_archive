@@ -3,8 +3,8 @@ id: 206
 title: '‘Neighbour’s Fare’ in Stories Jolly, Stories New, Stories Strange & Stories
   True: A Series of New and Original Tales for Boys and Girls from Six to Fourteen
   Years Old'
-author: Charlotte Mary Yonge
-date: '1889'
+author-name: Charlotte Mary Yonge
+publication-date: '1889'
 genre: Fiction
 publication-format: Story in collection
 publisher: 'London: Skeffington & Son'

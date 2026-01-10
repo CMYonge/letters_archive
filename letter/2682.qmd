@@ -1,7 +1,7 @@
 ---
 id: 2682
 title: To Alexander Macmillan
-date: '1879-07-12'
+iso-date: '1879-07-12'
 display-date: July 12th 1879
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,9 +11,7 @@ manuscript-location: 'MS British Library Add MSS 54921: 102-103'
 
 Dear [Mr Macmillan](/person/939)
 Many thanks for your prompt response which relieves me of a good deal of worry.[^1]
-Yes there are two short stories to be recovered from America, about the length of the Ghost.
-
-One I make sure of in a month or six weeks, the other must depend on the civility of [Perry Mason](/organisation/249).[^2]
+Yes there are two short stories to be recovered from America, about the length of the Ghost. One I make sure of in a month or six weeks, the other must depend on the civility of [Perry Mason](/organisation/249).[^2]
 They would both come at the end being modern, but if I need write any more to make up the set, I should know in time, as my present ideas are of the historical order
 With many thanks
 

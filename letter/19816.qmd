@@ -1,7 +1,7 @@
 ---
 id: 19816
 title: To Miss Manning
-date: '1885-12-10'
+iso-date: '1885-12-10'
 display-date: Decr 10th 1885
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -22,8 +22,4 @@ yours truly
 C M Yonge
 
 
-[^1]: James du Boulay was a schoolmaster at Winchester College; he was married to a sister of the Bishop of Madagascar.
-
-The book dealer who sold the letter read it as \'Mrs du Boulay\', but it looks to me like Mr.
-
-Either is possible.
+[^1]: James du Boulay was a schoolmaster at Winchester College; he was married to a sister of the Bishop of Madagascar. The book dealer who sold the letter read it as \'Mrs du Boulay\', but it looks to me like Mr. Either is possible.

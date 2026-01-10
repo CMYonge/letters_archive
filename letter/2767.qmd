@@ -1,7 +1,7 @@
 ---
 id: 2767
 title: To Ann Maria Carter Smith
-date: '1883-01-16'
+iso-date: '1883-01-16'
 display-date: Jan 16th 1883
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -18,5 +18,4 @@ yours sincerely
 C M Yonge
 
 
-[^1]: Envelope with violet engraving on flap addressed to Miss Carter Smith/ Thistleworth/ Stevenage and postmarked Winchester (date cut out) and Stevenage 17 January 1883.
 [^2]: CMY seems to refer to two stories by Carter Smith here: a story for the Christmas number which does not seem to have been chosen, and \'The Tramp of Many Feet\', which was in course of serialization in the [Churchman\'s Companion](/periodical/62).

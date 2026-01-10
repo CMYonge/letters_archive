@@ -1,7 +1,7 @@
 ---
 id: 2219
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1867-11-21'
+iso-date: '1867-11-21'
 display-date: Nov:21. 1867
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -9,39 +9,13 @@ manuscript-location: 'Copy outletter book British Library Add MSS.55387 (2): P. 
 ---
 
 My dear Miss Yonge	
-[I](/person/939) am afraid I omitted to tell you that our intention in publishing the parts is that the parts should not even seem complete, but end at the end of a sheet, or given number of pages quite irrespective of whether a sentence or chapter ends or not.
-
-The volumes are to be complete works.
-
-Our only motive in publishing extracts is to enable people to pay a little bit at a time.
-
-Many will pay 1/- a month who hesitate about 2/6 or 4/- a quarter[^1]
-[Miss Martin](/person/971) tells me that you want another proof on which to make certain corrections. I send you one of the parts again as it is the only form I have by me.
-
-You may use it for your corrections, and tear it up or add to it in any.
-
-The first part will consist of 112 pages.
-
-If you add more some of the present matter will go into the next. I hope your changes will not [illegible] diminution.
-
-May I just say that I would be glad that the next two numbers should have as much story in them as possible.
-
-Our home friends will be disappointed if we sermonize them too much.
-
-And we want to give them noble lives to contemplate - and noble deaths:- the best of all sermons I think.
-
-It has struck me that we may call the volume the [Pupils of St John the Divine](/book/72) & some other early martyrs.
-
-You can make a nexus of some sort I am sure. I am under a sort of half promise to give Justin to a man who I think could treat it well and in a way you would like.
-
-We want to publish quite by the 10th & 12th of February so that people may have a look of [illegible] before the ruck of Magazines come on them.
-
-You will kindly let me have it if you can by the middle of next week
+[I](/person/939) am afraid I omitted to tell you that our intention in publishing the parts is that the parts should not even seem complete, but end at the end of a sheet, or given number of pages quite irrespective of whether a sentence or chapter ends or not. The volumes are to be complete works. Our only motive in publishing extracts is to enable people to pay a little bit at a time. Many will pay 1/- a month who hesitate about 2/6 or 4/- a quarter[^1]
+[Miss Martin](/person/971) tells me that you want another proof on which to make certain corrections. I send you one of the parts again as it is the only form I have by me. You may use it for your corrections, and tear it up or add to it in any. The first part will consist of 112 pages. If you add more some of the present matter will go into the next. I hope your changes will not [illegible] diminution.
+May I just say that I would be glad that the next two numbers should have as much story in them as possible. Our home friends will be disappointed if we sermonize them too much. And we want to give them noble lives to contemplate - and noble deaths:- the best of all sermons I think. It has struck me that we may call the volume the [Pupils of St John the Divine](/book/72) & some other early martyrs. You can make a nexus of some sort I am sure. I am under a sort of half promise to give Justin to a man who I think could treat it well and in a way you would like.
+We want to publish quite by the 10th & 12th of February so that people may have a look of [illegible] before the ruck of Magazines come on them. You will kindly let me have it if you can by the middle of next week
 believe me dear Miss Yonge	
 Yours faithfully
-A.
-
-Macmillan
+A. Macmillan
 
 
 [^1]: CMY was contributing a volume to [Macmillan\'s Sunday Library](/topic/145).

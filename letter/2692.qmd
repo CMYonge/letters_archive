@@ -1,15 +1,15 @@
 ---
 id: 2692
 title: To the Reverend Canon William Parsons Warburton
-date: '1879-11-12'
-display-date: Nov 12th [1879 or later?][[footnote:1]]
+iso-date: '1879-11-12'
+display-date: Nov 12th [1879 or later?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
 to-name: To the Reverend Canon William Parsons Warburton
 manuscript-location: MS Girton College Cambridge, Yonge VII 3
 ---
 
-Dear [Canon Warburton ](/person/1466)
+Dear [Canon Warburton](/person/1466)
 I send you a spare proof of your final story in case you should like to have it apart from its adjuncts of the Christmas number[^1]
 Yours very sincerely
 

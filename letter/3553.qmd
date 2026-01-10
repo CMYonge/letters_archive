@@ -1,7 +1,7 @@
 ---
 id: 3553
 title: To the Reverend Lewis Macnaughton Humbert
-date: '1865-10-05'
+iso-date: '1865-10-05'
 display-date: Oct 5th [1865]
 from-name: Charlotte Mary Yonge
 from-address: Torquay
@@ -10,11 +10,7 @@ manuscript-location: University of Iowa; MsL/Y56hu
 ---
 
 Dear [Mr Humbert](/person/730),
-I have just received a note from [Lady Susanna Blunt](/person/164) asking me the day and time of the opening of [St Cross](/organisation/130), and whether tickets will be necessary for admission to the services.
-
-Being unable to be present I had unfortunately destroyed the notice you were so good as to send me, and thus I cannot answer her questions.
-
-Would you therefore be kind enough to send one of the papers to her husband -
+I have just received a note from [Lady Susanna Blunt](/person/164) asking me the day and time of the opening of [St Cross](/organisation/130), and whether tickets will be necessary for admission to the services. Being unable to be present I had unfortunately destroyed the notice you were so good as to send me, and thus I cannot answer her questions. Would you therefore be kind enough to send one of the papers to her husband -
 the [Revd Colvin Blunt](/person/2077)
 Ryde View
 Alverstoke
@@ -23,8 +19,3 @@ And you will much oblige
 Yours faithfully
 
 C M Yonge
-
-
-[^1]: The reopening of St.
-
-Cross Hospital after its restoration took place on 19 October 1865; see the Hampshire Advertiser (21 October 1865) 4.

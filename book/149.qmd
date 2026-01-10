@@ -1,14 +1,12 @@
 ---
 id: 149
 title: Militant Here on Earth By Charlotte M. Yonge.
-author: Charlotte Mary Yonge
-date: 1882-3
+author-name: Charlotte Mary Yonge
+publication-date: 1882-3
 genre: 'Non-fiction: theology'
 publication-format: Articles in journal
 publisher: Not separately published
 serialization: <i>The Watchword</i> (printed by Warren, Winchester, for the SWW) 1882-3
 ---
 
-The Watchword was the journal of the Society of Watchers and Workers: An Association of Mutual Help and Service for Invalids, founded by Edith Sophia Jacob in 1879.
-
-These articles may have been reprinted from elsewhere (perhaps from the Monthly Paper of Sunday Teaching?).
+The Watchword was the journal of the Society of Watchers and Workers: An Association of Mutual Help and Service for Invalids, founded by Edith Sophia Jacob in 1879. These articles may have been reprinted from elsewhere (perhaps from the Monthly Paper of Sunday Teaching?).

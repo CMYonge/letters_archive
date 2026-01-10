@@ -1,7 +1,7 @@
 ---
 id: 3423
 title: To Christabel Rose Coleridge
-date: '1899-09-07'
+iso-date: '1899-09-07'
 display-date: Sept 7th [1899]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -9,15 +9,9 @@ to-name: To Christabel Rose Coleridge
 manuscript-location: MS Mrs Clare Roels/85
 ---
 
-My dear [C C ](/person/329)
-It is a cruel stroke to lose Lanty at the same time as [M P ](/periodical/52) You must feel desolate like Othello. [Aimée Leroy](/person/869) has an idea, and may write to you about it, anent M P She says she has seen [A D I](/person/744)’s business advertised to be sold.[^1] I have not, but I think my notice was sent in time.
-
-He has taken no notice, I suppose he washes his hands of all of us.
-I shall be quite open to you and glad any day before the 16th when [Helen](/person/1613) comes to me – I believe- [Annie Moberly](/person/1024) comes on the 12th, for about a week.
-
-It would be good to talk over Arthurine with her.[^2] Helen may come a day or two later /than 16\, but I will find out and how about space will then appear I do want a talk but you had better see Aimée first. I though [Mary Bramston](/person/198) was from home, but no doubt it is only for a day or two. I should be very glad of a talk.
-
-So much coming at once on you.
+My dear [C C](/person/329)
+It is a cruel stroke to lose Lanty at the same time as [M P](/periodical/52) You must feel desolate like Othello. [Aimée Leroy](/person/869) has an idea, and may write to you about it, anent M P She says she has seen [A D I](/person/744)’s business advertised to be sold.[^1] I have not, but I think my notice was sent in time. He has taken no notice, I suppose he washes his hands of all of us.
+I shall be quite open to you and glad any day before the 16th when [Helen](/person/1613) comes to me – I believe- [Annie Moberly](/person/1024) comes on the 12th, for about a week. It would be good to talk over Arthurine with her.[^2] Helen may come a day or two later /than 16\, but I will find out and how about space will then appear I do want a talk but you had better see Aimée first. I though [Mary Bramston](/person/198) was from home, but no doubt it is only for a day or two. I should be very glad of a talk. So much coming at once on you.
 [Henry Bowles](/person/184) was surprised by the gift of a cruet (ecclesiastical) from his choir the other day
 your affte
 

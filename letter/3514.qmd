@@ -1,16 +1,14 @@
 ---
 id: 3514
 title: To an Unknown Person
-date: '1850-01-01'
+iso-date: '1850-01-01'
 display-date: '[1850s or 1860s?]'
 from-name: Charlotte Mary Yonge
 to-name: To an Unknown Person
-manuscript-location: MS fragment  Charlotte Mitchell/23
+manuscript-location: MS fragment Charlotte Mitchell/23
 ---
 
-chapters in the little [Pink magazine](/periodical/79).[^1] You may be interested to hear that when [my brother](/person/1624) was in camp at Madyn, he saw the Legionary Ants in the act of stealing their slaves, and found the neighbourhood of the nest of the negro ants strewed with the bodies of the slain.
-
-He had a praying mantis for some time in his tent which devoured 18 flies in an hour, I think its name should be changed to preying
+chapters in the little [Pink magazine](/periodical/79).[^1] You may be interested to hear that when [my brother](/person/1624) was in camp at Madyn, he saw the Legionary Ants in the act of stealing their slaves, and found the neighbourhood of the nest of the negro ants strewed with the bodies of the slain. He had a praying mantis for some time in his tent which devoured 18 flies in an hour, I think its name should be changed to preying
 I suppose this cold weather keeps you a prisoner, but I hope you have not suffered from it
 
 yours sincerely

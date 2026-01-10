@@ -1,7 +1,7 @@
 ---
 id: 2301
 title: To Ann Maria Carter Smith
-date: '1869-02-13'
+iso-date: '1869-02-13'
 display-date: Feb 13th [1869]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -24,5 +24,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: The \'incurable list\' was evidently a list of candidates for admission to an asylum; perhaps either the [Home for Incurable and Infirm Women](/organisation/26) or the [Royal Hospital for Incurables](/organisation/37).

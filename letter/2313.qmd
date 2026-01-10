@@ -1,7 +1,7 @@
 ---
 id: 2313
 title: To Alexander Macmillan
-date: '1869-03-29'
+iso-date: '1869-03-29'
 display-date: March 29th [1869]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,12 +11,8 @@ manuscript-location: 'MS British Library Add MSS 54920: 230-31'
 
 My dear [Mr Macmillan](/person/939)
 I think I should enjoy editing a Globe edition of children’s books,[^2] and am much obliged to you for the proposal. I suppose the question is how many really good ones have exhausted their copy right.
-
 Perhaps Philip Quarl could begin the series, it is really Defoe’s but I doubt if anyone has read it.
-I send 9 chapters of the [Lion](/book/81).
-
-One object is to make people think of that St Katharine’s charity, and its unhappy state of slumber. I make my heroine end there the heroine [sic] is much too poor a creature for her to marry.
-
+I send 9 chapters of the [Lion](/book/81). One object is to make people think of that St Katharine’s charity, and its unhappy state of slumber. I make my heroine end there the heroine [sic] is much too poor a creature for her to marry.
 Alas! under the impression they were in type, I made away with those sheets of the [parallel history](/book/89)! I am now waiting to go to Winchester to get some large paper ruled for me.
 I must try to get matters forward by August, as then the [Chaplet](/book/69) is to treat me to a trip to Paris and [Val Richer](/place/205)
 I am delighted with Miss Winkworth’s number of the [Sunday Library](/topic/145).
@@ -26,5 +22,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: This project became A Storehouse of Stories, [first series](/book/83) (1870) and [second series](/book/96) (1872).

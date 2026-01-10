@@ -1,7 +1,7 @@
 ---
 id: 3294
 title: To Charles Wooldridge
-date: '1895-04-11'
+iso-date: '1895-04-11'
 display-date: April 11th 1895
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne

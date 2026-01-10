@@ -1,7 +1,7 @@
 ---
 id: 2753
 title: To the Reverend James Duncan
-date: '1882-06-09'
+iso-date: '1882-06-09'
 display-date: June 9th 1882
 from-name: Charlotte Mary Yonge
 to-name: To the Reverend James Duncan
@@ -10,10 +10,7 @@ manuscript-location: MS Princeton University, Parrish Collection
 
 Dear [Mr Duncan](/person/448)
 I send you a first instalment of the first book of [Historical poetry](/book/156),[^2] I think there are about 30 of such pieces as these, containing nothing too difficult for a child of nine or eight years old. I suppose that will be enough for the first book, as it would be better to have it small and cheap enough for being learnt at home.
-I have chosen only what are simple in language and ideas.
-
-Some are written on purpose, and some I have altered.
-
+I have chosen only what are simple in language and ideas. Some are written on purpose, and some I have altered.
 Those for the second set are much easier to find, and I think there will be more of them, but I suppose that 40 should be about the number
 
 Yours truly
@@ -21,5 +18,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: Endorsed: ‘Miss Yonge/ sends/ 1st Instalment/of/Ballad Book/Part I/13/6/82’.
 [^2]: Duncan was the secretary of the [National Society](/organisation/32), the publishers of Historical Ballads.

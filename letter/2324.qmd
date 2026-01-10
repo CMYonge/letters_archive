@@ -1,7 +1,7 @@
 ---
 id: 2324
 title: To Mrs Curteis
-date: '1869-06-24'
+iso-date: '1869-06-24'
 display-date: June 24th [1869]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -18,12 +18,3 @@ C M Yonge
 
 
 [^1]: Black-edged paper.
-[^2]: \'Mrs.
-
-Twitch\' was a story, signed R. L. C., published in MP (June 1869) 606-12, which gave rise to a query answered in (October 1869) 415.
-
-Two later stories, also about Mrs Twitch and presumably by the same author, were \'Pin-Baskets\' (June 1875) 639-646, and \'True and Just in All My Dealings\' (September 1881) 300-3. \'St.
-
-Canace\'s Jackdaw\' was a poem, published in MP (August 1869) 140-1.
-
-The other stories mentioned have not been traced.

@@ -1,10 +1,10 @@
 ---
 id: 2319
 title: To Alexander Macmillan
-date: '1869-06-09'
+iso-date: '1869-06-09'
 display-date: June 9th 1869
 from-name: Charlotte Mary Yonge
-from-address: Wantage[[footnote:2]]
+from-address: Wantage
 to-name: To Alexander Macmillan
 manuscript-location: 'MS Princeton University, Parrish Collection, CO171: Box 29'
 ---
@@ -18,7 +18,3 @@ I will bring back Julius Caesar and another book of yours
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: Black-edged paper.
-[^2]: The paper has the printed Elderfield address, but this has been cancelled in ink.

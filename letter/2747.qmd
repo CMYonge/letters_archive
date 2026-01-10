@@ -1,8 +1,8 @@
 ---
 id: 2747
 title: To Horatia Katharine Frances Gatty
-date: '1882-05-04'
-display-date: May 4th [1882?][[footnote:2]]
+iso-date: '1882-05-04'
+display-date: May 4th [1882?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
 to-name: To Horatia Katharine Frances Gatty
@@ -10,24 +10,10 @@ manuscript-location: 'UCLA: collection 100: box 95'
 ---
 
 My dear [Miss Gatty](/person/469),
-The Signora [Linda Villari](/person/1444) wife to [Professor Villari](/person/2345) at Florence sent me this pretty little sketch of a real favourite bird.
-
-It is too youthful for the [Packet](/periodical/52), but I think you will like to open a connection with her, as she writes prettily and freshly. I enclose a card she sent with her address.
-
-She wrote a very pretty story once for the Packet called the Angel of Viareggio.
-I hope you can give a tolerable account of [Mrs Ewing](/person/494).
-
-We were greatly charmed with Laetus Sorte Meâ[^3]
+The Signora [Linda Villari](/person/1444) wife to [Professor Villari](/person/2345) at Florence sent me this pretty little sketch of a real favourite bird. It is too youthful for the [Packet](/periodical/52), but I think you will like to open a connection with her, as she writes prettily and freshly. I enclose a card she sent with her address. She wrote a very pretty story once for the Packet called the Angel of Viareggio.
+I hope you can give a tolerable account of [Mrs Ewing](/person/494). We were greatly charmed with Laetus Sorte Meâ[^3]
 
 Yours sincerely
 
 C M Yonge
 On second thought I will keep the card as if rejected you had better return Dinderino to me
-
-
-[^1]: Endorsed in another hand \' Signora Linda Villari/ 93r Via Tinti/ Florence/ “Dinderino”\'
-[^2]: ‘The Angel of Viareggio’ appeared in MP (January-June 1880) and ‘Laetus Sorte Mea’ in Aunt Judy’s Magazine in 1882.
-
-It was published as The Story of a Short Life (1882).
-
-The letter must antedate the death of Juliana Ewing in May 1885.

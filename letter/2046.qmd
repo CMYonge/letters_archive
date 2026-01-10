@@ -1,7 +1,7 @@
 ---
 id: 2046
 title: To an Unknown Man
-date: '1865-06-20'
+iso-date: '1865-06-20'
 display-date: June 20th 1865
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,7 +11,6 @@ manuscript-location: 'MS UCLA: collection 100: box 95'
 
 Sir,
 I am obliged by your letter, but I am afraid that other engagements are likely to prevent my becoming a contributor to the proposed journal—and at any rate I could undertake nothing without fuller information.
-
 Yours faithfully
 
 C M Yonge

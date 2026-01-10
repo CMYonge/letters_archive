@@ -1,7 +1,7 @@
 ---
 id: 2625
 title: To George Lillie Craik
-date: '1878-04-02'
+iso-date: '1878-04-02'
 display-date: April 2nd 1878
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,13 +10,7 @@ manuscript-location: MS British Library Add MSS 54921
 ---
 
 Dear [Mr Craik](/person/379)
-I am exceedingly puzzled. I am sure I wrote on to the end of the [history of France](/book/353), and that [Mr Greene](/person/582) had it and wrote to me that it only came to 86 pp, and that I must make it longer.
-
-What can have become of the latter part?
-
-What did he go upon if he had it not in type to the end?
-
-Besides, I believe I had it in type but the printers must know best. I should have said I was certain I have had and corrected on the other end, but that if the printers have it not, that becomes impossible
+I am exceedingly puzzled. I am sure I wrote on to the end of the [history of France](/book/353), and that [Mr Greene](/person/582) had it and wrote to me that it only came to 86 pp, and that I must make it longer. What can have become of the latter part? What did he go upon if he had it not in type to the end? Besides, I believe I had it in type but the printers must know best. I should have said I was certain I have had and corrected on the other end, but that if the printers have it not, that becomes impossible
 I should like to know whether Mr Greene saw the whole of the pages, or only calculated[.] I must supply them of course if they are no where, but I can hardly do so till after Easter[.] I am working hard to finish up [the Story of the Moors](/book/126), and then be in London for a few days in the second week after Easter
 I suspect that the 2nd part of my Copy must have been lost - or it may have gone to [Clay](/organisation/173) as I did not at first know that [Clowes](/organisation/245) was doing the primer - and Mr Greene must have written from calculation[^2]
 
@@ -25,5 +19,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: This relates to the History of France CMY was contributing to Macmillan\'s \'Historical Primers\' series edited by John Richard Green.

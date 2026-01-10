@@ -1,7 +1,7 @@
 ---
 id: 2107
 title: To Katharine Olive Helmore
-date: '1866-03-19'
+iso-date: '1866-03-19'
 display-date: March 19th [1866]
 from-name: Charlotte Mary Yonge
 to-name: To Katharine Olive Helmore
@@ -9,13 +9,10 @@ manuscript-location: MS Charlotte Mitchell/Cobweb-8
 ---
 
 My dear [Cobweb](/person/675),
-You have been very ill used, but first [Fanny Patteson](/person/1151) was here, and I was idle, and since that I have not been well and have been more idle.
-
-The Acrostic is capital – I always like those that are all quotation- and I am very glad to see the composers going on, this last is a very entertaining piece[^1]
+You have been very ill used, but first [Fanny Patteson](/person/1151) was here, and I was idle, and since that I have not been well and have been more idle. The Acrostic is capital – I always like those that are all quotation- and I am very glad to see the composers going on, this last is a very entertaining piece[^1]
 Pray excuse my great stupidity
 your affectionate
 [Mother Goose](/topic/104)
 
 
 [^1]: Tiny blue envelope 92mm x 54mm addressed to Miss Helmore/ Cheyne Walk/Chelsea/ London/ S.W. postmarked Winchester 19 March 1866 and London 20 March 1866.
-[^2]: Helmore was contributing a series of articles on composers to the [Barnacle](/periodical/89).

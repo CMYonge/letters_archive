@@ -1,7 +1,7 @@
 ---
 id: 2352
 title: To Mary Yonge
-date: '1869-11-06'
+iso-date: '1869-11-06'
 display-date: Novr 6 th [1869]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -14,21 +14,9 @@ I enclose an order for [Duke](/person/1599) - I believe we still want another ba
 
 It is very comforting to hear of [uncle Yonge](/person/1623) being so well and I do feel very thankful for it, and I hope this two week’s rest has done you good so that you may be equal to the children, though it does wring one’s heart to think how different it is from the loving tendance that was so bright and playful with them.[^3] I hope [Katharine](/person/1365) and [Johnnie](/person/1617) at least will never quite forget. I was pleased to hear Augusta speak so warmly of Katharine’s having grown so good saying she thought her such a fine character now-
 
-I saw the [Bishop of Salisbury](/person/1015) and [Mrs Moberly](/person/1019) both today at [Emily Awdry](/person/81)’s where they are waiting till they can get in to Salisbury and he enquired much after uncle Yonge- They cannot take possession till he is enthroned, and he must do homage first, & the [Queen](/person/1694) has not appointed a day, so they are rather in difficulties.[^4] Moroever coming up from Brighstone he left his despatch box in the train, and in it is the sapphire ring belonging to the See – not the Wykehamist one but one belonging to the See, however as there were only ladies & children in the carriage, it seems pretty certain that it must come back.
+I saw the [Bishop of Salisbury](/person/1015) and [Mrs Moberly](/person/1019) both today at [Emily Awdry](/person/81)’s where they are waiting till they can get in to Salisbury and he enquired much after uncle Yonge- They cannot take possession till he is enthroned, and he must do homage first, & the [Queen](/person/1694) has not appointed a day, so they are rather in difficulties.[^4] Moroever coming up from Brighstone he left his despatch box in the train, and in it is the sapphire ring belonging to the See – not the Wykehamist one but one belonging to the See, however as there were only ladies & children in the carriage, it seems pretty certain that it must come back. Mrs Moberly is very well, but railway journeys and long services do not agree with her, so she staid. She is dreading the new calling of strange people very much. [Alice](/person/1025) and [Edith](/person/1012) are finishing up at Brighstone poor Edith is so sorry to leave her choir boys. Her singing class are going to give her a silver card case the last day. It was another pang of recollection. I have ventured to get a few photographs printed off at Winchester from one of Duke’s- ie one where only she & I are leaving out myself- I do not know whether you would like to have any of them, or if you have a better to print from- I am afraid she never was professionally done. There is a sort of feel of crying out for her that will come over one – though one is so at peace about her, and then I come back to think of you-
 
-Mrs Moberly is very well, but railway journeys and long services do not agree with her, so she staid.
-
-She is dreading the new calling of strange people very much. [Alice](/person/1025) and [Edith](/person/1012) are finishing up at Brighstone poor Edith is so sorry to leave her choir boys.
-
-Her singing class are going to give her a silver card case the last day.
-
-It was another pang of recollection. I have ventured to get a few photographs printed off at Winchester from one of Duke’s- ie one where only she & I are leaving out myself- I do not know whether you would like to have any of them, or if you have a better to print from- I am afraid she never was professionally done.
-
-There is a sort of feel of crying out for her that will come over one – though one is so at peace about her, and then I come back to think of you-
-
-You asked after [Mrs James Young](/person/2058), she is pretty well again but looks pale.
-
-How is [aunt Edmund](/person/2057). I have not heard of her for a long time - Our children are all in [Louisa Halliday](/person/616)’s house at Southsea but I believe they come home on Wednesday. I hope you have not lost all your chrysanthemums this year, mine are in great beauty, and so are the Puslinch yellow autumn crocuses, which take kindly to the soil and spread, everybody wonders at them as something new. I have one bella donna too, the first year it has blown though I think it came 4 years ago- Poor [Mildred Coleridge](/person/17) has been to Paris about her eyes, but they get little comfort, it is said to be general health and she is to be out of all excitement and not in a town, and out of doors constantly. I believe they will have to send her abroad with her old governess- very sad for her and [Jane](/person/341) both[.] [Mary](/person/351) is feeling [Alethea Mackarness](/person/923)es going very much, & it seems a horrible costly thing to get into a Bishopric- They say the enthronement cost [Bp Sumner](/person/1383) £1000, and the [Archdeacon](/person/2018) &c are trying to make it more tolerable for Bp Wilberforce I believe he will keep up no house but the one in London, but the Xmas ordination is to be at Winchester & the Oxford people to come there too if [Mr Mackarness](/person/926) is not ready[^5]
+You asked after [Mrs James Young](/person/2058), she is pretty well again but looks pale. How is [aunt Edmund](/person/2057). I have not heard of her for a long time - Our children are all in [Louisa Halliday](/person/616)’s house at Southsea but I believe they come home on Wednesday. I hope you have not lost all your chrysanthemums this year, mine are in great beauty, and so are the Puslinch yellow autumn crocuses, which take kindly to the soil and spread, everybody wonders at them as something new. I have one bella donna too, the first year it has blown though I think it came 4 years ago- Poor [Mildred Coleridge](/person/17) has been to Paris about her eyes, but they get little comfort, it is said to be general health and she is to be out of all excitement and not in a town, and out of doors constantly. I believe they will have to send her abroad with her old governess- very sad for her and [Jane](/person/341) both[.] [Mary](/person/351) is feeling [Alethea Mackarness](/person/923)es going very much, & it seems a horrible costly thing to get into a Bishopric- They say the enthronement cost [Bp Sumner](/person/1383) £1000, and the [Archdeacon](/person/2018) &c are trying to make it more tolerable for Bp Wilberforce I believe he will keep up no house but the one in London, but the Xmas ordination is to be at Winchester & the Oxford people to come there too if [Mr Mackarness](/person/926) is not ready[^5]
 
 Good night, dear Mary
 your most affectionate
@@ -36,22 +24,7 @@ your most affectionate
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: The photographs were being sold to raise money for a school in connection with the Church of the Resurrection at Eastleigh.
 [^3]: A reference to [Anne Yonge](/person/1582)’s death on 1 September 1869.
 [^4]: George Moberly was consecrated as Bishop of Salisbury on 28 October 1869.
-[^5]: The husband of Alethea Mackarness (1826-1909 ), Mary Coleridge’s sister, had just been appointed Bishop of Oxford, so he would have to leave Honiton, which was conveniently near the Coleridges\' home at Ottery St.
-
-Mary.
-
-He was consecrated on 25 January 1870.
-
-The Rt.
-
-Rev.
-
-Charles Richard Sumner (1790-1874), Bishop of Winchester since 1827, had been paralysed since March 1868.
-
-After legislation had been passed enabling him to retire, he was succeeded by the Right Rev.
-
-Samuel Wilberforce (1805-1878), the former bishop of Oxford (enthroned December 1869), creating the vacancy filled by Mackarness.
+[^5]: The husband of Alethea Mackarness (1826-1909 ), Mary Coleridge’s sister, had just been appointed Bishop of Oxford, so he would have to leave Honiton, which was conveniently near the Coleridges\' home at Ottery St. Mary. He was consecrated on 25 January 1870. The Rt. Rev. Charles Richard Sumner (1790-1874), Bishop of Winchester since 1827, had been paralysed since March 1868. After legislation had been passed enabling him to retire, he was succeeded by the Right Rev. Samuel Wilberforce (1805-1878), the former bishop of Oxford (enthroned December 1869), creating the vacancy filled by Mackarness.

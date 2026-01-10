@@ -1,7 +1,7 @@
 ---
 id: 3177
 title: To the Hon. Mrs Montgomery Moore
-date: '1891-08-11'
+iso-date: '1891-08-11'
 display-date: Aug 11th [1891]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,16 +10,8 @@ manuscript-location: MS Charlotte Mitchell
 ---
 
 My dear [Jay](/person/1042)
-Thank you very much for the dear little Tom tit.[^1] They are great friends of ours, we keep fat for them at the window all the winter and have 4 sorts.
-
-Have you ever been to that delicious Natural History Museum at South Kensington, and seen the birds nests ?
-
-There is a tom tits’ nest in a post box, where the creature sat through all the letters! I am glad [Alice](/person/2104) is getting on so well.
-
-When there is a real reason for such an attack, there is every hope that it is not constitutional. [Julian](/person/1624) goes on being really rather better, but does not get up.[^2] They have [Alethea](/person/182) and her two babies with them just now.[^3]
-I really never meant Magotte to live in the Keep, though she went up there on occasion, and looked down at the banquet, and I think the chapel where they were the night Thomas was in danger was the one in the Keep.[^4] I have made Pencester come in from the north and have a sally on the French, but I don’t realize that side of the castle, as I only saw it when we went to Walmer from the outside.
-
-It is a pity that all the romance of Hubert’s life, and the fetters and blacksmith came when he had most likely nothing to do with Dover.
+Thank you very much for the dear little Tom tit.[^1] They are great friends of ours, we keep fat for them at the window all the winter and have 4 sorts. Have you ever been to that delicious Natural History Museum at South Kensington, and seen the birds nests ? There is a tom tits’ nest in a post box, where the creature sat through all the letters! I am glad [Alice](/person/2104) is getting on so well. When there is a real reason for such an attack, there is every hope that it is not constitutional. [Julian](/person/1624) goes on being really rather better, but does not get up.[^2] They have [Alethea](/person/182) and her two babies with them just now.[^3]
+I really never meant Magotte to live in the Keep, though she went up there on occasion, and looked down at the banquet, and I think the chapel where they were the night Thomas was in danger was the one in the Keep.[^4] I have made Pencester come in from the north and have a sally on the French, but I don’t realize that side of the castle, as I only saw it when we went to Walmer from the outside. It is a pity that all the romance of Hubert’s life, and the fetters and blacksmith came when he had most likely nothing to do with Dover.
 your most affectionate
 
 C M Yonge
@@ -28,6 +20,4 @@ C M Yonge
 [^1]: Perhaps a birthday card? 11 August was CMY’s birthday.
 [^2]: JBY died on 17 October 1891.
 [^3]: The two eldest children of CMY’s niece Alethea were [Cicely](/person/183) and [Reginald Bowles](/person/189), who were christened in February 1890 and July 1891 respectively.
-[^4]: The Hon.
-
-Jane Colborne (1826/7-1919) married (1857) General Alexander George Montgomery Moore (1833-1919), cr. KCB 1900, who was governor of Dover Castle While staying with them at Dover Castle CMY conceived the idea of her novel [The Constable’s Tower, or, The Times of Magna Carta](/book/214) (1891), which she is discussing here.
+[^4]: The Hon. Jane Colborne (1826/7-1919) married (1857) General Alexander George Montgomery Moore (1833-1919), cr. KCB 1900, who was governor of Dover Castle While staying with them at Dover Castle CMY conceived the idea of her novel [The Constable’s Tower, or, The Times of Magna Carta](/book/214) (1891), which she is discussing here.

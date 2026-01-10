@@ -1,7 +1,7 @@
 ---
 id: 2182
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1867-06-29'
+iso-date: '1867-06-29'
 display-date: June 29. 1867.
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -9,14 +9,8 @@ manuscript-location: 'Copy outletter book British Library Add MSS.55387 (1): P. 
 ---
 
 Dear Miss Yonge	
-[I](/person/939) write mainly to acknowledge the receipt of your last four chapters, and also to say that your sketch seems to me very good.
-
-But were you not to give a third [pupil of St John](/book/72)?
-I will see [Miss Martin](/person/971) today she will no doubt write to you on any point of detail. I do not in the least anticipate any difficulty on point of church arrangements.[^1] Only one thing has struck me that in glancing over parts, that your tone is slightly too much as if addressed to quite young people .
-
-It would be quite enough to make it such as they will understand; but we wish to give food which stronger stomachs will like with relish.
-
-In families we thought of all sorts of educated people short of learned. I do not think that anything need be altered in what is actually done, but it might be well to bear this in mind in what is to come.
+[I](/person/939) write mainly to acknowledge the receipt of your last four chapters, and also to say that your sketch seems to me very good. But were you not to give a third [pupil of St John](/book/72)?
+I will see [Miss Martin](/person/971) today she will no doubt write to you on any point of detail. I do not in the least anticipate any difficulty on point of church arrangements.[^1] Only one thing has struck me that in glancing over parts, that your tone is slightly too much as if addressed to quite young people . It would be quite enough to make it such as they will understand; but we wish to give food which stronger stomachs will like with relish. In families we thought of all sorts of educated people short of learned. I do not think that anything need be altered in what is actually done, but it might be well to bear this in mind in what is to come.
 I will see [Mr Armitage](/person/60) on the subject of [illustrations](/topic/167). I hope he will [illegible]
 your subjects, the only one I am doubtful of is the lions[^2], which are hard to treat I fear.
 I am dear Miss Yonge

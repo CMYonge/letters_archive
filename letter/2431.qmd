@@ -1,7 +1,7 @@
 ---
 id: 2431
 title: To Elizabeth Missing Sewell
-date: '1870-01-01'
+iso-date: '1870-01-01'
 display-date: '[1870]'
 from-name: Charlotte Mary Yonge
 to-name: To Elizabeth Missing Sewell

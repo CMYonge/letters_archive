@@ -1,7 +1,7 @@
 ---
 id: 1903
 title: To Ann Maria Carter Smith
-date: '1863-09-11'
+iso-date: '1863-09-11'
 display-date: Sept 11th [1863]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -11,13 +11,8 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1863/6
 
 My dear [Miss Smith](/person/263)
 Here are two chapters to make up for the having missed one out last time. I was obliged to do so, for I had the wrong proof with me when I was from home, and had to wait till I could get at the proof of the first.
-I believe I told you of our change of house.
-
-Our direction now is Elderfield, Otterbourn, [sic] Winchester
+I believe I told you of our change of house. Our direction now is Elderfield, Otterbourn, [sic] Winchester
 
 yours sincerely
 
 C M Yonge
-
-
-[^1]: In envelope addressed to Miss Smith/ 8 Wellington Road/ Old Charlton/ SE and postmarked Winchester 11 September 1863 and London SE 12 September 1863.

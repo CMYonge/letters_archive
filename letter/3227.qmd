@@ -1,7 +1,7 @@
 ---
 id: 3227
 title: To the Reverend William Parsons Warburton
-date: '1893-08-17'
+iso-date: '1893-08-17'
 display-date: Aug 17th 1893
 from-name: Charlotte Mary Yonge
 from-address: The Close Salisbury
@@ -9,15 +9,13 @@ to-name: To the Reverend William Parsons Warburton
 manuscript-location: MS Girton College Cambridge, Yonge VII 4
 ---
 
-Dear [Canon Warburton ](/person/1466)
+Dear [Canon Warburton](/person/1466)
 I will send £1 for dear Bishop [Harold Browne](/person/213)’s memorial but I am away now from cheque books. I go home on Saturday however having partly come to hear the history of the [wonderful surprises](/topic/225) of Aug 11th with which the Moberly’s had much to do.[^1]
-[Mrs Wordsworth ](/person/1569)is very cheerful, I hope to see her this afternoon[^2]
+[Mrs Wordsworth](/person/1569)is very cheerful, I hope to see her this afternoon[^2]
 Yours very truly
 
 C M Yonge
 
 
-[^1]: The celebration of her 70th birthday described by Coleridge, [Life](/organisation/40), 281-2, and Battiscombe, [Charlotte Mary Yonge](/organisation/17), 159.
-
-Both these writers give this birthday as the 13 August, although CMY in her autobiographical writings always gives it as the 11 August.
+[^1]: The celebration of her 70th birthday described by Coleridge, [Life](/organisation/40), 281-2, and Battiscombe, [Charlotte Mary Yonge](/organisation/17), 159. Both these writers give this birthday as the 13 August, although CMY in her autobiographical writings always gives it as the 11 August.
 [^2]: Susan Esther (Coxe) Wordsworth (1841/2-1894), wife of John Wordsworth, Bishop of Salisbury. CMY was staying in the Close at Salisbury with Alice Moberly, the daughter of his predecessor as bishop.

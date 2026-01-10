@@ -1,7 +1,7 @@
 ---
 id: 2601
 title: To the Reverend Richard St. John Tyrwhitt
-date: '1877-10-01'
+iso-date: '1877-10-01'
 display-date: Oct 1st 1877
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne,Winchester.
@@ -10,11 +10,7 @@ manuscript-location: MS University of Iowa; MsL/Y56ty
 ---
 
 My dear [Mr Tyrwhitt](/person/1428),
-There is a chapter on Basilica in the printer’s hands just now. I ought to have sent it up for October and I don’t know how I missed laying my hands on it when I was packing up the MS. I ought to have mentioned it when you wrote to me, and now I am terribly afraid I have given you ‘double double toil and trouble’.
-
-When the proofs come you will see what amount of repetition there is.
-
-Had I not better return you the new chapter to look at with it, I am greatly concerned at any blundering of mine having given you additional troubles.[^1]
+There is a chapter on Basilica in the printer’s hands just now. I ought to have sent it up for October and I don’t know how I missed laying my hands on it when I was packing up the MS. I ought to have mentioned it when you wrote to me, and now I am terribly afraid I have given you ‘double double toil and trouble’. When the proofs come you will see what amount of repetition there is. Had I not better return you the new chapter to look at with it, I am greatly concerned at any blundering of mine having given you additional troubles.[^1]
 Your study of your son reminds me of [my Mother](/person/1606) saying it was a curious sensation when she began not to know where all my ideas came from
 
 Yours sincerely
@@ -22,8 +18,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: The Rev.
-
-Richard St.
-
-John Tyrwhitt (1827-1895), a follower of Ruskin and art criti, contributed a series of articles on \'The Basilica\' to MP, beginning in ns 25 (January 1878) 1-14 and running until ns 30 (July 1880) 1-18.
+[^1]: The Rev. Richard St. John Tyrwhitt (1827-1895), a follower of Ruskin and art criti, contributed a series of articles on \'The Basilica\' to MP, beginning in ns 25 (January 1878) 1-14 and running until ns 30 (July 1880) 1-18.

@@ -1,7 +1,7 @@
 ---
 id: 2346
 title: To the Reverend John Frewen Moor
-date: '1869-01-01'
+iso-date: '1869-01-01'
 display-date: '[1869]'
 from-name: Charlotte Mary Yonge
 to-name: To the Reverend John Frewen Moor
@@ -14,6 +14,3 @@ mere babes of 3 years old
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: The envelope is addressed to \'The Revd/[ J F Moor](/person/1046)/Ampfield/Romsey’ and postmarked Winchester Oc 5/69.

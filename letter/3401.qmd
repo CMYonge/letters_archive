@@ -1,7 +1,7 @@
 ---
 id: 3401
 title: To the Reverend John Frewen Moor
-date: '1899-05-05'
+iso-date: '1899-05-05'
 display-date: May 5 [1899]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -17,8 +17,3 @@ I am glad your German expedition was fairly satisfactory
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: Envelope addressed to ‘The Revd/ J F Moor/ Glencairn/ Chiselhurst.
-
-Postmarked Winchester My 5/99.

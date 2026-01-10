@@ -1,7 +1,7 @@
 ---
 id: 1997
 title: To Alexander Macmillan
-date: '1864-11-29'
+iso-date: '1864-11-29'
 display-date: Novr 29th [1864]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -11,11 +11,8 @@ manuscript-location: 'MS British Library Add MSS 54920: 59'
 
 Dear [Mr Macmillan](/person/939),
 I send the second chapter of the [Dove](/book/62) because I hardly think the first can be long enough for one of your numbers.
-
 Christina does marry the young baron secretly but most of the adventures concern her sons.
 I shall be well pleased with the terms you propose, if the story will answer the purpose.
 I sent off one last chapter to the [Golden Deeds](/book/51) yesterday
 Yours very truly
-C. M.
-
-Yonge
+C. M. Yonge

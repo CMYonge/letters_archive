@@ -1,7 +1,7 @@
 ---
 id: 2733
 title: To Christabel Rose Coleridge
-date: '1881-09-01'
+iso-date: '1881-09-01'
 display-date: Sept 3d [1881]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,9 +10,7 @@ manuscript-location: MS Mrs Clare Roels
 ---
 
 My dear [Christabel](/person/329)
-Thank you for your proverbs, which are very curious.
-
-There are some odd Eastern ones in todays [Saturday](/periodical/99), one of which takes my fancy, though not for a Christmas number ‘If a Jackal howls shall my old buffalo die’. I am afraid people would not understand it. I mean to have
+Thank you for your proverbs, which are very curious. There are some odd Eastern ones in todays [Saturday](/periodical/99), one of which takes my fancy, though not for a Christmas number ‘If a Jackal howls shall my old buffalo die’. I am afraid people would not understand it. I mean to have
 Crow not, Croak not
 as the next year’s proverb. I think most peoples’ stories are variations of a certain stock of ideas and plots – eg – the supposititious [sic] child
 the Mésalliance
@@ -21,26 +19,13 @@ the cruel stepmother
 Old Robin Gray[^1]
 Cinderella
 the stolen letter
-[Miss Martineau](/person/1724) said there was no new plot under the sun, they all were old ones, or real facts.
-
-What I have wanted to do has been to get a skeleton tale and set a whole lot of us [each to write a chapter](/book/165) in turn and see how it comes out. I have the frame in my head if enough people would take it up – and I rather think I once talked it over with you. I have some hopes of [Margaret Roberts](/person/1244) coming here at the end of this month, but she is always so terribly busy that I don’t know whether she would do the Italian bit that I want.
-
-My second nephew [Maurice](/person/1630) has upset himself with his bicycle and smashed his lips and teeth so dreadfully that he has been living on liquids the last two days. I am afraid he has lost four teeth, it is very unlucky.
-
-Every why has its wherefore is a capital proverb – and so is long regret will not undo sin.
-
-The Double Daisies are grand![^2] I think the [Old Brood](/topic/104) has distinguished itself all together. I wish Hanwell had fared as well as we do, [Mr Brock](/person/201) is excellent all ways, and very young (31) and ingenuous to boot.[^3] Here is a MS story come in where the father in India never told his children their mother is dead till he came home with a stepmother!
+[Miss Martineau](/person/1724) said there was no new plot under the sun, they all were old ones, or real facts. What I have wanted to do has been to get a skeleton tale and set a whole lot of us [each to write a chapter](/book/165) in turn and see how it comes out. I have the frame in my head if enough people would take it up – and I rather think I once talked it over with you. I have some hopes of [Margaret Roberts](/person/1244) coming here at the end of this month, but she is always so terribly busy that I don’t know whether she would do the Italian bit that I want. My second nephew [Maurice](/person/1630) has upset himself with his bicycle and smashed his lips and teeth so dreadfully that he has been living on liquids the last two days. I am afraid he has lost four teeth, it is very unlucky.
+Every why has its wherefore is a capital proverb – and so is long regret will not undo sin. The Double Daisies are grand![^2] I think the [Old Brood](/topic/104) has distinguished itself all together. I wish Hanwell had fared as well as we do, [Mr Brock](/person/201) is excellent all ways, and very young (31) and ingenuous to boot.[^3] Here is a MS story come in where the father in India never told his children their mother is dead till he came home with a stepmother!
 your affectionate
 
 C M Yonge
 
 
 [^1]: A girl is torn between a young man she loves and an old man who can support her parents; a literary ballad by Lady Anne Lindsay.
-[^2]: In the 1881 census [Jane Frances Pearson](/person/1161) (b.1845/6) and her sister Mary Anne Pearson (b. 1843/4) , who had been Goslings together as Double Daisy, were living with their widowed stepmother in Market Lavington, where their father had been vicar.
-
-Presumably they engaged there in social work of which CMY approved.
-
-In 1891 the three are living in Bath.
-[^3]: The Rev.
-
-Derwent Coleridge had recently resigned as Rector of Hanwell, and his family evidently felt his successor was doing a poor job.
+[^2]: In the 1881 census [Jane Frances Pearson](/person/1161) (b.1845/6) and her sister Mary Anne Pearson (b. 1843/4) , who had been Goslings together as Double Daisy, were living with their widowed stepmother in Market Lavington, where their father had been vicar. Presumably they engaged there in social work of which CMY approved. In 1891 the three are living in Bath.
+[^3]: The Rev. Derwent Coleridge had recently resigned as Rector of Hanwell, and his family evidently felt his successor was doing a poor job.

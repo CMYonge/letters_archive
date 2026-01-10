@@ -1,7 +1,7 @@
 ---
 id: 2739
 title: To an Unknown Woman
-date: '1881-01-01'
+iso-date: '1881-01-01'
 display-date: Jany 3d 1881 [1882]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,11 +10,7 @@ manuscript-location: MS University of Delaware
 ---
 
 Dear Madam,
-I must apologise most heartily.
-
-The fact was, I had sent off your second M S to be printed and foolishly had not set down your address.
-
-So when those letters came I searched my memory, and made this strange blunder, I dont know how, except that [our vicar ](/person/201)being gone away to be married there has been such a whirl of parish work that it has confused my senses, I think.[^1]
+I must apologise most heartily. The fact was, I had sent off your second M S to be printed and foolishly had not set down your address. So when those letters came I searched my memory, and made this strange blunder, I dont know how, except that [our vicar](/person/201)being gone away to be married there has been such a whirl of parish work that it has confused my senses, I think.[^1]
 However I have set you down safely now in the book of addresses. I should like other parochial papers from time to time thank you though I cannot promise always to put them in immediately I never knew a paper more opportune that your Christmas tree[^2]
 Again begging you to excuse my stupidity
 
@@ -23,9 +19,5 @@ Yours truly
 C M Yonge
 
 
-[^1]: The Rev.
-
-Walter Brock married (3 Jan 1882) Amy Gabrielle Powell (d. 10 Feb 1947).
-[^2]: \'A Christmas Tree at a Workhouse\' MP 3rd series 2 (December 1881) 609-612.
-
-The second paper referred to in the letter is less easy to identify. \'Bright Days in Workhouse Lives\' MP 3rd series 3 (May 1882) 498-500, seems to have appeared a little late to have been in type in January; all the same it may be by the same writer.
+[^1]: The Rev. Walter Brock married (3 Jan 1882) Amy Gabrielle Powell (d. 10 Feb 1947).
+[^2]: \'A Christmas Tree at a Workhouse\' MP 3rd series 2 (December 1881) 609-612. The second paper referred to in the letter is less easy to identify. \'Bright Days in Workhouse Lives\' MP 3rd series 3 (May 1882) 498-500, seems to have appeared a little late to have been in type in January; all the same it may be by the same writer.

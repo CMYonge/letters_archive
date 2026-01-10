@@ -1,7 +1,7 @@
 ---
 id: 1877
 title: To an Unknown Man
-date: '1862-11-21'
+iso-date: '1862-11-21'
 display-date: Novr 21st 1862
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -11,19 +11,9 @@ manuscript-location: 'MS Princeton University, Parrish Collection, C0171: Box 29
 
 My dear Sir,
 In what I said the other day, I did not at all mean that I did not wish that the passages of Scripture quoted in the Conversation you sent me should not be argued and explained as is there done. I only doubted whether the Conversation was the best means of doing it, as I have found a tendency among my readers to prefer an essay or a letter to a simply didactic conversation. I have found that letters seem more real to them and perhaps if you will look at those which have lately concluded each number of the [Monthly Packet](/periodical/52), you will see that people have written nearly as if writing an essay - only with just the commencement as a letter to the Editor - or an answer to a previous correspondent.[^1]
-I proposed this as likely to elicit more practical advice on the matter in its different bearings than anything else I can think of and if you would favour me with such observations as are made in the Conversation only as a sort of essay-letter addressed to the Editor, and asking perhaps what can be done - and you having thus laid down the general principles, if any one would follow them up with practical hints in detail, I think much would come out that would be useful, as you say both to girls and their maids. I do think this would prove very valuable and interesting.
-
-Or would you like to have a first letter, embodying the arguments you have put into the Quaker’s mouth - so as to have something to answer -?
-
-If so, I could write that myself, or get some one to write it, but it must be short, so as to have its refutation in the same number
+I proposed this as likely to elicit more practical advice on the matter in its different bearings than anything else I can think of and if you would favour me with such observations as are made in the Conversation only as a sort of essay-letter addressed to the Editor, and asking perhaps what can be done - and you having thus laid down the general principles, if any one would follow them up with practical hints in detail, I think much would come out that would be useful, as you say both to girls and their maids. I do think this would prove very valuable and interesting. Or would you like to have a first letter, embodying the arguments you have put into the Quaker’s mouth - so as to have something to answer -? If so, I could write that myself, or get some one to write it, but it must be short, so as to have its refutation in the same number
 Yours faithfully
-C.M.
-
-Yonge
+C.M. Yonge
 
 
-[^1]: \'Correspondence\' MP (November 1862) 544-558 is a comment on district visiting in the form of a letter from \'Jane\' to \'Henrietta\'.
-
-This form of article appeared first in the issue of September 1862, and it continued intermittently, with contributions from various hands on various topics, for several more years.
-
-The particular article discussed here, however, cannot be identified and may never have appeared.
+[^1]: \'Correspondence\' MP (November 1862) 544-558 is a comment on district visiting in the form of a letter from \'Jane\' to \'Henrietta\'. This form of article appeared first in the issue of September 1862, and it continued intermittently, with contributions from various hands on various topics, for several more years. The particular article discussed here, however, cannot be identified and may never have appeared.

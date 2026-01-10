@@ -1,7 +1,7 @@
 ---
 id: 1805
 title: To Elizabeth Roberts
-date: '1860-11-05'
+iso-date: '1860-11-05'
 display-date: Novr 5th 1860
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -10,13 +10,7 @@ manuscript-location: MS Huntington Library
 ---
 
 My dear [Miss Roberts](/person/1243)
-I am quite ashamed to think how long it is since we have had any communication with you and now I am writing not quite on my own account, but to mention a plan in which I think you would be able and willing to assist.
-
-There is an idea of setting on foot a series of county histories and descriptions fit for popular use and such as would teach an intelligent poor man what to be proud of in his county, I am to do Hampshire; and Lincolnshire is also undertaken - it is, it is hoped, to make a set of shilling volumes, one for each county and if possible put out by [SPCK](/organisation/40), in which case the author’s payment would be secure.
-
-The geology and botany would be touched on so as to give general features and peculiarities.
-
-Would you undertake one or any counties - We are anxious to get some scheme drawn up before submitting it to the SPCK, and though I have declined the general editorship I have undertaken to endeavour to find 'collaborateurs' as the French would say - I cannot help thinking you would do it excellently -
+I am quite ashamed to think how long it is since we have had any communication with you and now I am writing not quite on my own account, but to mention a plan in which I think you would be able and willing to assist. There is an idea of setting on foot a series of county histories and descriptions fit for popular use and such as would teach an intelligent poor man what to be proud of in his county, I am to do Hampshire; and Lincolnshire is also undertaken - it is, it is hoped, to make a set of shilling volumes, one for each county and if possible put out by [SPCK](/organisation/40), in which case the author’s payment would be secure. The geology and botany would be touched on so as to give general features and peculiarities. Would you undertake one or any counties - We are anxious to get some scheme drawn up before submitting it to the SPCK, and though I have declined the general editorship I have undertaken to endeavour to find 'collaborateurs' as the French would say - I cannot help thinking you would do it excellently -
 
 Yours sincerely
 

@@ -1,48 +1,28 @@
 ---
 id: 18948
 title: To the Reverend James Edward Vaux
-date: '1892-01-04'
+iso-date: '1892-01-04'
 display-date: '[<i>c.</i> 1892-4]'
 from-name: Charlotte Mary Yonge
 from-address: '[Elderfield] Otterbourne, Winchester'
 to-name: To the Reverend James Edward Vaux
-manuscript-location: MS location unknown.  Extract and summaries in J. E. Vaux <i>Church
+manuscript-location: MS location unknown. Extract and summaries in J. E. Vaux <i>Church
   Folk Lore</i> 2nd edition (1902), 334, 341, 352.
 ---
 
 [To the Rev. [James Edward Vaux](/person/2403), probably in response to the first edition of his book on Church Folklore]
 
-[Tells him that around Otterbourne blacksmiths explode gunpowder on their anvils on St.
-
-Clement's Day.
-
-Describes the services she could remember in old Otterbourne Church.]
+[Tells him that around Otterbourne blacksmiths explode gunpowder on their anvils on St. Clement's Day. Describes the services she could remember in old Otterbourne Church.]
 
 [The people] made the responses in a full harmonious cadence as if it were the tradition of a chant.
 
 [Tells him that at Otterbourne it was the custom to decorate the church with greenery at Easter and Whitsun as well as at Christmas.][^1]
 
 
-[^1]: Vaux had written to MP (March 1880), 309, soliciting information on local church practices, and it is possible that CMY had responded to him at that point.
+[^1]: Vaux had written to MP (March 1880), 309, soliciting information on local church practices, and it is possible that CMY had responded to him at that point. However, the information she provided was not published in the first edition of his Church Folklore; A Record of some Post-Reformation Usages in the English Church, now mostly Obsolete (London: Griffith Farran, 1894). A second edition, Church Folk Lore . . . Revised and Greatly Enlarged (London: Skeffington, 1902), does however quote her in three places. (Note that the first edition has \'Folklore\', the second \'Folk Lore\' in the title.) It has been assumed that she wrote him only one letter, and that it post-dated the appearance in the Newbery House Magazine, from early 1892, of articles on which the first edition was based. The full text of Vaux\'s allusions is as follows:
 
-However, the information she provided was not published in the first edition of his Church Folklore; A Record of some Post-Reformation Usages in the English Church, now mostly Obsolete (London: Griffith Farran, 1894). A second edition, Church Folk Lore . . .
+\'Miss C. M. Yonge, writing from Otterbourne, Winchester, told me that in that part of Hampshire blacksmiths explode gunpowder on their anvils on St Clement\'s Day (November 23). She has heard the reports when at Otterbourne, and more recently at Hursley, but the custom is pretty nearly given up.\' [334]
 
-Revised and Greatly Enlarged (London: Skeffington, 1902), does however quote her in three places. (Note that the first edition has \'Folklore\', the second \'Folk Lore\' in the title.) It has been assumed that she wrote him only one letter, and that it post-dated the appearance in the Newbery House Magazine, from early 1892, of articles on which the first edition was based.
+\'The late Miss C. M. Yonge gave me a curious experience of her own, which would seem to point to a more decent and reverend method of conducting divine service than might have been expected. She said that in her early days the people at a church which she attended \"made the responses in a full, harmonious cadence as if it were the tradition of a chant.\" This was in a church very old and dilapidated, with a service only once on a Sunday, and no resident clergyman.\' [341]
 
-The full text of Vaux\'s allusions is as follows:
-
-\'Miss C. M.
-
-Yonge, writing from Otterbourne, Winchester, told me that in that part of Hampshire blacksmiths explode gunpowder on their anvils on St Clement\'s Day (November 23).
-
-She has heard the reports when at Otterbourne, and more recently at Hursley, but the custom is pretty nearly given up.\' [334]
-
-\'The late Miss C. M.
-
-Yonge gave me a curious experience of her own, which would seem to point to a more decent and reverend method of conducting divine service than might have been expected.
-
-She said that in her early days the people at a church which she attended \"made the responses in a full, harmonious cadence as if it were the tradition of a chant.\" This was in a church very old and dilapidated, with a service only once on a Sunday, and no resident clergyman.\' [341]
-
-\'Miss C. M.
-
-Yonge told me she remembered that when she was quite a child, the church at Otterbourne, Winchester, to have [sic been decorated with greenery at Easter and Whitsun Tide, as well as at Christmas.\' [352]
+\'Miss C. M. Yonge told me she remembered that when she was quite a child, the church at Otterbourne, Winchester, to have [sic been decorated with greenery at Easter and Whitsun Tide, as well as at Christmas.\' [352]

@@ -1,7 +1,7 @@
 ---
 id: 2920
 title: To John Henry Ingram
-date: '1889-11-08'
+iso-date: '1889-11-08'
 display-date: Novr 8th [1889]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,9 +10,7 @@ manuscript-location: MS Princeton University, Parrish Collection
 ---
 
 Dear [Mr Ingram](/person/743)
-Thank you for your letter. I have put notes of quotation to Mme Bunsen’s phrase.
-
-It is always a difficulty to know whether to use them when tenses are changed, and only a word or two exactly quoted.
+Thank you for your letter. I have put notes of quotation to Mme Bunsen’s phrase. It is always a difficulty to know whether to use them when tenses are changed, and only a word or two exactly quoted.
 I think I could undertake Duchess Sarah, and I should be glad of the loan of your documents but I must not think about her till [Prince Albert](/book/208) is off my hands, and I do not think I should be free enough of other work to begin her till next summer[^1]
 
 Yours truly
@@ -20,10 +18,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: Ingram was the editor of W. H.
-
-Allen\'s \'Eminent Women Series\', to which CMY had written Hannah More, and he seems from this letter to have also invited her to write a life of Sarah, Duchess of Marlborough (1660-1744).
-
-She did not however do so. W. H.
-
-Allen also published her Life of H. R. H. the Prince Consort (1890), which includes the quotation referred to here from The Life and Letters of Frances, Baroness Bunsen.
+[^1]: Ingram was the editor of W. H. Allen\'s \'Eminent Women Series\', to which CMY had written Hannah More, and he seems from this letter to have also invited her to write a life of Sarah, Duchess of Marlborough (1660-1744). She did not however do so. W. H. Allen also published her Life of H. R. H. the Prince Consort (1890), which includes the quotation referred to here from The Life and Letters of Frances, Baroness Bunsen.

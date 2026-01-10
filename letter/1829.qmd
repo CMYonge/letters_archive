@@ -1,7 +1,7 @@
 ---
 id: 1829
 title: To Frances Sophia Coleridge Patteson
-date: '1861-05-19'
+iso-date: '1861-05-19'
 display-date: Whit Monday [19 May] 1861
 from-name: Charlotte Mary Yonge
 to-name: To Frances Sophia Coleridge Patteson
@@ -10,9 +10,7 @@ manuscript-location: MS NLS 966 ff. 377-80
 
 My dear [Fanny](/person/1151)
 
-Our hearts have been very full of you for many a day past, though somehow I durst not write, perhaps from very reverence of your waiting state.[^1] But now this precious Whitsuntide arrival gives me a right to write at once, for I am sure you ought to have the first sight of every word from or of your glorious Brother at such a moment, and though no doubt your hands are full of such despatches, yet there are always little touches to be found in one which are not in another, and one feels above all the necessity of (as it were) pressing your hand from this distance and speaking to you out of the fulness of the strange trembling joy.[^2] I daresay you will let me have the precious letters back again quickly for they only came to me this very morning for a Whitsun greeting, but I cannot keep such a sunlight gleam away from Feniton for one post.
-
-Our yesterday’s sermon spoke of this being the first real Whitsuntide in the Isles, and last Friday when I was at the Cathedral we had the glorious anthem of Purcell’s with ‘Tell it out among the heathen.’ Was it not heartswelling after having heard the day before that the Consecration had really taken place (through the [Guardian](/periodical/75)) Tell me whether you direct to him as Bishop of the Western Isles. I want to tell him how the St Andrews name arose - ie from the hymn in the [Lyra In](/periodical/232) on ‘the lad’, which again was suggested by that being the subject of the window given by [Lord Lothian](/person/810) when a young boy to the Church at Jedburgh.[^3] What an echo it has been. I hope [Joanna](/person/1154)’s robes were in time.[^4] Dear Fanny, with all love and much more sympathy to you both than I can ever tell
+Our hearts have been very full of you for many a day past, though somehow I durst not write, perhaps from very reverence of your waiting state.[^1] But now this precious Whitsuntide arrival gives me a right to write at once, for I am sure you ought to have the first sight of every word from or of your glorious Brother at such a moment, and though no doubt your hands are full of such despatches, yet there are always little touches to be found in one which are not in another, and one feels above all the necessity of (as it were) pressing your hand from this distance and speaking to you out of the fulness of the strange trembling joy.[^2] I daresay you will let me have the precious letters back again quickly for they only came to me this very morning for a Whitsun greeting, but I cannot keep such a sunlight gleam away from Feniton for one post. Our yesterday’s sermon spoke of this being the first real Whitsuntide in the Isles, and last Friday when I was at the Cathedral we had the glorious anthem of Purcell’s with ‘Tell it out among the heathen.’ Was it not heartswelling after having heard the day before that the Consecration had really taken place (through the [Guardian](/periodical/75)) Tell me whether you direct to him as Bishop of the Western Isles. I want to tell him how the St Andrews name arose - ie from the hymn in the [Lyra In](/periodical/232) on ‘the lad’, which again was suggested by that being the subject of the window given by [Lord Lothian](/person/810) when a young boy to the Church at Jedburgh.[^3] What an echo it has been. I hope [Joanna](/person/1154)’s robes were in time.[^4] Dear Fanny, with all love and much more sympathy to you both than I can ever tell
 
 your affectionate cousin
 
@@ -20,24 +18,6 @@ C M Yonge
 
 
 [^1]: Fanny was nursing her dying father, Sir John Patteson (1790-28 June 1861).
-[^2]: Evidently a letter from Fanny’s brother, John Coleridge Patteson, who had been consecrated missionary Bishop of Melanesia by Bishop Selwyn in St.
-
-Paul’s Church, Auckland, on 24 February 1861.
-[^3]: William Kerr, 8th Marquess of Lothian (1832-1870), succeeded his father in 1841; his mother Cecil, Marchioness of Lothian (1808-1877) was an enthusiastic Tractarian, and financed the building of the episcopal church at Jedburgh which was consecrated in 1843, with Keble present.
-
-Her conversion to Roman Catholicism in 1851 caused a stir, but her eldest son, who is mentioned in the [Hursley Magazine](/book/39) and so may have met CMY, did not follow her.
-
-The school for Melanesians founded in 1859 by Selwyn at Kohimarama (now Mission Bay), near Auckland, had been named St.
-
-Andrew’s College, in allusion to the foundation of St.
-
-Andrew’s Church in [The Daisy Chain](/book/24).
-
-The reference seems to be to Keble’s poem ‘The Boy with The Five Loaves’ in Lyra Innocentium
-[^4]: The sisters had taken much trouble to provide Patteson with the correct episcopal costume.
-
-He wrote to his father (1 December 1860): ‘ Dear Joan is investing moneys in cutaway coats, buckles without end, and no doubt knee-breeches and what she calls \"gambroons ‘ (whereof I have no cognizance), none of which will be worn more than (say) four or five times in the year.
-
-Gambroons and aprons and lawn sleeves won’t go a-voyaging, depend upon it.
-
-Just when I preach in some Auckland church I shall appear in full costume; but the buckles will grow very rusty indeed!’ CMY comments in her [biography](/book/102) of him that ‘in a separate letter to the sisters there are individual acknowledgments of each article of the equipment, gratifying the donor by informing her that the ‘cutaway’ coat was actually to be worn that very evening at a dinner party at the Chief Justice’s, and admiring the ‘gambroon,’ which turned out to be the material of the cassock, so much as to wish for a coat made of it for the islands.’
+[^2]: Evidently a letter from Fanny’s brother, John Coleridge Patteson, who had been consecrated missionary Bishop of Melanesia by Bishop Selwyn in St. Paul’s Church, Auckland, on 24 February 1861.
+[^3]: William Kerr, 8th Marquess of Lothian (1832-1870), succeeded his father in 1841; his mother Cecil, Marchioness of Lothian (1808-1877) was an enthusiastic Tractarian, and financed the building of the episcopal church at Jedburgh which was consecrated in 1843, with Keble present. Her conversion to Roman Catholicism in 1851 caused a stir, but her eldest son, who is mentioned in the [Hursley Magazine](/book/39) and so may have met CMY, did not follow her. The school for Melanesians founded in 1859 by Selwyn at Kohimarama (now Mission Bay), near Auckland, had been named St. Andrew’s College, in allusion to the foundation of St. Andrew’s Church in [The Daisy Chain](/book/24). The reference seems to be to Keble’s poem ‘The Boy with The Five Loaves’ in Lyra Innocentium
+[^4]: The sisters had taken much trouble to provide Patteson with the correct episcopal costume. He wrote to his father (1 December 1860): ‘ Dear Joan is investing moneys in cutaway coats, buckles without end, and no doubt knee-breeches and what she calls \"gambroons ‘ (whereof I have no cognizance), none of which will be worn more than (say) four or five times in the year. Gambroons and aprons and lawn sleeves won’t go a-voyaging, depend upon it. Just when I preach in some Auckland church I shall appear in full costume; but the buckles will grow very rusty indeed!’ CMY comments in her [biography](/book/102) of him that ‘in a separate letter to the sisters there are individual acknowledgments of each article of the equipment, gratifying the donor by informing her that the ‘cutaway’ coat was actually to be worn that very evening at a dinner party at the Chief Justice’s, and admiring the ‘gambroon,’ which turned out to be the material of the cassock, so much as to wish for a coat made of it for the islands.’

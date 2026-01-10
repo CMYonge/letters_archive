@@ -1,8 +1,8 @@
 ---
 id: 277
 title: Note to \'The Canterbury Relics\'
-author: Charlotte Mary Yonge
-date: '1888'
+author-name: Charlotte Mary Yonge
+publication-date: '1888'
 genre: Non-fiction, history
 publication-format: Article in Journal
 publisher: MP (April 1888) 369

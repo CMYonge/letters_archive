@@ -2,8 +2,8 @@
 id: 95
 title: P’s and Q’s, or, the Question of Putting Upon. By Charlotte M. Yonge, author
   of “The Heir of Redclyffe.”
-author: Charlotte Mary Yonge
-date: '1872'
+author-name: Charlotte Mary Yonge
+publication-date: '1872'
 genre: Fiction (modern)
 publication-format: Book 8vo 150pp
 publisher: 'London: Macmillan and Co.'

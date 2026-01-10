@@ -1,7 +1,7 @@
 ---
 id: 1890
 title: To an Unknown Person, perhaps Elizabeth Barnett
-date: '1863-05-01'
+iso-date: '1863-05-01'
 display-date: '[May 1863]'
 from-name: Charlotte Mary Yonge
 to-name: To an Unknown Person, perhaps Elizabeth Barnett
@@ -12,6 +12,4 @@ manuscript-location: MS location unknown. Printed in Romanes, <i>Appreciation</i
 I find most people grumble at Leonard’s not being hung, but I mean to make much more of him.[^1]
 
 
-[^1]: [The Trial: More Links of the Daisy Chain](/book/53), in which Leonard Ward is tried and convicted of murder,was serialized in MP from January 1862 to April 1864.
-
-The commutation of Leonard’s sentence from death to imprisonment for life was announced at the beginning of the chapter in the issue of April 1863.
+[^1]: [The Trial: More Links of the Daisy Chain](/book/53), in which Leonard Ward is tried and convicted of murder,was serialized in MP from January 1862 to April 1864. The commutation of Leonard’s sentence from death to imprisonment for life was announced at the beginning of the chapter in the issue of April 1863.

@@ -1,7 +1,7 @@
 ---
 id: 2336
 title: To Frances Mary Peard
-date: '1869-08-28'
+iso-date: '1869-08-28'
 display-date: Aug 28th [1869]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,22 +10,9 @@ manuscript-location: MS NLS 399 f. 379-80
 ---
 
 My dear [Frances](/person/1160)
-Here is the autograph of [M Guizot](/person/597)’s that I promised to get for you.
-
-If you could only see his collection. A bit of rough copy of one of [Bossuet](/person/2418)’s sermons, a brown scrap of the Chevalier Bose written out of the midst of the plague, an abject letter of [Murat](/person/2416) saying he was expelled from his kingdom for having followed La Système Britannique a curious letter of [old Napoleon](/person/2207) about a rising in Corsica, signature of [Gustavus Adolphus](/person/2419) and almost everybody you can think of.
-
+Here is the autograph of [M Guizot](/person/597)’s that I promised to get for you. If you could only see his collection. A bit of rough copy of one of [Bossuet](/person/2418)’s sermons, a brown scrap of the Chevalier Bose written out of the midst of the plague, an abject letter of [Murat](/person/2416) saying he was expelled from his kingdom for having followed La Système Britannique a curious letter of [old Napoleon](/person/2207) about a rising in Corsica, signature of [Gustavus Adolphus](/person/2419) and almost everybody you can think of.
 It was an exceedingly pleasant visit to us all, the quiet country life in the old chateau with its beautiful garden was so fresh and full of interest, and it was a wonderful thing to hear that old man talk, like pages of vivid history for the last 50 years. [Madame de Witt](/person/423) was very charming too.
-
-As to Paris, we were much amused and interested, though I believe we saw it in the regular ‘tea tobacco and snuff’ way, and never got out of the common track at all.
-
-Luckily it was cool till this week, and Versailles looked all the more magnificent for the fiery day when we saw it.
-
-What arcades of trees those are, and how gorgeous the garden is.
-
-The sight of the Conciergerie was the contrast. I cannot write more than this one sheet today, having no end of things to do of course. I believe I am going to be godmother to [Kitty Barter](/person/114)’s No 4 on the 8th[.] Hotel Castiglione was very comfortable and we felt quite at home in it
+As to Paris, we were much amused and interested, though I believe we saw it in the regular ‘tea tobacco and snuff’ way, and never got out of the common track at all. Luckily it was cool till this week, and Versailles looked all the more magnificent for the fiery day when we saw it. What arcades of trees those are, and how gorgeous the garden is. The sight of the Conciergerie was the contrast. I cannot write more than this one sheet today, having no end of things to do of course. I believe I am going to be godmother to [Kitty Barter](/person/114)’s No 4 on the 8th[.] Hotel Castiglione was very comfortable and we felt quite at home in it
 your affectionate
 
 C M Yonge
-
-
-[^1]: Black-edged paper.

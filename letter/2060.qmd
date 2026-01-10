@@ -1,7 +1,7 @@
 ---
 id: 2060
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1865-08-01'
+iso-date: '1865-08-01'
 display-date: Aug 1. 1865
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -9,17 +9,11 @@ manuscript-location: 'Copy outletter book British Library Add MSS. 55384 (2): P.
 ---
 
 My dear Miss Yonge	
-The MS. reached us safely. [I ](/person/939)will [illegible] distribution in the months[^1]
-We shall be very glad to see you when you come to town.
-
-It is just possible that I may be gone to America, but my [wife](/person/940) & [sister](/person/941) are at home; and we recently made a valuable addition to our neighbourhood , 'the [author ](/person/378)of John Halifax',whose husband [Mr Craik](/person/379), has become my partner, has taken a house quite near us.[^2] I think you will like to meet her.
-I daresay [Mr Farren](/person/500) would like to have the whole of the [Prince and the Page](/book/61) as soon as possible.
-
-Those little changes you speak of could be made before printing if you think them of any consequence. I suppose it is as well to be correct when you can, though the great mass of the reading public dont care about it.
-
+The MS. reached us safely. [I](/person/939)will [illegible] distribution in the months[^1]
+We shall be very glad to see you when you come to town. It is just possible that I may be gone to America, but my [wife](/person/940) & [sister](/person/941) are at home; and we recently made a valuable addition to our neighbourhood , 'the [author](/person/378)of John Halifax',whose husband [Mr Craik](/person/379), has become my partner, has taken a house quite near us.[^2] I think you will like to meet her.
+I daresay [Mr Farren](/person/500) would like to have the whole of the [Prince and the Page](/book/61) as soon as possible. Those little changes you speak of could be made before printing if you think them of any consequence. I suppose it is as well to be correct when you can, though the great mass of the reading public dont care about it.
 Where could one see those illustrations you think might be suitable to the Dove?[^3] Some piquancy might be given to it by such [illustration](/topic/167). I am getting a little tired of the common two & three volume form novels are published in[.] I would be delighted to get an [illegible]
 We’re all well and the merry boys at home, we look formidable to a casual visitor.[^4] I hope your mother & brother are quite well.
-
 Yours faithfully
 Alex Macmillan		
 I enclose the cheque

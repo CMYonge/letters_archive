@@ -1,7 +1,7 @@
 ---
 id: 2734
 title: To Elizabeth Wordsworth
-date: '1881-09-17'
+iso-date: '1881-09-17'
 display-date: Sept 17 th [1881]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,21 +10,10 @@ manuscript-location: MS Lady Margaret Hall, Oxford.
 ---
 
 My dear [Elizabeth](/person/1566)
-I wonder whether you are taking your holiday at home or abroad.
-
-Of course I am only having the grace to write to you to ask you to help me, but I daresay you will excuse that. I think you went once to Buxton.
-
-Do you happen to have a guide book or the like with a description of Pools’ hole, or did you see the latter (if you hate caverns as much as I do, I don’t suppose you did) I have a [story](/book/157) on the stocks about Mary of Scotland in her captivity, in which a good deal turns on Buxton, and you know there is a tradition of her visiting Pools’ hole, and there is a stalagmite called after her.[^1]
-I can’t find anything of a description in any book in the house and I don’t want to say anything impossible, so if you could give me a few touches – such as how far it is from Buxton, whether it is in a wooded place or what might have been so then – how you get into it, and if it is watery at the bottom or dry – anything in fact that will help out the story.
-
-My heroine is – not your JP. with the Holy rood coffin, but the possible daughter said by some to have been born at Lochleven.
-I go on spinning stories but how many of the friends who were kind about them are gone.
-
-There is no one whose approval or criticism I shall miss more than Sir [William Heathcote](/person/669)’s.
-
-He is a grievous loss to all the county, such a prince and patriarch of it all, as he was.
-
-It has been a terrible year and Oxford will never be the same again without[ Mr Coxe](/person/377).[^2] I hope you are all well, and able to enjoy your vacation
+I wonder whether you are taking your holiday at home or abroad. Of course I am only having the grace to write to you to ask you to help me, but I daresay you will excuse that. I think you went once to Buxton. Do you happen to have a guide book or the like with a description of Pools’ hole, or did you see the latter (if you hate caverns as much as I do, I don’t suppose you did) I have a [story](/book/157) on the stocks about Mary of Scotland in her captivity, in which a good deal turns on Buxton, and you know there is a tradition of her visiting Pools’ hole, and there is a stalagmite called after her.[^1]
+I can’t find anything of a description in any book in the house and I don’t want to say anything impossible, so if you could give me a few touches – such as how far it is from Buxton, whether it is in a wooded place or what might have been so then – how you get into it, and if it is watery at the bottom or dry – anything in fact that will help out the story. My heroine is – not your JP. with the Holy rood coffin, but the possible daughter said by some to have been born at Lochleven.
+I go on spinning stories but how many of the friends who were kind about them are gone. There is no one whose approval or criticism I shall miss more than Sir [William Heathcote](/person/669)’s. He is a grievous loss to all the county, such a prince and patriarch of it all, as he was.
+It has been a terrible year and Oxford will never be the same again without[Mr Coxe](/person/377).[^2] I hope you are all well, and able to enjoy your vacation
 
 Yours affectionately
 
@@ -32,8 +21,4 @@ C M Yonge
 
 
 [^1]: CMY\'s Unknown to History (1882) includes an episode in which Mary, Queen of Scots visits the stalagtites at Buxton.
-[^2]: The Rev.
-
-Henry Octavius Coxe (1811-8 July 1881), Bodley’s Librarian.
-
-His daughter was Elizabeth Wordsworth’s sister-in-law.
+[^2]: The Rev. Henry Octavius Coxe (1811-8 July 1881), Bodley’s Librarian. His daughter was Elizabeth Wordsworth’s sister-in-law.

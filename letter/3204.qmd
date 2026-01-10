@@ -1,39 +1,21 @@
 ---
 id: 3204
 title: To Helen Emma Yonge
-date: '1891-10-10'
-display-date: October 10, 1891[[footnote:1]]
+iso-date: '1891-10-10'
+display-date: October 10, 1891
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
 to-name: To Helen Emma Yonge
-manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i>
   335
 ---
 
 My dear [Helen](/person/1613)
-[Mr.
-
-Brock](/person/201) brought me in both the telegrams and was very kind.
-
-Of course what all knew must be sooner or later could not be a great shock, but all my letters were going with accounts of [his ](/person/1624)having borne the journey so well.
-
-It is better for [mamma](/person/1604) and all of you to have had no lingering, and no associations for the new house.[^2] I hope she is keeping up well; I don't write to burthen her.
-
-You can tell me what I can do for you, but I suppose we cannot hear till Tuesday.
-
-Poor [Harriet](/person/1359) has been saying how he used to sit on her knee and kiss her when he was a tiny child.
-
-Well, he was very faithful and very loving, though we are all reserved, and it is another link with where our hearts should be.
-
-Poor [Gertrude](/person/1462)'s leg is very bad.
-
+[Mr. Brock](/person/201) brought me in both the telegrams and was very kind. Of course what all knew must be sooner or later could not be a great shock, but all my letters were going with accounts of [his](/person/1624)having borne the journey so well. It is better for [mamma](/person/1604) and all of you to have had no lingering, and no associations for the new house.[^2] I hope she is keeping up well; I don't write to burthen her. You can tell me what I can do for you, but I suppose we cannot hear till Tuesday.
+Poor [Harriet](/person/1359) has been saying how he used to sit on her knee and kiss her when he was a tiny child. Well, he was very faithful and very loving, though we are all reserved, and it is another link with where our hearts should be. Poor [Gertrude](/person/1462)'s leg is very bad.
 Your most affectionate
-C. M.
-
-Yonge
+C. M. Yonge
 4.30 .- [George](/person/1611) and [Lucy](/person/2116) have been here, and wish to offer a bed if it is wanted.[^2]
 
 
-[^1]: Coleridge dates the letter 1892, but public records confirm that Julian died on 17 October 1891.
 [^2]: Otterbourne House had been sold and Julian and his family moved to 70 Kensington Gardens Square, where he almost immediately died.
-[^3]: George and Lucy Yonge lived at Stoke Lodge, Bishopstoke, which was near enough to accommodate anyone attending Julian’s funeral.

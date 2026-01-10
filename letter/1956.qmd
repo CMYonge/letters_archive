@@ -1,7 +1,7 @@
 ---
 id: 1956
 title: To Messrs Macmillan
-date: '1864-05-31'
+iso-date: '1864-05-31'
 display-date: May 31st 1864
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -17,7 +17,7 @@ Care of [JD Coleridge](/person/343) Esq
 			also to -
 [Sir William Heathcote](/person/669) Bart M P
 91 Victoria Street
-[Mrs Pode ](/person/1180)
+[Mrs Pode](/person/1180)
 3 Craven Place
 Westbourne Terrace
 Miss [Anne Yonge](/person/1582)

@@ -1,7 +1,7 @@
 ---
 id: 2813
 title: To the Very Reverend William John Butler
-date: '1885-09-07'
+iso-date: '1885-09-07'
 display-date: Sept 7th 1885
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -13,13 +13,9 @@ My dear [Mr Dean](/person/244)[^1]
 
 I am very much obliged, and so will be the proposer of the prize for your decision.[^2] The other two did come, some days later, and so did about twenty names, but they were all so bad that I did not like to trouble you with them.
 
-I fully expected that Vertumnus’s would be chosen, as I think he is the only Gentle man who has tried and he understands both music and French thoroughly.[^3] Moreover he did it three times, as he made fresh discoveries of the riches of French poetry.
+I fully expected that Vertumnus’s would be chosen, as I think he is the only Gentle man who has tried and he understands both music and French thoroughly.[^3] Moreover he did it three times, as he made fresh discoveries of the riches of French poetry. But I thought from the first it was an almost impossible task
 
-But I thought from the first it was an almost impossible task
-
-B is a girl who says she played and sang it all over herself I think she deserves a prize.
-
-As to the other twenty or so I am getting them criticised sufficiently to serve the purpose I do not like Debout but French metre is manageable I thought & practical but could not judge beyond that.[^4]
+B is a girl who says she played and sang it all over herself I think she deserves a prize. As to the other twenty or so I am getting them criticised sufficiently to serve the purpose I do not like Debout but French metre is manageable I thought & practical but could not judge beyond that.[^4]
 
 With many thanks
 
@@ -29,16 +25,6 @@ C M Yonge
 
 
 [^1]: Butler had been made Dean of Lincoln in 1885.
-[^2]: This relates to a competition, announced in MP 3s 9 (March 1885) 301, for the best translation of the hymn \'Christians, awake, salute the happy morn!\' into French verse.
-
-The two best were printed in MP 3s 10 (November 1885) and are signed V. I. and G. A. J..
-
-The announcement sharply criticised most of the entrants for their ignorance of the rules of French prosody.
-[^3]: Vertumnus I and Vertumnus II were respectively the president 1879-November 1882 of the Monthly Packet Botanical Society and his successor.
-
-The first wrote from Preston Vicarage, Sandwich, and was perhaps the Rt.
-
-Rev. [Henry Lascelles Jenner](/person/758); the second from Bitton Vicarage, Bristol and may have been the Shakespearean scholar the Rev. [Henry Nicholson Ellacombe](/person/481), Vicar of Bitton.
-
-It seems more probable that it was Jenner to whom CMY refers here, especially if \'V. I.\' stands for \'Vertumnus I\'.
+[^2]: This relates to a competition, announced in MP 3s 9 (March 1885) 301, for the best translation of the hymn \'Christians, awake, salute the happy morn!\' into French verse. The two best were printed in MP 3s 10 (November 1885) and are signed V. I. and G. A. J.. The announcement sharply criticised most of the entrants for their ignorance of the rules of French prosody.
+[^3]: Vertumnus I and Vertumnus II were respectively the president 1879-November 1882 of the Monthly Packet Botanical Society and his successor. The first wrote from Preston Vicarage, Sandwich, and was perhaps the Rt. Rev. [Henry Lascelles Jenner](/person/758); the second from Bitton Vicarage, Bristol and may have been the Shakespearean scholar the Rev. [Henry Nicholson Ellacombe](/person/481), Vicar of Bitton. It seems more probable that it was Jenner to whom CMY refers here, especially if \'V. I.\' stands for \'Vertumnus I\'.
 [^4]: The opening line of G.A.J.\'s translation is \'Chrétiens, debout, voici le jour heureux\'.

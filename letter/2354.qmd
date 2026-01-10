@@ -1,7 +1,7 @@
 ---
 id: 2354
 title: To Arthur John Butler
-date: '1869-11-13'
+iso-date: '1869-11-13'
 display-date: Novr 13th [1869]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,20 +10,14 @@ manuscript-location: MS Mrs Caroline Fairclough/21
 ---
 
 My dear [Arthur](/person/238)
-I am greatly satisfied about ci, reasoning from the tendency to use there in old English as in the case of thereof for which its is a barbarous substitute.
-
-The complication of Italian pronouns of all sorts is very curious, and makes me wish Italian had a Brachiet. I suppose someone will soon do a good comparative grammar for these unfortunate moderns. I wish you would.
+I am greatly satisfied about ci, reasoning from the tendency to use there in old English as in the case of thereof for which its is a barbarous substitute. The complication of Italian pronouns of all sorts is very curious, and makes me wish Italian had a Brachiet. I suppose someone will soon do a good comparative grammar for these unfortunate moderns. I wish you would.
 I am sure I have a defence for Brutus being Decimus[^2] - (haven’t you always a strong inclination to translate it - O you brute) and I have been trying to lay my hand on it, but it is not in Merivale, where I thought it was. I thought Decimus had come in by that time, and that Caesar was reproaching him with deluding him into coming to the Senate.
-
 Some history I have read goes through the argument, and it satisfied me then that Plutarch had applied it to Marcus as the more effective and dramatic character, and certainly one always believes it with ones poetical faith.
-I was obliged to have Alexander and Caesar as of the original Nine - but though Caesar went against the grain, I do hold by Alexander.
-
-Thank you so much for your corrections -both of the Worthies and [Polly](/book/348)
+I was obliged to have Alexander and Caesar as of the original Nine - but though Caesar went against the grain, I do hold by Alexander. Thank you so much for your corrections -both of the Worthies and [Polly](/book/348)
 
 yours sincerely
 
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: As well as discussing Butler\'s comments on her articles on \'Polyglott Parsing\', CMY is referring to the stories in her [A Book of Worthies](/book/80) (1869).

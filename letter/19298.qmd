@@ -1,7 +1,7 @@
 ---
 id: 19298
 title: To Henrietta Elizabeth Fursdon
-date: '1860-12-29'
+iso-date: '1860-12-29'
 display-date: Decr 29th [1860s]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -13,13 +13,9 @@ My dear [Henrietta](/person/538)
 
 Many thanks to you both for your answers to the Scripture questions, - you see they are beginning to come into the [Monthly Paper](/periodical/81) if you take it in
 
-I hope [Glow Worm](/person/534)'s cold is mending.
+I hope [Glow Worm](/person/534)'s cold is mending.  Her Gay Geese were quite new to the collections.  I have sent all the Goose answers, though I think [Gurgoyle](/person/327)'s must stand as the best.  I think you will be delighted with the [Barnacle](/periodical/89) it is a very grand one this time.[^1]
 
-Her Gay Geese were quite new to the collections.  I have sent all the Goose answers, though I think [Gurgoyle](/person/327)'s must stand as the best.  I think you will be delighted with the [Barnacle](/periodical/89) it is a very grand one this time.[^1]
-
-I am glad you have answered the Palm Sunday question.  I was afraid no one would.
-
-Some unknown person sent me two nice answers for the two Christmas
+I am glad you have answered the Palm Sunday question.  I was afraid no one would.  Some unknown person sent me two nice answers for the two Christmas
 
 &nbsp;
 

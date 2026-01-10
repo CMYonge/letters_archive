@@ -1,7 +1,7 @@
 ---
 id: 1841
 title: To Ann Maria Carter Smith
-date: '1861-11-08'
+iso-date: '1861-11-08'
 display-date: Nov 8th 1861
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -15,6 +15,3 @@ I found your MS here yesterday on my return from a two months expedition into Yo
 yours sincerely
 
 C M Yonge
-
-
-[^1]: Envelope addressed to Miss Ann Smith/ Rectory/ Old Charlton/ SE and postmarked Winchester 8 November 1861 and London SE 9 November 1861.

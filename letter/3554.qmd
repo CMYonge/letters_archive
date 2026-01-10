@@ -1,7 +1,7 @@
 ---
 id: 3554
 title: To Alexander Macmillan
-date: '1873-06-30'
+iso-date: '1873-06-30'
 display-date: June 30th [1873?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -17,8 +17,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: CMY’s visit to Aylesbury was probably to the Rev.
-
-William Bigg Wither, who had become Rector of Hardwicke, Bucks. in 1871.
-
-She is known to have visited him in 1873.
+[^1]: CMY’s visit to Aylesbury was probably to the Rev. William Bigg Wither, who had become Rector of Hardwicke, Bucks. in 1871. She is known to have visited him in 1873.

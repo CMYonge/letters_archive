@@ -1,7 +1,7 @@
 ---
 id: 3346
 title: To Mary Yonge
-date: '1897-05-01'
+iso-date: '1897-05-01'
 display-date: May 3d [1897]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -10,28 +10,12 @@ manuscript-location: MS West Devon Area Record Office Acc No 308
 ---
 
 My dear [Mary](/person/1626)
-I hope your Dynamite explosions will soon cease Are they through Sheepstor or through the wood above Hanover Green[?] [Major Woollcombe](/person/1559) and I have been mourning over them.
-
-He does not think the Auckland people are RCs.
-
-You remember one Lord Auckland was Bishop of the I of Man.[^1] A RC named [Capes](/person/2167), who takes one of the houses on the Winchester Road and the village people say his rough terriers name is Pope, which I cannot believe.
-
-Major and [Mrs Woollcombe](/person/1558) have been here for a week, sleeping at the Vicarage but she up here all day. [Gertrude](/person/1462) was so ill when she came that I should have sent for her, if she had not been coming but she rallied on Wednesday and is nearly in her usual state, so Mary is gone – just now, to be able to come when she is more needed. [Henry Bowles](/person/184), with [Reginald](/person/189) is gone today to Guildford the [Grandfather](/person/190) there is so delighted to have Reggie[^2] [Alethea](/person/182) and the Baby move up to the Post Office, and the nurse takes [Cicely ](/person/183)and [Margaret](/person/185) to Dorking while repairs and cleaning are going on.
-
-The [Church Army](/organisation/231) van is at Allbrook, and is to come up here in a day or two.
-
-It shows a magic lantern, and I do not quite know what more it is to do.
-
-The captain of it read the Lessons at Church on Sunday, very loud and not in an educated voice. I wish gentianella would grow here as yours do!
-
-But I never saw the garden prettier, and the nightingales are singing with all their might Banksias are coming out and I brought in a Gloire de Dijon this morning I hope yours have met [Jane](/person/1042), but uncertainties always attend the Colbornes, as we well know. I thought she was to come home this year for good.[^3]
+I hope your Dynamite explosions will soon cease Are they through Sheepstor or through the wood above Hanover Green[?] [Major Woollcombe](/person/1559) and I have been mourning over them. He does not think the Auckland people are RCs. You remember one Lord Auckland was Bishop of the I of Man.[^1] A RC named [Capes](/person/2167), who takes one of the houses on the Winchester Road and the village people say his rough terriers name is Pope, which I cannot believe. Major and [Mrs Woollcombe](/person/1558) have been here for a week, sleeping at the Vicarage but she up here all day. [Gertrude](/person/1462) was so ill when she came that I should have sent for her, if she had not been coming but she rallied on Wednesday and is nearly in her usual state, so Mary is gone – just now, to be able to come when she is more needed. [Henry Bowles](/person/184), with [Reginald](/person/189) is gone today to Guildford the [Grandfather](/person/190) there is so delighted to have Reggie[^2] [Alethea](/person/182) and the Baby move up to the Post Office, and the nurse takes [Cicely](/person/183)and [Margaret](/person/185) to Dorking while repairs and cleaning are going on. The [Church Army](/organisation/231) van is at Allbrook, and is to come up here in a day or two. It shows a magic lantern, and I do not quite know what more it is to do. The captain of it read the Lessons at Church on Sunday, very loud and not in an educated voice. I wish gentianella would grow here as yours do! But I never saw the garden prettier, and the nightingales are singing with all their might Banksias are coming out and I brought in a Gloire de Dijon this morning I hope yours have met [Jane](/person/1042), but uncertainties always attend the Colbornes, as we well know. I thought she was to come home this year for good.[^3]
 your most affectionate
 
 C M Yonge
 
 
 [^1]: The 3rd Lord Auckland (1799-1870), bishop of Sodor and Man, 1847-54, and of Bath and Wells, 1854-69.
-[^2]: The Rev.
-
-Henry Albany Bowles senior (1819-1898), Rector of Merrow, Guildford.
+[^2]: The Rev. Henry Albany Bowles senior (1819-1898), Rector of Merrow, Guildford.
 [^3]: Jane’s husband, General Alexander Montgomery Moore, was commanding the British troops in Canada.

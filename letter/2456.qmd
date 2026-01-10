@@ -1,7 +1,7 @@
 ---
 id: 2456
 title: To Edward Augustus Freeman
-date: '1872-09-11'
+iso-date: '1872-09-11'
 display-date: Sept 11th 1872
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,54 +10,19 @@ manuscript-location: MS John Rylands Library, Manchester, FA1/7/833-833b
 ---
 
 My dear [Mr Freeman](/person/523)
-If the [Scotsman](/person/2286) is prunable, it will be a great relief to [Miss Roberts](/person/1244) and myself.[^1] If we do it at all it will be on the [Cameo](/book/73) plan, with a table of contemporary Princes of the Empire at the head of each section.
-
-To divide by Emperors’ reigns any time between Frederick II and Maximilian would bring one to the verge of distraction.
-
-But I suspect our plan would make us too lengthy for your wee books, and if they do the work, it will [?missing word] it off our hands.[^2]
-‘Little Arthur’s History’ is by Lady Calcott, of the infinitesimally diluted Hume kind.[^3] You really should give it a word for all mothers almost begin with it in sheer despair, and because they recollect it in their own youth.
-
-The mistakes are so patent - for instance sending Elizabeth daughter of Charles I abroad instead of killing her - that it is wonder that no one has corrected them in so many editions. ‘Isa Craig’ Knox has just put out a ‘History for Little Folks’ that looks as if it had been written 30 or 40 years ago; with all the old misapprehensions unhesitatingly given.
-I am sorry for Miss Sewell - it is the worst of catechisms that they can hardly help being dogmatical where it is a matter of opinion - they ought to have nothing in them but facts and dates - is Miss Thompson’s history out?
-
-With a very young child to mention uncertainties is like shewing it a bird of changeful plumage ‘But which is it really?’ said a little boy when I had been shewing him the blue and green by turns on a kingfisher’s back.
-I am told I am to choose the subjects for the pictures - though I strongly suspect that conventionality will be too strong for me, and I mean to keep out of the hackneyed if possible.
-
-Cnut with the fat man before him on the ice might be good.
-
-By the by, there are many fragments of the Danish fleet that stuck in the mud in Alfred’s time still preserved by that same in the Hamble river and a tradition of a boy and a red cap and a cat escaping into them - Caractacus and frepang(?) is as beautiful as a review of the [Chaplet of Pearls](/book/69) once sent me by a country paper, in which ‘the Great Béranger appears on the stage’.
-
-Or in a historical story of the Gueux where a married man is congratulated on having become a votary of St Benedict. I believe [Mr Macmillan](/person/939) has one with a lovely confusion between Paul of Samosata and the Apostle but unluckily I can’t remember which was taken for which[^4]
-I quite believe the building at Gloucester to be a lich house it explains it quite to my mind.[^5] Do go and look at it when you are there. I suppose the outer side was built up.
-
-It is just wide enough to accommodate a coffin, and the early English groining in that very narrow space is most curious.
-
-But the word Slyppe at Winchester is applied to the entrance to the Close on the south side of the Cathedral, which is said, I don’t know how truly to have been put up when Bp Andrews made things straight after the ruin and desolation of Reformation times.
-
-It may be an old name applied to a new passage, or the passage may be old, but it goes from the Cathedral yard into the Close, through a hugely thick wall, as I dare say you know.
-
+If the [Scotsman](/person/2286) is prunable, it will be a great relief to [Miss Roberts](/person/1244) and myself.[^1] If we do it at all it will be on the [Cameo](/book/73) plan, with a table of contemporary Princes of the Empire at the head of each section. To divide by Emperors’ reigns any time between Frederick II and Maximilian would bring one to the verge of distraction. But I suspect our plan would make us too lengthy for your wee books, and if they do the work, it will [?missing word] it off our hands.[^2]
+‘Little Arthur’s History’ is by Lady Calcott, of the infinitesimally diluted Hume kind.[^3] You really should give it a word for all mothers almost begin with it in sheer despair, and because they recollect it in their own youth. The mistakes are so patent - for instance sending Elizabeth daughter of Charles I abroad instead of killing her - that it is wonder that no one has corrected them in so many editions. ‘Isa Craig’ Knox has just put out a ‘History for Little Folks’ that looks as if it had been written 30 or 40 years ago; with all the old misapprehensions unhesitatingly given.
+I am sorry for Miss Sewell - it is the worst of catechisms that they can hardly help being dogmatical where it is a matter of opinion - they ought to have nothing in them but facts and dates - is Miss Thompson’s history out? With a very young child to mention uncertainties is like shewing it a bird of changeful plumage ‘But which is it really?’ said a little boy when I had been shewing him the blue and green by turns on a kingfisher’s back.
+I am told I am to choose the subjects for the pictures - though I strongly suspect that conventionality will be too strong for me, and I mean to keep out of the hackneyed if possible. Cnut with the fat man before him on the ice might be good. By the by, there are many fragments of the Danish fleet that stuck in the mud in Alfred’s time still preserved by that same in the Hamble river and a tradition of a boy and a red cap and a cat escaping into them - Caractacus and frepang(?) is as beautiful as a review of the [Chaplet of Pearls](/book/69) once sent me by a country paper, in which ‘the Great Béranger appears on the stage’. Or in a historical story of the Gueux where a married man is congratulated on having become a votary of St Benedict. I believe [Mr Macmillan](/person/939) has one with a lovely confusion between Paul of Samosata and the Apostle but unluckily I can’t remember which was taken for which[^4]
+I quite believe the building at Gloucester to be a lich house it explains it quite to my mind.[^5] Do go and look at it when you are there. I suppose the outer side was built up. It is just wide enough to accommodate a coffin, and the early English groining in that very narrow space is most curious. But the word Slyppe at Winchester is applied to the entrance to the Close on the south side of the Cathedral, which is said, I don’t know how truly to have been put up when Bp Andrews made things straight after the ruin and desolation of Reformation times. It may be an old name applied to a new passage, or the passage may be old, but it goes from the Cathedral yard into the Close, through a hugely thick wall, as I dare say you know.
 There I have taken up an inordinate amount of your time - But I must mention a report that G/Eunnas(?) ploughshares had been disinterred?
 
 Yours sincerely
 I apologise for that J - I misread it one day in haste on the back of a book. [Ps and Qs](/book/95) is a small child’s book not on language
 
 
-[^1]: In her previous letter CMY had mentioned that she and Margaret Roberts were thinking of writing a school history of Germany, and asked whether his forthcoming \'Historical Course for Schools\' series would include such a volume, in which case they need not bother.
-
-Freeman had no doubt replied that he had commissioned a History of Germany from the Scots journalist, James Sime (1843-1895).
+[^1]: In her previous letter CMY had mentioned that she and Margaret Roberts were thinking of writing a school history of Germany, and asked whether his forthcoming \'Historical Course for Schools\' series would include such a volume, in which case they need not bother. Freeman had no doubt replied that he had commissioned a History of Germany from the Scots journalist, James Sime (1843-1895).
 [^2]: The discussion relates the \'Historical Course for Schools\' series, edited by Freeman, to which CMY has been invited to contribute.
 [^3]: The children\'s history books mentioned are: Maria, Lady Callcott, Little Arthur\'s History of England (London: Murray 1835); Isa (Craig) Knox, The Little Folks\' History of England (London: Cassell 1872); Elizabeth Sewell, A Catechism of English History (London: 1872); and Edith Thompson, History of England (London: Macmillan 1873), which was volume 2 in the Historical Course for Schools series edited by Freeman.
-[^4]: The fictional hero of The Chaplet of Pearls, which is set during the sixteenth-century French wars of religion, is called Béranger de Ribaumont.
-
-Presumably the reviewer was referring to the poet Pierre Jean de Béranger (1780–1857).
-
-The mistake of the novelist who had written about the Gueux of sixteenth-century Flanders was to confuse St.
-
-Benedict with the hero of Shakespeare\'s Much Ado about Nothing - it was an anachronistic allusion.
-
-Paul of Samosata was a heretical bishop of Antioch in the 3rd century AD and is not to be confused with St.
-
-Paul of Tarsus.
-[^5]: A mortuary.
-
-In her previous letter CMY had asked Freeman\'s opinion about the original purpose of part of Gloucester Cathedral.
+[^4]: The fictional hero of The Chaplet of Pearls, which is set during the sixteenth-century French wars of religion, is called Béranger de Ribaumont. Presumably the reviewer was referring to the poet Pierre Jean de Béranger (1780–1857). The mistake of the novelist who had written about the Gueux of sixteenth-century Flanders was to confuse St. Benedict with the hero of Shakespeare\'s Much Ado about Nothing - it was an anachronistic allusion. Paul of Samosata was a heretical bishop of Antioch in the 3rd century AD and is not to be confused with St. Paul of Tarsus.
+[^5]: A mortuary. In her previous letter CMY had asked Freeman\'s opinion about the original purpose of part of Gloucester Cathedral.

@@ -1,20 +1,16 @@
 ---
 id: 7142
 title: To Margaret Benson
-date: '1887-07-14'
+iso-date: '1887-07-14'
 display-date: July 14th 1887
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
 to-name: To Margaret Benson
-manuscript-location: MS Bodleian Library Benson C.5.4  fol 96
+manuscript-location: MS Bodleian Library Benson C.5.4 fol 96
 ---
 
 Dear [Miss Benson](/person/1858)
-I have sent up your joint story, for which I thank you much, to have the length of pages calculated.
-
-If it goes in, it will stand first before a sad and true scene in a secularised hospital at Paris by [Madame de Witt](/person/423) so as to shew the fruits of the cult of humanity without its Master.
-
-But I am not sure that I can get it in, and I also think that though it is rather long for the purpose, it might for its own sake and that of the idea be longer so that I shall not so much regret if it has to be sacrificed
+I have sent up your joint story, for which I thank you much, to have the length of pages calculated. If it goes in, it will stand first before a sad and true scene in a secularised hospital at Paris by [Madame de Witt](/person/423) so as to shew the fruits of the cult of humanity without its Master. But I am not sure that I can get it in, and I also think that though it is rather long for the purpose, it might for its own sake and that of the idea be longer so that I shall not so much regret if it has to be sacrificed
 
 Yours truly
 

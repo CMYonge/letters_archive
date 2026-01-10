@@ -1,7 +1,7 @@
 ---
 id: 3310
 title: Charles Wooldridge to Charlotte Mary Yonge
-date: '1896-01-28'
+iso-date: '1896-01-28'
 display-date: Jan 28 1896
 from-name: Charlotte Mary Yonge
 to-name: Charles Wooldridge to Charlotte Mary Yonge
@@ -19,9 +19,7 @@ Miss Yonge PTO
 
 P.S.[^1]
 
-I see by the property tax assessment that there are two places apparently occupied by John Price &; that there are 4 other houses put down to you & occupied by Ruddock Davis, Day & Light & a house occupied by Mrs Bishop, making 19 altogether considering Prices as 2 occupations.
-
-The names & the assessment are
+I see by the property tax assessment that there are two places apparently occupied by John Price &; that there are 4 other houses put down to you & occupied by Ruddock Davis, Day & Light & a house occupied by Mrs Bishop, making 19 altogether considering Prices as 2 occupations. The names & the assessment are
 
 Holly C Barford
 Norgat John Price}
@@ -34,6 +32,4 @@ Cornelius Cabin Mrs H Light
 C Ray Senr
 
 
-[^1]: This letter survives reproduced faintly in a wetpress copy outletter book.
-
-What is evidently the original of this second page of the letter survives in the bundle Hampshire RO MS 67M92W/82/24. CMY perhaps returned it to him annotated and he used it further as an aide memoire.
+[^1]: This letter survives reproduced faintly in a wetpress copy outletter book. What is evidently the original of this second page of the letter survives in the bundle Hampshire RO MS 67M92W/82/24. CMY perhaps returned it to him annotated and he used it further as an aide memoire.

@@ -1,7 +1,7 @@
 ---
 id: 2427
 title: To Miss Cassell
-date: '1871-12-01'
+iso-date: '1871-12-01'
 display-date: Decr 23d [1871?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,12 +10,7 @@ manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
 ---
 
 My dear [Miss Cassell](/person/271)
-I find it will be convenient to [Goosedom](/topic/104) generally and it certainly will be so to its Mother if the answers wait to the end of January, so I have desired [Chelsea China](/person/329) to send home a note to that effect.
-
-The last answers were unluckily lost in the frost when I sent them off to her, and as she had gone to Hanwell we did not at once discover the loss.
-
-Thank you much for what you say of [Dr Hood](/person/2275), I am sadly afraid my [poor young friend](/person/1462) (does not one want a word for one’s [brother](/person/1624)’s sister-in-law) has outgrown the time of any effective remedy, as she began to suffer at 14 and is now 22.[^1] There was a consultation of doctors over her stiff knee last year, and they decided that nothing could be done.
-
+I find it will be convenient to [Goosedom](/topic/104) generally and it certainly will be so to its Mother if the answers wait to the end of January, so I have desired [Chelsea China](/person/329) to send home a note to that effect. The last answers were unluckily lost in the frost when I sent them off to her, and as she had gone to Hanwell we did not at once discover the loss. Thank you much for what you say of [Dr Hood](/person/2275), I am sadly afraid my [poor young friend](/person/1462) (does not one want a word for one’s [brother](/person/1624)’s sister-in-law) has outgrown the time of any effective remedy, as she began to suffer at 14 and is now 22.[^1] There was a consultation of doctors over her stiff knee last year, and they decided that nothing could be done.
 Thank you for the sight of the paper about the penny fund, it is a charming plan. I will shew it to [my sister in law](/person/1604)
 
 Yours sincerely

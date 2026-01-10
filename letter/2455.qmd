@@ -1,7 +1,7 @@
 ---
 id: 2455
 title: To Edward Augustus Freeman
-date: '1872-08-31'
+iso-date: '1872-08-31'
 display-date: Aug 31st [1872]
 from-name: Charlotte Mary Yonge
 from-address: Flaxley Abbey
@@ -10,17 +10,11 @@ manuscript-location: MS John Rylands Library, Manchester, FA1/7/842a-842b
 ---
 
 My dear [Mr Freeman](/person/523),
-Thank you much for sending me the book, which I feel an undeserved kindness, though but for a wet day and a sore throat I should be the more sorry, I must get home on the 9th for many reasons but there is much that I should have been very glad to talk over with you - especially the matter of a German history.
-
-Are your ‘little books’ to include that?[^1]
+Thank you much for sending me the book, which I feel an undeserved kindness, though but for a wet day and a sore throat I should be the more sorry, I must get home on the 9th for many reasons but there is much that I should have been very glad to talk over with you - especially the matter of a German history. Are your ‘little books’ to include that?[^1]
 
 A friend of mine who is a much better German scholar than I am, had been thinking of undertaking one in partnership with me - she doing the researches and translation, and I the arrangement - but if you have a small popular history as part of your scheme (i.e. as small and popular as it is in the nature of German history to be) there is no need for us to take such an incubus on our minds.[^2]
 
-Another thing I wanted to ask was your view about that curious Early English structure at the end of the North transept of Gloucester which the verger calls a confessional.
-
-Is there anything like it any where else? - I have been inveigled by an Irish chromolithographic man - into promising to do some letter press for a baby history of England.[^3] Practically one finds children must - or mammas think they must - learn name and ideas about English kings before they can read yours or mine, and that if one wants that intolerable ‘Little Arthur’ to be unread, one must provide something else.
-
-This is an old Cistercian house[^4] with nothing left of it but a splendid kitchen - once a refectory - an Abbot’s room, and three Abbot’s coffin lids - also a ridiculous chair carved with WW the initials of William Ware, the last Abbot.
+Another thing I wanted to ask was your view about that curious Early English structure at the end of the North transept of Gloucester which the verger calls a confessional. Is there anything like it any where else? - I have been inveigled by an Irish chromolithographic man - into promising to do some letter press for a baby history of England.[^3] Practically one finds children must - or mammas think they must - learn name and ideas about English kings before they can read yours or mine, and that if one wants that intolerable ‘Little Arthur’ to be unread, one must provide something else. This is an old Cistercian house[^4] with nothing left of it but a splendid kitchen - once a refectory - an Abbot’s room, and three Abbot’s coffin lids - also a ridiculous chair carved with WW the initials of William Ware, the last Abbot.
 
 All I can say for my complicated pedigrees is that they are worse in real modern life therefore I suppose that it is natural to possess a complexity of cousins. I have been driven into doing a pedigree for [the present story](/book/109) in order to understand it myself-!
 
@@ -29,9 +23,7 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Freeman had probably mentioned to her the \'Historical Course for Schools\' series which he was editing for Macmillan.
-
-The fifth volume was James Sime, History of Germany (1874).
+[^1]: Freeman had probably mentioned to her the \'Historical Course for Schools\' series which he was editing for Macmillan. The fifth volume was James Sime, History of Germany (1874).
 [^2]: [Margaret Roberts](/person/1244).
 [^3]: [Aunt Charlotte\'s Stories of English History for the Little Ones](/book/101) (London: Ward 1873).
 [^4]: Flaxley Abbey, near Cinderford, Gloucestershire, was the home of the Crawley-Boevey family, to which CMY\'s paternal grandmother had belonged.

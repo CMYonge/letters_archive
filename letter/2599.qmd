@@ -1,7 +1,7 @@
 ---
 id: 2599
 title: To George Lillie Craik
-date: '1877-09-25'
+iso-date: '1877-09-25'
 display-date: Sept 25th [1877]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,9 +10,7 @@ manuscript-location: 'MS British Library Add MSS 54921: 33'
 ---
 
 Dear [Mr Craik](/person/379)
-I am sure I ought to be satisfied, considering too the [sum for the copyrights](/topic/160) in March, but just one question.
-
-Have I ever been paid for [the last volume of Cameos](/book/124), I do not think I have, as it came out just after last years settlement I have always had £100 for each volume.
+I am sure I ought to be satisfied, considering too the [sum for the copyrights](/topic/160) in March, but just one question. Have I ever been paid for [the last volume of Cameos](/book/124), I do not think I have, as it came out just after last years settlement I have always had £100 for each volume.
 I am afraid I have been very stupid about both French histories and I am still waiting for [Mr Freeman](/person/523)’s decision.[^2] I have never found that sheet of the Primer, which I thought I had put away.
 
 Yours truly
@@ -20,11 +18,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: Black-edged paper.
-[^2]: CMY was writing two books for Macmillan entitled History of France. [One](/book/353) was to appear in the \'Historical Primers\' series edited by J. R.
-
-Green.
-
-The [other](/book/99), in the \'Historical Course for Schools\' series, was being ruthlessly criticised by the series editor, E. A.
-
-Freeman, which was holding up its appearance.
+[^2]: CMY was writing two books for Macmillan entitled History of France. [One](/book/353) was to appear in the \'Historical Primers\' series edited by J. R. Green. The [other](/book/99), in the \'Historical Course for Schools\' series, was being ruthlessly criticised by the series editor, E. A. Freeman, which was holding up its appearance.

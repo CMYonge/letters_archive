@@ -1,7 +1,7 @@
 ---
 id: 2172
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1867-05-23'
+iso-date: '1867-05-23'
 display-date: May 23. 1867
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -9,23 +9,12 @@ manuscript-location: Copy outletter book British Library Add MSS.55387 (1) P. 20
 ---
 
 Dear Miss Yonge	.
-
-The presentation copies will be attended to.
-
-The [book](/book/63) however is hardly yet in the binders hands.
-
-Books like 'long-tailed birds of Paradise' will not light at the end.
-[I](/person/939) am glad that the Danvers name seems connected with [Mr Peabody](/person/1990).
-
-We should send him a copy.
-
+The presentation copies will be attended to. The [book](/book/63) however is hardly yet in the binders hands. Books like 'long-tailed birds of Paradise' will not light at the end.
+[I](/person/939) am glad that the Danvers name seems connected with [Mr Peabody](/person/1990). We should send him a copy.
 The 62 pages of your law[?] makes 92 of the [Book of Worthies](/book/80)[^1] (I am afraid I [illegible] I like our first title best) so we would like about ms 250 pages, more or less, additional for the volume.
 I think your [disciples of St John](/book/72) should be excellent. [Miss Martin](/person/971) will write you in a day or two.
-
 Yours very faithfully
-A.
-
-Macmillan
+A. Macmillan
 
 
 [^1]: The sense of this is presumably \'your large law paper\'.

@@ -1,7 +1,7 @@
 ---
 id: 2143
 title: To the Reverend John Frewen Moor
-date: '1867-01-01'
+iso-date: '1867-01-01'
 display-date: Jan 3d [1867]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -17,5 +17,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Envelope addressed to \'The Revd/ J F Moor/Ampfield Parsonage/ Romsey.\' and postmarked Winchester Ja 3/67.
 [^2]: The parish entertainment being arranged in letter to Moor, 28 December 1866.

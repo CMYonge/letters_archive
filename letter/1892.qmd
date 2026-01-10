@@ -1,7 +1,7 @@
 ---
 id: 1892
 title: To Ann Maria Carter Smith
-date: '1863-06-11'
+iso-date: '1863-06-11'
 display-date: June 11th [1863]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,16 +11,9 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1863/4
 
 My dear [Miss Smith](/person/263),
 I am half afraid of plunging into a tour because I have got so many on hand, that Eastern journal is indeed printed to the end, but I cannot get it in, and the Journal in Holland lingers on, and I have some Italian letters that I grieve not to have got in, so on the whole I think I had better decline yours, though if I had not been so ‘furred up’ as Hants people say I should have liked it very much.
-I must confess to having betrayed you to [Florence Wilford ](/person/1520) She so very nearly knew that I was obliged to tell, but I think she is very discreet.
-
-She has been staying a long time with [her aunt](/person/384) nursing a sprained foot, but is now gone home.
+I must confess to having betrayed you to [Florence Wilford](/person/1520) She so very nearly knew that I was obliged to tell, but I think she is very discreet. She has been staying a long time with [her aunt](/person/384) nursing a sprained foot, but is now gone home.
 I heard of nothing amiss about the postage of your last proofs.
 
 yours sincerely
 
 C M Yonge
-
-
-[^1]: Black edged paper, black engraved address Otterbourne, / Winchester, the word Elderfield added above Otterbourne.
-
-Envelope addressed to Miss Smith / 8 Wellington Buildings/ Charlton/ SE and postmarked Winchester 11 June 1863 and London SE (date illegible).

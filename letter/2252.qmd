@@ -1,7 +1,7 @@
 ---
 id: 2252
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1868-06-10'
+iso-date: '1868-06-10'
 display-date: June 10 1868
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -10,8 +10,5 @@ manuscript-location: Copy outletter book British Library Add MSS.55387 (1) P. 44
 
 Dear Miss Yonge,
 I shall certainly be here between 3& 5 on Friday, unless something quite unforeseen falls out, and be very glad to see you.
-
 Yours very faithfully
-[A.
-
-Macmillan](/person/939)
+[A. Macmillan](/person/939)

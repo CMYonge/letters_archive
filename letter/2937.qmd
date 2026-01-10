@@ -1,22 +1,16 @@
 ---
 id: 2937
 title: To Anne Yonge
-date: '1838-08-01'
+iso-date: '1838-08-01'
 display-date: '[late August 1838]'
 from-name: Charlotte Mary Yonge
 to-name: To Anne Yonge
-manuscript-location: MS location unknown.  This fragment printed by Coleridge, <i>Life</i>,
+manuscript-location: MS location unknown. This fragment printed by Coleridge, <i>Life</i>,
   140.
 ---
 
-On my birthday[^1] I went to breakfast with [Mr.
-
-Keble](/person/798), and then after I had my examination, or rather Mr.
-
-Keble talking about the catechism to me so kindly.[^2]
+On my birthday[^1] I went to breakfast with [Mr. Keble](/person/798), and then after I had my examination, or rather Mr. Keble talking about the catechism to me so kindly.[^2]
 
 
 [^1]: Her fifteenth birthday was 11 August 1838.
-[^2]: CMY recalled in Musings over the Christian Year, iv: ‘it was as a kind of outlying sheep that I was allowed to be prepared by him for the confirmation of the year 1838. I went to him twice a-week from August to October, and after the first awe, the exceeding tenderness and gentleness of his treatment made me perfectly at home with him . . .
-
-After examining into the true import of Confirmation, he went through the Catechism with me, dwelling (when we came to the Commandments) on the point that the whole Israelite nation stood as the type of each Christian person, so that what was said to them nationally applies to us each individually.’
+[^2]: CMY recalled in Musings over the Christian Year, iv: ‘it was as a kind of outlying sheep that I was allowed to be prepared by him for the confirmation of the year 1838. I went to him twice a-week from August to October, and after the first awe, the exceeding tenderness and gentleness of his treatment made me perfectly at home with him . . . After examining into the true import of Confirmation, he went through the Catechism with me, dwelling (when we came to the Commandments) on the point that the whole Israelite nation stood as the type of each Christian person, so that what was said to them nationally applies to us each individually.’

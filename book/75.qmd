@@ -2,8 +2,8 @@
 id: 75
 title: '“Children’s literature of the last century: II. - Didactic fiction.” By Miss
   Yonge.'
-author: Charlotte Mary Yonge
-date: '1869'
+author-name: Charlotte Mary Yonge
+publication-date: '1869'
 genre: 'Non-fiction: criticism'
 publication-format: Article in Journal
 publisher: Not reprinted in volume form

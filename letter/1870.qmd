@@ -1,7 +1,7 @@
 ---
 id: 1870
 title: To Frances Sophia Coleridge Patteson
-date: '1862-08-06'
+iso-date: '1862-08-06'
 display-date: Aug 6th [1862]
 from-name: Charlotte Mary Yonge
 from-address: Baldersby
@@ -10,18 +10,7 @@ manuscript-location: 'MS UCLA: collection 100: box 95'
 ---
 
 My dear [Fanny](/person/1151),
-Your letter came to me safely yesterday, and very glad I am of the prospect it holds out. I wrote to Mr Raikes[^1] at once letting him [know] that it was just what I should like, but that he had better send it to me when I get home which I do not think will be till the end of October. I find it so very difficult to get a MS read away from home, and I could not begin it just yet—I believe we shall go on to the Scottish Border on Tuesday, but I shall be very sorry to leave this delightful Church to say nothing of the people.
-
-It was particularly pleasant to receive the [Eton boy ](/person/1533)with his prize, and excellent character in which the sole complaint was of his proneness to unquenchable laughter!
-
-You will have been glad to see the notice that the [Bell fund](/topic/103) has “attained its object” and the Bells are really bought. I had a nice little meeting with [Lady Lucy Herbert](/person/679) to rejoice over them, and it was nice to hear how warmly [Lady Powys](/person/1871) spoke of your Kate, calling her such a very nice pleasant girl, and specially commending her for being so tall, without being all legs and arms. I wish you were able to give a better account of yourself, but I do think Alice’s bright face must do you good and I hope you will be up to enjoying her visit.
-
-We had George here for last Sunday on his way home from Scotland, and we heard him preach—which we never should have done in our own country. I hope you will read the little book of collected stories which [Juliana Gatty](/person/494) has brought out, there are two besides those in the MP far more beautiful. I do not know which is the most lovely.
-
-The Viscount’s Friend is perhaps the most beautiful—yet Friedrich’s Ballad went home to my very heart, and it is such fun too!
-
-Your Black Mountain we liked greatly, there was something very engaging in it, but I wish more justice had been done to it in the picture, for how the child got on top of the sticks I cannot think! [Miss Warren](/person/1475) spent a Sunday here and was very nice and good in her quaint merry way.
-
+Your letter came to me safely yesterday, and very glad I am of the prospect it holds out. I wrote to Mr Raikes[^1] at once letting him [know] that it was just what I should like, but that he had better send it to me when I get home which I do not think will be till the end of October. I find it so very difficult to get a MS read away from home, and I could not begin it just yet—I believe we shall go on to the Scottish Border on Tuesday, but I shall be very sorry to leave this delightful Church to say nothing of the people. It was particularly pleasant to receive the [Eton boy](/person/1533)with his prize, and excellent character in which the sole complaint was of his proneness to unquenchable laughter! You will have been glad to see the notice that the [Bell fund](/topic/103) has “attained its object” and the Bells are really bought. I had a nice little meeting with [Lady Lucy Herbert](/person/679) to rejoice over them, and it was nice to hear how warmly [Lady Powys](/person/1871) spoke of your Kate, calling her such a very nice pleasant girl, and specially commending her for being so tall, without being all legs and arms. I wish you were able to give a better account of yourself, but I do think Alice’s bright face must do you good and I hope you will be up to enjoying her visit. We had George here for last Sunday on his way home from Scotland, and we heard him preach—which we never should have done in our own country. I hope you will read the little book of collected stories which [Juliana Gatty](/person/494) has brought out, there are two besides those in the MP far more beautiful. I do not know which is the most lovely. The Viscount’s Friend is perhaps the most beautiful—yet Friedrich’s Ballad went home to my very heart, and it is such fun too! Your Black Mountain we liked greatly, there was something very engaging in it, but I wish more justice had been done to it in the picture, for how the child got on top of the sticks I cannot think! [Miss Warren](/person/1475) spent a Sunday here and was very nice and good in her quaint merry way.
 Your very affectionate
 
 C M Yonge

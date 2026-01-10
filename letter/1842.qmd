@@ -1,7 +1,7 @@
 ---
 id: 1842
 title: To Henrietta Elizabeth Fursdon
-date: '1861-11-19'
+iso-date: '1861-11-19'
 display-date: Novr 19th 1861
 from-name: Charlotte Mary Yonge
 to-name: To Henrietta Elizabeth Fursdon
@@ -9,13 +9,8 @@ manuscript-location: MS Mrs Katherine Wykes-Sneyd
 ---
 
 My dear [Irene](/person/538)
-No wonder the poet was puzzled!
-
-It is a very comical adventure in the annals of [Goosedom](/topic/104)! I agree with [Mrs Martyn](/person/974) in thinking your first question excellent, and your second is very good, but No. 3 seemed to me too big a question.
-
-Only think how much there is to say about a county, even if you gave but one line to each event that happened! I was asked to write a history of Hampshire, and I have not begun it yet, being fairly afraid of the quantity of work it will involve. I much more liked the question you talked of on the journey (or rather flight of geese) of the difference between stupid and silly.
+No wonder the poet was puzzled! It is a very comical adventure in the annals of [Goosedom](/topic/104)! I agree with [Mrs Martyn](/person/974) in thinking your first question excellent, and your second is very good, but No. 3 seemed to me too big a question. Only think how much there is to say about a county, even if you gave but one line to each event that happened! I was asked to write a history of Hampshire, and I have not begun it yet, being fairly afraid of the quantity of work it will involve. I much more liked the question you talked of on the journey (or rather flight of geese) of the difference between stupid and silly.
 I think we must take care not to have too much history, or else one sort of mind will always be foremost.
-
 About the one question for the prize, I have one in my head, and have proposed it to the [Secretary](/person/351) but I have not yet got an answer. I suppose she is wanting to discuss it with Mrs Martyn, if you see her, tell her I hope she will answer in time for me to put it in Mother Goose’s letter - as that will save my writing at least nine. [Humble Bee](/person/81) rode here yesterday to talk it over. I am so glad to have had that little meeting, and I think we made a good deal of use of our time.
 your affectionate
 Mother Goose

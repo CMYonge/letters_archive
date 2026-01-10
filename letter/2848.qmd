@@ -1,7 +1,7 @@
 ---
 id: 2848
 title: To Mary Elizabeth Sumner
-date: '1887-01-10'
+iso-date: '1887-01-10'
 display-date: Jan 10th 1887
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester.
@@ -15,6 +15,3 @@ I shall be very happy to come to luncheon on Thursday Please do not wait for me 
 yours sincerely
 
 C M Yonge
-
-
-[^1]: Envelope addressed to Mrs Sumner/ The Close/ Winchester and postmarked Winchester 10 January 1887.

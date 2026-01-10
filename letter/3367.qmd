@@ -1,23 +1,17 @@
 ---
 id: 3367
 title: To Anna Meredith Barrett Lennard?
-date: '1898-01-28'
+iso-date: '1898-01-28'
 display-date: Jany 28th 1898
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
 to-name: To Anna Meredith Barrett Lennard?
-manuscript-location: 'MS Bodleian Library, Oxford: MSS. Autogr.  d.19 ff 179-80'
+manuscript-location: 'MS Bodleian Library, Oxford: MSS. Autogr. d.19 ff 179-80'
 ---
 
 My dear [Mrs Lennard](/person/121)[^1]
-It shews indeed that it is long since we heard of one another, that you did not know that my dear [Gertrude Walter](/person/1462) died, on the 20th of last May, after a winter and spring of much increased suffering, nursed by her sisters.
-
-You will be interested to hear that she left her stamps to be sold for the [Melanesian Missio](/organisation/30)n.
-
-Of course they did not bring in what she expected, but they did come to £106, in which we rejoiced
-I gave [Miss Finlaison ](/person/512)your message, and probably she will write to you.
-
-She is just collecting her flock again.
+It shews indeed that it is long since we heard of one another, that you did not know that my dear [Gertrude Walter](/person/1462) died, on the 20th of last May, after a winter and spring of much increased suffering, nursed by her sisters. You will be interested to hear that she left her stamps to be sold for the [Melanesian Missio](/organisation/30)n. Of course they did not bring in what she expected, but they did come to £106, in which we rejoiced
+I gave [Miss Finlaison](/person/512)your message, and probably she will write to you. She is just collecting her flock again.
 I am very sorry to hear of your troubles but I am afraid I can see nothing to suggest to you, and I do not know of anyone needing to reside in Germany
 
 Yours sincerely
@@ -25,8 +19,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: This and subsequent letters to Mrs C.E.
-
-Barrett Lennard, who seems to have lived in Germany, and was presumably the author of the fiction which appeared under that name, are cautiously assigned to Anna Meredith (Harris) Barrett Lennard (1847/8-1940), daughter of Chaplin Aaron Harris of Evergreen, Baltimore USA, who married (4 Dec 1873), as his second wife, Charles Edward Barrett Lennard (1835-July 1874).
-
-In the 1881 census she describes herself as \'teacher and author\'.
+[^1]: This and subsequent letters to Mrs C.E. Barrett Lennard, who seems to have lived in Germany, and was presumably the author of the fiction which appeared under that name, are cautiously assigned to Anna Meredith (Harris) Barrett Lennard (1847/8-1940), daughter of Chaplin Aaron Harris of Evergreen, Baltimore USA, who married (4 Dec 1873), as his second wife, Charles Edward Barrett Lennard (1835-July 1874). In the 1881 census she describes herself as \'teacher and author\'.

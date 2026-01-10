@@ -1,7 +1,7 @@
 ---
 id: 3341
 title: To an unknown woman
-date: '1897-02-19'
+iso-date: '1897-02-19'
 display-date: Febry 19th 1897
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester

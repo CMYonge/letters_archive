@@ -1,7 +1,7 @@
 ---
 id: 3156
 title: To Arthur Donald Innes
-date: '1890-05-17'
+iso-date: '1890-05-17'
 display-date: May 17th 1890
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,23 +10,13 @@ manuscript-location: MS Girton College Cambridge, Yonge IV 19
 ---
 
 Dear [Mr Innes](/person/744)
-I am very sorry to see [Miss Cheape](/person/289)’s proof did not reach her.
-
-You told me about a month ago that she had sent a fresh address but as I had sent her the proof of Mr Valentine full a month before - (or rather I knew it had been sent) I did not suppose it applied People never forward proofs, they always take them for advertisements.
-
+I am very sorry to see [Miss Cheape](/person/289)’s proof did not reach her. You told me about a month ago that she had sent a fresh address but as I had sent her the proof of Mr Valentine full a month before - (or rather I knew it had been sent) I did not suppose it applied People never forward proofs, they always take them for advertisements.
 By the by today’s post brings me a complaint of this [advertisement](/topic/217) fastened into the [Packet](/periodical/52) - I am afraid there is no escaping what to me is an absolute nuisance, and if other people were like me would be a detriment to the sale of things so obtruded.
-
 The [Newbery magazine](/periodical/83) writes to ask for my biography - I answer that I have always set my face against publishing people’s lives when they are alive, and that I decline decidedly.
 I think I had better write to [Miss Gaye](/person/552) that not being proprietor, my editorial engagements must always be subject to the arrangements of the publisher, so that the new plan throws me out.
 I do not know if it is personal feeling but I had rather make the [Cameos](/book/240) shorter than leave them out alternately. I know (for instance) that they are the one thing the [Dean of Lincoln](/person/244) always reads.
-
 However, it is impossible to please everybody. I thought the call was for more, not fewer miscellaneous articles
 
 Yours truly
 
 C M Yonge
-
-
-[^2]: W.J.
-
-Butler.

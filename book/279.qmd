@@ -2,8 +2,8 @@
 id: 279
 title: \'Church of the Holy Trinity, Winchester\' by C. M. Y. [No. 11 in the Cathedral
   Sketches series]
-author: Charlotte Mary Yonge
-date: '1857'
+author-name: Charlotte Mary Yonge
+publication-date: '1857'
 genre: Non-fiction, history
 publication-format: Article in Journal
 publisher: MP (March 1857) 303-18

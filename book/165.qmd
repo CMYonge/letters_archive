@@ -1,17 +1,11 @@
 ---
 id: 165
 title: 'Miz Maze, or, The Winkworth Puzzle: A Story in Letters by Nine Authors, The'
-author: Charlotte Mary Yonge
-date: '1883'
+author-name: Charlotte Mary Yonge
+publication-date: '1883'
 genre: Fiction
 publication-format: Book
 publisher: Macmillan and Co., London.
 ---
 
-The signatures of the nine authors appear on the reverse of the title page.
-
-They are: Frances Awdry, Mary Bramston, Christabel Rose Coleridge, A.E.
-
-Mary Anderson Morshead, Charlotte Mary Yonge, Frances Mary Peard, Mary Susanna Lee, Eleanor C.
-
-Price, Florence Wilford.
+The signatures of the nine authors appear on the reverse of the title page. They are: Frances Awdry, Mary Bramston, Christabel Rose Coleridge, A.E. Mary Anderson Morshead, Charlotte Mary Yonge, Frances Mary Peard, Mary Susanna Lee, Eleanor C. Price, Florence Wilford.

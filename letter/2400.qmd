@@ -1,18 +1,14 @@
 ---
 id: 2400
 title: To Edith Emily Moberly
-date: '1871-03-02'
-display-date: '[March 1871[[footnote:2]]]'
+iso-date: '1871-03-02'
+display-date: '[March 1871]'
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne.
 to-name: To Edith Emily Moberly
-manuscript-location: MS location unknown.  This fragment printed in [[otherbook:122]<i>Dulce
+manuscript-location: MS location unknown. This fragment printed in [[otherbook:122]<i>Dulce
   Domum</i>], 231-2.
 ---
 
 My dear [Emily](/person/1012),
 An odd question, but can you tell me what [Edward](/person/1013) first taught himself on the violin? I want Lance Underwood to do it, and must mention some tune . . .
-
-
-[^1]: Edith Emily Moberly (b.1839), third daughter of George Moberly.
-[^2]: The date is implied by its position in Dulce Domum.

@@ -1,7 +1,7 @@
 ---
 id: 19064
 title: To Margaret Julia Argles
-date: '1879-07-17'
+iso-date: '1879-07-17'
 display-date: July 17th 1879
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,35 +10,11 @@ manuscript-location: MS copy Lady Margaret Hall Wordsworth MSS Box 7 Bundle 1
 ---
 
 My dear [Julia](/person/57)
-I shall be very happy to see [Mr.
-
-Willingham](/person/1225) if he cares to call on me, but I am afraid the only effect will be the passing call, as I live in such a quiet way, and it is a good way off, as Winton House is quite on the other side of Winchester.[^2] I have great hopes of [Elizabeth Wordsworth](/person/1566)'s [College](/organisation/6). I am very anxious about it by way of antidote and I have great confidence in her and her power of influencing, and I think it is great gain to get a girl like your [Edith](/person/56), not very young, and with formed, steadied principles at the first start upon which everything really turns.
-
-They tell Miss Wordsworth at [Girton](/organisation/201) that she will find it impossible to keep up individual influence or supervision but I expect that it will proved that it is the religious spirit that just makes the difference in that way.
-
-And so [Marsham](/person/2413) follows his work to India.[^3] I should think the [Bishop of Calcutta](/person/2412) a very delightful person to work with, I met him just before he went out.
-
-This letter would get on better if there were not six people in the room, most of them talking.
-
-Are you washed away as well as everyone else?
-
+I shall be very happy to see [Mr. Willingham](/person/1225) if he cares to call on me, but I am afraid the only effect will be the passing call, as I live in such a quiet way, and it is a good way off, as Winton House is quite on the other side of Winchester.[^2] I have great hopes of [Elizabeth Wordsworth](/person/1566)'s [College](/organisation/6). I am very anxious about it by way of antidote and I have great confidence in her and her power of influencing, and I think it is great gain to get a girl like your [Edith](/person/56), not very young, and with formed, steadied principles at the first start upon which everything really turns. They tell Miss Wordsworth at [Girton](/organisation/201) that she will find it impossible to keep up individual influence or supervision but I expect that it will proved that it is the religious spirit that just makes the difference in that way. And so [Marsham](/person/2413) follows his work to India.[^3] I should think the [Bishop of Calcutta](/person/2412) a very delightful person to work with, I met him just before he went out. This letter would get on better if there were not six people in the room, most of them talking. Are you washed away as well as everyone else?
 Your affectionate
 
 C M Yonge
 
 
-[^1]: The MS copy is endorsed \'Letter from Miss C. M.
-
-Yonge to Mrs Argles, Barnack Rectory, Stamford\' and \'[Lent by Mrs Thicknesse, Medcroft, Winchester 16. viii. 36]\'.
-
-According to the Lady Margaret Hall archivist, Mr Oliver Mahony, the copyist was Elsie Jameson.
-
-Mrs Thicknesse was probably [Agnes Thicknesse](/person/1401), sister of Edith Argles.
-[^2]: Willingham Rawnsley, the fiancé of Julia Argles\'s daughter Alice, was taking over the prep school at Winton House, just outside Winchester, started by the Rev. [C. A.
-
-Johns](/person/769).
-[^3]: Julia Argles\'s third son, the Rev.
-
-Marsham Frederic Argles (1852-1883) must be referred to here.
-
-He was briefly attached to the Oxford Mission in Calcutta before returning to England to die.
+[^2]: Willingham Rawnsley, the fiancé of Julia Argles\'s daughter Alice, was taking over the prep school at Winton House, just outside Winchester, started by the Rev. [C. A. Johns](/person/769).
+[^3]: Julia Argles\'s third son, the Rev. Marsham Frederic Argles (1852-1883) must be referred to here. He was briefly attached to the Oxford Mission in Calcutta before returning to England to die.

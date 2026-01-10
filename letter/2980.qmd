@@ -1,7 +1,7 @@
 ---
 id: 2980
 title: To Elizabeth Roberts
-date: '1851-11-13'
+iso-date: '1851-11-13'
 display-date: Novr 13th [1851]
 from-name: Charlotte Mary Yonge
 to-name: To Elizabeth Roberts
@@ -10,21 +10,8 @@ manuscript-location: 'MS Huntington Library: Yonge Letters.'
 
 [Madam](/person/243),
 I return my best thanks for your pretty papers on Flowers. I should prefer giving them the title of “[A Garland for the Year](/topic/225)” instead of that of “Holy Flowers” as it is just possible that someone might take offence at the latter.[^1]
-I should wish also to omit the last sentence of the 25th March, in which you say that the festival is observed with great solemnity in all Catholic countries, but in ours chiefly noticed as Quarter Day.
-
-It is unfortunately quite true, that there is something in the expression that seems to exclude this from being a Catholic country.
-
-The subject of the Flowers appropriate to Saints is one in which I have taken much interest, though I never was able to gather so much information as you have brought together.
-
-However as you say you are on the watch for other Saints’ Flowers, I will mention one or two that have occurred to me, and which I missed amongst your.
-
-Is not the Rose sacred to St Elizabeth of Hungary?
-
-St Patrick’s shamrock, and three more of the Bleessed Virgin’s flowers I also missed, the clematis, the Lady’s Smock, the Lady’s bedstraw, to which I suppose I may add the Lady’s Tresses. I have heard too that the Columbine is dedicated to the Seven Sleepers, and it occurs in the calendar in Queen Mary Tudor’s Prayer book in the British Museum, but I cannot tell on what day. I observe too that you have not noticed the little Lotus Corniculatus, and I am sure that there must [be] some legend connected with it, as the trivial name in some places is ‘Lady’s Fingers’ and one country girl said she had heard it called ‘GOD ALMIGHTY’S Fingers.’[^2] I believe that it is in some way connected with the Resurrection, probably through the old heathen notion that the Lotus conferred immortality, of which it must thus have become an emblem.
-
-Last year in the British Institution there was a picture by Titian of the supper at Emmaus, where some black pods were represented on the table, and a lady who had been a good deal abroad told me that these were Lotoses, [sic] and that they frequently occurred in pictures representing scenes after the Resurrection.[^3] Herb Trinity and the Wood Sorrel both belong to Trinity Sunday.
+I should wish also to omit the last sentence of the 25th March, in which you say that the festival is observed with great solemnity in all Catholic countries, but in ours chiefly noticed as Quarter Day. It is unfortunately quite true, that there is something in the expression that seems to exclude this from being a Catholic country. The subject of the Flowers appropriate to Saints is one in which I have taken much interest, though I never was able to gather so much information as you have brought together. However as you say you are on the watch for other Saints’ Flowers, I will mention one or two that have occurred to me, and which I missed amongst your. Is not the Rose sacred to St Elizabeth of Hungary? St Patrick’s shamrock, and three more of the Bleessed Virgin’s flowers I also missed, the clematis, the Lady’s Smock, the Lady’s bedstraw, to which I suppose I may add the Lady’s Tresses. I have heard too that the Columbine is dedicated to the Seven Sleepers, and it occurs in the calendar in Queen Mary Tudor’s Prayer book in the British Museum, but I cannot tell on what day. I observe too that you have not noticed the little Lotus Corniculatus, and I am sure that there must [be] some legend connected with it, as the trivial name in some places is ‘Lady’s Fingers’ and one country girl said she had heard it called ‘GOD ALMIGHTY’S Fingers.’[^2] I believe that it is in some way connected with the Resurrection, probably through the old heathen notion that the Lotus conferred immortality, of which it must thus have become an emblem. Last year in the British Institution there was a picture by Titian of the supper at Emmaus, where some black pods were represented on the table, and a lady who had been a good deal abroad told me that these were Lotoses, [sic] and that they frequently occurred in pictures representing scenes after the Resurrection.[^3] Herb Trinity and the Wood Sorrel both belong to Trinity Sunday.
 I will return the Stories on the Calendar in a day or two, but I am at present from home, and have not access to my hoard of mss. I am inclined to think it best not to avail myself of them.
-
 With many thanks
 
 Yours sincerely

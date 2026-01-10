@@ -1,21 +1,17 @@
 ---
 id: 3391
 title: To Frederick Orridge Macmillan
-date: '1899-01-01'
+iso-date: '1899-01-01'
 display-date: '1899'
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
 to-name: To Frederick Orridge Macmillan
-manuscript-location: 'MS British Library  Add MSS 54921: 254'
+manuscript-location: 'MS British Library Add MSS 54921: 254'
 ---
 
 Dear [Mr Macmillan](/person/942)
 I have been looking for [Innes](/person/744)’s accounts, (I send the agreement drawn up with him and Tanner in /93.) but there is no mention of the [Castle builders](/book/18) in it[^1] nor in any of the subsequent accounts, which go to /96. I cannot find a later one, though I should have thought there would have been one in /97.
-I think the book must have been out of print when he took the business over from [Walter Smith](/person/1344). I know there has been a recent reprint, within the last 3 or 4 years, but I see no trace of [payment](/topic/102) for royalty in /96.
-
-The book was a very early one republished by [Mozley](/organisation/108) after appearing in the [Monthly Packet](/periodical/52), and must have been handed on through Smith nor do I believe that Innes sent me any agreement before the reprint, but I cannot speak with certainty, nor tell the date, as I have not the book so you had better act as may be best.
-
-Can Innes shew that he paid me Royalty or (within the last years) was it absorbed in other accounts?
+I think the book must have been out of print when he took the business over from [Walter Smith](/person/1344). I know there has been a recent reprint, within the last 3 or 4 years, but I see no trace of [payment](/topic/102) for royalty in /96. The book was a very early one republished by [Mozley](/organisation/108) after appearing in the [Monthly Packet](/periodical/52), and must have been handed on through Smith nor do I believe that Innes sent me any agreement before the reprint, but I cannot speak with certainty, nor tell the date, as I have not the book so you had better act as may be best. Can Innes shew that he paid me Royalty or (within the last years) was it absorbed in other accounts?
 I have little books in wrappers sold well at first, but afterwards did not succeed, being undersold by [SPCK](/organisation/40) but I have been asked several times lately for [Questions on the Catechism](/book/253)[^2]
 [Countess Kate](/book/44) and [the Stokesley Secret](/book/41) join into the [Daisy Chain](/book/24) series and might have a sale.
 [Beginnings of Church History](/book/119) and [Talks about Laws](/book/160) are perhaps superseded and [Kings of England](/book/6) is already obsolete for schools

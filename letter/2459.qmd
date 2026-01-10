@@ -1,7 +1,7 @@
 ---
 id: 2459
 title: To Christabel Rose Coleridge
-date: '1872-11-02'
+iso-date: '1872-11-02'
 display-date: Novr 2nd [1872]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,11 +10,7 @@ manuscript-location: MS Mrs Clare Roels
 ---
 
 My dear [Christabel](/person/329)
-Here are the [Answers](/topic/104) All to one question! I have read Hanbury Mills once to myself and am now reading it to poor [Gertrude](/person/1462) who enjoys it exceedingly – I like it very much indeed – there is so much character in the three degrees of refusement, and all the people seem to me very successful- Wilfred and Frank especially & Mrs Bridgewater and Joe.
-
-By the by in 108 & 9 you have twice made Prince Rupert speak, if one goes by the Antecedents & Nominatives - I think the hitch is why Scott never suspected Foster first or last till Joe discovered it.
-
-But the way Patience is raised is very touching and charming – I think it has more life in it than Lady Betty Pray send me more Face
+Here are the [Answers](/topic/104) All to one question! I have read Hanbury Mills once to myself and am now reading it to poor [Gertrude](/person/1462) who enjoys it exceedingly – I like it very much indeed – there is so much character in the three degrees of refusement, and all the people seem to me very successful- Wilfred and Frank especially & Mrs Bridgewater and Joe. By the by in 108 & 9 you have twice made Prince Rupert speak, if one goes by the Antecedents & Nominatives - I think the hitch is why Scott never suspected Foster first or last till Joe discovered it. But the way Patience is raised is very touching and charming – I think it has more life in it than Lady Betty Pray send me more Face
 your affectionate
 
 C M Yonge

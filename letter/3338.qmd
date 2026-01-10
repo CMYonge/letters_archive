@@ -1,18 +1,16 @@
 ---
 id: 3338
 title: To Frederick Orridge Macmillan
-date: '1897-01-01'
+iso-date: '1897-01-01'
 display-date: Jan 1st 1897
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
 to-name: To Frederick Orridge Macmillan
-manuscript-location: 'MS British Library  Add MSS 54921: 224'
+manuscript-location: 'MS British Library Add MSS 54921: 224'
 ---
 
 Dear [Mr Macmillan](/person/942)
-I like the appearance of the proof copy of [the Ben Beriah](/book/243) very much and perhaps it would be best to work out the edition.
-
-The doubt in my mind would be whether it will be favorably [sic] received as ranging with my tales and novels. I suppose there is no possibility of adding a preface now, I had not put one because it would not have suited in [St Nicholas](/periodical/88), and I thought to prepare it afterwards. I had also thought of asking if it could have a few landscape illustrations, the plain at the base of Mount Sinai especially but perhaps all this had better wait for consideration till we see how the first edition succeeds.
+I like the appearance of the proof copy of [the Ben Beriah](/book/243) very much and perhaps it would be best to work out the edition. The doubt in my mind would be whether it will be favorably [sic] received as ranging with my tales and novels. I suppose there is no possibility of adding a preface now, I had not put one because it would not have suited in [St Nicholas](/periodical/88), and I thought to prepare it afterwards. I had also thought of asking if it could have a few landscape illustrations, the plain at the base of Mount Sinai especially but perhaps all this had better wait for consideration till we see how the first edition succeeds.
 I think it will ultimately become a book for school rewards
 But if you think it best to publish it as it is, I fully consent
 

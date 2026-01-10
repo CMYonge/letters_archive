@@ -1,7 +1,7 @@
 ---
 id: 1891
 title: To Jane Margaret Hooper
-date: '1863-06-01'
+iso-date: '1863-06-01'
 display-date: June 3d [1863]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester
@@ -14,11 +14,4 @@ I do not think [Miss Gilbert’](/person/1878)s [Instution](/organisation/1) [si
 “Yes my dear-”
 “Then please say for me, that it is Lady ---’s little girl, and she has such a bad taste in her mouth that she cannot say her prayers”
 Yours very truly
-C.M.
-
-Yonge
-
-
-[^1]: Black-edged paper.
-
-The word Elderfield is inserted by hand; ‘Otterbourne, Winchester.’ is printed; a date of 1863 is therefore suggested.
+C.M. Yonge

@@ -1,7 +1,7 @@
 ---
 id: 2166
 title: To Edith Sophia Jacob
-date: '1867-04-27'
+iso-date: '1867-04-27'
 display-date: April 27th [1867]
 from-name: Charlotte Mary Yonge
 to-name: To Edith Sophia Jacob
@@ -9,20 +9,13 @@ manuscript-location: MS Charlotte Mitchell
 ---
 
 My dear [Edith](/person/749)
-Having always so heard and thought of you it seems the more natural. I was sending a parcel to [Dr Moberly](/person/1015)’s, and so put yours with it.
-
-Alas - what shall we do when it is Dr Moberly’s no longer-![^2] You will find, shut into the book a paraphrase of some lines in German that [Alexandrine](/person/1988) wrote when she sold her pearl necklace - they were written out from the [Month](/periodical/91).[^3] I mention it lest you should find the paper astray and be at a loss where it came from.
-
+Having always so heard and thought of you it seems the more natural. I was sending a parcel to [Dr Moberly](/person/1015)’s, and so put yours with it. Alas - what shall we do when it is Dr Moberly’s no longer-![^2] You will find, shut into the book a paraphrase of some lines in German that [Alexandrine](/person/1988) wrote when she sold her pearl necklace - they were written out from the [Month](/periodical/91).[^3] I mention it lest you should find the paper astray and be at a loss where it came from.
 The gates of Paradise are gone to the printer and I shall probably send you a proof in about a fortnight.
-
 Have you seen the Copsley Annals, it is a very pretty book that does not seem to be enough known, and it is just the thing for superior village libraries.
 yours very sincerely
 
 C M Yonge
 
 
-[^1]: Black-edged paper. CMY used black-edged paper for all the letters we have found dating from the next two and a half months.
 [^2]: George Moberly resigned as headmaster of Winchester College in 1866 but the family’s holiday home, Field House, remained theirs until July 1868.
-[^3]: Alexandrine de la Ferronnays, sister-in-law of Pauline Craven; her adventures are described in the latter\'s Récit d’une soeur .
-
-In [The Pillars of the House](/book/109) Mr Audley likens Sister Constance to her.
+[^3]: Alexandrine de la Ferronnays, sister-in-law of Pauline Craven; her adventures are described in the latter\'s Récit d’une soeur . In [The Pillars of the House](/book/109) Mr Audley likens Sister Constance to her.

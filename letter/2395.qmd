@@ -1,12 +1,12 @@
 ---
 id: 2395
 title: To Bell and Daldy
-date: '1870-12-12'
+iso-date: '1870-12-12'
 display-date: Decr 12th 1870
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester
 to-name: To Bell and Daldy
-manuscript-location: MS  Reading University Library, uncatalogued Bell MSS/2
+manuscript-location: MS Reading University Library, uncatalogued Bell MSS/2
 ---
 
 [Gentlemen](/organisation/135)
@@ -17,6 +17,4 @@ yours faithfully
 C M Yonge
 
 
-[^1]: The book was eventually published by Warne as Henriette Guizot de Witt, [Dames of High Estate](/book/100), the translations edited by Charlotte M.
-
-Yonge (1871).
+[^1]: The book was eventually published by Warne as Henriette Guizot de Witt, [Dames of High Estate](/book/100), the translations edited by Charlotte M. Yonge (1871).

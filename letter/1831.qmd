@@ -1,7 +1,7 @@
 ---
 id: 1831
 title: To Jane Augusta Merriman
-date: '1861-05-28'
+iso-date: '1861-05-28'
 display-date: May 28th 1861
 from-name: Charlotte Mary Yonge
 to-name: To Jane Augusta Merriman
@@ -9,11 +9,7 @@ manuscript-location: MS Winchester College Library
 ---
 
 My dear [Mrs Merriman](/person/992),
-[Mrs Collins](/person/360) will be thankful to have the time till August to get [Anne](/person/361)’s clothes ready, and give her the final instructions in scrubbing &c[^1] She is quite satisfied with the terms, and has no doubt of her daughter’s strength, Anne has been in great anxiety for the answer, she wishes so much to be with her friend [Mary](/person/691).[^2] I do not think you will find her fail on the side of slowness or want of briskness.
-
-She is more likely to be inattentive but she is a thorough good girl, and ready to do plenty of hard work.
-
-Her mother is quite satisfied as to all arrangements, and I do not think there is any need of writing to her till you are ready to fix the day of Annie’s coming.
+[Mrs Collins](/person/360) will be thankful to have the time till August to get [Anne](/person/361)’s clothes ready, and give her the final instructions in scrubbing &c[^1] She is quite satisfied with the terms, and has no doubt of her daughter’s strength, Anne has been in great anxiety for the answer, she wishes so much to be with her friend [Mary](/person/691).[^2] I do not think you will find her fail on the side of slowness or want of briskness. She is more likely to be inattentive but she is a thorough good girl, and ready to do plenty of hard work. Her mother is quite satisfied as to all arrangements, and I do not think there is any need of writing to her till you are ready to fix the day of Annie’s coming.
 I wish Mary were more lively, but she has always been a very solid steady individual, and perhaps one values such qualities more in one’s first class at school than in a nursery
 
 yours sincerely
@@ -21,15 +17,5 @@ yours sincerely
 C M Yonge
 
 
-[^1]: Martha Collins (b. 1809/10), postmistress of Otterbourne, wife of George Collins (b. 1820/1), gardener, was preparing her daughter Anne Collins (b.1846/7), to go into service with Mrs Merriman, an arrangement CMY was brokering.
-
-It was quite usual for the \'ladies\' of a parish to make these arrangements for girls who had passed through the local school.
-[^2]: Mary Hicks (b.
-
-Hursley 1845/6) is recorded as nurserymaid to the Merrimans’ four small children in the census of 7 April 1861.
-
-She was the daughter of Edmund Hicks (1822/3), carpenter and wheelwright of Otterbourne, and his wife Mary Hicks (b. 1816/7).
-
-See the letter to J.A.
-
-Merriman dated 7 May 1862 for later developments in her career as a servant.
+[^1]: Martha Collins (b. 1809/10), postmistress of Otterbourne, wife of George Collins (b. 1820/1), gardener, was preparing her daughter Anne Collins (b.1846/7), to go into service with Mrs Merriman, an arrangement CMY was brokering. It was quite usual for the \'ladies\' of a parish to make these arrangements for girls who had passed through the local school.
+[^2]: Mary Hicks (b. Hursley 1845/6) is recorded as nurserymaid to the Merrimans’ four small children in the census of 7 April 1861. She was the daughter of Edmund Hicks (1822/3), carpenter and wheelwright of Otterbourne, and his wife Mary Hicks (b. 1816/7). See the letter to J.A. Merriman dated 7 May 1862 for later developments in her career as a servant.

@@ -1,12 +1,12 @@
 ---
 id: 2567
 title: To an Unknown Woman
-date: '1877-01-01'
+iso-date: '1877-01-01'
 display-date: Jany 3d 1877
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
 to-name: To an Unknown Woman
-manuscript-location: 'MS Bodleian Library, Oxford:  MS. Autogr. d.23 f116'
+manuscript-location: 'MS Bodleian Library, Oxford: MS. Autogr. d.23 f116'
 ---
 
 Dear Madam

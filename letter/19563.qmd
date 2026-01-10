@@ -1,7 +1,7 @@
 ---
 id: 19563
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1866-06-14'
+iso-date: '1866-06-14'
 display-date: June 14 1866
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -10,17 +10,11 @@ manuscript-location: Copy outletter book British Library Add MSS.55386 (1) P.160
 
 My dear Miss Yonge,
 
-Except for a possible visit to [illegible] Lodge on Saturday, whence I shall return on Monday, I will be at home all the 10 days from the 20th and it will be a great pleasure to me to see you. I have several matters which I should wish to talk over with you. I am sorry I can say little about  Mr J[illegible]  in [illegible] my dear [Sister-in-law](/person/941).
+Except for a possible visit to [illegible] Lodge on Saturday, whence I shall return on Monday, I will be at home all the 10 days from the 20th and it will be a great pleasure to me to see you. I have several matters which I should wish to talk over with you. I am sorry I can say little about  Mr J[illegible]  in [illegible] my dear [Sister-in-law](/person/941). We are not losing [illegible]  gaining ground.[^1]
 
-We are not losing [illegible]  gaining ground.[^1]
+The [dove](/book/62) is continuing a success with even the most captious critics, and is selling well in spite of a dull distressing season, caused by all these distressing bank failures. The year has revealed very un[golden deeds](/book/51).
 
-The [dove](/book/62) is continuing a success with even the most captious critics, and is selling well in spite of a dull distressing season, caused by all these distressing bank failures.
-
-The year has revealed very un[golden deeds](/book/51).
-
-How does the [chaplet of Pearls](/book/69) stand?
-
-You will tell me about it when I see you.
+How does the [chaplet of Pearls](/book/69) stand? You will tell me about it when I see you.
 
 Could you do a second series of Golden Deeds, or rather a companion volume, of the doers?[^2] Mr Craik has suggested a volume Heroes of History, and in talking it over it looks as if it might assume that form. I mention it now that you may think over it.
 
@@ -28,9 +22,7 @@ Could you do a second series of Golden Deeds, or rather a companion volume, of t
 
 Yours very faithfully,
 
-Alex.
-
-Macmillan
+Alex.  Macmillan
 
 
 [^1]: Frances Macmillan appears to have been very ill, but was recovering by September 6.

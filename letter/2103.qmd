@@ -1,7 +1,7 @@
 ---
 id: 2103
 title: To Alexander Macmillan
-date: '1866-02-05'
+iso-date: '1866-02-05'
 display-date: Febry 5th [1866]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,13 +11,8 @@ manuscript-location: 'MS British Library Add MSS 54920: 142-143'
 
 Dear [Mr Macmillan](/person/939),
 I should very much like [Miss Keary](/person/793)’s help in the [Sunday Library](/topic/145). [Mr Ashwell](/person/68) the Principal of the Training College at Durham is the gentleman I should most like to ask for help, but I had rather not ask him till we have the sanction of [Dr Vaughan](/person/1439)’s name.
-I only hope he (Mr A) may have time, but gentlemen are always so busy, and it is but a very select few who can hit off the exact medium between writing incomprehensibly to the young, and writing obtrusively down to them, especially on serious matters.
-
-Those who have the faculty write in perfection but it is a rare one!
-
-Thank you for your patient answer about Prof. [Goldwin Smith](/person/1343)’s article.[^1] It is not an argument that can be pursued, but at least I must say that no one can be more thoroughly in earnest than [Dr Pusey](/person/1215) in desiring an end to the unhappy divisions - against which our Church has ever prayed.
-
-Under certain conditions it must be, but it is like saying there must be war forever not to examine into those conditions.
+I only hope he (Mr A) may have time, but gentlemen are always so busy, and it is but a very select few who can hit off the exact medium between writing incomprehensibly to the young, and writing obtrusively down to them, especially on serious matters. Those who have the faculty write in perfection but it is a rare one!
+Thank you for your patient answer about Prof. [Goldwin Smith](/person/1343)’s article.[^1] It is not an argument that can be pursued, but at least I must say that no one can be more thoroughly in earnest than [Dr Pusey](/person/1215) in desiring an end to the unhappy divisions - against which our Church has ever prayed. Under certain conditions it must be, but it is like saying there must be war forever not to examine into those conditions.
 
 Yours sincerely
 

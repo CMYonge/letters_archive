@@ -1,8 +1,8 @@
 ---
 id: 2661
 title: To Edith Sophia Jacob
-date: '1883-02-19'
-display-date: Feb 19th [1883?[[footnote:1]]]
+iso-date: '1883-02-19'
+display-date: Feb 19th [1883?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
 to-name: To Edith Sophia Jacob
@@ -10,18 +10,8 @@ manuscript-location: MS Charlotte Mitchell
 ---
 
 My dear [Edith](/person/749)
-Your [scheme of Intercession](/organisation/47) is grand.
-
-It is rather like some of the Gilds mentioned in the SPCK History of the Diocese of York, which seem to have devoted themselves to special objects.
-
-One was in honor of the Lord's Prayer, and they even made a mystery play of it which they acted once a year.
-
+Your [scheme of Intercession](/organisation/47) is grand. It is rather like some of the Gilds mentioned in the SPCK History of the Diocese of York, which seem to have devoted themselves to special objects. One was in honor of the Lord's Prayer, and they even made a mystery play of it which they acted once a year.
 The care they took of the poor made it a cruel thing to break them up.
 your affectionate
 
 C M Yonge
-
-
-[^1]: The letter evidently dates after thefoundation in 1879 at the instigation of Edith Jacob, of the Society of Watchers and Workers, in which invalids dedicated themselves to pray for particular causes.
-
-The reference to Ornsby\'s history of the diocese of York, published in October 1882, makes 1883 the most likely February.

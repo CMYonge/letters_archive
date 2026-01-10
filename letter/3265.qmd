@@ -1,31 +1,20 @@
 ---
 id: 3265
 title: To Ethel Romanes
-date: '1894-05-01'
+iso-date: '1894-05-01'
 display-date: '[May 1894]'
 from-name: Charlotte Mary Yonge
 to-name: To Ethel Romanes
-manuscript-location: MS location unknown.  Printed in Romanes, [[otherbook:241]<i>Appreciation</i>],
+manuscript-location: MS location unknown. Printed in Romanes, [[otherbook:241]<i>Appreciation</i>],
   191-2.
 ---
 
 [To [Ethel Romanes](/person/1258)]
 Will you allow one who is almost a stranger to you personally, to express my deep sympathy and sorrow when I saw the notice in the paper of the awful blow that has fallen on you?[^1] I know from [Annie Moberly](/person/1024) of your great kindness on my birthday last year, and that leads me to hope that you will not feel a few words from an old woman an intrusion; though pray do not try to answer them, as I shall hear of you from Annie. I have thought of you in my prayers, and may you and your children have full comfort and joy in communion alike with those gone before and with the Comforter and great Head of the Church.
-A very dear friend of mine, [Mrs.
-
-Gibbs](/person/557), whose name you know in connection with [Keble College](/organisation/5), used to say that the losses of her [husband](/person/560) and several of her children had made ‘Therefore with Angels and Archangels,’ etc., more to her than ever.
-
-If you do not know William Tupper's sonnet, ‘Ye saints in Heaven, dear Jesu's Body Glorious, From Abel to the babe baptized but now,’ ask Annie to show it to you.[^2] [Mrs.
-
-Keble](/person/795) used to keep a copy in her pocket.
-
+A very dear friend of mine, [Mrs. Gibbs](/person/557), whose name you know in connection with [Keble College](/organisation/5), used to say that the losses of her [husband](/person/560) and several of her children had made ‘Therefore with Angels and Archangels,’ etc., more to her than ever. If you do not know William Tupper's sonnet, ‘Ye saints in Heaven, dear Jesu's Body Glorious, From Abel to the babe baptized but now,’ ask Annie to show it to you.[^2] [Mrs. Keble](/person/795) used to keep a copy in her pocket.
 Yours very sincerely,
 C. M. YONGE.
 
 
 [^1]: The early death of her husband [George John Romanes](/person/2136) (1848-23 May 1894).
-[^2]: In [Musings over the Christian Year](/book/88), 341, CMY had attributed the poem to Thomas Ken.
-
-It appears to have been the work of the Rev.
-
-William George Tupper, brother of the poet [Martin Tupper](/person/1801).
+[^2]: In [Musings over the Christian Year](/book/88), 341, CMY had attributed the poem to Thomas Ken. It appears to have been the work of the Rev. William George Tupper, brother of the poet [Martin Tupper](/person/1801).

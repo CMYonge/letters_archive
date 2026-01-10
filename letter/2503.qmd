@@ -1,7 +1,7 @@
 ---
 id: 2503
 title: To Florence Freeman
-date: '1874-05-18'
+iso-date: '1874-05-18'
 display-date: May 18th 1874
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,9 +10,7 @@ manuscript-location: 'MS Bodleian Library, Oxford: Bryce 156 (microfilm) ff19-20
 ---
 
 My dear [Miss Freeman](/person/524)
-Let me hint at the wonderful adventures of the Scottish regalia in Cromwell’s time.
-
-Meeting with them in Miss Macarthurs history set me upon the question.[^1] Also Colonel Blood and the English. I think too the iron crown of Lombardy might come in and the adventures of the Scottish royal stone would be admissible. I tell you all this to be secure of someone making a full answer
+Let me hint at the wonderful adventures of the Scottish regalia in Cromwell’s time. Meeting with them in Miss Macarthurs history set me upon the question.[^1] Also Colonel Blood and the English. I think too the iron crown of Lombardy might come in and the adventures of the Scottish royal stone would be admissible. I tell you all this to be secure of someone making a full answer
 
 Yours sincerely
 

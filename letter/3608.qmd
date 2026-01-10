@@ -1,7 +1,7 @@
 ---
 id: 3608
 title: To Miss Cox
-date: '1891-08-20'
+iso-date: '1891-08-20'
 display-date: Aug 20th [1891-3]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -18,14 +18,4 @@ yours truly
 C M Yonge
 
 
-[^1]: ‘The Cardioscope’ was a series in MP (July-November 1851).
-
-The idea was that an instrument could test the feelings of the human heart as a stethoscope does.
-
-There is a volume of poems, 1887, by Agnes Cox. CMY is evidently being asked to cast a vote in favour of Anne Fay for admission to some hospital or almshouse.
-
-There is a probable contributor called [Harriet Lucy Cox](/person/375) (b.
-
-Waddesdon 1825/6) who later married the Rev.
-
-Arthur Baker (1817-1868) and transcribed books into Braille; it is possible that she may have been the author of ‘The Cardioscope’, and a relation of this Miss Cox.
+[^1]: ‘The Cardioscope’ was a series in MP (July-November 1851). The idea was that an instrument could test the feelings of the human heart as a stethoscope does. There is a volume of poems, 1887, by Agnes Cox. CMY is evidently being asked to cast a vote in favour of Anne Fay for admission to some hospital or almshouse. There is a probable contributor called [Harriet Lucy Cox](/person/375) (b. Waddesdon 1825/6) who later married the Rev. Arthur Baker (1817-1868) and transcribed books into Braille; it is possible that she may have been the author of ‘The Cardioscope’, and a relation of this Miss Cox.

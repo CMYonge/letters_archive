@@ -1,8 +1,8 @@
 ---
 id: 3099
 title: To Ann Maria Carter Smith
-date: '1857-05-29'
-display-date: May 29th [1857?][[footnote:1]]
+iso-date: '1857-05-29'
+display-date: May 29th [1857?]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
 to-name: To Ann Maria Carter Smith
@@ -10,15 +10,8 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1858/ 1
 ---
 
 Dear [Miss Smith](/person/263)
-I am going to ask you in my private capacity to do me a kindness.
-
-My [brother](/person/1624) is just setting out on an expedition to Norway, and we are ignorant whether we can write to him there in the ordinary manner for the Continent. I mean whether poste restante is the usual form, or if there is any other mode more congenial to the north, and also whether we should spell Drontheim Trondheim.
+I am going to ask you in my private capacity to do me a kindness. My [brother](/person/1624) is just setting out on an expedition to Norway, and we are ignorant whether we can write to him there in the ordinary manner for the Continent. I mean whether poste restante is the usual form, or if there is any other mode more congenial to the north, and also whether we should spell Drontheim Trondheim.
 I trust you will not think me troublesome in asking these particulars which a /former\ resident can so much better be depended for answering correctly than any post office. I should like to know whether you found that your letters were fairly regular. I see they profess to have a daily post.
 yours very truly
 
 C M Yonge
-
-
-[^1]: This letter is placed here since it appears to antedate JBY’s first visit to Norway, and he is known to have been there in June 1857.
-
-The earliest letter in which CMY wrote ‘Dear Miss Smith’ rather than ‘Dear Madam’ seems to be that dated 4 February 1857.

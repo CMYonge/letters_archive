@@ -1,7 +1,7 @@
 ---
 id: 2675
 title: To the Reverend Charles Bathurst Woodman
-date: '1879-06-16'
+iso-date: '1879-06-16'
 display-date: June 16th 1879
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,7 +11,6 @@ manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
 
 [Sir](/person/2322),
 I admire the brave spirit of the writer of this letter, and I am sure she would be the last person to intend it to be used as a means of casting imputations upon her Church.
-
 So far as the Church is an Establishment she has nothing to do with Missionary effort
 The Church of each colony is voluntary and is assisted by grants from the two great Societies, both wholly voluntary. [^2] There are immense numbers of mission stations supported by this agency, but it must often happen that individual zeal outruns the provision that can be made for it, and in this case the lady’s efforts are volunteered.
 A smaller body, with a less area can of course provide every detail more fully, but it must often happen that outpost labour has to be in the midst of unavoidable hardship though it is generally assisted when known
@@ -21,7 +20,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: Envelope addressed to ‘C B Woodman Esq/ British Board/ Edgbaston/ Birmingham’.
-[^2]: The societies were the [Church Missionary Society](/organisation/19) and the [Society for the Propagation of the Gospel](/organisation/41).
-
-In this letter to a Dissenting clergyman CMY seems to be defending the established church from the accusation that it ought to fund missionary work from its income.
+[^2]: The societies were the [Church Missionary Society](/organisation/19) and the [Society for the Propagation of the Gospel](/organisation/41). In this letter to a Dissenting clergyman CMY seems to be defending the established church from the accusation that it ought to fund missionary work from its income.

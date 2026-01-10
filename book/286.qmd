@@ -2,8 +2,8 @@
 id: 286
 title: \'George Eliot and her Critics\' By the Editor and the author of \'Charles
   Lowder\' [Maria Trench]
-author: Charlotte Mary Yonge
-date: '1885'
+author-name: Charlotte Mary Yonge
+publication-date: '1885'
 genre: Non-fiction, literary criticism
 publication-format: Article in Journal
 publisher: MP (May 1885) 471-495

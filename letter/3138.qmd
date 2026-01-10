@@ -1,7 +1,7 @@
 ---
 id: 3138
 title: To Ann Maria Carter Smith
-date: '1859-10-21'
+iso-date: '1859-10-21'
 display-date: Oct 21st 1859
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -10,16 +10,8 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1859/11
 ---
 
 My dear [Miss Smith](/person/263)
-I should say if you made it, his squire, it would do.
-
-One says - Oh his squire is Sir Charles or Lord H - meaning that such a relation exists between landowner and parson - though on the other hand the gentleman may not be exactly an Esquire.
-
-It is rather a cockney printer’s objection, but there is some sense in it.
-
-Sir Hector belongs to the Squirearchy, and though not an esquire is Mr Arnold’s Squire from his territorial relations
-So I should think his squire would be all right. I am so glad to see the book fairly started.
-
-Kelso St John meets with great applause. I beg your pardon, I have put his name backwards, but I am writing on my knees by firelight so excuse blunders
+I should say if you made it, his squire, it would do. One says - Oh his squire is Sir Charles or Lord H - meaning that such a relation exists between landowner and parson - though on the other hand the gentleman may not be exactly an Esquire. It is rather a cockney printer’s objection, but there is some sense in it. Sir Hector belongs to the Squirearchy, and though not an esquire is Mr Arnold’s Squire from his territorial relations
+So I should think his squire would be all right. I am so glad to see the book fairly started. Kelso St John meets with great applause. I beg your pardon, I have put his name backwards, but I am writing on my knees by firelight so excuse blunders
 
 yours sincerely
 

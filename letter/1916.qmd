@@ -1,7 +1,7 @@
 ---
 id: 1916
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1863-11-20'
+iso-date: '1863-11-20'
 display-date: 'Nov: 20. 1863.'
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -9,21 +9,9 @@ manuscript-location: Copy outletter book British Library Add MSS.55381 (2) P. 66
 ---
 
 Dear Madam,		
-We shall have much pleasure in taking the stock of your books under our charge and publishing them for you on commission.
-
-When we have had a little experience of them and how they sell now, we shall be better able to advise and suggest something definite with regard to cheap editions or the like.
-[The Trial](/book/53) we calculate could be got into 2 nice crown 8vo volumes selling at 12/-.
-
-We will give [£200](/topic/160) for leave to print & publish an edition of 2000 copies.
-
-We would propose that the leading should be taken out and the types made solid for a cheap edition uniform with [the Heir of Redclyffe](/book/15).
-
-We are willing to go on with this at once & also take charge of your other books as we said
-The chief clerk of [Messrs Smith](/organisation/161) the Great Railway people complains of the colour in which your books are bound on the ground that it fades.
-
-He recommends blue, a colour we use for Tom Brown’s Schooldays & other books which have a large sale.
+We shall have much pleasure in taking the stock of your books under our charge and publishing them for you on commission. When we have had a little experience of them and how they sell now, we shall be better able to advise and suggest something definite with regard to cheap editions or the like.
+[The Trial](/book/53) we calculate could be got into 2 nice crown 8vo volumes selling at 12/-. We will give [£200](/topic/160) for leave to print & publish an edition of 2000 copies. We would propose that the leading should be taken out and the types made solid for a cheap edition uniform with [the Heir of Redclyffe](/book/15). We are willing to go on with this at once & also take charge of your other books as we said
+The chief clerk of [Messrs Smith](/organisation/161) the Great Railway people complains of the colour in which your books are bound on the ground that it fades. He recommends blue, a colour we use for Tom Brown’s Schooldays & other books which have a large sale.
 I am, dear Madam,
 Very respectfully yours
-Alex.
-
-Macmillan
+Alex. Macmillan

@@ -1,7 +1,7 @@
 ---
 id: 2872
 title: To Arthur Donald Innes
-date: '1888-01-11'
+iso-date: '1888-01-11'
 display-date: Jany 11th [1888]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -10,9 +10,7 @@ manuscript-location: MS Girton College Cambridge, Yonge IV 7
 ---
 
 Dear [Mr Innes](/person/744)
-Thank you. [Mr Smith](/person/1344) generously sends me £50 in January [£40](/topic/160) for my editorship and £10 for the [subeditor](/person/512).
-
-The other payments this month are for
+Thank you. [Mr Smith](/person/1344) generously sends me £50 in January [£40](/topic/160) for my editorship and £10 for the [subeditor](/person/512). The other payments this month are for
 Angela,
 Miss [Alice Weber](/person/1483)
 10 Randolph Road
@@ -44,8 +42,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: The June 1888 issue of MP included, p. 595, an announcement that \'On July 1st a series of Papers on English Literature will be commenced by the Hon.
-
-Eva Knatchbull-Hugessen, intended to assist in preparation for that branch of the Cambridge Higher Local Examination for Women, to be held in June 1889.
-
-Questions will be set after each Paper by Miss Mackenzie, late scholar of Newnham College Cambridge\'.
+[^1]: The June 1888 issue of MP included, p. 595, an announcement that \'On July 1st a series of Papers on English Literature will be commenced by the Hon. Eva Knatchbull-Hugessen, intended to assist in preparation for that branch of the Cambridge Higher Local Examination for Women, to be held in June 1889. Questions will be set after each Paper by Miss Mackenzie, late scholar of Newnham College Cambridge\'.

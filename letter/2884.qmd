@@ -1,7 +1,7 @@
 ---
 id: 2884
 title: To Arthur Donald Innes
-date: '1888-06-09'
+iso-date: '1888-06-09'
 display-date: June 9th [1888]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,13 +10,9 @@ manuscript-location: MS Girton College Cambridge, Yonge IV 2
 ---
 
 Dear [Mr Innes](/person/744)
-If you look at the notice at p. 499 of the May no and 599 of the June you will see the fees as to questions fully explained.
-
-In fact I do not know what more there is to say about them.[^1]
-[Bishop Jenner](/person/758) has carefully looked over the [Prayer book Lessons](/book/202) and returned them to me and I am going over them with his criticisms.
-
-Half is quite ready if you want it for the printers.
-I should much prefer having a sum at once- say[ £50 for the first thousand](/topic/160), and then a royalty on what afterwards sold
+If you look at the notice at p. 499 of the May no and 599 of the June you will see the fees as to questions fully explained. In fact I do not know what more there is to say about them.[^1]
+[Bishop Jenner](/person/758) has carefully looked over the [Prayer book Lessons](/book/202) and returned them to me and I am going over them with his criticisms. Half is quite ready if you want it for the printers.
+I should much prefer having a sum at once- say[£50 for the first thousand](/topic/160), and then a royalty on what afterwards sold
 In the last number of the [Packet](/periodical/52) ‘Early Recollections’ are by
 [Mrs Brougham](/person/207)
 Castlehaven Rectory,

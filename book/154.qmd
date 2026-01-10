@@ -1,8 +1,8 @@
 ---
 id: 154
 title: 'Pickle and his Page Boy, or, Unlooked For: A Story.'
-author: Charlotte Mary Yonge
-date: '1882'
+author-name: Charlotte Mary Yonge
+publication-date: '1882'
 genre: Fiction (modern)
 publication-format: Book
 publisher: Walter Smith (late Mozley), 34 King Street, Covent Garden, London.

@@ -1,27 +1,17 @@
 ---
 id: 3030
 title: To Mary Anne Dyson
-date: '1854-02-26'
+iso-date: '1854-02-26'
 display-date: February 26, 1854.
 from-name: Charlotte Mary Yonge
 from-address: '[Otterbourne]'
 to-name: To Mary Anne Dyson
-manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i>
   195.
 ---
 
 My trouble has come; he had a second attack and died at six to-night.
 [Mamma](/person/1606) is too like [Amy](/book/15), excited with thankfulness. I dread what it will be; I don't think we half believe it yet.
-
-You will write to me; perhaps I may write to-morrow, but I can't tell.
-
-We have [Mr](/person/798). and [Mrs.
-
-Keble](/person/795) helping us to-night.
-
-Oh what will the waking be!
-
-So many of our Psalm superstitions have come true.
-
+You will write to me; perhaps I may write to-morrow, but I can't tell. We have [Mr](/person/798). and [Mrs. Keble](/person/795) helping us to-night. Oh what will the waking be! So many of our Psalm superstitions have come true.
 Your most affectionate
 C. M. Y.

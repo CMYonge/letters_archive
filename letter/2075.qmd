@@ -1,7 +1,7 @@
 ---
 id: 2075
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1865-10-23'
+iso-date: '1865-10-23'
 display-date: Oct 23. 1865
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -9,11 +9,6 @@ manuscript-location: 'Copy outletter book British Library Add MSS. 55384 (2): P.
 ---
 
 My dear Miss Yonge	
-[I](/person/939) shall be here on Wednesday from 12 till 4½ and very glad to see you.
-
-Only much regretting that your stay is to be so short.
-
+[I](/person/939) shall be here on Wednesday from 12 till 4½ and very glad to see you. Only much regretting that your stay is to be so short.
 Yours very truly
-A.
-
-Macmillan
+A. Macmillan

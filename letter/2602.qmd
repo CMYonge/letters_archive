@@ -1,7 +1,7 @@
 ---
 id: 2602
 title: To Ann Maria Carter Smith
-date: '1877-10-22'
+iso-date: '1877-10-22'
 display-date: Oct 22 1877
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -12,7 +12,6 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1877/ 2
 My dear [Miss Smith](/person/263)
 I did not ask you for the purpose as you may see by my having lost your address and being obliged to send this to Cambridge to be directed on.[^2]
 I thought it a pity you should not at least hear of it, and at any rate the child is not black!
-
 If you think of it will you write direct to the lady.[^3] I am going out and must finish as fast as I can
 
 yours truly
@@ -20,10 +19,5 @@ yours truly
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: Ann Carter Smith\'s sister was married to the Master of Clare College, Cambridge.
-[^3]: Possibly this refers to an advertisement which appeared in MP (September 1877) 296: \'Can any correspondent kindly tell me if there is any school where the orphan daughter of a clergyman could receive a sound education, and where the expenses would be very small?
-
-Any information will be thankfully received by Miss Duncan, S.
-
-Michael\'s Hamlet, near Liverpool.\'
+[^3]: Possibly this refers to an advertisement which appeared in MP (September 1877) 296: \'Can any correspondent kindly tell me if there is any school where the orphan daughter of a clergyman could receive a sound education, and where the expenses would be very small? Any information will be thankfully received by Miss Duncan, S. Michael\'s Hamlet, near Liverpool.\'

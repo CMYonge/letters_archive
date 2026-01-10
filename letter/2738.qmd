@@ -1,7 +1,7 @@
 ---
 id: 2738
 title: To an Unknown Woman
-date: '1881-11-10'
+iso-date: '1881-11-10'
 display-date: Novr 10th 1881
 from-name: Charlotte Mary Yonge
 from-address: Elderfield

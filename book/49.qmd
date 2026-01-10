@@ -2,8 +2,8 @@
 id: 49
 title: 'Conversations on the Catechism: Means of Grace. By the author of “The Heir
   of Redclyffe.”'
-author: Charlotte Mary Yonge
-date: '1863'
+author-name: Charlotte Mary Yonge
+publication-date: '1863'
 genre: 'Non-fiction: theology'
 publication-format: Book
 publisher: John and Charles Mozley, 6, Paternoster Row, London.

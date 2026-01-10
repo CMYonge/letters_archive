@@ -1,7 +1,7 @@
 ---
 id: 2915
 title: To Edward Augustus Freeman
-date: '1889-08-31'
+iso-date: '1889-08-31'
 display-date: Aug 31st 1889
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -19,6 +19,4 @@ C M Yonge
 
 
 [^1]: Not identified.
-[^2]: CMY had been to stay with Freeman in Somerset to see the places where Hannah More had done good works, as depicted in CMY\'s [The Cunning Woman\'s Grandson](/book/203).
-
-Thomas Poole (1766-1837), the friend of S.T.Coleridge had also lived in the neighbourhood. CMY had no doubt been reading Elizabeth Sandford, Thomas Poole and His Friends (1888).
+[^2]: CMY had been to stay with Freeman in Somerset to see the places where Hannah More had done good works, as depicted in CMY\'s [The Cunning Woman\'s Grandson](/book/203). Thomas Poole (1766-1837), the friend of S.T.Coleridge had also lived in the neighbourhood. CMY had no doubt been reading Elizabeth Sandford, Thomas Poole and His Friends (1888).

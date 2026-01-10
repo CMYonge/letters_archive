@@ -1,7 +1,7 @@
 ---
 id: 3286
 title: To the Reverend John Frederick Watkinson Bullock
-date: '1895-03-16'
+iso-date: '1895-03-16'
 display-date: March 16 [1895]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -18,8 +18,5 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Envelope addressed to ‘The Revd J.F.
-
-Bullock/Radwinter Rectory/Saffron Walden.’ Postmark MR 16/95.
 [^2]: Raymond Lull (1232-1315), missionary and philosopher.
 [^3]: Florence Wilford seems to have been confined in a lunatic asylum in later life.

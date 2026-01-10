@@ -1,7 +1,7 @@
 ---
 id: 3327
 title: To Clifford Wyndham Holgate
-date: '1896-05-26'
+iso-date: '1896-05-26'
 display-date: May 26th 1896
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,11 +10,7 @@ manuscript-location: MS Charlotte Mitchell/17
 ---
 
 Dear [Mr Holgate](/person/1643)[^1]
-I will try what I can do. I did write a short [memoir](/book/66) of Lord Seaton in the Christian Remembrancer, and it has all the dates.
-
-If I can find it, I can easily do what you wish.
-
-How soon will it be wanted?
+I will try what I can do. I did write a short [memoir](/book/66) of Lord Seaton in the Christian Remembrancer, and it has all the dates. If I can find it, I can easily do what you wish. How soon will it be wanted?
 
 yours truly
 

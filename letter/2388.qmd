@@ -1,7 +1,7 @@
 ---
 id: 2388
 title: To Alexander Macmillan,
-date: '1870-09-13'
+iso-date: '1870-09-13'
 display-date: Sept 13th [1870]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -17,6 +17,3 @@ I suspect you are from home.
 Yours truly
 
 C M Yonge
-
-
-[^1]: Black-edged paper.

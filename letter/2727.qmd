@@ -1,7 +1,7 @@
 ---
 id: 2727
 title: To Christabel Rose Coleridge
-date: '1881-05-01'
+iso-date: '1881-05-01'
 display-date: May 23d [1881]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,24 +10,14 @@ manuscript-location: MS Mrs Clare Roels
 ---
 
 My dear [Christabel](/person/329)
-There is a nice little life of the Black Prince by Louise Creighton in Rivington’s series of Biographies.
-
-Also G P R James wrote a nice long romantic life of him which might be in old libraries, and Canon Warburton has a life of Edward III in Longman’s Epochs of history.[^1] I can’t understand about the grown man schools, but [Mr Green](/person/582) is pretty sure to be right.[^2] I cannot find however any account of regular education beyond that at the Universities, and boys went there so young that I think there could hardly have been much teaching elsewhere, but in the Convents.
+There is a nice little life of the Black Prince by Louise Creighton in Rivington’s series of Biographies. Also G P R James wrote a nice long romantic life of him which might be in old libraries, and Canon Warburton has a life of Edward III in Longman’s Epochs of history.[^1] I can’t understand about the grown man schools, but [Mr Green](/person/582) is pretty sure to be right.[^2] I cannot find however any account of regular education beyond that at the Universities, and boys went there so young that I think there could hardly have been much teaching elsewhere, but in the Convents.
 I suspect that the Grammar schools may have been in cities for the burgher glass who would need it, and that the gentlemen got their teaching as pages from the chaplains and the ladies, and if they were studious, went to a University, as the St Bernard of the days did to Paris. I think Walter might have been at Oxford, for young gentlemen certainly did go there, but I should like further enlightenment about Grammar schools, before it went in.
-I have one delicious Irish story come in, also a modern life one by the old Aggesden Vicarage [writer](/person/263), and I have just done one myself modern so I am glad yours is historical.
-
-There is an Algerine and a West Indian more doubtful[^3]
+I have one delicious Irish story come in, also a modern life one by the old Aggesden Vicarage [writer](/person/263), and I have just done one myself modern so I am glad yours is historical. There is an Algerine and a West Indian more doubtful[^3]
 your affte
 
 C M Yonge
 
 
-[^1]: Louise Creighton, Life of Edward the Black Prince (1876); G.P.R.James, A History of the Life of Edward the Black Prince (1836); and William Parsons Warburton, Edward III (1874).
-
-Coleridge was writing a story set in this period, \'A Knight\'s Honour\' which appeared in the Christmas 1881 number of MP, whose hero was named Walter.
-[^2]: The Rev.
-
-John Richard Green (1837-1883), author of A Short History of the English People (1874).
-[^3]: These were the other stories for the Christmas 1881 number of MP, which included CMY\'s modern \'A Review of Nieces\' (reprinted in [More Bywords](/book/209)), an anonymous story set in Algiers called \'Le Petit Monsieur Ali\' and two Irish stories (Frances Awdry\'s \'Lucy\'s Romance\' and the anonymous \'The Gentleman\'s Gentleman\').
-
-It does not, however, seem to have included any stories by Ann Maria Carter Smith, author of Aggesden Vicarage, or any West Indian ones.
+[^1]: Louise Creighton, Life of Edward the Black Prince (1876); G.P.R.James, A History of the Life of Edward the Black Prince (1836); and William Parsons Warburton, Edward III (1874). Coleridge was writing a story set in this period, \'A Knight\'s Honour\' which appeared in the Christmas 1881 number of MP, whose hero was named Walter.
+[^2]: The Rev. John Richard Green (1837-1883), author of A Short History of the English People (1874).
+[^3]: These were the other stories for the Christmas 1881 number of MP, which included CMY\'s modern \'A Review of Nieces\' (reprinted in [More Bywords](/book/209)), an anonymous story set in Algiers called \'Le Petit Monsieur Ali\' and two Irish stories (Frances Awdry\'s \'Lucy\'s Romance\' and the anonymous \'The Gentleman\'s Gentleman\'). It does not, however, seem to have included any stories by Ann Maria Carter Smith, author of Aggesden Vicarage, or any West Indian ones.

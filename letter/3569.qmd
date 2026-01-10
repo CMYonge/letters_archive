@@ -1,8 +1,8 @@
 ---
 id: 3569
 title: To Mary ?
-date: '1893-06-18'
-display-date: June 18th [?1893[[footnote:1]]]
+iso-date: '1893-06-18'
+display-date: June 18th [?1893]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
 to-name: To Mary ?
@@ -16,6 +16,3 @@ I am going to stay with [Frances](/person/1604) next week from Monday to Saturda
 Your affectionate
 
 C M Yonge
-
-
-[^1]: Dated on the assumption that it post-dates Frances Yonge’s move to 70 Kensington Gardens Square in 1892.

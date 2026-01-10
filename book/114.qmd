@@ -2,8 +2,8 @@
 id: 114
 title: Recollections of Colonel de Gonneville. Published by his daughter, the Countess
   de Mirabeau. Edited, from the French, by Charlotte M. Yonge
-author: Charlotte Mary Yonge
-date: '1875'
+author-name: Charlotte Mary Yonge
+publication-date: '1875'
 genre: Edited translation
 publication-format: Edited book
 publisher: 'London : Hurst and Blackett 13 Great Marlborough Street.'

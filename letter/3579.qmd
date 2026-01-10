@@ -1,7 +1,7 @@
 ---
 id: 3579
 title: To an unknown woman
-date: '1863-07-22'
+iso-date: '1863-07-22'
 display-date: July 22 [after 1863]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield

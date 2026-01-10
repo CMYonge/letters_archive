@@ -1,7 +1,7 @@
 ---
 id: 2800
 title: To Gertrude Mary Ireland Blackburne
-date: '1885-02-28'
+iso-date: '1885-02-28'
 display-date: Feb 28th 1885
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -12,22 +12,14 @@ manuscript-location: MS Princeton University, Parrish Collection
 My dear [Miss Blackburne](/person/160)
 Thank you for the sight of this. I have sent the review on to [Mr Shorthouse](/person/1654).[^2] That [Glasgow paper](/periodical/252) must have clever people belonging to it, for they always make notices to the purpose[^3]
 I have sent the proof to the printers, and hope it will get in this next April number.
-
-It is very interesting to see what Mr Shorthouse likes as his interpretation Artistically I think it was a great mistake of [Lewes](/person/2160) to keep adverse reviews back- for if they are ever so foolish and provoking and reviews are much less useful than they were when I began, they shew one’s mannerisms and blunders.[^4] And as to their stinging, one gets hardened and cares very little.
-
-Is your novel out? I have not heard of it, and I do not think you told me its name.[^5]
+It is very interesting to see what Mr Shorthouse likes as his interpretation Artistically I think it was a great mistake of [Lewes](/person/2160) to keep adverse reviews back- for if they are ever so foolish and provoking and reviews are much less useful than they were when I began, they shew one’s mannerisms and blunders.[^4] And as to their stinging, one gets hardened and cares very little. Is your novel out? I have not heard of it, and I do not think you told me its name.[^5]
 
 Yours sincerely
 
 C M Yonge
 
 
-[^1]: Gertrude Ireland Blackburne (1861-1951), journalist, novelist and contributor to MP.
-[^2]: Joseph Henry Shorthouse (1834-1903).
-
-Blackburne\'s review of his The Little Schoolmaster Mark (1884-5) appeared as \'A Conversation on Books\' MP 3s 9 (April 1885) 368-75.
+[^2]: Joseph Henry Shorthouse (1834-1903). Blackburne\'s review of his The Little Schoolmaster Mark (1884-5) appeared as \'A Conversation on Books\' MP 3s 9 (April 1885) 368-75.
 [^3]: In a footnote Blackburne cites \'a suggestive and appreciative review in a daily paper, (Glasgow News, Jan. 19,1885).\'
-[^4]: The fact that George Henry Lewes had carefully guarded George Eliot from the sight of unfavourable reviews had recently been revealed in J. W.
-
-Cross, George Eliot\'s Life (1885).
+[^4]: The fact that George Henry Lewes had carefully guarded George Eliot from the sight of unfavourable reviews had recently been revealed in J. W. Cross, George Eliot\'s Life (1885).
 [^5]: CMY\'s 1901 reference to Blackburne\'s novel Zig-Zag (1885) suggests that she thought it dangerously liberal.

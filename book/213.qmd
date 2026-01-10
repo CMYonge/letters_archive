@@ -2,8 +2,8 @@
 id: 213
 title: 'Cameos from English History: VII. The Rebellion and Restoration. By the author
   of “The Heir of Redclyffe.”'
-author: Charlotte Mary Yonge
-date: '1890'
+author-name: Charlotte Mary Yonge
+publication-date: '1890'
 genre: 'Non-fiction: history'
 publication-format: Book
 publisher: 'London and New York: Macmillan and Company.'

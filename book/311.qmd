@@ -1,13 +1,11 @@
 ---
 id: 311
 title: \'The Trusty Servant\'
-author: Charlotte Mary Yonge
-date: '1890'
+author-name: Charlotte Mary Yonge
+publication-date: '1890'
 genre: Non-fiction
 publication-format: Article in Journal
 publisher: <i>Friendly Leaves</i> (1890) 143-145
 ---
 
-The article is signed Charlotte M.
-
-Yonge.
+The article is signed Charlotte M. Yonge.

@@ -1,7 +1,7 @@
 ---
 id: 1968
 title: To Miss Birley
-date: '1864-08-02'
+iso-date: '1864-08-02'
 display-date: Aug 2nd [1864]
 from-name: Charlotte Mary Yonge
 from-address: London
@@ -9,11 +9,7 @@ to-name: To Miss Birley
 manuscript-location: MS Charlotte Mitchell/9
 ---
 
-Miss Yonge is much obliged to [Miss Birley](/person/154) for her kindness in sending her the translation of Salverte’s book on names, for which she had much wished.
-
-She regrets that her absence from home has prevented her from seeing the book or acknowledging its receipt before, but if Miss Birley will kindly send the second volume by post, it will be taken care of till Miss Yonge’s arrival at home, when she will have much pleasure in reading the books, and she hopes in making them known.[^1]
+Miss Yonge is much obliged to [Miss Birley](/person/154) for her kindness in sending her the translation of Salverte’s book on names, for which she had much wished. She regrets that her absence from home has prevented her from seeing the book or acknowledging its receipt before, but if Miss Birley will kindly send the second volume by post, it will be taken care of till Miss Yonge’s arrival at home, when she will have much pleasure in reading the books, and she hopes in making them known.[^1]
 
 
-[^1]: Eusèbe Salverte, History of the Names of Men, Nations, and Places in their Connection with the Progress of Civilisation tr. L. H.
-
-Mordacque, 2 vols (1862, 1864) was noticed in MP (November 1864), 553.
+[^1]: Eusèbe Salverte, History of the Names of Men, Nations, and Places in their Connection with the Progress of Civilisation tr. L. H. Mordacque, 2 vols (1862, 1864) was noticed in MP (November 1864), 553.

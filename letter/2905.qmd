@@ -1,7 +1,7 @@
 ---
 id: 2905
 title: Walter Besant to Charlotte Mary Yonge
-date: '1889-04-08'
+iso-date: '1889-04-08'
 display-date: April. 8. 1889.
 from-name: Charlotte Mary Yonge
 from-address: Incoporated [[other:44]Society of Authors], 4, Portugal Street, Lincoln’s

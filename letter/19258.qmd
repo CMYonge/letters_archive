@@ -1,8 +1,8 @@
 ---
 id: 19258
 title: To Frances Jane Dodgson
-date: '1898-11-06'
-display-date: Novr 6th[?1898-1900] [[footnote:1]]
+iso-date: '1898-11-06'
+display-date: 'Novr 6th[?1898-1900] '
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
 to-name: To Frances Jane Dodgson
@@ -20,14 +20,5 @@ yours very sincerely
 C M Yonge
 
 
-[^1]: The letter is assumed to have been written after \'Lewis Carroll\'\'s death in January 1898.
-
-This is consistent with the implication that it dates from the period in which CMY\'s nephew-in-law, the [Rev.
-
-Henry Bowles](/person/184), was vicar of Otterbourne and easily able to receive parcels from his family, who lived in Surrey like the Dodgsons.
-
-It has also been assumed that it was addressed to Dodgson\'s eldest unmarried sister, though he had several.
 [^2]: Alfred Shany is unidentified, but was evidently an inmate in an institution whose subscribers voted for candidates.
-[^3]: CMY and FMY had been photographed by the Rev.
-
-Charles Lutwidge Dodgson in Oxford on 4 May 1866.
+[^3]: CMY and FMY had been photographed by the Rev. Charles Lutwidge Dodgson in Oxford on 4 May 1866.

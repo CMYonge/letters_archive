@@ -1,8 +1,8 @@
 ---
 id: 11
 title: 'Henrietta’s Wish, or, Domineering: A Tale. By the author of “Scenes and Characters”.'
-author: Charlotte Mary Yonge
-date: '1850'
+author-name: Charlotte Mary Yonge
+publication-date: '1850'
 genre: Fiction (modern)
 publication-format: Book
 publisher: Joseph Masters, Aldersgate Street, and New Bond Street, London.

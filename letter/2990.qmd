@@ -1,24 +1,16 @@
 ---
 id: 2990
 title: To the Reverend Dr. George Moberly
-date: '1852-05-20'
+iso-date: '1852-05-20'
 display-date: Ascension Day [20 May], 1852.
 from-name: Charlotte Mary Yonge
 to-name: To the Reverend Dr. George Moberly
-manuscript-location: MS location unknown.  Printed in <i>[[otherbook:122]Dulce Domum]</i>,
+manuscript-location: MS location unknown. Printed in <i>[[otherbook:122]Dulce Domum]</i>,
   98.
 ---
 
-My dear [Dr.
-
-Moberly](/person/1015),
-Of all days in the year this is one that I should specially have chosen for receiving the note [Mamma](/person/1606) sent on this morning.[^1] Indeed I do thank you and [Mrs.
-
-Moberly](/person/1019) very much for giving me a Pearl to think of every day.
-
-How I shall look forward to the christening day and to having a possession of my own in your house! I wonder what you will think of my venturing, since you said nothing about a second name, to say how much I should like, if you have not no other view, for her to be Margaret Helen; though, as it is for the sake of nothing but some fancies of my own, it does not deserve to be twice thought about, and I hope you will forgive my mentioning it. I am very glad to hear such a comfortable account of Mrs.
-
-Moberly. I am sure this is weather to recover in and Daisies to thrive in.
+My dear [Dr. Moberly](/person/1015),
+Of all days in the year this is one that I should specially have chosen for receiving the note [Mamma](/person/1606) sent on this morning.[^1] Indeed I do thank you and [Mrs. Moberly](/person/1019) very much for giving me a Pearl to think of every day. How I shall look forward to the christening day and to having a possession of my own in your house! I wonder what you will think of my venturing, since you said nothing about a second name, to say how much I should like, if you have not no other view, for her to be Margaret Helen; though, as it is for the sake of nothing but some fancies of my own, it does not deserve to be twice thought about, and I hope you will forgive my mentioning it. I am very glad to hear such a comfortable account of Mrs. Moberly. I am sure this is weather to recover in and Daisies to thrive in.
 
 
 [^1]: The Moberlys had asked her to be godmother to their youngest daughter [Margaret Helen Moberly](/person/83) (22 April 1852-1939).

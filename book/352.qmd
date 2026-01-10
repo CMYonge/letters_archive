@@ -1,8 +1,8 @@
 ---
 id: 352
 title: Review of Vanity and Vexation
-author: Charlotte Mary Yonge
-date: '1899'
+author-name: Charlotte Mary Yonge
+publication-date: '1899'
 genre: Non-fiction, literary criticism
 publication-format: Article in Journal
 publisher: <i>The Guardian</i>

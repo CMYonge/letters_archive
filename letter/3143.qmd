@@ -1,7 +1,7 @@
 ---
 id: 3143
 title: To Ann Maria Carter Smith
-date: '1859-12-13'
+iso-date: '1859-12-13'
 display-date: Decr 13th 1859
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -10,17 +10,8 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ 1859/13
 ---
 
 My dear [Miss Smith](/person/163),
-If I had not been very busy yesterday I should then have written to welcome your offer of sending me your story to read.
-
-We should like to have it very much, but as I shall be from home next week, would you be so kind as not to send it till Christmas Eve?
-
-Then I shall hope to begin it on the Monday. I daresay its destination will depend a good deal on the success of Aggesden. [Mudie](/organisation/137)’s order sounds promising. I did my best yesterday to encourage him by not offering to lend my own to a visitor, but desiring her to order it of him.
-
-She has a ‘Johnnie’ in her own family, and I fear without the same chance of full recovery as his suffering is constitutional not from an accident. I do hope the book will turn out well, and help you to the pedestal on which to stand. I am glad to hear Paul’s true love is to run smooth, but we are all speculating what you mean to do with poor Hetty
+If I had not been very busy yesterday I should then have written to welcome your offer of sending me your story to read. We should like to have it very much, but as I shall be from home next week, would you be so kind as not to send it till Christmas Eve? Then I shall hope to begin it on the Monday. I daresay its destination will depend a good deal on the success of Aggesden. [Mudie](/organisation/137)’s order sounds promising. I did my best yesterday to encourage him by not offering to lend my own to a visitor, but desiring her to order it of him. She has a ‘Johnnie’ in her own family, and I fear without the same chance of full recovery as his suffering is constitutional not from an accident. I do hope the book will turn out well, and help you to the pedestal on which to stand. I am glad to hear Paul’s true love is to run smooth, but we are all speculating what you mean to do with poor Hetty
 
 yours sincerely
 
 C M Yonge
-
-
-[^1]: Envelope addressed to Miss A C Smith/ Old Charlton Rectory/ SE and postmarked Winchester 13 December 1859 and London SE 14 December 1859.

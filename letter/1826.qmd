@@ -1,7 +1,7 @@
 ---
 id: 1826
 title: To Ann Maria Carter Smith
-date: '1861-03-26'
+iso-date: '1861-03-26'
 display-date: March 26th 1861
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -10,20 +10,8 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1861/7
 ---
 
 My dear [Miss Smith](/person/263)
-I have all but finished [Mrs Grant](/person/1825) and most interesting she is.
-
-Many many thanks for her. I am not sure whether she is not a little too long, to be in thorough proportion with the others, and if I find it so, perhaps I may have to take out a few of the letters that relate less directly to her personal history, but certainly not the American ones.
-
-What an old Major that was! I am in the middle of [Lady Balcarres](/person/1854) from the Lives of the Lindsays and great fun she is.
-
-Then when [Hannah More](/person/1836) and [Sarah Martin](/person/1828) are done the thing will be big enough for one volume. I rather think of calling it ‘More Precious than Rubies’. [A Collection of female biographies](/book/43), chiefly by contributors to the M P.’ Do you think the name too fanciful?
-
-Thanks too for the Websters - I glanced at George again and renewed my love.
-
-How beautifully your secretary writes, it is a pleasure to look at such M S. I have had one talk with [Mr Parker](/person/1143)’s successor in the partnership [Mr Bourn](/person/178),[^2] but that was about his illness. I do not know anything of his family or even if he were married.
-
+I have all but finished [Mrs Grant](/person/1825) and most interesting she is. Many many thanks for her. I am not sure whether she is not a little too long, to be in thorough proportion with the others, and if I find it so, perhaps I may have to take out a few of the letters that relate less directly to her personal history, but certainly not the American ones. What an old Major that was! I am in the middle of [Lady Balcarres](/person/1854) from the Lives of the Lindsays and great fun she is. Then when [Hannah More](/person/1836) and [Sarah Martin](/person/1828) are done the thing will be big enough for one volume. I rather think of calling it ‘More Precious than Rubies’. [A Collection of female biographies](/book/43), chiefly by contributors to the M P.’ Do you think the name too fanciful? Thanks too for the Websters - I glanced at George again and renewed my love. How beautifully your secretary writes, it is a pleasure to look at such M S. I have had one talk with [Mr Parker](/person/1143)’s successor in the partnership [Mr Bourn](/person/178),[^2] but that was about his illness. I do not know anything of his family or even if he were married.
 By the by, is it not rather Irish to say Mrs Grant was buried near her last surviving daughter-? A Scotch lady once told me there had been some insanity about some of them latterly, but I looked carefully at the letters afterwards, and could not make out that it could have been possible, the details are so closely given.
-
 With many thanks
 
 yours sincerely
@@ -32,7 +20,4 @@ C M Yonge
 The whole of the Websters is now come.
 
 
-[^1]: Envelope addressed to Miss Ann Smith/ Rectory/ Old Charlton/ SE and postmarked Winchester 26 March and London SE 27 March 1861.
-[^2]: For more detail on the state of Parker’s publishing company see letter to A.
-
-Butler, 16 April 1860
+[^2]: For more detail on the state of Parker’s publishing company see letter to A. Butler, 16 April 1860

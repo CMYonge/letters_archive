@@ -1,7 +1,7 @@
 ---
 id: 2674
 title: To Linda Mary Villari
-date: '1879-06-13'
+iso-date: '1879-06-13'
 display-date: '[13 June 1879]'
 from-name: Charlotte Mary Yonge
 to-name: To Linda Mary Villari
@@ -13,5 +13,4 @@ manuscript-location: 'MS Bodleian Library, Oxford: Eng. lett. d. 495 f107'
 C M Yonge
 
 
-[^1]: Card printed on one side Foreign post card addressed to \'Italy/ Signora Linda Villari/932 Via Pinti/Florence\' and postmarked \'Winchester/JU 13/79\'.
 [^2]: Villari\'s \'The Angel of Viareggio: A Tale of Child-Life in Italy\' began in MP ns 31 (January 1880) and ran until July.

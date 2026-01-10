@@ -1,7 +1,7 @@
 ---
 id: 3461
 title: To Christabel Rose Coleridge
-date: '1900-06-15'
+iso-date: '1900-06-15'
 display-date: June 15 [1900]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,20 +10,11 @@ manuscript-location: MS Mrs Clare Roels/98
 ---
 
 My dear [C C](/person/329)
-I hope the melting process has slackened and will not be heated up again next week.
-
-It really was overpowering weather, and the thunder storms seem to have been awful.
-
-They did not come very near, but cooled us. I have just been informed by a school child that a lady was at Church on Sunday who wishes to make acquaintance with me ‘She is a poetess, and has been presented to the Queen and knows [Mrs Baden Powell](/person/2232).’ But she does not seem to have left any name only to have talked of Church next Sunday! very bad time- My [Missionary](/book/250) is gone, poor man, to the worst part of China, but I could not keep him for you as [Mr Brownrigg](/person/2233) had waited so long.
-
-He says people ask him for a Missionary story, so that is good for yours. I have the end of [Modern Broods](/book/251) in proof for you.
+I hope the melting process has slackened and will not be heated up again next week. It really was overpowering weather, and the thunder storms seem to have been awful. They did not come very near, but cooled us. I have just been informed by a school child that a lady was at Church on Sunday who wishes to make acquaintance with me ‘She is a poetess, and has been presented to the Queen and knows [Mrs Baden Powell](/person/2232).’ But she does not seem to have left any name only to have talked of Church next Sunday! very bad time- My [Missionary](/book/250) is gone, poor man, to the worst part of China, but I could not keep him for you as [Mr Brownrigg](/person/2233) had waited so long. He says people ask him for a Missionary story, so that is good for yours. I have the end of [Modern Broods](/book/251) in proof for you.
 I got an idea this morning for the catastrophe of the joint story of the aunt and niece with the school- I think after a due amount of misunderstanding the two silliest enthusiastic girls might run away intending to die sent out as nurses to South Africa.
 I am so sorry for [Lady Airlie](/person/1095)[^1], they were for some years at Winchester, and she was excellent at the [Mother’s Union](/organisation/31).
-
 If you want a 1/ work to read in the train ‘A Gentleman in Khaki’ Chatto is worth it - The Boer character is curiously brought out
-The [Bowles](/person/184) are at Swanage during the dilapidation scrimmage but come back by Sunday.
-
-The kittens are just getting lively, and their mother is an arrant flirt already
+The [Bowles](/person/184) are at Swanage during the dilapidation scrimmage but come back by Sunday. The kittens are just getting lively, and their mother is an arrant flirt already
 your affte
 
 C M Yonge

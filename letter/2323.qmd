@@ -1,7 +1,7 @@
 ---
 id: 2323
 title: To Sarah Anne Mercier
-date: '1869-06-22'
+iso-date: '1869-06-22'
 display-date: June 22nd [1869]
 from-name: Charlotte Mary Yonge
 from-address: “Monthly Packet” 6, Paternoster Row, London, E.C.

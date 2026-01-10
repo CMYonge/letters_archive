@@ -1,37 +1,19 @@
 ---
 id: 2565
 title: To the Parishioners of Otterbourne
-date: '1876-11-01'
+iso-date: '1876-11-01'
 display-date: November 1876
 from-name: Charlotte Mary Yonge
 to-name: To the Parishioners of Otterbourne
-manuscript-location: Printed in the <i>Otterbourne Parish Magazine</i>  - Hampshire
+manuscript-location: Printed in the <i>Otterbourne Parish Magazine</i> - Hampshire
   Record Office 109m95/1-2
 ---
 
 Dear Sir[^1]
-I would be glad to make use of your pages to explain to children and parents the system of Sunday school tickets, which some younger ones seem not to understand properly.
-
-The ticket is made the reward for a special lesson repeated by heart or a fixed number of answers in writing to questions because these are better tests of diligence than answering aloud which may depend only on quickness and readiness.
-
-But some children try to take up many more lessons than they can properly learn and think themselves badly treated if they are turned back and do not receive a ticket for an ill said lesson.
-
-It ought then be understood that ill repeated lessons do not deserve a ticket and that it is unfair and unjust to give one not properly earned.
-
-No more lessons should be attempted than can be thoroughly learnt.
-
-Some children can learn more easily than others but the amount must be proportioned to their capacity by their teachers.
-
-The Collects and Gospels being learned from the first, become very easy after a few years.
-
-Then more may be added but not before and learning fragments of many lessons is not the right way of gaining tickets as some children seem to think.
-
-Nor should children be sent to school to say ‘their lessons’ and then get their tickets and go away without any of the after teaching which is really the most important point.
-
+I would be glad to make use of your pages to explain to children and parents the system of Sunday school tickets, which some younger ones seem not to understand properly. The ticket is made the reward for a special lesson repeated by heart or a fixed number of answers in writing to questions because these are better tests of diligence than answering aloud which may depend only on quickness and readiness. But some children try to take up many more lessons than they can properly learn and think themselves badly treated if they are turned back and do not receive a ticket for an ill said lesson. It ought then be understood that ill repeated lessons do not deserve a ticket and that it is unfair and unjust to give one not properly earned. No more lessons should be attempted than can be thoroughly learnt.
+Some children can learn more easily than others but the amount must be proportioned to their capacity by their teachers. The Collects and Gospels being learned from the first, become very easy after a few years. Then more may be added but not before and learning fragments of many lessons is not the right way of gaining tickets as some children seem to think. Nor should children be sent to school to say ‘their lessons’ and then get their tickets and go away without any of the after teaching which is really the most important point.
 Tickets are encouragement not so much coin to be purchased by repeating anything however badly, as some little girls seem to think.
-C.M.
-
-Yonge
+C.M. Yonge
 
 
 [^1]: The letter is addressed ostensibly to the editor of the Otterbourne Parish Magazine, the Rev. [Walter Elgie](/person/478).

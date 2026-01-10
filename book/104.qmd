@@ -2,8 +2,8 @@
 id: 104
 title: Questions on the Epistles. By the author of “The Heir of Redclyffe.” (Preface
   signed C.M. Yonge)
-author: Charlotte Mary Yonge
-date: '1874'
+author-name: Charlotte Mary Yonge
+publication-date: '1874'
 genre: 'Non-fiction: theology'
 publication-format: Book
 publisher: John and Charles Mozley, 6, Paternoster Row, London.

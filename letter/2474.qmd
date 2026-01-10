@@ -1,7 +1,7 @@
 ---
 id: 2474
 title: To Edward Augustus Freeman
-date: '1873-05-10'
+iso-date: '1873-05-10'
 display-date: May 10 1873
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,28 +10,15 @@ manuscript-location: MS John Rylands Library, Manchester, FA1/7/834
 ---
 
 Dear [Mr Freeman](/person/523)
-Having recently had a fresh look at Fridiswid’s window, I wish to explain that I find the green headed duck is not engaged in a miracle, but is merely an adjunct when she was hiding in the farm yard, and as the stately drake led forth his fleet upon the lake on Loch Lomond, he may be thus employed at home.
-
-There is so much worse a window near it that it brings out this one favorably [sic].[^1]
+Having recently had a fresh look at Fridiswid’s window, I wish to explain that I find the green headed duck is not engaged in a miracle, but is merely an adjunct when she was hiding in the farm yard, and as the stately drake led forth his fleet upon the lake on Loch Lomond, he may be thus employed at home. There is so much worse a window near it that it brings out this one favorably [sic].[^1]
 I have been meaning for some time to send you the grandest specimen of ‘Aryan’ that has yet come to my knowledge[^2] Our country paper, describing a Christmas entertainment of [Lady Portsmouth](/person/2290)’s, says that
 ‘In the centre of the table was a small specimen of the conifer genus -‘ to which was appended - ‘the disused habitation of one of the bissennate order’ I only wish that I had cut it out, but an old newspaper is hard to catch.
-
 What made the [Saturday](/periodical/99) censure the novel Chesterleigh for not calling an Earl’s younger son Lord George also for the family not using their mother’s name when they lost their right to their father’s[^3] The book seems to me to have been as much over rated by the [Spectator](/periodical/180) as it is under rated by the Saturday.
-
-By the by, I only review in the [Guardian ](/periodical/75)what it sends me, and though I now and then ask for a book, I must have no other unless I receive because somebody else may have got it and confusions arise.
-
+By the by, I only review in the [Guardian](/periodical/75)what it sends me, and though I now and then ask for a book, I must have no other unless I receive because somebody else may have got it and confusions arise.
 Yours very truly
-C.M.
-
-Yonge
+C.M. Yonge
 
 
-[^1]: The stained-glass window with sixteen scenes from the life of St.
-
-Frideswide, patron saint of Oxford, in Christ Church cathedral, Oxford, designed by Edward Burne-Jones in 1857. CMY had commented unfavourably on it in a previous letter to Freeman.
+[^1]: The stained-glass window with sixteen scenes from the life of St. Frideswide, patron saint of Oxford, in Christ Church cathedral, Oxford, designed by Edward Burne-Jones in 1857. CMY had commented unfavourably on it in a previous letter to Freeman.
 [^2]: Freeman preferred the use of words of Anglo-Saxon origin to those with French or Latin roots.
-[^3]: Ansley Conyers, Chesterleigh (London: King 1873).
-
-Freeman was a prolific contributor to the Saturday Review.
-
-The reviewer is wrong about the earl\'s younger son.
+[^3]: Ansley Conyers, Chesterleigh (London: King 1873). Freeman was a prolific contributor to the Saturday Review. The reviewer is wrong about the earl\'s younger son.

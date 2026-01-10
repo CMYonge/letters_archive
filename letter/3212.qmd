@@ -1,22 +1,17 @@
 ---
 id: 3212
 title: To George Lillie Craik
-date: '1893-01-17'
+iso-date: '1893-01-17'
 display-date: Jany 17th 1893
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
 to-name: To George Lillie Craik
-manuscript-location: 'MS British Library  Add MSS 54921: 191-2'
+manuscript-location: 'MS British Library Add MSS 54921: 191-2'
 ---
 
 Dear [Mr Craik](/person/379)
-Would you be so kind as to direct this letter on to Miss [Frances Martin](/person/971).
-
-The address on her letter was printed in some ‘old English type’ and after much consideration I decided that the word looked more like Carrara than anything else but the Post acknowledges no such place.
-
-Thank you for your letter. I think this will suit us, but I will write on to [Miss Coleridge](/person/329).
-
-If you do not hear in three or four days, consider that we consent[^1]
+Would you be so kind as to direct this letter on to Miss [Frances Martin](/person/971). The address on her letter was printed in some ‘old English type’ and after much consideration I decided that the word looked more like Carrara than anything else but the Post acknowledges no such place.
+Thank you for your letter. I think this will suit us, but I will write on to [Miss Coleridge](/person/329). If you do not hear in three or four days, consider that we consent[^1]
 
 Yours truly
 

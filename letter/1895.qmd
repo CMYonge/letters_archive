@@ -1,7 +1,7 @@
 ---
 id: 1895
 title: To Anne Yonge
-date: '1863-07-25'
+iso-date: '1863-07-25'
 display-date: July 25th [1863]
 from-name: Charlotte Mary Yonge
 from-address: Newsells
@@ -10,35 +10,7 @@ manuscript-location: 'MS WDRO Acc No 308: 25/7/63'
 ---
 
 My own dear [Anne](/person/1582)
-I don’t know how to write or how to think, it[^1] all came in one together for your letter of the 20th had been round to James and then home, and it was a note from [Mary Coleridge](/person/351), written on the 23d that told the reality and the first thing I had opened was a note from poor [Johnnie](/person/33) all about his botanical prize and Domum[^2].
-
-Oh those boys[^3] - one knows not how to think of them so thoroughly as they lived in her light, and felt her influence and shewed it in every look and way.
-
-The only comfort there is [sic] that they are none of them too young to have been formed by it, and perfectly to remember and dwell upon all their lives – and I feel a most thorough confidence that they will.
-
-It does seem a most grievous and almost incomprehensible dispensation as far as they are concerned, and yet when one thinks how often one thought how much less bright her life would be when they all had left the nest, one feels that for her there has been the more of sunshine.
-
-And how happy her life has been with the untiring energy and freshness of interest that never flagged, the youthfulness that never waned.
-
-When I think of her as I saw her last year, I could be thankful that she had no diminution of that bright life and activity – always so self controlled, and unselfish as she was- like a pure, fresh bracing stream of swift water.
-
-Those meetings with her and the occasional letters were so delightful that it is hard to believe them all over!
-
-And then [uncle Yonge](/person/1623), whom one so longs should be without further sorrows, but I do think of him as one who has gone through so much, and has a hope so firmly fixed, a treasure so entirely beyond that he has more heavenly strength and comfort than we younger ones can realize.
-
-And much do I think of you, who suffer so much for all, and who were so especially her own from a little child.
-
-Poor [Elizth Colborne](/person/320) too, who can so little- physically- be able to bear another sorrow.
-
-And [Mary](/person/1626), I do hope it is not knocking her up when she needs her strength for [Charlotte](/person/1587)[^4] - And yet one feels as if ones thoughts were wandering away when one thinks of the desolateness of [John Morshead](/person/43) and the boys- I daresay more letters are wandering after us – and you must have thought us very unkind not to answer.
-
-And now we cannot go home, for our house is in the carpenters hands, and old [Mrs Coulthard](/person/370) staying at the other house, and that would not suit [Mamma](/person/1606) at all, so we must hold to our former plan of going to St Dunstans on Monday as the [Gibbs](/person/558)es are very kind and real friends and will let us be quiet, and indeed there are more things to be bought before we can go home.
-
-Our direction there is St Dunstan’s, Regents Park, NW.
-
-Indeed this is the clouds returning after the rain!
-
-How could we bear to think of you if you had not a root of strength within
+I don’t know how to write or how to think, it[^1] all came in one together for your letter of the 20th had been round to James and then home, and it was a note from [Mary Coleridge](/person/351), written on the 23d that told the reality and the first thing I had opened was a note from poor [Johnnie](/person/33) all about his botanical prize and Domum[^2]. Oh those boys[^3] - one knows not how to think of them so thoroughly as they lived in her light, and felt her influence and shewed it in every look and way. The only comfort there is [sic] that they are none of them too young to have been formed by it, and perfectly to remember and dwell upon all their lives – and I feel a most thorough confidence that they will. It does seem a most grievous and almost incomprehensible dispensation as far as they are concerned, and yet when one thinks how often one thought how much less bright her life would be when they all had left the nest, one feels that for her there has been the more of sunshine. And how happy her life has been with the untiring energy and freshness of interest that never flagged, the youthfulness that never waned. When I think of her as I saw her last year, I could be thankful that she had no diminution of that bright life and activity – always so self controlled, and unselfish as she was- like a pure, fresh bracing stream of swift water. Those meetings with her and the occasional letters were so delightful that it is hard to believe them all over! And then [uncle Yonge](/person/1623), whom one so longs should be without further sorrows, but I do think of him as one who has gone through so much, and has a hope so firmly fixed, a treasure so entirely beyond that he has more heavenly strength and comfort than we younger ones can realize. And much do I think of you, who suffer so much for all, and who were so especially her own from a little child. Poor [Elizth Colborne](/person/320) too, who can so little- physically- be able to bear another sorrow. And [Mary](/person/1626), I do hope it is not knocking her up when she needs her strength for [Charlotte](/person/1587)[^4] - And yet one feels as if ones thoughts were wandering away when one thinks of the desolateness of [John Morshead](/person/43) and the boys- I daresay more letters are wandering after us – and you must have thought us very unkind not to answer. And now we cannot go home, for our house is in the carpenters hands, and old [Mrs Coulthard](/person/370) staying at the other house, and that would not suit [Mamma](/person/1606) at all, so we must hold to our former plan of going to St Dunstans on Monday as the [Gibbs](/person/558)es are very kind and real friends and will let us be quiet, and indeed there are more things to be bought before we can go home. Our direction there is St Dunstan’s, Regents Park, NW. Indeed this is the clouds returning after the rain! How could we bear to think of you if you had not a root of strength within
 your most affectionate
 
 C M Yonge

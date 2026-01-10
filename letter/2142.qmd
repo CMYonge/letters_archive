@@ -1,7 +1,7 @@
 ---
 id: 2142
 title: To an Unknown Woman
-date: '1866-12-30'
+iso-date: '1866-12-30'
 display-date: Dec 30th [1866?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -19,19 +19,11 @@ Bognor
 	[Miss Bell](/person/134)
 [Winnington Hall](/organisation/186)
 Northwich
-has a school on a very large scale, where young ladies receive an excellent education on moderate terms.
-
-In fact it is the locality of [Ruskin](/person/1268)’s Ethics of the Dust and I believe he is often there, though I do not know whether that is a recommendation.
-
-The Author of Mabel’s music lessons is musical governess there[^1]
+has a school on a very large scale, where young ladies receive an excellent education on moderate terms. In fact it is the locality of [Ruskin](/person/1268)’s Ethics of the Dust and I believe he is often there, though I do not know whether that is a recommendation. The Author of Mabel’s music lessons is musical governess there[^1]
 
 Yours truly
 
 C M Yonge
 
 
-[^1]: ‘Aunt Cecily’s music lessons,’ addressed to her niece Mabel, appeared in MP (July 1866-July 1869).
-
-The 1871 census indicates that the music teacher at Winnington Hall was then Elizabeth Flowel or Howel (b.
-
-Hampshire 1847/8).
+[^1]: ‘Aunt Cecily’s music lessons,’ addressed to her niece Mabel, appeared in MP (July 1866-July 1869). The 1871 census indicates that the music teacher at Winnington Hall was then Elizabeth Flowel or Howel (b. Hampshire 1847/8).

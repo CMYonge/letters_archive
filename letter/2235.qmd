@@ -1,7 +1,7 @@
 ---
 id: 2235
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1868-02-27'
+iso-date: '1868-02-27'
 display-date: Feb 27 1868
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -9,13 +9,9 @@ manuscript-location: 'Copy outletter book British Library Add MSS.55388 (1): P. 
 ---
 
 Dear Miss Yonge,
-How do you like the enclosed title page?
-
-If it suits your idea I am well pleased with it.[^1]
+How do you like the enclosed title page? If it suits your idea I am well pleased with it.[^1]
 Yours very faithfully
-[A.
-
-Macmillan](/person/939)
+[A. Macmillan](/person/939)
 
 
 [^1]: Probably that for [Historical Selections](/book/71).

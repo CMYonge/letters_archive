@@ -1,7 +1,7 @@
 ---
 id: 3575
 title: To an Unknown Person
-date: '1892-01-01'
+iso-date: '1892-01-01'
 display-date: '[after 1892]'
 from-name: Charlotte Mary Yonge
 from-address: 70 Kensington Gardens Square
@@ -15,6 +15,3 @@ I shall be out all day tomorrow, and from 11 o’clock both Friday and Saturday,
 yours truly
 
 C M Yonge
-
-
-[^1]: Black-edged paper.

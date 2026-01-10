@@ -1,11 +1,11 @@
 ---
 id: 2941
 title: To Anne Yonge
-date: '1839-01-01'
+iso-date: '1839-01-01'
 display-date: '[1839]'
 from-name: Charlotte Mary Yonge
 to-name: To Anne Yonge
-manuscript-location: MS location unknown.  This fragment printed by Coleridge, <i>[[otherbook:40]Life]</i>,
+manuscript-location: MS location unknown. This fragment printed by Coleridge, <i>[[otherbook:40]Life]</i>,
   140.
 ---
 

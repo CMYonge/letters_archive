@@ -1,7 +1,7 @@
 ---
 id: 2875
 title: To Walter Smith
-date: '1888-02-25'
+iso-date: '1888-02-25'
 display-date: Feb 25th 1888
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,9 +10,7 @@ manuscript-location: MS Girton College Cambridge, Yonge V 3
 ---
 
 Dear [Mr Smith](/person/1344)
-Here is the [receipt](/topic/160) with many thanks. I ought to have returned Madge Wylie sooner.
-
-If of the right length, it would be a grand thing to have a Greek story for the [Christmas number](/periodical/52) it would be so much out of the ordinary beat.[^1] I have three or four come in already, not at all bad ones - but I hope they may still be excelled
+Here is the [receipt](/topic/160) with many thanks. I ought to have returned Madge Wylie sooner. If of the right length, it would be a grand thing to have a Greek story for the [Christmas number](/periodical/52) it would be so much out of the ordinary beat.[^1] I have three or four come in already, not at all bad ones - but I hope they may still be excelled
 
 Yours sincerely
 

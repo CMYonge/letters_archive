@@ -1,7 +1,7 @@
 ---
 id: 1857
 title: To Charlotte Sophia Fursdon
-date: '1862-03-24'
+iso-date: '1862-03-24'
 display-date: March 24th 1862
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -10,21 +10,8 @@ manuscript-location: MS Mrs Katherine Wykes-Sneyd
 ---
 
 My dear [Glow worm](/person/534),
-Let us have the Redan[^1] then though I am a little puzzled about the greater proportion of [Goslings](/topic/104) having brothers in the army – if you counted [Humble Bee](/person/81) as one[,] your Army List misled you for the [Alfred Moberly](/person/1860) there is only a cousin. I spent Saturday evening with her, and told her all your questions, and she shuddered at the notion of the Redan.
-
-However that is no reason against it, for the majority may like it. I write now to advise you to specify that the Trial Scene in the Merchant of Venice should begin with Portia’s entrance, and to make it quite clear what you mean to have done, for I am not quite certain nor do I see many allusions in that scene.
-
-There are many more in the Lorenzo and Jessica scenes Troilus, Thisbe, Medea, Dido, the music of the spheres, Orpheus, Erebus, Endymion, the cuckoo, and then there is the controversy about the “Gatines”.
-
-On the whole if you do not think me an unbearable Mother Goose, I would ask you to choose that scene and frame the question thus. I know [Gurgoyle](/person/327) and Humble Bee at least will like this much, and the telling the story of the play will be very amusing, I think.
-
-As I have given you your Redan you may let me this much interfere. I enclose the question instead of copying it again, as I think it will stand best.
-
-Thank [Irene](/person/538) for her little notes.
-
-When she thinks it good for her Egg I shall be glad to see any semi goslingisms. I sometimes get droll ones from other quarters.
-
-So we have two changes instead of one in the Gosling world. I think both the new nominations sound promising.
+Let us have the Redan[^1] then though I am a little puzzled about the greater proportion of [Goslings](/topic/104) having brothers in the army – if you counted [Humble Bee](/person/81) as one[,] your Army List misled you for the [Alfred Moberly](/person/1860) there is only a cousin. I spent Saturday evening with her, and told her all your questions, and she shuddered at the notion of the Redan. However that is no reason against it, for the majority may like it. I write now to advise you to specify that the Trial Scene in the Merchant of Venice should begin with Portia’s entrance, and to make it quite clear what you mean to have done, for I am not quite certain nor do I see many allusions in that scene. There are many more in the Lorenzo and Jessica scenes Troilus, Thisbe, Medea, Dido, the music of the spheres, Orpheus, Erebus, Endymion, the cuckoo, and then there is the controversy about the “Gatines”. On the whole if you do not think me an unbearable Mother Goose, I would ask you to choose that scene and frame the question thus. I know [Gurgoyle](/person/327) and Humble Bee at least will like this much, and the telling the story of the play will be very amusing, I think. As I have given you your Redan you may let me this much interfere. I enclose the question instead of copying it again, as I think it will stand best.
+Thank [Irene](/person/538) for her little notes. When she thinks it good for her Egg I shall be glad to see any semi goslingisms. I sometimes get droll ones from other quarters. So we have two changes instead of one in the Gosling world. I think both the new nominations sound promising.
 your affectionate
 Mother Goose
 

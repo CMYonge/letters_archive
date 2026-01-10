@@ -1,7 +1,7 @@
 ---
 id: 2399
 title: To Anne Sturges Bourne
-date: '1871-02-20'
+iso-date: '1871-02-20'
 display-date: Feb 20th [1871]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,10 +10,7 @@ manuscript-location: MS Miss Barbara Dennis/1
 ---
 
 My dear [Miss Bourne](/person/1379)
-Gertrude is very thankful for the snowdrops and much pleased.
-
-Yes, [Frances](/person/1604) is still about, and at this moment I have [Florence Wilford](/person/1520) here, she has been nearly killed with nursing the two old ladies[^1] at St Cross, and is here now collecting a little strength, I hope, I do not quite know for how long. I seem to have all visiting disorganized this year, and now some evening Wednesday and Friday services are beginning which it is a pity to miss, and yet I must go to Ottery for a few days before Easter, but I will try - if you will have me for anything so shabby as one night when I can see my way.
-
+Gertrude is very thankful for the snowdrops and much pleased. Yes, [Frances](/person/1604) is still about, and at this moment I have [Florence Wilford](/person/1520) here, she has been nearly killed with nursing the two old ladies[^1] at St Cross, and is here now collecting a little strength, I hope, I do not quite know for how long. I seem to have all visiting disorganized this year, and now some evening Wednesday and Friday services are beginning which it is a pity to miss, and yet I must go to Ottery for a few days before Easter, but I will try - if you will have me for anything so shabby as one night when I can see my way.
 Poor [George Heathcote](/person/660) is to be buried today - his [wife](/person/1690)’s devotion has been as beautiful as the way she is now bearing it. [^2]
 I always imagined Marks Dream to be a kind of imitation of the French novels learnt with a clever woman’s intellect but not her heart and without knowing how bad it was, so that it was quite possible to outgrow it.[^3] You see Ada says Marion was much what she was made by those with her. I thought she was entirely without love for Fabian except sisterly
 
@@ -22,10 +19,6 @@ yours affectionately
 C M Yonge
 
 
-[^1]: Florence Wilford\'s aunt [Maria Cristall](/person/384) lived at St.
-
-Cross with [Mary Bacon](/person/88) (b. 1804/5).
-[^2]: George Parker Heathcote (1828-15 Feb 1871), who had returned from India paralysed in 1860.
-
-He had married in 1869 his cousin Isabella Margaretta Elizabeth Walpole (d.1938).
+[^1]: Florence Wilford\'s aunt [Maria Cristall](/person/384) lived at St. Cross with [Mary Bacon](/person/88) (b. 1804/5).
+[^2]: George Parker Heathcote (1828-15 Feb 1871), who had returned from India paralysed in 1860. He had married in 1869 his cousin Isabella Margaretta Elizabeth Walpole (d.1938).
 [^3]: The heroine of Florence Wilford\'s 1868 novel Nigel Bartram\'s Ideal turns out to have written a sensation novel called Mark\'s Dream.

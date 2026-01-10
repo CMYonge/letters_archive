@@ -1,7 +1,7 @@
 ---
 id: 1957
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1864-06-02'
+iso-date: '1864-06-02'
 display-date: June 2nd 1864
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -9,17 +9,9 @@ manuscript-location: 'Copy outletter book British Library Add MSS. 55383 (1): P.
 ---
 
 Dear Miss Yonge	
-[I](/person/939) enclose a list of the presentation [copies](/book/53) we have sent out.
-
-Including those to the Press. I dont know whether there are any other papers that you have been in the habit of having your books sent to. I will send any you suggest gladly.
-I am sorry that your parcel went by a route that is inconvenient to you.
-
-We will remember again when we have any thing to send.
-
-We will advertise the [Book of Golden Deeds](/book/51) at once.
-
-When you come to London I have a larger scheme to speak to you about if you are at all free to enter into it.
+[I](/person/939) enclose a list of the presentation [copies](/book/53) we have sent out. Including those to the Press. I dont know whether there are any other papers that you have been in the habit of having your books sent to. I will send any you suggest gladly.
+I am sorry that your parcel went by a route that is inconvenient to you. We will remember again when we have any thing to send.
+We will advertise the [Book of Golden Deeds](/book/51) at once. When you come to London I have a larger scheme to speak to you about if you are at all free to enter into it.
 I am asking [Mrs Macmillan](/person/941) to try to arrange a meeting, she will communicate with you.
-
 My printer will not give me the exact account for the Stereotypes
 [The rest of this letter is illegible.]

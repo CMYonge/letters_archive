@@ -1,7 +1,7 @@
 ---
 id: 2895
 title: To Arthur Donald Innes
-date: '1888-11-01'
+iso-date: '1888-11-01'
 display-date: Nov 1st [1888]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -17,6 +17,3 @@ A lady complains of a book by [the author](/person/1467) of Robert Elsmere being
 Yours truly
 
 C M Yonge
-
-
-[^1]:

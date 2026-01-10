@@ -1,7 +1,7 @@
 ---
 id: 3432
 title: To Earl Nelson
-date: '1899-10-30'
+iso-date: '1899-10-30'
 display-date: Oct 30th 1899
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -10,13 +10,7 @@ manuscript-location: MS Princeton University, Parrish Collection
 ---
 
 My dear [Lord Nelson](/person/1081)
-Thank you very heartily for your notes.
-
-It is very pleasant to see how much one’s contemporaries minds are to one’s own. I think all of that training in experience and principle that we have had must feel the expedience of submission in what is not a vital point, if a stand is to be made on what is important.
-
-Nor do I see, what the enemy aver, that yielding in these points leaves us open to attack in others that have long been conceded.
-
-The reasons/placus\[?] are the weak point in the decisions, as every one agrees, but I fully believe that greater strength will come out of the struggle, as has so often happened before
+Thank you very heartily for your notes. It is very pleasant to see how much one’s contemporaries minds are to one’s own. I think all of that training in experience and principle that we have had must feel the expedience of submission in what is not a vital point, if a stand is to be made on what is important. Nor do I see, what the enemy aver, that yielding in these points leaves us open to attack in others that have long been conceded. The reasons/placus\[?] are the weak point in the decisions, as every one agrees, but I fully believe that greater strength will come out of the struggle, as has so often happened before
 Then there was almost nothing to be touched either by the decision or our own Diocesan’s own interpretation in [illegible] change, but thus far I see that we shall not have a special observance of All soul’s day tomorrow as we had last year though of course All Saints is specially marked.
 I look up to Brickworth whenever I pass towards Salisbury, more seldom now than formerly and remember walks on the downs[^2]
 I always enjoy meeting [Susan](/person/164) at Winchester functions
@@ -26,11 +20,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Pasted on the back is the front cover of a pamphlet called ‘The Anglo-Catholic Position in Re the Archbishops’ Decision on Lights and Incense’ by Horatio Earl Nelson.
-
-The letter refers to the widespread public debate about ritualism, which had culminated in the pronouncement on 31 July 1899 by Frederick Temple, the Archbishop of Canterbury, that the liturgical use of candles and incense was forbidden by the Church of England.
-[^2]: Lord Nelson lived at Brickworth, Wiltshire.
-
-He had inherited it from his mother, who had been a friend of FMY.
-
-He and his sister Susan had known CMY since childhood.
+[^2]: Lord Nelson lived at Brickworth, Wiltshire. He had inherited it from his mother, who had been a friend of FMY. He and his sister Susan had known CMY since childhood.

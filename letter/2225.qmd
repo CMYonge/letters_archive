@@ -1,7 +1,7 @@
 ---
 id: 2225
 title: To the Right Reverend Samuel Wilberforce
-date: '1867-12-30'
+iso-date: '1867-12-30'
 display-date: Decr 30th [1867]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne
@@ -18,7 +18,4 @@ Yours very respectfully
 Charlotte M Yonge
 
 
-[^1]: Black-edged paper.
-[^2]: CMY had been in Devon in October, returning on 12 November 1867.
-
-This excuse to Bishop Wilberforce may mark the beginning of her mother’s decline.
+[^2]: CMY had been in Devon in October, returning on 12 November 1867. This excuse to Bishop Wilberforce may mark the beginning of her mother’s decline.

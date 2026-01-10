@@ -1,7 +1,7 @@
 ---
 id: 2481
 title: To an Unknown Woman
-date: '1873-09-10'
+iso-date: '1873-09-10'
 display-date: Sept 10th 1873
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,7 +10,7 @@ manuscript-location: MS National Library of Wales 11,981E
 ---
 
 Dear Madam
-I am much obliged for your enclosure which is valuable and interesting, and shews how it was that only a year later [Mr Keble ](/person/798)was able to gain the scholarship at Corpus
+I am much obliged for your enclosure which is valuable and interesting, and shews how it was that only a year later [Mr Keble](/person/798)was able to gain the scholarship at Corpus
 with many thanks
 yours very truly
 

@@ -1,20 +1,18 @@
 ---
 id: 3349
 title: To Marianne Bigg-Wither
-date: '1897-05-20'
+iso-date: '1897-05-20'
 display-date: May 20, 1897.
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
 to-name: To Marianne Bigg-Wither
-manuscript-location: MS location unknown.  Printed in Coleridge, [[otherbook:40]<i>Life</i>],
+manuscript-location: MS location unknown. Printed in Coleridge, [[otherbook:40]<i>Life</i>],
   329.
 ---
 
 My dearest [Marianne](/person/1546)-
 [Raby](/person/1221) will have told you that [my dear home companion](/person/1462)'s long patience has ended.
-
 She was really dying ever since last evening, though the end did not come till one o'clock to-day, holding my hand, and asking [Henry](/person/184)'s prayers all the time till consciousness was gone, not many minutes before the end. I do not think in the relief I feel the difference it will make to me.
-
 Your strawberries were really welcome to me---one of the few things she could take.-
 Your most affectionate
 C. M. YONGE.

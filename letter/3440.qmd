@@ -1,7 +1,7 @@
 ---
 id: 3440
 title: To Florence Belfield
-date: '1900-01-20'
+iso-date: '1900-01-20'
 display-date: Jan 20th [1900]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -12,14 +12,11 @@ manuscript-location: MS Girton College Cambridge, Yonge XIII 1
 Dear [Mrs Belfield](/person/133)
 The precious mittens are safely come - it is a very curious genealogy for them - They are exactly like some little lace mittens of the 17th century figured in Mrs Earle’s ‘Child Life in Colonial days’
 Madam Cromwell must been Elizabeth daughter of Richard who died at 83 in 1741 - Her mother, who was Dorothy Major of Hursley died in 1675 - so the mittens could not have been sent to her -[^2]
-I will return them as soon as I have been able to shew them to a [cousin ](/person/28)of mine, devoted to King Charles and will in the meantime keep them safely
+I will return them as soon as I have been able to shew them to a [cousin](/person/28)of mine, devoted to King Charles and will in the meantime keep them safely
 I knew Mrs Wynyard when she was living at Hursley. I was glad to hear she is so much better
 
 Yours truly
-C.M.
-
-Yonge
+C.M. Yonge
 
 
-[^1]: Envelope addressed to ‘Mrs Belfield/Malmain/French hay /Bristol and postmarked Winchester 21 January 1900.
 [^2]: The mittens had no doubt been sent to CMY in response to the account in [John Keble\'s Parishes](/book/247) of the connection of the Cromwell and Major families with Hursley.

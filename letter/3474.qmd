@@ -1,7 +1,7 @@
 ---
 id: 3474
 title: To Penelope Anne Laura Packe
-date: '1900-12-29'
+iso-date: '1900-12-29'
 display-date: Decr 29th 1900
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,12 +10,7 @@ manuscript-location: MS Hampshire Record Office 9M55 F56/3
 ---
 
 My dear [Mrs Packe](/person/1112)
-Thank you for the sight of the letters, it looks so like the old old times.[^1] And certainly those were days when there was no ‘looking over the wall’ in contrast to these when one may ‘steal a horse’ Do you know what has become of that window?
-
-Perhaps you have it I suppose the poor old [Bishop ](/person/1383)was in a regular panic, assisted by his Grace’s wife.
-
-Yet he was the first since the days of the NonJurors who began to waken the diocese into life.
-
+Thank you for the sight of the letters, it looks so like the old old times.[^1] And certainly those were days when there was no ‘looking over the wall’ in contrast to these when one may ‘steal a horse’ Do you know what has become of that window? Perhaps you have it I suppose the poor old [Bishop](/person/1383)was in a regular panic, assisted by his Grace’s wife. Yet he was the first since the days of the NonJurors who began to waken the diocese into life.
 The school undertakings are most characteristic and universal and how they were worked at to the very end
 
 Yours sincerely with all good Christmas and New Year wishes

@@ -1,7 +1,7 @@
 ---
 id: 3168
 title: To Arthur Donald Innes
-date: '1891-01-15'
+iso-date: '1891-01-15'
 display-date: Jan 15th 1891
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,11 +10,8 @@ manuscript-location: MS Girton College Cambridge, Yonge IV 23
 ---
 
 Dear [Mr Innes](/person/744),
-I do not suppose the understanding was ever absolutely clear, I have certainly always paid over £20 to [Miss Finlaison](/person/512) half in summer and half in winter, and I have, as you say had [£40](/topic/160) in summer, and £50 in winter, but I an impression that I had £10 more for the Christmas number.
-
-Indeed I am quite sure that [Mr Smith](/person/1344) gave me £10 more for the subeditor, and that I made it £20, £10 being his, and the other £10 from myself[^1]
+I do not suppose the understanding was ever absolutely clear, I have certainly always paid over £20 to [Miss Finlaison](/person/512) half in summer and half in winter, and I have, as you say had [£40](/topic/160) in summer, and £50 in winter, but I an impression that I had £10 more for the Christmas number. Indeed I am quite sure that [Mr Smith](/person/1344) gave me £10 more for the subeditor, and that I made it £20, £10 being his, and the other £10 from myself[^1]
 I began editing the Christmas number for nothing, then he - of his own accord gave me £10 (I believe it was this, but it was often mixed up with payment for writing so that I am not sure[)].
-
 This must be as you please
 
 Yours truly
@@ -22,6 +19,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: This statement of the way the finances of the [MP](/periodical/52) worked in the 1880s and 1890s is interesting.
-
-Innes is evidently unwilling to pay the extra £10.
+[^1]: This statement of the way the finances of the [MP](/periodical/52) worked in the 1880s and 1890s is interesting. Innes is evidently unwilling to pay the extra £10.

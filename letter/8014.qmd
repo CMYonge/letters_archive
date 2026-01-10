@@ -1,7 +1,7 @@
 ---
 id: 8014
 title: To Margaret Sophia Brandt or one of her sisters
-date: '1865-01-21'
+iso-date: '1865-01-21'
 display-date: Jany 21st [1865]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,17 +10,11 @@ manuscript-location: MS Dr Susan Walton
 ---
 
 My dear [Madam](/person/1898)
-I am much obliged for the very interesting account of the terrible cyclone.
-
-Don’t you think one might have the official account of your [brother](/person/1896)’s conduct with the 'butter' – it would surely not be a breach of confidence.[^1] I shall be very glad to put the whole in as soon as I can.
+I am much obliged for the very interesting account of the terrible cyclone. Don’t you think one might have the official account of your [brother](/person/1896)’s conduct with the 'butter' – it would surely not be a breach of confidence.[^1] I shall be very glad to put the whole in as soon as I can.
 
 Yours very truly
 
 C M Yonge
 
 
-[^1]: The article on the cyclone at Masulipatam is described in letters from the assistant collector there, Francis Brandt.
-
-This letter is evidently to one of his three sisters, and has arbitrarily been assigned to the eldest, though it may equally have been addressed to [Emily Charlotte Brandt](/person/1897) or [Margaret Adelaide Brandt](/person/1899) (it seems odd but he did have two sisters whose first name was Margaret).
-
-The \'butter\' was the official commendation of Brandt\'s conduct.
+[^1]: The article on the cyclone at Masulipatam is described in letters from the assistant collector there, Francis Brandt. This letter is evidently to one of his three sisters, and has arbitrarily been assigned to the eldest, though it may equally have been addressed to [Emily Charlotte Brandt](/person/1897) or [Margaret Adelaide Brandt](/person/1899) (it seems odd but he did have two sisters whose first name was Margaret). The \'butter\' was the official commendation of Brandt\'s conduct.

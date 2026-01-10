@@ -1,8 +1,8 @@
 ---
 id: 3570
 title: To Helen Holbeche
-date: '1862-02-13'
-display-date: Feb 13th [1862-3[[footnote:1]]]
+iso-date: '1862-02-13'
+display-date: Feb 13th [1862-3]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
 to-name: To Helen Holbeche
@@ -17,6 +17,3 @@ With many thanks
 yours sincerely
 
 C M Yonge
-
-
-[^1]: The letter is evidently addressed to the author of \'Blindness: Its Trials and Blessings\' MP (July 1861) 91-99.

@@ -1,7 +1,7 @@
 ---
 id: 2919
 title: To James Augustus Henry Murray
-date: '1889-09-21'
+iso-date: '1889-09-21'
 display-date: Sept 21st 1889
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -12,7 +12,7 @@ manuscript-location: 'MS Historical Society of Pennsylvania: Gratz Collection: C
 
 Dear [Sir](/person/1074)
 I send the quotation with another still more to the purpose- but I should not put in two ds- as certainly Hampshire always calls the plant cli-ders.[^1] However no doubt there is authority.
-I was sorry to drop the[ dictionary work](/topic/151) but occupations thickened on me so that I could not keep it up
+I was sorry to drop the[dictionary work](/topic/151) but occupations thickened on me so that I could not keep it up
 
 Yours truly
 

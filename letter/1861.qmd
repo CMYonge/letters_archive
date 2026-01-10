@@ -1,7 +1,7 @@
 ---
 id: 1861
 title: To Jemima Blackburn
-date: '1862-05-05'
+iso-date: '1862-05-05'
 display-date: May 5th [1862]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -11,15 +11,7 @@ manuscript-location: 'MS University of Illinois, Urbana Champaign: Letter 12.'
 
 My dear [Mrs Blackburn](/person/159),
 I fancy that you would find the Cloister & the Hearth answer for your reading to [Mr Blackburn](/person/1862) if you like a tissue of wonderful adventures which befal Erasmus’ father & mother, there are bits rather coarse and I find other people like it better than I did.[^1]
-East Lynn is very clever a capital plot, and would carry on vehemently.
-
-Perhaps you have seen reviews of it - Grandmother’s Money - clever and carries one on.
-
-Debit and Credit - a translation of Freytag’s Soll und Haben carries one into smooth water that I like very much - minute painting of ways in a great German firm, and in a Polish castle, very like Ireland, but some people think it tedious & perhaps you would - it is not new.
-
-These are the chief that occur to me, except those too patent to mention. I like Trollope’s Framley Parsonage better than most things - but I doubt if you would.
-
-Many thanks about the woodcutting. I will try to put [Miss Ashwell](/person/1863) up to do the drawing herself, I think she will do well what she does do - But I do think the French must be dear, that page of good words[?] is much bigger than any book was intended to be - and how can people ever bring out such cheap books full of 'cuts' - I beg Doonholm’s pardon - I could not make out the word, so performed scollops as I always do on such occasions -[^2] I hope you will be able to get home in the long days - we are swarming with nightingales more than I ever knew -
+East Lynn is very clever a capital plot, and would carry on vehemently. Perhaps you have seen reviews of it - Grandmother’s Money - clever and carries one on. Debit and Credit - a translation of Freytag’s Soll und Haben carries one into smooth water that I like very much - minute painting of ways in a great German firm, and in a Polish castle, very like Ireland, but some people think it tedious & perhaps you would - it is not new. These are the chief that occur to me, except those too patent to mention. I like Trollope’s Framley Parsonage better than most things - but I doubt if you would. Many thanks about the woodcutting. I will try to put [Miss Ashwell](/person/1863) up to do the drawing herself, I think she will do well what she does do - But I do think the French must be dear, that page of good words[?] is much bigger than any book was intended to be - and how can people ever bring out such cheap books full of 'cuts' - I beg Doonholm’s pardon - I could not make out the word, so performed scollops as I always do on such occasions -[^2] I hope you will be able to get home in the long days - we are swarming with nightingales more than I ever knew -
 You must have come all the way with the swallows - I hope you fell in with the bird that picks the crocodile’s teeth.[^3]
 If you have not read it, Dr Wolff’s autobiography is more diverting than any novel - I see the old man is just dead - do read his life - it is published by Sanders & Ottley
 

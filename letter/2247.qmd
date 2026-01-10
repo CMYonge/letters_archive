@@ -1,7 +1,7 @@
 ---
 id: 2247
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1868-05-29'
+iso-date: '1868-05-29'
 display-date: May 29 1868
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -9,19 +9,8 @@ manuscript-location: Copy outletter book British Library Add MSS.55387 (1) P. 40
 ---
 
 My dear Miss Yonge,
-[I](/person/939) send you the first copy of the [Cameos](/book/73) which has been bound.
-
-It has been delayed about that title page, in which I wanted to produce a [cameo effect](/topic/167), [illegible] that may be.
-
-The book I am sure is a charming book and we tried to give it an adequate dress.
-I think [Clay](/organisation/173) is making better progress with the [Selections](/book/71). [Miss Sewell](/person/1301) seems satisfied. I have never I think spoken of terms to you or her.
-
-We would I think be disposed to buy this as we did the Cameos.
-
-Do you think this would please both?
-
-One cannot [4 lines too pale to read.]
+[I](/person/939) send you the first copy of the [Cameos](/book/73) which has been bound. It has been delayed about that title page, in which I wanted to produce a [cameo effect](/topic/167), [illegible] that may be. The book I am sure is a charming book and we tried to give it an adequate dress.
+I think [Clay](/organisation/173) is making better progress with the [Selections](/book/71). [Miss Sewell](/person/1301) seems satisfied. I have never I think spoken of terms to you or her. We would I think be disposed to buy this as we did the Cameos. Do you think this would please both? One cannot [4 lines too pale to read.]
 I dont forget that we owe you for the Cameos & the [Pupils](/book/72). I am afraid that we shall find the number published of the [Library](/topic/145) [illegible] of the volumes.
-
 Yours very faithfully
 Alex Macmillan

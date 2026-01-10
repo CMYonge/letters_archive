@@ -1,7 +1,7 @@
 ---
 id: 2212
 title: To Christabel Rose Coleridge
-date: '1867-10-12'
+iso-date: '1867-10-12'
 display-date: Oct 12th 1867
 from-name: Charlotte Mary Yonge
 from-address: Puslinch Yealmpton

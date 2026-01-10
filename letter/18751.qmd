@@ -1,7 +1,7 @@
 ---
 id: 18751
 title: To Susan (Dabney) Smedes
-date: '1888-02-10'
+iso-date: '1888-02-10'
 display-date: Feb 10th 1888
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -23,5 +23,4 @@ C M Yonge
 Do I gather from your address that you are engaged in Mission work among the Indians?
 
 
-[^1]: With envelope addressed to \'Mrs Smedes/ Indian Camp/ Fort Sabulben? /Rosebud Agency /Dakota / U S A\' and postmarked Winchester 10 February 1888.
 [^2]: CMY favourably reviewed Smedes\'s Memorials of a Southern Planter, a biography of her father which depicted him as a benevolent slave-owner, in \'[Conversation on Books](/book/280)\' MP (May 1888), 461-2.

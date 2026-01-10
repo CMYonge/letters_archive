@@ -1,7 +1,7 @@
 ---
 id: 2299
 title: To Henrietta Elizabeth Fursdon
-date: '1866-02-01'
+iso-date: '1866-02-01'
 display-date: Febry 3d [1866]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,14 +10,11 @@ manuscript-location: MS Mrs Katherine Wykes-Sneyd
 ---
 
 My dear [Henrietta](/person/538)
-I believe Goosedom is to be revived in the new members, not that new ones are ever so good as old.
-
-The two first proposed are accepted, and I hope your [Lilian](/person/1008) will be, but you will hear from the [Secretary](/person/329).[^2] I am afraid I did not find her out at the Patteson’s party.[^3] We shall have to make a new arrangement as to circulation which you shall hear in the next Cackle when it is matured
+I believe Goosedom is to be revived in the new members, not that new ones are ever so good as old. The two first proposed are accepted, and I hope your [Lilian](/person/1008) will be, but you will hear from the [Secretary](/person/329).[^2] I am afraid I did not find her out at the Patteson’s party.[^3] We shall have to make a new arrangement as to circulation which you shall hear in the next Cackle when it is matured
 
 yo
 [signature cut out]
 
 
-[^1]: Black-edged paper.
 [^2]: The two new members of the [Gosling Society](/topic/104) were [Frances Mary Peard](/person/1160) and [Florence Wilford](/person/1520).
 [^3]: The Pattesons were [Joan](/person/1154) and [Fanny Patteson](/person/1151), who lived at Torquay, not far from Lilian Mitchell\'s home at Kingsteignton.

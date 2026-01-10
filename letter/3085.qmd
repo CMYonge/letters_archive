@@ -1,7 +1,7 @@
 ---
 id: 3085
 title: To Anna Butler
-date: '1856-07-11'
+iso-date: '1856-07-11'
 display-date: July 11th [1856]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
@@ -19,6 +19,4 @@ C M Yonge
 
 
 [^1]: The last episode of Fanny Caroline Lefroy’s novel Long, Long Ago appeared in MP 12 (August 1856) 106-141.
-[^2]: The heroine of Long, Long Ago is in love with a headstrong young man she has been forbidden to marry, who tries to persuade her to elope.
-
-She does not, and after many years is persuaded by her mother to marry an older and staider man with whom she is happy in a quiet way.
+[^2]: The heroine of Long, Long Ago is in love with a headstrong young man she has been forbidden to marry, who tries to persuade her to elope. She does not, and after many years is persuaded by her mother to marry an older and staider man with whom she is happy in a quiet way.

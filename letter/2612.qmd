@@ -1,7 +1,7 @@
 ---
 id: 2612
 title: To Elizabeth Wordsworth
-date: '1877-11-24'
+iso-date: '1877-11-24'
 display-date: 24 November 1877
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,12 +11,7 @@ manuscript-location: MS Lady Margaret Hall, Oxford.
 
 My dear [Elizabeth](/person/1566)
 I believe (reluctantly) that you are right and that Ebb & Flow is too apposite to the present fashion to bear postponement, I think [Macmillan](/person/939) would take such a story as that, and do well by it, I hope to send it off on Monday.[^1]
-[Gertrude](/person/1462) thanks much for the paper about the works She has sent off a parcel today Yes, [M.Guizot](/person/597) gave me that history of France as it came out and having lately achieved binding it, it becomes a most agreeable possession, and Gertrude is diligently reading it through.
-
-The pictures are delightful.[^1] Have you read Uarda – It is very like being in Egypt allowing for a slight tincture of the German scholar.
-
-About the sling – if Frank once began with a solid one, I don’t think he would have taken to the awkwardness of a handkerchief – which is rather a thing extemporized for a day or two’s hurt.
-
+[Gertrude](/person/1462) thanks much for the paper about the works She has sent off a parcel today Yes, [M.Guizot](/person/597) gave me that history of France as it came out and having lately achieved binding it, it becomes a most agreeable possession, and Gertrude is diligently reading it through. The pictures are delightful.[^1] Have you read Uarda – It is very like being in Egypt allowing for a slight tincture of the German scholar. About the sling – if Frank once began with a solid one, I don’t think he would have taken to the awkwardness of a handkerchief – which is rather a thing extemporized for a day or two’s hurt.
 What is that fresh zest of life made of - does it come from inside or outside or both. I fancy the outside ingredient must be something to surmount, and in the inward the spirit to try.
 
 Yours affectionately
@@ -25,4 +20,3 @@ C M Yonge
 
 
 [^1]: CMY wished to publish Wordsworth\'s novel in MP, but could not do so immediately.
-[^2]: Perhaps his L’histoire de France depuis les temps les plus reculés jusqu’en 1789, racontée à mes petits-enfants . . . illustré . . d’après les dessins d’A de Neuville, 5 vols (Paris 1870-6).

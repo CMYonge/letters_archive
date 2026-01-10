@@ -1,7 +1,7 @@
 ---
 id: 2337
 title: To Messrs Macmillan
-date: '1869-09-02'
+iso-date: '1869-09-02'
 display-date: Sept 2nd [1869]
 from-name: Charlotte Mary Yonge
 from-address: Testwood

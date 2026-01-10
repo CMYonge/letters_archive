@@ -1,7 +1,7 @@
 ---
 id: 3187
 title: To Miss Abraham
-date: '1892-01-13'
+iso-date: '1892-01-13'
 display-date: Jan. 13th 1892
 from-name: Charlotte Mary Yonge
 from-address: Elderfield

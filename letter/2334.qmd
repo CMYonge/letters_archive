@@ -1,7 +1,7 @@
 ---
 id: 2334
 title: To Mary Anne Dyson
-date: '1869-08-13'
+iso-date: '1869-08-13'
 display-date: August 13. [1869]
 from-name: Charlotte Mary Yonge
 from-address: '[[other:205]Val Richer],'
@@ -11,45 +11,8 @@ manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:4
 ---
 
 My dear [Marianne](/person/464)-
-Here is our last morning here, at least so I hope, for I ended the day yesterday by a collapse, and instead of spending the evening with [M.
-
-Guizot](/person/597), had to lie on my back in my room all the evening.
-
-However, I am much mended, and hope to be in thorough repair before we start at 12 o’clock. [Madame de Witt](/person/423)’s cold was very bad yesterday and she only came out at meal times, but I had a walk with the old gentleman and a very interesting talk, in which you would not have at all agreed so far as our English affairs went, being that he thinks [Lord Salisbury](/person/547) (N.B.---he was always rather a hero to me) the best hope of England.
-
-About the state of religion in France, he says that there is a great revival among the upper classes---[Père Hyacinthe](/person/903) and [Montalembert](/person/1034) forming round them what he called a bande d’élite (?) which he said was sure to be the sign of a great step in religious influence.
-
-The bourgeois are the worst, being hostile to Christianity, and the peasants are in the old style, everybody going to mass, and learning the Catechism, but for the most part with little intelligence, the priests not instructing them much except in the letter, though with occasional exceptions, such as the good Curé of St.
-
-Roque, who by the way came to call yesterday morning, looking very spruce and unlike what he was when dusting his church, and talking over the people like an English clergyman.
-
-The point is the getting the Sister for the ragged school, but as there is only room and maintenance for one, the Superiors make a great difficulty about sending one alone, and M.
-
-Guizot has written to the Bishop to beg him to find him one.
-
-The Bishop of Lisieux is a strict good man, about forty-five, with about 1000 clergy under him.[^1] Catechisms and fasting-days vary with the diocese; this being a strict one, they fast on Fridays and Saturdays, a fact brought home to us by the garden paths being strewn with mussel shells.
-
-Six sous of mussels will dine fifteen people.
-
-The Norman peasants are perfectly honest and faithful, but ils n’ont pas de la delicatesse ou la morale.
-
-Thanks to [Gertrude](/person/1462) for her letter. M.
-
-Guizot has a [son](/person/2047) who lives in the south of France, and has such a memory that he can repeat anything after once hearing it.
-
-Once he took in a poet who had been reciting a new composition by pretending to have heard it before, and saying it right off.
-
-Also the other [daughter](/person/427) married another de Witt.
-
-The two de Witt brothers, [Conrad](/person/419) and [Cornelius](/person/420), were left orphans and brought up by three old aunts, the last of whom came to live here with them, and was nursed till she died about a year ago.
-
-The expedition to Falaise seems to have been delightful, but [Frances](/person/1604) is very tired and headachy this morning.
-
-All I have gathered is that the castle is perched on a dolomite rock, with another opposite to it, just like the Round’s Nest (a grand rock rising up like a wall near [Puslinch](/place/123)).
-
-Also that they saw the horse-fair, which was of chevaux de luxe that day, the fair having begun on Sunday.
-
-Altogether this visit has been a great enjoyment, and memorable in many ways.
+Here is our last morning here, at least so I hope, for I ended the day yesterday by a collapse, and instead of spending the evening with [M. Guizot](/person/597), had to lie on my back in my room all the evening. However, I am much mended, and hope to be in thorough repair before we start at 12 o’clock. [Madame de Witt](/person/423)’s cold was very bad yesterday and she only came out at meal times, but I had a walk with the old gentleman and a very interesting talk, in which you would not have at all agreed so far as our English affairs went, being that he thinks [Lord Salisbury](/person/547) (N.B.---he was always rather a hero to me) the best hope of England. About the state of religion in France, he says that there is a great revival among the upper classes---[Père Hyacinthe](/person/903) and [Montalembert](/person/1034) forming round them what he called a bande d’élite (?) which he said was sure to be the sign of a great step in religious influence. The bourgeois are the worst, being hostile to Christianity, and the peasants are in the old style, everybody going to mass, and learning the Catechism, but for the most part with little intelligence, the priests not instructing them much except in the letter, though with occasional exceptions, such as the good Curé of St. Roque, who by the way came to call yesterday morning, looking very spruce and unlike what he was when dusting his church, and talking over the people like an English clergyman. The point is the getting the Sister for the ragged school, but as there is only room and maintenance for one, the Superiors make a great difficulty about sending one alone, and M. Guizot has written to the Bishop to beg him to find him one. The Bishop of Lisieux is a strict good man, about forty-five, with about 1000 clergy under him.[^1] Catechisms and fasting-days vary with the diocese; this being a strict one, they fast on Fridays and Saturdays, a fact brought home to us by the garden paths being strewn with mussel shells. Six sous of mussels will dine fifteen people. The Norman peasants are perfectly honest and faithful, but ils n’ont pas de la delicatesse ou la morale. Thanks to [Gertrude](/person/1462) for her letter. M. Guizot has a [son](/person/2047) who lives in the south of France, and has such a memory that he can repeat anything after once hearing it. Once he took in a poet who had been reciting a new composition by pretending to have heard it before, and saying it right off. Also the other [daughter](/person/427) married another de Witt. The two de Witt brothers, [Conrad](/person/419) and [Cornelius](/person/420), were left orphans and brought up by three old aunts, the last of whom came to live here with them, and was nursed till she died about a year ago.
+The expedition to Falaise seems to have been delightful, but [Frances](/person/1604) is very tired and headachy this morning. All I have gathered is that the castle is perched on a dolomite rock, with another opposite to it, just like the Round’s Nest (a grand rock rising up like a wall near [Puslinch](/place/123)). Also that they saw the horse-fair, which was of chevaux de luxe that day, the fair having begun on Sunday. Altogether this visit has been a great enjoyment, and memorable in many ways.
 I hope to write to-morrow and tell you how we get to Paris
 Your most affectionate
 C. M. YONGE.

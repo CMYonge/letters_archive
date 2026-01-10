@@ -1,7 +1,7 @@
 ---
 id: 2898
 title: To Millicent Fawcett?
-date: '1888-01-01'
+iso-date: '1888-01-01'
 display-date: '[1888?]'
 from-name: Charlotte Mary Yonge
 to-name: To Millicent Fawcett?
@@ -11,17 +11,8 @@ manuscript-location: MS transcription by Fawcett, from a letter presumably addre
 
 [To [Millicent Fawcett](/person/2380)[Headed 'Extract of a letter from Miss Charlotte Yonge']
 'I am quite inclined in the main to agree with your protest.
-1st.
-
-That the birch should be substituted for the cane in schools
-2nd.
-
-That no one should inflict corporal punishment but the Head teacher
-3rd.
-
-That the punishment should never be irregular.
+1st. That the birch should be substituted for the cane in schools
+2nd. That no one should inflict corporal punishment but the Head teacher
+3rd. That the punishment should never be irregular.
 I do not think a good master or mistress would have to inflict such punishment except in extreme cases but it would be most mischievous for the children to know they had not the power.
 4th. I quite agree to what you say about the police whipping for slight offences and the evil of excepting girls.'
-
-
-[^1]: Millicent (Garrett) Fawcett (1847–1929), suffragist and campaigner on educational issues.

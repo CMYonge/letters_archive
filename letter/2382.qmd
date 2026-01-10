@@ -1,7 +1,7 @@
 ---
 id: 2382
 title: To Christabel Rose Coleridge
-date: '1870-05-31'
+iso-date: '1870-05-31'
 display-date: May 31 st [1870]
 from-name: Charlotte Mary Yonge
 from-address: Wantage
@@ -10,22 +10,15 @@ manuscript-location: MS Mrs Clare Roels
 ---
 
 My dear [Christabel](/person/329)
-The [Goslings](/topic/104) will not die. I find we had better kill the useless members, and get some quite young ones in keeping the questions easier- We have now left only [Cricket](/person/1603), [Frog](/person/822), [Double Daisy](/person/1161) and[ Pixie](/person/539) to whom is to be added
+The [Goslings](/topic/104) will not die. I find we had better kill the useless members, and get some quite young ones in keeping the questions easier- We have now left only [Cricket](/person/1603), [Frog](/person/822), [Double Daisy](/person/1161) and[Pixie](/person/539) to whom is to be added
 The Honble
 [Alethea Colborne](/person/317),
 Beechwood
 Plympton
-I am not sure what she is to be called [^2]- Can you still be Secretary even if you have no time for the Questions?
-
-It would be a great help to me.
-
-Frog [^3] proposes a new one but I have not the particulars of her yet. I am going home on Thursday I have had a very pleasant expedition all round Devon ending with Torquay and Ottery.
-
-Frog suggests the Goslings writing their criticisms below Cackle, which would be amusing, I think
+I am not sure what she is to be called [^2]- Can you still be Secretary even if you have no time for the Questions? It would be a great help to me. Frog [^3] proposes a new one but I have not the particulars of her yet. I am going home on Thursday I have had a very pleasant expedition all round Devon ending with Torquay and Ottery. Frog suggests the Goslings writing their criticisms below Cackle, which would be amusing, I think
 your affectionate
 Mother Goose
 
 
-[^1]: Black-edged paper.
 [^2]: Mary Fursdon was told Alethea Colborne was to be Bluebell on 10 July 1870.
 [^3]: CMY was staying with Frog\'s parents the Butlers at Wantage Vicarage.

@@ -1,7 +1,7 @@
 ---
 id: 1933
 title: To Alexander Macmillan
-date: '1864-02-01'
+iso-date: '1864-02-01'
 display-date: Febry 1st [1864]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -12,9 +12,4 @@ manuscript-location: 'MS British Library Add MSS 54920: 18'
 Dear [Mr Macmillan](/person/939),
 I enclose what [Mrs Blackburn](/person/159) says in answer to my question about the drawings for the [Little Duke](/book/20) - Will you tell me what you think of the matter? I suppose she might improve some of the faces, but I think it is quite open to you to find some other designer. I shall send tomorrow another parcel of [the Trial](/book/53)
 Yours faithfully
-C.M.
-
-Yonge
-
-
-[^1]: Black-edged paper.
+C.M. Yonge

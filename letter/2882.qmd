@@ -1,7 +1,7 @@
 ---
 id: 2882
 title: To Ellen Barlee
-date: '1888-05-05'
+iso-date: '1888-05-05'
 display-date: May 5th 1888
 from-name: Charlotte Mary Yonge
 from-address: Torquay
@@ -17,12 +17,4 @@ yours sincerely
 C M Yonge
 
 
-[^1]: Evidently Ellen Barlee, writer, social worker and contributor to MPhad succeeded Anne Mackenzie as editor of the missionary journal The Net.
-
-The first Anglican Bishop of Madagascar, the Rt.
-
-Rev.
-
-Robert Kestell Cornish (1824-1909), was consecrated in 1874.
-
-His brother-in-law taught at Winchester College and was a friend of CMY\'s.
+[^1]: Evidently Ellen Barlee, writer, social worker and contributor to MPhad succeeded Anne Mackenzie as editor of the missionary journal The Net. The first Anglican Bishop of Madagascar, the Rt. Rev. Robert Kestell Cornish (1824-1909), was consecrated in 1874. His brother-in-law taught at Winchester College and was a friend of CMY\'s.

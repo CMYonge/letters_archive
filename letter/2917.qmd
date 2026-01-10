@@ -1,7 +1,7 @@
 ---
 id: 2917
 title: To Mary Elizabeth (Wormeley)Latimer
-date: '1889-09-20'
+iso-date: '1889-09-20'
 display-date: Sept 20th 1889
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -12,18 +12,10 @@ manuscript-location: 'MS Historical Society of Pennsylvania: Gratz Collection: C
 
 My dear [Mrs Latimer](/person/846)
 
-You once were so kind as to say that you would befriend my nephew [Arthur Yonge](/person/1607) if he came in your way.
-
-He has been getting on very prosperously at the saw mills in Cumberland valley but he has had a malarial fever, and does not shake off the effects, and it might be a great help to his health if you would be so very good as to let him spend a few days with you.
-
-He is a nice gentlemanlike youth of 26, but not clever.
-
-His address is
+You once were so kind as to say that you would befriend my nephew [Arthur Yonge](/person/1607) if he came in your way. He has been getting on very prosperously at the saw mills in Cumberland valley but he has had a malarial fever, and does not shake off the effects, and it might be a great help to his health if you would be so very good as to let him spend a few days with you. He is a nice gentlemanlike youth of 26, but not clever. His address is
 
 F.A.Yonge
-c/o A.
-
-Arthur
+c/o A. Arthur
 146 Knoxville
 Tennessee
 

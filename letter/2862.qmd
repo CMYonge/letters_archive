@@ -1,7 +1,7 @@
 ---
 id: 2862
 title: To the Marchioness of Salisbury
-date: '1887-09-01'
+iso-date: '1887-09-01'
 display-date: Sept 2d 1887
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -19,9 +19,7 @@ yours truly
 
 C M Yonge
 
-And now I see you are at Dieppe.
-
-However I shall let this pursue you!
+And now I see you are at Dieppe. However I shall let this pursue you!
 
 
 [^1]: Richard Thompson Gunton (1846-1921), librarian at Hatfield House 1878-1921.

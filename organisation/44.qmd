@@ -5,6 +5,4 @@ name: Society of Authors, The
 title: Society of Authors, The
 ---
 
-This professional society was founded by the novelist [Walter Besant](/person/1652) in 1884 to protect the rights of authors.
-
-It carries on this work today; see http://www.societyofauthors.org/about_the_society/index.html
+This professional society was founded by the novelist [Walter Besant](/person/1652) in 1884 to protect the rights of authors. It carries on this work today; see http://www.societyofauthors.org/about_the_society/index.html

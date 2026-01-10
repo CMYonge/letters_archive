@@ -1,7 +1,7 @@
 ---
 id: 2571
 title: To George Lillie Craik
-date: '1877-02-02'
+iso-date: '1877-02-02'
 display-date: Feb 2nd 1877
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -18,10 +18,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: The \'two French histories\' were the [History of France](/book/99), in the \'Historical Course for Schools\' which E. A.
-
-Freeman, the series editor, was making her rewrite, and which was not actually published until 1879; and the [History of France](/book/353) (1878) which she was contributing to the \'History Primers\' series edited by J. R.
-
-Green.
-
-The former was aimed at older children, and had ten chapters rather than eight.
+[^1]: The \'two French histories\' were the [History of France](/book/99), in the \'Historical Course for Schools\' which E. A. Freeman, the series editor, was making her rewrite, and which was not actually published until 1879; and the [History of France](/book/353) (1878) which she was contributing to the \'History Primers\' series edited by J. R. Green. The former was aimed at older children, and had ten chapters rather than eight.

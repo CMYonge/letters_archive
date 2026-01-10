@@ -1,7 +1,7 @@
 ---
 id: 1971
 title: To Alexander Macmillan
-date: '1864-08-22'
+iso-date: '1864-08-22'
 display-date: August 22nd [1864]
 from-name: Charlotte Mary Yonge
 from-address: '[[person:1379]Miss Sturges Bourn] Testwood Southampton'
@@ -11,27 +11,16 @@ manuscript-location: 'MS British Library Add MSS 54920: 32-33'
 
 Dear [Mr Macmillan](/person/939),
 We are still constantly reminded by our own condition of the nursery tale of the old woman whose rope -rope would not hang butcher - butcher would not kill ox, &c &c, only unluckily the last link in the chain does not stop at 'I shall not get home tonight', but as long as plasterer will not plaster stairs and stairs can’t be gone up &c, &c, I cannot finish [Golden Deeds](/book/51)!
-I can do a good deal to them in the pleasant quiet house in which we are staying now, but unluckily not those one or two early chapters that must be done before I can send any to the printer. I am afraid I cannot get these finished before the middle of September.
-
-We are certainly to go home on the 3rd, but I foresee an interrupted week after that, and I am sure I must not promise the chapters sooner.
-
-If I try to do Decius here I shall not dress him rightly in his toga proetexta[^1].
-
-And there is an exquisite translation of Professor Anstice of a chorus in Alcestis that I cannot deny myself putting in though it is somewhat in the realms of myth.
-I have all the reports of the Monthyon on prix de la vertu, and find beautiful things in them, and I have hopes of Lotty, from among the papers of the friend I gave her to.[^2] The Dutch boy must be given up. [Mde de Witt ](/person/423)wrote to her Dutch friends about it, and was answered that not only was the story untrue, but whoever fabricated it could never have seen the dykes.
+I can do a good deal to them in the pleasant quiet house in which we are staying now, but unluckily not those one or two early chapters that must be done before I can send any to the printer. I am afraid I cannot get these finished before the middle of September. We are certainly to go home on the 3rd, but I foresee an interrupted week after that, and I am sure I must not promise the chapters sooner. If I try to do Decius here I shall not dress him rightly in his toga proetexta[^1]. And there is an exquisite translation of Professor Anstice of a chorus in Alcestis that I cannot deny myself putting in though it is somewhat in the realms of myth.
+I have all the reports of the Monthyon on prix de la vertu, and find beautiful things in them, and I have hopes of Lotty, from among the papers of the friend I gave her to.[^2] The Dutch boy must be given up. [Mde de Witt](/person/423)wrote to her Dutch friends about it, and was answered that not only was the story untrue, but whoever fabricated it could never have seen the dykes.
 I hope your party are all much enjoying this delightful weather at Sandown, but I am afraid the summer is nearly gone.
 I think the [Saturday](/periodical/99) gives the fairest and most sensible review of [the Trial](/book/53) I have seen, it does not miss the point as some entirely do, and that is what I care about, much more than going along with it in taste or principle.
-
 Remember me kindly to the ladies[^3]
 Yours very truly
-C. M.
-
-Yonge		
+C. M. Yonge		
 I shall be here till the 3d
 
 
 [^1]: The story of Publius Decius Mus and his toga proetexta [sic] is given in A Book of Golden Deeds.
-[^2]: The story of \'Lotty\' was one she had seen in a newspaper and wished to include in A Book of Golden Deeds, but she does not appear to have been able to recover it.
-
-The Monthyon Prizes were awards for philanthropy given to poor French people, and are described there.
+[^2]: The story of \'Lotty\' was one she had seen in a newspaper and wished to include in A Book of Golden Deeds, but she does not appear to have been able to recover it. The Monthyon Prizes were awards for philanthropy given to poor French people, and are described there.
 [^3]: His [wife](/person/940) and [sister-in-law](/person/941).

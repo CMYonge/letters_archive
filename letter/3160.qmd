@@ -1,7 +1,7 @@
 ---
 id: 3160
 title: To George Lillie Craik
-date: '1890-06-01'
+iso-date: '1890-06-01'
 display-date: June 9th1890
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,13 +10,7 @@ manuscript-location: 'MS British Library Add MSS 54921: 179'
 ---
 
 Dear [Mr Craik](/person/379)
-I have just finished a story called ‘[Two Penniless Princesses](/book/216)’ about the two daughters of James I of Scotland who went to visit their sister, the wife of the future Louis XI, and found her just dead.
-
-It is in 12 chapters, each taking from 12 to 16 pp of the [Monthly Packet](/periodical/52), where half has appeared.
-
-It is to be finished there in December.
-
-Is it well to take any steps for separate publication?
+I have just finished a story called ‘[Two Penniless Princesses](/book/216)’ about the two daughters of James I of Scotland who went to visit their sister, the wife of the future Louis XI, and found her just dead. It is in 12 chapters, each taking from 12 to 16 pp of the [Monthly Packet](/periodical/52), where half has appeared. It is to be finished there in December. Is it well to take any steps for separate publication?
 
 Yours truly
 

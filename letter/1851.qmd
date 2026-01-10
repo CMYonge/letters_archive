@@ -1,7 +1,7 @@
 ---
 id: 1851
 title: To Henrietta Elizabeth Fursdon
-date: '1861-12-31'
+iso-date: '1861-12-31'
 display-date: Decr 31st [1861]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester
@@ -11,10 +11,7 @@ manuscript-location: MS Mrs Katherine Wykes-Sneyd
 
 My dear [Irene](/person/538)
 I send back the translation with many thanks for the sight of it. I was very sorry to see by the paper that the sorrow you feared has come,[^1] and that the year is closing on you in sorrow and mourning, perhaps of a kind that one feels doubly, through one’s parents as well as oneself. I do not know whether you are feeling able to care for these Gosling matters now but I think I told [Pena](/person/973) all about them.
-
-The [Firefly](/person/1168) and [Cobweb](/person/675) had each three votes so they will each have an equal prize.
-
-Many thanks to you and [Glow Worm](/person/534) for your photographs, hers is one of the best, and I am glad to have seen her brown eyes, and know the likeness
+The [Firefly](/person/1168) and [Cobweb](/person/675) had each three votes so they will each have an equal prize. Many thanks to you and [Glow Worm](/person/534) for your photographs, hers is one of the best, and I am glad to have seen her brown eyes, and know the likeness
 your affectionate
 Mother Goose
 

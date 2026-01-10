@@ -1,7 +1,7 @@
 ---
 id: 3324
 title: To Agnes Charlotte Compton
-date: '1896-04-18'
+iso-date: '1896-04-18'
 display-date: April 18th [1896]
 from-name: Charlotte Mary Yonge
 from-address: G F S Elderfield Otterbourne Winchester
@@ -15,9 +15,3 @@ Would you be so kind as to answer this lady, as you understand the [Reading Unio
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: Agnes Charlotte Compton (b. 1863), daughter of the Rev.
-
-John Compton, Rector of Minstead with Lyndhurst.
-[^2]: Envelope postmarked Winchester 2.45.PM Ap 18 96 and addressed ‘Miss A C Compton/Rectory/ Minstead/Lyndhurst’ and forwarded to ‘c/o Canon Lucas/Shortlands/Kent’.

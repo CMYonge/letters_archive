@@ -3,8 +3,8 @@ id: 192
 title: '‘Nurse’s Pocket’ in Jack Frost’s Little Prisoners. : A Collection of Stories
   for Children from Four to Twelve Years of Age. By Stella Austin. S. Baring-Gould.
   Caroline Birley. Lord Brabourne. ('
-author: Charlotte Mary Yonge
-date: '1886'
+author-name: Charlotte Mary Yonge
+publication-date: '1886'
 genre: Fiction
 publication-format: Story in collection.
 publisher: 'London: William Skeffington, 163 Piccadilly.'

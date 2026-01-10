@@ -1,7 +1,7 @@
 ---
 id: 3275
 title: To the Reverend John Frederick Watkinson Bullock
-date: '1894-10-30'
+iso-date: '1894-10-30'
 display-date: Oct 30 [1894]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,9 +10,7 @@ manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e.174 ff 
 ---
 
 Dear [Mr Bullock](/person/221),
-I fancied from your letter that you had Langton’s history written before, and only wanted the devotional part. I send the history now.
-
-Do you know the curious Surrey tradition that Langton was in love with a lady who became a nun and people in Surrey really believe that he is buried in a church just opposite to the one where she is buried.
+I fancied from your letter that you had Langton’s history written before, and only wanted the devotional part. I send the history now. Do you know the curious Surrey tradition that Langton was in love with a lady who became a nun and people in Surrey really believe that he is buried in a church just opposite to the one where she is buried.
 
 I cannot recollect the names, but I saw the Churches on two opposite hills[.] [Martin Tupper](/person/1801) made a story of it, but I could not find any grounds for it[^1]
 
@@ -21,10 +19,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: The legend seems to be told of the church of St.
-
-Martha on the Hill, Chilworth, near Guildford.
-
-The story was perhaps the poem which appeared in Martin Tupper, Surrey (Guildford 1849). CMY was evidently writing the life of Stephen Langton (c.1150-1228), Archbishop of Canterbury, for Bullock\'s book [[otherbook:118Daily Lections].
-
-The [\'Biographies of Eminent Anglicans\'](/book/358) exist in MS but were never published.
+[^1]: The legend seems to be told of the church of St. Martha on the Hill, Chilworth, near Guildford. The story was perhaps the poem which appeared in Martin Tupper, Surrey (Guildford 1849). CMY was evidently writing the life of Stephen Langton (c.1150-1228), Archbishop of Canterbury, for Bullock\'s book [[otherbook:118Daily Lections]. The [\'Biographies of Eminent Anglicans\'](/book/358) exist in MS but were never published.

@@ -1,8 +1,8 @@
 ---
 id: 86
 title: Little Lucy’s Wonderful Globe.
-author: Charlotte Mary Yonge
-date: '1871'
+author-name: Charlotte Mary Yonge
+publication-date: '1871'
 genre: Fiction (modern)
 publication-format: Book
 publisher: 'London and New York: Macmillan and Company.'

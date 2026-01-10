@@ -5,8 +5,4 @@ name: <i>Record, The</i>
 title: <i>Record, The</i>
 ---
 
-Weekly newspaper, published in London 1828-1948.
-
-It was Evangelical and anti-Tractarian.
-
-It merged with the Church of England Newspaper and ran 1949-1969 as the Church of England Newspaper and the Record.
+Weekly newspaper, published in London 1828-1948. It was Evangelical and anti-Tractarian. It merged with the Church of England Newspaper and ran 1949-1969 as the Church of England Newspaper and the Record.

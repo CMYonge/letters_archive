@@ -1,7 +1,7 @@
 ---
 id: 3402
 title: To the Marchioness of Salisbury
-date: '1899-04-04'
+iso-date: '1899-04-04'
 display-date: April 4th 1899
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -10,16 +10,8 @@ manuscript-location: MS The Marquess of Salisbury, Hatfield House 3MCH/5/3/4
 ---
 
 My dear [Lady Salisbury](/person/548)
-I am venturing to ask if you would be so good as to present my niece [Mrs Cromie](/person/388) at the coming drawing room.
-
-Her husband [Captain Cromie](/person/386) has just been promoted from Morocco to Algeciras, and they are in England during the transit.
-
-It would of course be much more convenient to her to be presented now that she is at home than to have to come on purpose.
-
-If you have not to present her officially[^1] would you do so unofficially?
-
-And can you let her know at once that she may send in her name for the 10th or 16th of May.
-
+I am venturing to ask if you would be so good as to present my niece [Mrs Cromie](/person/388) at the coming drawing room. Her husband [Captain Cromie](/person/386) has just been promoted from Morocco to Algeciras, and they are in England during the transit. It would of course be much more convenient to her to be presented now that she is at home than to have to come on purpose.
+If you have not to present her officially[^1] would you do so unofficially? And can you let her know at once that she may send in her name for the 10th or 16th of May.
 Her address is
 6 Cornwall Terrace
 Regents Park
@@ -31,11 +23,5 @@ yours sincerely
 C M Yonge
 
 
-[^1]: In her capacity as wife of the Foreign Secretary.
-
-Captain Cromie was British consul in Algeciras.
-
-He himself was presented to the Duke of Connaught (The Times, 6 May 1899, 15) but we have not found a record of his wife\'s presentation.
-
-Although it was no doubt conventional for the wives of consuls to be presented at court, the fact that Cromie had divorced his first wife may have had some bearing on the issue, perhaps making it especially desirable that Joanna should appear under the aegis of someone at once so grand and so respectable as Lady Salisbury.
+[^1]: In her capacity as wife of the Foreign Secretary. Captain Cromie was British consul in Algeciras. He himself was presented to the Duke of Connaught (The Times, 6 May 1899, 15) but we have not found a record of his wife\'s presentation. Although it was no doubt conventional for the wives of consuls to be presented at court, the fact that Cromie had divorced his first wife may have had some bearing on the issue, perhaps making it especially desirable that Joanna should appear under the aegis of someone at once so grand and so respectable as Lady Salisbury.
 [^2]: Lady Salisbury was ill and died on 20 November 1899.

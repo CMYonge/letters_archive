@@ -1,7 +1,7 @@
 ---
 id: 3542
 title: To an Unknown Woman
-date: '1864-11-20'
+iso-date: '1864-11-20'
 display-date: Novr 20th.[1864]
 from-name: Charlotte Mary Yonge
 from-address: “Monthly Packet,” 6, Paternoster Row, London, E.C.
@@ -17,8 +17,4 @@ Yours truly
 C M Yonge (Ed [M P](/periodical/52))
 
 
-[^1]: MP (January 1865) \'Notices to Correspondents\' noted \'A Subscriber may be glad to know that funds are being raised to establish a training ship in the Mersey for good destitute boys, on a similar plan to the Akbar Reformatory Ship.
-
-Treasurer, John Clint Esq., Liverpool.’ George H.
-
-Chambers was chairman of the committee of the training ship Worcester (The Times 29 September 1874).
+[^1]: MP (January 1865) \'Notices to Correspondents\' noted \'A Subscriber may be glad to know that funds are being raised to establish a training ship in the Mersey for good destitute boys, on a similar plan to the Akbar Reformatory Ship. Treasurer, John Clint Esq., Liverpool.’ George H. Chambers was chairman of the committee of the training ship Worcester (The Times 29 September 1874).

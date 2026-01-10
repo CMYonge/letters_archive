@@ -1,7 +1,7 @@
 ---
 id: 3106
 title: To Ann Maria Carter Smith
-date: '1857-09-14'
+iso-date: '1857-09-14'
 display-date: Sept 14th 1857
 from-name: Charlotte Mary Yonge
 to-name: To Ann Maria Carter Smith

@@ -5,10 +5,4 @@ name: Winchester Girls’ High School
 title: Winchester Girls’ High School
 ---
 
-This was a secondary school for girls founded in Winchester in 1884.
-
-The prime movers in its foundation were Anna Rachel Bramston and her friend Amélie Claire Leroy. CMY was a member of the school’s Council of Management from the foundation.The school changed its name to St.
-
-Swithun’s School in about 1930 and moved to the present site just outside the city in 1931.
-
-See http://www.stswithuns.com/school_history.htm
+This was a secondary school for girls founded in Winchester in 1884. The prime movers in its foundation were Anna Rachel Bramston and her friend Amélie Claire Leroy. CMY was a member of the school’s Council of Management from the foundation.The school changed its name to St. Swithun’s School in about 1930 and moved to the present site just outside the city in 1931. See http://www.stswithuns.com/school_history.htm

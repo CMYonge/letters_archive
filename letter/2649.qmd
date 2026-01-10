@@ -1,7 +1,7 @@
 ---
 id: 2649
 title: To Alexander Macmillan
-date: '1878-11-10'
+iso-date: '1878-11-10'
 display-date: Novr 10th 1878
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -20,7 +20,5 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Mary Augusta (Arnold) Ward reviewed [The Story of the Christians and Moors in Spain](/book/126) in very critical terms in Academy (16 November 1878) 463-4, pouring scorn on its scholarship and suggesting that CMY wrote too much too quickly. T.
-
-Humphry Ward, her husband, had also recently reviewed unfavourably A Man of Other Days: Recollections of the Marquis Costa de Beauregard 2 vols (London, Hurst & Blackett 1877), a translation (probably by Julian Yonge) which appeared with CMY\'s name as editor.
+[^1]: Mary Augusta (Arnold) Ward reviewed [The Story of the Christians and Moors in Spain](/book/126) in very critical terms in Academy (16 November 1878) 463-4, pouring scorn on its scholarship and suggesting that CMY wrote too much too quickly. T. Humphry Ward, her husband, had also recently reviewed unfavourably A Man of Other Days: Recollections of the Marquis Costa de Beauregard 2 vols (London, Hurst & Blackett 1877), a translation (probably by Julian Yonge) which appeared with CMY\'s name as editor.
 [^2]: Ward had referred to the works of Felix Dahn and Friedrich Wilhelm Lembke.

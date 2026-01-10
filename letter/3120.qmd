@@ -1,7 +1,7 @@
 ---
 id: 3120
 title: To the Reverend William Upton Richards
-date: '1858-11-01'
+iso-date: '1858-11-01'
 display-date: Novr 23d 1858
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -11,23 +11,12 @@ manuscript-location: 'MS Columbia University Library, New York: Yonge Coll'
 
 Dear [Sir](/person/1232)[^1],
 I hope I am not taking a great liberty in addressing you, but I am doing so in the hope that you will excuse me in the circumstances.
-
 These will be best explained if you would glance at the paper entitled ‘[The Little Patient](/organisation/263)’ in the October number of the [Monthly Packet](/periodical/52)
-The little girl there faithfully described is again in the hospital for Children with another attack of disease of the heart, now so far mitigated that she may live some time longer with care.
-
-She must be returned to her wretched home in a week’s time unless some asylum be found for her, and that in London, as her parents and her medical attendants both object to her being removed into the country. [Sister Ellen](/person/1807) of [Clewer](/organisation/20),[^2] suggested that it was possible that the Home attached to [All Saints](/organisation/43) might afford a refuge for her, and in this hope I have ventured to apply directly to you upon the subject.
-
-If any small sum should be required towards her maintenance, I am encouraged to think that something could be raised towards it among those interested in the case
+The little girl there faithfully described is again in the hospital for Children with another attack of disease of the heart, now so far mitigated that she may live some time longer with care. She must be returned to her wretched home in a week’s time unless some asylum be found for her, and that in London, as her parents and her medical attendants both object to her being removed into the country. [Sister Ellen](/person/1807) of [Clewer](/organisation/20),[^2] suggested that it was possible that the Home attached to [All Saints](/organisation/43) might afford a refuge for her, and in this hope I have ventured to apply directly to you upon the subject. If any small sum should be required towards her maintenance, I am encouraged to think that something could be raised towards it among those interested in the case
 Yours respectfully
 
 Charlotte M Yonge
 
 
-[^1]: The Rev.
-
-Upton Richards, Vicar of All Saints, Margaret Street.
-
-The Society of All Saints’s Sisters of the Poor was founded in his parish in 1848 and run by Harriet Brownlow Byron.
-[^2]: The Clewer sisterhood was founded in 1851 by the Rev.
-
-Thomas Thellusson Carter, and offered a refuge to prostitutes.
+[^1]: The Rev. Upton Richards, Vicar of All Saints, Margaret Street. The Society of All Saints’s Sisters of the Poor was founded in his parish in 1848 and run by Harriet Brownlow Byron.
+[^2]: The Clewer sisterhood was founded in 1851 by the Rev. Thomas Thellusson Carter, and offered a refuge to prostitutes.

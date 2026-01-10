@@ -1,7 +1,7 @@
 ---
 id: 2018
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1865-04-24'
+iso-date: '1865-04-24'
 display-date: April 24. 1865
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -9,18 +9,9 @@ manuscript-location: 'Copy outletter book British Library Add MSS. 55384 (1): P.
 ---
 
 My dear Miss Yonge	
-[I ](/person/939)ought to have acknowledged the [copy](/book/62) for the new [number ](/periodical/78)earlier, but I wanted to write you a longer letter which I cant do today after all.
-I would be glad to see what more you have written of [Bethlehem](/topic/177), when you have satisfied yourself - or at least approximately - who could satisfy themselves on such a subject.
-
-The young [Artist](/person/500) is ready to [work](/topic/167) whenever you like.
-
+[I](/person/939)ought to have acknowledged the [copy](/book/62) for the new [number](/periodical/78)earlier, but I wanted to write you a longer letter which I cant do today after all.
+I would be glad to see what more you have written of [Bethlehem](/topic/177), when you have satisfied yourself - or at least approximately - who could satisfy themselves on such a subject. The young [Artist](/person/500) is ready to [work](/topic/167) whenever you like.
 Shall I [pay](/topic/160) the monthly sums to your [banker](/organisation/169) in London, or send you a cheque? I have also the £200 for the [Clever Woman](/book/58) to pay.
-
-It is indeed glorious weather.
-
-You should see us now at Tooting.
-
+It is indeed glorious weather. You should see us now at Tooting.
 Yours most truly
-A.
-
-Macmillan
+A. Macmillan

@@ -1,28 +1,16 @@
 ---
 id: 2238
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1868-03-06'
-display-date: March 6 1868[[footnote:1]]
+iso-date: '1868-03-06'
+display-date: March 6 1868
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
 manuscript-location: 'Copy outletter book British Library Add MSS.55388 (1): P.99'
 ---
 
 Dear Miss Yonge,
-Don’t you think that an Index and some chronological tables would be of similar use to the [Cameos](/book/73)?
-
-If you agree with [me](/person/939) I can get them done.
-
-The printer is making a table of contents of which you shall see a proof.
-I enclose a letter about the terrible story(?).
-
-But I think the [Little Duke](/book/20) has been close and [rest of paragraph indecipherable]
+Don’t you think that an Index and some chronological tables would be of similar use to the [Cameos](/book/73)? If you agree with [me](/person/939) I can get them done. The printer is making a table of contents of which you shall see a proof.
+I enclose a letter about the terrible story(?). But I think the [Little Duke](/book/20) has been close and [rest of paragraph indecipherable]
 I hope you like the gilt-edged copy of the [Pupils](/book/72).
-
 Yours very faithfully
-A.
-
-Macmillan
-
-
-[^1]: Although dated earlier than the previous letter from Macmillan, this letter is placed after it in the Macmillan letter book
+A. Macmillan

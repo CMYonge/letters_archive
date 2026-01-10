@@ -1,7 +1,7 @@
 ---
 id: 2655
 title: To Harper & Bros.
-date: '1878-12-18'
+iso-date: '1878-12-18'
 display-date: Decr 18 1878
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.

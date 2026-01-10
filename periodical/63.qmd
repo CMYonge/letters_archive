@@ -5,8 +5,4 @@ name: <i>Churchman's Family Magazine, The</i>
 title: <i>Churchman's Family Magazine, The</i>
 ---
 
-This periodical seems to have run 1863-1873.
-
-The publisher was Hogg.
-
-The Clever Woman of the Family was serialized in it (January 1864-April 1865).
+This periodical seems to have run 1863-1873. The publisher was Hogg. The Clever Woman of the Family was serialized in it (January 1864-April 1865).

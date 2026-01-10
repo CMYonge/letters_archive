@@ -1,8 +1,8 @@
 ---
 id: 275
 title: \'Arachne\'s Speech\'
-author: Charlotte Mary Yonge
-date: '1874'
+author-name: Charlotte Mary Yonge
+publication-date: '1874'
 genre: Non-fiction, report on submissions
 publication-format: Article in Journal
 publisher: MP (Christmas 1874) 1-3

@@ -1,7 +1,7 @@
 ---
 id: 3490
 title: To Margaret Helen Moberly
-date: '1850-06-01'
+iso-date: '1850-06-01'
 display-date: June 1st [1850s?]
 from-name: Charlotte Mary Yonge
 to-name: To Margaret Helen Moberly

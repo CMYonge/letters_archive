@@ -5,6 +5,4 @@ name: <i>Saturday Magazine, The</i>
 title: <i>Saturday Magazine, The</i>
 ---
 
-This periodical was founded in 1832 as a penny magazine for the working classes, under the auspices of the SPCK; its publisher was John W.
-
-Parker.
+This periodical was founded in 1832 as a penny magazine for the working classes, under the auspices of the SPCK; its publisher was John W. Parker.

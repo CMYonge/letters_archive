@@ -1,9 +1,0 @@
-::: {.entity-meta}
-{{< if-meta "title" >}}**Title:** {{< meta title >}}  {{< /if-meta >}}
-{{< if-meta "date" >}}**Date:** {{< meta date >}}  {{< /if-meta >}}
-{{< if-meta "genre" >}}**Genre:** {{< meta genre >}}  {{< /if-meta >}}
-{{< if-meta "publication-format" >}}**Format:** {{< meta publication-format >}}  {{< /if-meta >}}
-{{< if-meta "publisher" >}}**Publisher:** {{< meta publisher >}}  {{< /if-meta >}}
-{{< if-meta "serialization" >}}**Serialization:** {{< meta serialization >}}  {{< /if-meta >}}
-{{< if-meta "illustrator" >}}**Illustrator:** {{< meta illustrator >}}{{< /if-meta >}}
-:::

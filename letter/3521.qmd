@@ -1,7 +1,7 @@
 ---
 id: 3521
 title: To Miss Phillpotts
-date: '1866-01-01'
+iso-date: '1866-01-01'
 display-date: '[after 1866]'
 from-name: Charlotte Mary Yonge
 to-name: To Miss Phillpotts
@@ -10,10 +10,9 @@ manuscript-location: MS Princeton University, Parrish Collection
 
 Dear [Miss Phillpotts](/person/1171),
 It seems hardly fair to have kept your paper several days, when the [Monthly Packet](/periodical/52) is obliged to 'draw a line' against the numerous Missionary Papers it might have, but I wanted to show it to [Miss Crawley](/person/382) - who you know, as well as [Miss Morshead](/person/28) was one of the first Sisters.
-
 She begged to keep a copy of it, and I think it would be most advisable to publish it. I was thinking of sending it to the [Literary Churchman](/periodical/76)
 
 Yours truly
 
 C M Yonge
-Looking again at your note I see you design it for the [Net ](/periodical/94)as the next choice, so here it is.
+Looking again at your note I see you design it for the [Net](/periodical/94)as the next choice, so here it is.

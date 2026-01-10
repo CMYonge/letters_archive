@@ -1,7 +1,7 @@
 ---
 id: 2414
 title: To François Pierre Guillaume Guizot
-date: '1871-08-05'
+iso-date: '1871-08-05'
 display-date: Aug 5th 1871
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -9,14 +9,8 @@ to-name: To François Pierre Guillaume Guizot
 manuscript-location: MS Archives Nationales
 ---
 
-My dear [M.
-
-Guizot](/person/597)
-Thank you most heartily for so kindly remembering to send me the continuation of your history of France.
-
-It is quite a visible token of the cessation of the saddest of the time - and of the recovery of activity.
-
-The numbers are quite right, I have them up to the 17th[^1]
+My dear [M. Guizot](/person/597)
+Thank you most heartily for so kindly remembering to send me the continuation of your history of France. It is quite a visible token of the cessation of the saddest of the time - and of the recovery of activity. The numbers are quite right, I have them up to the 17th[^1]
 With many thanks
 
 yours sincerely
@@ -24,10 +18,4 @@ yours sincerely
 C M Yonge
 
 
-[^1]: It is not clear which book CMY refers to here, but by \'the saddest of the time\' she may mean the French Revolution.
-
-If so, she is probably not referring to the book Guizot was currently publishing, the children\'s version of his French history entitled L\'histoire de France depuis les temps les plus reculés jusqu\'en 1789, racontée à mes petits-enfants 5 vols (1870-1876).
-
-After his death in 1874 that book was completed by his daughter Henriette de Witt from his notes; she also published a continuation, L\' histoire de France depuis 1789 jusqu\'en 1848, racontée à mes petits-enfants: leçons recueillies par Madame de Witt (1878-9).
-
-Did the latter exist in some version as early as 1871?
+[^1]: It is not clear which book CMY refers to here, but by \'the saddest of the time\' she may mean the French Revolution. If so, she is probably not referring to the book Guizot was currently publishing, the children\'s version of his French history entitled L\'histoire de France depuis les temps les plus reculés jusqu\'en 1789, racontée à mes petits-enfants 5 vols (1870-1876). After his death in 1874 that book was completed by his daughter Henriette de Witt from his notes; she also published a continuation, L\' histoire de France depuis 1789 jusqu\'en 1848, racontée à mes petits-enfants: leçons recueillies par Madame de Witt (1878-9). Did the latter exist in some version as early as 1871?

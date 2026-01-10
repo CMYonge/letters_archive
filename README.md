@@ -47,12 +47,18 @@ The script:
 - renders inline Markdown links such as `[Ann Smith](/person/263)` directly in the body copy instead of generating reference-definition blocks;
 - emits aggregate listing pages (`letters-index.qmd`, `persons.qmd`, `books.qmd`, `references.qmd`);
 - drops WordPress-only provenance fields (`wordpress-id`, `source-url`, `source-post-date`, etc.) now that IDs are numeric and stable;
-- ensures each entity directory contains `_metadata.yml` files that pull in the shared `_partials/*-meta.qmd` templates so key metadata is surfaced automatically;
+- ensures each entity directory contains `_metadata.yml` files that enable the shared `filters/entity-meta.lua` filter so key metadata renders from front matter (without duplicating values into the page body);
 - regenerates `_quarto.yml` so navigation stays current.
 
-Until the migration is re-run, the legacy `letters/` directory (and the long-form reference listing) stays in the tree so editors can continue to consult the WordPress-derived material. The next migration pass will replace it with the normalised layout under `letter/`, `person/`, `book/`, and the per-type reference folders.
-
 No JSON bridges (`data/entities.yml`, `data/letters_index.json`, etc.) are written anymore. The Markdown files themselves are the system of record.
+
+### Speeding up previews
+
+- Use the sampling flag to generate only a handful of records per entity while debugging layouts:
+  ```bash
+  UV_CACHE_DIR=.uv-cache uv run python scripts/migrate_wordpress_to_quarto_improved.py --sample-limit 20
+  ```
+- When you want to wipe every generated directory, run `./clean.sh` from `yonge-letters-quarto/` and then re-run the migration.
 
 ## Content architecture reference
 

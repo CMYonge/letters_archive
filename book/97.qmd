@@ -2,8 +2,8 @@
 id: 97
 title: Scripture Readings for Schools and Families. With Comments. From Joshua to
   Solomon.
-author: Charlotte Mary Yonge
-date: '1872'
+author-name: Charlotte Mary Yonge
+publication-date: '1872'
 genre: 'Non-fiction: theology'
 publication-format: Book
 publisher: 'London and New York: Macmillan and Company'

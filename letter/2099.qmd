@@ -1,7 +1,7 @@
 ---
 id: 2099
 title: To Ann Maria Carter Smith
-date: '1866-01-22'
+iso-date: '1866-01-22'
 display-date: Jan 22nd [1866]
 from-name: Charlotte Mary Yonge
 to-name: To Ann Maria Carter Smith
@@ -9,15 +9,8 @@ manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1866/ 1
 ---
 
 My dear [Miss Smith](/person/263)
-Here is for Georgie who really has been a most brilliant and successful story that every body has liked. I wonder when you will have another such to send me.
-
-It is a long time since I have heard of you, but I hope you have been well.
-
-This has been a sad winter in many ways.
+Here is for Georgie who really has been a most brilliant and successful story that every body has liked. I wonder when you will have another such to send me. It is a long time since I have heard of you, but I hope you have been well. This has been a sad winter in many ways.
 
 yours sincerely
 
 C M Yonge
-
-
-[^1]: Envelope addressed to Miss Carter Smith/ 8 Wellington Road/ Old Charlton SE and postmarked indistinctly Winchester 23 January 1866 and London SE.

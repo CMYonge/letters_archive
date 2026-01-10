@@ -1,8 +1,8 @@
 ---
 id: 8
 title: London Pride.
-author: Charlotte Mary Yonge
-date: '1848'
+author-name: Charlotte Mary Yonge
+publication-date: '1848'
 genre: Fiction (modern)
 publication-format: Book
 publisher: John and Charles Mozley, 6, Paternoster Row, London, and Joseph Masters,
@@ -10,6 +10,4 @@ publisher: John and Charles Mozley, 6, Paternoster Row, London, and Joseph Maste
 illustrator: Frontispiece
 ---
 
-Copies in Lambeth Palace Library, University of Sheffield Library and the University of Delaware Library.
-
-It was reprinted in The Christmas Mummers and Other Stories (1876).
+Copies in Lambeth Palace Library, University of Sheffield Library and the University of Delaware Library. It was reprinted in The Christmas Mummers and Other Stories (1876).

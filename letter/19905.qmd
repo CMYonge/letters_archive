@@ -1,7 +1,7 @@
 ---
 id: 19905
 title: To John William Parker, Jr.
-date: '1859-11-01'
+iso-date: '1859-11-01'
 display-date: Novr 1st 1859
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne. Winchester.
@@ -11,9 +11,7 @@ manuscript-location: MS Charlotte Mitchell.
 
 My dear [Sir](/person/1143),
 
-I am much obliged by your letter received this morning, and either by today's or tomorrow's post, you will receive [Miss Roberts](/person/1244)' MS[^1]  If you decide on accepting it, I suppose it should be begun as quickly as possible, since Christmas is so near.
-
-The proofs should be sent to me, and I should also have the copy returned with them, as there are so many Italian names for which it would be safer to refer to the MS.  I really would not have troubled you about it if I had thought it at all after the common run of ladies' manuscripts.  I believe she thinks it should make two volumes foolscap octavo.
+I am much obliged by your letter received this morning, and either by today's or tomorrow's post, you will receive [Miss Roberts](/person/1244)' MS[^1]  If you decide on accepting it, I suppose it should be begun as quickly as possible, since Christmas is so near.  The proofs should be sent to me, and I should also have the copy returned with them, as there are so many Italian names for which it would be safer to refer to the MS.  I really would not have troubled you about it if I had thought it at all after the common run of ladies' manuscripts.  I believe she thinks it should make two volumes foolscap octavo.
 
 I am very glad to hear that the present edition of the [Daisy Chain](/book/24) is so nearly gone.  I should wish it to be made as cheap as will bring in some degree of profit. I think it is stereotyped, and this with cheaper paper and perhaps a cheaper style of binding may reduce the price, though it is too large to be ever completely a "cheap book".  I suppose the volumes are too thick to bear a paper binding like [Miss Sewell](/person/1301)'s.[^2]  It must certainly continue to be in two volumes
 

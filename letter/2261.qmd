@@ -1,7 +1,7 @@
 ---
 id: 2261
 title: To Miss North
-date: '1868-07-24'
+iso-date: '1868-07-24'
 display-date: July 24 [1868]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.

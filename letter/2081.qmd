@@ -1,7 +1,7 @@
 ---
 id: 2081
 title: To Susanna Warren
-date: '1865-11-13'
+iso-date: '1865-11-13'
 display-date: '[13 November 1865]'
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne Winchester.
@@ -10,24 +10,15 @@ manuscript-location: MS Girton College Cambridge, Yonge XI 3
 ---
 
 My dear [Miss Warren](/person/1475)
-Thank you for the two little books - Yours I do like greatly, but I am afraid I can’t quite take to your friend’s.[^2] I think it is too puerile.
-
-Don’t you think it might have been made easy without saying that David’s face was nice or that they played prettily - and the children that have to be told that there were no guns, would be rather amazed at hearing that Saul expected David to dine 'on the new moon'.
-I am afraid too that Jonathan could not have been of nearly the same age as David - He must have been old enough to be David’s father, when one recollects that Saul reigned 40 years, and that David was only 30 when Saul died - and that in the 2nd year of Saul’s reign came Jonathan’s great exploit among the Philistines - Do not you think that on the whole it will be the best way for the [M P](/periodical/52) to say nothing about it? I did like the Missing Sovereign very much, and so did the school children, but I do not think this could have been taken much pains with.
-
-The use of 'you' and 'thou' is oddly mixed up together among other things.
-I believe that in January the Monthly Packet is to begin to appear in larger size, and I hope soon after that to have room for the Adelsburg grottoes- I was delighted to meet your sister at Mary Church.[^3] I begin to think you will have to spend Christmas at Durham They will never let you go sooner.
-
-Is not Dr Pusey’s Eirenicon glorious?
-
-With kind regard to [Mr](/person/677) & Mrs Henderson[^4]
+Thank you for the two little books - Yours I do like greatly, but I am afraid I can’t quite take to your friend’s.[^2] I think it is too puerile. Don’t you think it might have been made easy without saying that David’s face was nice or that they played prettily - and the children that have to be told that there were no guns, would be rather amazed at hearing that Saul expected David to dine 'on the new moon'.
+I am afraid too that Jonathan could not have been of nearly the same age as David - He must have been old enough to be David’s father, when one recollects that Saul reigned 40 years, and that David was only 30 when Saul died - and that in the 2nd year of Saul’s reign came Jonathan’s great exploit among the Philistines - Do not you think that on the whole it will be the best way for the [M P](/periodical/52) to say nothing about it? I did like the Missing Sovereign very much, and so did the school children, but I do not think this could have been taken much pains with. The use of 'you' and 'thou' is oddly mixed up together among other things.
+I believe that in January the Monthly Packet is to begin to appear in larger size, and I hope soon after that to have room for the Adelsburg grottoes- I was delighted to meet your sister at Mary Church.[^3] I begin to think you will have to spend Christmas at Durham They will never let you go sooner. Is not Dr Pusey’s Eirenicon glorious? With kind regard to [Mr](/person/677) & Mrs Henderson[^4]
 
 Yours sincerely
 
 C M Yonge
 
 
-[^1]: Envelope addressed to \'Miss Susanna Warren/3 South Bailey/ Durham\' and postmarked Winchester and Durham 13 and 14 November 1865.
 [^2]: Warren had perhaps sent a copy of her Manual of the Te Deum (1865)
 [^3]: Warren\'s elder sisters Selina and Charlotte seem to have lived at Bovey Tracy, Devon, which is within reach of Torquay.
 [^4]: Warren was staying in Durham with her nephew William Henderson.

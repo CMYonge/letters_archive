@@ -1,7 +1,7 @@
 ---
 id: 3530
 title: To an Unknown Person
-date: '1875-01-01'
+iso-date: '1875-01-01'
 display-date: '[after 1875]'
 from-name: Charlotte Mary Yonge
 to-name: To an Unknown Person

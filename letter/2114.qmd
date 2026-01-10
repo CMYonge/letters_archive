@@ -1,7 +1,7 @@
 ---
 id: 2114
 title: To Elizabeth Missing Sewell
-date: '1866-04-04'
+iso-date: '1866-04-04'
 display-date: April 4th [1866]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,25 +11,9 @@ manuscript-location: 'MS Bodleian Library, Oxford: MSS. Autogr. MSS. Autogr. d. 
 ---
 
 My dear [Miss Sewell](/person/1301),
-My copies of Giles and Stanley are not bound, nor likely come to harm, and I had rather pack them and leave them at [Miss Yard](/person/1578)’s for you.
+My copies of Giles and Stanley are not bound, nor likely come to harm, and I had rather pack them and leave them at [Miss Yard](/person/1578)’s for you. If you will tell me what other books you want besides Fabyan, I will write a note desiring them to be sent to me to your care at Bonchurch[^1] (I did not see this ghastly shape of paper till I had committed myself to it)[^2] In fact I think it might lead to scrapes if I established a custom of books being sent out in my name without my authority.[^3] One is always required to send in the names of books one has on each 1st of July, and I could not do that unless I were sure what you had. But as soon as I hear again I will write and order what you want.
 
-If you will tell me what other books you want besides Fabyan, I will write a note desiring them to be sent to me to your care at Bonchurch[^1] (I did not see this ghastly shape of paper till I had committed myself to it)[^2] In fact I think it might lead to scrapes if I established a custom of books being sent out in my name without my authority.[^3] One is always required to send in the names of books one has on each 1st of July, and I could not do that unless I were sure what you had.
-
-But as soon as I hear again I will write and order what you want.
-
-Would you be so kind as to call on [Mrs](/person/935) & [Miss Mackenzie](/person/930) -?
-
-Mr & Mrs [J Mackenzie](/person/934) are now seeking lodgings at Ventnor or Bonchurch and Miss Mackenzie who has been very ill all the winter is to join them in a day or two.
-
-You know they are the [Bishop](/person/929)’s brother and sister - and I know few people whom I love and admire more than Anne Mackenzie.
-
-He is a real thorough Scotsman with white hair, and gracious gentle manners, and his wife is a most admirable person.
-
-Miss Mackenzie’s heart is very full of Hursley where she had been a very congenial guest and indeed was one of the last persons who gave those dear ones pleasure by constant lending of mission letters - You ask for [Mrs Keble](/person/795), I can only say - as I could have done every day since January that she is dying - only whereas I could not then bear to say the word now one longs that her rest were come - Soon after [he](/person/798) left her, came sharp pain but this is better now, and the last accounts were of exceeding feebleness and drowsiness, though the mind still clear, and she has given directions about everything.
-
-When we accepted your [brother](/person/1304)’s kind invitation we thought all would long have been over, and we hardly know how to go from home as things are now, and miss a sight of the [Sister](/person/797) who has been with her.
-
-But it seems as if we both wanted change so much that if all is as now on Monday we start, and I will write & tell you our address after New College
+Would you be so kind as to call on [Mrs](/person/935) & [Miss Mackenzie](/person/930) -? Mr & Mrs [J Mackenzie](/person/934) are now seeking lodgings at Ventnor or Bonchurch and Miss Mackenzie who has been very ill all the winter is to join them in a day or two. You know they are the [Bishop](/person/929)’s brother and sister - and I know few people whom I love and admire more than Anne Mackenzie. He is a real thorough Scotsman with white hair, and gracious gentle manners, and his wife is a most admirable person. Miss Mackenzie’s heart is very full of Hursley where she had been a very congenial guest and indeed was one of the last persons who gave those dear ones pleasure by constant lending of mission letters - You ask for [Mrs Keble](/person/795), I can only say - as I could have done every day since January that she is dying - only whereas I could not then bear to say the word now one longs that her rest were come - Soon after [he](/person/798) left her, came sharp pain but this is better now, and the last accounts were of exceeding feebleness and drowsiness, though the mind still clear, and she has given directions about everything. When we accepted your [brother](/person/1304)’s kind invitation we thought all would long have been over, and we hardly know how to go from home as things are now, and miss a sight of the [Sister](/person/797) who has been with her. But it seems as if we both wanted change so much that if all is as now on Monday we start, and I will write & tell you our address after New College
 
 Yours very sincerely
 
@@ -38,14 +22,6 @@ C M Yonge
 I will write and tell you where the Mackenzies settle themselves.
 
 
-[^1]: They were choosing authorities for their anthology of historical writings, [Historical Selections](/book/71).
-
-The Rev.
-
-John Allen Giles (1808-1884) had edited and translated a large number of mediaeval chronicles and histories, to one of which CMY probably refers.
-
-Fabyan\'s Chronicles is the authority used in the published book for the reign of Stephen.
-
-In their work together they made extensive use of the [London Library](/organisation/29), which CMY had joined in 1862.
+[^1]: They were choosing authorities for their anthology of historical writings, [Historical Selections](/book/71). The Rev. John Allen Giles (1808-1884) had edited and translated a large number of mediaeval chronicles and histories, to one of which CMY probably refers. Fabyan\'s Chronicles is the authority used in the published book for the reign of Stephen. In their work together they made extensive use of the [London Library](/organisation/29), which CMY had joined in 1862.
 [^2]: The right hand top corner of the paper seems to have been bent down when it was trimmed and now emerges as larger than the rest.
 [^3]: CMY means \'sent out by the London Library\'.

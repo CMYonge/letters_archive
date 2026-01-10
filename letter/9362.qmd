@@ -1,7 +1,7 @@
 ---
 id: 9362
 title: To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>
-date: '1896-11-01'
+iso-date: '1896-11-01'
 display-date: '[November 1896]'
 from-name: Charlotte Mary Yonge
 to-name: To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>
@@ -12,10 +12,6 @@ manuscript-location: MS location unknown. Printed in the <i>[[other:72]Girls’ 
 A LETTER FROM MISS C. M. YONGE
 
 Madam,-
-May I inform Associates who have been very kind to a blind [Member](/organisation/23)- [Annie Nangate](/person/917) [sic] of Otterbourne- that she died on October 2nd, aged nineteen.
+May I inform Associates who have been very kind to a blind [Member](/organisation/23)- [Annie Nangate](/person/917) [sic] of Otterbourne- that she died on October 2nd, aged nineteen. She became blind from a brain disease at eleven years old, and had ever since been a very gentle and holy example to all around, and making herself much beloved in the family?[sic] With many thanks to those who kindly sent her presents of books, wool for crochet &c.
 
-She became blind from a brain disease at eleven years old, and had ever since been a very gentle and holy example to all around, and making herself much beloved in the family?[sic] With many thanks to those who kindly sent her presents of books, wool for crochet &c.
-
-C. M.
-
-Yonge.
+C. M. Yonge.

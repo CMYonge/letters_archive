@@ -1,8 +1,8 @@
 ---
 id: 234
 title: Rubies of St Lô, The
-author: Charlotte Mary Yonge
-date: '1894'
+author-name: Charlotte Mary Yonge
+publication-date: '1894'
 genre: Fiction
 publication-format: Booklet
 publisher: 'London and New York: Macmillan and Company.'

@@ -1,7 +1,7 @@
 ---
 id: 3612
 title: To Catherine England
-date: '1890-04-09'
+iso-date: '1890-04-09'
 display-date: April 9th [late 1890s?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -19,6 +19,4 @@ C M Yonge
 
 
 [^1]: Dr William England and his son Dr George England both treated CMY; this letter might be to the wife of either; they were both named Catherine.
-[^2]: Compare To Helen Emma Yonge (27 April 1890): ‘That [Mr.
-
-Eames](/person/465) who has bought Silkstead is beginning to build a house on the Winchester road, and has put in a keeper at Silkstead who warns people off the white violets on the bank at Green Undys.’
+[^2]: Compare To Helen Emma Yonge (27 April 1890): ‘That [Mr. Eames](/person/465) who has bought Silkstead is beginning to build a house on the Winchester road, and has put in a keeper at Silkstead who warns people off the white violets on the bank at Green Undys.’

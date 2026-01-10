@@ -1,7 +1,7 @@
 ---
 id: 2469
 title: To Sarah Anne Mercier
-date: '1872-01-01'
+iso-date: '1872-01-01'
 display-date: '[1872? 1873?]'
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,9 +11,7 @@ manuscript-location: 'MS location unknown. Microfiche copy The Women’s Library
 ---
 
 My dear [Mrs Mercier](/person/990)
-I tried to get your questions answered by sending them to [Miss Bramston](/person/198), the [Dean](/person/197)’s daughter, but unluckily female education at Winchester received a blow when [Mr](/person/85) & [Mrs Awdry](/person/81) went to Hurstpierpoint - and [Mrs Johns](/person/772), the only other lady who really cared, fell ill.
-
-The getting lecturers down needs some energy and there is no one to do it now.
+I tried to get your questions answered by sending them to [Miss Bramston](/person/198), the [Dean](/person/197)’s daughter, but unluckily female education at Winchester received a blow when [Mr](/person/85) & [Mrs Awdry](/person/81) went to Hurstpierpoint - and [Mrs Johns](/person/772), the only other lady who really cared, fell ill. The getting lecturers down needs some energy and there is no one to do it now.
 I send you Miss Bramston’s note and that from [Mrs Richards](/person/1902), a lady who is trying to keep a school
 
 yours truly

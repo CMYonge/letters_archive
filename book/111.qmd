@@ -2,8 +2,8 @@
 id: 111
 title: Aunt Charlotte’s Stories of Bible History for the Little Ones. By Charlotte
   M. Yonge, author of “The Heir of Redclyffe,” “Stories of English History,” &c.
-author: Charlotte Mary Yonge
-date: '1875'
+author-name: Charlotte Mary Yonge
+publication-date: '1875'
 genre: 'Non-fiction: theology'
 publication-format: Book
 publisher: Marcus Ward & Co., Chandos St, W.C. London; and Royal Ulster Works, Belfast.

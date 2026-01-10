@@ -1,7 +1,7 @@
 ---
 id: 2551
 title: To Sophia Jane Harrison?
-date: '1876-05-02'
+iso-date: '1876-05-02'
 display-date: May 2nd 1876
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,9 +10,7 @@ manuscript-location: MS Miss Barbara Dennis/2
 ---
 
 My dear [Mrs Harrison](/person/638)[^1]
-A great many thanks for the exceedingly nice frame, and all the arrangements for setting up the collects. I waited to thank you till they actually appeared so that I might acknowledge them at the same time.
-
-They are very nice and I am sure they will be a great pleasure to many, and help out many a Sunday
+A great many thanks for the exceedingly nice frame, and all the arrangements for setting up the collects. I waited to thank you till they actually appeared so that I might acknowledge them at the same time. They are very nice and I am sure they will be a great pleasure to many, and help out many a Sunday
 
 yours affectionately
 

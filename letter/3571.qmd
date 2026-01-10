@@ -1,8 +1,8 @@
 ---
 id: 3571
 title: To Elizabeth Missing Sewell
-date: '1869-04-01'
-display-date: '[April? 1869[[footnote:1]]]'
+iso-date: '1869-04-01'
+display-date: '[April? 1869]'
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
 to-name: To Elizabeth Missing Sewell
@@ -18,5 +18,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: CMY visited the Moberlys at Brightstone in May 1869.
 [^2]: Probably Thomas Keightley, The Crusaders, or, Scenes, Events and Characters from the Times of the Crusades (London: Parker, 1834).

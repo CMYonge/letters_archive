@@ -1,7 +1,7 @@
 ---
 id: 19875
 title: To Anna Maria Keary
-date: '1875-02-01'
+iso-date: '1875-02-01'
 display-date: Febry 1st 1875
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -13,17 +13,9 @@ My dear [Miss Keary](/person/793)
 
 Many thanks for this delightful bit of the story[^1] of which I am very fond.  I suppose you know best but I almost wish Teddy could have been lost before he was found, and that the snowy morning could come before that delightful expedition of Boxe's, and the still more delightful result.
 
-What do you think, I am ashamed to say I have not seen [Mrs Johns](/person/772) or [Katie](/person/887) for ages.
+What do you think, I am ashamed to say I have not seen [Mrs Johns](/person/772) or [Katie](/person/887) for ages.  My poor house mate 'or rather wife, [Gertrude Walter](/person/1462), has been so ill this winter that I have done nothing extra, and they are not easy to get at.  I heard from [Christabel Coleridge](/person/329) however that she had seen her, and thought her looking ill and out of spirits.  The drawing must be a terrible deprivation.
 
-My poor house mate 'or rather wife, [Gertrude Walter](/person/1462), has been so ill this winter that I have done nothing extra, and they are not easy to get at.  I heard from [Christabel Coleridge](/person/329) however that she had seen her, and thought her looking ill and out of spirits.
-
-The drawing must be a terrible deprivation.
-
-What a sad January it has been.
-
-We have been saddened here, (besides the great and more public losses) by the death of [Sir Thomas Fairbairn](/person/496)'s bright joyous [girl of 16](/person/2439).
-
-One week's illness from neglected damp feet!
+What a sad January it has been.  We have been saddened here, (besides the great and more public losses) by the death of [Sir Thomas Fairbairn](/person/496)'s bright joyous [girl of 16](/person/2439).  One week's illness from neglected damp feet!
 
 yours very sincerely
 

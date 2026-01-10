@@ -1,7 +1,7 @@
 ---
 id: 2505
 title: To Florence Freeman
-date: '1874-05-18'
+iso-date: '1874-05-18'
 display-date: May 18th 1874
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,10 +10,7 @@ manuscript-location: 'MS Bodleian Library, Oxford: Bryce 156 (microfilm) ff21-2'
 ---
 
 My dear [Miss Freeman](/person/524)
-Many thanks for the extract. I am very glad the answer has come to be gibbetted!
-
-People ought to have the penalty of exposing themselves so wonderfully.
-
+Many thanks for the extract. I am very glad the answer has come to be gibbetted! People ought to have the penalty of exposing themselves so wonderfully.
 You and Moneyspinner ([Miss Marriott](/person/958) of Hythe) are the most effective [Spiders](/organisation/116).[^1]
 I have taken her sum, because she did it in a conversation, but your nines, for nobody else attempted them[^2]
 

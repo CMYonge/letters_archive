@@ -1,7 +1,7 @@
 ---
 id: 3189
 title: To Arthur Donald Innes
-date: '1892-02-06'
+iso-date: '1892-02-06'
 display-date: Feb 6th 1892
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -18,7 +18,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: Black-edged paper.
-[^2]: This relates to the prize for the best story in the Christmas 1891 number of the [MP](/periodical/52).
-
-Readers were asked to vote for their favourite.
+[^2]: This relates to the prize for the best story in the Christmas 1891 number of the [MP](/periodical/52). Readers were asked to vote for their favourite.

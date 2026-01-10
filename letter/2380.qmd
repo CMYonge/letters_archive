@@ -1,21 +1,20 @@
 ---
 id: 2380
 title: To Alexander Macmillan
-date: '1870-05-27'
+iso-date: '1870-05-27'
 display-date: May 27th [1870]
 from-name: Charlotte Mary Yonge
 from-address: Ottery
 to-name: To Alexander Macmillan
-manuscript-location: 'MS  British Library Add MSS 54920: 239'
+manuscript-location: 'MS British Library Add MSS 54920: 239'
 ---
 
 Dear [Mr Macmillan](/person/939)
-I agree with [Miss Sewell ](/person/1301)as to the alteration, otherwise it will do very nicely. I hope to be at home on the 1st or 2nd of June[^2]
+I agree with [Miss Sewell](/person/1301)as to the alteration, otherwise it will do very nicely. I hope to be at home on the 1st or 2nd of June[^2]
 
 Yours sincerely
 
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: The book in question must have been [European History](/book/82) (1870).

@@ -1,16 +1,16 @@
 ---
 id: 3005
 title: To Joseph Masters?
-date: '1852-12-01'
+iso-date: '1852-12-01'
 display-date: Decr 23d 1852
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
 to-name: To Joseph Masters?
-manuscript-location: MS Charles E. Young  Research Library,  UCLA, collection 100.
+manuscript-location: MS Charles E. Young Research Library, UCLA, collection 100.
 ---
 
 [Sir](/person/981)
-I am obliged to you for forwarding the cheque for[ £25](/topic/160) for the first edition of the [Two Guardians](/book/13).
+I am obliged to you for forwarding the cheque for[£25](/topic/160) for the first edition of the [Two Guardians](/book/13).
 I am at present too much engaged to think of publishing anything in the [Churchman’s Companion](/periodical/62),[^1] though I am obliged to you for the proposal.
 
 Yours sincerely

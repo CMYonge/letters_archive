@@ -1,7 +1,7 @@
 ---
 id: 2564
 title: To Priscilla Hannah Johnston
-date: '1876-09-13'
+iso-date: '1876-09-13'
 display-date: Sept 13th 1876
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,9 +10,7 @@ manuscript-location: MS Miss Barbara Dennis/3
 ---
 
 Dear [Miss Johnstone](/person/775)
-I send you a cheque which has come to me this morning.
-
-The sender of it - [Miss Sturges Bourne](/person/1379) suggests that if you embark from Southampton, Edwin Jones, High Street, would make up a parcel to your order of ready made things to meet you but I dare say you have plenty of the kind of shop to supply you. I am going to send one of your papers to a young linen draper for poor people’s things in Spitalfields who very likely may be able to send you some of his old stock of woollens of last year. I am afraid I have only some unmade cloth to send which remained over from last Christmas & which will probably be sent off on Monday[^1]
+I send you a cheque which has come to me this morning. The sender of it - [Miss Sturges Bourne](/person/1379) suggests that if you embark from Southampton, Edwin Jones, High Street, would make up a parcel to your order of ready made things to meet you but I dare say you have plenty of the kind of shop to supply you. I am going to send one of your papers to a young linen draper for poor people’s things in Spitalfields who very likely may be able to send you some of his old stock of woollens of last year. I am afraid I have only some unmade cloth to send which remained over from last Christmas & which will probably be sent off on Monday[^1]
 I am sure if any of my books have any share in refreshing you under the toils of such a blessed work it is a great honor [sic] for them
 
 yours sincerely

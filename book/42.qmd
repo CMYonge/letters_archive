@@ -2,8 +2,8 @@
 id: 42
 title: 'Chosen People: A Compendium of Sacred and Church History for School Children,
   The. By the author of the “Heir of Redclyffe.”'
-author: Charlotte Mary Yonge
-date: '1859'
+author-name: Charlotte Mary Yonge
+publication-date: '1859'
 genre: 'Non-fiction: history, theology'
 publication-format: Book
 publisher: John and Charles Mozley, 6, Paternoster Row, London. Masters and Co., 78,

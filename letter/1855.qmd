@@ -1,7 +1,7 @@
 ---
 id: 1855
 title: To Christabel Rose Coleridge
-date: '1862-01-01'
+iso-date: '1862-01-01'
 display-date: '[1862]'
 from-name: Charlotte Mary Yonge
 to-name: To Christabel Rose Coleridge

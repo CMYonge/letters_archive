@@ -1,31 +1,18 @@
 ---
 id: 2897
 title: To Lady Frederick Bruce
-date: '1888-11-23'
+iso-date: '1888-11-23'
 display-date: November 23. [1888?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield,
 to-name: To Lady Frederick Bruce
-manuscript-location: MS location unknown.  Printed in Coleridge, [[otherbook:40]<i>Life</i>],
+manuscript-location: MS location unknown. Printed in Coleridge, [[otherbook:40]<i>Life</i>],
   326.
 ---
 
 My dear [Lady Frederick](/person/215)-
-Gillian was very naughty, rather I think from want of knowledge of the world than anything else, besides spirit of opposition. I am glad you like Jane, somehow she has erected herself to me into the heroine. I find myself living in sympathy with my old people rather than the young.
-
-But I really do shrink from bringing Dr.
-
-May and Ethel on the stage again, he must be grown so old. I have not finished the last chapter to see whether I dare to make a great family gathering.[^1]
-1 am glad to have the opportunity of writing to you, as we have had a grand [M. U.](/organisation/31) Council, and have modified the constitution.
-
-All the married, whether ladies or poor women, are to be members; only ladies are paying members, and a proportion are to be enrollers (like the [G.F.S.](/organisation/23) working associates).
-
-All the unmarried helpers are associates, and the members are all to have the same card, which we freshly worded to suit mothers of all ranks, and I think improved it much.
-
-There is also to be a [quarterly magazine](/periodical/93) at a penny, edited by [Mrs.
-
-Jenkyns](/person/2379), South Stoneham, Southampton, who takes orders for it, and begs that the money may be advanced with the orders, so as to give her a start.
-
+Gillian was very naughty, rather I think from want of knowledge of the world than anything else, besides spirit of opposition. I am glad you like Jane, somehow she has erected herself to me into the heroine. I find myself living in sympathy with my old people rather than the young. But I really do shrink from bringing Dr. May and Ethel on the stage again, he must be grown so old. I have not finished the last chapter to see whether I dare to make a great family gathering.[^1]
+1 am glad to have the opportunity of writing to you, as we have had a grand [M. U.](/organisation/31) Council, and have modified the constitution. All the married, whether ladies or poor women, are to be members; only ladies are paying members, and a proportion are to be enrollers (like the [G.F.S.](/organisation/23) working associates). All the unmarried helpers are associates, and the members are all to have the same card, which we freshly worded to suit mothers of all ranks, and I think improved it much. There is also to be a [quarterly magazine](/periodical/93) at a penny, edited by [Mrs. Jenkyns](/person/2379), South Stoneham, Southampton, who takes orders for it, and begs that the money may be advanced with the orders, so as to give her a start.
 It is to have advice and anecdotes, and a little direct religious instruction for the very ignorant mothers, in the form of question and answer. I have been writing that, but it was to be submitted to the Bishop-
 Yours very truly,
 C. M. YONGE.

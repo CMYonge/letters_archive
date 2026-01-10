@@ -1,7 +1,7 @@
 ---
 id: 2876
 title: To Beatrix Feodore Cresswell
-date: '1888-03-31'
+iso-date: '1888-03-31'
 display-date: March 31st 1888
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -13,6 +13,4 @@ Dear [Madam](/person/383),
 The copy right of [Monthly packet](/periodical/52) stories remains with the author, so that you are free to republish King Pepito
 
 Yours truly
-C.M.
-
-Yonge
+C.M. Yonge

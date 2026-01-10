@@ -1,8 +1,8 @@
 ---
 id: 267
 title: \'Three Generations- Crude Girlhood\' by C. M. Yonge
-author: Charlotte Mary Yonge
-date: '1895'
+author-name: Charlotte Mary Yonge
+publication-date: '1895'
 genre: Fiction (modern)
 publication-format: Short Story in Journal
 publisher: <i>Mothers in Council</i> 5:20 (October 1895) 217-226

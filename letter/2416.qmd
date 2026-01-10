@@ -1,7 +1,7 @@
 ---
 id: 2416
 title: To Christabel Rose Coleridge
-date: '1871-08-11'
+iso-date: '1871-08-11'
 display-date: Aug 11th [1871]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,35 +10,13 @@ manuscript-location: MS Harry Ransom Humanities Research Center, University of T
 ---
 
 My dear [Christabel](/person/329),
-The Humberts[^1] are very nice people, [Florence Wilford](/person/1520) is very fond of them and he was an immense comfort to the two old ladies.
-
-He was the making of [St Cross](/organisation/130), as first Master after the reformation there, and did an immense deal both for the Church and parish, but when his [wife](/person/2273) got softening on the brain, he lost his delight and love in the place and became anxious to get away - and poor man, his wife fell into the fire and got burnt to death the very day after their arrival at Chiddingfold. I do not know much of the girls myself - they were very young; but Florence always took great interest in them. [Mr.
-
-Humbert](/person/730) is much given to architecture and is rather a cultivated man, of a good deal of taste, though not a clever one, and is a much better Churchman than most of [Bp Sumner](/person/1383)’s appointments[^2]
+The Humberts[^1] are very nice people, [Florence Wilford](/person/1520) is very fond of them and he was an immense comfort to the two old ladies. He was the making of [St Cross](/organisation/130), as first Master after the reformation there, and did an immense deal both for the Church and parish, but when his [wife](/person/2273) got softening on the brain, he lost his delight and love in the place and became anxious to get away - and poor man, his wife fell into the fire and got burnt to death the very day after their arrival at Chiddingfold. I do not know much of the girls myself - they were very young; but Florence always took great interest in them. [Mr. Humbert](/person/730) is much given to architecture and is rather a cultivated man, of a good deal of taste, though not a clever one, and is a much better Churchman than most of [Bp Sumner](/person/1383)’s appointments[^2]
 I wish [Katie Johns](/person/887) would tell [Mr Strahan](/person/1278) that respectable people will have to give up [Good Words](/periodical/73) if the Sylvestresgoes on much longer, I believe I should at once but for the High Mills and the hope of your story.[^3]
 
 Yours affectionately
-C.M.
-
-Yonge
+C.M. Yonge
 
 
-[^1]: The Rev. [Lewis Macnaughton Humbert](/person/730) (1819-1896), was Master of St.
-
-Cross Hospital at the time of the 1861 census, and Rector of Chiddingfold in 1871.
-
-The almshouse of St.
-
-Cross had been the subject of a well-known scandal over clerical pluralism which is supposed to have inspired Trollope\'s novel [The Warden](/periodical/170).
-
-Florence Wilford\'s aunt [Maria Cristall](/person/384) lived at St.
-
-Cross with an elderly friend.
-
-The \'girls\' were [Ellen](/person/731) (b. 1850/1) and [Margaret](/person/732) (b. 1858/9).
-[^2]: The Rt.
-
-Rev.
-
-Charles Sumner, Bishop of Winchester, who had retired owing to ill-health in 1869, had been antagonistic to Keble and his circle.
+[^1]: The Rev. [Lewis Macnaughton Humbert](/person/730) (1819-1896), was Master of St. Cross Hospital at the time of the 1861 census, and Rector of Chiddingfold in 1871. The almshouse of St. Cross had been the subject of a well-known scandal over clerical pluralism which is supposed to have inspired Trollope\'s novel [The Warden](/periodical/170). Florence Wilford\'s aunt [Maria Cristall](/person/384) lived at St. Cross with an elderly friend. The \'girls\' were [Ellen](/person/731) (b. 1850/1) and [Margaret](/person/732) (b. 1858/9).
+[^2]: The Rt. Rev. Charles Sumner, Bishop of Winchester, who had retired owing to ill-health in 1869, had been antagonistic to Keble and his circle.
 [^3]: The implication seems to be that Ann Catherine Johns worked as an illustrator on Good Words, the magazine published by Alexander Stuart Strahan (1833–1918).

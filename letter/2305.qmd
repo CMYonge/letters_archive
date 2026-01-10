@@ -1,7 +1,7 @@
 ---
 id: 2305
 title: To Sarah Anne Mercier
-date: '1870-03-05'
+iso-date: '1870-03-05'
 display-date: March 5th [after 1870?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -16,6 +16,3 @@ One has the power to refuse for a year after publication - not after - but I ima
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: Black-edged paper.

@@ -1,7 +1,7 @@
 ---
 id: 3200
 title: To Hannah Carey
-date: '1892-07-24'
+iso-date: '1892-07-24'
 display-date: July 24 [1892]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,19 +10,11 @@ manuscript-location: 'MS UCLA: collection 100: box 95'
 ---
 
 My dear [Hannah](/person/253)
-Thank you for your kind note.
-
-It will be a great pleasure to have [Alethea](/person/182) here but she cannot come till October, as the curacy cannot be left and the house has to be put in order.[^2] I suppose they will hardly be come by the time you come home.
-
-It is too dusty today for almost anything.
+Thank you for your kind note. It will be a great pleasure to have [Alethea](/person/182) here but she cannot come till October, as the curacy cannot be left and the house has to be put in order.[^2] I suppose they will hardly be come by the time you come home. It is too dusty today for almost anything.
 
 Yours affectionately
 
 C M Yonge
 
 
-[^2]: Hannah (Rogers) Carey (b. 1838/9) was the widow of CMY’s cousin James Arthur Yonge (1822-1864), and lived at Botley, Hants. with her second husband Charles Egerton Carey.
-
-She had evidently written to congratulate CMY on the fact that the new Vicar of Otterbourne was the Rev.
-
-Henry Bowles, who was married to her niece Alethea Yonge.
+[^2]: Hannah (Rogers) Carey (b. 1838/9) was the widow of CMY’s cousin James Arthur Yonge (1822-1864), and lived at Botley, Hants. with her second husband Charles Egerton Carey. She had evidently written to congratulate CMY on the fact that the new Vicar of Otterbourne was the Rev. Henry Bowles, who was married to her niece Alethea Yonge.

@@ -5,11 +5,7 @@ name: Royal Victoria Hospital, Netley, The
 title: Royal Victoria Hospital, Netley, The
 ---
 
-This was a military hospital founded in 1856.
-
-Its first governor was CMY’s friend Colonel [Richard Wilbraham](/person/1515).
-
-It survived until 1978 and is now a country park.
+This was a military hospital founded in 1856. Its first governor was CMY’s friend Colonel [Richard Wilbraham](/person/1515). It survived until 1978 and is now a country park.
 
 See http://www3.hants.gov.uk/hampshire-countryside/rvcp/history-rvcp.htm
 and Anne Summers, \'Ministering angels\'.

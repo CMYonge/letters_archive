@@ -1,7 +1,7 @@
 ---
 id: 3056
 title: To Jemima Blackburn
-date: '1854-12-01'
+iso-date: '1854-12-01'
 display-date: Dec 1st [1854]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
@@ -10,31 +10,15 @@ manuscript-location: 'MS University of Illinois, Urbana Champaign: Letter 6'
 ---
 
 My dear [Mrs Blackburn](/person/159),
-We are rather in distress for the eight folds of paper, as the width of the back depends on them, and orders should be given to the binder, so if they have not set off would you have them sent to me at [Deer Park](/place/125), Honiton, whither it seems finally settled that we are to go on Monday.[^1] If you could also send me the impressions of the other [illustrations](/topic/167) we could send the directions to the binder as to their place.
-
-At any rate would you tell me whether the Stable scene stands perpendicularly, I mean the same way as the page so that it would do for a frontispiece. I think it should be either that or the ford, as they come so near together and bundle of hay the real catastrophe of the story.
-
-Somehow I missed answering you about [Mrs Legge](/person/866), I do know her a little, and took great delight in the times I met her, one in a walk to our Church at Cornwood,[^2] and one in an expedition [to] the mouth of the Yealm in boats, when it poured the whole time, and never were people better contented and merrier in the rain.
-
-So I shall be very happy to concur with you in a presentation copy of [little Richard](/book/20), if you think it acquaintance enough to justify it.
-
-That her grandmother was godmother to my father makes a sort of connection. I wonder whether [Lady Rogers](/person/1253) has told you that the glen in the beginning of [the two Guardians](/book/13), is the memory of the beautiful walk to the Cascade at Cornwood.[^3]	
+We are rather in distress for the eight folds of paper, as the width of the back depends on them, and orders should be given to the binder, so if they have not set off would you have them sent to me at [Deer Park](/place/125), Honiton, whither it seems finally settled that we are to go on Monday.[^1] If you could also send me the impressions of the other [illustrations](/topic/167) we could send the directions to the binder as to their place. At any rate would you tell me whether the Stable scene stands perpendicularly, I mean the same way as the page so that it would do for a frontispiece. I think it should be either that or the ford, as they come so near together and bundle of hay the real catastrophe of the story. Somehow I missed answering you about [Mrs Legge](/person/866), I do know her a little, and took great delight in the times I met her, one in a walk to our Church at Cornwood,[^2] and one in an expedition [to] the mouth of the Yealm in boats, when it poured the whole time, and never were people better contented and merrier in the rain. So I shall be very happy to concur with you in a presentation copy of [little Richard](/book/20), if you think it acquaintance enough to justify it. That her grandmother was godmother to my father makes a sort of connection. I wonder whether [Lady Rogers](/person/1253) has told you that the glen in the beginning of [the two Guardians](/book/13), is the memory of the beautiful walk to the Cascade at Cornwood.[^3]	
 [Mr Parker of Oxford](/person/1142) tells me that he has offered [Kenneth](/book/10) to all the chief booksellers in Edinburgh and always gets him returned on his hands, which he piteously observes, he cannot help if they choose to forget it[^4]
 
 Yours sincerely
 
 C M Yonge
-Looking at Parker’s letter I find I mis-stated it.
-
-What he says is that his traveller twice a year has offered the Edinburgh booksellers Kenneth, and that they must forget it.
-
-If he sends them books, they are sometimes returned on his hands, so he does not like to risk them without an order.
+Looking at Parker’s letter I find I mis-stated it. What he says is that his traveller twice a year has offered the Edinburgh booksellers Kenneth, and that they must forget it. If he sends them books, they are sometimes returned on his hands, so he does not like to risk them without an order.
 
 
-[^1]: The Little Duke was being published by Parker on commission (BL: Add.54920/1-2), which meant that CMY paid all production costs and the publisher received a commission on the copies sold.
-
-This is presumably the reason she was so involved with the details of binding etc. and later with the cost of producing the second edition.
-[^2]: Marian (Rogers) Legge (1814-1890), third sister of [Frederic Rogers](/person/1252), married (1842) the Rev. and Hon. H.
-
-Legge.
+[^1]: The Little Duke was being published by Parker on commission (BL: Add.54920/1-2), which meant that CMY paid all production costs and the publisher received a commission on the copies sold. This is presumably the reason she was so involved with the details of binding etc. and later with the cost of producing the second edition.
+[^2]: Marian (Rogers) Legge (1814-1890), third sister of [Frederic Rogers](/person/1252), married (1842) the Rev. and Hon. H. Legge.
 [^3]: Georgiana Mary Colvile (d.1900), first cousin of Jemima Blackburn, married (1847) Frederic Rogers (1811-89), barrister and politician, who succeeded his father (1851) in a baronetcy and was created (1871) Lord Blachford. CMY and Blackburn had first met while staying with the Rogers family in London in the 1840s.

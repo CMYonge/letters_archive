@@ -5,6 +5,4 @@ name: Pitt Chapel
 title: Pitt Chapel
 ---
 
-This chapel in an outlying hamlet of Hursley was built at CMY\'s expense.
-
-It is now a private house.
+This chapel in an outlying hamlet of Hursley was built at CMY\'s expense. It is now a private house.

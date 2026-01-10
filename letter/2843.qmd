@@ -1,7 +1,7 @@
 ---
 id: 2843
 title: To John Henry Ingram
-date: '1886-10-19'
+iso-date: '1886-10-19'
 display-date: Oct 19th 1886
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -11,12 +11,8 @@ manuscript-location: MS Princeton University, Parrish Collection
 
 Dear [Sir](/person/743)[^1]
 I am very sorry if I did not answer your letter, and acknowledge the little book, I fully thought that I had done so.
-I have gone quite half way in the [Life of Hannah More](/book/199).
-
-If the requisite number of pages be not attained, I can easily shorten or lengthen the account of her works, but I think the length will be right.
-I have the Mendip annals - i.e.
-
-Patty More’s Journal, which I find very useful
+I have gone quite half way in the [Life of Hannah More](/book/199). If the requisite number of pages be not attained, I can easily shorten or lengthen the account of her works, but I think the length will be right.
+I have the Mendip annals - i.e. Patty More’s Journal, which I find very useful
 
 Yours truly
 

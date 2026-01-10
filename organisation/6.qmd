@@ -5,6 +5,4 @@ name: Lady Margaret Hall
 title: Lady Margaret Hall
 ---
 
-Founded as a hall for women students in 1879, with Elizabeth Wordsworth as its Lady Principal, it became a college of Oxford University in 1959.
-
-See www.lmh.ox.ac.uk
+Founded as a hall for women students in 1879, with Elizabeth Wordsworth as its Lady Principal, it became a college of Oxford University in 1959. See www.lmh.ox.ac.uk

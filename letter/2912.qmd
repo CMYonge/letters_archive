@@ -1,7 +1,7 @@
 ---
 id: 2912
 title: To Arthur Donald Innes
-date: '1889-07-01'
+iso-date: '1889-07-01'
 display-date: July 13th1889
 from-name: Charlotte Mary Yonge
 to-name: To Arthur Donald Innes
@@ -9,15 +9,9 @@ manuscript-location: MS Girton College Cambridge, Yonge IV 12
 ---
 
 Dear [Mr Innes](/person/744)
-Next year’s programme is my own [Two Penniless Princesses](/book/216) - historical longish chapters.
-
-Miss [Agnes Giberne](/person/561) has promised a story - and the Storm in a Teacup has to go on another half year[^1] I tried doubling the chapters, but there was not room. I think it is a mistake to sacrifice the story to the volume, as often in those I read, I see the development has been injured to get it to the prescribed length.
-
+Next year’s programme is my own [Two Penniless Princesses](/book/216) - historical longish chapters. Miss [Agnes Giberne](/person/561) has promised a story - and the Storm in a Teacup has to go on another half year[^1] I tried doubling the chapters, but there was not room. I think it is a mistake to sacrifice the story to the volume, as often in those I read, I see the development has been injured to get it to the prescribed length.
 But I should like to see the Molyneuxes unless they are quite bound to begin in January.[^2]
-I had been thinking of writing to you about translating and abridging Madame Necker De Saussure’s Education Progressive really the best book on Education I know.
-
-It is too long to be done entire, but it is admirable in the practical part and the [Mother’s Union](/organisation/31) would recommend it I know, indeed it has been doing so by the cumbrous French edition I could undertake it easily, and get it into shape for use.
-
+I had been thinking of writing to you about translating and abridging Madame Necker De Saussure’s Education Progressive really the best book on Education I know. It is too long to be done entire, but it is admirable in the practical part and the [Mother’s Union](/organisation/31) would recommend it I know, indeed it has been doing so by the cumbrous French edition I could undertake it easily, and get it into shape for use.
 The Guiding Principle in Art is by
 [Mrs Evelyn Heathcote](/person/662)[^3]
 Sparsholt Rectory
@@ -29,9 +23,5 @@ C M Yonge
 
 
 [^1]: Agnes Giberne (1845-1939) was a prolific author of science textbooks and fiction, but she does not seemed to have contributed to MP at this time.
-[^2]: ‘E.N.
-
-Leigh Fry’ [Ella Napier Lefroy], Shreds and Patches, or, Passages from the Lives of the Molyneuxes (London, W.Smith and Innes, 1890) was not serialized in MP.
-[^3]: Grace Hussey married (1876) the Rev.
-
-Evelyn Dawsonne Heathcote (1844-1908), vicar of Sparsholt, fifth son of Sir William Heathcote.
+[^2]: ‘E.N. Leigh Fry’ [Ella Napier Lefroy], Shreds and Patches, or, Passages from the Lives of the Molyneuxes (London, W.Smith and Innes, 1890) was not serialized in MP.
+[^3]: Grace Hussey married (1876) the Rev. Evelyn Dawsonne Heathcote (1844-1908), vicar of Sparsholt, fifth son of Sir William Heathcote.

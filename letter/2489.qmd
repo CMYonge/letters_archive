@@ -1,7 +1,7 @@
 ---
 id: 2489
 title: To Elizabeth Wordsworth
-date: '1874-02-05'
+iso-date: '1874-02-05'
 display-date: 5 February [1874]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne,Winchester.
@@ -17,10 +17,6 @@ Your affectionate
 C M Yonge
 
 
-[^1]: The Life and Adventures of Lady Anne, the Little Pedlar (1823), a children’s book, reprinted 1874 with an introduction by Christopher Wordsworth, and 1914 with an introduction by Elizabeth Wordsworth.
-
-In her ‘journal notes’ about her visit in May 1872 Wordsworth says CMY told her of a cousin ‘who used to tell her about Lady Anne, a favourite old child’s book I happened to mention’.
-
-Romanes, [Appreciation](/periodical/241), 148.
+[^1]: The Life and Adventures of Lady Anne, the Little Pedlar (1823), a children’s book, reprinted 1874 with an introduction by Christopher Wordsworth, and 1914 with an introduction by Elizabeth Wordsworth. In her ‘journal notes’ about her visit in May 1872 Wordsworth says CMY told her of a cousin ‘who used to tell her about Lady Anne, a favourite old child’s book I happened to mention’. Romanes, [Appreciation](/periodical/241), 148.
 [^2]: The Colbornes here are the eight children of Field-Marshal Lord Seaton (1778-1863) and his wife Elizabeth Yonge.
 [^3]: In EW’s ‘journal notes’ about her visit to Otterbourne in May 1872, she records that she dictated the words of the song that Angela sings in [The Pillars of the House](/book/109): ‘It is dreadfully vulgar, but the children in the Children’s Hospital in Nottingham used to sing it.’ Romanes, Appreciation, 142.

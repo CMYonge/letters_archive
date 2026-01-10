@@ -1,7 +1,7 @@
 ---
 id: 2208
 title: To Mary Anne Dyson
-date: '1867-09-24'
+iso-date: '1867-09-24'
 display-date: September 24, 1867
 from-name: Charlotte Mary Yonge
 to-name: To Mary Anne Dyson
@@ -9,6 +9,4 @@ manuscript-location: MS location unknown. This fragment printed in Coleridge, <i
   235
 ---
 
-[To [Mary Anne Dyson](/person/464)] We had a wonderful visit yesterday from an utterly unknown little American girl of fourteen or fifteen, who bobbed into the room, rushed up to me, shook hands, ‘Miss Yonge, I’ve come to thank you for your books, I’m an American.’ Papa and mamma were, it appears, seeing the church, and were going round by Hursley back to Winchester.
-
-It was odd to be thanked by a little bolt upright mite, as if in the name of all the American Republic, for writing for the Church!
+[To [Mary Anne Dyson](/person/464)] We had a wonderful visit yesterday from an utterly unknown little American girl of fourteen or fifteen, who bobbed into the room, rushed up to me, shook hands, ‘Miss Yonge, I’ve come to thank you for your books, I’m an American.’ Papa and mamma were, it appears, seeing the church, and were going round by Hursley back to Winchester. It was odd to be thanked by a little bolt upright mite, as if in the name of all the American Republic, for writing for the Church!

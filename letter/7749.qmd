@@ -1,7 +1,7 @@
 ---
 id: 7749
 title: To Sir John Taylor Coleridge
-date: '1870-01-26'
+iso-date: '1870-01-26'
 display-date: Jany 26th [1870]
 from-name: Charlotte Mary Yonge
 to-name: To Sir John Taylor Coleridge
@@ -19,5 +19,4 @@ Most affectionately and gratefully yours
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: Her mother [FMY](/person/1606) had died on 28 September 1869.

@@ -1,7 +1,7 @@
 ---
 id: 3274
 title: To the Reverend John Frederick Watkinson Bullock
-date: '1894-10-20'
+iso-date: '1894-10-20'
 display-date: Oct 20th [1894]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -20,6 +20,4 @@ C M Yonge
 
 
 [^1]: Stephen Langton (c.1150-1228), archbishop of Canterbury. CMY was evidently proposing to write his biography for the series [\'Biographies of Eminent Anglicans\'](/book/358), intended for, but never published in, Bullock\'s Daily Lections.
-[^2]: Pius V (1504-1572), pope from 1566, canonized in 1712. CMY may have objected to his excommunication of Elizabeth I or to his support for the Spanish Inquisition.
-
-The phrase \'would be wiser\' suggests also that she remembered the Tractarians\' early public relations disasters precipitated by the publication of Romanizing books.
+[^2]: Pius V (1504-1572), pope from 1566, canonized in 1712. CMY may have objected to his excommunication of Elizabeth I or to his support for the Spanish Inquisition. The phrase \'would be wiser\' suggests also that she remembered the Tractarians\' early public relations disasters precipitated by the publication of Romanizing books.

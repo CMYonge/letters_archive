@@ -1,7 +1,7 @@
 ---
 id: 2690
 title: To Blanche Catherine Medhurst
-date: '1878-01-01'
+iso-date: '1878-01-01'
 display-date: '[1878?]'
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -19,6 +19,4 @@ C M Yonge
 
 
 [^1]: Emmeline Spratt was the niece of CMY’s maid Harriet Spratt.
-[^2]: Blanche Medhurst was living with her mother, grandmother and two elder sisters at 29 Dorset Square at the time of the 1871 census.
-
-The grandmother’s death was registered in the first quarter of 1878.
+[^2]: Blanche Medhurst was living with her mother, grandmother and two elder sisters at 29 Dorset Square at the time of the 1871 census. The grandmother’s death was registered in the first quarter of 1878.

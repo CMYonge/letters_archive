@@ -1,8 +1,8 @@
 ---
 id: 92
 title: Life and Adventures of Count Beugnot . Edited by Charlotte M. Yonge. 2 vols.
-author: Charlotte Mary Yonge
-date: '1871'
+author-name: Charlotte Mary Yonge
+publication-date: '1871'
 genre: Edited translation
 publication-format: Edited book
 publisher: 'London : Hurst and Blackett.'

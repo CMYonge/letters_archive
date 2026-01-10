@@ -1,7 +1,7 @@
 ---
 id: 3583
 title: To an Unknown Woman
-date: '1880-08-08'
+iso-date: '1880-08-08'
 display-date: Aug 8th [1880s?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield

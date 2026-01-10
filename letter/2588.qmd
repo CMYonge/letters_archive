@@ -1,7 +1,7 @@
 ---
 id: 2588
 title: To George Lillie Craik
-date: '1877-07-12'
+iso-date: '1877-07-12'
 display-date: July 12th 1877
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -16,9 +16,7 @@ Folk Lore & Old Stories
 [The La Ferronays family](/book/64)
 [Eugenie de Guérin](/book/50)
 There are also- only I have not disinterred them [Miss Sewell’s Principles of Education](/book/302) and the [Life of Bishop Mackenzie](/book/52) but these will be enough for you to see whether they are available.[^1]
-The Ghosts as you see are in Folk Lore.
-
-If advisable I could expand that a good deal - and make a little volume of it.
+The Ghosts as you see are in Folk Lore. If advisable I could expand that a good deal - and make a little volume of it.
 I have not signed the agreement as I should like you to fill it up first lest I should do it incorrectly
 
 Yours truly

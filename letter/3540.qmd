@@ -1,7 +1,7 @@
 ---
 id: 3540
 title: To Mrs Swinton
-date: '1875-06-22'
+iso-date: '1875-06-22'
 display-date: June 22 [after 1875]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield

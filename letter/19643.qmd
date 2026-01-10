@@ -1,7 +1,7 @@
 ---
 id: 19643
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1866-10-26'
+iso-date: '1866-10-26'
 display-date: Oct 26 1866
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -18,8 +18,6 @@ Also Pr[illegible] look with interest for [illegible]  parents, [illegible]
 
 Very faithfully yours
 
-[Alex.
-
-Macmillan](/person/939)
+[Alex. Macmillan](/person/939)
 
 &nbsp;

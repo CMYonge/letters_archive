@@ -1,7 +1,7 @@
 ---
 id: 2214
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1867-11-01'
+iso-date: '1867-11-01'
 display-date: 'Nov: 1.1867.'
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -9,32 +9,13 @@ manuscript-location: 'Copy outletter book British Library Add MSS.55387 (2): P. 
 ---
 
 Dear Miss Yonge	
-[I](/person/939) am very sorry indeed that you should be perplexed about this matter[.][^1] I hope we will be able to arrange it without giving you serious trouble. I was under the impression that you understood that the volume should be about the size of the Hugh Macmillans - between 300 & 400.
-
-On May 10 I am sure I wrote to that effect.
-
-As matters stand I think we had better publish in parts as we originally meant and publish the first 120 pages, leaving you time to expand the story of the [Pupils](/book/72) to dimension commensurate with the Introductory portion, about the Master. I have only had time since my return to glance hastily over it.
-
-It seems to me very charming indeed, still the latter portions are surely rather stunted.
-
-Perhaps less is known about them; still a little more about their surroundings would be useful to the general reader. I will gladly send you any books you like.
-
-Do you know Schaff, a German settled in America?
-
-He is the author of a large Church History published in New York which they think highly of.
-
-He is sound in their estimation, both as a scholar and a Historian. ....... I can send you his book. [Miss Martin](/person/971) will gladly send the omitted pages from the earlier [illegible] so [illegible] just about ?20 pages or so in the whole volume.
-
+[I](/person/939) am very sorry indeed that you should be perplexed about this matter[.][^1] I hope we will be able to arrange it without giving you serious trouble. I was under the impression that you understood that the volume should be about the size of the Hugh Macmillans - between 300 & 400. On May 10 I am sure I wrote to that effect.
+As matters stand I think we had better publish in parts as we originally meant and publish the first 120 pages, leaving you time to expand the story of the [Pupils](/book/72) to dimension commensurate with the Introductory portion, about the Master. I have only had time since my return to glance hastily over it. It seems to me very charming indeed, still the latter portions are surely rather stunted. Perhaps less is known about them; still a little more about their surroundings would be useful to the general reader. I will gladly send you any books you like. Do you know Schaff, a German settled in America? He is the author of a large Church History published in New York which they think highly of. He is sound in their estimation, both as a scholar and a Historian. ....... I can send you his book. [Miss Martin](/person/971) will gladly send the omitted pages from the earlier [illegible] so [illegible] just about ?20 pages or so in the whole volume.
 Have you seen [Mr Armitag](/person/60)e’s [drawing](/topic/167). I send you a proof of it.
-
 Most truly yours
-A.
-
-Macmillan
+A. Macmillan
 We would like the whole if possible early in January, as I want to send out the volume to the American Market early in the year. I hope this wont worry you.
 I trust your health has been better.
 
 
-[^1]: CMY had been told that her draft of The Pupils of St.
-
-John the Divine was not long enough.
+[^1]: CMY had been told that her draft of The Pupils of St. John the Divine was not long enough.

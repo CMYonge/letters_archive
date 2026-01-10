@@ -1,7 +1,7 @@
 ---
 id: 3503
 title: To Blanche Atkinson?
-date: '1884-01-29'
+iso-date: '1884-01-29'
 display-date: Jan 29 [after 1884?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -15,6 +15,3 @@ I sent on your Robin and I think we are grateful for it
 yours truly
 
 C M Yonge
-
-
-[^1]: Blanche Atkinson was an associate of Frances Power Cobbe and Ruskin and a keen naturalist who contributed to MP in 1893, but this letter may not be to her, and the \'Robin\' cannot be identified.

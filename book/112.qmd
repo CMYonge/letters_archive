@@ -1,8 +1,8 @@
 ---
 id: 112
 title: 'My Young Alcides: A Faded Photograph. 2 vols'
-author: Charlotte Mary Yonge
-date: '1875'
+author-name: Charlotte Mary Yonge
+publication-date: '1875'
 genre: Fiction (modern)
 publication-format: Book
 publisher: 'London and New York: Macmillan and Company.'

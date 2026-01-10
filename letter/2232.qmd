@@ -1,7 +1,7 @@
 ---
 id: 2232
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1868-02-18'
+iso-date: '1868-02-18'
 display-date: Feb 18 1868
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -9,14 +9,10 @@ manuscript-location: 'Copy outletter book British Library Add MSS.55388 (1): P.2
 ---
 
 Dear Miss Yonge,
-How do you like the enclosed pages & title page?
-
-Will you kindly consult [Miss Sewell](/person/1301), the first title was her suggestion.[^1] [I](/person/939) am [illegible]
+How do you like the enclosed pages & title page? Will you kindly consult [Miss Sewell](/person/1301), the first title was her suggestion.[^1] [I](/person/939) am [illegible]
 home at the [illegible]
 Yours very truly
-A.
-
-Macmillan
+A. Macmillan
 
 
 [^1]: This relates to the choice of title for the anthology of historical writing edited by CMY and Elizabeth Sewell, eventually published as [Historical Selections: A Series of Readings from the Best Authorities in English and European History](/book/71).

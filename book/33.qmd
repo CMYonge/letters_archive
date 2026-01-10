@@ -2,8 +2,8 @@
 id: 33
 title: 'Conversations on the Catechism: To the end of the Creed. By the author of
   “The Heir of Redclyffe.”'
-author: Charlotte Mary Yonge
-date: '1859'
+author-name: Charlotte Mary Yonge
+publication-date: '1859'
 genre: 'Non-fiction: theology'
 publication-format: Book
 publisher: John and Charles Mozley, 6, Paternoster Row, London.

@@ -1,7 +1,7 @@
 ---
 id: 2471
 title: To the Reverend James Edwards Sewell
-date: '1872-04-21'
+iso-date: '1872-04-21'
 display-date: April 21st 1872 [1873?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester
@@ -16,7 +16,4 @@ Yours very sincerely
 C M Yonge
 
 
-[^1]: With envelope addressed to \'The Revd the Warden/ New College/ Oxford\', postmarked Winchester and Oxford 21 and 22 April 1873.
-[^2]: The Rev.
-
-James Edwards Sewell, Warden of New College, Oxford and brother of Elizabeth Sewell.
+[^2]: The Rev. James Edwards Sewell, Warden of New College, Oxford and brother of Elizabeth Sewell.

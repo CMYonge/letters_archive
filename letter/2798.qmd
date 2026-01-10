@@ -1,7 +1,7 @@
 ---
 id: 2798
 title: To Jemima Blackburn
-date: '1885-02-12'
+iso-date: '1885-02-12'
 display-date: Feb 12th 1885
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -10,21 +10,12 @@ manuscript-location: 'MS University of Illinois, Urbana Champaign: Letter 10.'
 ---
 
 My dear [Mrs Blackburn](/person/159),
-It is very pleasant to hear from you again!
-
-Someone ought to collect versions of Father Isams[?] and Sister Katieaia[?] (as she was in my time) Our school children have been seeing [sic] playing at them in Church. I should not have understood but [my mother](/person/1606) and her [half sister](/person/1580) had played at it in their childhood without understanding it. A few years ago one of my cousins saw another - a freavert[?]; amusing his children with this game and much diverted, asked if he knew what it meant.
-
-It is played in France too. A few years ago there was an article in some magazine on the behaviour of French children in the Tuileries gardens - where this game was mentioned as an instance of parodying religious rights [sic].
-
-To which [Marguerite de Witt](/person/425) ([Guizot](/person/597)’s grand daughter) wrote a rejoinder saying she had known it all her life, and only thought it an excuse for children’s kisses - wonder where else it prevails.
-I have led a very home life as usual - Some twelve years ago a crippled and invalid [sister](/person/1462) of my [brother’s wife](/person/1604) came to live with me, and as she has grown worse, it has ended in my staying more at at [sic] home.
-
-She is now entirely confined to bed, and can only use her left hand- and so it has been for more than a year, though she is a most vigorous minded person, reads everything with keen interest, and is full of excitement and trouble about this fearful affair in Egypt.[^2] I am glad we are still left a fragment of hope today for [Gordon](/person/2090)- though if it were for anyone else I should have none, but his has hitherto been a charmed life- it is like that clever article in [Blackwood](/periodical/146) where they send out the Life boat too late
+It is very pleasant to hear from you again! Someone ought to collect versions of Father Isams[?] and Sister Katieaia[?] (as she was in my time) Our school children have been seeing [sic] playing at them in Church. I should not have understood but [my mother](/person/1606) and her [half sister](/person/1580) had played at it in their childhood without understanding it. A few years ago one of my cousins saw another - a freavert[?]; amusing his children with this game and much diverted, asked if he knew what it meant. It is played in France too. A few years ago there was an article in some magazine on the behaviour of French children in the Tuileries gardens - where this game was mentioned as an instance of parodying religious rights [sic]. To which [Marguerite de Witt](/person/425) ([Guizot](/person/597)’s grand daughter) wrote a rejoinder saying she had known it all her life, and only thought it an excuse for children’s kisses - wonder where else it prevails.
+I have led a very home life as usual - Some twelve years ago a crippled and invalid [sister](/person/1462) of my [brother’s wife](/person/1604) came to live with me, and as she has grown worse, it has ended in my staying more at at [sic] home. She is now entirely confined to bed, and can only use her left hand- and so it has been for more than a year, though she is a most vigorous minded person, reads everything with keen interest, and is full of excitement and trouble about this fearful affair in Egypt.[^2] I am glad we are still left a fragment of hope today for [Gordon](/person/2090)- though if it were for anyone else I should have none, but his has hitherto been a charmed life- it is like that clever article in [Blackwood](/periodical/146) where they send out the Life boat too late
 
 Yours sincerely
 
 C M Yonge
 
 
-[^1]: This is a reference to a children\'s game which is a parody of confession.
 [^2]: In 1884, General Charles George Gordon (1833-1885) returned to the Sudan, where he had been Governor General from 1876 to 1880, to evacuate Egyptian troops threatened by the forces of Mahdi, a Muslim revivalist who had declared a holy war against the Egyptian government. A relief force failed to arrive in time, and Gordon was killed at Khartoum in January 1885; telegrams published in the English newspapers on the 11 February gave little hope that he was still alive.

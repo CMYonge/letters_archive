@@ -1,7 +1,7 @@
 ---
 id: 2187
 title: To Harriet Poole?
-date: '1867-07-10'
+iso-date: '1867-07-10'
 display-date: July 10th [1867]
 from-name: Charlotte Mary Yonge
 to-name: To Harriet Poole?
@@ -9,18 +9,10 @@ manuscript-location: 'MS UCLA: collection 100: box 95'
 ---
 
 My dear [Miss Poole](/person/1187),
-I shall be delighted to put in the history of poor Rosa’s dream, only I must let a few [numbers](/periodical/52) go by first, or I shall by [sic] inundated with dreams.
-
-The gates of Paradise have set one [lady](/person/749) dreaming already, and the Dreams of the Dead [another](/person/778), and I think I must let those wait a few months or we shall fall into a universal visionary mood—but I do like the story very much and shall be glad to keep it.
-
-It is very like a sailor story I know to be true, but the odd thing there was that the man [ . . . ] drowned and having promised to appear to his aunt he did appear to his wife. I wonder if Rosa’s dream though at morning instead of sunset, was right as to real time.
+I shall be delighted to put in the history of poor Rosa’s dream, only I must let a few [numbers](/periodical/52) go by first, or I shall by [sic] inundated with dreams. The gates of Paradise have set one [lady](/person/749) dreaming already, and the Dreams of the Dead [another](/person/778), and I think I must let those wait a few months or we shall fall into a universal visionary mood—but I do like the story very much and shall be glad to keep it. It is very like a sailor story I know to be true, but the odd thing there was that the man [ . . . ] drowned and having promised to appear to his aunt he did appear to his wife. I wonder if Rosa’s dream though at morning instead of sunset, was right as to real time.
 I should think it must have been like that ghost in India, whose appearance prevented some cheat of or by the Insurance company, I forget which.
 
 Yours sincerely
 
 C M Yonge
 Is East Brent still your permanent direction?
-
-
-[^1]: Perhaps addressed to Harriet Poole (b. 1843/4), a governess. ‘Rosa’s Dream’ was not published in MP under that title.
-[^2]: Part of the letter is obscured by paper pasted on the back.

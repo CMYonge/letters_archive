@@ -1,8 +1,8 @@
 ---
 id: 3567
 title: To Edmund Doidge Anderson Morshead
-date: '1890-06-24'
-display-date: June 24th [after 1890[[footnote:1]]]
+iso-date: '1890-06-24'
+display-date: June 24th [after 1890]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
 to-name: To Edmund Doidge Anderson Morshead
@@ -17,9 +17,4 @@ Your affec
 C M Yonge
 
 
-[^1]: The Rev.
-
-Edwards Sewell, Warden of New College, Oxford, lived with his sister Janetta until the latter’s death in July 1890.
-[^2]: CMY\'s correspondent, probably Mary Anderson Morshead, evidently solicits entry to New College, Oxford, and its archives.
-
-As a former fellow of New College and a schoolmaster at Winchester, Morshead would have had the necessary connections.
+[^2]: CMY\'s correspondent, probably Mary Anderson Morshead, evidently solicits entry to New College, Oxford, and its archives. As a former fellow of New College and a schoolmaster at Winchester, Morshead would have had the necessary connections.

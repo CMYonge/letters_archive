@@ -1,7 +1,7 @@
 ---
 id: 2852
 title: To Lady Mount Temple
-date: '1887-03-10'
+iso-date: '1887-03-10'
 display-date: March 10th [1887]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -16,6 +16,3 @@ I am told that I am to [paper torn]d the Jubilee collection to [Mrs Beach](/pers
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: Georgina, Lady Mount Temple (1821?-1901) lived at Broadlands, near Romsey, until her husband\'s death in 1888, making it more likely that the letter refers to the Golden Jubilee of 1887 than to the Diamond Jubilee of 1897.

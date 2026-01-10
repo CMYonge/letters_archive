@@ -1,7 +1,7 @@
 ---
 id: 1912
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1863-11-04'
+iso-date: '1863-11-04'
 display-date: 'Nov: 4. 1863.'
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -15,7 +15,5 @@ Can you kindly let us have your own copy?
 
 I am, dear Madam,
 Yours respectfully
-A.
-
-Macmillan
+A. Macmillan
 Miss Yonge Elderfield Otterbourne Winchester

@@ -1,7 +1,7 @@
 ---
 id: 1901
 title: To Frederick James Furnivall
-date: '1863-08-11'
+iso-date: '1863-08-11'
 display-date: Aug 11th 1863
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,18 +11,11 @@ manuscript-location: MS Huntington Library
 
 Dear [Mr Furnivall](/person/531)
 Thanks for the list of needs of the [letter B](/topic/151). I had been making the like, but found the wants so constantly supplied from the overflowings of your pigeon holes that I grew lazy and desisted.
-
 The printer at Winchester charges 7/6 per 1000 for the titles he prints for us on show paper,[^2] and we have had 4000 - which have chiefly been used by [my mother](/person/1606), as I have generally taken mine from the books that did not furnish enough to make it worth while to print their titles.
-I am desiring [Parker](/person/1144) to send a copy of the [Christian Names](/book/48) to the [Reader](/periodical/97). I think he never sends his books widely to reviews, though I never could make out what was the principle of selection as some certainly are sent out.
-
-If you are kind enough to review the book, I shall look out for the notice with great interest. I have only had two really useful and improving reviews of it, one in the [Saturday](/periodical/99), and one in the [Nonconformist](/periodical/95), a good many besides civil and useless. I hope nobody thinks I know all the languages there in referred to!
-
-In fact I fear there is plenty of internal evidence that I only got up what I wanted as I wanted it, and that not in the most thorough manner, and that I very much broke down in the correcting of the press.
-
+I am desiring [Parker](/person/1144) to send a copy of the [Christian Names](/book/48) to the [Reader](/periodical/97). I think he never sends his books widely to reviews, though I never could make out what was the principle of selection as some certainly are sent out. If you are kind enough to review the book, I shall look out for the notice with great interest. I have only had two really useful and improving reviews of it, one in the [Saturday](/periodical/99), and one in the [Nonconformist](/periodical/95), a good many besides civil and useless. I hope nobody thinks I know all the languages there in referred to! In fact I fear there is plenty of internal evidence that I only got up what I wanted as I wanted it, and that not in the most thorough manner, and that I very much broke down in the correcting of the press.
 Yours faithfully
 
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: Presumably slips of paper with the name of the book printed on the top where the usage of each individual word could be added.

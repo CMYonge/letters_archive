@@ -1,7 +1,7 @@
 ---
 id: 2760
 title: To an Unknown Man
-date: '1882-11-12'
+iso-date: '1882-11-12'
 display-date: Nov 12th 1882
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.

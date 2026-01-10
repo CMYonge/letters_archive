@@ -1,13 +1,13 @@
 ---
 id: 3073
 title: To John William Parker, Jr.
-date: '1855-10-31'
+iso-date: '1855-10-31'
 display-date: Oct 31st 1855
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne
 to-name: To John William Parker, Jr.
-manuscript-location: MS Mitchell Library,  State Library of New South Wales. A1 p
-  7,  Reel CY1592  17-18.
+manuscript-location: MS Mitchell Library, State Library of New South Wales. A1 p 7,
+  Reel CY1592 17-18.
 ---
 
 My dear [Sir](/person/1143)

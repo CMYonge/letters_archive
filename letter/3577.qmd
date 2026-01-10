@@ -1,7 +1,7 @@
 ---
 id: 3577
 title: To Mrs Lange
-date: '1890-10-09'
+iso-date: '1890-10-09'
 display-date: Oct 9th [1890s?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield

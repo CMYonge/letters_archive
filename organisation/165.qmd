@@ -5,6 +5,4 @@ name: Williams and Norgate
 title: Williams and Norgate
 ---
 
-publisher.
-
-They evidently acted as the London agents of Firma Tauchnitz of Leipzig.
+publisher. They evidently acted as the London agents of Firma Tauchnitz of Leipzig.

@@ -1,7 +1,7 @@
 ---
 id: 2544
 title: To Mary Yonge
-date: '1876-03-07'
+iso-date: '1876-03-07'
 display-date: March 7th 1876 [6 March 1876]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,24 +11,8 @@ manuscript-location: 'MS Plymouth and West Devon Area Record Office Acc No 308: 
 
 My dear [Mary](/person/1626),
 [Mary Woollcombe](/person/1558) tells us that [Alethea Hickes](/person/692) has mentioned some of the reports that have been going about as to [Julian](/person/1624)’s troubles, so I think I had better tell you all.[^1] I was very near doing so on Saturday evening only I thought I would wait for the great settlement.
-I fancy speculation is strong in our nature and from joining in a cooperative company when coals were so dear Julian came on to taking the directorship of a company owning the coal mine itself, for which he was to have £250 per annum, but he was told that directors always had to guarantee the expenses – though the company was limited liabilities.
-
-There was an examination of the state of things this winter, and though the mine itself is going on very well, selling [illegible] and paying, it turned out that there was an old load of debt- about £6000 for which some of the Banks would not wait for gradual paying- so I believe this company will be broken up and pay so much in the pound and another be formed to buy the mine and go on with it.
-
-Julian loses the income he was to have as director, and may yet have to pay off a part of the debt; but that will be shared among the other directors, so it is not so very bad, though it has made him very anxious and have to make some retrenchments such as getting rid of the large carriage and what I am more sorry for, of the farm part of the establishment which one of the farmers takes off his hands, and of course all this has made a talk. I don’t think it is at all a bad thing for the children that they should be obliged to learn carefulness and Julian is in hopes of some employment which he can go on with Poor [Sir Thomas Fairbairn](/person/496) at Brambridge has a cataract and will need a secretary for 6 months and I believe Julian may undertake that as it will be a help
+I fancy speculation is strong in our nature and from joining in a cooperative company when coals were so dear Julian came on to taking the directorship of a company owning the coal mine itself, for which he was to have £250 per annum, but he was told that directors always had to guarantee the expenses – though the company was limited liabilities. There was an examination of the state of things this winter, and though the mine itself is going on very well, selling [illegible] and paying, it turned out that there was an old load of debt- about £6000 for which some of the Banks would not wait for gradual paying- so I believe this company will be broken up and pay so much in the pound and another be formed to buy the mine and go on with it. Julian loses the income he was to have as director, and may yet have to pay off a part of the debt; but that will be shared among the other directors, so it is not so very bad, though it has made him very anxious and have to make some retrenchments such as getting rid of the large carriage and what I am more sorry for, of the farm part of the establishment which one of the farmers takes off his hands, and of course all this has made a talk. I don’t think it is at all a bad thing for the children that they should be obliged to learn carefulness and Julian is in hopes of some employment which he can go on with Poor [Sir Thomas Fairbairn](/person/496) at Brambridge has a cataract and will need a secretary for 6 months and I believe Julian may undertake that as it will be a help
 I don’t think we shall know exactly how the matter is settled until Lady Day, and it did not seem desirable to say much about it, but hearing of the report, I thought you ought to know the rights of it
 your affectionate cousin
 
 C M Yonge
-
-
-[^2]: With envelope addressed to Miss Yonge/ Puslinch/ Yealmpton/ Devon and postmarked Winchester 6 March 1876 [sic] and Plymouth 7 March 1876.
-
-Endorsed \'Julian No 1\'.
-[^3]: Gossip about Julian Yonge\'s financial disaster was circulating through the family networks.
-
-Mary (Walter) Woollcombe was a sister of Frances (Walter) Yonge and Gertrude Walter.
-
-Her husband’s family lived near Puslinch, and her brother-in-law William Woollcombe (1832-1921) had married Anne Catharina Pode (d.1913) , a first cousin of CMY, and sister of Frances Alethea (Pode) Hickes and of Charlotte (Pode) Yonge, Mary Yonge’s sister-in-law.
-
-The Rev.Thomas Hickes, Alethea’s husband, was at this time curate of Hursley.

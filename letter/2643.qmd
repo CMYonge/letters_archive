@@ -1,7 +1,7 @@
 ---
 id: 2643
 title: To Christabel Rose Coleridge
-date: '1878-09-23'
+iso-date: '1878-09-23'
 display-date: Sept 23 rd 1878
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.

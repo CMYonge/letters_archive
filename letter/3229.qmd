@@ -1,7 +1,7 @@
 ---
 id: 3229
 title: To Mary Caroline Holbeach
-date: '1893-08-21'
+iso-date: '1893-08-21'
 display-date: Aug 21st 1893
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -18,6 +18,5 @@ Yours truly
 C M Yonge
 
 
-[^1]: With envelope addressed to ‘Mrs Holbeach/ Farnborough Hall/ Banbury’.
 [^2]: Mary Caroline (Walrond) Holbeach (1854-1933), wife of Walter Henry Holbeach (1846-1901) of Farnborough Hall.
 [^3]: This seems most likely to be a reference to [Grisly Grisell](/book/228).

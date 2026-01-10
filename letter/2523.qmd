@@ -1,7 +1,7 @@
 ---
 id: 2523
 title: To Blanche Catherine Medhurst
-date: '1875-03-13'
+iso-date: '1875-03-13'
 display-date: March 13th 1875
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.

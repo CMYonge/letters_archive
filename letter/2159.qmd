@@ -1,7 +1,7 @@
 ---
 id: 2159
 title: Mary Anne Frances Martin to Alexander Macmillan
-date: '1867-03-28'
+iso-date: '1867-03-28'
 display-date: March 28th 1867
 from-name: Charlotte Mary Yonge
 from-address: 16, Mornington Road Regents Park
@@ -10,17 +10,4 @@ manuscript-location: MS British Library Add MSS 54974/1-4
 ---
 
 Dear [Mr Macmillan](/person/939)
-[I ](/person/971)return the two letters, somewhat appalled at Miss Yonge’s statement that the '[Library](/topic/145)' is to edit itself & no one is to be responsible.
-
-Of course this is not in accordance with your wish but do you not think it is a mistake which is certain to arise unless I - as Editor - take all the correspondence from the first. I see the force of your objection that I am a stranger to some of these writers but there is not one to whom I cannot procure an introduction from intimate friends & I am known by name to some.
-
-Besides the position which you have given me is a sufficient guarantee & will ensure attention to any suggestion either from you or me.
-
-There is much in Miss Yonge’s letter which I should like to talk over with you & then to write to her myself. I should also like to write to [Mr Kingsley](/person/816) about the 'ruffians' . . .
-
-
-[^1]: Frances Martin (1829-1922) had been in charge of the junior department of Bedford College since 1853, but was at this date experiencing difficulties with the Council.
-
-Macmillan had invited her to help edit the Sunday Library but did not fully explain her role to CMY.
-
-Possibly Frances Martin over-estimated the extent of the responsibilities handed to her, and, believing that she had been appointed official editor of the Library, was affronted that CMY did not immediately recognise this.
+[I](/person/971)return the two letters, somewhat appalled at Miss Yonge’s statement that the '[Library](/topic/145)' is to edit itself & no one is to be responsible. Of course this is not in accordance with your wish but do you not think it is a mistake which is certain to arise unless I - as Editor - take all the correspondence from the first. I see the force of your objection that I am a stranger to some of these writers but there is not one to whom I cannot procure an introduction from intimate friends & I am known by name to some. Besides the position which you have given me is a sufficient guarantee & will ensure attention to any suggestion either from you or me. There is much in Miss Yonge’s letter which I should like to talk over with you & then to write to her myself. I should also like to write to [Mr Kingsley](/person/816) about the 'ruffians' . . .

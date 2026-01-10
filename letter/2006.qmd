@@ -1,7 +1,7 @@
 ---
 id: 2006
 title: To Alexander Macmillan
-date: '1865-02-07'
+iso-date: '1865-02-07'
 display-date: Febry 7th 1865
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,25 +11,16 @@ manuscript-location: 'MS British Library Add MSS 54920: 63-64'
 
 Dear [Mr Macmillan](/person/939)
 I have to thank you for sending me the parcel of German books, which I hope will much add to the correctness of my [story](/book/62). I am not sure however that one has not come for me to which I have no right -Alt-Nordisches Leben Von Dr Karl Weinhold -
-[Miss Keary](/person/793) told me that you had promised to get for her some Old Northern books, so perhaps it was meant for her.
-
-In that case shall I send it?
-
-Did you also put in Duncan’s Shipwrecks which do indeed look like a store of Golden Deeds -?
-
+[Miss Keary](/person/793) told me that you had promised to get for her some Old Northern books, so perhaps it was meant for her. In that case shall I send it? Did you also put in Duncan’s Shipwrecks which do indeed look like a store of Golden Deeds -?
 Any way I am very glad of the freight, and much obliged to you for putting me in the way of getting these books.
-
 Will you be kind enough to have a copy of [Golden Deeds](/book/51) sent to
 	Mlle [Marianne von Nathusius](/person/1077),
 Meyendorf
 Leckhausen
 Magdeburg.
-
-She wants to get the start in translating it, before [Tauchnitz](/person/1396)’s English edition comes out. [Mme de Witt ](/person/423)is translating it into French
+She wants to get the start in translating it, before [Tauchnitz](/person/1396)’s English edition comes out. [Mme de Witt](/person/423)is translating it into French
 
 Yours sincerely
 
 C M Yonge
-Please to let sheets of the [Clever Woman](/book/58) go to M.
-
-Tauchnitz, unless this has been already done. I have heard from him today about it
+Please to let sheets of the [Clever Woman](/book/58) go to M. Tauchnitz, unless this has been already done. I have heard from him today about it

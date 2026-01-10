@@ -1,7 +1,7 @@
 ---
 id: 2582
 title: To the Reverend Bartholomew Price
-date: '1877-06-01'
+iso-date: '1877-06-01'
 display-date: June 1st 1877
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,13 +10,7 @@ manuscript-location: MS Pembroke College Oxford 60/14/86
 ---
 
 My dear [Mr Price](/person/1208)
-I think I may venture to write to you upon [Julian’](/person/1624)s behalf in this matter of the Secretaryship for I am sure your old friendship for him would make you inclined to help him, and I think there are qualifications which he has in a high degree, and on which I can really be an unpartial witness - i.e. - I have always seen that his military training made him well able to deal with men, and in all his career as a magistrate and county man he has been able to hold his own, and yet be friendly with those he had to do with.
-
-He knows a good deal about land and letting of farms &c and also about matters of repairs and buildings and seems to be just fit for an agency from his various kinds of experiences.
-
-It is very important to him to get some such employment chiefly for the sake of the educating of his boys.
-
-He has been much cramped since last year when the failure of a coal mine brought so much loss on him, and to take this work while the boys are being educated would just be the thing to right him[^1]
+I think I may venture to write to you upon [Julian’](/person/1624)s behalf in this matter of the Secretaryship for I am sure your old friendship for him would make you inclined to help him, and I think there are qualifications which he has in a high degree, and on which I can really be an unpartial witness - i.e. - I have always seen that his military training made him well able to deal with men, and in all his career as a magistrate and county man he has been able to hold his own, and yet be friendly with those he had to do with. He knows a good deal about land and letting of farms &c and also about matters of repairs and buildings and seems to be just fit for an agency from his various kinds of experiences. It is very important to him to get some such employment chiefly for the sake of the educating of his boys. He has been much cramped since last year when the failure of a coal mine brought so much loss on him, and to take this work while the boys are being educated would just be the thing to right him[^1]
 yours very sincerely
 
 C M Yonge

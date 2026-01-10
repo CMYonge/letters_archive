@@ -2,8 +2,8 @@
 id: 245
 title: History of the Universities’ Mission to Central Africa 1859-1896, The By A.E.M.
   Anderson-Morshead. With a Preface by Charlotte Mary Yonge.
-author: Charlotte Mary Yonge
-date: '1897'
+author-name: Charlotte Mary Yonge
+publication-date: '1897'
 genre: 'Non-fiction: preface'
 publication-format: Preface to book
 publisher: 'London: The Universities’ Mission to Central Africa.'

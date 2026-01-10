@@ -1,7 +1,7 @@
 ---
 id: 2496
 title: To an Unknown Woman
-date: '1874-04-01'
+iso-date: '1874-04-01'
 display-date: April 1st 1874
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -17,8 +17,4 @@ yours truly
 C M Yonge
 
 
-[^1]: This present was no doubt given in connection with CMY\'s work on the [Life of John Coleridge Patteson](/book/102), with whom these places were associated.
-
-Mrs Codrington was probably a relation (perhaps the mother) of the Rev.
-
-Robert Henry Codrington (1830-1922), who succeeded Bishop Patteson as head of the Melanesian mission in 1871.
+[^1]: This present was no doubt given in connection with CMY\'s work on the [Life of John Coleridge Patteson](/book/102), with whom these places were associated. Mrs Codrington was probably a relation (perhaps the mother) of the Rev. Robert Henry Codrington (1830-1922), who succeeded Bishop Patteson as head of the Melanesian mission in 1871.

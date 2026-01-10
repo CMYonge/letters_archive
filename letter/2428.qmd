@@ -1,21 +1,15 @@
 ---
 id: 2428
 title: To Mary Ann Moberly
-date: '1871-12-28'
+iso-date: '1871-12-28'
 display-date: Innocents\' Day [28 December 1871]
 from-name: Charlotte Mary Yonge
 to-name: To Mary Ann Moberly
-manuscript-location: MS location unknown.  Printed in [[otherbook:122]<i>Dulce Domum</i>]
+manuscript-location: MS location unknown. Printed in [[otherbook:122]<i>Dulce Domum</i>]
   245
 ---
 
 [[To Mary Ann Moberly](/person/1019)]I tremble to say that I am going to write [his](/person/1155) life, and I am probably going to Lichfield to talk it over with the Selwyns and Abrahams.[^1] It is very awful, for it is embalming the Saint for the Church. I hope the [Bishop](/person/1295) will let me have copies of the letters to him.
 
 
-[^1]: CMY had been commissioned by the sisters of the martyred Bishop Patteson to write his biography, and went to talk to his former colleagues in New Zealand, the Rt.
-
-Rev.
-
-George Augustus Selwyn, Bishop of Lichfield, the Rt.
-
-Rev. [Charles Abraham](/person/4), Bishop of Wellington, and their wives.
+[^1]: CMY had been commissioned by the sisters of the martyred Bishop Patteson to write his biography, and went to talk to his former colleagues in New Zealand, the Rt. Rev. George Augustus Selwyn, Bishop of Lichfield, the Rt. Rev. [Charles Abraham](/person/4), Bishop of Wellington, and their wives.

@@ -1,7 +1,7 @@
 ---
 id: 2630
 title: To Christabel Rose Coleridge
-date: '1878-05-31'
+iso-date: '1878-05-31'
 display-date: May 31st [1878]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,19 +10,10 @@ manuscript-location: MS Mrs Clare Roels
 ---
 
 My dear [Christabel](/person/329)
-This is very nice if the evidence about the alibi is quite clear enough, for I don’t see why old Bill’s evidence was not enough if the boy had been with him - but perhaps I did not understand that clearly.
-
-The only other thing that struck me was that perhaps the effect of this illness would be better in the story if you could make the first a little less severe, but without looking at it, I cannot tell - and it may be only a fancy that there is a little repetition in the part about the feelings of the family.
-
-Alvar’s ‘getting religion’ is I think quite the way he would do it if he did it at all, as of course he must. I expect the [Saturday](/periodical/99) will say it is melodramatic but that I think is part of the nature of a Spaniard Do you know you really frightened me I was afraid you were going to kill him after all, and was quite relieved to see it was not the end- Pray let me see the end when it is written- I have put [a Blue Bell story](/book/125) on the stocks, and am driving a bargain with [Mr Ward](/organisation/236) about it.
-
-It is the history of an Essay society[^2]
+This is very nice if the evidence about the alibi is quite clear enough, for I don’t see why old Bill’s evidence was not enough if the boy had been with him - but perhaps I did not understand that clearly. The only other thing that struck me was that perhaps the effect of this illness would be better in the story if you could make the first a little less severe, but without looking at it, I cannot tell - and it may be only a fancy that there is a little repetition in the part about the feelings of the family. Alvar’s ‘getting religion’ is I think quite the way he would do it if he did it at all, as of course he must. I expect the [Saturday](/periodical/99) will say it is melodramatic but that I think is part of the nature of a Spaniard Do you know you really frightened me I was afraid you were going to kill him after all, and was quite relieved to see it was not the end- Pray let me see the end when it is written- I have put [a Blue Bell story](/book/125) on the stocks, and am driving a bargain with [Mr Ward](/organisation/236) about it. It is the history of an Essay society[^2]
 your affectionate
 
 C M Yonge
 
 
-[^1]: Endorsed ‘On an English Squire’, Coleridge\'s novel An English Squire (1881).
-[^2]: The Disturbing Element, or Chronicles of the Blue-bell Society (London: Marcus Ward 1878) was a story by CMY concerning an elderly invalid who coaches a group of girls for an examination.
-
-Coleridge did not contribute to Marcus Ward\'s Bluebell series, but Mary Bramston, Geraldine Butt, and other MP authors did.
+[^2]: The Disturbing Element, or Chronicles of the Blue-bell Society (London: Marcus Ward 1878) was a story by CMY concerning an elderly invalid who coaches a group of girls for an examination. Coleridge did not contribute to Marcus Ward\'s Bluebell series, but Mary Bramston, Geraldine Butt, and other MP authors did.

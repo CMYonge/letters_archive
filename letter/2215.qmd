@@ -1,94 +1,25 @@
 ---
 id: 2215
 title: To Mary Anne Dyson
-date: '1867-11-04'
+iso-date: '1867-11-04'
 display-date: November 4, 1867
 from-name: Charlotte Mary Yonge
 from-address: Weston St. Mary Church
 to-name: To Mary Anne Dyson
-manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i> 229-30
+manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  229-30
 ---
 
 My dear [Marianne](/person/464)
-To write to you seems matter of necessity, though time does not seem to be found anywhere in the interval of church-going and eating.[^1] The Consecration day you heard about, and on the next, after a tolerably quiet day, when we went to luncheon with Mrs.
-
-Scroffs,[^2] the dear people[^3] came.
-
-They had fraternised with [Mr.
-
-Wilson](/person/1541) by the way, and he came in the fly with the ladies, while the vigorous [Primate](/person/1295) walked keeping up with him all the way, and arriving almost at the same time.
-
-He is all ‘strength and sweetness,’ and looks as vigorous as ever, and as squarely strong; the only loss is that his eyes are somewhat less large and bright, and they say they have to a certain degree grown old.
-
-It is rather like the way sailors’ eyes are puckered up by the glare. [Mrs.
-
-Selwyn](/person/1297) looks very bright and joyous, as well she may, since [John](/person/1296) has made up his mind to return with them to be ordained to work in New Zealand. [Mrs.
-
-Abraham](/person/3) is thin, but has lost the air of suffering she had when I saw her last, and we are enjoying everything to the utmost extent.
-
-The religious dissipation is enough to satisfy even you; the only difficulty is to choose between bishops, sermons, and meetings, but we stick fast to our Primate whenever we can, and our meals and walks to and fro are specially delightful.
-
-We had N. Z. at St.
-
-Mary Church in the morning, [S. O.](/person/1512) in the afternoon; both for[ S. P. G.](/organisation/41) and N. Z. in the evening at Babbacombe; then to-day Mrs.
-
-Selwyn , Mr.
-
-Wilson and I are going to hear S. O. address the Sunday School teachers in the vestry at St.
-
-Luke’s at 2 o’clock to-day, and at 7.30 we are all going to hear the Primate preach at the St.
-
-Luke’s anniversary this morning.
-
-As to telling you what we heard, it is impossible to write it out, as [Fanny](/person/1151) and [Mrs.
-
-Edwin Coleridge](/person/334) and her [sister](/person/335) are all shouting together at the other end of the room. I hope it may all arrange itself by the time we meet at Testwood.
-
-Mamma is very happy, the Bishop so very kind to her.
-S. O. came here after the afternoon church yesterday, but it was to speak to the Primate, and they were closeted together all the time, so that we only just shook hands with him.
-
-He looked better than on Friday, and he walked Mr.
-
-Wilson about among the bays at Babbacombe, so that he (R. F. W.) nearly got no dinner, having gone to the new church in the morning to hear [North Carolina](/person/73).
-
-It was delightful to see Mrs.
-
-Selwyn clap her hands when she heard that S. O. was to preach and say, ‘There, George, you really will hear a sermon.’ It is all so free and easy and merry that I don’t know how to enjoy it enough. I don’t think they know about Natal.[^4]
+To write to you seems matter of necessity, though time does not seem to be found anywhere in the interval of church-going and eating.[^1] The Consecration day you heard about, and on the next, after a tolerably quiet day, when we went to luncheon with Mrs. Scroffs,[^2] the dear people[^3] came. They had fraternised with [Mr. Wilson](/person/1541) by the way, and he came in the fly with the ladies, while the vigorous [Primate](/person/1295) walked keeping up with him all the way, and arriving almost at the same time. He is all ‘strength and sweetness,’ and looks as vigorous as ever, and as squarely strong; the only loss is that his eyes are somewhat less large and bright, and they say they have to a certain degree grown old. It is rather like the way sailors’ eyes are puckered up by the glare. [Mrs. Selwyn](/person/1297) looks very bright and joyous, as well she may, since [John](/person/1296) has made up his mind to return with them to be ordained to work in New Zealand. [Mrs. Abraham](/person/3) is thin, but has lost the air of suffering she had when I saw her last, and we are enjoying everything to the utmost extent. The religious dissipation is enough to satisfy even you; the only difficulty is to choose between bishops, sermons, and meetings, but we stick fast to our Primate whenever we can, and our meals and walks to and fro are specially delightful. We had N. Z. at St. Mary Church in the morning, [S. O.](/person/1512) in the afternoon; both for[S. P. G.](/organisation/41) and N. Z. in the evening at Babbacombe; then to-day Mrs. Selwyn , Mr. Wilson and I are going to hear S. O. address the Sunday School teachers in the vestry at St. Luke’s at 2 o’clock to-day, and at 7.30 we are all going to hear the Primate preach at the St. Luke’s anniversary this morning. As to telling you what we heard, it is impossible to write it out, as [Fanny](/person/1151) and [Mrs. Edwin Coleridge](/person/334) and her [sister](/person/335) are all shouting together at the other end of the room. I hope it may all arrange itself by the time we meet at Testwood. Mamma is very happy, the Bishop so very kind to her.
+S. O. came here after the afternoon church yesterday, but it was to speak to the Primate, and they were closeted together all the time, so that we only just shook hands with him. He looked better than on Friday, and he walked Mr. Wilson about among the bays at Babbacombe, so that he (R. F. W.) nearly got no dinner, having gone to the new church in the morning to hear [North Carolina](/person/73). It was delightful to see Mrs. Selwyn clap her hands when she heard that S. O. was to preach and say, ‘There, George, you really will hear a sermon.’ It is all so free and easy and merry that I don’t know how to enjoy it enough. I don’t think they know about Natal.[^4]
 Your most affectionate
-C. M.
-
-Yonge
+C. M. Yonge
 [Postscript] Frances Mary Yonge to Mary Anne Dyson
-To see Charlotte so well and so happy is delightful.
-
-The best must be over, but there is [Dr.
-
-Moberly ](/person/1015)to come.
-
-To see her doing the honours of the place and the people to Mr.
-
-Wilson is charming.
-
-How we look forward to Testwood when we have been at home a little while to recover ourselves.
+To see Charlotte so well and so happy is delightful. The best must be over, but there is [Dr. Moberly](/person/1015)to come. To see her doing the honours of the place and the people to Mr. Wilson is charming. How we look forward to Testwood when we have been at home a little while to recover ourselves.
 
 
 [^1]: CMY and her mother were staying with the Patteson sisters in Torquay for the consecration of the new church of [All Saints, Babbacombe](/place/195).
 [^2]: Coleridge transcribes \'Scroffs\' but the most likely candidate for the person referred to is [Emma Frances Scroggs](/person/1999), the wife of a former curate of Keble\'s, who now lived at Kingsteignton, nearby.
-[^3]: The Rt.
-
-Rev.
-
-George Augustus Selwyn, Bishop of New Zealand, his wife Sarah and her cousin Caroline Abraham.
-[^4]: This is a reference to the controversy about the Rt.
-
-Rev.[ John William Colenso](/person/1872) (1814 - 1883), Bishop of Natal, who had been excommunicated for heresy in 1863 by the Rt.
-
-Rev.
-
-Robert Gray (1809-1872), Bishop of Cape Town.
-
-Colenso fought his case, and won in the courts in 1866.
-
-In the aftermath, the Rev.
-
-William Butler was offered the bishopric of Natal, and accepted, but was dissuaded by Archbishop Longley and another appointment was eventually made.
+[^3]: The Rt. Rev. George Augustus Selwyn, Bishop of New Zealand, his wife Sarah and her cousin Caroline Abraham.
+[^4]: This is a reference to the controversy about the Rt. Rev.[John William Colenso](/person/1872) (1814 - 1883), Bishop of Natal, who had been excommunicated for heresy in 1863 by the Rt. Rev. Robert Gray (1809-1872), Bishop of Cape Town. Colenso fought his case, and won in the courts in 1866. In the aftermath, the Rev. William Butler was offered the bishopric of Natal, and accepted, but was dissuaded by Archbishop Longley and another appointment was eventually made.

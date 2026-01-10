@@ -1,7 +1,7 @@
 ---
 id: 2787
 title: To William Wynyard
-date: '1884-02-29'
+iso-date: '1884-02-29'
 display-date: Feb 29th 1884
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.

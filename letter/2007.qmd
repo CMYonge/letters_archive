@@ -1,7 +1,7 @@
 ---
 id: 2007
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1865-02-08'
+iso-date: '1865-02-08'
 display-date: Feb 8 1865
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -9,37 +9,16 @@ manuscript-location: 'Copy outletter book British Library Add MSS. 55384 (1): P.
 ---
 
 My dear Miss Yonge	
-Will you kindly send back the book by Weinhold.
-
-It is for [Miss Otté](/person/1923) who is going to do a history of North Europe. [Miss Keary](/person/793) also has been at work on the same region.
+Will you kindly send back the book by Weinhold. It is for [Miss Otté](/person/1923) who is going to do a history of North Europe. [Miss Keary](/person/793) also has been at work on the same region.
 I meant to have dropped you a note tell [sic] you why I sent you Duncans book which I stumbled on in an old book-shop, where after an old habit I was prowling about. I thought this will just suit Miss Yonge in case more [Deeds](/book/51) should be needed.' Hence these volumes[.] I am glad your welcome of them justifies my sagacity.
-I have sent the sheets of the [Clever Woman](/book/58) to [Tauchnitz](/person/1396), and will continue to do so.
-
-Also Golden Deed to [Mlle von Nathusius](/person/1077) by todays post
-I am so enjoying the Clever Woman, as indeed are we all. I had not read it in the [Ch.
-
-Magazine](/periodical/63), so it comes fresh. I suppose we may make the same [arrangement](/topic/160) with it as we did with the [Trial](/book/53). I only propose this difference. I will print 500 more and forgo the stereotyping so that you will have the £200 clear & the plates for the cheap edition.
-
-Pray tell me if this meets your views
-I wonder if you would help me with a pet scheme which has been running in my head for some time.[^1] I think I once mentioned it to you. I have been meaning to draw out a kind of programme, but I find it hard in the middle of ones work, I think if you turned it over in your mind a beautiful series would arise in idea, which could be by degrees be realized. I am sure it is a great want.
-
-Would you undertake the Editorship of the Series. I think we could get good help from various quarters. [Mr Maclear](/person/937) who has just done a little School Book for us has I think a peculiarly pleasant lively style.
-
-His slight tendency to a profusion of adjectives is easy of correction. I send you two of his books that you may see what he is like.[^2] I also give inside a rough programme of what was in my mind.
-
-Tell me how you like it. I think we should keep the whole thing quiet till we had 6 or 8 volumes nearly ready & then bring them out in monthly volumes about 4/6 each - like the Deeds. I am sure it would be a boon.
+I have sent the sheets of the [Clever Woman](/book/58) to [Tauchnitz](/person/1396), and will continue to do so. Also Golden Deed to [Mlle von Nathusius](/person/1077) by todays post
+I am so enjoying the Clever Woman, as indeed are we all. I had not read it in the [Ch. Magazine](/periodical/63), so it comes fresh. I suppose we may make the same [arrangement](/topic/160) with it as we did with the [Trial](/book/53). I only propose this difference. I will print 500 more and forgo the stereotyping so that you will have the £200 clear & the plates for the cheap edition. Pray tell me if this meets your views
+I wonder if you would help me with a pet scheme which has been running in my head for some time.[^1] I think I once mentioned it to you. I have been meaning to draw out a kind of programme, but I find it hard in the middle of ones work, I think if you turned it over in your mind a beautiful series would arise in idea, which could be by degrees be realized. I am sure it is a great want. Would you undertake the Editorship of the Series. I think we could get good help from various quarters. [Mr Maclear](/person/937) who has just done a little School Book for us has I think a peculiarly pleasant lively style. His slight tendency to a profusion of adjectives is easy of correction. I send you two of his books that you may see what he is like.[^2] I also give inside a rough programme of what was in my mind. Tell me how you like it. I think we should keep the whole thing quiet till we had 6 or 8 volumes nearly ready & then bring them out in monthly volumes about 4/6 each - like the Deeds. I am sure it would be a boon.
 I have not forgotten [Miss Murray](/person/1073)s affair.But it is hard to write at length. I may say however that it is clear to me that [the thing](/periodical/69) might be a great success, but equally clear that I personally could not take a share in the management, though I would delight in giving any suggestions that I could. I quite agreed in Miss Murray’s views about the way theological subjects should be dealt with, but I think the whole tone should be unostentatiously devout, and [illegible]
-I spoke to [Mr Hughes](/person/1924) (Tom Brown) about it.
-
-He would most gladly help, and agrees that the thing is greatly wanted. I wonder if Miss Murray would call again
+I spoke to [Mr Hughes](/person/1924) (Tom Brown) about it. He would most gladly help, and agrees that the thing is greatly wanted. I wonder if Miss Murray would call again
 
 Yours ever faithfully
-A.
-
-Macmillan
+A. Macmillan
 
 
-[^1]: Macmillan’s proposal for a [Sunday Library](/topic/145) with CMY as editor.
-
-The rocky history of the scheme unfolds in later letters.
-[^3]: George Frederick Maclear, A History of Christian Missions During the Middle Ages (Cambridge: Macmillan 1863) and A Class Book of Old Testament History (Cambridge: Macmillan 1865), the latter of which was probably the \'little School Book\'.
+[^1]: Macmillan’s proposal for a [Sunday Library](/topic/145) with CMY as editor. The rocky history of the scheme unfolds in later letters.

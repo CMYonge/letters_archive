@@ -1,7 +1,7 @@
 ---
 id: 19054
 title: To Alice Hilda Godman
-date: '1882-12-16'
+iso-date: '1882-12-16'
 display-date: Decr 16th 1882
 from-name: Charlotte Mary Yonge
 to-name: To Alice Hilda Godman
@@ -18,7 +18,4 @@ yours truly
 C M Yonge
 
 
-[^1]: With envelope addressed to \'Miss Hilda Godman/ Muntham/ Itchenfield/ ?Hareham\' and postmarked Winchester 17 December 1882 and Horsham 18 December 1882.
-
-In the 1881 census Muntham was the home of Percy Sander Godman, his wife and five children, of whom Alice Hilda (1875-1925) was the second.
 [^2]: Evidently the plan was dispose of surplus rabbits through the columns of [MP](/periodical/52).

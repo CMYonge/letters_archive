@@ -1,7 +1,7 @@
 ---
 id: 2361
 title: To Alexander Macmillan
-date: '1869-12-17'
+iso-date: '1869-12-17'
 display-date: Decr 17th [1869]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,9 +10,7 @@ manuscript-location: 'MS British Library Add MSS 54920: 236-7'
 ---
 
 Dear [Mr Macmillan](/person/939),
-[Miss Sewell](/person/1301) and I think that it would be worth while to go on at our own expense rather than suffer the scheme to drop - since completeness is the thing it really wants to make it useful and popular.
-
-But we are inclined to try whether the Clarendon press would take it, and shall make that attempt before trying our own resources.[^2]
+[Miss Sewell](/person/1301) and I think that it would be worth while to go on at our own expense rather than suffer the scheme to drop - since completeness is the thing it really wants to make it useful and popular. But we are inclined to try whether the Clarendon press would take it, and shall make that attempt before trying our own resources.[^2]
 
 Herewith I send the [Cameos](/book/93) - there are four or five more in MS which have not yet been in the [Packet](/periodical/52), and which bring it down to Bosworth. I hope it is enough to make up a volume, for there is no such good halting place through the whole Tudor time
 
@@ -25,7 +23,6 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: This relates to the publication of the anthology of historical writings CMY and Elizabeth Sewell had co-edited, of which the first part appeared as [Historical Selections](/book/71) (1868) and both parts together in two volumes as [European History: Narrated in a series of Historical Selections](/book/82) (1870).
 [^3]: CMY\'s brother JBY was translating this book, to which she lent her name as editor of the translation, as is implied in the letter to Macmillan dated 29 December 1869.
 [^4]: CMY was writing another book, eventually called [Pioneers and Founders, or, Recent Works in the Mission Field](/book/90) (1871) for Macmillan\'s [Sunday Library](/topic/145) series, of which Frances Martin was editor.

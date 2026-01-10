@@ -1,7 +1,7 @@
 ---
 id: 2330
 title: To Mary Anne Dyson
-date: '1869-08-09'
+iso-date: '1869-08-09'
 display-date: August 9. [1869]
 from-name: Charlotte Mary Yonge
 from-address: Val Richer,
@@ -11,115 +11,18 @@ manuscript-location: MS location unknown. Printed in Coleridge, <i>Life</i> 245-
 
 My dear [Marianne](/person/464)-
 
-My letter yesterday came to an untimely end in consequence of an invitation to go out and hunt fossils in a pit half clay, half chalk, near the drain tile factory, with [Julian](/person/1624), [Frances](/person/1604), [Cornélis](/person/421), and the two girls.
+My letter yesterday came to an untimely end in consequence of an invitation to go out and hunt fossils in a pit half clay, half chalk, near the drain tile factory, with [Julian](/person/1624), [Frances](/person/1604), [Cornélis](/person/421), and the two girls. The fossils are very good. We got a shark’s tooth, some very good bits of coral, and some nice shells, but of course there was much disappointment from their habit of crumbling away. There we poked about till half-past ten, when we repaired to [M. Guizot](/person/597)’s study, and he read a sermon on solitude; next followed breakfast, in the midst of which [M. de Witt](/person/419)had to set out to la concile municipale, a parish meeting which is always held on a Sunday, just as people come out of church. The talk fell upon the Louvre pictures, about which M. Guizot was more eager and excited than I have seen him about anything, and he sent for the two volumes of the Musée Royale for us to look at[,] the completion of the Musée Française which we always have had. It was one of the curious ways in which things come round in one’s life, that Musée Royale that [papa](/person/1631) always wished me to see, to be looking over it, here, when the Wilsons’ report of their (M. Guizot’s) liking of [Guy](/book/15) was one of the things that gave him so much pleasure. By the bye, I have been hearing of [M. Ampère](/person/26)[^1] crying about Guy, and oddly enough the [Young Stepmother](/book/38) seems to be one of the chief favourites here. Also the historical spirit of the [Chaplet of Pearls](/book/69) is much approved. Well, just after breakfast arrived a procession of the village women. It seems that it was the feast of St. Anne, and all the women of the village have her for their patroness, so on her day they all go to Mass, and walk about in procession, carrying a civière, a thing shaped rather like a big parrot’s cage, with three stages, all covered with white paper, and festooned with different ruches of blue, pink, and yellow paper, in which were placed two big sponge-cakes, one from the girls, and one from the women. They bring a cake to the priest, the lady, and the Maire, only this year there is no Maire. M. de Witt is likely to be Maire next year. They were all in Sunday caps, snowy white thick muslin, extensively frilled, and the little girls with bright bows, not like the daily night-cap fashion. They came to [Mme. de W](/person/423). under the catalpa tree, but were conducted to the library and each had a glass of wine all round. Late in the day, when [Harriet](/person/1359) was walking with the servants, there came on a shower, and they went into the church where they found the civière, and the priest and choir went down the church in procession, but the people were laughing and talking and taking snuff all the time. The last Sunday of August is the men’s Sunday, and they come in the same way.
 
-The fossils are very good.
-
-We got a shark’s tooth, some very good bits of coral, and some nice shells, but of course there was much disappointment from their habit of crumbling away.
-
-There we poked about till half-past ten, when we repaired to [M.
-
-Guizot](/person/597)’s study, and he read a sermon on solitude; next followed breakfast, in the midst of which [M. de Witt ](/person/419)had to set out to la concile municipale, a parish meeting which is always held on a Sunday, just as people come out of church.
-
-The talk fell upon the Louvre pictures, about which M.
-
-Guizot was more eager and excited than I have seen him about anything, and he sent for the two volumes of the Musée Royale for us to look at[,] the completion of the Musée Française which we always have had.
-
-It was one of the curious ways in which things come round in one’s life, that Musée Royale that [papa](/person/1631) always wished me to see, to be looking over it, here, when the Wilsons’ report of their (M.
-
-Guizot’s) liking of [Guy](/book/15) was one of the things that gave him so much pleasure.
-
-By the bye, I have been hearing of [M.
-
-Ampère](/person/26)[^1] crying about Guy, and oddly enough the [Young Stepmother](/book/38) seems to be one of the chief favourites here.
-
-Also the historical spirit of the [Chaplet of Pearls](/book/69) is much approved.
-
-Well, just after breakfast arrived a procession of the village women.
-
-It seems that it was the feast of St.
-
-Anne, and all the women of the village have her for their patroness, so on her day they all go to Mass, and walk about in procession, carrying a civière, a thing shaped rather like a big parrot’s cage, with three stages, all covered with white paper, and festooned with different ruches of blue, pink, and yellow paper, in which were placed two big sponge-cakes, one from the girls, and one from the women.
-
-They bring a cake to the priest, the lady, and the Maire, only this year there is no Maire. M. de Witt is likely to be Maire next year.
-
-They were all in Sunday caps, snowy white thick muslin, extensively frilled, and the little girls with bright bows, not like the daily night-cap fashion.
-
-They came to [Mme. de W](/person/423). under the catalpa tree, but were conducted to the library and each had a glass of wine all round.
-
-Late in the day, when [Harriet](/person/1359) was walking with the servants, there came on a shower, and they went into the church where they found the civière, and the priest and choir went down the church in procession, but the people were laughing and talking and taking snuff all the time.
-
-The last Sunday of August is the men’s Sunday, and they come in the same way.
-
-At about two o’clock, the family and the Protestant servants were had into Mme. de Witt’s room, where M. de Witt read (beginning with au Nom de, etc.) the Commandments and the 91st Psalm and the 17th chapter of St.
-
-Matthew; he read a comment on the latter, and said a prayer, after which the services of the day were over.
-
-After goûter [Miss Martin](/person/971) and I started off for a long walk, which was chiefly remarkable for our being caught in the rain, when we stood under an apple-tree till the rain came through, when we turned home, but the rain stopping we went on up a hill, with an old bull behind the hedge growling at us all the way.
-
-It was a good thick hedge, but as Cornélis says, 'the bulls here are not good, and the farmer who keeps him has been gored twice.' So we were not quite easy in our minds, and were glad to be past him.
-
-There was an old man having his hair cut in front of his house, but the roads here are very little frequented, though very good. I think we did not meet six people in our four-mile walk!
-
-We only came home just in time for dressing, and as I was coming out of my room to join Frances I encountered M.
-
-Guizot, who gave me his arm downstairs, telling me he had been reading my Miss Edgeworth [article](/book/75) in Macmillan,[^3] and that he had seen [her](/person/1819) and [her father](/person/1841).
-
-He said Mr.
-
-Edgeworth was very dull (I wonder if his French was as deficient as mine) and he thought him a great tyrant to his daughter. I do not remember much that was remarkable at dinner, except a story of an Englishman’s horror at finding seventeen foxes hung up in a tree. 'Quel sacrilège,' he is reported to have said, and little foxes seem to be bought here to be turned out in England.
-
-There are two wild boars still existing in a forest in Normandy.
-
-After dinner M. de Witt brought us a collection of photographs from Ary Scheffer[^4] whom they knew well and were very fond of. M.
-
-Guizot calls him the painter of the soul, and on the whole, I came from the photos with the impression that he did women beautifully, but seldom succeeded in men, except in one magnificent 'St.
-
-John writing the Apocalypse,' which I longed to show [Mrs.
-
-Keble](/person/795), it gives one a perfect thrill of awe.
-
-Miss Martin and I had a little sigh that it is not in the [Sunday Library](/topic/145) (she dislikes the pictures there extremely). I hope to bring one home.
-
-There is also a very fine likeness of his mother (which [Bishop Forbes](/person/516) once told me was his best).
-
-The photo from the picture of St.
-
-Augustine is infinitely more beautiful and suggestive than the print.
-
-St.
-
-Monica seems to be melting into the heavenly atmosphere beyond.
-
-Afterwards there was music, a cantigua of Beethoven that the girls, their father and cousins sang was most beautiful, but the clear ringing way in which [Marguerite](/person/425) and [Jeanne](/person/424) throw out their voices strikes one as quite new, less sweet but more clear than English singing.
-
-Mme. de Witt does not play or sing.
-
-Altogether it is very pleasant here, and gets pleasanter every day, so that I think we shall be sorry to go away.
-
-Julian likes M. de Witt and the boys very much; I never saw a more complete gentleman than M. de Witt, and I think they are good to the back-bone. (If only they had a church! M.
-
-Guizot says he should belong to ours if he were English.) Their testimony to the Soeurs who keep school here would charm [Mr.
-
-Butler](/person/244).
-
-They have three together, but they keep a night-school in the winter as well as the day one, but they get overworked, and by the end of the year the head sister takes to fainting away.
-
-They have £16 a year apiece, and are always trying to save out of it for the Mother-house.
-
-So wise and good Mme. de Witt says she has found them in difficult cases.
+At about two o’clock, the family and the Protestant servants were had into Mme. de Witt’s room, where M. de Witt read (beginning with au Nom de, etc.) the Commandments and the 91st Psalm and the 17th chapter of St. Matthew; he read a comment on the latter, and said a prayer, after which the services of the day were over. After goûter [Miss Martin](/person/971) and I started off for a long walk, which was chiefly remarkable for our being caught in the rain, when we stood under an apple-tree till the rain came through, when we turned home, but the rain stopping we went on up a hill, with an old bull behind the hedge growling at us all the way. It was a good thick hedge, but as Cornélis says, 'the bulls here are not good, and the farmer who keeps him has been gored twice.' So we were not quite easy in our minds, and were glad to be past him. There was an old man having his hair cut in front of his house, but the roads here are very little frequented, though very good. I think we did not meet six people in our four-mile walk! We only came home just in time for dressing, and as I was coming out of my room to join Frances I encountered M. Guizot, who gave me his arm downstairs, telling me he had been reading my Miss Edgeworth [article](/book/75) in Macmillan,[^3] and that he had seen [her](/person/1819) and [her father](/person/1841). He said Mr. Edgeworth was very dull (I wonder if his French was as deficient as mine) and he thought him a great tyrant to his daughter. I do not remember much that was remarkable at dinner, except a story of an Englishman’s horror at finding seventeen foxes hung up in a tree. 'Quel sacrilège,' he is reported to have said, and little foxes seem to be bought here to be turned out in England. There are two wild boars still existing in a forest in Normandy. After dinner M. de Witt brought us a collection of photographs from Ary Scheffer[^4] whom they knew well and were very fond of. M. Guizot calls him the painter of the soul, and on the whole, I came from the photos with the impression that he did women beautifully, but seldom succeeded in men, except in one magnificent 'St. John writing the Apocalypse,' which I longed to show [Mrs. Keble](/person/795), it gives one a perfect thrill of awe. Miss Martin and I had a little sigh that it is not in the [Sunday Library](/topic/145) (she dislikes the pictures there extremely). I hope to bring one home. There is also a very fine likeness of his mother (which [Bishop Forbes](/person/516) once told me was his best). The photo from the picture of St. Augustine is infinitely more beautiful and suggestive than the print. St. Monica seems to be melting into the heavenly atmosphere beyond. Afterwards there was music, a cantigua of Beethoven that the girls, their father and cousins sang was most beautiful, but the clear ringing way in which [Marguerite](/person/425) and [Jeanne](/person/424) throw out their voices strikes one as quite new, less sweet but more clear than English singing. Mme. de Witt does not play or sing. Altogether it is very pleasant here, and gets pleasanter every day, so that I think we shall be sorry to go away. Julian likes M. de Witt and the boys very much; I never saw a more complete gentleman than M. de Witt, and I think they are good to the back-bone. (If only they had a church! M. Guizot says he should belong to ours if he were English.) Their testimony to the Soeurs who keep school here would charm [Mr. Butler](/person/244). They have three together, but they keep a night-school in the winter as well as the day one, but they get overworked, and by the end of the year the head sister takes to fainting away. They have £16 a year apiece, and are always trying to save out of it for the Mother-house. So wise and good Mme. de Witt says she has found them in difficult cases.
 
 Val Richer was a monastery, and this was the Abbot’s house, but all the old buildings have long been made away with---before their time, I believe.
 
-Another interesting thing I heard was about the intelligence of the Bordeaux people, and the vivid way they realise the Black Prince still.
-
-It is almost breakfast time, so I close up.-
+Another interesting thing I heard was about the intelligence of the Bordeaux people, and the vivid way they realise the Black Prince still. It is almost breakfast time, so I close up.-
 
 Your most affectionate
 C. M. YONGE.
 
 
 [^1]: Jean-Jacques Ampère (1800-1864), historian and son of the physicist André-Marie Ampère.
-[^2]: Cornélis de Witt (1852-1941), eldest son of Cornélis and Pauline de Witt.
 [^3]: In the second of her three articles on children’s literature, ‘Didactic fiction: by Miss Yonge’, Macmillan’s Magazine Vol 20 pp.302-310.
 [^4]: Ary Scheffer (1795- 1858), a French painter of Dutch extraction, much admired in his day for his depiction of religious subjects.

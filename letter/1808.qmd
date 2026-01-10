@@ -1,7 +1,7 @@
 ---
 id: 1808
 title: To William Butler Bourn
-date: '1860-11-22'
+iso-date: '1860-11-22'
 display-date: Novr 22nd 1860
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.
@@ -10,12 +10,8 @@ manuscript-location: MS Helen Schinske
 ---
 
 Miss Yonge is much obliged to [Mr Bourn](/person/178) for sending her several reviews and critical notices of [Hopes & Fears](/book/37).
-
 She would be glad to know how the sale of the work has been proceeding.
-
 Miss Yonge would be much obliged if Mr Bourn would inform her whether [Mr Parker](/person/1144) is pretty well, and also to express to him her sincere regrets and condolence[^1]
 
 
-[^1]: His son [John William Parker](/person/1143), Jr. (1820-1860) had died on 9 November.
-
-Bourn and the elder Parker were now running the firm.
+[^1]: His son [John William Parker](/person/1143), Jr. (1820-1860) had died on 9 November. Bourn and the elder Parker were now running the firm.

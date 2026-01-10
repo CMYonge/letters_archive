@@ -1,7 +1,7 @@
 ---
 id: 2297
 title: To an Unknown Woman
-date: '1869-01-25'
+iso-date: '1869-01-25'
 display-date: Jany 25th [1869]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,14 +10,11 @@ manuscript-location: MS New York Public Library, De Coursey Fales Collection/4
 ---
 
 My dear Miss [name deliberately obscured][^2]
-I hope I am not tormenting you but on account of other engagements I am anxious to know whether you could come this week or next.
-
-The week that begins with the 7th and has Ash Wednesday in it, I am going to spend at [Mr Wilson](/person/1541)’s but the one after that I shall be at home again if that suited you better than within the next fortnight
+I hope I am not tormenting you but on account of other engagements I am anxious to know whether you could come this week or next. The week that begins with the 7th and has Ash Wednesday in it, I am going to spend at [Mr Wilson](/person/1541)’s but the one after that I shall be at home again if that suited you better than within the next fortnight
 
 yours sincerely
 
 C M Yonge
 
 
-[^1]: Black-edged paper, endorsed ‘1869’.
 [^2]: Possibly [Elizabeth Missing Sewell](/person/1301), a number of whose letters from CMY are marked in this way.

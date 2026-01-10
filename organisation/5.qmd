@@ -5,6 +5,4 @@ name: Keble College, Oxford
 title: Keble College, Oxford
 ---
 
-A college at Oxford opened in Keble’s memory, with the idea of widening and cheapening access to Oxford University, and bringing up a new generation of High Church clergymen. CMY attended the opening ceremony of its new buildings in 1876.
-
-For the college’s early and subsequent history see http://www.keble.ox.ac.uk/about/past/
+A college at Oxford opened in Keble’s memory, with the idea of widening and cheapening access to Oxford University, and bringing up a new generation of High Church clergymen. CMY attended the opening ceremony of its new buildings in 1876. For the college’s early and subsequent history see http://www.keble.ox.ac.uk/about/past/

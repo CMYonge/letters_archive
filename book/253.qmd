@@ -1,14 +1,12 @@
 ---
 id: 253
 title: Questions on the Catechism. Reprinted from The Monthly Paper of Sunday Teaching.
-author: Charlotte Mary Yonge
-date: '1869'
+author-name: Charlotte Mary Yonge
+publication-date: '1869'
 genre: theology
 publication-format: book
 publisher: 'London: J. and C. Mozley'
 serialization: The Monthly Paper of Sunday Teaching.
 ---
 
-CMY refers to this among her own works in a letter to Macmillan, so although the book is anonymous, and not listed by Coleridge, the attribution seems safe.
-
-It is listed, undated, by Battiscombe and Laski as owned by a member of the CMY Society.
+CMY refers to this among her own works in a letter to Macmillan, so although the book is anonymous, and not listed by Coleridge, the attribution seems safe. It is listed, undated, by Battiscombe and Laski as owned by a member of the CMY Society.

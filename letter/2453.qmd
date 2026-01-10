@@ -1,7 +1,7 @@
 ---
 id: 2453
 title: To William Garrett Horder
-date: '1877-08-02'
+iso-date: '1877-08-02'
 display-date: Aug 2nd [1877]
 from-name: Charlotte Mary Yonge
 to-name: To William Garrett Horder

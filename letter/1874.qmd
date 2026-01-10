@@ -1,7 +1,7 @@
 ---
 id: 1874
 title: To John William Parker, Sr.?
-date: '1862-10-16'
+iso-date: '1862-10-16'
 display-date: Oct 16th [1862]
 from-name: Charlotte Mary Yonge
 from-address: Ottery
@@ -12,16 +12,11 @@ manuscript-location: 'MS Princeton University, Parrish Collection, CO171: Box 29
 My dear [Sir](/person/1144),
 I did not mean to publish the two volumes of the [History of Christian Names](/book/48) separately.[^1] The second is in a state of forwardness, but I thought I had explained when I saw you that I thought it would save time to have the 1st in the press while I am going over the 2nd again.
 I imagine 2000 copies will be sufficient for a first edition.
-
 My direction till the 20th will be the [Revd W Butler](/person/244)’s
 						 Vicarage
 							Wantage	
 Yours faithfully
-C.M.
-
-Yonge
+C.M. Yonge
 
 
-[^1]: It was published in two volumes by Parker, Son and Bourn in 1863.
-
-This letter may perhaps have been addressed to [William Butler Bourn](/person/178) rather than the elder Parker.
+[^1]: It was published in two volumes by Parker, Son and Bourn in 1863. This letter may perhaps have been addressed to [William Butler Bourn](/person/178) rather than the elder Parker.

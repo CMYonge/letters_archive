@@ -1,7 +1,7 @@
 ---
 id: 2084
 title: To Alexander Macmillan
-date: '1865-12-08'
+iso-date: '1865-12-08'
 display-date: Decr 8th 1865
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,14 +10,9 @@ manuscript-location: 'British Library Add MSS 54920: 121-2'
 ---
 
 Dear [Mr Macmillan](/person/939)
-I have written a new preface and sent it to [Spottiswood](/organisation/183).
-
-If I did not send the former one to you I wonder what I did with it, I suppose it will come out of some strange corner.[^1]
+I have written a new preface and sent it to [Spottiswood](/organisation/183). If I did not send the former one to you I wonder what I did with it, I suppose it will come out of some strange corner.[^1]
 I am glad you and [Mrs Daniel](/person/941) think well of the [Chaplet](/book/69). I only wish I could give my French ladies more French grace. I have about four chapters more written but not re written, and I doubt being able to finish it quickly without spoiling it, but I will go on in earnest with it now.
-I thought there was so much a set against historical romance just now that it was hardly safe to send it forth on its own legs & without feeling its way.
-
-However the [Dove](/book/62) may be a pioneer, only would not publishing this in the spring be following rather too close upon her heels? I was much interested in the article on [Mrs Gaskell](/person/1965), but I do not agree to the acute feelings of authoresses as to criticism - and I have known some pretty sharp critiques on others besides myself - that have not done much harm to their feelings. I was struck too by the hoar frost description in Craddock Nowell, or rather the break up of the hoar frost, it is so exactly what I have often watched.
-
+I thought there was so much a set against historical romance just now that it was hardly safe to send it forth on its own legs & without feeling its way. However the [Dove](/book/62) may be a pioneer, only would not publishing this in the spring be following rather too close upon her heels? I was much interested in the article on [Mrs Gaskell](/person/1965), but I do not agree to the acute feelings of authoresses as to criticism - and I have known some pretty sharp critiques on others besides myself - that have not done much harm to their feelings. I was struck too by the hoar frost description in Craddock Nowell, or rather the break up of the hoar frost, it is so exactly what I have often watched.
 We are in much trouble for [my brothe](/person/1624)r’s [youngest](/person/1592), a little girl of 16 months is in what I fear is a most hopeless state from whooping cough and teething convulsions though so strong a child that there have been two terrible days of lingering
 
 Yours sincerely

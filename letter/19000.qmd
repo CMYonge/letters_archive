@@ -1,27 +1,21 @@
 ---
 id: 19000
 title: To John St. Loe Strachey
-date: '1900-12-02'
+iso-date: '1900-12-02'
 display-date: '[<i>c.</i> 2 December 1900]'
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
 to-name: To John St. Loe Strachey
-manuscript-location: MS location unknown.  Published in the [[other:180]<i>Spectator</i>],
-  85,  (8 December 1900), 841.
+manuscript-location: MS location unknown. Published in the [[other:180]<i>Spectator</i>],
+  85, (8 December 1900), 841.
 ---
 
 [Sir](/person/2406),
-I am anxious to ask in the interest of the English language why the word 'desight' is gibbeted by [sic] in the notice of ['Modern Broods](/book/251)' ([Spectator](/periodical/180), December 1st).
-
-It was marked in the proof, but I thought the objection was only that of a scrupulous 'reader' and I left it, having always used it, and heard it applied to a blemish or disfigurement, and I find it in the 1864 revision of Webster's Dictionary, so that I can hardly suppose it to be objectionable or inelegant. I should much like to know whether another term can be suggested bearing the same meaning, as expressing a slight defect, marring the general appearance.[^1]
+I am anxious to ask in the interest of the English language why the word 'desight' is gibbeted by [sic] in the notice of ['Modern Broods](/book/251)' ([Spectator](/periodical/180), December 1st). It was marked in the proof, but I thought the objection was only that of a scrupulous 'reader' and I left it, having always used it, and heard it applied to a blemish or disfigurement, and I find it in the 1864 revision of Webster's Dictionary, so that I can hardly suppose it to be objectionable or inelegant. I should much like to know whether another term can be suggested bearing the same meaning, as expressing a slight defect, marring the general appearance.[^1]
 -I am, Sir, &c.,
 C. M. YONGE
 
 
 [^1]: The letter was printed under the heading \'The Word \"Desight\"\', and appeared with the editor\'s reply:
 
-\'Desight\' is an unusual, if not actually obsolete, word.
-
-But the use of [Sic] was certainly unwarrantable, and we gladly offer Miss Yonge our apologies. - ED.
-
-Spectator.
+\'Desight\' is an unusual, if not actually obsolete, word. But the use of [Sic] was certainly unwarrantable, and we gladly offer Miss Yonge our apologies. - ED. Spectator.

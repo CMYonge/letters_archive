@@ -1,7 +1,7 @@
 ---
 id: 3371
 title: To Beatrice Henrietta Heathcote
-date: '1898-02-11'
+iso-date: '1898-02-11'
 display-date: Feb 11 [1898]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -10,24 +10,16 @@ manuscript-location: 'MS Hampshire Record Office: Heathcote Family Scrapbooks: 6
 ---
 
 My dear [Bea](/person/655),
-It must have been the Die and not the seal itself that was hidden in the wall. [Lottie Yonge](/person/1588) has discovered at the Croft Vertue’s Cromwell seals and medals with Richard’s seal - he is on horseback on one side and in parliament on the other.
-
-Also that Timbs in his ‘Abbeys and Castles’ says that ‘Wllm Heathcote Esq found the die and sold it but Sir William Heathcote bought the die.[^1] This is on the authority of Vertue in 1760, but as he thought it was the die of the seal of the Long Parliament.
+It must have been the Die and not the seal itself that was hidden in the wall. [Lottie Yonge](/person/1588) has discovered at the Croft Vertue’s Cromwell seals and medals with Richard’s seal - he is on horseback on one side and in parliament on the other. Also that Timbs in his ‘Abbeys and Castles’ says that ‘Wllm Heathcote Esq found the die and sold it but Sir William Heathcote bought the die.[^1] This is on the authority of Vertue in 1760, but as he thought it was the die of the seal of the Long Parliament.
 I do not much hold to his authority, and if the seal or die was bought back to Hursley, what could have become of it?
 I think the actual seal is a flat thing, like a coin (only concave) and the die big and solid more like a weight.
-[Anna](/person/195) has sent me the rubbing and it is gone to [Edmund Morshead](/person/42).
-
-The Frances White who erected the monument to Sir Charles Wyndham must have been the wife of the man with the Crease
+[Anna](/person/195) has sent me the rubbing and it is gone to [Edmund Morshead](/person/42). The Frances White who erected the monument to Sir Charles Wyndham must have been the wife of the man with the Crease
 I have written to [Mr Chamberlayne](/person/2114) to ask after Sir Isaac Newton’s sun dial. I think - and so does [Alethea](/person/182) that there used to be one at Cranbury on the slope above King’s Lane
-Boyatt Lane and High bridge used to belong to Brambridge so I can get in the avenues being pollarded for gun stocks, and Mrs Fitzherbert whom my [mother ](/person/1606)saw there and remembered her eyebrows
+Boyatt Lane and High bridge used to belong to Brambridge so I can get in the avenues being pollarded for gun stocks, and Mrs Fitzherbert whom my [mother](/person/1606)saw there and remembered her eyebrows
 
 Yours affectionately
 
 C M Yonge
 
 
-[^1]: The research material was being gathered for [John Keble\'s Parishes](/book/247), and the story of the discovery of the Great Seal of the Commonwealth appears on pp.50-1.
-
-On page 74 there is a description of the monument to Thomas White \'with a blade waved like a Malay crease\'.
-
-Maria Fitzherbert, the supposed wife of George IV, belonged to the Smythe family who owned Brambridge; they are mentioned on pp. 85-7.
+[^1]: The research material was being gathered for [John Keble\'s Parishes](/book/247), and the story of the discovery of the Great Seal of the Commonwealth appears on pp.50-1. On page 74 there is a description of the monument to Thomas White \'with a blade waved like a Malay crease\'. Maria Fitzherbert, the supposed wife of George IV, belonged to the Smythe family who owned Brambridge; they are mentioned on pp. 85-7.

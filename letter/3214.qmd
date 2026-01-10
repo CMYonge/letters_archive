@@ -1,12 +1,12 @@
 ---
 id: 3214
 title: To George Lillie Craik
-date: '1893-02-01'
+iso-date: '1893-02-01'
 display-date: Feb 1st 1893
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
 to-name: To George Lillie Craik
-manuscript-location: 'MS British Library  Add MSS 54921: 193-4'
+manuscript-location: 'MS British Library Add MSS 54921: 193-4'
 ---
 
 Dear [Mr Craik](/person/379)

@@ -1,7 +1,7 @@
 ---
 id: 1972
 title: To Messrs Macmillan
-date: '1864-09-01'
+iso-date: '1864-09-01'
 display-date: Sept 3d 1864
 from-name: Charlotte Mary Yonge
 from-address: Testwood
@@ -14,11 +14,5 @@ Care of H J Dunell Esq
 4 Upper Hyde Park Gardens W[^2]
 
 
-[^1]: The Ven.
-
-Hopkins Badnall (1821- 1892) was Archdeacon of George in South Africa, and later Bishop of Cape Town, which accounts for his correspondence being forwarded. CMY was probably presenting the books to a school.
-[^2]: On the reverse is a list of book titles in CMY’s writing: ‘History of Christian Names/ The Heir of Redclyffe/ Dynevor Terrace/ Daisy Chain/ Heartsease/ Hopes and Fears/ Young Stepmother/ Lances of Lynwood/ Little Duke / Marie Theresè of Lamourous’.
-
-These have been ticked in pencil and \'sent by I.D.C.
-
-Sept 5’ is noted.
+[^1]: The Ven. Hopkins Badnall (1821- 1892) was Archdeacon of George in South Africa, and later Bishop of Cape Town, which accounts for his correspondence being forwarded. CMY was probably presenting the books to a school.
+[^2]: On the reverse is a list of book titles in CMY’s writing: ‘History of Christian Names/ The Heir of Redclyffe/ Dynevor Terrace/ Daisy Chain/ Heartsease/ Hopes and Fears/ Young Stepmother/ Lances of Lynwood/ Little Duke / Marie Theresè of Lamourous’. These have been ticked in pencil and \'sent by I.D.C. Sept 5’ is noted.

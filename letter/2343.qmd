@@ -1,7 +1,7 @@
 ---
 id: 2343
 title: To Miss Forrest
-date: '1868-09-26'
+iso-date: '1868-09-26'
 display-date: Sept 26th [1868-9?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -12,21 +12,12 @@ manuscript-location: 'MS Princeton University, Parrish Collection, CO171: Box 29
 My dear [Miss Forrest](/person/2029)
 I am sending off your notice for the November Packet, thank you for it. I must not let you come in a vain search for [Edith Simeon](/person/1325), though I should be very glad to see you.
 
-She left me on Friday morning as she is going to help [Miss Barter](/person/116) for a few months in the school she is managing at Shipton.
-
-The being close to [Mrs Henry Barter](/person/114) is the great attraction, and she is really very much better for her stay in Ireland - both in strength and spirits.[^2] I am so glad that the notice in the [Packet](/periodical/52) was so effective[^3]
+She left me on Friday morning as she is going to help [Miss Barter](/person/116) for a few months in the school she is managing at Shipton. The being close to [Mrs Henry Barter](/person/114) is the great attraction, and she is really very much better for her stay in Ireland - both in strength and spirits.[^2] I am so glad that the notice in the [Packet](/periodical/52) was so effective[^3]
 
 Yours sincerely
 
 C M Yonge
 
 
-[^1]: Black-edged paper.
-[^2]: Kitty Moberly had married the Rev.
-
-Henry Barter in September 1863.
-
-In the 1871 census they are at Shipton under Wychwood in Oxfordshire, where he was Vicar, and where his sister Catherine Barter (b. 1820/1) is also found, running a small boarding-school with a South African ward, Salome Melango (b.1863/4).
-[^3]: Probably ‘St Peter’s Home and Sisterhood, Kilburn’, signed FF, an article describing the work of the[sisterhood](/organisation/203) and appealing for donations of books of all kinds for the use of the Home’s patients, MP(September 1869), 303-5, which was followed by a grateful acknowledgement (November 1869) 520.
-
-It seems possible that this Miss Forrest may have been Christina Fanny Forrest (1844-1926), daughter of the Chief Constable of Hampshire, and later a campaigner for the state registration of nurses and Lady Superintendent of York County Hospital.
+[^2]: Kitty Moberly had married the Rev. Henry Barter in September 1863. In the 1871 census they are at Shipton under Wychwood in Oxfordshire, where he was Vicar, and where his sister Catherine Barter (b. 1820/1) is also found, running a small boarding-school with a South African ward, Salome Melango (b.1863/4).
+[^3]: Probably ‘St Peter’s Home and Sisterhood, Kilburn’, signed FF, an article describing the work of the[sisterhood](/organisation/203) and appealing for donations of books of all kinds for the use of the Home’s patients, MP(September 1869), 303-5, which was followed by a grateful acknowledgement (November 1869) 520. It seems possible that this Miss Forrest may have been Christina Fanny Forrest (1844-1926), daughter of the Chief Constable of Hampshire, and later a campaigner for the state registration of nurses and Lady Superintendent of York County Hospital.

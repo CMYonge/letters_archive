@@ -1,7 +1,7 @@
 ---
 id: 9355
 title: To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>
-date: '1897-02-01'
+iso-date: '1897-02-01'
 display-date: '[February 1897]'
 from-name: Charlotte Mary Yonge
 to-name: To the Editor of the <i>Girls’ Friendly Society Associates’ Journal</i>
@@ -12,18 +12,8 @@ manuscript-location: MS location unknown. Printed in the <i>[[other:72]Girls’ 
 TIGHT LACING
 
 Madam,-
-It has struck me that Associates might do well to warn their [Members](/organisation/23) against tight-lacing.
-
-Two instances have fallen in my way lately which convince me that, though ladies have, thanks to sense and to bicycles, grown more sensible, the fashion plates staring one in the face on every hoarding make young girls imagine that a wasp waist is a beauty.
-
-One, whom nature intended to be as plump as a partridge, screwed herself up and drank vinegar till she took to fainting and sickness, and the last time I heard of her was obliged to be at home, where I hope she may be cured of her folly.
-
-The other is a slim, tall, pretty girl, but twice she had had to leave a situation from weakness and illness, and now, with swollen arms and legs, and hardly able to breathe or walk, she is laid up in the hospital, and it is found that her ill-health is produced by tight-lacing and dislike to wearing a warm jacket.
-
-She has no home, and what is to become of her if she cannot work? A friend has had a maid who could not scrub for the tightness of her stays.
+It has struck me that Associates might do well to warn their [Members](/organisation/23) against tight-lacing. Two instances have fallen in my way lately which convince me that, though ladies have, thanks to sense and to bicycles, grown more sensible, the fashion plates staring one in the face on every hoarding make young girls imagine that a wasp waist is a beauty. One, whom nature intended to be as plump as a partridge, screwed herself up and drank vinegar till she took to fainting and sickness, and the last time I heard of her was obliged to be at home, where I hope she may be cured of her folly. The other is a slim, tall, pretty girl, but twice she had had to leave a situation from weakness and illness, and now, with swollen arms and legs, and hardly able to breathe or walk, she is laid up in the hospital, and it is found that her ill-health is produced by tight-lacing and dislike to wearing a warm jacket. She has no home, and what is to become of her if she cannot work? A friend has had a maid who could not scrub for the tightness of her stays.
 
 I do not suppose the waist of the Venus dei Medici, which we used to be shown in our youth, would have much effect upon silly girls, nor even the diagram of the two skeletons which hygienic books show us; but they might be told that no sensible lady considers the wasp as her model, and that when we are bidden to go to the ant it is to imitate her thrift, not her figure.
 
-C.M.
-
-Yonge.
+C.M. Yonge.

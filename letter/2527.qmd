@@ -1,7 +1,7 @@
 ---
 id: 2527
 title: To Florence Freeman
-date: '1875-04-19'
+iso-date: '1875-04-19'
 display-date: April 19th 1875
 from-name: Charlotte Mary Yonge
 to-name: To Florence Freeman

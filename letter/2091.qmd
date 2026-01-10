@@ -1,7 +1,7 @@
 ---
 id: 2091
 title: The Reverend John Keble to Charlotte Mary Yonge
-date: '1865-12-29'
+iso-date: '1865-12-29'
 display-date: 29th Dec., 1865.
 from-name: Charlotte Mary Yonge
 from-address: B.Mouth
@@ -11,16 +11,9 @@ manuscript-location: MS location unknown. These extracts printed in <i>[[cmybook
 ---
 
 My very dear Child,
-This comes first to say that, to my very great relief, [I](/person/798) found this morning the two letters in a drawer in which I myself had specially lodged them for safe keeping, and herewith they come, saving something to myself which [he](/person/1155) would not perhaps like to have shewn.[^1] How precious it all is, and what thoughts it brings over one (among others) of one’s own ways. . . .
-
-We wish your dear [mother](/person/1606), and the two households with their belongings, a happy new year and many of them.
-
+This comes first to say that, to my very great relief, [I](/person/798) found this morning the two letters in a drawer in which I myself had specially lodged them for safe keeping, and herewith they come, saving something to myself which [he](/person/1155) would not perhaps like to have shewn.[^1] How precious it all is, and what thoughts it brings over one (among others) of one’s own ways. . . . We wish your dear [mother](/person/1606), and the two households with their belongings, a happy new year and many of them.
 Yours very affly.
 J. K.
 
 
-[^1]: Keble had mislaid a letter to himself and a letter to CMY from the Rt.
-
-Rev.
-
-John Coleridge Patteson.
+[^1]: Keble had mislaid a letter to himself and a letter to CMY from the Rt. Rev. John Coleridge Patteson.

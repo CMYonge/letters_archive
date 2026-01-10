@@ -1,7 +1,7 @@
 ---
 id: 3343
 title: To Mrs Wathen
-date: '1897-03-04'
+iso-date: '1897-03-04'
 display-date: March 4th [1897]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -11,7 +11,7 @@ manuscript-location: MS Princeton University, Parrish Collection
 
 Dear [Madam](/person/2165)
 As far as I can remember the first four tales were
-[Redclyffe ](/book/15)
+[Redclyffe](/book/15)
 [Heartsease](/book/19)
 [Hopes and Fears](/book/37)
 [Dynevor Terrace](/book/27)	
@@ -19,7 +19,7 @@ because I meant them to have some sort of analogy to the four seasons[^2]
 [The Daisy Chain](/book/24)
 [Trial](/book/53)
 are really connected, and the [Pillars of the House](/book/109) came later but picked up on [Countess Kate](/book/44) and the Daisy Chain in the course of the story -
-[Scenes and Characters](/book/3) had been written long before, but was taken up again in [Two Sides of the Shield ](/book/184)where also an early story [the Stokesley Secret ](/book/40)furnished some characters -
+[Scenes and Characters](/book/3) had been written long before, but was taken up again in [Two Sides of the Shield](/book/184)where also an early story [the Stokesley Secret](/book/40)furnished some characters -
 [Beechcroft At Rockstone](/book/210)
 [Strolling Players](/book/229)
 [The Long Vacation](/book/237)
@@ -35,7 +35,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: Envelope addressed to Mrs Wathen/ Withan House/ Alum Chine Road/ Bournemouth.
-
-Postmarked 97.
 [^2]: This was on the analogy of La Motte Fouqué\'s [Die Jahrzeiten](/topic/102).

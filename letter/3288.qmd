@@ -1,7 +1,7 @@
 ---
 id: 3288
 title: To Charlotte Cordelia Yonge
-date: '1895-03-17'
+iso-date: '1895-03-17'
 display-date: March 17 [1895]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,9 +10,7 @@ manuscript-location: MS West Devon Area Record Office Ac 1092/33
 ---
 
 My dear [Charlotte](/person/1587)
-How shall I say how I grieve for you in this fresh sorrow so doubled as it is by all you have to care for, the poor little [Cordelia](/person/1364) I can only say.
-
-May comfort come to you under this fresh shadow which God has thought fit to send to you and which must thus have infinite blessings within it[^1]
+How shall I say how I grieve for you in this fresh sorrow so doubled as it is by all you have to care for, the poor little [Cordelia](/person/1364) I can only say. May comfort come to you under this fresh shadow which God has thought fit to send to you and which must thus have infinite blessings within it[^1]
 your loving
 
 C M Yonge

@@ -1,7 +1,7 @@
 ---
 id: 3153
 title: To Arthur Donald Innes
-date: '1890-02-07'
+iso-date: '1890-02-07'
 display-date: Feby 7th [1890]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -11,10 +11,7 @@ manuscript-location: MS Girton College Cambridge, Yonge IV 16
 
 Dear [Mr Innes](/person/744)
 I shall be glad to have fresh editions of [Beginnings of Christian History](/book/119) and of the [Pigeon Pie](/book/34).
-
-My engineering [nephew](/person/1630) has routed up an atlas of Keith Johnstone of manageable size.
-
-If that does not prove sufficient I shall try [Cassell](/organisation/216)
+My engineering [nephew](/person/1630) has routed up an atlas of Keith Johnstone of manageable size. If that does not prove sufficient I shall try [Cassell](/organisation/216)
 
 Yours truly
 

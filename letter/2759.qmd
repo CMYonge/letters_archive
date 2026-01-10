@@ -1,7 +1,7 @@
 ---
 id: 2759
 title: To Florence Horatia Nelson Suckling
-date: '1882-09-10'
+iso-date: '1882-09-10'
 display-date: Sept 10th 1882
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,7 +11,6 @@ manuscript-location: MS Charlotte Mitchell
 
 Dear Mrs Suckling
 Thank you for your kind note, but I am going from home on Monday and shall not return till after the Donkey show is over.
-
 You will be glad to hear that our [School master](/person/1256) thinks the advantage of the Band of Mercy great to our boys.[^1]
 
 yours truly
@@ -19,6 +18,4 @@ yours truly
 C M Yonge
 
 
-[^1]: The Hampshire Telegraph (13 September 1882) reported the success of a donkey and goat show, held at Portsmouth on 12 September, during the annual meeting of the Portsmouth and Gosport Branch of the Royal Society for the Prevention of Cruelty to Animals, in which its juvenile Band of Mercy is mentioned.
-
-Mrs Suckling\'s involvement with this organization is mentioned elsewhere in the same journal (15 July 1882, 1 August 1883).
+[^1]: The Hampshire Telegraph (13 September 1882) reported the success of a donkey and goat show, held at Portsmouth on 12 September, during the annual meeting of the Portsmouth and Gosport Branch of the Royal Society for the Prevention of Cruelty to Animals, in which its juvenile Band of Mercy is mentioned. Mrs Suckling\'s involvement with this organization is mentioned elsewhere in the same journal (15 July 1882, 1 August 1883).

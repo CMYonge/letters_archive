@@ -1,7 +1,7 @@
 ---
 id: 2816
 title: To Gertrude Mary Ireland Blackburne
-date: '1885-01-01'
+iso-date: '1885-01-01'
 display-date: '[autumn 1885]'
 from-name: Charlotte Mary Yonge
 to-name: To Gertrude Mary Ireland Blackburne
@@ -9,49 +9,18 @@ manuscript-location: MS location unknown. This fragment printed in Romanes, [[ot
   185-7.
 ---
 
-[To [Gertrude Mary Ireland Blackburne](/person/160)Thank you for your letter and exposition of [Lord Hartington](/person/2362)'s views. I think it is very hard on [Lords Salisbury](/person/457) and [Iddesleigh](/person/2363), who have been stanch, [sic] religious Churchmen all their lives, to be accused of making a party cry of the Church's danger; and it was not they, but the [Record](/periodical/253), who published the scheme of the 400 robbers.[^1] It seems to me that, if Lord Hartington and the 'moderate Liberals' did not love their party and their power better than their Church, they would throw over Chamberlain and his crew instead of tampering with 'the present' and [Gladstone](/person/1653)'s shameful talk of 'dim and distant future'[^2]; but they had rather ruin the Church than not be in office or lose their elections. . . .
-
-And then they say it is a Tory cry!
-
-Who put out the Radical programme?
-
-Were not the Tories to take it up?
-
-They , at least have never tried to despoil the Church, whereas Whiggery has murdered an Archbishop[^3], expelled our best clergy, and brought the dead Walpole blight over the Church. I don't see how she can be expected to love it.
-
+[To [Gertrude Mary Ireland Blackburne](/person/160)Thank you for your letter and exposition of [Lord Hartington](/person/2362)'s views. I think it is very hard on [Lords Salisbury](/person/457) and [Iddesleigh](/person/2363), who have been stanch, [sic] religious Churchmen all their lives, to be accused of making a party cry of the Church's danger; and it was not they, but the [Record](/periodical/253), who published the scheme of the 400 robbers.[^1] It seems to me that, if Lord Hartington and the 'moderate Liberals' did not love their party and their power better than their Church, they would throw over Chamberlain and his crew instead of tampering with 'the present' and [Gladstone](/person/1653)'s shameful talk of 'dim and distant future'[^2]; but they had rather ruin the Church than not be in office or lose their elections. . . . And then they say it is a Tory cry! Who put out the Radical programme? Were not the Tories to take it up? They , at least have never tried to despoil the Church, whereas Whiggery has murdered an Archbishop[^3], expelled our best clergy, and brought the dead Walpole blight over the Church. I don't see how she can be expected to love it.
 Don't you think that Conservatism gets great injustice done it in being supposed averse to all improvements?
-
-One can't sweep a house when the enemy are trying to destroy it.
-
-All one's powers are spent in defence.
-
-Can you explain to me the difference between a Liberal and a Radical, or why Liberals always make common cause with Radicals, and wish to put it in their power to ruin the Church and expel religious education?
-
-They say, ‘Oh no, we don't wish it.’ Then they help to do it all the same.
-
-Can you expect the Church to trust them?
-I know, of course, that the Church must not be political, but do not the Liberals show themselves her natural enemies?
-
-What have they done to her in France?
-
+One can't sweep a house when the enemy are trying to destroy it. All one's powers are spent in defence.
+Can you explain to me the difference between a Liberal and a Radical, or why Liberals always make common cause with Radicals, and wish to put it in their power to ruin the Church and expel religious education? They say, ‘Oh no, we don't wish it.’ Then they help to do it all the same. Can you expect the Church to trust them?
+I know, of course, that the Church must not be political, but do not the Liberals show themselves her natural enemies? What have they done to her in France?
 You say that is a warning, but why are Church people to give up their consciences and throw away their loyalty for fear of being persecuted? I am utterly miserable about it all, for it seems to me that the principle of Liberalism is to let the multitude have its own way; and as there will always be more folly and rapaciousness in the world than wisdom and conscience, it seems to me that the glory of England is gone.
-
-There!
-
-Please forgive me for writing bitterly, but I do feel most cruelly the destruction of the Church, and the attacks on all I have thought good and great.
+There! Please forgive me for writing bitterly, but I do feel most cruelly the destruction of the Church, and the attacks on all I have thought good and great.
 
 yours sincerely
-C. M.
-
-Yonge
+C. M. Yonge
 
 
-[^1]: Spencer Compton Cavendish (1833-1908), known as the Marquess of Hartington until he succeeded his father as 8th Duke of Devonshire in 1891, was the leader of the Whig or moderate wing of the Liberal party.
-
-The Marquess of Salisbury, was the leader of the Conservative party and Prime Minister from 1885; the Earl of Iddesleigh was another Conservative politician.
-
-The Record had announced that 403 of the Liberal candidates contesting seats at the election were pledged to support the disestablishment of the Church of England; The Times (29 September 1885) 9.
-[^2]: Joseph Chamberlain (1836-1914) was Radical M.P. for Birmingham; he was a Unitarian.
-
-Gladstone\'s election manifesto, published in The Times (19 Sept 1885, 8), contained, in a passage admitting the possibility of the disestablishment of the Church of England, the words: \'I cannot forecast the dim and distant courses of the future.\'
+[^1]: Spencer Compton Cavendish (1833-1908), known as the Marquess of Hartington until he succeeded his father as 8th Duke of Devonshire in 1891, was the leader of the Whig or moderate wing of the Liberal party. The Marquess of Salisbury, was the leader of the Conservative party and Prime Minister from 1885; the Earl of Iddesleigh was another Conservative politician. The Record had announced that 403 of the Liberal candidates contesting seats at the election were pledged to support the disestablishment of the Church of England; The Times (29 September 1885) 9.
+[^2]: Joseph Chamberlain (1836-1914) was Radical M.P. for Birmingham; he was a Unitarian. Gladstone\'s election manifesto, published in The Times (19 Sept 1885, 8), contained, in a passage admitting the possibility of the disestablishment of the Church of England, the words: \'I cannot forecast the dim and distant courses of the future.\'
 [^3]: William Laud (1573-1645).

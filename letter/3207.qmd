@@ -1,41 +1,25 @@
 ---
 id: 3207
 title: To the Reverend Vere Awdry
-date: '1893-11-29'
+iso-date: '1893-11-29'
 display-date: November 29. [1893?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield,
 to-name: To the Reverend Vere Awdry
-manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i>
   pp. 327-328
 ---
 
-Dear [Mr.
-
-Awdry](/person/84)-
-I can quite believe that humble words of [Mr.
-
-Keble](/person/798) might be misunderstood, misreported, and exaggerated, and if called on to defend every single line in the [Christian Year](/periodical/95), he might have spoken of it as a man, growing in grace, at sixty years old might speak of his utterances at thirty.[^2]
+Dear [Mr. Awdry](/person/84)-
+I can quite believe that humble words of [Mr. Keble](/person/798) might be misunderstood, misreported, and exaggerated, and if called on to defend every single line in the [Christian Year](/periodical/95), he might have spoken of it as a man, growing in grace, at sixty years old might speak of his utterances at thirty.[^2]
 But I can distinctly declare that he never repented of the book as a whole, nor regretted its publication, and that it is quite a mistake to suppose that he ever did so.
-I knew he disliked in his ‘selflessness’ to have conversation about the book, so that if I wanted explanation I referred to his [wife](/person/795) or [sister](/person/796), and I know that he was always in the same mind about it.
-
-We often observed how his sermons chimed in with it not intentionally, but showing the same bent of thought.
-I can believe, however, that he may have expressed that some parts might have been improved by a more matured mind.
-
-Every one so feels I imagine, and I think he felt that if he had known what its popularity would be, he would have been more guarded, if I may say so, in some expressions.
-
-But I am sure he never changed as to its doctrines.
-
-He once said to me, ‘A successful book may be the trial of one's life,’ but that was in the same sense as ‘Praise be thy penance here.’
+I knew he disliked in his ‘selflessness’ to have conversation about the book, so that if I wanted explanation I referred to his [wife](/person/795) or [sister](/person/796), and I know that he was always in the same mind about it. We often observed how his sermons chimed in with it not intentionally, but showing the same bent of thought.
+I can believe, however, that he may have expressed that some parts might have been improved by a more matured mind. Every one so feels I imagine, and I think he felt that if he had known what its popularity would be, he would have been more guarded, if I may say so, in some expressions.
+But I am sure he never changed as to its doctrines. He once said to me, ‘A successful book may be the trial of one's life,’ but that was in the same sense as ‘Praise be thy penance here.’
 But it is impossible to make some people understand such humility.-
 
 Yours sincerely,
 C. M. YONGE.
 
 
-[^1]: The Rev.
-
-Vere Awdry (1854-1928) succeeded the Rev.
-
-John Frewen Moor as Vicar of Ampfield in 1897.
 [^2]: The statement by Keble under discussion here may be that reported by Walter Lock, John Keble (1892), 56: ‘He himself said in 1845 that when he wrote The Christian Year he did not fully understand the doctrine of the Holy Eucharist.’

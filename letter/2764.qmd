@@ -1,7 +1,7 @@
 ---
 id: 2764
 title: To George Lillie Craik
-date: '1882-12-14'
+iso-date: '1882-12-14'
 display-date: Decr 14th 1882
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -12,9 +12,7 @@ manuscript-location: 'MS British Library Add MSS 54921: 117-118'
 Dear [Mr Craik](/person/379)
 There is [a new volume of Cameos](/book/134) just ready to come out, ending at Queen Elizabeth’s death. I suppose it must be called ‘Wars of the Reformation’ I do not like the term Wars of Religion.
 I am also finishing off [Stray Pearls](/book/170), which will be completed in the [Monthly Packet](/periodical/52) in June, in 32 or 33 chapters - so I suppose it may come out about that time.
-
 It is a sort of continuation of [the Chaplet of Pearls](/book/69) in the time of the Fronde, when the cavaliers were in exile.
-
 Will you kindly desire a copy of [Magnum Bonum](/book/131) and of the [Clever Woman](/book/58) to be sent me
 Yours very truly
 

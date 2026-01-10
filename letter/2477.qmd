@@ -1,7 +1,7 @@
 ---
 id: 2477
 title: To Wilhelmina Martha James
-date: '1873-07-23'
+iso-date: '1873-07-23'
 display-date: '[23 July 1873]'
 from-name: Charlotte Mary Yonge
 to-name: To Wilhelmina Martha James
@@ -11,10 +11,3 @@ manuscript-location: MS Charlotte Mitchell/14
 [To [Wilhelmina Martha James](/person/754)]It is coming, but there were so many that we are obliged to send them to the post by instalments
 
 C M Yonge
-
-
-[^1]: A printed postcard, addressed on reverse to ‘Miss W M James/ Clarghyll Hall/ Alston/ Carlisle’ and postmarked 23 July 1873.
-
-James was a novelist, who contributed a story called \'Coin of the Realm\' to the MP Christmas number of 1874 under her usual pseudonym \'Austin Clare\'.
-
-However, this enigmatic message does not seem to relate to that.

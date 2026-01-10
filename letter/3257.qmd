@@ -1,7 +1,7 @@
 ---
 id: 3257
 title: To George Lillie Craik
-date: '1894-03-27'
+iso-date: '1894-03-27'
 display-date: March 27th 1894
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -12,7 +12,6 @@ manuscript-location: 'MS British Library Add MSS 54921: 206-7'
 Dear [Mr Craik](/person/379)
 I cannot at all tell whether this is the right length, as the only ‘Golden Treasuries’ I have seen are my own and I do not think they have introductions.[^1]
 I can easily add biographical details if you wish it to be longer - but I like to write to my own sense of the needs of the subject and to add or diminish afterwards as required.
-
 Do you know whether [Mrs Ritchie](/person/1240) is abroad. I was moved to write to her by sympathy with her preface to Miss Mitford, and I have never had an answer
 
 Yours truly

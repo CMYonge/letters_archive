@@ -1,7 +1,7 @@
 ---
 id: 2522
 title: To Alexander Macmillan
-date: '1875-03-01'
+iso-date: '1875-03-01'
 display-date: March 1st 1875
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -11,12 +11,8 @@ manuscript-location: 'MS British Library Add MSS 54921: 7-8'
 
 Dear [Mr Macmillan](/person/939)
 Thank you, I shall be very glad to know approximately the [value of those copy rights](/topic/160). I suppose they are worth far more to me than they would be to anyone else, and that if I wished to raise a sum of money, say £5000 or 6000, it would be better to use them as security, since the proceeds would enable me annually to pay off something than to attempt the sale of any - as indeed I suppose a sale must be all or none.
-I have brought the [French history](/book/99) down to Louis XIV but I am much afraid I shall have to go back and abridge.
-
-Moreover Clay cried out for [Cameos](/book/124) copy, and I had to work at them.
-
+I have brought the [French history](/book/99) down to Louis XIV but I am much afraid I shall have to go back and abridge. Moreover Clay cried out for [Cameos](/book/124) copy, and I had to work at them.
 The [Scripture History](/book/108) ends - (this volume) in a most awkward place but it was of no use to try to get more in as there was no resting place till the end of the Gospels, then there could be no crowding there.
-
 Thank you for your kind invitation I have not slept in London for three years nor have been there for two!
 
 Yours sincerely

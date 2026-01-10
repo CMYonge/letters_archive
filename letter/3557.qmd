@@ -1,8 +1,8 @@
 ---
 id: 3557
 title: To Mrs White
-date: '1877-07-09'
-display-date: July 9th [before 1877[[footnote:1]]]
+iso-date: '1877-07-09'
+display-date: July 9th [before 1877]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
 to-name: To Mrs White
@@ -18,8 +18,5 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: This letter must antedate Emma Butler’s marriage in the last quarter of 1877 to Edward Lewis Knight.
 [^2]: There are many references to convalescent homes in MP and it is not possible to identify with any certainty the one referred to here.
-[^3]: The Royal Earlswood Asylum for Idiots opened in 1855.
-
-As a subscriber, CMY had a vote to cast when a vacancy occurred.
+[^3]: The Royal Earlswood Asylum for Idiots opened in 1855. As a subscriber, CMY had a vote to cast when a vacancy occurred.

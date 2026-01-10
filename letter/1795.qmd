@@ -1,7 +1,7 @@
 ---
 id: 1795
 title: To Miss Erskine
-date: '1860-07-01'
+iso-date: '1860-07-01'
 display-date: July 3d 1860
 from-name: Charlotte Mary Yonge
 from-address: Otterbourne, Winchester.

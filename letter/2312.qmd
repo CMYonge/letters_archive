@@ -1,7 +1,7 @@
 ---
 id: 2312
 title: To an Unknown Woman
-date: '1869-03-25'
+iso-date: '1869-03-25'
 display-date: March 25th [1869]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,16 +10,10 @@ manuscript-location: 'MS Princeton University, Parrish Collection, CO171: Box 29
 ---
 
 Dear Madam,
-I am much obliged by your kind answer and will write again in a short time.
-
-Another application that I had made about ten days before and had begun to think was unnoticed, has at length answered me, and I must know first whether the girl is eligible to the school that has been mentioned to me.
-
+I am much obliged by your kind answer and will write again in a short time. Another application that I had made about ten days before and had begun to think was unnoticed, has at length answered me, and I must know first whether the girl is eligible to the school that has been mentioned to me.
 When this is decided I will write again
 With many thanks
 
 Yours sincerely
 
 C M Yonge
-
-
-[^1]: Black-edged paper.

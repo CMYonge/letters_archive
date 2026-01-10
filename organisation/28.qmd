@@ -5,10 +5,4 @@ name: St. John’s College, Hurstpierpoint
 title: St. John’s College, Hurstpierpoint
 ---
 
-This was one of the Woodard schools, founded to provide good cheap education for the middle classes.
-
-Alice Coleridge lived there with her sister and brother-in-law, the Rev.
-
-Edward Clarke Lowe, headmaster 1850-73.
-
-The school’s website is http://www.hppc.co.uk/index.asp
+This was one of the Woodard schools, founded to provide good cheap education for the middle classes. Alice Coleridge lived there with her sister and brother-in-law, the Rev. Edward Clarke Lowe, headmaster 1850-73. The school’s website is http://www.hppc.co.uk/index.asp

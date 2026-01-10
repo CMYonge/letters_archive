@@ -1,8 +1,8 @@
 ---
 id: 287
 title: \'Hackneys\'
-author: Charlotte Mary Yonge
-date: '1892'
+author-name: Charlotte Mary Yonge
+publication-date: '1892'
 genre: Non-fiction, literary criticism
 publication-format: Article in Journal
 publisher: MP (October 1892) 413-417

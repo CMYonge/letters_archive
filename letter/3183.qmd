@@ -1,7 +1,7 @@
 ---
 id: 3183
 title: To an Unknown Person
-date: '1891-01-01'
+iso-date: '1891-01-01'
 display-date: '[1891]'
 from-name: Charlotte Mary Yonge
 from-address: '[Salisbury]'
@@ -9,29 +9,10 @@ to-name: To an Unknown Person
 manuscript-location: MS location unknown. Printed in Romanes, <i>[[otherbook:241]Appreciation]</i>.
 ---
 
-[Dean Church](/person/297)'s beautiful [book](/organisation/34) came in time for me to work it in with the Cardinal.
-
-It is a sort of key.[^1] By the way, there is a mistake- I don't know whether [J. H. N.](/person/1084)'s or [Miss Mozley](/person/1061)'s - about the consecration of a church to which he could not go in 1838: it is said to be Hursley but it really was Otterbourne.
-
-Hursley was not consecrated, of course, till years after. I read Hurrell Froude immediately after . . then I read Dean Church, who is most delightful every way, and how he does scathe the Hebdomadal Board![^2] How like it was to the seed bursting and bringing forth much fruit!
-
-What beautiful sketches there are of [Mr.
-
-Keble](/person/798) and Charles![^3] It seems to me the real portrait of Mr.
-
-Keble.
-
-Those letters between ['Jemima'](/person/1064) and J. H. N. are most - I should say interesting, but that the word has been spoilt.
-
-It is altogether a wonderful book. I still think that patience was wanting, but partly from the not having grown up in the love of the Mother Church.
+[Dean Church](/person/297)'s beautiful [book](/organisation/34) came in time for me to work it in with the Cardinal. It is a sort of key.[^1] By the way, there is a mistake- I don't know whether [J. H. N.](/person/1084)'s or [Miss Mozley](/person/1061)'s - about the consecration of a church to which he could not go in 1838: it is said to be Hursley but it really was Otterbourne. Hursley was not consecrated, of course, till years after. I read Hurrell Froude immediately after . . then I read Dean Church, who is most delightful every way, and how he does scathe the Hebdomadal Board![^2] How like it was to the seed bursting and bringing forth much fruit! What beautiful sketches there are of [Mr. Keble](/person/798) and Charles![^3] It seems to me the real portrait of Mr. Keble.
+Those letters between ['Jemima'](/person/1064) and J. H. N. are most - I should say interesting, but that the word has been spoilt. It is altogether a wonderful book. I still think that patience was wanting, but partly from the not having grown up in the love of the Mother Church.
 
 
-[^1]: The Rev. R. W.
-
-Church, The Oxford Movement: Twelve Years, 1833 -1845 (London, Macmillan 1891), was long the dominant reading of the events of the Tractarian period, an eloquent and personal testimony.
-
-By \'the Cardinal\' CMY means Anne Mozley\'s recent edition of Newman\'s early letters.
+[^1]: The Rev. R. W. Church, The Oxford Movement: Twelve Years, 1833 -1845 (London, Macmillan 1891), was long the dominant reading of the events of the Tractarian period, an eloquent and personal testimony. By \'the Cardinal\' CMY means Anne Mozley\'s recent edition of Newman\'s early letters.
 [^2]: Church\'s account criticises the authorities of the University of Oxford for their treatment of Newman, arguing that a more sympathetic approach might have prevented his secession to Rome.
-[^3]: Church describes the Rev.
-
-Charles Marriott (1811-1858), who had been a pupil of Dr Moberly\'s, but it is slightly puzzling that CMY refers to him by his Christian name.
+[^3]: Church describes the Rev. Charles Marriott (1811-1858), who had been a pupil of Dr Moberly\'s, but it is slightly puzzling that CMY refers to him by his Christian name.

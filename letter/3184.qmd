@@ -1,7 +1,7 @@
 ---
 id: 3184
 title: To the Archdeacon of ?
-date: '1892-01-01'
+iso-date: '1892-01-01'
 display-date: Jan 1st 1892
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -12,14 +12,8 @@ manuscript-location: MS Princeton University, Parrish Collection
 Dear Mr Archdeacon[^1]
 I am venturing to ask a favour of you.
 I do not know whether you have heard of the [Mother’s Union](/organisation/31), started by [Mrs G Sumner](/person/1381) (the wife of the [Bishop of Guildford](/person/1382)) at first for poor women, to rouse them to some heed to the training of their children but it gradually spread to ladies &c. and indeed quite as much counsel seems to be needed by them as by cottage women.
-
 The need of an ‘organ’ was soon felt, and faute de mieux, I have had to edit the quarterly [‘Mothers in Council’](/periodical/82) of which I send a specimen.
-
-We want particularly good advice upon boys’ training.
-
-Some excellent papers we have had, and we should be very grateful if you would give us a short paper on some point in their home training.
-
-What is foremost in my mind is the fore-arming against the many temptations to gambling - but for any other subject that you might prefer, we should be grateful. I am afraid at present that it must be gratitude alone, as [Wells Gardiner](/organisation/114) who publishes at the risk of the President does not yet pay beyond the expenses, though the sale encreases [sic]
+We want particularly good advice upon boys’ training. Some excellent papers we have had, and we should be very grateful if you would give us a short paper on some point in their home training. What is foremost in my mind is the fore-arming against the many temptations to gambling - but for any other subject that you might prefer, we should be grateful. I am afraid at present that it must be gratitude alone, as [Wells Gardiner](/organisation/114) who publishes at the risk of the President does not yet pay beyond the expenses, though the sale encreases [sic]
 I remain
 Yours very truly
 

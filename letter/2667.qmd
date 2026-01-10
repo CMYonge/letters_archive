@@ -1,7 +1,7 @@
 ---
 id: 2667
 title: To Christabel Rose Coleridge
-date: '1879-03-14'
+iso-date: '1879-03-14'
 display-date: March 14th 1879
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,9 +10,7 @@ manuscript-location: MS Mrs Clare Roels
 ---
 
 My dear [Christabel](/person/329)
-How soon do you like to come, for I am now quite ready for you. [Mary](/person/351) has finished her visit, and then I had [Elizabeth Wordsworth ](/person/1566)for a couple of nights on her way back from Foare. I hope [your father](/person/1900) is well again; and the Church getting on.
-
-We shall not regale you with an inspection this time, [Mr Green](/person/1647) was much more amiable, and the girls did very well, except in certain long answers upon domestic economy The boys were damaged by the changes of master and had twelve failures- the girls only three- of very small ones- but we have [a good new master](/person/513) now so I hope for better things
+How soon do you like to come, for I am now quite ready for you. [Mary](/person/351) has finished her visit, and then I had [Elizabeth Wordsworth](/person/1566)for a couple of nights on her way back from Foare. I hope [your father](/person/1900) is well again; and the Church getting on. We shall not regale you with an inspection this time, [Mr Green](/person/1647) was much more amiable, and the girls did very well, except in certain long answers upon domestic economy The boys were damaged by the changes of master and had twelve failures- the girls only three- of very small ones- but we have [a good new master](/person/513) now so I hope for better things
 your affte
 
 C M Yonge

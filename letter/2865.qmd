@@ -1,7 +1,7 @@
 ---
 id: 2865
 title: To John Robson Scarlett
-date: '1887-09-09'
+iso-date: '1887-09-09'
 display-date: Sept 9th [1887]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne Winchester
@@ -17,7 +17,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: Envelope addressed to J B [or R?] Scarlett Esq/ 24 Cramer Terrace/ Gateshead on Tyne, postmarked 87.
-[^2]: CMY\'s correspondent, an accountant who is listed at this address in the 1891 census, used the same trick to get autographs from both Thomas Hardy and A. C.
-
-Swinburne: see Collected Letters of Thomas Hardy, VII, 105 and The Swinburne Letters, V, 231.
+[^2]: CMY\'s correspondent, an accountant who is listed at this address in the 1891 census, used the same trick to get autographs from both Thomas Hardy and A. C. Swinburne: see Collected Letters of Thomas Hardy, VII, 105 and The Swinburne Letters, V, 231.

@@ -1,7 +1,7 @@
 ---
 id: 1986
 title: To the Reverend John Frewen Moor
-date: '1864-10-28'
+iso-date: '1864-10-28'
 display-date: Oct 28th 1864
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -18,6 +18,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: One of the arithmetic questions over which they were cooperating.
-
-See the letters to Moor dated June and 23 November 1864.
+[^1]: One of the arithmetic questions over which they were cooperating. See the letters to Moor dated June and 23 November 1864.

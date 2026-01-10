@@ -2,8 +2,8 @@
 id: 230
 title: '“Authorship” in Ladies at Work: Papers on Paid Employments for Ladies by Experts
   in the Several Branches ed. Lady Jeune'
-author: Charlotte Mary Yonge
-date: '1893'
+author-name: Charlotte Mary Yonge
+publication-date: '1893'
 genre: 'Non-fiction: advice to aspirant writers'
 publication-format: Book
 publisher: 'London: A.D. Innes & Co.'

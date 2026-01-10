@@ -1,7 +1,7 @@
 ---
 id: 3365
 title: To the Reverend William Parsons Warburton
-date: '1897-12-21'
+iso-date: '1897-12-21'
 display-date: Decr 21st 1897
 from-name: Charlotte Mary Yonge
 to-name: To the Reverend William Parsons Warburton

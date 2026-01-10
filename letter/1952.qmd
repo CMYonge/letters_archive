@@ -1,7 +1,7 @@
 ---
 id: 1952
 title: To Frederick James Furnivall
-date: '1864-04-28'
+iso-date: '1864-04-28'
 display-date: April 28th 1864
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,28 +10,15 @@ manuscript-location: MS Huntington Library
 ---
 
 Dear Mr [Furnivall](/person/531),
-I do not think I quite know what ought to be the rule about the [news and the nons](/topic/151).[^1] I meant to have asked you but somehow missed doing so.
-
-My own notion would have been only to put those as words - (in the case of new) which could not be explained by simple disintegration -- as for instance new-birth for regeneration, but not new born, when simply meaning lately born.
-
-But I found the extracts, Worcester and the Shakespeare concordance all agreed in treating every compound as a separate word, so I thought I was bound to follow their example.
-
-Non seems to me a more doubtful case, as it is not a word alone, but I should be glad of a rule.
-
+I do not think I quite know what ought to be the rule about the [news and the nons](/topic/151).[^1] I meant to have asked you but somehow missed doing so. My own notion would have been only to put those as words - (in the case of new) which could not be explained by simple disintegration -- as for instance new-birth for regeneration, but not new born, when simply meaning lately born. But I found the extracts, Worcester and the Shakespeare concordance all agreed in treating every compound as a separate word, so I thought I was bound to follow their example. Non seems to me a more doubtful case, as it is not a word alone, but I should be glad of a rule.
 Another question - Surely the whole etymology, and comparison with allied languages need not be repeated at every form of the same word - to refer to the real leading word must be enough, at least in the present concise work. I mean na & nae though having their own explanation and quotation and references for their periods may dispense with their congeners in all tongues if they have a reference to no - and the same with all the long tailed adjectives and nons that spring out of words ending in ology - the history of their parent-monster need not be repeated on each of them.
-I rather rebel against St Nicholas’s clerks &c. I think S should have them, but I returned them once and they came back.
-
-Surely the Saint is essential to their character or no character.
-
+I rather rebel against St Nicholas’s clerks &c. I think S should have them, but I returned them once and they came back. Surely the Saint is essential to their character or no character.
 We finished [Lockhart’s life](/topic/105)[^2] at the same time as the slips, by a convenient coincidence and there is still plenty of work in the Annual Register, at least for the summer which is a desultory time - but my [mother](/person/1606) desires me to add that she has nearly finished her chronicle slips for it, and she is only at 1792, so that she would be glad of as many again
 Would it be well if you would kindly strike out the superfluous news - nons and nots out of the list I sent. I think I know the rule - it was the practice that puzzled me.
-
 Yours faithfully
 
 C M Yonge
 
 
-[^1]: Though in August 1863 CMY was dealing with the letter B for the Philological Society\'s Dictionary, she seems now to have moved on to dealing with N.
-
-These seem to have become misplaced at a later date: see letter to Furnivall of 23 April 1874.
+[^1]: Though in August 1863 CMY was dealing with the letter B for the Philological Society\'s Dictionary, she seems now to have moved on to dealing with N. These seem to have become misplaced at a later date: see letter to Furnivall of 23 April 1874.
 [^2]: The OED retains many citations of this work.

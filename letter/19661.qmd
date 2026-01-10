@@ -1,7 +1,7 @@
 ---
 id: 19661
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1866-12-03'
+iso-date: '1866-12-03'
 display-date: Dec. 3. 1866
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -10,27 +10,17 @@ manuscript-location: Copy outletter book British Library Add MSS.55386 (2) P.701
 
 Dear Miss Yonge,                                          
 
-I have received some copies of [Dynevor Terrace](/book/27).
+I have received some copies of [Dynevor Terrace](/book/27). Shall I send them to you or to some place in Brighton? I can probably add a book or two of my own if you say the cause is worthy.[^1]
 
-Shall I send them to you or to some place in Brighton? I can probably add a book or two of my own if you say the cause is worthy.[^1]
+I will anyway see about the [Cameos](/book/73) very soon and also about [Miss Peard](/person/1160). The pre-Christmas weeks are rather pressing.
 
-I will anyway see about the [Cameos](/book/73) very soon and also about [Miss Peard](/person/1160).
-
-The pre-Christmas weeks are rather pressing.
-
-I liked Miss Sewell’s title very well.
-
-It might be slightly modified.
-
-Have you got the leave [illegible]  from all the authors?
+I liked Miss Sewell’s title very well. It might be slightly modified. Have you got the leave [illegible]  from all the authors?
 
 I will write very soon,
 
 Yours faithfully,
 
-[A.
-
-Macmillan](/person/939)
+[A. Macmillan](/person/939)
 
 So the [Chaplet](/book/69) finished?
 
@@ -39,6 +29,4 @@ So the [Chaplet](/book/69) finished?
 &nbsp;
 
 
-[^1]: CMY had evidently suggested, in reply to Macmillan\'s suggestion that the copies of Dynevor Terrace inherited from Parker and Son should be sold off cheap to Routledge or W. H.
-
-Smith, that the books should instead be donated to a charity.
+[^1]: CMY had evidently suggested, in reply to Macmillan\'s suggestion that the copies of Dynevor Terrace inherited from Parker and Son should be sold off cheap to Routledge or W. H. Smith, that the books should instead be donated to a charity.

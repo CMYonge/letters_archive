@@ -1,7 +1,7 @@
 ---
 id: 3505
 title: To Anne Mary Buston
-date: '1875-04-01'
+iso-date: '1875-04-01'
 display-date: April 1st [after 1875]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -17,7 +17,4 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: Anne Mary Buston (1824/5-1895) was the wife of the Rev.
-
-Roger Buston (1807/8-mid 1880s), Vicar of Twyford, and mother of a numerous family.
 [^2]: The Girls\' Friendly Society was founded in 1875.

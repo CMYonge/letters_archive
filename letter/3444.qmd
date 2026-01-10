@@ -1,7 +1,7 @@
 ---
 id: 3444
 title: To Florence Belfield
-date: '1900-02-12'
+iso-date: '1900-02-12'
 display-date: Feb 12th 1900
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -11,11 +11,5 @@ manuscript-location: MS Girton College Cambridge, Yonge XIII 2
 
 Dear [Madam](/person/133)
 After having exhibited the mittens to various very respectful admirers and waiting in vain for my [Cousin](/person/28) to come and see them last week I have decided on sending them to her registered and I am sure she will carefully return them in a short time with many many thanks for the privilege.
-
 Yours thankfully
-C.M.
-
-Yonge
-
-
-[^1]: Envelope addressed ‘Mrs Belfield/Malmain/French hay /Bristol and postmarked Winchester 12 February 1900.
+C.M. Yonge

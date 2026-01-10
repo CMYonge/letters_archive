@@ -5,6 +5,4 @@ name: Scotch girl\'s novel
 title: Scotch girl\'s novel
 ---
 
-CMY asked Alexander Macmillan to read a manuscript novel by a Scots girl.
-
-It may perhaps have been the work of Mary Frances Dundas.
+CMY asked Alexander Macmillan to read a manuscript novel by a Scots girl. It may perhaps have been the work of Mary Frances Dundas.

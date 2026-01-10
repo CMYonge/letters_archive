@@ -1,7 +1,7 @@
 ---
 id: 2288
 title: To the Reverend William John Butler
-date: '1868-10-28'
+iso-date: '1868-10-28'
 display-date: St. S[imon]. & J[ude]. [28 October] 1868
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester
@@ -10,34 +10,19 @@ manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:4
   237-8
 ---
 
-My dear [Mr.
-
-Butler](/person/244)
-Thanks. I wish I felt more worthy of being an Exterior Sister,[^1] but I am thankful to be joined to what is good, though I do not think you would care to have me if you knew how I ‘shrink when hard service must be done,’[^2] and what a spoilt child I have been ever since I grew up, very nearly useless in anything practical.
-
-But I will constantly use the prayer, and I hope whenever I can come to Wantage that I may be admitted.
-I wish we could have seen you again.
-
-The church is the same still, and has its atmosphere about it, as much I think as possible. I wish the [Wilson](/person/1541)s had been there, they bring breaths of the old times with them, but altogether it was rather like the Tate and Brady verse that begins
+My dear [Mr. Butler](/person/244)
+Thanks. I wish I felt more worthy of being an Exterior Sister,[^1] but I am thankful to be joined to what is good, though I do not think you would care to have me if you knew how I ‘shrink when hard service must be done,’[^2] and what a spoilt child I have been ever since I grew up, very nearly useless in anything practical. But I will constantly use the prayer, and I hope whenever I can come to Wantage that I may be admitted.
+I wish we could have seen you again. The church is the same still, and has its atmosphere about it, as much I think as possible. I wish the [Wilson](/person/1541)s had been there, they bring breaths of the old times with them, but altogether it was rather like the Tate and Brady verse that begins
 		I sigh whene’er my musing thoughts -[^3]
-When you read your novel, do let it be Nigel Bartram’s Ideal, one of Warne’s Companion Library - shilling books- it is by the little [lady](/person/1520) who showed us over [St.
-
-Cross](/organisation/130), and I think has a great deal in it.
-
-Is [Emma](/person/822) inclined [Goslingwards](/topic/104)?
-
-Shall I tell the [Senior Gosling](/person/329) to send her the names and rules?
+When you read your novel, do let it be Nigel Bartram’s Ideal, one of Warne’s Companion Library - shilling books- it is by the little [lady](/person/1520) who showed us over [St. Cross](/organisation/130), and I think has a great deal in it.
+Is [Emma](/person/822) inclined [Goslingwards](/topic/104)? Shall I tell the [Senior Gosling](/person/329) to send her the names and rules?
 
 Yours affectionately
-C. M.
-
-Yonge
+C. M. Yonge
 
 
 [^1]: She had become an Exterior Sister of the [Community of St Mary the Virgin](/organisation/21), Wantage, a sisterhood founded by Butler in 1848.
-[^2]: It is interesting that CMY applied to herself this poem by John Henry Newman.
-
-Although it subsequently gained the title \'Flowers without Fruit\', when it appeared in [Lyra Apostolica](/periodical/92) it was called \'Deeds not Words\':
+[^2]: It is interesting that CMY applied to herself this poem by John Henry Newman. Although it subsequently gained the title \'Flowers without Fruit\', when it appeared in [Lyra Apostolica](/periodical/92) it was called \'Deeds not Words\':
 
 Prune thou thy words; the thoughts control
 That o\'er thee swell and throng;--

@@ -1,7 +1,7 @@
 ---
 id: 2774
 title: To Ann Maria Carter Smith
-date: '1883-06-06'
+iso-date: '1883-06-06'
 display-date: June 6th [1883]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -18,5 +18,4 @@ yours sincerely
 C M Yonge
 
 
-[^1]: A silurian envelope with a long flap for writing on, the outside addressed to Miss Carter Smith/ Thistleworth/ Stevenage and postmarked Winchester 6 June and Stevenage 7 June 1883.
 [^2]: In fact Delicia Darling: A Kentish Medley did not appear in MP until August 1886.

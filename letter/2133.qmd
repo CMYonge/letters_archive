@@ -1,7 +1,7 @@
 ---
 id: 2133
 title: To Alexander Macmillan
-date: '1866-09-01'
+iso-date: '1866-09-01'
 display-date: Sept 3d 1866
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -19,6 +19,4 @@ C M Yonge
 What a delightful paper that is on the Verney portraits
 
 
-[^1]: Chapters of Caroline Norton’s Old Sir Douglas appeared in [Macmillan’s Magazine](/periodical/78) from January to May 1866, and then from September 1866 to October 1867.
-
-The Chaplet of Pearls was serialized from November, 1867 to December 1868.
+[^1]: Chapters of Caroline Norton’s Old Sir Douglas appeared in [Macmillan’s Magazine](/periodical/78) from January to May 1866, and then from September 1866 to October 1867. The Chaplet of Pearls was serialized from November, 1867 to December 1868.

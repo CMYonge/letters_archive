@@ -2,8 +2,8 @@
 id: 9
 title: Langley School. By the author of “The Kings of England.” Reprinted from the
   Magazine for the Young.
-author: Charlotte Mary Yonge
-date: '1850'
+author-name: Charlotte Mary Yonge
+publication-date: '1850'
 genre: Fiction
 publication-format: Book
 publisher: John and Charles Mozley, Paternoster Row, London, and Joseph Masters, New

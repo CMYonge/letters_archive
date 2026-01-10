@@ -1,21 +1,16 @@
 ---
 id: 2911
 title: To the Very Reverend William John Butler
-date: '1889-07-11'
+iso-date: '1889-07-11'
 display-date: July 11th [1889]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
 to-name: To the Very Reverend William John Butler
-manuscript-location: MS  Mrs Julia Birley/2
+manuscript-location: MS Mrs Julia Birley/2
 ---
 
 My dear [Mr Dean](/person/244)
-Please tell me if I am wrong in objecting to have the 1st Psalm set down wholly as Maccabean?
-
-It is in [Mr Rodwell](/person/2386)’s comments on the Psalms in his new [Newbery Magazine](/periodical/89)[^1] which I have had to notice.
-
-There was no previous explanation why any Psalms should be said to be Maccabean (though of course I know it is said of more obvious ones, though I don’t believe it) And the reason was odd, that the 1st Psalm seemed to belong to a time when everybody was to study the law, not only rulers as in Deut XVI and Joshua I- Just as if the 6th of Deuteronomy did not enforce it upon everybody! I know the 1st Psalm is said not to be David’s but I never saw it attributed to anyone later than Ezra. I don’t want to be too narrow and ignorant of criticism but I don’t find this in Wordsworth or Thrupp and I have not Browne.
-
+Please tell me if I am wrong in objecting to have the 1st Psalm set down wholly as Maccabean? It is in [Mr Rodwell](/person/2386)’s comments on the Psalms in his new [Newbery Magazine](/periodical/89)[^1] which I have had to notice. There was no previous explanation why any Psalms should be said to be Maccabean (though of course I know it is said of more obvious ones, though I don’t believe it) And the reason was odd, that the 1st Psalm seemed to belong to a time when everybody was to study the law, not only rulers as in Deut XVI and Joshua I- Just as if the 6th of Deuteronomy did not enforce it upon everybody! I know the 1st Psalm is said not to be David’s but I never saw it attributed to anyone later than Ezra. I don’t want to be too narrow and ignorant of criticism but I don’t find this in Wordsworth or Thrupp and I have not Browne.
 Surely I need not believe in direct inspiration between Malachi and St Matthew.
 I should like to be discussing it in the porch at the Mead[^2]
 

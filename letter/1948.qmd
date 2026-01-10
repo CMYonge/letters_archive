@@ -1,7 +1,7 @@
 ---
 id: 1948
 title: To George Routledge & Sons?
-date: '1864-04-18'
+iso-date: '1864-04-18'
 display-date: April 18th 1864
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -18,6 +18,4 @@ your obt servt
 C M Yonge
 
 
-[^1]: The biographical dictionary referred to here was probably Men of the Time (7th ed.
-
-London: Routledge 1868), whose entry on CMY appears to correspond with this letter.
+[^1]: The biographical dictionary referred to here was probably Men of the Time (7th ed. London: Routledge 1868), whose entry on CMY appears to correspond with this letter.

@@ -1,12 +1,12 @@
 ---
 id: 2772
 title: To Harper & Bros.
-date: '1883-04-30'
+iso-date: '1883-04-30'
 display-date: April 30th 1883
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
 to-name: To Harper & Bros.
-manuscript-location: 'MS Columbia University Library, New York:  Harper Collection'
+manuscript-location: 'MS Columbia University Library, New York: Harper Collection'
 ---
 
 Messrs [Harper](/organisation/248)

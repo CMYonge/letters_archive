@@ -1,7 +1,7 @@
 ---
 id: 2754
 title: To George Lillie Craik
-date: '1882-06-21'
+iso-date: '1882-06-21'
 display-date: June 21st 1882
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -17,5 +17,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: Endorsed ‘See letter of Mr Craik to Miss Yonge June 1820 1882 xlii Letter Book Folio 352’.
 [^2]: Her novels [P\'s and Q\'s, or, The Question of Putting Upon](/book/95) (1872) and [The Clever Woman of the Family](/book/58) (1865).

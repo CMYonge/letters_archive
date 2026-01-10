@@ -1,7 +1,7 @@
 ---
 id: 2175
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1867-06-01'
+iso-date: '1867-06-01'
 display-date: June 1867.
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -10,33 +10,17 @@ manuscript-location: Copy outletter book British Library Add MSS.55387 (1) P. 27
 
 Dear Miss Yonge	
 [I](/person/939) am much obliged to you for so kindly undertaking the new work I hope when you are once in it you will find it not less pleasant than the others.
-I propose [paying](/topic/160) you the same for that as I will for the Worthies.
-
-The amounts which will be due to you next half year & part or the whole we can pay you any time after August 1. are:-
+I propose [paying](/topic/160) you the same for that as I will for the Worthies. The amounts which will be due to you next half year & part or the whole we can pay you any time after August 1. are:-
 [Pupils](/book/72)	£200 for copyright
 [Cameos](/book/73)	 100 1st edition
 [Danvers](/book/63)	 75 -------------
 Besides these there will be due to you early in January certain balances for the books which are your own property.[^1] What these amount to you shall know I hope during July
 I hope this information will enable you to make your [beneficent arrangement](/place/188) in a satisfactory manner.
-
-Trade is dreadfully dull at present.
-
-People will not buy books at all, they will do nothing but 'Reform Bill' it.
-
-Not profitable work unless it leads to better results in life & labour, than seem prevalent now.
-
-But for this dullness I quite hope that the Danvers papers will be a real success. I read them again since their publication.
-
-About your proposed [Guide to charitable Institutions](/topic/190), this seems to me the natural course, that you should communicate with [Mr Low](/person/1992), offering him as a supplement all those not contained in his book.
-
-If you would like I will glad [sic] convey the offer to him.
-
-It would be a pity and indeed useless to publish what he has already done.
+Trade is dreadfully dull at present. People will not buy books at all, they will do nothing but 'Reform Bill' it. Not profitable work unless it leads to better results in life & labour, than seem prevalent now. But for this dullness I quite hope that the Danvers papers will be a real success. I read them again since their publication.
+About your proposed [Guide to charitable Institutions](/topic/190), this seems to me the natural course, that you should communicate with [Mr Low](/person/1992), offering him as a supplement all those not contained in his book. If you would like I will glad [sic] convey the offer to him. It would be a pity and indeed useless to publish what he has already done.
 I am dear Miss Yonge
 Yours very faithfully
 Alex Macmillan
 
 
-[^1]: The books originally published by [Parker](/organisation/152) which Macmillan was now distributing for CMY \'on commission\'.
-
-See letters between CMY and Macmillan dated 7, 9 and 13 October 1863.
+[^1]: The books originally published by [Parker](/organisation/152) which Macmillan was now distributing for CMY \'on commission\'. See letters between CMY and Macmillan dated 7, 9 and 13 October 1863.

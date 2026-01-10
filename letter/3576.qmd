@@ -1,7 +1,7 @@
 ---
 id: 3576
 title: To the Author of ‘Ella’s Dream’
-date: '1870-02-10'
+iso-date: '1870-02-10'
 display-date: Febry 10th [1870s?]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -21,8 +21,4 @@ C M Yonge
 &nbsp;
 
 
-[^1]: There was more than one series of ‘Warne’s Victoria Toy Books: A Packet of Twelve Nursery Stories’, and they are treated variously by cataloguers, since they appeared as ‘Edited by the Author of The Heir of Redclyffe’.
-
-Some assume this means that CMY wrote them.
-
-According to WorldCat the only surviving copy of Ella’s Dream is owned by the University of Florida.
+[^1]: There was more than one series of ‘Warne’s Victoria Toy Books: A Packet of Twelve Nursery Stories’, and they are treated variously by cataloguers, since they appeared as ‘Edited by the Author of The Heir of Redclyffe’. Some assume this means that CMY wrote them. According to WorldCat the only surviving copy of Ella’s Dream is owned by the University of Florida.

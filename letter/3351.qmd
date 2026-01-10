@@ -1,7 +1,7 @@
 ---
 id: 3351
 title: To Mary Yonge
-date: '1897-05-22'
+iso-date: '1897-05-22'
 display-date: Saturday [22 May 1897]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,16 +10,8 @@ manuscript-location: MS West Devon Area Record Office
 ---
 
 My dear [Mary](/person/1626)
-You will like to know that the funeral is to be on Monday- her 48th birthday.
-
-By her own wish, [she](/person/1462) is to be carried into Church at 8 for the Celebration.
-
-Burial at 3.
-
-Hymns ‘The King of Love’ and ‘Peace, perfect peace’ her own choice.
-[Frances](/person/1604) is here I wish you could pay me a real visit a little later when the house has been set to rights, but I think I shall have to go out while it is doing- only for a few days.
-
-But I would make all fit to what you could give me of time, and there will be plenty of room now.
+You will like to know that the funeral is to be on Monday- her 48th birthday. By her own wish, [she](/person/1462) is to be carried into Church at 8 for the Celebration. Burial at 3. Hymns ‘The King of Love’ and ‘Peace, perfect peace’ her own choice.
+[Frances](/person/1604) is here I wish you could pay me a real visit a little later when the house has been set to rights, but I think I shall have to go out while it is doing- only for a few days. But I would make all fit to what you could give me of time, and there will be plenty of room now.
 I can’t feel yet what the difference will be
 your loving
 

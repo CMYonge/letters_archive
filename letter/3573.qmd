@@ -1,7 +1,7 @@
 ---
 id: 3573
 title: To Caroline Jeannette Beck?
-date: '1872-04-25'
+iso-date: '1872-04-25'
 display-date: April 25th [1872-1891]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.

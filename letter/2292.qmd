@@ -1,7 +1,7 @@
 ---
 id: 2292
 title: To Alexander Macmillan
-date: '1868-11-22'
+iso-date: '1868-11-22'
 display-date: '[22 November 1868]'
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,14 +10,11 @@ manuscript-location: 'MS British Library Add MSS 54920: 222-3'
 ---
 
 My dear [Mr Macmillan](/person/939),
-Many, many thanks[.] the birthday[^2] for which the Heroes were wanted comes tomorrow, so nothing can be more convenient.
-
-The [Lances](/book/23) look very well
+Many, many thanks[.] the birthday[^2] for which the Heroes were wanted comes tomorrow, so nothing can be more convenient. The [Lances](/book/23) look very well
 
 Yours sincerely
 
 C M Yonge
 
 
-[^1]: Black-edged paper.
 [^2]: CMY’s nephew, [Francis Arthur Yonge](/person/1607) was going to be seven on 23 November 1868.

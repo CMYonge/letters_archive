@@ -1,7 +1,7 @@
 ---
 id: 3445
 title: To Christabel Rose Coleridge
-date: '1900-02-26'
+iso-date: '1900-02-26'
 display-date: Feb 26 [1900]
 from-name: Charlotte Mary Yonge
 to-name: To Christabel Rose Coleridge
@@ -10,12 +10,8 @@ manuscript-location: MS Mrs Clare Roels/91
 
 My dear [C C](/person/329)
 I shall be very glad to see you on the 16th and I hope you come back again with the news of the meeting as I am told you can stay on with me a little while longer. I hope you will sharpend up my wits a little about [my missionary lad](/book/250), who I mean to have the divine afflatus but I am almost afraid the history of his home preventions will almost stifle the mission work.
-
 We have had a man killed by falling in of[f] the chalk at the water works.
-
-Good luck to your lectures, I suppose you have seen that they have found out who Sir Thomas Mallory was, a Lancastrian in prison.
-
-It was in the [Spectator](/periodical/180).
+Good luck to your lectures, I suppose you have seen that they have found out who Sir Thomas Mallory was, a Lancastrian in prison. It was in the [Spectator](/periodical/180).
 [Cronje](/person/2213)’s men are making a fine figure for history and sympathy
 your affte
 

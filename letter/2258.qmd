@@ -1,7 +1,7 @@
 ---
 id: 2258
 title: To Alexander Macmillan
-date: '1868-07-22'
+iso-date: '1868-07-22'
 display-date: July 22nd [1868]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,12 +10,8 @@ manuscript-location: 'MS British Library Add MSS 54920: 203-4'
 ---
 
 My dear [Mr Macmillan](/person/939),
-I am afraid I have been guilty of a misunderstanding, and of leading [Miss Sewell](/person/1301) into one, but I thought we were to have [£200](/topic/160) for the copyright of the [Historical Selections](/book/71), and I must say I think it is hardly compensation for all the trouble it has given.
-
-Miss Sewell has connection enough to secure it a good sale as a school book and we should be quite willing to take a percentage on the sale, only that the permanent long account to be divided would be troublesome.
-I am afraid it is all my fault.
-
-You offered us the same as I was to have for the [Cameos](/book/73), and I am afraid I did think this was £200 for want of referring back to your letter about them and thus I misled both Miss Sewell and myself so that we had agreed that she should have £125 and I £75. I am sorry I made the blunder, but I think that now, unless you would give us the £200 (which I really think that the copyright is worth) that a percentage on the price of each 100 would be the most satisfactory way
+I am afraid I have been guilty of a misunderstanding, and of leading [Miss Sewell](/person/1301) into one, but I thought we were to have [£200](/topic/160) for the copyright of the [Historical Selections](/book/71), and I must say I think it is hardly compensation for all the trouble it has given. Miss Sewell has connection enough to secure it a good sale as a school book and we should be quite willing to take a percentage on the sale, only that the permanent long account to be divided would be troublesome.
+I am afraid it is all my fault. You offered us the same as I was to have for the [Cameos](/book/73), and I am afraid I did think this was £200 for want of referring back to your letter about them and thus I misled both Miss Sewell and myself so that we had agreed that she should have £125 and I £75. I am sorry I made the blunder, but I think that now, unless you would give us the £200 (which I really think that the copyright is worth) that a percentage on the price of each 100 would be the most satisfactory way
 
 Yours sincerely
 

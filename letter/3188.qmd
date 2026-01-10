@@ -1,7 +1,7 @@
 ---
 id: 3188
 title: To Frederick Orridge Macmillan
-date: '1892-01-30'
+iso-date: '1892-01-30'
 display-date: Jan 30th 1892
 from-name: Charlotte Mary Yonge
 from-address: Elderfield Otterbourne
@@ -15,6 +15,3 @@ I enclose the receipts with many thanks
 yours truly
 
 C M Yonge
-
-
-[^1]: Black-edged paper.

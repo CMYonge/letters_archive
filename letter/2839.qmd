@@ -1,7 +1,7 @@
 ---
 id: 2839
 title: To George Lillie Craik
-date: '1886-07-28'
+iso-date: '1886-07-28'
 display-date: July 28th 1886
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -10,16 +10,8 @@ manuscript-location: 'MS British Library Add MSS 54921: 157-8'
 ---
 
 Dear [Mr Craik](/person/379)
-I must go on with [the Queen’s life](/book/189) now, for there is a letter from Sir [Henry Ponsonby](/person/2365) this morning, recommending me to dedicate it to the Queen’s daughters, which is a sort of acceptance.
-
-So I will gladly accept your kind offer of taking it and giving me half profits.
-I never had much hope of the work and only was driven into it. I finished it yesterday, and send it off today to you.
-
-And now for the title. I suppose Jubilee book is absorbed.
-
-Something distinctive we must have.
-
-What do you think of ‘The Victorian Half Century’ or is that taken up?
+I must go on with [the Queen’s life](/book/189) now, for there is a letter from Sir [Henry Ponsonby](/person/2365) this morning, recommending me to dedicate it to the Queen’s daughters, which is a sort of acceptance. So I will gladly accept your kind offer of taking it and giving me half profits.
+I never had much hope of the work and only was driven into it. I finished it yesterday, and send it off today to you. And now for the title. I suppose Jubilee book is absorbed. Something distinctive we must have. What do you think of ‘The Victorian Half Century’ or is that taken up?
 I am afraid (though I don’t like it) that to call it Charlotte M Yonge’s Victorian Half Century .[sic] would give it the best chance of people’s knowing what they were asking for - and as a second title The life and/of Queen Victoria and chief events of her reign for Young People.
 I think that is necessary to shew that it is not a real political history.
 I am sorry there is all this inconvenience about the Quest of Ulysses. [A Modern Telemachus](/book/185) is really better[^1]

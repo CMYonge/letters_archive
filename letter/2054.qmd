@@ -1,7 +1,7 @@
 ---
 id: 2054
 title: To Alexander Macmillan
-date: '1865-07-14'
+iso-date: '1865-07-14'
 display-date: July 14th 1865
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,10 +10,9 @@ manuscript-location: 'MS British Library Add MSS 54920: 101'
 ---
 
 Dear [Mr Macmillan](/person/939)
-Would you be so kind as to add your signature to this [cheque](/topic/160). I never perceived the omission till I sent it to be changed.
-
+Would you be so kind as to add your signature to this [cheque](/topic/160). I never perceived the omission till I sent it to be changed.	
 My [brother](/person/1624) has been seeing Huntley and Palmers biscuit manufactory, and has written an account of it, which he tells me to offer to you, in case it should be supposed suitable to the [Magazine](/periodical/78), it is really very curious and entertaining.[^1]
-I am afraid the earlier [cameos ](/book/73)want a great deal of doctoring up before they can be made into a book, but I always hope to do so
+I am afraid the earlier [cameos](/book/73)want a great deal of doctoring up before they can be made into a book, but I always hope to do so
 
 Yours sincerely
 

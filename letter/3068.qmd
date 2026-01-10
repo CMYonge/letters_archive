@@ -1,7 +1,7 @@
 ---
 id: 3068
 title: To Anna Butler
-date: '1855-06-06'
+iso-date: '1855-06-06'
 display-date: June 6th [1855]
 from-name: Charlotte Mary Yonge
 from-address: Otterbourn
@@ -11,12 +11,7 @@ manuscript-location: MS Westminster Archives Centre, Barkly MSS M:Acc 0618/80/6
 
 My dear [Miss Butler](/person/237)
 ‘[Likes and Dislikes](/organisation/248)’ are beginning at last you see, and here is the first chapter of them, looking very inviting.
-
-We have had great enjoyment in a visit from your cousin [Elizabeth](/person/113), I only wish her back was stronger.
-
-Are you meditating any travels this summer, the [Packet](/periodical/52) wonders in rather an interested mood.
-
-By the by, if you have any idea, I should be glad to know what sort of number of chapters you contemplate in the present story
+We have had great enjoyment in a visit from your cousin [Elizabeth](/person/113), I only wish her back was stronger. Are you meditating any travels this summer, the [Packet](/periodical/52) wonders in rather an interested mood. By the by, if you have any idea, I should be glad to know what sort of number of chapters you contemplate in the present story
 
 yours sincerely
 

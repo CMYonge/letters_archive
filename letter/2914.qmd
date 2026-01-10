@@ -1,7 +1,7 @@
 ---
 id: 2914
 title: To Arthur Donald Innes
-date: '1889-08-01'
+iso-date: '1889-08-01'
 display-date: Aug 23d 1889
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -12,9 +12,7 @@ manuscript-location: MS Girton College Cambridge, Yonge IV 13
 Dear [Mr Innes](/person/744)
 Many thanks for the account and the [cheques](/topic/160) for which I enclose receipts.
 I will keep the Molyneuxes till you return, as they give much pleasure here.[^1] I think it should be observed to the author that there is an inconsistency in making the estate come through the mother and then placing a Molyneux ancestry there.
-
 Also I think the Baptism of Eggs is an expression not desirable in a child’s book.
-
 When you return there will be plenty of time to see about the Advertisements for next year
 
 Yours truly

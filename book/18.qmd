@@ -2,8 +2,8 @@
 id: 18
 title: Castle Builders, or, The Deferred Confirmation, The. By the author of “Heartsease,”
   “The Heir of Redclyffe,” “Scenes and Characters,” etc.
-author: Charlotte Mary Yonge
-date: '1854'
+author-name: Charlotte Mary Yonge
+publication-date: '1854'
 genre: Fiction (modern)
 publication-format: Book
 publisher: John and Charles Mozley, 6 Paternoster Row, London

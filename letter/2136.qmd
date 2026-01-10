@@ -1,7 +1,7 @@
 ---
 id: 2136
 title: To Alexander Macmillan
-date: '1866-10-26'
+iso-date: '1866-10-26'
 display-date: Oct 26th 1866
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,15 +10,7 @@ manuscript-location: 'MS British Library Add MSS 54920: 164-165'
 ---
 
 Dear [Mr Macmillan](/person/939),
-Can you tell me how far back in time the reservation of the right of translation goes-?
-
-There is a pretty story of Paul Feval’s in the Feé des Grèves which [my mother](/person/1606) translated, and I want to have in the [Monthly Packet](/periodical/52).[^1] It was printed in 1853, and is out of print in France, and there is no notice of reservation of translation in the title page - however by way of being on the safe side I wrote to ask for authorisation for the translation, and this morning my letter has been returned to me with these incomprehensible marks on the envelope.
-
-Now if 1853 was - (as I rather think) before it became necessary to get leave to translate, there need by no more trouble, but if not perhaps you could tell me how to make a less unsuccessful application.
-
-Whether M.
-
-Dageneau has removed - or who is M. Févals present publisher.[^1] The story ought to begin in January so I am rather anxious about it.
+Can you tell me how far back in time the reservation of the right of translation goes-? There is a pretty story of Paul Feval’s in the Feé des Grèves which [my mother](/person/1606) translated, and I want to have in the [Monthly Packet](/periodical/52).[^1] It was printed in 1853, and is out of print in France, and there is no notice of reservation of translation in the title page - however by way of being on the safe side I wrote to ask for authorisation for the translation, and this morning my letter has been returned to me with these incomprehensible marks on the envelope. Now if 1853 was - (as I rather think) before it became necessary to get leave to translate, there need by no more trouble, but if not perhaps you could tell me how to make a less unsuccessful application. Whether M. Dageneau has removed - or who is M. Févals present publisher.[^1] The story ought to begin in January so I am rather anxious about it.
 [Miss Sewell](/person/1301) is coming here today for a consultation over the extracts. I think we have nearly enough in bulk for a first [volume](/book/71), but there are two or three important bits for which we have not yet found writing interesting enough - the Battle of the Standard [^2]- Magna Carta, and all Henry II that was not either Becket or Ireland especially.
 I am going to send you a piece of [Miss Peard](/person/1160)’s work for the [Sunday Library](/topic/145) in a few days.
 
@@ -27,7 +19,5 @@ Yours sincerely
 C M Yonge
 
 
-[^1]: It appeared as \'The Fairy of the Sands\'.
-
-It seems that CMY was mistaken in thinking Dagneau\'s 1853 edition was the first.
+[^1]: It appeared as \'The Fairy of the Sands\'. It seems that CMY was mistaken in thinking Dagneau\'s 1853 edition was the first.
 [^2]: The Battle of the Standard (1138), between the Scots and the English, at Northallerton in North Yorkshire.

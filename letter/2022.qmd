@@ -1,7 +1,7 @@
 ---
 id: 2022
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1865-04-28'
+iso-date: '1865-04-28'
 display-date: April 28.1865
 from-name: Charlotte Mary Yonge
 to-name: Alexander Macmillan to Charlotte Mary Yonge
@@ -9,24 +9,11 @@ manuscript-location: 'Copy outletter book British Library Add MSS. 55384 (1): P.
 ---
 
 My dear Miss Yonge	
-[I ](/person/939)am exceedingly vexed to find that proofs had not been sent to you of the first [number](/periodical/78) of the '[Dove](/book/62)'. I am afraid that it has been much my fault.
-
-But as our [Editor](/person/980) has generally been in direct communication with the contributors & has given the printers instructions to send, or sent the proofs himself it did not occur to me, and your notes asking for them did not make an impression on me. I thought 'of course they will go.' It was not till your last, when the sheet was already worked off, that I began to fear it had not been sent. I saw Mr Masson last night, he had been depending on me. I hope the anachronism you fear is not important.
-
-You shall have proofs regularly hereafter.
-
-Perhaps in relation to this it would be as well that you should be in communication direct with Professor Masson.
-
-His address is
+[I](/person/939)am exceedingly vexed to find that proofs had not been sent to you of the first [number](/periodical/78) of the '[Dove](/book/62)'. I am afraid that it has been much my fault. But as our [Editor](/person/980) has generally been in direct communication with the contributors & has given the printers instructions to send, or sent the proofs himself it did not occur to me, and your notes asking for them did not make an impression on me. I thought 'of course they will go.' It was not till your last, when the sheet was already worked off, that I began to fear it had not been sent. I saw Mr Masson last night, he had been depending on me. I hope the anachronism you fear is not important. You shall have proofs regularly hereafter. Perhaps in relation to this it would be as well that you should be in communication direct with Professor Masson. His address is
 David Masson Esqre
 2 Newton Villas
 Finchley New Road
 London
-I got the [Abraham](/topic/177) chapter all right. A.M.
-
-Many thanks.
-
+I got the [Abraham](/topic/177) chapter all right. A.M. Many thanks.
 Yours very truly
-A.
-
-Macmillan
+A. Macmillan

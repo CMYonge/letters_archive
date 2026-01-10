@@ -1,7 +1,7 @@
 ---
 id: 1922
 title: To Margaret Gatty
-date: '1864-12-12'
+iso-date: '1864-12-12'
 display-date: Decr 12th [1864]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -12,11 +12,7 @@ manuscript-location: 'MS Princeton University, Parrish Collection, CO171: Box 29
 My dear [Mrs Gatty](/person/549),
 In haste, with all the [proofs](/periodical/52) on my hands, and going out to tea - here are the sonnets[^1] - I left out the first as being holy day, rather than Sunday, and belonging to next year’s series
 Please let them go straight to [Mozley](/organisation/108)’s and I should be glad of more for February.
-I hope you are not overwhelmed with M.
-
-Macé in his second volume,[^2] I am sure the work must be hard.
-
-You are gathering your Christmas flock, I hope all well
+I hope you are not overwhelmed with M. Macé in his second volume,[^2] I am sure the work must be hard. You are gathering your Christmas flock, I hope all well
 
 Yours sincerely
 
@@ -24,6 +20,4 @@ C M Yonge
 
 
 [^1]: Gatty\'s sister [Horatia Elder](/person/471) had contributed \'Sonnets from the Collects\' to [MP](/periodical/52).
-[^2]: Margaret Gatty, The History of a Bit of Bread (1864), a translation of Jean Macé, Histoire d’une bouchée de pain : lettres à une petite fille sur la vie de l’homme et des animaux (1861).
-
-According to her biographer Gatty had completed the \'heavy work\' on the translation by May 1864.
+[^2]: Margaret Gatty, The History of a Bit of Bread (1864), a translation of Jean Macé, Histoire d’une bouchée de pain : lettres à une petite fille sur la vie de l’homme et des animaux (1861). According to her biographer Gatty had completed the \'heavy work\' on the translation by May 1864.

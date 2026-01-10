@@ -1,7 +1,7 @@
 ---
 id: 3251
 title: To the Reverend John Frederick Watkinson Bullock
-date: '1894-02-19'
+iso-date: '1894-02-19'
 display-date: Feb 19 [1894]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -18,10 +18,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: The Rev.
-
-John William Fletcher (1729-1785), vicar of Madeley, Shropshire and friend of John Wesley; he came from a Swiss military family.
-
-The book was probably [Wesley’s Designated Successor: The Life, Letters and Literary Labours of the Rev.
-
-John William Fletcher, Vicar of Madeley](/topic/213) (London: Hodder 1882). CMY had written the life of Robert Frampton (1622-1708), Bishop of Gloucester for the [\'Biographies of Eminent Anglicans\'](/book/358) series which was part of Bullock\'s Daily Lections project.
+[^1]: The Rev. John William Fletcher (1729-1785), vicar of Madeley, Shropshire and friend of John Wesley; he came from a Swiss military family. The book was probably [Wesley’s Designated Successor: The Life, Letters and Literary Labours of the Rev. John William Fletcher, Vicar of Madeley](/topic/213) (London: Hodder 1882). CMY had written the life of Robert Frampton (1622-1708), Bishop of Gloucester for the [\'Biographies of Eminent Anglicans\'](/book/358) series which was part of Bullock\'s Daily Lections project.

@@ -1,7 +1,7 @@
 ---
 id: 2119
 title: To Alexander Macmillan
-date: '1866-04-19'
+iso-date: '1866-04-19'
 display-date: April 19th 1866
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,23 +10,13 @@ manuscript-location: 'MS British Library Add MSS 54920: 154-155:'
 ---
 
 Dear [Mr Macmillan](/person/939)
-Our start from home is fixed for the 30th of this month. I suppose there is no chance of my getting any copies of the [Dove](/book/62) before I start. I was obliged to delay further by having a revise of the preface where the printers had contrived to make a good many gratuitous mistakes. I never knew Messrs [Clay](/organisation/173) so long printing anything.
-
-If there is no chance of your sending me a dozen copies before Saturday week will you send me by post four of the [Prince and the Page](/book/61), which at any rate I want before leaving home.
-
-If the dove is not ready in time, I will write and say where it can meet me.
+Our start from home is fixed for the 30th of this month. I suppose there is no chance of my getting any copies of the [Dove](/book/62) before I start. I was obliged to delay further by having a revise of the preface where the printers had contrived to make a good many gratuitous mistakes. I never knew Messrs [Clay](/organisation/173) so long printing anything. If there is no chance of your sending me a dozen copies before Saturday week will you send me by post four of the [Prince and the Page](/book/61), which at any rate I want before leaving home. If the dove is not ready in time, I will write and say where it can meet me.
 [Miss Peard](/person/1160) has just sent me the beginning of her history of the Prayerbook to look at. I think it will make an exceedingly pretty and interesting book, and she is very careful and correct in her statements.
-I ought to have thanked [Mr Craik](/person/379) for sending me the Swiss professor’s letter, but it came at a time when I was in much anxiety and grief.
-
-Perhaps [Mrs Craik](/person/378) could have answered more satisfactorily than I have been able to do.
-
-What a beautiful story her last is.[^1]
+I ought to have thanked [Mr Craik](/person/379) for sending me the Swiss professor’s letter, but it came at a time when I was in much anxiety and grief. Perhaps [Mrs Craik](/person/378) could have answered more satisfactorily than I have been able to do. What a beautiful story her last is.[^1]
 
 Yours sincerely
 
 C M Yonge
 
 
-[^1]: The letter is endorsed ‘You should answer this - or your wife’.
-
-Macmillan’s partner, George Lillie Craik (1837-1905) had married (29 April 1865) the well-known novelist Dinah Maria Mulock (1826-1887), whose latest work was A Noble Life 2 vols (London, Hurst & Blackett 1866).
+[^1]: The letter is endorsed ‘You should answer this - or your wife’. Macmillan’s partner, George Lillie Craik (1837-1905) had married (29 April 1865) the well-known novelist Dinah Maria Mulock (1826-1887), whose latest work was A Noble Life 2 vols (London, Hurst & Blackett 1866).

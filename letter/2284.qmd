@@ -1,7 +1,7 @@
 ---
 id: 2284
 title: To Elizabeth Missing Sewell
-date: '1868-10-20'
+iso-date: '1868-10-20'
 display-date: Oct 20th [1868]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -18,10 +18,4 @@ C M Yonge
 Do you know anyone who would like one of these photos I am selling them towards the school at Eastleigh[^2]
 
 
-[^1]: Black-edged paper.
-
-The words ‘of our heliotropes’ written on the reverse in CMY’s hand.
 [^2]: The name has been erased in ink.
-[^3]: The [Church of the Resurrection](/place/188), Eastleigh, being consecrated, funds were now being raised for a Church of England school in connection with it.
-
-The photographs were of CMY herself.

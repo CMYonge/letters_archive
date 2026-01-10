@@ -1,40 +1,22 @@
 ---
 id: 3194
 title: To Helen Emma Yonge
-date: '1892-04-27'
-display-date: April 27 [1892[[footnote:1]]].
+iso-date: '1892-04-27'
+display-date: April 27 [1892].
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
 to-name: To Helen Emma Yonge
-manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+manuscript-location: MS location unknown. Printed in Coleridge, <i>[[otherbook:40]Life]</i>
   336
 ---
 
 My dear [Helen](/person/1613)
 Thank you for the £8, which I found safely on coming home from hearing the first day of the diocesan conference.
-
-Poor old Graf, it is not every dog who is buried by the [parish clerk](/person/2111), with me walking in solemn procession of one all down the walk behind. I am glad you were spared the catastrophe, and that [mamma](/person/1604) has Koko to divert her mind. I am afraid [Mr.
-
-Brock](/person/201) will go to Guernsey, so there is no end of the changes.
-
-The [Miss Jacob](/person/749)s are going to have [Miss Finlaison](/person/512)'s house for the summer holidays, which will be pleasant for me.
-
-That [Mr.
-
-Eames](/person/465) who has bought Silkstead is beginning to build a house on the Winchester road, and has put in a keeper at Silkstead who warns people off the white violets on the bank at Green Undys.[^2]
-It must have been very delightful seeing [Mr.
-
-Beck](/person/132)'s hoards and hearing their history, - as good as a museum.
-
-My berberis has just become beautiful, but it is very cold to-day.
-
+Poor old Graf, it is not every dog who is buried by the [parish clerk](/person/2111), with me walking in solemn procession of one all down the walk behind. I am glad you were spared the catastrophe, and that [mamma](/person/1604) has Koko to divert her mind. I am afraid [Mr. Brock](/person/201) will go to Guernsey, so there is no end of the changes.
+The [Miss Jacob](/person/749)s are going to have [Miss Finlaison](/person/512)'s house for the summer holidays, which will be pleasant for me. That [Mr. Eames](/person/465) who has bought Silkstead is beginning to build a house on the Winchester road, and has put in a keeper at Silkstead who warns people off the white violets on the bank at Green Undys.[^2]
+It must have been very delightful seeing [Mr. Beck](/person/132)'s hoards and hearing their history, - as good as a museum. My berberis has just become beautiful, but it is very cold to-day.
 Your affectionate aunt
-C. M.
-
-Yonge
+C. M. Yonge
 
 
-[^1]: Dated from the reference to the departure of the Rev.
-
-Henry Brock in 1892.
 [^2]: Edward Eames (b. 1849/50), auctioneer and surveyor, bought Silkstead Priors in Compton parish and was living there at the time of the 1901 census.

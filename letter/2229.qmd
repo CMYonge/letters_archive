@@ -1,7 +1,7 @@
 ---
 id: 2229
 title: Alexander Macmillan to Charlotte Mary Yonge
-date: '1868-01-01'
+iso-date: '1868-01-01'
 display-date: Jan [<i>illegible</i>] 1868
 from-name: Charlotte Mary Yonge
 from-address: Bedford Street [<i>illegible</i>]
@@ -15,6 +15,4 @@ I am very sorry you do not like the [illustrations](/topic/167).[^1] It is now i
 [Rest of letter indecipherable as is the one, dated 22 January 1868, that follows]
 
 
-[^1]: These were presumably [Edward Armitage](/person/60)\'s illustrations for [The Pupils of St.
-
-John the Divine](/book/72) in Macmillan\'s [Sunday Library](/topic/145) series.
+[^1]: These were presumably [Edward Armitage](/person/60)\'s illustrations for [The Pupils of St. John the Divine](/book/72) in Macmillan\'s [Sunday Library](/topic/145) series.

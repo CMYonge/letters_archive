@@ -2,8 +2,8 @@
 id: 193
 title: 'Astray: A Tale of a Country Town. By Charlotte M. Yonge, Mary Bramston, Christabel
   Coleridge, Esmé Stuart.'
-author: Charlotte Mary Yonge
-date: '1887'
+author-name: Charlotte Mary Yonge
+publication-date: '1887'
 genre: Fiction (modern)
 publication-format: Book 8vo 407pp
 publisher: 'London: Hatchards, Piccadilly. Serialized in<i> MP</i>, July 1885 to February

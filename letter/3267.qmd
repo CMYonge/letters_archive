@@ -1,7 +1,7 @@
 ---
 id: 3267
 title: To the Reverend John Frederick Watkinson Bullock
-date: '1894-06-16'
+iso-date: '1894-06-16'
 display-date: June 16th 1894
 from-name: Charlotte Mary Yonge
 from-address: Elderfield
@@ -26,6 +26,4 @@ Yours truly
 C M Yonge
 
 
-[^1]: Bishop Jenner had four daughters of whom Amabel Jenner (b.1876/7), who published plays and fiction, seems the most likely to be referred to here.
-
-Bullock had evidently asked CMY to contribute an account of Canterbury Cathedral to his Daily Lections project.
+[^1]: Bishop Jenner had four daughters of whom Amabel Jenner (b.1876/7), who published plays and fiction, seems the most likely to be referred to here. Bullock had evidently asked CMY to contribute an account of Canterbury Cathedral to his Daily Lections project.

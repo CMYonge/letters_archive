@@ -1,8 +1,8 @@
 ---
 id: 3173
 title: Anna Harriet Drury to Charlotte Mary Yonge
-date: '1891-06-17'
-display-date: June 17th. [1891][[footnote:2]]
+iso-date: '1891-06-17'
+display-date: June 17th. [1891]
 from-name: Charlotte Mary Yonge
 from-address: 11 Bexley Terrace Torquay
 to-name: Anna Harriet Drury to Charlotte Mary Yonge
@@ -10,15 +10,6 @@ manuscript-location: MS UCLA collection 100 box 119/1
 ---
 
 My dear Miss Yonge,
-I have ventured to send you a story for the Christmas number of the M.P. on the ‘rolling stone.’ I hope it is not too long—as far as I could reckon, it is shorter than one of those in a former number.
-
-You must forgive my infringing the editorial rules, and not letting the MS. pass through the publishers [sic] hands first.
-
+I have ventured to send you a story for the Christmas number of the M.P. on the ‘rolling stone.’ I hope it is not too long—as far as I could reckon, it is shorter than one of those in a former number. You must forgive my infringing the editorial rules, and not letting the MS. pass through the publishers [sic] hands first.
 Yours very sincerely
-[Anna H.
-
-Drury](/person/445)
-
-
-[^1]: Black-edged paper.
-[^2]: ‘The China Cupboard’ MP (1 January 1891) 108, announced a competition for prize stories to be published in the extra Christmas number, on the subject of ‘A rolling stone gathers no moss’, the deadline for entries being 31 July 1891.
+[Anna H. Drury](/person/445)

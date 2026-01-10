@@ -1,7 +1,7 @@
 ---
 id: 2169
 title: To Elizabeth Missing Sewell
-date: '1867-05-13'
+iso-date: '1867-05-13'
 display-date: May 13th [1867]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -10,17 +10,9 @@ manuscript-location: MS Library of Congress
 ---
 
 My dear [Miss Sewell](/person/1301)
-My senses have returned for thinking and writing indeed for anything but walking.
-
-It seems to me that we might settle a great deal in a June council, [Mary Coleridge](/person/351) is to be here for a week at the beginning of the month otherwise we are quite clear. I will send you Freeman tomorrow.
-
-It seems to me that his first seven pages, with perhaps his 4th chapter abridged would be very useful. I have his leave and [Mr Palgrave](/person/1124)’s.[^2] I will have the introduction rewritten by the time you come. I think our critics will be puzzled whose style it is.
-
-We shall be very glad indeed to see you when you have time for a séance.
-
-The Simeons have no [Queen Emma](/person/485)s left but [Savage](/person/1283) may have and I will try there.[^3] Poor [Captain Simeon ](/person/1322)lingers on but is worse every time we hear of him
+My senses have returned for thinking and writing indeed for anything but walking. It seems to me that we might settle a great deal in a June council, [Mary Coleridge](/person/351) is to be here for a week at the beginning of the month otherwise we are quite clear. I will send you Freeman tomorrow. It seems to me that his first seven pages, with perhaps his 4th chapter abridged would be very useful. I have his leave and [Mr Palgrave](/person/1124)’s.[^2] I will have the introduction rewritten by the time you come. I think our critics will be puzzled whose style it is. We shall be very glad indeed to see you when you have time for a séance.
+The Simeons have no [Queen Emma](/person/485)s left but [Savage](/person/1283) may have and I will try there.[^3] Poor [Captain Simeon](/person/1322)lingers on but is worse every time we hear of him
 
 
-[^1]: Black-edged paper.
 [^2]: She had obtained Francis Turner Palgrave\'s permission to use an extract from his father\'s History of Normandy and England in the book of [Historical Selections](/book/71) she and Sewell were editing
 [^3]: This must mean \'no photographs of Queen Emma\'.

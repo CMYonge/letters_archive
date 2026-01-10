@@ -1,10 +1,10 @@
 ---
 id: 3533
 title: To an Unknown Woman
-date: '1850-09-02'
-display-date: Sept 3d [late 1850s?][[footnote:2]]
+iso-date: '1850-09-02'
+display-date: Sept 3d [late 1850s?]
 from-name: Charlotte Mary Yonge
-from-address: Tyntesfield[[footnote:1]]
+from-address: Tyntesfield
 to-name: To an Unknown Woman
 manuscript-location: MS Princeton University, Parrish Collection
 ---
@@ -17,5 +17,4 @@ Yours faithfully
 C M Yonge
 
 
-[^1]: The home, near Bristol, of CMY’s friends William and Matilda Gibbs.
 [^2]: The formal tone of this letter resembles CMY\'s correspondence with strangers in the 1850s, and it seems likely that it was written during the period 1852-1862 when she was publishing a series of articles on \'Name-fancying\' in MP which were the germ of her History of Christian Names (1863).

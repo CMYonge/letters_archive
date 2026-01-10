@@ -1,33 +1,21 @@
 ---
 id: 3121
 title: From the Reverend John Keble to Charlotte Mary Yonge
-date: '1858-11-24'
+iso-date: '1858-11-24'
 display-date: 24 Novr., 1858.
 from-name: Charlotte Mary Yonge
 from-address: H. V.,
 to-name: From the Reverend John Keble to Charlotte Mary Yonge
-manuscript-location: MS location unknown.  Printed in <i>[[cmybook:88]Musings over
+manuscript-location: MS location unknown. Printed in <i>[[cmybook:88]Musings over
   the Christian Year]</i> xxviii.
 ---
 
 My dear Charlotte,
-On considering the matter [I](/person/798) have come to think it inexpedient that my initials should appear in your book.
-
-You see it is quite a different case from the ordinary ones in which that is done.
-
-It is not an unknown little bird waiting to be affectionately jerked out of the nest.
-
-So far there is no need of an ‘imprimatur’, and do you not think that under the circumstances, it is undesirable to let people think or say (as they are too likely to do) that this is only Mr.
-
-Keble speaking with another voice?
-
-If there is any force in the phrase ‘independent testimony,’ I think it is worth considering in this case.
+On considering the matter [I](/person/798) have come to think it inexpedient that my initials should appear in your book. You see it is quite a different case from the ordinary ones in which that is done. It is not an unknown little bird waiting to be affectionately jerked out of the nest. So far there is no need of an ‘imprimatur’, and do you not think that under the circumstances, it is undesirable to let people think or say (as they are too likely to do) that this is only Mr. Keble speaking with another voice? If there is any force in the phrase ‘independent testimony,’ I think it is worth considering in this case.
 
 This, I own, seems to me decisive; but I have also that scruple that I should have to make mention of these other books in a way more suitable for you, seeing that I have not read them; and moreover considering the great quantity of ground which your book covers directly and incidentally, and that I have not seen, as a critic, the whole of it, I should have to say that warmly as I approve and admire it, I could not make myself responsible for every statement and opinion.
 
-I hope this will not vex you, and I am very sorry to have delayed you to no purpose.
-
-If you, on consideration, still wish it, and will give me your reasons, I will reconsider, for I hate not saying Yes to you.[^1]
+I hope this will not vex you, and I am very sorry to have delayed you to no purpose. If you, on consideration, still wish it, and will give me your reasons, I will reconsider, for I hate not saying Yes to you.[^1]
 
 Your very affte
 J. K.

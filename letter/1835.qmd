@@ -1,7 +1,7 @@
 ---
 id: 1835
 title: To Sophia Bliss?
-date: '1861-07-01'
+iso-date: '1861-07-01'
 display-date: July 1st 1861
 from-name: Charlotte Mary Yonge
 to-name: To Sophia Bliss?

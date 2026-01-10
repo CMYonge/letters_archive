@@ -1,7 +1,7 @@
 ---
 id: 2412
 title: To Edith Sophia Jacob
-date: '1871-07-18'
+iso-date: '1871-07-18'
 display-date: July 18th 1871
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
@@ -11,33 +11,13 @@ manuscript-location: MS Charlotte Mitchell
 
 My dear [Edith](/person/749)
 I have thought much of you, you may be sure, in the great sorrow and loss that has come to you - in your Soldier of the Cross having passed the narrow stream[^1]
-What a grand and beautiful thing it is that the needs and the down treading of the Church should have the power to awaken the latent power and heroism in men's souls.
-
-How little anything but a Divine faith could inspire a young layman to throw up all prospects to devote himself to the cause, in such toil labour and difficulty - and how encouraging a thing it is to know that such sweet herbs spring up from the trampling. [Mrs Wilson](/person/1539) had just been telling me about your letter from which I hope that you were more prepared than those at home, who watched the recoveries from the attacks. I am so glad your [Sister in law](/person/2271) is safe at home with you all, and I hope she will lighten your cares for the [Archdeacon](/person/2018) in your absence.[^2] Certainly I can only call you a happy sister to have such brothers. I cannot help thinking your brother [Edgar](/person/748)'s youthfulness and buoyancy will be great elements for good in dealing with that great parish.[^3] I think one great difficulty is the finding people who have spirits not to be depressed but to deal in a hopeful mood with their giants - having previously had good success with their lion and their bear.[^4] And meanwhile you have the patient praying and encouraging part, which is no small part I am sure.
-
-Here am I sitting in the garden in a heavy dew which has made my paper wet through, I hope the ink will not run and that you will be able to read it. [Margaret Roberts](/person/1244) left me on Saturday
+What a grand and beautiful thing it is that the needs and the down treading of the Church should have the power to awaken the latent power and heroism in men's souls. How little anything but a Divine faith could inspire a young layman to throw up all prospects to devote himself to the cause, in such toil labour and difficulty - and how encouraging a thing it is to know that such sweet herbs spring up from the trampling. [Mrs Wilson](/person/1539) had just been telling me about your letter from which I hope that you were more prepared than those at home, who watched the recoveries from the attacks. I am so glad your [Sister in law](/person/2271) is safe at home with you all, and I hope she will lighten your cares for the [Archdeacon](/person/2018) in your absence.[^2] Certainly I can only call you a happy sister to have such brothers. I cannot help thinking your brother [Edgar](/person/748)'s youthfulness and buoyancy will be great elements for good in dealing with that great parish.[^3] I think one great difficulty is the finding people who have spirits not to be depressed but to deal in a hopeful mood with their giants - having previously had good success with their lion and their bear.[^4] And meanwhile you have the patient praying and encouraging part, which is no small part I am sure. Here am I sitting in the garden in a heavy dew which has made my paper wet through, I hope the ink will not run and that you will be able to read it. [Margaret Roberts](/person/1244) left me on Saturday
 your affectionate
 
 C M Yonge
 
 
-[^1]: [Eustace Wilberforce Jacob](/person/750) (1834-9 July 1871), elder brother of Edith Jacob, died at his father\'s rectory at Crawley.
-
-He was described on the 1871 census as \'curate of Rookloof D.
-
-Natal\' and in the death announcement in The Times (12 July 1871) as \'missionary of the SPG of the diocese of Natal and eldest surviving son of the Archdeacon of Winchester\'.
-
-At the time of the census his wife Marianne F.
-
-Jacob (b. 1824/5) was also resident at the Rectory.
-
-Edgar Jacob’s memoir of his sister Edith states that they had a brother in each of the army and the navy.
-[^2]: The Ven.
-
-Canon Philip Jacob (d. 1884), Archdeacon of Winchester, father of Edith Jacob.
-[^3]: The Rev.
-
-Edgar Jacob (1844-1920) had just been appointed curate of St.
-
-James, Bermondsey.
+[^1]: [Eustace Wilberforce Jacob](/person/750) (1834-9 July 1871), elder brother of Edith Jacob, died at his father\'s rectory at Crawley. He was described on the 1871 census as \'curate of Rookloof D. Natal\' and in the death announcement in The Times (12 July 1871) as \'missionary of the SPG of the diocese of Natal and eldest surviving son of the Archdeacon of Winchester\'. At the time of the census his wife Marianne F. Jacob (b. 1824/5) was also resident at the Rectory. Edgar Jacob’s memoir of his sister Edith states that they had a brother in each of the army and the navy.
+[^2]: The Ven. Canon Philip Jacob (d. 1884), Archdeacon of Winchester, father of Edith Jacob.
+[^3]: The Rev. Edgar Jacob (1844-1920) had just been appointed curate of St. James, Bermondsey.
 [^4]: CMY alludes here to David slaying Goliath, the lion and the bear in 1 Samuel 17.

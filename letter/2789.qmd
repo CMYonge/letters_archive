@@ -1,12 +1,12 @@
 ---
 id: 2789
 title: To Ann Maria Carter Smith
-date: '1884-04-10'
+iso-date: '1884-04-10'
 display-date: April 10th [1884]
 from-name: Charlotte Mary Yonge
 from-address: Elderfield, Otterbourne, Winchester.
 to-name: To Ann Maria Carter Smith
-manuscript-location: MS Westcountry Studies Library, Exeter/  Yonge 1884/ 1
+manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1884/ 1
 ---
 
 My dear [Miss Smith](/person/263)
@@ -15,6 +15,3 @@ I am terribly bound up with present matters of necessity but I will hunt up Deli
 yours sincerely
 
 C M Yonge
-
-
-[^1]: Carter Smith had evidently complained about the non-appearance of \'Delicia Darling\', which did not in fact appear in [MP](/periodical/52) until August 1886.
