@@ -1,0 +1,29 @@
+---
+id: 7852
+title: To John Duke Coleridge
+date: '1854-03-01'
+display-date: March 1st [1854]
+from-name: Charlotte Mary Yonge
+from-address: Otterbourn
+to-name: To John Duke Coleridge
+manuscript-location: 'MS British Library: Coleridge Family Papers E: Add MSS 86207
+  Yonge JDC'
+---
+
+My dear [John](/person/343),
+I must send you a few lines to thank you for the kind message you sent us yesterday by [James Yonge](/person/1804), and to tell you we shall be glad to know you are among the mourners on Saturday.[^2] Perhaps I should not have written this, but have trusted to your understanding it, but there is a favour which I am sure you will gladly do me, namely to write to [Mr Richmond](/person/1731) and tell him that at least two full hearts are thanking him for the sketch he did for me in bright days so long ago, and which is now become so very precious.
+
+When I wrote that [piece about Guy](/book/15)’s picture, of which my dear father was very fond, I little thought that there would be such a likeness of it in our own case, for I am sure it was partly from admiration of that noble face that Mr Richmond made the drawing.[^3] It is very comfortable to have the [Keble](/person/798)s with us and I am sure everything has been as much in our favour as possible
+
+Your affectionate cousin
+
+Charlotte M Yonge
+
+
+[^1]: Black-edged paper, annotated in another hand \'C M.
+
+Yonge/March 1854.
+[^2]: At the funeral of CMY\'s father [WCY](/person/1631), who had died on 26 February 1854.
+[^3]: Richmond\'s drawing of WCY is illustrated in Coleridge, Life.
+
+The passage in The Heir of Redclyffe referred to here, in which Amabel takes comfort from the portrait of her dead husband, occurs in Vol II, Ch.15, p.248.

@@ -1,0 +1,6 @@
+---
+id: 161
+reference-type: Organisation
+name: W. H. Smith and Son
+title: W. H. Smith and Son
+---

@@ -1,0 +1,8 @@
+---
+id: 2268
+full-name: Helmuth Karl von Moltke
+first-name: Helmuth Karl von
+last-name: Moltke
+title: Helmuth Karl von Moltke
+dates: (1800-1891)
+---

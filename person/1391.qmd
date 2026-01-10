@@ -1,0 +1,11 @@
+---
+id: 1391
+full-name: His Grace Archibald Campbell Tait
+first-name: Archibald Campbell
+last-name: Tait
+prefix: His Grace
+title: His Grace Archibald Campbell Tait
+dates: (1811-1882)
+---
+
+Archbishop of Canterbury

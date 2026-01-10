@@ -1,0 +1,21 @@
+---
+id: 2770
+title: To Euphemia Emily Georgiana Bussell
+date: '1883-03-20'
+display-date: March 20th [1883?]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield
+to-name: To Euphemia Emily Georgiana Bussell
+manuscript-location: MS Miss Sarah Jardine-Willoughby
+---
+
+My dear [Miss Bussell](/person/232)
+Many thanks for your portrait which I like very much, & will try to put in.[^2]
+
+yours truly
+
+C M Yonge
+
+
+[^1]: A card with rounded corners, of the same type as
+[^2]: Euphemia Bussell, ‘A Brief Memoir of the late Mrs Anne Elinor Prevost’ MP (April 1883) 380-4.

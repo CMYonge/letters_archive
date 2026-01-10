@@ -1,0 +1,11 @@
+---
+id: 1783
+full-name: The Hon. 1st Lord Herbert of Sidney Herbert
+first-name: Sidney
+last-name: Herbert
+prefix: The Hon.
+title: The Hon. 1st Lord Herbert of Sidney Herbert
+dates: (1810-1861)
+---
+
+politician

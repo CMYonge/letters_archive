@@ -1,0 +1,11 @@
+---
+id: 2037
+full-name: Sir Robert Peel
+first-name: Robert
+last-name: Peel
+prefix: Sir
+title: Sir Robert Peel
+dates: (1788-1850)
+---
+
+Prime Minister of Great Britain 1834-5 and 1841-6

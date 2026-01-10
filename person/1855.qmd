@@ -1,0 +1,10 @@
+---
+id: 1855
+full-name: Giuseppe Garibaldi
+first-name: Giuseppe
+last-name: Garibaldi
+title: Giuseppe Garibaldi
+dates: (1807-1882)
+---
+
+Italian nationalist

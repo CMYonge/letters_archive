@@ -1,0 +1,10 @@
+---
+id: 1961
+full-name: Henry Wadsworth Longfellow
+first-name: Henry Wadsworth
+last-name: Longfellow
+title: Henry Wadsworth Longfellow
+dates: (1807-1882)
+---
+
+American poet

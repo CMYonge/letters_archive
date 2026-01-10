@@ -1,0 +1,24 @@
+---
+id: 3024
+title: To Anna Butler
+date: '1854-02-10'
+display-date: Febry 10th [1854]
+from-name: Charlotte Mary Yonge
+from-address: '[[other:121]Dogmersfield]'
+to-name: To Anna Butler
+manuscript-location: MS Mrs Caroline Fairclough/2
+---
+
+My dear [Miss Butler](/person/237)
+Thank you for your message. I do not think Rudolf requires to return to you for he stands so much alone that he only needs to be taken out.[^1]
+Thanks too for the derivations, I shall trouble you with plenty more, I have no doubt, when I am at home with my list, and see my way out of the Latin derived names.[^2] I am to go home this afternoon after a very happy visit here. [Elizabeth Barnett](/person/113) is writing on the opposite side of the table, I wish I was going to take her back with me.
+
+My [mother](/person/1606) is reading your [philosophe](/topic/154) with great delight
+
+yours sincerely
+
+C M Yonge
+
+
+[^1]: CMY had asked Butler to delete a passage from her series of articles [Aunt Louisa\'s Travels](/organisation/242).
+[^2]: CMY had asked Butler\'s help with Scandinavian names for the series of articles in [MP](/periodical/52) called \'Name-Fancying\' which later became [A History of Christian Names](/book/48).

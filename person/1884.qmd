@@ -1,0 +1,13 @@
+---
+id: 1884
+full-name: The Rev. John Palmer
+first-name: John
+last-name: Palmer
+prefix: The Rev.
+title: The Rev. John Palmer
+dates: (1837-1902)
+---
+
+missionary to Melanesia
+
+See Blain, Biographical Dictionary of Anglican Clergy in the South Pacific, at http://anglicanhistory.org/nz/blain_directory/directory.pdf

@@ -1,0 +1,10 @@
+---
+id: 1393
+full-name: Catherine Talbot
+first-name: Catherine
+last-name: Talbot
+title: Catherine Talbot
+dates: (1721-1770)
+---
+
+contributor to MP (1851)

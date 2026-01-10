@@ -1,0 +1,19 @@
+---
+id: 1835
+title: To Sophia Bliss?
+date: '1861-07-01'
+display-date: July 1st 1861
+from-name: Charlotte Mary Yonge
+to-name: To Sophia Bliss?
+manuscript-location: MS NLS 962
+---
+
+My dear [Mrs Bliss](/person/161),
+I did not think when last I saw you that the accompanying book would have come so soon, so I said nothing about it, but if you would be so kind as to take charge of it, I should be very much obliged as it is a parcel that will not well travel by post.[^1] The letters I think I shall have to send by post
+
+yours sincerely
+
+C M Yonge
+
+
+[^1]: Evidently the specially bound copy of The Daisy Chain to be sent to Bishop Patteson in New Zealand, and referred to in the next letter to Fanny Patteson (dated 7 July 1861).

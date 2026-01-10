@@ -1,0 +1,25 @@
+---
+id: 2375
+title: To Arthur John Butler
+date: '1870-03-04'
+display-date: March 4th [?1870] [[footnote:1]]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Arthur John Butler
+manuscript-location: MS Mrs Caroline Fairclough/23
+---
+
+My dear [Arthur](/person/238)
+I shall put your corrections in, I always had I confess believed that Bombastes was in Hudibras, but I ought not to have done so, as I never read it.
+
+As to the Rod being a Celtic word, I did not make away with that because I thought it was curious that the sound should suggest the same idea independently or perhaps by some lingering of the root in the old Italian dialects.
+
+But I really believed in both Brag and the bambyx, and I am very sorry I was all wrong.
+
+Thank you
+yours very sincerely
+
+C M Yonge
+
+
+[^1]: It is not easy to identify the chapter of [‘Polyglot Parsing’](/book/348) referred to here and it may not have been published.

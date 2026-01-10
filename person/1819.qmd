@@ -1,0 +1,10 @@
+---
+id: 1819
+full-name: Maria Edgeworth
+first-name: Maria
+last-name: Edgeworth
+title: Maria Edgeworth
+dates: (1767-1849)
+---
+
+novelist

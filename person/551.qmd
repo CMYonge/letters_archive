@@ -1,0 +1,10 @@
+---
+id: 551
+full-name: John Gaunt
+first-name: John
+last-name: Gaunt
+title: John Gaunt
+dates: —
+---
+
+contributor to MP (1899)

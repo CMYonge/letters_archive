@@ -1,0 +1,18 @@
+---
+id: 2086
+title: To Alexander Macmillan
+date: '1865-12-18'
+display-date: Decr 18th [1865]
+from-name: Charlotte Mary Yonge
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54920: 125'
+---
+
+[To [Alexander Macmillan](/person/939)]
+I would think that [Mr Lea](/person/853)’s proposal was a very good one, and that the [Golden Deeds](/book/51) might be very useful as such a class book.
+
+But I imagine that to give it currency, it would be advisable to get it placed on the list of books recommended by the Council of Education people. I suppose there would have to be some omissions to make it into so cheap a book.
+
+Yours sincerely
+
+C M Yonge

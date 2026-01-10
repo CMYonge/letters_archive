@@ -1,0 +1,13 @@
+---
+id: 1147
+full-name: The Rev. Thomas Pascoe
+first-name: Thomas
+last-name: Pascoe
+prefix: The Rev.
+title: The Rev. Thomas Pascoe
+dates: (1788-1870)
+---
+
+Vicar of St Hilary
+
+[Bibliotheca Cornubienses]

@@ -1,0 +1,10 @@
+---
+id: 202
+title: Preparation of Prayer-Book Lessons.
+author: Charlotte Mary Yonge
+date: '1888'
+genre: 'Non-fiction: theology'
+publication-format: Book
+publisher: 'London: Smith and Innes'
+serialization: <i>MP</i> (January 1884-October 1888)
+---

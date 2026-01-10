@@ -1,0 +1,10 @@
+---
+id: 501
+full-name: Alice Farrer
+first-name: Alice
+last-name: Farrer
+title: Alice Farrer
+dates: —
+---
+
+contributor to MP (1890-3)

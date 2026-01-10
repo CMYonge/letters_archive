@@ -1,0 +1,13 @@
+---
+id: 399
+full-name: Field Marshal Sir Richard James Dacres
+first-name: Richard James
+last-name: Dacres
+prefix: Field Marshal Sir
+title: Field Marshal Sir Richard James Dacres
+dates: (1799-1886)
+---
+
+army officer
+
+[ODNB]

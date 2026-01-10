@@ -1,0 +1,13 @@
+---
+id: 816
+full-name: The Rev. Charles Kingsley
+first-name: Charles
+last-name: Kingsley
+prefix: The Rev.
+title: The Rev. Charles Kingsley
+dates: (1819-75)
+---
+
+novelist and social reformer
+
+[ODNB]

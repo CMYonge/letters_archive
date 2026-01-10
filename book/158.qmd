@@ -1,0 +1,11 @@
+---
+id: 158
+title: Pictorial History of the World’s Great Nations, from the Earliest Dates to
+  the Present Time, A. 2 vols
+author: Charlotte Mary Yonge
+date: '1882'
+genre: 'Non-fiction: history'
+publication-format: Book
+publisher: 'New York: Selmar Hess.'
+illustrator: Illustrated
+---

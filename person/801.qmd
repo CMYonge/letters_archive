@@ -1,0 +1,15 @@
+---
+id: 801
+full-name: The Rev. Thomas Keble
+first-name: Thomas
+last-name: Keble
+prefix: The Rev.
+title: The Rev. Thomas Keble
+dates: (1793-1875)
+---
+
+Vicar of Bisley, brother of the Rev.
+
+John Keble.
+
+He married (1825) Elizabeth Jane Clarke, whose sister Charlotte later married his brother John.

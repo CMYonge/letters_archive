@@ -1,0 +1,12 @@
+---
+id: 252
+title: Reasons why I am a Catholic and not a Roman Catholic. By the late Charlotte
+  Mary Yonge. With a preface by G. M. Ireland Blackburne.
+author: Charlotte Mary Yonge
+date: '1901'
+genre: 'Non-fiction: theology'
+publication-format: Pamphlet
+publisher: 'London: Wells Gardner, Darton & Co.'
+serialization: Originally serialized in <i>The Churchwoman</i>, edited by G. M. Ireland
+  Blackburne.
+---

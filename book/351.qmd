@@ -1,0 +1,11 @@
+---
+id: 351
+title: Introduction to John Keble, The Christian Year
+author: Charlotte Mary Yonge
+date: '1894'
+genre: Non-fiction, criticism
+publication-format: Book
+publisher: 'London: Macmillan'
+---
+
+This appeared in the \'Golden Treasury Series\'.

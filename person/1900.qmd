@@ -1,0 +1,11 @@
+---
+id: 1900
+full-name: The Rev. Derwent Coleridge
+first-name: Derwent
+last-name: Coleridge
+prefix: The Rev.
+title: The Rev. Derwent Coleridge
+dates: (1800-1883)
+---
+
+younger son of the poet, father of Christabel Coleridge

@@ -1,0 +1,10 @@
+---
+id: 1337
+full-name: H. D’Artignan Smith
+first-name: H. D’Artignan
+last-name: Smith
+title: H. D’Artignan Smith
+dates: —
+---
+
+contributor to MP (1883-5)

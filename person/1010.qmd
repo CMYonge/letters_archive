@@ -1,0 +1,11 @@
+---
+id: 1010
+full-name: Mrs H. E. Moberley
+first-name: H. E.
+last-name: Moberley
+prefix: Mrs
+title: Mrs H. E. Moberley
+dates: —
+---
+
+contributor to MP (1869)

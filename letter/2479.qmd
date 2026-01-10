@@ -1,0 +1,22 @@
+---
+id: 2479
+title: To Blanche Catherine Medhurst
+date: '1873-08-12'
+display-date: Aug 12th [1873] [[footnote:1]]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Blanche Catherine Medhurst
+manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
+---
+
+Dear [Miss Medhurst](/person/988),
+Thanks for your poem.
+
+You will probably be here on Saturday in time for am [sic] morning service, which is at ten o’clock.
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Dated on the assumption that the poem was \'New Year\'s Eve\', which was published in MP in December 1873.

@@ -1,0 +1,10 @@
+---
+id: 218
+title: Old Times at Otterbourne.
+author: Charlotte Mary Yonge
+date: '[September] 1891'
+genre: 'Non-fiction: history'
+publication-format: Book
+publisher: 'Winchester: Warren and Son, Printer and Publisher, High Street, London:
+  Simpkin and Co. Limited, Stationers’ Hall Court'
+---

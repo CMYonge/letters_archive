@@ -1,0 +1,8 @@
+---
+id: 250
+reference-type: Periodical
+name: <i>Harper\'s Young People</i>
+title: <i>Harper\'s Young People</i>
+---
+
+An American juvenile periodical which ran 1879-1895.

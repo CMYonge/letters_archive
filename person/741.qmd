@@ -1,0 +1,10 @@
+---
+id: 741
+full-name: Jean Ingelow
+first-name: Jean
+last-name: Ingelow
+title: Jean Ingelow
+dates: (1820-1897)
+---
+
+poet, contributor to MP (1860-1)

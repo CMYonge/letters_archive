@@ -1,0 +1,10 @@
+---
+id: 178
+reference-type: Organisation
+name: Nutt and Wells
+title: Nutt and Wells
+---
+
+Probably the same as D.
+
+Nutt, bookseller of College Street, Winchester.

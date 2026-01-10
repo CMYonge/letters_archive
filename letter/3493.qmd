@@ -1,0 +1,39 @@
+---
+id: 3493
+title: The Reverend John Mason Neale to Charlotte Mary Yonge
+date: '1858-08-21'
+display-date: Aug. 21st, 1858
+from-name: Charlotte Mary Yonge
+from-address: Sackville College
+to-name: The Reverend John Mason Neale to Charlotte Mary Yonge
+manuscript-location: MS UCLA collection 100 box 119/10
+---
+
+My dear Miss Yonge,
+[I ](/person/1087)leave [my wife](/person/1815) to answer the part of your letter which concerns her.
+
+Yes: I had read your [memoirs of Madame Lamourous](/book/31); and [our Sisters](/organisation/45) have just been reading it at meal time in the Refectory.[^1] But I am bound to tell you that I asked [our Mother](/person/1816) to mark out other observations of yours about the faith &c of the subject of your memoirs: which, to tell you the truth, I was sorry to see there, both in a literary and religious point of view.
+I read the other day—I am ashamed to say for the first time,—[Heartsease](/book/19): and I am not sure but that I like John—at least as he appears in the former half of the book, better than any other of your characters. I wish you could have given us more about him.
+
+Will you let me say one thing more? I confess I was very sorry that at the time when S.
+
+Margaret’s was at the height of its unpopularity, you refused a paper which a very good friend [of] yours, sent you about it. I knew that, under God, we should weather the storm well enough, but I felt deeply grateful to those who helped us then.
+
+Yet I would rather have had the feeling of gratitude to the [Monthly Packet](/periodical/52), than to the [Penny Post](/periodical/96).
+
+Now, thank God, I think we are all the better for the shake.
+
+And a very safe set of people, namely, the [Guild of S.
+
+Alban’s](/organisation/24) sent a long address to our Sisters the other day, filled with all manner of laudation.
+
+Do not think that this is said unkindly; for I assure you I have a deep feeling of obligation to you for what you have done by your books. I hope that, before long, we may have a successor to [the Heir of Redcliffe](/book/15), and to Heartsease.
+
+Believe me I remain,
+Yours very truly,
+J. M.
+
+Neale
+
+
+[^1]: Marie Thérèse de Lamourous, Foundress of the House of La Miséricorde, at Bordeaux: A Biography, abridged from the French by the author of The Heir of Redclyffe (London: Parker 1858).

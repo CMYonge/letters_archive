@@ -1,0 +1,11 @@
+---
+id: 284
+full-name: Sir Edmund Kerchever Chambers
+first-name: Edmund Kerchever
+last-name: Chambers
+prefix: Sir
+title: Sir Edmund Kerchever Chambers
+dates: (1866-1954)
+---
+
+contributor to MP (1892), theatre historian

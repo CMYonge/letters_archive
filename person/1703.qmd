@@ -1,0 +1,11 @@
+---
+id: 1703
+full-name: The Rev. William Barter
+first-name: William
+last-name: Barter
+prefix: The Rev.
+title: The Rev. William Barter
+dates: —
+---
+
+Rector of Burghclere, father of Katherine Mary (Barter) Wordsworth

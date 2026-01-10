@@ -1,0 +1,13 @@
+---
+id: 1084
+full-name: Cardinal John Henry Newman
+first-name: John Henry
+last-name: Newman
+prefix: Cardinal
+title: Cardinal John Henry Newman
+dates: (1801-1890)
+---
+
+theologian
+
+He became a Roman Catholic on 9 October 1845, causing consternation to Keble and many of his Anglican friends. [ODNB]

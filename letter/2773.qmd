@@ -1,0 +1,25 @@
+---
+id: 2773
+title: To an Unknown Woman
+date: '1883-06-01'
+display-date: June 2d 1883
+from-name: Charlotte Mary Yonge
+from-address: Elderfield
+to-name: To an Unknown Woman
+manuscript-location: MS Princeton University, Parrish Collection
+---
+
+Dear Madam
+A friend of my family, who- being a neighbour, I know better personally than by her handwriting is named [Anna Georgina Macaulay](/person/2352), and always goes by the appellation Nina.
+
+She is apt to stay a good deal away from home and I concluded that the letter I received was from her.
+
+For I suppose I am right in believing that you wrote to ask me to review a book on Scripture evidences and that my answer will apply that I would try, if I could and if I had the book to mention it in a Conversation on Books.[^1]
+With many apologies for the error caused by the resemblance of name
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: Despite the detail given, neither CMY\'s correspondent nor the book can be identified with certainty.

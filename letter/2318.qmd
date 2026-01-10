@@ -1,0 +1,31 @@
+---
+id: 2318
+title: To Sarah Anne Mercier
+date: '1870-06-08'
+display-date: June 8th [1870]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Sarah Anne Mercier
+manuscript-location: 'MS Princeton University, Parrish Collection, CO171: Box 29'
+---
+
+My dear [Mrs Mercier](/person/990)
+Here is that charming little story at last.[^2]
+One thing might I ask?
+
+Could not poor Maria’s one note of admiration be changed from Lor! I have rather the feeling that it is an abridgement of a more sacred word.
+
+Did you mean Marian to blunder about feeding cows and milking chickens - ?
+
+Also did you send me a capital paper about fashion?[^3]
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Black-edged paper.
+[^2]: The phrase \'charming little story\' suggests that CMY was sending a proof for final correction, but no short stories containing Maria and Marian appeared in MPduring the next eighteen months. A possible explanation is that Mercier was the author of a story called Mrs Filby\'s Maria which was published in Warne\'s Victoria Packet series, and which CMY commended in \'Hints on Reading\' MP (April 1871) 418. CMY was the nominal editor of the [Victoria Tales and Stories](/book/211).
+
+No extant copies of Mrs Filby\'s Maria have been traced.
+[^3]: Anne M., \'A Letter on Fashion\' MP (July 1870) 99-101.

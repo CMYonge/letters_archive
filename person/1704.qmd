@@ -1,0 +1,11 @@
+---
+id: 1704
+full-name: The Rev. Charles Barter
+first-name: Charles
+last-name: Barter
+prefix: The Rev.
+title: The Rev. Charles Barter
+dates: —
+---
+
+Rector of Sarsden, father of Catherine Barter

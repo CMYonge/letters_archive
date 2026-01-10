@@ -1,0 +1,11 @@
+---
+id: 1872
+full-name: The Rt. Rev. John William Colenso
+first-name: John William
+last-name: Colenso
+prefix: The Rt. Rev.
+title: The Rt. Rev. John William Colenso
+dates: (1814-1883)
+---
+
+Bishop of Natal,

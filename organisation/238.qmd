@@ -1,0 +1,8 @@
+---
+id: 238
+reference-type: Organisation
+name: Smith, Elder and Co.
+title: Smith, Elder and Co.
+---
+
+publisher

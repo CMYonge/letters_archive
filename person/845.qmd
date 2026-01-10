@@ -1,0 +1,13 @@
+---
+id: 845
+full-name: Dr. (b.1859) Caroline Wormeley Latimer
+first-name: Caroline Wormeley
+last-name: Latimer
+prefix: Dr.
+title: Dr. (b.1859) Caroline Wormeley Latimer
+dates: contributor to <i>MP</i> (1887, 92)
+---
+
+physician
+
+Daughter of Elizabeth Wormeley Latimer.

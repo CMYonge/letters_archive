@@ -1,0 +1,20 @@
+---
+id: 2763
+title: To an Unknown Woman
+date: '1882-12-11'
+display-date: Decr 11th 1882
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To an Unknown Woman
+manuscript-location: MS British Library Add 46359A f.244
+---
+
+Dear Madam
+I see I made a mistake in addressing your letter, as you have left Windsor. I therefore write again to give my full permission for the translation of the [Questions on the Gospels](/book/105)[^1]
+
+yours truly
+
+C M Yonge
+
+
+[^1]: This translation has not been identified.

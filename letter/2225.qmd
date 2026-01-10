@@ -1,0 +1,24 @@
+---
+id: 2225
+title: To the Right Reverend Samuel Wilberforce
+date: '1867-12-30'
+display-date: Decr 30th [1867]
+from-name: Charlotte Mary Yonge
+from-address: Otterbourne
+to-name: To the Right Reverend Samuel Wilberforce
+manuscript-location: 'MS Bodleian Library, Oxford: MSS. Wilberforce c. 16 ff64-5'
+---
+
+[My Lord](/person/1512),
+Allow me to express my gratitude for the kindness of your invitation and of the arrangement for the journey. I must however beg to decline it until another year when I hope I may have the pleasure of making your [daughter](/person/1218)’s acquaintance under more cheerful circumstances.
+I cannot at present feel inclined to enter on a large party, nor to leave my [mother](/person/1606), and I should be much obliged if you would allow me to consider the visit as deferred until some future time.[^2]
+With many thanks for your kindness
+Yours very respectfully
+
+Charlotte M Yonge
+
+
+[^1]: Black-edged paper.
+[^2]: CMY had been in Devon in October, returning on 12 November 1867.
+
+This excuse to Bishop Wilberforce may mark the beginning of her mother’s decline.

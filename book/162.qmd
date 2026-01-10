@@ -1,0 +1,13 @@
+---
+id: 162
+title: Behind the Hedges, or, The War in La Vendée. By Madame de Witt, the translation
+  edited by Charlotte M. Yonge, author of "The Heir of Redclyffe"
+author: Charlotte Mary Yonge
+date: '1882'
+genre: Edited translation
+publication-format: Edited book
+publisher: 'London: Frederick Warne and Co., Bedford Street, Covent Garden.'
+illustrator: Illustrated
+---
+
+Later editions credit the translator as E[mily]. M[illard]., who translated a number of other works by Henriette de Witt.

@@ -1,0 +1,37 @@
+---
+id: 2142
+title: To an Unknown Woman
+date: '1866-12-30'
+display-date: Dec 30th [1866?]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To an Unknown Woman
+manuscript-location: MS Harry Ransom Humanities Research Center, University of Texas.
+  C. R. Coleridge Collection
+---
+
+Madam,
+The school that I should think more likely to answer your purpose would be [St Michael’s, Bognor](/organisation/185), which is under the Provostship of [Mr Woodward](/person/1551) who has done so much for education – I cannot tell what the terms are but I know they are on a less expensive scale than those of schools equally good as education goes, and the doctrine is thoroughly high – The person to address for information is
+	The [Lady Warden](/person/1973)
+St Michael’s
+Bognor
+[Miss Lowden](/person/900) – Frome Selwood and [Miss Parkinson](/person/1145) at Brighton have excellent schools, but the terms are high.
+	[Miss Bell](/person/134)
+[Winnington Hall](/organisation/186)
+Northwich
+has a school on a very large scale, where young ladies receive an excellent education on moderate terms.
+
+In fact it is the locality of [Ruskin](/person/1268)’s Ethics of the Dust and I believe he is often there, though I do not know whether that is a recommendation.
+
+The Author of Mabel’s music lessons is musical governess there[^1]
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: ‘Aunt Cecily’s music lessons,’ addressed to her niece Mabel, appeared in MP (July 1866-July 1869).
+
+The 1871 census indicates that the music teacher at Winnington Hall was then Elizabeth Flowel or Howel (b.
+
+Hampshire 1847/8).

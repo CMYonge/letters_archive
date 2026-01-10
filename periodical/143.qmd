@@ -1,0 +1,8 @@
+---
+id: 143
+reference-type: Periodical
+name: <i>Literary Gazette, The</i>
+title: <i>Literary Gazette, The</i>
+---
+
+A weekly journal published under various titles from 1817 to 1863.

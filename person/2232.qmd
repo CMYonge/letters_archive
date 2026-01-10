@@ -1,0 +1,10 @@
+---
+id: 2232
+full-name: Olave St. Clair Baden-Powell
+first-name: Olave St. Clair
+last-name: Baden-Powell
+title: Olave St. Clair Baden-Powell
+dates: (1889-1977)
+---
+
+wife of [Lord Baden-Powell](/person/2202)

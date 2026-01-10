@@ -1,0 +1,29 @@
+---
+id: 2580
+title: To the Reverend Edward Atkinson
+date: '1877-04-28'
+display-date: April 28th 1877
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To the Reverend Edward Atkinson
+manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1877/ 1
+---
+
+My dear [Sir](/person/2309)[^2]
+Your were so kind to me when I was at Cambridge that I am venturing to ask you to give your attention to the letters and testimonials you are about to receive on behalf of [my brother](/person/1624), who is very anxious to obtain the Secretaryship of the Governing Body of [Winchester](/organisation/50). I think that from his experience in many ways, he is very well fitted for it, and that as an Eton and Balliol man, who has always had a neighbour's knowledge of Winchester matters without being a Wykehamist, or committed to any line there observed, he would have many special advantages of usefulness.[^2]
+I hope therefore that you will give a favorable consideration to his papers when he sends them in
+
+yours truly
+Charlotte M.
+
+Yonge
+
+
+[^1]: Envelope, with matching engraved address on flap, to \'The Revd/ The Master of Clare College/ Cambridge\' and postmarked Winchester (date cut out) and Cambridge 30 April 1877.
+
+Endorsed ‘Apr 29, 77./ Miss Yonge/ Winchester secretary’.
+
+This letter is among CMY\'s letters to Ann Carter Smith, whose sister Frances was Atkinson\'s wife.
+[^2]: Julian Yonge was not appointed Secretary of Winchester College.
+
+His application was no doubt connected to the financial crisis.

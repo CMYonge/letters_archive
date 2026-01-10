@@ -1,0 +1,11 @@
+---
+id: 2088
+full-name: Vice-Admiral Henry Bedford Woollcombe
+first-name: Henry Bedford
+last-name: Woollcombe
+prefix: Vice-Admiral
+title: Vice-Admiral Henry Bedford Woollcombe
+dates: (1831-1904)
+---
+
+brother of Robert Woollcombe

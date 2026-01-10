@@ -1,0 +1,22 @@
+---
+id: 2802
+title: To the Reverend Richard St. John Tyrwhitt
+date: '1885-03-04'
+display-date: March 4th 1885
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To the Reverend Richard St. John Tyrwhitt
+manuscript-location: 'MS Bodleian Library, Oxford: Ms. Eng. lett. e.116 ff 182-3'
+---
+
+Dear [Mr Tyrwhitt](/person/1428)
+The copy right is yours.
+
+It always stays with authors in the [Packet](/periodical/52), so neither [Mr Smith](/person/1344) nor I can have any objection to Natural Beauty appearing in America[^1]
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: No serial or volume publication in America of Tyrwhitt\'s The Natural Theology of Natural Beauty (1882) (originally published in MP (January, April 1881) as \'The Argument from Natural Beauty\') has been traced.

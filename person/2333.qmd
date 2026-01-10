@@ -1,0 +1,10 @@
+---
+id: 2333
+full-name: Friedrich Wilhelm August Fröbel
+first-name: Friedrich Wilhelm August
+last-name: Fröbel
+title: Friedrich Wilhelm August Fröbel
+dates: (1782-1852)
+---
+
+educationist

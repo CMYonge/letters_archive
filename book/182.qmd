@@ -1,0 +1,10 @@
+---
+id: 182
+title: '‘Pixie Lawn’ in Please Tell me a Tale: A Collection of Short Original Stories
+  for Children from Four to Ten Years of Age'
+author: Charlotte Mary Yonge
+date: '1885'
+genre: Fiction
+publication-format: Story in collection
+publisher: 'London: Skeffington & Son'
+---

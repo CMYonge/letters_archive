@@ -1,0 +1,22 @@
+---
+id: 2617
+title: To George Lillie Craik
+date: '1878-01-01'
+display-date: Jany 22d 1878
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To George Lillie Craik
+manuscript-location: 'MS British Library Add MSS 54921: 46-47'
+---
+
+Dear [Mr Craik](/person/379)
+Many thanks for [the payment](/topic/160) which comes pleasantly early this year.
+
+My [Spaniards and Moors](/book/126) are progressing, but I suppose I had better finish all before I send them, as if abridgement is needful it is better done on a whole than on a part.
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: Black-edged paper.

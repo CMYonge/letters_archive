@@ -1,0 +1,13 @@
+---
+id: 102
+full-name: The Rev. Charles Wareing Endell Bardsley
+first-name: Charles Wareing Endell
+last-name: Bardsley
+prefix: The Rev.
+title: The Rev. Charles Wareing Endell Bardsley
+dates: (1843-1898)
+---
+
+Vicar of Ulverston
+
+He was the author of the first standard work on English surnames and contributor to the Bluebell series [BL cat; Alumni Oxonienses]

@@ -1,0 +1,9 @@
+---
+id: 194
+title: Under the Storm, or, Steadfast’s Charge.
+author: Charlotte Mary Yonge
+date: '1887'
+genre: Fiction (historical)
+publication-format: Book
+publisher: National Society’s Depository, Broad Sanctuary, London.
+---

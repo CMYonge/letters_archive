@@ -1,0 +1,14 @@
+---
+id: 13
+reference-type: Organisation
+name: St. Augustine’s College
+title: St. Augustine’s College
+---
+
+This was a college for missionaries in Canterbury, founded in 1845, which survived until 1967.
+
+The Warden 1880-1902 was the Rev. G. M.
+
+Maclear.
+
+Its buildings are now occupied by the King’s School, Canterbury, and its archive is held by Canterbury Cathedral Archives.

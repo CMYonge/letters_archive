@@ -1,0 +1,6 @@
+---
+id: 246
+reference-type: Periodical
+name: <i>Academy, The</i>
+title: <i>Academy, The</i>
+---

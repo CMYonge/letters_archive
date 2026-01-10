@@ -1,0 +1,13 @@
+---
+id: 1272
+full-name: The Rev. John Scarth
+first-name: John
+last-name: Scarth
+prefix: The Rev.
+title: The Rev. John Scarth
+dates: (1826-1909)
+---
+
+Vicar of Holy Cross, Bearsted, Kent, 1884-1902, and Hon.
+
+Secretary of St Andrew’s Waterside Church Mission, 1871-1900

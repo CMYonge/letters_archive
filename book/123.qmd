@@ -1,0 +1,12 @@
+---
+id: 123
+title: Man of Other Days. Recollections of the Marquis Henry Joseph Costa de Beauregard,
+  A. 2 vols.
+author: Charlotte Mary Yonge
+date: '1877'
+genre: Edited translation
+publication-format: Edited book
+publisher: 'London : Hurst and Blackett.'
+---
+
+Probably translated by Julian Bargus Yonge.

@@ -1,0 +1,10 @@
+---
+id: 1172
+full-name: Amedée Pichot
+first-name: Amedée
+last-name: Pichot
+title: Amedée Pichot
+dates: (1795-1877)
+---
+
+French translator of The Dove in the Eagles Nest

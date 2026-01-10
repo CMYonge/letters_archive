@@ -1,0 +1,21 @@
+---
+id: 2529
+title: To Henry Graves
+date: '1875-04-24'
+display-date: April 24th 1875
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Henry Graves
+manuscript-location: MS Harry Ransom Humanities Research Center, University of Texas,
+  Austin.
+---
+
+My dear [Mr Graves](/person/577)
+I am afraid I must not take Second Fiddles though I am much obliged to you for it.
+
+We are changing our printing house, and I want to have only matters of necessity on my hands just now.[^1]
+[Mr Craik](/person/379) is going to send me a photograph of [Bp Patteson](/person/1155)’s sculpture. I hope we shall have it in the next [edition](/book/102).
+
+yours sincerely
+
+C M Yonge

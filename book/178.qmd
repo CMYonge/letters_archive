@@ -1,0 +1,9 @@
+---
+id: 178
+title: 'Charity: Scripture Texts and Sacred Song.'
+author: Charlotte Mary Yonge
+date: '1884'
+genre: 'Non-fiction: theology'
+publication-format: Edited selection
+publisher: Griffith and Farran, London.
+---

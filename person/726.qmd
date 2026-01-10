@@ -1,0 +1,10 @@
+---
+id: 726
+full-name: William Howitt
+first-name: William
+last-name: Howitt
+title: William Howitt
+dates: (1792-1879)
+---
+
+author, contributor to MP (1852)

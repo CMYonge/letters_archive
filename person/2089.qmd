@@ -1,0 +1,11 @@
+---
+id: 2089
+full-name: The Rev. William Cosmo Gordon Lang
+first-name: William Cosmo Gordon
+last-name: Lang
+prefix: The Rev.
+title: The Rev. William Cosmo Gordon Lang
+dates: (1864-1945)
+---
+
+later (1928) Archbishop of Canterbury and (1942) Lord Lang of Lambeth

@@ -1,0 +1,13 @@
+---
+id: 308
+title: \'The Little Maid\'s Text Book\'
+author: Charlotte Mary Yonge
+date: '1880'
+genre: verse
+publication-format: poem in journal
+publisher: <i>Friendly Leaves</i> (December 1880), 268
+---
+
+The poem is signed C. M.
+
+Yonge

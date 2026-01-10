@@ -1,0 +1,10 @@
+---
+id: 128
+full-name: Dorothea Beale
+first-name: Dorothea
+last-name: Beale
+title: Dorothea Beale
+dates: (1831-1906)
+---
+
+headmistress of Cheltenham Ladies College, contributor to MP (1882)

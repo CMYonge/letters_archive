@@ -1,0 +1,12 @@
+---
+id: 34
+title: Pigeon Pie, The By the author of “The Heir of Redclyffe.”
+author: Charlotte Mary Yonge
+date: '1860'
+genre: Fiction (historical)
+publication-format: Book
+publisher: John and Charles Mozley, 6, Paternoster Row, London. Masters and Co., 78,
+  New Bond Street, London.
+serialization: Serialized in<i> MP</i>, November 1851 to October 1852
+illustrator: Illustrated frontispiece, but no artist named.
+---

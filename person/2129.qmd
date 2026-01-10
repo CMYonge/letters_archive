@@ -1,0 +1,11 @@
+---
+id: 2129
+full-name: The Rev. - Coward
+first-name: '-'
+last-name: Coward
+prefix: The Rev.
+title: The Rev. - Coward
+dates: —
+---
+
+locum tenens for the Vicar of Otterbourne

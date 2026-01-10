@@ -1,0 +1,11 @@
+---
+id: 2197
+full-name: The Ven. Canon Henry Haigh
+first-name: Henry
+last-name: Haigh
+prefix: The Ven. Canon
+title: The Ven. Canon Henry Haigh
+dates: (1837/8-1906)
+---
+
+Vicar of Newport and Archdeacon of the Isle of Wight

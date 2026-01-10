@@ -1,0 +1,13 @@
+---
+id: 312
+title: \'On my Word and Honour\'
+author: Charlotte Mary Yonge
+date: '1891'
+genre: Non-fiction
+publication-format: Article in Journal
+publisher: <i>Friendly Leaves</i> (1891) 336-7
+---
+
+The article is signed Charlotte M.
+
+Yonge.

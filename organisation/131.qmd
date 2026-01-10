@@ -1,0 +1,16 @@
+---
+id: 131
+reference-type: Organisation
+name: Ecclesiological Society, The
+title: Ecclesiological Society, The
+---
+
+Founded as the Cambridge Camden Society in 1839, it changed its name to the Ecclesiological Society in 1845.
+
+It acted as a pressure group to encourage the use of Gothic architecture in church buildings, and research and preservation of mediaeval buildings, mainly through its journal The Ecclesiologist and other publications.
+
+See James White, The Cambridge Movement: The Ecclesiologists and the Gothic Revival (Cambridge: Cambridge University Press 1962).
+
+The society still exists.
+
+Although CMY and her circle were much influenced by the ideas about design propagated by the society, they were not totally in sympathy with the movement; in The Pillars of the House Clement comments unsympathetically of a local antiquarian clergyman that he minds his ecclesiology more than his ecclesia.

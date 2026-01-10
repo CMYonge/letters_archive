@@ -1,0 +1,7 @@
+::: {.entity-meta}
+{{< if-meta "display-date" >}}**Date:** {{< meta display-date >}}  {{< /if-meta >}}
+{{< if-meta "from-name" >}}**From:** {{< meta from-name >}}  {{< /if-meta >}}
+{{< if-meta "from-address" >}}**From address:** {{< meta from-address >}}  {{< /if-meta >}}
+{{< if-meta "to-name" >}}**To:** {{< meta to-name >}}  {{< /if-meta >}}
+{{< if-meta "manuscript-location" >}}**Manuscript location:** {{< meta manuscript-location >}}{{< /if-meta >}}
+:::

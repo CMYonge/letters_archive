@@ -1,0 +1,10 @@
+---
+id: 854
+full-name: John Leech
+first-name: John
+last-name: Leech
+title: John Leech
+dates: (1817-1864)
+---
+
+Punch cartoonist

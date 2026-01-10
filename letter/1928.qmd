@@ -1,0 +1,34 @@
+---
+id: 1928
+title: Alexander Macmillan to Charlotte Mary Yonge
+date: '1864-01-21'
+display-date: Jan 21.1864
+from-name: Charlotte Mary Yonge
+to-name: Alexander Macmillan to Charlotte Mary Yonge
+manuscript-location: Copy outletter book British Library Add MSS.55382 P. 72
+---
+
+Dear Miss Yonge	
+[I](/person/939) will see whether we can find some one who would do a few vigorous outlines for the [little Duke](/book/20).
+
+Something like those to Kingsleys Heroes.
+
+Reproductions of foreign books are not generally successful.
+
+We send the [Daisy Chain](/book/24) to press today
+I am very glad indeed that you take to our idea.
+
+It would do admirable [sic] for a Christmas book.[^1] I think you have quite caught the idea I had & I think also what my [sister](/person/941) had.
+
+We will talk over the matter tonight. I would certainly have some obscurer stars of this kind brought to light, if possible, so as to include some who have not sent down a 'Roaring voice'.[^2] But when I have talked over the matter with my sister I will write again, or perhaps I may venture to get her to write herself. I suppose ladies should understand each other best.
+I am dear Miss Yonge	
+Yours very faithfully
+Alex Macmillan
+
+
+[^1]: This was the idea for [A Book of Golden Deeds](/book/51).
+[^2]: CMY was fond of quoting [Walter Scott](/person/1672)\'s statement, recorded by Felicia Hemans: \'Do not say that noble blood is wasted, it sends down a roaring voice through all time’.
+
+The quotation occurs The Daisy Chain II, Ch.5, the source being, Harriet Browne, Memoir of the Life and Writings of Mrs.
+
+Hemans, 200.

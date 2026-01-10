@@ -1,0 +1,11 @@
+---
+id: 1428
+full-name: The Rev. Richard St. John Tyrwhitt
+first-name: Richard St. John
+last-name: Tyrwhitt
+prefix: The Rev.
+title: The Rev. Richard St. John Tyrwhitt
+dates: (1827-1895)
+---
+
+art critic, contributor to MP (1877-81)

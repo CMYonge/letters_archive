@@ -1,0 +1,20 @@
+---
+id: 2076
+title: To Alexander Macmillan
+date: '1865-10-26'
+display-date: Oct 26th [1865]
+from-name: Charlotte Mary Yonge
+from-address: Crookham
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54920: 114'
+---
+
+Dear [Mr Macmillan](/person/939)
+Happening to have an excess of M.S. luggage, I am rather glad to send off an instalment of “the [Chaplet of Pearls](/book/69)” instead of packing it up.
+
+It threatens to be longer than the [Dove](/book/62), and there is a good deal more still to be written, and probably rewritten.
+I believe I omitted to say that it would be the most convenient way to me if you could [pay](/topic/160) the £235, the balance of my account to my name at [Messrs Hoare](/organisation/169)’s.
+
+Yours very truly
+
+C M Yonge

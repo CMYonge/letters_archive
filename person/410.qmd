@@ -1,0 +1,10 @@
+---
+id: 410
+full-name: Mr. Davies
+last-name: Davies
+prefix: Mr.
+title: Mr. Davies
+dates: —
+---
+
+paid money in 1854

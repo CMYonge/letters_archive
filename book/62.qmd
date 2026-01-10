@@ -1,0 +1,10 @@
+---
+id: 62
+title: Dove In The Eagle’s Nest, The. 2 vols. By the author of “The Heir of Redclyffe.”
+author: Charlotte Mary Yonge
+date: '1866'
+genre: Fiction (historical)
+publication-format: Book
+publisher: 'Cambridge and London: Macmillan and Company.'
+serialization: Serialized in <i>Macmillan’s Magazine </i>May -Dec 1865
+---

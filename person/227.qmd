@@ -1,0 +1,11 @@
+---
+id: 227
+full-name: Sir Edward Coley Burne-Jones
+first-name: Edward Coley
+last-name: Burne-Jones
+prefix: Sir
+title: Sir Edward Coley Burne-Jones
+dates: (1833-1898)
+---
+
+painter and designer

@@ -1,0 +1,8 @@
+---
+id: 242
+reference-type: Organisation
+name: Henry S. King
+title: Henry S. King
+---
+
+publisher

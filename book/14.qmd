@@ -1,0 +1,11 @@
+---
+id: 14
+title: Landmarks of History 1. Ancient History from the Earliest Times to the Mahometan
+  Conquest. By the author of “The Kings of England.”
+author: Charlotte Mary Yonge
+date: '1852'
+genre: 'Non-fiction: history'
+publication-format: Book
+publisher: John and Charles Mozley, Paternoster Row, London; J.H. Parker, Oxford;
+  and 337, Strand; London; and Joseph Masters, 78, New Bond Street, London.
+---

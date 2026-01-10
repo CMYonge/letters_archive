@@ -1,0 +1,10 @@
+---
+id: 2025
+full-name: Miss Llewellyn
+last-name: Llewellyn
+prefix: Miss
+title: Miss Llewellyn
+dates: —
+---
+
+an unidentified aspirant member of the Gosling Society

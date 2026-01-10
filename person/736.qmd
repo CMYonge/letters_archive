@@ -1,0 +1,11 @@
+---
+id: 736
+full-name: The Rev. George Huntington
+first-name: George
+last-name: Huntington
+prefix: The Rev.
+title: The Rev. George Huntington
+dates: —
+---
+
+Rector of Tenby, contributor to MP (1887)

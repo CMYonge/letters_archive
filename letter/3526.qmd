@@ -1,0 +1,27 @@
+---
+id: 3526
+title: To an unknown bishop
+date: '1875-10-21'
+display-date: Oct 21st [after 1875[[footnote:1]]]
+from-name: Charlotte Mary Yonge
+to-name: To an unknown bishop
+manuscript-location: MS Princeton University, Parrish Collection
+---
+
+My dear Bishop[^2]
+I find the apples are come but the arrival was not notified to me - and I had been blaming the rail way!
+
+Please tell me what there is to pay for them as I do not think my account came with them I suppose 8/ altogether but I am not sure
+A busy week is coming between Diocesan Conference and [G F S](/organisation/23).
+
+How surpassingly lovely are the Autumn tints I gathered 86 varieties of flowers in the Garden on Tuesday
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: The Girls’ Friendly Society was founded in 1875, and Diocesan Conferences seem to have started in Winchester diocese in 1877.
+[^2]: CMY was accustomed to address Bishops with great respect, and the informal tone of this letter thus rules out several with whom she was acquainted.
+
+Perhaps [George Henry Sumner](/person/1382), who was appointed suffragan Bishop of Guildford in late 1888, is the most likely candidate.

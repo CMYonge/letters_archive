@@ -1,0 +1,9 @@
+---
+id: 160
+title: Talks about the Laws we Live under, or, At Langley Night-School.
+author: Charlotte Mary Yonge
+date: '1882'
+genre: 'Non-fiction: advice book'
+publication-format: Book
+publisher: Walter Smith (late Mozley), 34 King Street, Covent Garden, London.
+---

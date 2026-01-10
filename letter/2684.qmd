@@ -1,0 +1,22 @@
+---
+id: 2684
+title: To Alexander Macmillan
+date: '1879-08-08'
+display-date: Aug 8th 1879
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54921: 105-106'
+---
+
+Dear [Mr Macmillan](/person/939)
+I am sorry for the mistake, it was not wilful for I looked at the stamp, and found it so pale that I saw nothing but the Cl which I took for [Clay](/organisation/173).[^1]
+Will ‘By-words in action’ do for the name of [this collection of stories](/book/135), as all illustrate some saying or other. I have recovered one from America, and will send it in a day or two, but I think it will be safer to send these last three together
+Perhaps I may add two semi-translations from the French
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: The mistake was evidently in sending some material to the wrong printer.

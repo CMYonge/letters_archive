@@ -1,0 +1,11 @@
+---
+id: 298
+full-name: The Ven. Edward Churton
+first-name: Edward
+last-name: Churton
+prefix: The Ven.
+title: The Ven. Edward Churton
+dates: (1800-1874)
+---
+
+Archdeacon of Cleveland from 1846

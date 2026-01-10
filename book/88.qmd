@@ -1,0 +1,16 @@
+---
+id: 88
+title: Musings over the “Christian Year” and “Lyra Innocentium” by Charlotte Mary
+  Yonge together with a few gleanings of Recollections of the Rev. J. Keble, gathered
+  by several friends.
+author: Charlotte Mary Yonge
+date: '1871'
+genre: Non-fiction, criticism, biography
+publication-format: Book
+publisher: 'Oxford and London: James Parker and Co.'
+serialization: Serialized in<i> MP</i> Nov 1868-Nov 1870.
+---
+
+The other contributors were the Rev. T.
+
+Simpson Evans, Frances Maria Wilbraham and M.T..

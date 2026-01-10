@@ -1,0 +1,25 @@
+---
+id: 2036
+title: To Alexander Macmillan
+date: '1865-05-29'
+display-date: May 29th 1865
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54920: 88-89'
+---
+
+My dear [Mr Macmillan](/person/939),
+Here is the [notice](/book/59) of Cawnpore[^1] but I shall not be surprised if you do not think it the thing.
+
+The whole was too overpowering to say many words about and I have run into mere narrative more than I meant at first from the very force of the events. I am obliged to send it without any other eye over it, as my [mother](/person/1606) cannot bear to think of the horrors. I wish every school boy would read the book these holidays, it would pale the excitement of Captain [Mayne Reid](/person/1944). I have sent a much shorter [notice](/book/60) of the book to the [Literary Churchman](/periodical/76) in pursuance of a [paper](/book/307) on boy literature I have done before.
+I have received the volumes of Kitto’s Pictorial History and much enjoy reading them.
+
+Thanks for the loan. I have sent the proof to be looked over by a clerical friend whose criticisms have always helped me much.
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Her review of George Otto Trevelyan\'s book about the massacre at Cawnpore during the [Indian Mutiny](/topic/134) appeared in [Macmillan\'s Magazine](/periodical/78) in July.

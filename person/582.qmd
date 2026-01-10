@@ -1,0 +1,11 @@
+---
+id: 582
+full-name: The Rev. John Richard Green
+first-name: John Richard
+last-name: Green
+prefix: The Rev.
+title: The Rev. John Richard Green
+dates: (1837-1883)
+---
+
+historian

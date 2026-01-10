@@ -1,0 +1,10 @@
+---
+id: 196
+title: What Books to Lend and What to Give. By Charlotte M. Yonge, author of ‘The
+  Heir of Redclyffe’ ‘Cameos from English History’ etc.,
+author: Charlotte Mary Yonge
+date: '1887'
+genre: 'Non-fiction: advice to charity workers'
+publication-format: Pamphlet, 126pp
+publisher: 'London: National Society’s Depository, Sanctuary, Westminster.'
+---

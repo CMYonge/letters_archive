@@ -1,0 +1,6 @@
+---
+id: 156
+reference-type: Periodical
+name: <i>Cornhill Magazine, The</i>
+title: <i>Cornhill Magazine, The</i>
+---

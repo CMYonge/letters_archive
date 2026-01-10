@@ -1,0 +1,18 @@
+---
+id: 3531
+title: To an Unknown Woman
+date: '1881-09-01'
+display-date: September 3d [before 1881]
+from-name: Charlotte Mary Yonge
+from-address: “Monthly Packet” 6, Paternoster Row, London, E.C.
+to-name: To an Unknown Woman
+manuscript-location: MS Princeton University, Parrish Collection
+---
+
+My dear Madam,
+I wish I could give you a more agreeable answer, but I am afraid that there is no space available in the [Monthly Packet](/periodical/52) for your contributions which could hardly find admittance soon enough to answer to your present wishes
+I am afraid too that I have too many sketches of travels already on my hands
+
+Yours truly
+
+C M Yonge

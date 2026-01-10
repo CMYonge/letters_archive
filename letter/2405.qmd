@@ -1,0 +1,25 @@
+---
+id: 2405
+title: To Ellen Julia Johns
+date: '1871-05-11'
+display-date: May 11th 1871
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Ellen Julia Johns
+manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
+---
+
+My dear [Mrs Johns](/person/772)
+Thank you for your kind note.
+
+The second part of the little book is already half way printed - so I hope it will be ready the time the first is finished.[^1]
+I believe I am going to London on Monday week, and shall be away for about a month, unless indeed the scarlatina in the parish spreads so as to prevent my going; and then I am afraid it would be equally in the way of meeting you.
+
+So I am afraid I cannot leave the coming to afternoon tea - which I should much like to do - till after I come home. I hope that by the time you will be stronger
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: CMY perhaps refers here to [Musings over the \'Christian Year\'](/book/88)?

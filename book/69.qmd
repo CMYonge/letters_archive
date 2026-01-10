@@ -1,0 +1,14 @@
+---
+id: 69
+title: Chaplet of Pearls, or, The White and Black Ribaumont, The. By the author of
+  “The Heir of Redclyffe.”
+author: Charlotte Mary Yonge
+date: '1868'
+genre: Fiction (historical)
+publication-format: Book
+publisher: 'London: Macmillan and Company.'
+serialization: Serialised in <i>Macmillan’s Magazine</i>, Vol 17, November, 1867 to
+  Vol 19 December 1868
+---
+
+Stray Pearls and The Release are sequels to this novel.

@@ -1,0 +1,11 @@
+---
+id: 944
+full-name: The Rev. Arthur Roland Maddison
+first-name: Arthur Roland
+last-name: Maddison
+prefix: The Rev.
+title: The Rev. Arthur Roland Maddison
+dates: (1843-1912)
+---
+
+prebendary of Lincoln Cathedral

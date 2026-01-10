@@ -1,0 +1,9 @@
+---
+id: 205
+title: Reputed Changeling, or, Three Seventh Years Two Centuries Ago, A 2 vols.
+author: Charlotte Mary Yonge
+date: '1889'
+genre: Fiction (historical)
+publication-format: Book
+publisher: 'London and New York: Macmillan and Company.'
+---

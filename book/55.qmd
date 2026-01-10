@@ -1,0 +1,14 @@
+---
+id: 55
+title: Historical Dramas. By the author of “The Heir of Redclyffe, etc.”
+author: Charlotte Mary Yonge
+date: '1864'
+genre: Fiction (drama)
+publication-format: Book 8vo npn
+publisher: Groombridge and Sons, 5, Paternoster Row, London.
+serialization: The plays appeared originally in the Magnet Stories for Summer Days
+  and Winter Nights; 8 vols., 186
+illustrator: With the illustrations by D. H. Friston from the Magnet series.
+---
+
+Contains The Mice at Play, The Apple of Discord, The Strayed Falcon. [plays] It was one of Groombridge’s gift book series.

@@ -1,0 +1,10 @@
+---
+id: 1912
+full-name: William Holman Hunt
+first-name: William
+last-name: Holman Hunt
+title: William Holman Hunt
+dates: (1827-1910)
+---
+
+painter

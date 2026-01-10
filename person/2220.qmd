@@ -1,0 +1,10 @@
+---
+id: 2220
+full-name: Mrs Sewell
+first-name: Mrs
+last-name: Sewell
+title: Mrs Sewell
+dates: —
+---
+
+calling in 1900

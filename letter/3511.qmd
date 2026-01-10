@@ -1,0 +1,23 @@
+---
+id: 3511
+title: To Frederick James Furnivall
+date: '1869-07-12'
+display-date: July 12th [1869?]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Frederick James Furnivall
+manuscript-location: MS Huntington Library
+---
+
+[Dear Mr Furnivall](/person/531)
+I have a friend belonging to a Cornish family staying with me, and she thinks her relations competent to look over the Cornish which is not naughty English, so she is sending it to them, and they will return it to you[^2]
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: Black-edged paper.
+[^2]: This refers to Furnivall’s edition of the works of Andrew Borde, The first boke of the introduction of knowledge and a compendyous regyment or a dyetary of helth, with, Barnes in the defence of the Berde, a treatyse made answerynge the treatyse of Doctor Borde upon Berdes: edited, with a life of Andrew Boorde and large extracts from his Breuyary (London: Early English Text Society, 1870).
+
+Borde observed in The First Boke of the Introduction of Knowledge that ‘In Cornwal is two speches, the one is naughty englyshe, and the other is Cornyshe speche.’ The friend might have been [Frances Mary Peard](/person/1160).

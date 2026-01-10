@@ -1,0 +1,22 @@
+---
+id: 1865
+title: To Ann Maria Carter Smith
+date: '1862-06-24'
+display-date: June 24th 1862
+from-name: Charlotte Mary Yonge
+from-address: Otterbourne, Winchester.
+to-name: To Ann Maria Carter Smith
+manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1862/3
+---
+
+My dear [Miss Smith](/person/263)
+I enclose a cheque for the amount of the Banks of the Thorne that has gone in this time, and I think has been very much liked.
+I have had an offer of [Mrs Sherwood](/person/1869)’s Life from a person who can get at something about her privately so I thought you would not mind my accepting it, as a little beyond a published memoir is such a gain.[^1]
+You see the [Packet](/periodical/52) is flourishing and can [pay](/topic/102) a little more this time
+
+yours sincerely
+
+C M Yonge
+
+
+[^1]: Carter Smith had evidently offered to contribute a life of Sherwood to the [Biographies of Good Women](/book/43); however none appeared in either of the two series.

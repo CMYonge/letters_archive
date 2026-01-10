@@ -1,0 +1,11 @@
+---
+id: 2347
+full-name: The Rev. James Langton Clarke
+first-name: James Langton
+last-name: Clarke
+prefix: The Rev.
+title: The Rev. James Langton Clarke
+dates: (1833/4-1916)
+---
+
+curate of Whitburn

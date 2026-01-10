@@ -1,0 +1,12 @@
+---
+id: 161
+title: Sparks of Light for Everyday. Collected by Madame Guizot de Witt, done into
+  English by the translator of ‘Gold Dust’ [E.L.E.B.]. Edited by Charlotte M. Yonge.
+author: Charlotte Mary Yonge
+date: '1882'
+genre: Edited translation
+publication-format: Edited book
+publisher: 'London: J. Masters & Co., 78, New Bond Street'
+---
+
+E.L.E.B. is possibly CMY’s neighbour Ella L.E.Burlton.

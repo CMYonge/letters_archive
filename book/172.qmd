@@ -1,0 +1,9 @@
+---
+id: 172
+title: Landmarks of Recent History, 1770-1883.
+author: Charlotte Mary Yonge
+date: '1883'
+genre: 'Non-fiction: history'
+publication-format: Book
+publisher: Walter Smith, 34 King Street, Covent Garden, London.
+---

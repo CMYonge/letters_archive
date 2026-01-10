@@ -1,0 +1,10 @@
+---
+id: 141
+full-name: Mary Eleanor Benson
+first-name: Mary Eleanor
+last-name: Benson
+title: Mary Eleanor Benson
+dates: (1863-1890)
+---
+
+contributor to MP (1889-90), social worker, daughter of Archbishop Benson

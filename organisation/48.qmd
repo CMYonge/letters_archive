@@ -1,0 +1,6 @@
+---
+id: 48
+reference-type: Organisation
+name: Winchester Diocesan Society for Higher Religious Education, The
+title: Winchester Diocesan Society for Higher Religious Education, The
+---

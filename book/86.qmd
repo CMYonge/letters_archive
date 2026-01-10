@@ -1,0 +1,12 @@
+---
+id: 86
+title: Little Lucy’s Wonderful Globe.
+author: Charlotte Mary Yonge
+date: '1871'
+genre: Fiction (modern)
+publication-format: Book
+publisher: 'London and New York: Macmillan and Company.'
+illustrator: Illustrated by Lorenz Froelich
+---
+
+This is a fictionalized geography book.

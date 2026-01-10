@@ -1,0 +1,11 @@
+---
+id: 1793
+full-name: Sir Henry Taylor
+first-name: Henry
+last-name: Taylor
+prefix: Sir
+title: Sir Henry Taylor
+dates: (1800-1886)
+---
+
+poet

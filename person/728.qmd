@@ -1,0 +1,10 @@
+---
+id: 728
+full-name: Evariste Régis Huc
+first-name: Evariste Régis
+last-name: Huc
+title: Evariste Régis Huc
+dates: (1813-1860)
+---
+
+traveller, contributor to MP (1852)

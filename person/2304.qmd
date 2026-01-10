@@ -1,0 +1,10 @@
+---
+id: 2304
+full-name: John Shepherd
+first-name: John
+last-name: Shepherd
+title: John Shepherd
+dates: —
+---
+
+gardener at Otterbourne House in 1876

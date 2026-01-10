@@ -1,0 +1,15 @@
+---
+id: 2658
+title: To Messrs Macmillan
+date: '1879-01-15'
+display-date: Jany 15th 1879
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Messrs Macmillan
+manuscript-location: 'MS British Library Add MSS 54921: 79'
+---
+
+Miss Yonge would be obliged if [Messrs Macmillan](/organisation/111) would send a copy of the [Story of the Christians and Moors](/book/126) to [Madame de Witt](/person/423), Boulevarde Hausseman Paris[^1]
+
+
+[^1]: Endorsed \'Post Jan 20\'.

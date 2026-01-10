@@ -1,0 +1,10 @@
+---
+id: 157
+reference-type: Organisation
+name: Wigram and Sons
+title: Wigram and Sons
+---
+
+shipbuilders.
+
+They constructed the Southern Cross.

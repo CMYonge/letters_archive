@@ -1,0 +1,11 @@
+---
+id: 1935
+full-name: Dr David Livingstone
+first-name: David
+last-name: Livingstone
+prefix: Dr
+title: Dr David Livingstone
+dates: (1813-1873)
+---
+
+missionary and explorer

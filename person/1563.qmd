@@ -1,0 +1,10 @@
+---
+id: 1563
+full-name: Dorothy Wordsworth
+first-name: Dorothy
+last-name: Wordsworth
+title: Dorothy Wordsworth
+dates: (1771-1855)
+---
+
+the poet’s sister, contributor to MP (1891-2)

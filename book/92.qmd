@@ -1,0 +1,13 @@
+---
+id: 92
+title: Life and Adventures of Count Beugnot . Edited by Charlotte M. Yonge. 2 vols.
+author: Charlotte Mary Yonge
+date: '1871'
+genre: Edited translation
+publication-format: Edited book
+publisher: 'London : Hurst and Blackett.'
+serialization: Translation of Comte Jacques-Claude Beugnot,<i> Mémoires du comte Beugnot,
+  ancien ministre</i> (178
+---
+
+Probably translated by Julian Yonge

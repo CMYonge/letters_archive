@@ -1,0 +1,12 @@
+---
+id: 88
+full-name: Mary Bacon
+first-name: Mary
+last-name: Bacon
+title: Mary Bacon
+dates: (b. 1804/5)
+---
+
+companion of Maria Cristall (Florence Wilford\'s aunt) at St.
+
+Cross

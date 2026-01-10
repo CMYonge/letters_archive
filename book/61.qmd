@@ -1,0 +1,12 @@
+---
+id: 61
+title: 'Prince and the Page: A Story of the Last Crusade, The By the author of “The
+  Heir of Redclyffe.”'
+author: Charlotte Mary Yonge
+date: '1866'
+genre: Fiction (historical)
+publication-format: Book
+publisher: 'London and Cambridge: Macmillan and Co.,'
+serialization: Serialized in<i> MP</i>, January to December 1865
+illustrator: With six illustrations by R. Farren.
+---

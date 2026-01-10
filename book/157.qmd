@@ -1,0 +1,10 @@
+---
+id: 157
+title: 'Unknown to History: A Story of the Captivity of Mary of Scotland. 2 vols.'
+author: Charlotte Mary Yonge
+date: '1882'
+genre: Fiction (historical)
+publication-format: Book
+publisher: 'London and New York: Macmillan and Company.'
+illustrator: Illustrated by W. Hennessy.
+---

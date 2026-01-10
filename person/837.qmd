@@ -1,0 +1,10 @@
+---
+id: 837
+full-name: Mrs Lange
+last-name: Lange
+prefix: Mrs
+title: Mrs Lange
+dates: —
+---
+
+correspondent

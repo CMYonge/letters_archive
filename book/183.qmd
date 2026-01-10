@@ -1,0 +1,9 @@
+---
+id: 183
+title: Nuttie’s Father.
+author: Charlotte Mary Yonge
+date: '1885'
+genre: Fiction (modern)
+publication-format: Book
+publisher: 'London and New York: Macmillan and Company.'
+---

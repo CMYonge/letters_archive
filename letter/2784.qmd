@@ -1,0 +1,17 @@
+---
+id: 2784
+title: To Eleanor Catharine Price?
+date: '1883-01-01'
+display-date: '[1883?]'
+from-name: Charlotte Mary Yonge
+to-name: To Eleanor Catharine Price?
+manuscript-location: MS fragment with Richard Ford, manuscripts dealer, 2006, transcribed
+  from the catalogue.
+---
+
+I am reading Foreigners and enjoying them.[^1]
+yours very truly
+C.M.Yonge
+
+
+[^1]: Eleanor Catherine Price, The Foreigners: A Novel 3 vols (London: Chatto & Windus 1883).

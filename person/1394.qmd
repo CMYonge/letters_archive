@@ -1,0 +1,11 @@
+---
+id: 1394
+full-name: Mrs J. C. Talbot
+first-name: J. C.
+last-name: Talbot
+prefix: Mrs
+title: Mrs J. C. Talbot
+dates: —
+---
+
+contributor to MP (1877)

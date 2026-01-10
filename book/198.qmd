@@ -1,0 +1,10 @@
+---
+id: 198
+title: Our New Mistress, or, Changes at Brookfield Earl. By Charlotte M. Yonge.
+author: Charlotte Mary Yonge
+date: '1888'
+genre: Fiction (modern)
+publication-format: Book
+publisher: National Society’s Depository, Broad Sanctuary, London.
+illustrator: Illustrated by C.J. Staniland.
+---

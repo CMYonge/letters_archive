@@ -1,0 +1,10 @@
+---
+id: 135
+reference-type: Organisation
+name: Bell and Daldy
+title: Bell and Daldy
+---
+
+publishers.
+
+Founded in 1839 by George Bell, it became Bell and Daldy in 1856, and after Daldy departure in 1873, George Bell and Sons.

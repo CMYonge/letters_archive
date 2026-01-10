@@ -1,0 +1,11 @@
+---
+id: 357
+title: \'Householders\'
+author: Charlotte Mary Yonge
+date: 1856-1860
+genre: Non-fiction, natural history
+publication-format: articles in journal
+publisher: <i>Magazine for the Young</i> (January 1856-August 1860)
+---
+
+A series of articles on shells.

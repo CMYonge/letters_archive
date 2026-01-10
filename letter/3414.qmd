@@ -1,0 +1,35 @@
+---
+id: 3414
+title: To Elizabeth Harcourt Mitchell
+date: '1899-07-31'
+display-date: July 31, 1899.
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester
+to-name: To Elizabeth Harcourt Mitchell
+manuscript-location: MS location unknown.  Printed in Coleridge, <i>[[otherbook:40]Life]</i>
+  330
+---
+
+My dear [Mrs.
+
+Mitchell](/person/1007)
+Thank you for your conversation.[^1] It reminds me of what I tried to impress on some of the promoters of [Lady Margaret Hall](/organisation/6), that the Old Colleges began with training for the church the first object, and the secular work a sort of appendage, the Christian training running through.
+
+And I tried to shadow it out in that drawing of Geraldine's in the [Pillars of the House](/book/109), of the Christian School of Athens.
+
+If you happen to have the book you will see the ideal.
+
+I think the Talbots would have been glad to have such a college[^2], but times are too strong, and [Elizabeth Wordsworth](/person/1566) and [Anne Moberly](/person/1024) at [St.
+
+Hugh's](/organisation/14) do make their colleges in many respects training for the Church.
+
+Yours sincerely
+C. M.
+
+Yonge
+
+
+[^1]: ‘Education and Manners: A Trialogue’ Mothers in Council 9 (October 1899) 193-202, which describes an imaginary college for women in which ‘study [is] made subservient to religion, instead of religion being made subservient to study’.
+
+The debate was continued in the following year.
+[^2]: [Edward Stuart Talbot](/person/1691) and his wife [Lavinia](/person/2082) were prominent campaigners for women\'s education.

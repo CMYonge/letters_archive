@@ -1,0 +1,13 @@
+---
+id: 623
+full-name: The Rt. Rev. Henry John Chitty Harper
+first-name: Henry John Chitty
+last-name: Harper
+prefix: The Rt. Rev.
+title: The Rt. Rev. Henry John Chitty Harper
+dates: (1804-1893)
+---
+
+Bishop of Christchurch and primate of New Zealand
+
+[LG 1952]

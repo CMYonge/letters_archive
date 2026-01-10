@@ -1,0 +1,22 @@
+---
+id: 3600
+title: To Miss Higginbotham
+date: '1892-10-06'
+display-date: Oct 6th [1892-1898]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne
+to-name: To Miss Higginbotham
+manuscript-location: 'MS UCLA: collection 100: box 95'
+---
+
+Dear [Miss Higginbotham](/person/693)
+I think you will find the beginning of the stories in the [Castle builders](/book/18) & [Countess Kate](/book/44), which are in the hands of [Innes](/person/744), 31 Bedford Street Covent Garden.[^1]
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: The question was evidently which were the earliest of the linked stories.
+
+Innes reprinted Countess Kate in 1892 and The Castle-Builders in 1896.

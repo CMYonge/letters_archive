@@ -1,0 +1,10 @@
+---
+id: 2254
+full-name: Miss Watkins
+first-name: Miss
+last-name: Watkins
+title: Miss Watkins
+dates: —
+---
+
+friend of [Margaret Roberts](/person/1244)

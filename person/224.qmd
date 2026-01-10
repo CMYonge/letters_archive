@@ -1,0 +1,11 @@
+---
+id: 224
+full-name: The Rt. Rev. John Shaw Burdon
+first-name: John Shaw
+last-name: Burdon
+prefix: The Rt. Rev.
+title: The Rt. Rev. John Shaw Burdon
+dates: (1826–1907)
+---
+
+Bishop of Hong Kong

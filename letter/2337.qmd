@@ -1,0 +1,16 @@
+---
+id: 2337
+title: To Messrs Macmillan
+date: '1869-09-02'
+display-date: Sept 2nd [1869]
+from-name: Charlotte Mary Yonge
+from-address: Testwood
+to-name: To Messrs Macmillan
+manuscript-location: 'MS British Library Add MSS 54920: 232'
+---
+
+Miss Yonge would be much obliged if [Messrs Macmillan](/organisation/111) would send three copies of the [Heir of Redclyffe](/book/15) directed to
+[Miss Buffham](/person/2048)
+[Miss Sturges Bourne](/person/1379)’s
+Testwood
+Southampton

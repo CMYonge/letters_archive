@@ -1,0 +1,8 @@
+---
+id: 8
+reference-type: Organisation
+name: Norwich Union Insurance Company
+title: Norwich Union Insurance Company
+---
+
+Founded in 1797, the firm is now part of Aviva, see www.aviva.co.uk

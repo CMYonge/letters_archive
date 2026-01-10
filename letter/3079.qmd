@@ -1,0 +1,27 @@
+---
+id: 3079
+title: To Anna Butler
+date: '1856-02-11'
+display-date: Febry 11th [1856]
+from-name: Charlotte Mary Yonge
+from-address: Otterbourn
+to-name: To Anna Butler
+manuscript-location: MS Mrs Caroline Fairclough/6
+---
+
+My dear [Miss Butler](/person/237)
+Many thanks for your last kind letter which I fear you will not think I requite well with halving the present chapter, but it is an unusually long one, and has a good resting place in it, and I am anxious to put in a whole paper on the Colyseum,[^1] which has much interest in it. I have no doubt you will manage to make [Aunt Theresa ](/organisation/248)satisfactorily personal and not political.
+
+When people agree to differ, where there is fair room for amicable differences they do well enough. I know that sense of translating, I had it in doing [Kenneth](/book/10), all Effie’s speeches came naturally in French.
+
+Your German and Polish correspondence must be most curious, I should much like hearing it but my German has glided out of my head to a great degree, and I have quite forgotten how to read that wondrous German MS.
+
+yours sincerely
+
+C M Yonge
+Ein unnütz Leben ist ein früher Tod[^2]
+Iphigenie
+
+
+[^1]: ‘[The Colysæum’](/organisation/251) MP 11 (March 1856) 161-179.
+[^2]: Goethe, [Iphigenie auf Tauris](/periodical/72) (1787) i, 2.

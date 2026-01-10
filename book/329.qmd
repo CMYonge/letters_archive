@@ -1,0 +1,9 @@
+---
+id: 329
+title: '‘\"With All My Mind\": A Few Words on Reading.’ By C.M. Yonge'
+author: Charlotte Mary Yonge
+date: '1899'
+genre: Non-fiction
+publication-format: Article in Journal
+publisher: <i>Mothers in Council</i>. 9.33 (Jan, 1899) 51-53
+---

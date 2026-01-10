@@ -1,0 +1,11 @@
+---
+id: 1423
+full-name: Miss Katherine Tucker
+first-name: Katherine
+last-name: Tucker
+prefix: Miss
+title: Miss Katherine Tucker
+dates: —
+---
+
+inhabitant of Otterbourne in 1838

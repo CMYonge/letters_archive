@@ -1,0 +1,11 @@
+---
+id: 2433
+full-name: The Rev. Henry Wilbraham
+first-name: Henry
+last-name: Wilbraham
+prefix: The Rev.
+title: The Rev. Henry Wilbraham
+dates: (1825-1883)
+---
+
+Fellow of Trinity College, Cambridge, discoverer of the Gibbs Phenomenon in mathematics, Registrar of the Court of Chancery in Manchester, third cousin to Frances Maria Wilbraham.

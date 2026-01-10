@@ -1,0 +1,13 @@
+---
+id: 103
+title: Recollections of a Page at the Court of Louis XVI. Edited, from the French,
+  by Charlotte M. Yonge.
+author: Charlotte Mary Yonge
+date: '1873'
+genre: Edited translation
+publication-format: Edited book
+publisher: 'London : Hurst and Blackett.'
+serialization: A translation of a work by Félix, Comte de France d’Hézecques
+---
+
+Probably translated by Julian Bargus Yonge.

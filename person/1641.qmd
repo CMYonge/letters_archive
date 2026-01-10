@@ -1,0 +1,8 @@
+---
+id: 1641
+full-name: 2nd Lord Heytesbury William Ashe A\'Court
+first-name: William Ashe
+last-name: A\'Court
+title: 2nd Lord Heytesbury William Ashe A\'Court
+dates: (1809-1891)
+---

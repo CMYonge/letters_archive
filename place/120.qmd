@@ -1,0 +1,8 @@
+---
+id: 120
+reference-type: Place
+name: Slade
+title: Slade
+---
+
+Slade, near Cornwood in Devon, was the home of CMY\'s cousins the Pode family.

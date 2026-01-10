@@ -1,0 +1,17 @@
+---
+id: 2999
+title: To Elizabeth Roberts
+date: '1852-09-11'
+display-date: Sept 11th [1852]
+from-name: Charlotte Mary Yonge
+from-address: Otterbourn
+to-name: To Elizabeth Roberts
+manuscript-location: 'MS Huntington Library: Yonge Letters'
+---
+
+My dear [Madam](/person/1243),
+I send your pretty little [garland](/topic/225) for October, hoping it will find you improved in health
+
+Yours sincerely
+
+C M Yonge

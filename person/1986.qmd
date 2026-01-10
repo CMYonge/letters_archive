@@ -1,0 +1,11 @@
+---
+id: 1986
+full-name: The Rev. George Hunn Nobbs
+first-name: George Hunn
+last-name: Nobbs
+prefix: The Rev.
+title: The Rev. George Hunn Nobbs
+dates: (1799-1884)
+---
+
+chaplain to the Pitcairn community on Norfolk Island

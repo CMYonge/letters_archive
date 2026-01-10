@@ -1,0 +1,22 @@
+---
+id: 2188
+title: To Alexander Macmillan
+date: '1867-07-12'
+display-date: July 12th [1867]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54920: 185'
+---
+
+Dear [Mr Macmillan](/person/939),
+[Miss Sewell](/person/1301) tells me you are going to America.
+
+Should you go to Philadelphia, and if so would it be very troublesome to take charge of a roll of paper containing an illumination that cannot be trusted by post?[^1]
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Macmillan agreed to take the parcel to CMY’s correspondent [Miss Lewis](/person/873), of 710 Pine St., Philadelphia.

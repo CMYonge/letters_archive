@@ -1,0 +1,10 @@
+---
+id: 2207
+full-name: Napoleon Bonaparte
+first-name: Napoleon
+last-name: Bonaparte
+title: Napoleon Bonaparte
+dates: (1769-1821)
+---
+
+Emperor of France

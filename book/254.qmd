@@ -1,0 +1,9 @@
+---
+id: 254
+title: \'Real Childhood, A\' By Miss Yonge
+author: Charlotte Mary Yonge
+date: '1892'
+genre: Non-Fiction, reminiscences.
+publication-format: Article in Journal
+publisher: <i>Mothers in Council</i> 2:5 (April 1892) 87-94
+---

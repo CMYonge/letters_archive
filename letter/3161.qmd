@@ -1,0 +1,20 @@
+---
+id: 3161
+title: To an Unknown Man
+date: '1890-06-14'
+display-date: June 14th 1890
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne Winchester
+to-name: To an Unknown Man
+manuscript-location: MS Princeton University, Parrish Collection
+---
+
+Sir,
+I was born on the 11th of August 1823, in this village, and have lived here all my life being wholly educated by my parents at home.
+
+My [father](/person/1631) belonged to an old Devonshire family, and was an officer in the 52d regiment.
+I have written and published ever since about 1849 or 1850
+
+Yours truly
+
+C M Yonge

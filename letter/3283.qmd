@@ -1,0 +1,19 @@
+---
+id: 3283
+title: Charles Wooldridge to Charlotte Mary Yonge
+date: '1895-02-13'
+display-date: Feb 13 1895
+from-name: Charlotte Mary Yonge
+to-name: Charles Wooldridge to Charlotte Mary Yonge
+manuscript-location: Copy outletter book, Hampshire Record Office 70M92W/58/355
+---
+
+Dear Madam
+I beg to acknowledge the receipt of your cheque.
+I think that as your money is invested & producing interest you may as well wait until a short time before 1 April & then give your Bankers instructions to sell sufficient to produce £1000, so that it may be ready a day or two before the 1st[^1]
+I am yours faithy
+[Chas Wooldridge](/person/2094)
+Miss Yonge
+
+
+[^1]: This relates to CMY’s plan to pay off the mortgage on an insurance policy held with the Norwich Union on the life of her sister-in-law [Emma Frances Yonge](/person/1604). CMY had been paying both the interest on the mortgage and the premiums on the life policy.

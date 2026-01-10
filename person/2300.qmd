@@ -1,0 +1,10 @@
+---
+id: 2300
+full-name: Thomas Henry Huxley
+first-name: Thomas Henry
+last-name: Huxley
+title: Thomas Henry Huxley
+dates: (1825-1895)
+---
+
+scientist

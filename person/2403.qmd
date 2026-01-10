@@ -1,0 +1,11 @@
+---
+id: 2403
+full-name: The Rev. James Edward Vaux
+first-name: James Edward
+last-name: Vaux
+prefix: The Rev.
+title: The Rev. James Edward Vaux
+dates: (1828-1907)
+---
+
+author of Church Folklore (1894)

@@ -1,0 +1,11 @@
+---
+id: 962
+full-name: Captain Frederick Marryat
+first-name: Frederick
+last-name: Marryat
+prefix: Captain
+title: Captain Frederick Marryat
+dates: (1792-1848)
+---
+
+novelist, contributor to MP (1851)

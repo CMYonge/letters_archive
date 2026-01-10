@@ -1,0 +1,31 @@
+---
+id: 3213
+title: To George Lillie Craik
+date: '1892-01-25'
+display-date: Jan 25th 1892 [1893]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne
+to-name: To George Lillie Craik
+manuscript-location: 'MS British Library  Add MSS 54921: 188-9'
+---
+
+Dear [Mr Craik](/person/379)
+In a day or two you will receive from the [National Society](/organisation/32) a story of mine called [Grisly Grisell](/book/228).
+
+It was written for them, but has turned out too historical for their purpose, and as a tale was wanted to be coupled with [‘The Rubies of St Lo’](/book/234) I think it will serve the purpose.
+
+Mr [George Macmillan](/person/1946) knows all about the Rubies, which are in the Christmas number of the [Monthly Packet](/periodical/52).
+
+Grisly Grisell is a variation on Sir Gawain’s ‘Loathly Lady’[^1]
+[Miss Coleridge](/person/329) agrees to accept £100 between us for the copyright of ‘Strolling Players’.
+
+Really by far the best and most original part is hers.
+
+The idea was mine, but I did not know enough about theatricals to carry it out
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: The story of Sir Gawain and the Loathly Lady occurs in many versions of which the best known is perhaps Chaucer\'s \'Wife of Bath\'s Tale\'.

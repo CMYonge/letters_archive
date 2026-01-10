@@ -1,0 +1,10 @@
+---
+id: 1338
+full-name: M. Smith
+first-name: M.
+last-name: Smith
+title: M. Smith
+dates: —
+---
+
+contributor to MP (1898)

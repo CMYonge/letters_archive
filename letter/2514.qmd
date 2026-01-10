@@ -1,0 +1,27 @@
+---
+id: 2514
+title: To Edward Augustus Freeman
+date: '1874-10-07'
+display-date: Oct 7th 1874
+from-name: Charlotte Mary Yonge
+from-address: Elderfield
+to-name: To Edward Augustus Freeman
+manuscript-location: MS John Rylands Library, Manchester, FA1/7/836
+---
+
+My dear [Mr Freeman](/person/523),
+I think I was misled by the love of Vercingetorix, also of Sidonius Apollinarius whom I have admired ever since I met with him in Guizot, but I think I had better make a fresh start leaving all the Romans and Franks to be read in your history and starting with the Counts of Paris for my thread, and only making a short resumé to shew what material they came in upon.[^1] I am glad enough to be released from all the muddle of the later Karlings, though I don’t know but that the Eudeses and Roberts are not as bad.
+
+In fact I rather think I will begin at once with Hugh Capet and then go back and put on a beginning. I find [Miss Sewell](/person/1301) has finished a history of France to the end of Louis XIV. I expect it is much more detailed than this will be. I do not think I realized that Aquitaine was so entirely Iberian + Roman. I thought the Iberians had all gone up into the Pyrenees, and turned into Basques, and your note that Massalia was Roman puzzled me, for I thought it was a Greek colony before Rome stretched out into Gaul, and that the people looked Greek still, though I confess this last is rather on the authority of the Château d’If.[^2] But I am very glad to leave all that behind. I will as I say start with Hugh, and do what has to precede him according as I find it necessary for the right understanding of matters. I hope there will be something better worth having by the time you return.
+
+My uncle has a wondrous old book with prints of all the Roman Emperors from Augustus to (I think) Charles VI (Maria Theresa’s father) they go on with Byzantine ones till Karl the Great, who is a magnificent barbaric head. I wonder if they came from the gallery at Triers, they all have strong individuality.
+
+We are half drowned here. I hope the weather does not pursue you.
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: This letter refers to the [History of France](/book/99) which CMY was preparing for Freeman\'s \'Historical Course for Schools\' series, and which was finally published in 1879.
+[^2]: An English translation by Emma Hardy of part of Alexandre Dumas, Le Comte de Monte Cristo (1844-5) appeared in 1846 under the title The Chateau D\'If.

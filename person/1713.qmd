@@ -1,0 +1,13 @@
+---
+id: 1713
+full-name: The Rev. Sir George Prevost
+first-name: George
+last-name: Prevost
+prefix: The Rev. Sir
+title: The Rev. Sir George Prevost
+dates: (1804-1893)
+---
+
+curate of Stinchcombe, Glos..
+
+He married (1828) Jane Williams, sister of Isaac Williams.

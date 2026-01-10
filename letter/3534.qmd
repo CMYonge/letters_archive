@@ -1,0 +1,20 @@
+---
+id: 3534
+title: To an Unknown Woman
+date: '1881-10-19'
+display-date: Oct 19th [before 1881][[footnote:1]]
+from-name: Charlotte Mary Yonge
+from-address: “Monthly Packet” 6, Paternoster Row, London, E.C.
+to-name: To an Unknown Woman
+manuscript-location: MS Princeton University, Parrish Collection
+---
+
+Dear Madam
+I am much obliged by your paper on Clothes for the poor, and would willingly put it in at once, but I am afraid that the great want of space will delay it and also the payment for it for some time[^1]
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: This letter should date from before Walter Smith’s move from Paternoster Row in 1881.

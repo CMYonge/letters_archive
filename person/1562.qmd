@@ -1,0 +1,11 @@
+---
+id: 1562
+full-name: The Rev. George Ley Woollcombe
+first-name: George Ley
+last-name: Woollcombe
+prefix: The Rev.
+title: The Rev. George Ley Woollcombe
+dates: (1828-1902)
+---
+
+brother of William, Richard and Robert Woollcombe

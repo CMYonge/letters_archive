@@ -1,0 +1,21 @@
+---
+id: 2351
+title: To Elizabeth Missing Sewell
+date: '1869-11-05'
+display-date: Nov 5th [1869]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester
+to-name: To Elizabeth Missing Sewell
+manuscript-location: MS Princeton University, Parrish Collection, CO171
+---
+
+My dear [Miss Sewell](/person/1301),
+I shall be very glad to see you on the 2nd and hope we shall do a great deal of business together[^2]
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Black-edged paper.
+[^2]: CMY had written to Macmillan on September 30th: \'I believe the [second part](/book/82) of Historical Selections is almost ready.\'

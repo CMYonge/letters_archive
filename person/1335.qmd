@@ -1,0 +1,10 @@
+---
+id: 1335
+full-name: Elizabeth Smith
+first-name: Elizabeth
+last-name: Smith
+title: Elizabeth Smith
+dates: —
+---
+
+contributor to MP (1851)

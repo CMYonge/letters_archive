@@ -1,0 +1,13 @@
+---
+id: 972
+full-name: Sir William Martin
+first-name: William
+last-name: Martin
+prefix: Sir
+title: Sir William Martin
+dates: (1807-1880)
+---
+
+Chief Justice of New Zealand
+
+He married Mary Ann Parker. [DNZB]

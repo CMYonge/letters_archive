@@ -1,0 +1,10 @@
+---
+id: 180
+title: Higher Reading-Book for Schools, Colleges and General Use. Edited with introduction
+  and notes by Charlotte M. Yonge.
+author: Charlotte Mary Yonge
+date: '1885'
+genre: 'Non-fiction: edited selection'
+publication-format: Edited book
+publisher: National Society’s Depository, Broad Sanctuary, London.
+---

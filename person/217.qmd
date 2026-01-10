@@ -1,0 +1,10 @@
+---
+id: 217
+full-name: George Buchanan
+first-name: George
+last-name: Buchanan
+title: George Buchanan
+dates: (1506-1582)
+---
+
+neolatin poet, contributor to MP (1873)

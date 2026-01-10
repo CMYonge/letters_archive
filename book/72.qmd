@@ -1,0 +1,13 @@
+---
+id: 72
+title: Pupils of St. John the Divine, The By the author of “The Heir of Redclyffe.”
+author: Charlotte Mary Yonge
+date: '1868'
+genre: 'Non-fiction: history'
+publication-format: Book
+publisher: 'London and New York: Macmillan and Company.'
+serialization: Macmillan\'s Sunday Library
+illustrator: Edward Armitage
+---
+
+Macmillan’s Sunday Library (originally the Sunday Library for Household Reading) was published in monthly parts at 1s. each (of which the Pupils formed the first 3 parts) and quarterly volumes at 4s. each (of which it formed volume I).

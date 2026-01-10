@@ -1,0 +1,11 @@
+---
+id: 1823
+full-name: The Rev. Alfred Gatty
+first-name: Alfred
+last-name: Gatty
+prefix: The Rev.
+title: The Rev. Alfred Gatty
+dates: (1813-1903)
+---
+
+Vicar of Ecclesfield, husband of Margaret Gatty and father of Juliana Horatia Ewing

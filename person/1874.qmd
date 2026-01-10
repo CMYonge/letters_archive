@@ -1,0 +1,10 @@
+---
+id: 1874
+full-name: 1st Lord Tennyson Alfred Tennyson
+first-name: Alfred
+last-name: Tennyson
+title: 1st Lord Tennyson Alfred Tennyson
+dates: (1809-1892)
+---
+
+poet

@@ -1,0 +1,10 @@
+---
+id: 2398
+full-name: Susan Smedes
+first-name: Susan
+last-name: Smedes
+title: Susan Smedes
+dates: (1840-1913)
+---
+
+author of Memorials of a Southern Planter

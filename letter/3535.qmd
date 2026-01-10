@@ -1,0 +1,26 @@
+---
+id: 3535
+title: To Jane Mary Smith-Dampier
+display-date: Decr 19 [[footnote:1]]
+from-name: Charlotte Mary Yonge
+to-name: To Jane Mary Smith-Dampier
+manuscript-location: MS Princeton University, Parrish Collection
+---
+
+Dear [Mrs Dampier](/person/1345)
+All good thanks and wishes.
+
+Happy you.
+
+Poor [Mrs Jones Bateman](/person/784).
+
+Lloyd is rejoicing to go.
+
+She is gone from home unable to stay alone
+
+Yours affectionately
+
+C M Yonge
+
+
+[^1]: The letter presumably dates from after the arrival of the Jones-Batemans in Otterbourne in the 1870s.

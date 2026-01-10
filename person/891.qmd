@@ -1,0 +1,11 @@
+---
+id: 891
+full-name: His Grace Charles Thomas Longley
+first-name: Charles Thomas
+last-name: Longley
+prefix: His Grace
+title: His Grace Charles Thomas Longley
+dates: (1794-1868)
+---
+
+Archbishop of Canterbury

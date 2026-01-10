@@ -1,0 +1,13 @@
+---
+id: 344
+full-name: Sir John Taylor Coleridge
+first-name: John Taylor
+last-name: Coleridge
+prefix: Sir
+title: Sir John Taylor Coleridge
+dates: (1790-11 Feb 1876)
+---
+
+judge, cousin of CMY
+
+He married (1818) Mary Buchanan. [ODNB]

@@ -1,0 +1,11 @@
+---
+id: 2215
+full-name: The Rev. Alfred Charles Lowth
+first-name: Alfred Charles
+last-name: Lowth
+prefix: The Rev.
+title: The Rev. Alfred Charles Lowth
+dates: (1857-1926)
+---
+
+incumbent of Colden Common

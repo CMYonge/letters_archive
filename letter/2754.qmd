@@ -1,0 +1,21 @@
+---
+id: 2754
+title: To George Lillie Craik
+date: '1882-06-21'
+display-date: June 21st 1882
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To George Lillie Craik
+manuscript-location: 'MS British Library Add MSS 54921: 113'
+---
+
+Dear [Mr Craik](/person/379)
+I shall be happy to accept the terms you propose for the American Edition of my books. I hope they will spell their names better than in an advertisement I saw the other day of Ps and Os- and the Blest Woman of the Family- besides other pleasing inaccuracies[^2]
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: Endorsed ‘See letter of Mr Craik to Miss Yonge June 1820 1882 xlii Letter Book Folio 352’.
+[^2]: Her novels [P\'s and Q\'s, or, The Question of Putting Upon](/book/95) (1872) and [The Clever Woman of the Family](/book/58) (1865).

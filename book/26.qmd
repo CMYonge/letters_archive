@@ -1,0 +1,11 @@
+---
+id: 26
+title: Leonard the Lion-Heart
+author: Charlotte Mary Yonge
+date: '1856'
+genre: Fiction (modern)
+publication-format: Booklet
+publisher: John and Charles Mozley, 6, Paternoster Row, London; Masters and Co., 78,
+  New Bond Street, London
+serialization: Serialized in the <i>Magazine for the Young</i>, March to June 1856
+---

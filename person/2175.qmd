@@ -1,0 +1,11 @@
+---
+id: 2175
+full-name: The Rev. Geoffrey Barrington Simeon
+first-name: Geoffrey Barrington
+last-name: Simeon
+prefix: The Rev.
+title: The Rev. Geoffrey Barrington Simeon
+dates: (1848-1906)
+---
+
+third son of Captain [Charles Simeon](/person/1322)

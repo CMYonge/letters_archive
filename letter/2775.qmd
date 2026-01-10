@@ -1,0 +1,24 @@
+---
+id: 2775
+title: To Lady Sophia Matilda Palmer
+date: '1883-07-11'
+display-date: July 11th, 1883
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Lady Sophia Matilda Palmer
+manuscript-location: MS Princeton University, Parrish Collection
+---
+
+My dear [Lady Sophia](/person/1133)[^1]
+Pray tell [Sir Arthur Gordon](/person/568) that I shall be very grateful for his Christmas papers.[^2]
+We are preparing for a huge [G F S](/organisation/23) festival at [St Cross](/organisation/130), and watching the clouds with alarm
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Lady Sophia Palmer (1852-1915), was the daughter of Lord Selborne, who had been raised to an earldom on 29 December 1882.
+[^2]: The Hon.
+
+Sir Arthur Gordon (1829-1912), created (1893) Lord Stanmore, moved in 1883 from being Governor-General of New Zealand to being Governor-General of Ceylon.

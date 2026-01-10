@@ -1,0 +1,25 @@
+---
+id: 3518
+title: To Elizabeth Barnett
+date: '1857-01-01'
+display-date: '[1857[[footnote:1]]]'
+from-name: Charlotte Mary Yonge
+to-name: To Elizabeth Barnett
+manuscript-location: MS location unknown.  This fragment printed in Romanes, <i>[[otherbook:241]Appreciation]</i>
+  p. 83.
+---
+
+[To [Elizabeth Barnett](/person/113) The folk here, are quite on my side about ‘Debonnaire.’ In the first place, the King was so called as synonymous with Pious, according to Sismondi, and the proper original meaning of this word seems to have been ‘gracious,’ in which sense it is constantly applied to the best of the knights.
+
+Modern French has debased it, and given it of late the sense of weakness....
+
+In English it decidedly means graceful. . .
+
+Johnson calls it elegant, civil, wellbred, and no doubt it was such in the chivalrous vocabulary.
+
+Now, this was just what I wanted; if it had no foolish sense it would be flattery. . .
+
+
+[^1]: Romanes associates this letter with the publication of [Dynevor Terrace](/book/27) (1857), whose hero, Louis, is nicknamed after King Louis (778-840), of France.
+
+There was a discussion of Louis le Debonnaire’s sobriquet in the article ‘Preparation of Prayer Book Lessons’ [MP](/periodical/52) (1 March 1887) 271.

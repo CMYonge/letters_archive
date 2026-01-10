@@ -1,0 +1,8 @@
+---
+id: 1831
+full-name: Countess of Hertford Frances Seymour
+first-name: Frances
+last-name: Seymour
+title: Countess of Hertford Frances Seymour
+dates: (1699-1754)
+---

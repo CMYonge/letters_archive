@@ -1,0 +1,13 @@
+---
+id: 879
+full-name: The Rev. Dr. John Prideaux Lightfoot
+first-name: John Prideaux
+last-name: Lightfoot
+prefix: The Rev. Dr.
+title: The Rev. Dr. John Prideaux Lightfoot
+dates: (1802/3-23 March 1887)
+---
+
+Rector of Exeter College Oxford from 1854
+
+[Alumni Oxonienses; Oxford University Calendar 1877]

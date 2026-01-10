@@ -1,0 +1,21 @@
+---
+id: 2697
+title: To Linda Mary Villari
+date: '1880-01-01'
+display-date: Jany 1st [1880]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Linda Mary Villari
+manuscript-location: 'MS Bodleian Library, Oxford: Eng. lett. d. 495 f108'
+---
+
+Dear [Madam](/person/1444)
+Would you be so kind, in returning the proofs of ‘the angel of Viareggio’ as to address them direct to the printer
+Messrs [Clay](/organisation/173) & Taylor
+Bread Street Hill
+London EC
+If they are addressed to the Editor, they remain at the office till a parcel is sent to me, and so we get them too late to profit by your corrections
+
+Yours truly
+
+C M Yonge

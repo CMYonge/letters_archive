@@ -1,0 +1,12 @@
+---
+id: 135
+title: 'Bye-words: A Collection of Tales Old and New.'
+author: Charlotte Mary Yonge
+date: '1880'
+genre: Fiction
+publication-format: Book
+publisher: 'London and New York: Macmillan and Company.'
+serialization: Collected from various sources.
+---
+
+The stories included were ‘The Boy Bishop’ (first publishedin MP Christmas 1878, 620-624); ‘One will and three ways’ (MP Christmas 1877) 124-8; ‘Kaspar\'s summer dream’ (MP Christmas 1876, 16-34); ‘Buy a Broom’; ‘The Travels of Two Kits’; Selma\'s secret sighs’ (published under the pseudonym \'Euphemia Arrowsmith\' in MP Christmas 1874, 97-108); ‘Our ghost at Fantford; ‘Anna\'s Wedding Cake’; ‘Autobiography of Patty Applecheeks’; and ‘A Holiday Engagement; or, The Campbells are Coming’

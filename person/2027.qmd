@@ -1,0 +1,11 @@
+---
+id: 2027
+full-name: The Rt. Rev. William Kenneth Macrorie
+first-name: William Kenneth
+last-name: Macrorie
+prefix: The Rt. Rev.
+title: The Rt. Rev. William Kenneth Macrorie
+dates: (1831-1905)
+---
+
+Bishop of Maritzburg

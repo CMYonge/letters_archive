@@ -1,0 +1,10 @@
+---
+id: 826
+full-name: Paul Kruger
+first-name: Paul
+last-name: Kruger
+title: Paul Kruger
+dates: (1825-1904)
+---
+
+Boer politician

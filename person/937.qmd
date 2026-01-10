@@ -1,0 +1,13 @@
+---
+id: 937
+full-name: The Rev. George Frederick Maclear
+first-name: George Frederick
+last-name: Maclear
+prefix: The Rev.
+title: The Rev. George Frederick Maclear
+dates: (1833-1902)
+---
+
+writer on missionary history
+
+He was author of A History of Christian Missions during the Middle Ages  (Cambridge, Macmillan 1863) [ODNB]

@@ -1,0 +1,13 @@
+---
+id: 57
+title: Biographies of Good Women, chiefly by contributors to ‘The Monthly Packet’.
+  Second series. Edited by the author of “The Heir of Redclyffe.”
+author: Charlotte Mary Yonge
+date: '1865'
+genre: 'Non-fiction: biography'
+publication-format: Contributions to collection, edited collection
+publisher: John and Charles Mozley, 6, Paternoster Row, London. Masters and Co., 78,
+  New Bond Street, London.
+serialization: The biographies of Mrs Trimmer, Hannah More, The Five Sisters of Noailles,
+  and Sarah Martin are “B
+---

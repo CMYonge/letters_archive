@@ -1,0 +1,12 @@
+---
+id: 163
+title: Langley Adventures. By Charlotte M. Yonge, author of “Langley School”
+author: Charlotte Mary Yonge
+date: '1883'
+genre: 'Fiction:'
+publication-format: Book
+publisher: Walter Smith (late Mozley), 34, King Street, Covent Garden, London.
+serialization: ‘Burrs’ seems to have been published slightly earlier in a parish magazine.
+---
+
+Contains: ‘A Patchwork fever’; ‘Widow Wilder’s Windfall’; ‘Burrs’; ‘Left Out’; and ‘Horse Sausage’.

@@ -1,0 +1,21 @@
+---
+id: 2626
+title: To George Lillie Craik
+date: '1878-04-01'
+display-date: April 3d 1878
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To George Lillie Craik
+manuscript-location: 'MS British Library Add MSS 54921: 60'
+---
+
+Dear [Mr Craik](/person/379)
+Should not the title be ['The Story of the Moors and Christians in Spain'](/book/126) A Story looks as if it were fiction
+
+Yours truly
+
+C M Yonge		
+I shall send the proof tomorrow
+
+
+[^1]: Black-edged paper.

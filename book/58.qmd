@@ -1,0 +1,11 @@
+---
+id: 58
+title: Clever Woman of the Family, The. 2 vols. By the author of “The Heir of Redclyffe.”
+author: Charlotte Mary Yonge
+date: '1865'
+genre: Fiction (modern)
+publication-format: Book
+publisher: 'London and Cambridge: Macmillan and Company'
+serialization: Serialised in<i> Churchman’s Family Magazine</i>, Jan 1864 to April
+  1865
+---

@@ -1,0 +1,31 @@
+---
+id: 2842
+title: To Mary Louisa Molesworth
+date: '1886-10-08'
+display-date: Oct 8th 1886
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Mary Louisa Molesworth
+manuscript-location: MS Princeton University, Parrish Collection
+---
+
+Dear [Mrs Molesworth](/person/1028)
+I think Felix can go into the December number as my [Ulysses](/book/185) finishes in November, and there will be the space it leaves, before another begins[^1] I have tried to keep down the serials this year to leave more room for selfcontained articles but it is very difficult.
+I will do my best to notice your books if I see them, but I cannot always mention a book as a matter of course because I am very anxious to keep to notices in the [Packet](/periodical/52) of books for a definite purpose.
+
+Of all your books I liked best one of the Summer stories, but I have been witheld [sic] from giving it to children by the eeriness of the Ghost, and I must own myself to be not very fond of the dreamy semi fairy tale nor of [Walter Crane](/person/2366)’s drawings[^2]
+But I do like a charge fulfilled - and also the live children lost in Paris and the gypsy pair.
+
+But do you think children like phonetic spellings of their lispings?
+
+It seems to me to make their reading more difficult
+Pray forgive me
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Mary Louisa Molesworth, ‘Felix, an outcast. (From the French of Madame de Pressense.) MP 3s 12 (December 1886), 568-580.
+
+In the event, \'A Modern Quest of Ulysses\' did continue into the December number, but they made room for \'Felix\' anyway.

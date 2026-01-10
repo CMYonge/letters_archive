@@ -1,0 +1,13 @@
+---
+id: 1512
+full-name: The Rt. Rev. Samuel Wilberforce
+first-name: Samuel
+last-name: Wilberforce
+prefix: The Rt. Rev.
+title: The Rt. Rev. Samuel Wilberforce
+dates: (1805-1873)
+---
+
+Bishop of Winchester
+
+He married (1828) Emily Sargent (1807-1841); he served as Bishop of Oxford from December 1845 and, Bishop of Winchester from 1869 to his death [ODNB]

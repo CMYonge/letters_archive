@@ -1,0 +1,11 @@
+---
+id: 1680
+full-name: The Rev. Edward Steward
+first-name: Edward
+last-name: Steward
+prefix: The Rev.
+title: The Rev. Edward Steward
+dates: —
+---
+
+Principal of the Sarum Training College from 1889

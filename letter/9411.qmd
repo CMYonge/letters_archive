@@ -1,0 +1,27 @@
+---
+id: 9411
+title: To Horatia Sophia Elder
+date: '1865-01-17'
+display-date: Jany 17th 1865
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Horatia Sophia Elder
+manuscript-location: MS Houghton Library, Harvard University,  Eng 1635 (20)
+---
+
+Dear [Madam](/person/471)
+I enclose the proofs of your sonnets, which I should be obliged if you would forward the ensuing ones direct to me, I should be glad of those for the March number if you could kindly send them at once to my address as above
+
+yours faithfully
+
+C M Yonge
+
+[on reverse]
+Messrs [Mozley](/organisation/108)[^1]
+Friar Gate
+Derby
+
+
+[^1]: The cataloguer has assumed that this is the addressee, and described it as a letter to a \'Miss Moseley\', but the word seems clearly to be \'Messrs\'.
+
+The author was the sister of [Margaret Gatty](/person/549) to whom there is another letter referring to these sonnets, and also talking about where they should be sent to.

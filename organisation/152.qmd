@@ -1,0 +1,8 @@
+---
+id: 152
+reference-type: Organisation
+name: Parker and Son
+title: Parker and Son
+---
+
+later Parker, Son and Bourn, publishers

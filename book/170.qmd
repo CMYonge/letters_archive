@@ -1,0 +1,14 @@
+---
+id: 170
+title: 'Stray Pearls: Memoirs of Margaret de Ribaumont, Viscountess of Bellaise. 2
+  vols'
+author: Charlotte Mary Yonge
+date: '1883'
+genre: Fiction (historical)
+publication-format: Book
+publisher: 'London and New York: Macmillan and Company.'
+serialization: Serialized in<i> MP</i> Jan 1881-May 1883
+illustrator: Illustrated by W.J. Hennessy.
+---
+
+This is a sequel to The Chaplet of Pearls.

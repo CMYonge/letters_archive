@@ -1,0 +1,8 @@
+---
+id: 31
+reference-type: Organisation
+name: Mothers’ Union, The
+title: Mothers’ Union, The
+---
+
+This was founded by Mary Elizabeth Sumner in 1885. CMY became the first editor of Mothers in Council, the journal aimed at the upper-class ladies who supported it.

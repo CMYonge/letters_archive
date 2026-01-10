@@ -1,0 +1,14 @@
+---
+id: 84
+title: Population of an Old Pear Tree, or, Stories of Insect Life, The From the French
+  of Ernest van Bruyssel. Edited by the author of “The Heir of Redclyffe”.
+author: Charlotte Mary Yonge
+date: '1870'
+genre: Edited translation
+publication-format: Edited book
+publisher: 'London and New York: Macmillan and Company.'
+---
+
+These translations \'edited\' by CMY were not translated by her, but she corrected the text.
+
+This was almost certainly translated by Julian Bargus Yonge; see the letters to Alexander Macmillan dated

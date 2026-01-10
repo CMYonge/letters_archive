@@ -1,0 +1,10 @@
+---
+id: 1940
+full-name: Henry Kingsley
+first-name: Henry
+last-name: Kingsley
+title: Henry Kingsley
+dates: (1830-1876)
+---
+
+novelist, brother of Charles Kingsley

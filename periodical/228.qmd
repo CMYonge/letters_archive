@@ -1,0 +1,6 @@
+---
+id: 228
+reference-type: Periodical
+name: <i>Lincoln Diocesan Magazine, The</i>
+title: <i>Lincoln Diocesan Magazine, The</i>
+---

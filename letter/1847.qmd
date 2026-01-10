@@ -1,0 +1,22 @@
+---
+id: 1847
+title: To Edith Emma Butler?
+date: '1861-01-01'
+display-date: '[1861]'
+from-name: Charlotte Mary Yonge
+to-name: To Edith Emma Butler?
+manuscript-location: MS location unknown. Printed in Romanes, <i>[[otherbook:241]Appreciation]</i>
+  pp. 97
+---
+
+[To a daughter of the Rev. W. J.
+
+Butler.][^1]A sort of notion of locating [a story](/book/53) at Market Stoneborough had made us look up the [Mays](/book/24) and find out what they are doing now.[^2]
+Blanche and Hector are just married, and Aubrey, having proved too delicate for Eton, is Ethel’s faithful pupil still, and Flora’s house is very well managed, but so stupid, and Mary is married to a clergyman.
+I have changed the cart accident into Dickie tumbling off the Minster tower on the roof, when he slid down on a skylight and stuck, till Leonard got him down and stopped the bleeding from a terrible cut in the leg.
+
+
+[^1]: Romanes identifies the recipient only as \'a daughter of Dean Butler\'.
+
+The possible candidates are [Grace Harriet Butler](/person/594), [Edith Emma Butler](/person/822) and [Mary Avice Butler](/person/242).
+[^2]: The Trial: More Links of the Daisy Chain began to be serialized in MP in January 1862.

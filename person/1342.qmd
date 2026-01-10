@@ -1,0 +1,10 @@
+---
+id: 1342
+full-name: W. Smith
+first-name: W.
+last-name: Smith
+title: W. Smith
+dates: —
+---
+
+contributor to MP (1867)

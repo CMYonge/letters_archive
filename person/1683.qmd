@@ -1,0 +1,11 @@
+---
+id: 1683
+full-name: The Rev. Canon Donald John Mackey
+first-name: Donald John
+last-name: Mackey
+prefix: The Rev. Canon
+title: The Rev. Canon Donald John Mackey
+dates: —
+---
+
+writer and clergyman of the Episcopal Church of Scotland

@@ -1,0 +1,24 @@
+---
+id: 3101
+title: To Anna Butler
+date: '1857-06-13'
+display-date: June 13th 1857
+from-name: Charlotte Mary Yonge
+from-address: Otterbourne, Winchester
+to-name: To Anna Butler
+manuscript-location: MS University of Delaware Library, Newark, Delaware, F295
+---
+
+My dear [Miss Butler](/person/237),
+Two lines to say that here I am at home, & shall be delighted to have [Likes & Dislikes](/organisation/248) if they are ready. I go to [Dogd](/place/121) on Monday week, but if I could have them in the interval, I should be glad.
+
+But I am afraid it is of no use to try for two chapters in [one number](/periodical/52) I am engaged to so much, I have been reading Peothès[^1] in English and delighting in him.
+
+In great haste
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: The librarian confirms that the word looks like Peothes, but no explanation can be offered.

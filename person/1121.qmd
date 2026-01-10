@@ -1,0 +1,13 @@
+---
+id: 1121
+full-name: Sir George Paget
+first-name: George
+last-name: Paget
+prefix: Sir
+title: Sir George Paget
+dates: (1809-1892)
+---
+
+physician
+
+Mentioned tending Sir William Heathcote in 1868.

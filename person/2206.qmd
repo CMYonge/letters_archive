@@ -1,0 +1,10 @@
+---
+id: 2206
+full-name: William Mulready
+first-name: William
+last-name: Mulready
+title: William Mulready
+dates: (1786-1863)
+---
+
+painter

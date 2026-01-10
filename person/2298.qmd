@@ -1,0 +1,8 @@
+---
+id: 2298
+full-name: Robert Pearsall Smith
+first-name: Robert Pearsall
+last-name: Smith
+title: Robert Pearsall Smith
+dates: (1827-1898)
+---

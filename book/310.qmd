@@ -1,0 +1,14 @@
+---
+id: 310
+title: \'Books for Young People\'
+author: Charlotte Mary Yonge
+date: '1887'
+genre: Non-fiction
+publication-format: Article in Journal
+publisher: <i>Girls\' Friendly Society Associates\' Journal and Advertiser</i> (June
+  1887) 75
+---
+
+The article is signed C.M.
+
+Yonge.

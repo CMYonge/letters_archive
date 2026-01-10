@@ -1,0 +1,22 @@
+---
+id: 3051
+title: To John William Parker, Jr.
+date: '1854-07-19'
+display-date: July 19th [1854]
+from-name: Charlotte Mary Yonge
+from-address: Otterbourne
+to-name: To John William Parker, Jr.
+manuscript-location: 'MS Historical Society of Pennsylvania: Gratz Collection: Case
+  10, Box 36. British Authors. Printed by Green, [[otherbook:75]\''Two Popular Novelists\''].'
+---
+
+Dear [Sir](/person/1143)
+I am much obliged by your sending me the account of ‘[The Little Duke](/book/20)’ and the accompanying [£100](/topic/160). I should be glad if, in sufficient time beforehand, you would be kind enough to tell me your opinion with regard to a second edition, and whether it would be advisable to renew it in the present form, or to have one much smaller and cheaper.
+
+I have also to thank you for ‘[The Plurality of Worlds](/organisation/179)’, I had seen the first edition of that remarkable book but I am very glad to possess this with the additional matter at the commencement.
+
+I suppose 400 pages will not make the volumes too large. I do not know whether the printer has taken into account that most of the latter part of the M S is written less closely than the earlier portions
+
+Yours faithfully
+
+C M Yonge

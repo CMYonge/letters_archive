@@ -1,0 +1,13 @@
+---
+id: 1100
+full-name: General John Oldfield
+first-name: John
+last-name: Oldfield
+prefix: General
+title: General John Oldfield
+dates: (1789-2 August 1863)
+---
+
+army officer
+
+He married, thirdly (12 March 1849), at Plymouth, Cordelia Anne Duke Yonge. [ODNB]

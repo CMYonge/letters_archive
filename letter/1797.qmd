@@ -1,0 +1,24 @@
+---
+id: 1797
+title: To Sir John Patteson
+date: '1860-07-13'
+display-date: July 13th 1860
+from-name: Charlotte Mary Yonge
+to-name: To Sir John Patteson
+manuscript-location: MS NLS 966 f.373
+---
+
+My dear [Sir John](/person/1156),
+I must thank you for the great pleasure you have given me by the tidings of this morning.
+
+It is the point to which we have so long worked forward that it seems as if a goal were attained though that goal be only the starting point for a severer race
+It will be very remarkable if [your Son](/person/1155)’s Consecration and that of [Archdeacon Mackenzie](/person/929) both the foremost truly Missionary Bishops should take place at the same Christmas.[^1]
+How exactly [Bishop Selwyn](/person/1295) will have fulfilled the seven years for which he undertook to continue his care of the islands, and how happy he must be in giving them up into hands so trained for the charge.
+
+With many thanks for so kindly letting me share, when I can hardly call your joy it is so much higher and deeper
+yours very sincerely
+
+C M Yonge
+
+
+[^1]: Mackenzie was consecrated bishop of Central Africa in Cape Town Cathedral on 1 January 1861, and Patteson was consecrated missionary bishop of the western islands of the South Pacific Ocean on 24 February 1861.

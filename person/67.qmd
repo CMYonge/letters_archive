@@ -1,0 +1,10 @@
+---
+id: 67
+full-name: Miss Ashington
+last-name: Ashington
+prefix: Miss
+title: Miss Ashington
+dates: (fl. 30 September 1844)
+---
+
+mentioned (30 Sept 1844) as a reader of Abbeychurch, unknown to CMY

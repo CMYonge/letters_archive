@@ -1,0 +1,8 @@
+---
+id: 1869
+full-name: Mary Martha Sherwood
+first-name: Mary Martha
+last-name: Sherwood
+title: Mary Martha Sherwood
+dates: (1775-1851)
+---

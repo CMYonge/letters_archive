@@ -1,0 +1,23 @@
+---
+id: 2452
+title: To William Garrett Horder
+date: '1877-07-28'
+display-date: July 28th [1877]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne
+to-name: To William Garrett Horder
+manuscript-location: MS Harry Ransom Humanities Research Center, University of Texas,
+  Austin
+---
+
+[Sir](/person/712)
+[The Child’s Christian Year](/organisation/186) is a compilation of many different poems by numerous authors
+
+yours truly
+
+C M Yonge
+
+
+[^1]: William Garrett Horder was the compiler of a large number of hymnals from the late 1870s onwards, so that it is hard to identify the particular book referred to in these three letters.
+
+It could however be The Book of Praise for Children (1878).

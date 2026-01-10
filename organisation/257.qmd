@@ -1,0 +1,8 @@
+---
+id: 257
+reference-type: Organisation
+name: Royal Literary Fund, The
+title: Royal Literary Fund, The
+---
+
+A charitable fund for published authors and their dependents in financial need, founded in 1790.

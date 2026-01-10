@@ -1,0 +1,11 @@
+---
+id: 237
+title: Long Vacation, The
+author: Charlotte Mary Yonge
+date: '1895'
+genre: Fiction (modern)
+publication-format: Book
+publisher: 'London and New York: Macmillan and Company.'
+---
+
+This includes characters from Scenes and Characters, The Pillars of the House, The Two Sides of the Shield and Beechcroft at Rockstone.

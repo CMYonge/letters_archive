@@ -1,0 +1,10 @@
+---
+id: 153
+title: Whispers of Love and Wisdom. Collected and arranged by Annie Cazenove; with
+  a preface by C.M. Yonge.
+author: Charlotte Mary Yonge
+date: '1882'
+genre: 'Non-fiction: critical preface'
+publication-format: Preface to book
+publisher: Griffith and Farran, London.
+---

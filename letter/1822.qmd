@@ -1,0 +1,23 @@
+---
+id: 1822
+title: To Ann Maria Carter Smith
+date: '1861-03-06'
+display-date: March 6th 1861
+from-name: Charlotte Mary Yonge
+from-address: Otterbourne, Winchester.
+to-name: To Ann Maria Carter Smith
+manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1861/4
+---
+
+My dear [Miss Smith](/person/263),
+I send the papers about [Sandwell](/organisation/12), and a back number of the [M P](/periodical/52), which please return. I have scarcely heard anything about the institution since I received this account from [Miss Goodrich](/person/567) so my knowledge of it is two years old[^2]
+
+yours sincerely
+
+C M Yonge
+
+
+[^1]: Envelope addressed to Miss Ann Smith/ Rectory/ Old Charlton/ SE and postmarked Winchester (date torn) and London SE 7 March 1861.
+[^2]: This letter identifies the A.M.G. who published \'Sandwell\' in MP (March 1859) 330-334, as Miss A. M.
+
+Goodrich.

@@ -1,0 +1,8 @@
+---
+id: 258
+reference-type: Organisation
+name: George Routledge & Sons
+title: George Routledge & Sons
+---
+
+Publisher

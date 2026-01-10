@@ -1,0 +1,10 @@
+---
+id: 2420
+full-name: Maximilien de Robespierre
+first-name: Maximilien de
+last-name: Robespierre
+title: Maximilien de Robespierre
+dates: (1758-1794)
+---
+
+French statesman

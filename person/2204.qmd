@@ -1,0 +1,11 @@
+---
+id: 2204
+full-name: General Sir William Forbes Gatacre
+first-name: William Forbes
+last-name: Gatacre
+prefix: General Sir
+title: General Sir William Forbes Gatacre
+dates: (1843-1906)
+---
+
+army officer

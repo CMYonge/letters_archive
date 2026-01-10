@@ -1,0 +1,24 @@
+---
+id: 2253
+title: To Elizabeth Missing Sewell
+date: '1868-06-13'
+display-date: June 13th [1868]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Elizabeth Missing Sewell
+manuscript-location: 'MS Princeton University, Parrish Collection, CO171: Box 29'
+---
+
+My dear [Miss Sewell](/person/1301),
+I was so hurried that I could not go to [Macmillan](/person/939) yesterday so I am writing.
+I have done the notes[^1] - the Joyeuse Garde beats both [Mary Coleridge](/person/351) and me, we both thought it a real castle on the Seine - and never heard of its being an Order.
+
+Michaud’s [Histoire de Croisades](/organisation/116) has almost exactly the same about Simeon & his persecutions as Milman, and I dont know where to find more - in fact I think Milman copied him
+Roman must be Norman
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: These were the notes to the anthology of historical writing [Historical Selections](/book/71) which they had jointly compiled.

@@ -1,0 +1,27 @@
+---
+id: 3065
+title: From the Reverend John Keble to Charlotte Mary Yonge
+date: '1855-05-11'
+display-date: 11th May, 1855.
+from-name: Charlotte Mary Yonge
+from-address: H.V.,
+to-name: From the Reverend John Keble to Charlotte Mary Yonge
+manuscript-location: MS location unknown.  Printed in <i>[[cmybook:88]Musings over
+  the Christian Year]</i> xxxviii.
+---
+
+My dear Charlotte,
+[I](/person/798) have sent [the MRS](/person/795). off to repose,[^1] and here are two lines in her name and mine to say that though [the new ending](/book/45) has its amusement and interest, we much prefer [the old one](/book/19), which to me seems remarkably felicitious.[^2] The new one is liable, I think, to one or two criticisms.
+
+There is rather an excess of poetical justice, almost as in a child’s book; and the episode of Lord St. E., and Helen, gathered into so short a space, will to most appear improbable.
+
+On the whole, though I am glad to have read or heard it, I think it will be better left out; any points in it which may have taken hold of your fancy may be inserted here and there as they may seem opportune, but remember you do not rhyme to that dull elf who cannot figure to himself a great many things such as you have there set down . . .[^3]
+I am always, My dear child, affectionately yours,
+J. K.
+
+
+[^1]: CMY explained that ‘the opening words were in Mrs.
+
+Keble’s hand’.
+[^2]: This letter makes it clear that the chapter separately published as ‘Last Heartsease Leaves’ was originally conceived as the ending of Heartsease.
+[^3]: Walter Scott, [Marmion](/organisation/247) (1808), Canto 6, 27, 1147-8: ‘I do not rhyme to that dull elf/ Who cannot image to himself . .’

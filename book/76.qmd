@@ -1,0 +1,11 @@
+---
+id: 76
+title: '“Children’s literature of the last century: III. - Class literature of the
+  last thirty years.” By Miss Yonge.'
+author: Charlotte Mary Yonge
+date: '1869'
+genre: 'Non-fiction: criticism'
+publication-format: Article in Journal
+publisher: Not reprinted in volume form
+serialization: '<i>Macmillan’s Magazine.</i> 20 (Oct, 1869): 448-456'
+---

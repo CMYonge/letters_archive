@@ -1,0 +1,11 @@
+---
+id: 1838
+full-name: The Rev. Vicesimus Lush
+first-name: Vicesimus
+last-name: Lush
+prefix: The Rev.
+title: The Rev. Vicesimus Lush
+dates: (1817-1882)
+---
+
+Archdeacon of Waikato, New Zealand, brother of Elizabeth Lush and father of Annie Lush.

@@ -1,0 +1,10 @@
+---
+id: 221
+title: 'Cross Roads, or, A Choice in Life: A Story for Young Women and Older Girls,
+  The'
+author: Charlotte Mary Yonge
+date: October 1892
+genre: Fiction
+publication-format: Book
+publisher: National Society’s Depository, Broad Sanctuary, London.
+---

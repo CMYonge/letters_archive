@@ -1,0 +1,28 @@
+---
+id: 10615
+title: To John William Parker, Jr.
+date: '1855-05-05'
+display-date: May 5th 1855
+from-name: Charlotte Mary Yonge
+from-address: Otterbourn
+to-name: To John William Parker, Jr.
+manuscript-location: MS New York Public Library, Astor, Lenox and Tilden foundations,
+  Lee Kohns collection
+---
+
+Dear [Sir](/person/1143)
+I beg to acknowledge with many thanks the receipt of your [draft](/topic/160) for £200.
+
+I also thank you for your letter of this morning, and your advice in the [American transaction](/topic/172). I will write to Messrs [Appleton](/organisation/142) as stringently as I can as soon as I can say that I have seen the [Review](/periodical/200).[^1] I am much obliged to you for mentioning, it, and shall be glad if you will be kind enough to order the number for me, and to add it to my account.
+
+We were much amused with the paper on Servian proverbs in [Frasers](/periodical/199) Magazine of this month.[^2]
+
+with thanks
+
+yours truly
+
+C M Yonge
+
+
+[^1]: There was an advertisement in The North American Review 80 (January 1855), 270, for an edition of [Heartsease](/book/19) 2 vols (New York: Appleton 1855).
+[^2]: Parker had edited Fraser\'s Magazine since 1847.

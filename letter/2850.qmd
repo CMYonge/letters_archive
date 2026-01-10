@@ -1,0 +1,27 @@
+---
+id: 2850
+title: To Eliza Harriott Keary
+date: '1887-02-01'
+display-date: Feb 3d [1887]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield
+to-name: To Eliza Harriott Keary
+manuscript-location: 'MS UCLA: collection 100: box 95'
+---
+
+My dear [Miss Keary](/person/794)
+I am afraid Lady Jane Grey will not do for me, as I have had her before in the [Cameos](/book/134).
+
+Please thank the writer for me.
+
+Are you living at Kensington still, or is your present address only a temporary one.
+
+Not that I ought to give you the trouble of answering me. I hope no girls you were interested in were in that terrible catastrophe.[^2]
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Envelope postmarked Winchester C Fe 4 87, addressed ‘Miss E Keary/Oakhill/Stoke on Trent’.
+[^2]: Eliza Keary and her sister Annie (who had died in 1879) were interested in a home for unemployed servant girls. CMY may refer to the wreck of the SS Kapunda, an emigrant ship bound for Australia, in which over 200 lives were lost (Morning Post 1 February 1887).

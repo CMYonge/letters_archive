@@ -1,0 +1,10 @@
+---
+id: 2368
+full-name: Giuseppe Mazzini
+first-name: Giuseppe
+last-name: Mazzini
+title: Giuseppe Mazzini
+dates: (1805-1872)
+---
+
+Italian nationalist and politician

@@ -1,0 +1,11 @@
+---
+id: 350
+title: article on French history
+author: Charlotte Mary Yonge
+date: 1892?
+genre: non-fiction, history
+publication-format: article in journal
+publisher: Cassell?
+---
+
+Letters to Arthur John Butler, then working for Cassell, suggest that CMY contributed an article on French mediaeval history to one of their journals in 1892.

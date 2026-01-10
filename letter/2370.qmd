@@ -1,0 +1,22 @@
+---
+id: 2370
+title: To Elizabeth Missing Sewell
+date: '1870-01-28'
+display-date: '[28 January 1870]'
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Elizabeth Missing Sewell
+manuscript-location: MS Girton College Cambridge, Yonge VI 2
+---
+
+My dear [Miss Sewell](/person/1301),
+Here is a demand from the [London library](/organisation/29) for you. I hope you have done with the book.
+
+The weather shews that you were wise. I hope to see you as soon as it looks more mild
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Black-edged paper, with envelope addressed to \'Miss Elizthe Sewell/Bonchurch/I of Wight\' and postmarked Winchester and Ventnor 28 and 29 January 1870.

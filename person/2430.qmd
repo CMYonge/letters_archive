@@ -1,0 +1,10 @@
+---
+id: 2430
+full-name: The Rev. Hugh Macmillan
+first-name: Hugh
+last-name: Macmillan
+title: The Rev. Hugh Macmillan
+dates: (1833-1903)
+---
+
+Relation of Alexander Macmillan, author of Bible Teachings in Nature (1867), etc.

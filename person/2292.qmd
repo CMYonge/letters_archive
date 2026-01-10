@@ -1,0 +1,11 @@
+---
+id: 2292
+full-name: The Rev. Henry Honywood D\'Ombrain
+first-name: Henry Honywood
+last-name: D\'Ombrain
+prefix: The Rev.
+title: The Rev. Henry Honywood D\'Ombrain
+dates: —
+---
+
+Rector of Framilode

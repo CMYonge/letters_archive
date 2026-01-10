@@ -1,0 +1,23 @@
+---
+id: 1934
+title: To Frances Mary Peard
+date: '1864-01-01'
+display-date: '[1864]'
+from-name: Charlotte Mary Yonge
+to-name: To Frances Mary Peard
+manuscript-location: MS location unknown. This fragment printed in Mary J. Y. Harris,
+  <i>[[otherbook:318]Memoirs of Frances Mary Peard]</i>, p. 50.
+---
+
+My dear [Miss Peard](/person/1160),
+There is a part of it in which I think perhaps you would be so kind as to help.
+
+We are trying to bring in accounts of that troublesome contemporary time of the history of each country, that have not got into books so as to enable ‘our readers’ to know what is going on.[^1] Now [Mr.
+
+Church](/person/297)[^2] has done Greece, Poland is in good hands, and [Miss Roberts](/person/1244), I believe, does Northern Italy, but would you mind doing Naples and Garibaldi for us, in a bright style that would interest people and not insult them by supposing them too ignorant.
+
+
+[^1]: CMY was interested in a new newspaper for children called [Events of the Month](/periodical/69).
+[^2]: Harris suggests the Rev.
+
+Richard William Church (1815-1890).

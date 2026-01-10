@@ -1,0 +1,8 @@
+---
+id: 137
+reference-type: Organisation
+name: Mudie\'s Circulating Library
+title: Mudie\'s Circulating Library
+---
+
+Established in London in 1842.

@@ -1,82 +1,39 @@
-project:
-  type: website
-  title: The Letters of Charlotte Mary Yonge
-  
-website:
-  title: The Letters of Charlotte Mary Yonge
-  description: A digital collection of the correspondence of Charlotte Mary Yonge (1823-1901), English novelist and educator.
-  site-url: https://cdinu.github.io/yonge-letters
-  repo-url: https://github.com/cdinu/yonge-letters
-  repo-actions: [edit, issue, source]
-  
-  navbar:
-    title: "Yonge Letters"
-    left:
-      - href: index.qmd
-        text: Home
-      - href: letters-index.qmd
-        text: "Letters"
-      - href: persons.qmd
-        text: "Persons"
-      - href: books.qmd
-        text: "Books"
-      - href: others.qmd
-        text: "References"
-      - href: about.qmd
-        text: "About"
-    right:
-      - icon: github
-        href: https://github.com/cdinu/yonge-letters
-        aria-label: GitHub Repository
-      - icon: download
-        href: "#"
-        aria-label: Download Collection
-        
-  sidebar:
-    style: docked
-    collapse-level: 1
-    search: true
-    contents:
-      - section: "Main"
-        contents:
-          - index.qmd
-          - about.qmd
-      - section: "Letters & References"
-        contents:
-          - letters-index.qmd
-          - persons.qmd
-          - books.qmd
-          - others.qmd
-    
-  page-footer:
-    left: |
-      The Letters of Charlotte Mary Yonge Digital Edition  
-      Originally compiled by the Centre for 21st Century Humanities, University of Newcastle, Australia
-    center: |
-      Migrated to Quarto for long-term preservation • August 2025
-    right: |
-      [License](about.html#license) • [GitHub](https://github.com/cdinu/yonge-letters) • [Report Issues](https://github.com/cdinu/yonge-letters/issues)
-
 format:
   html:
-    theme: 
-      - cosmo
-      - custom.scss  # We'll create this
     css: styles.css
+    number-sections: false
+    theme: cosmo
     toc: true
     toc-depth: 3
-    toc-expand: 2
-    number-sections: false
-    anchor-sections: true
-    smooth-scroll: true
-    code-copy: true
-    code-overflow: wrap
-    link-external-newwindow: true
-    citations-hover: true
-    footnotes-hover: true
-    crossrefs-hover: true
-    date-format: "MMMM D, YYYY"
-    lang: en
-    # Customize metadata labels
-    metadata:
-      date-label: "Date"
+project:
+  title: The Letters of Charlotte Mary Yonge
+  type: website
+website:
+  description: A digital collection of the correspondence of Charlotte Mary Yonge
+    (1823-1901), English novelist and educator.
+  navbar:
+    left:
+    - href: index.qmd
+      text: Home
+    - href: letters-index.qmd
+      text: Letters
+    - href: persons.qmd
+      text: Persons
+    - href: books.qmd
+      text: Books
+    - href: references.qmd
+      text: References
+    - href: about.qmd
+      text: About
+    title: Yonge Letters
+  sidebar:
+    contents:
+    - index.qmd
+    - letters-index.qmd
+    - persons.qmd
+    - books.qmd
+    - references.qmd
+    - about.qmd
+    search: true
+    style: docked
+  title: The Letters of Charlotte Mary Yonge

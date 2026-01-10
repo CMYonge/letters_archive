@@ -1,0 +1,17 @@
+---
+id: 2261
+title: To Miss North
+date: '1868-07-24'
+display-date: July 24 [1868]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Miss North
+manuscript-location: 'MS Princeton University, Parrish Collection, C0171: Box 29'
+---
+
+Dear [Miss North](/person/1090),
+I hope the translation of 'Mulhause' is ready as this is the time at which it ought to be sent to the printers. I hope you were thanked for the Hints on Reading but my time is much taken up at present by my [mother](/person/1606)’s infirm state, and a friend who was staying here wrote for me. I think if possible it would be best to avoid French idioms in English
+
+Yours sincerely
+
+C M Yonge

@@ -1,0 +1,11 @@
+---
+id: 703
+full-name: The Rev. Alfred Bertie Hobart-Hampden
+first-name: Alfred Bertie
+last-name: Hobart-Hampden
+prefix: The Rev.
+title: The Rev. Alfred Bertie Hobart-Hampden
+dates: (1860-1923)
+---
+
+Rector of Cottered, Herts.

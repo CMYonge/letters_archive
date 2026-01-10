@@ -1,0 +1,23 @@
+---
+id: 2824
+title: To George Lillie Craik
+date: '1886-01-05'
+display-date: Jany 5th 1886
+from-name: Charlotte Mary Yonge
+from-address: Elderfield
+to-name: To George Lillie Craik
+manuscript-location: 'MS British Library Add MSS 54921: 138-9'
+---
+
+Dear [Mr Craik](/person/379)
+I am very happy to accept your offer of [£25 ](/topic/160)for the Australian edition of [Chantry House](/book/186).
+I wish I could disinter A Citizen’s account of the Bristol riots of 1832.[^1] It is referred to in the Life of Bishop Gray and said to be excellent; but I could not get it from the [London Library](/organisation/29), and I wish I could see it before the proofs of that Chapter of Chantry House are irrevocable.
+
+Yours very truly
+
+C M Yonge
+
+
+[^1]: Perhaps John Eagles, The Bristol riots, their causes, progress, and consequences.
+
+By a citizen (Bristol, Gutch and Martin 1832).

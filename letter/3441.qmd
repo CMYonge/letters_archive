@@ -1,0 +1,38 @@
+---
+id: 3441
+title: To Mary Drew
+date: '1900-02-01'
+display-date: Feb 1st [1900]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne
+to-name: To Mary Drew
+manuscript-location: 'MS British Library: Mary Gladstone Papers. Add MSS 46252: 6-7.'
+---
+
+Dear [Mrs Drew](/person/443),
+I am almost certain that the [Little Duke](/book/20) and the [Lances of Lynwood](/book/23) are published in chapter form for school children’s reading and our schoolmistress told us she had seen [Kenneth](/book/10) advertised as abridged for School reading - I know [Arnold](/person/2211) wrote to me for permission and I told him he might use it, if he could arrange with [Parker of Oxford](/person/1142), who published it when I knew nothing of arrangements.[^1] [Macmillan](/organisation/111) has all the rest; I have made some attempts to get them reduced but the Daisy Chain [Dove in the Eagle’s Nest](/book/62) was published at /6 and they will reduce no more unless 50,000 are ordered, so I fear nothing can be done.
+
+The [National Society](/organisation/32) might make its reward books cheaper - it has a good many historical tales of mine.
+
+Certainly that catalogue of reward books must have been constructed on considered principles.
+
+Nevertheless a shop girl told Christabel Coleridge that the two books which had done her the most good in her life were ‘Cometh up as a flower’ and [‘the Daisy Chain’](/book/24)[^2]
+I hope your little girl is arriving at recovery rapidly
+The books that my 10 and 9 years old grand nephew and niece[^3] have liked best lately have been
+Little King Richard (SPCK)
+Heidi / translated from German of Mme Spyri
+Stories from Froissart /Wells Gardiner
+Sylvia in Flowerland by Linda Gardiner (Seeley)
+Also a book of Agnes Giberne’s explaining common facts - capillary attraction and the like, but I cannot remember the name[^8] Also a Brave Girl (SPCK) is a very pretty story in the Indian Mutiny and ends well
+Did you send me a paper to be signed for I never found it?
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: See the letter to Macmillan (3 March 1899).
+[^2]: Rhoda Broughton.
+
+Cometh up as a Flower: An Autobiography (London: Richard Bentley 1867), notorious when it first came out for its discussion of sex; the anecdote must have been recounted as a joke.
+[^3]: [Reginald](/person/189) and [Cicely Bowles](/person/183).

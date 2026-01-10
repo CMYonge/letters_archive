@@ -1,0 +1,10 @@
+---
+id: 1494
+full-name: Mrs White
+last-name: White
+prefix: Mrs
+title: Mrs White
+dates: (fl. 1880s)
+---
+
+a friend of Evelyn Gee

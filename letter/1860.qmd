@@ -1,0 +1,24 @@
+---
+id: 1860
+title: To Frances Mary Peard
+date: '1862-01-01'
+display-date: '1862'
+from-name: Charlotte Mary Yonge
+to-name: To Frances Mary Peard
+manuscript-location: MS location unknown. This fragment printed in Mary J. Y. Harris,
+  <i>[[otherbook:318]Memoirs of Frances Mary Peard]</i> (1903), 47.
+---
+
+Dear [Madam](/person/1160),[^1]
+. . . . .
+
+Yours much obliged,
+C. M.
+
+Yonge
+P.S., I daresay you may know my name as a Devonshire one, I am a niece of [Mr.
+
+Yonge](/person/1623) of Puslinch.
+
+
+[^1]: Harris writes that the letter contained a request that Miss Peard should send her a paper on the Jewish Sects for the [Monthly Paper of Sunday Teaching](/periodical/81).

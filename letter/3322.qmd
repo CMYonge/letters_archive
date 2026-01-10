@@ -1,0 +1,24 @@
+---
+id: 3322
+title: To the Reverend John Frewen Moor
+date: '1896-04-13'
+display-date: April 13th 1896
+from-name: Charlotte Mary Yonge
+from-address: Elderfield
+to-name: To the Reverend John Frewen Moor
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e 86.'
+---
+
+My dear [Mr Moor](/person/1046)
+Mr Reynolds has just been here about [Annie Norgate](/person/917).[^1] I shall be most thankful to you for helping her, and shall gladly join in the £10.10 subscription for her
+
+Yours sincerely
+
+C M Yonge
+Mr Davies writes to[^2]
+
+
+[^1]: Anne Norgate (1876-1896), was blind.
+
+Her death was registered in the last quarter of 1896.
+[^2]: The letter breaks off thus.

@@ -1,0 +1,6 @@
+---
+id: 160
+reference-type: Topic
+name: CMY\'s literary earnings
+title: CMY\'s literary earnings
+---

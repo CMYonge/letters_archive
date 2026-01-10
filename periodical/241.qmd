@@ -1,0 +1,6 @@
+---
+id: 241
+reference-type: Periodical
+name: <i>Queen, The</i>
+title: <i>Queen, The</i>
+---

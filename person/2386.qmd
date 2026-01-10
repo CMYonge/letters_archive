@@ -1,0 +1,13 @@
+---
+id: 2386
+full-name: The Rev. John Medows Rodwell
+first-name: John Medows
+last-name: Rodwell
+prefix: The Rev.
+title: The Rev. John Medows Rodwell
+dates: (1808-1900)
+---
+
+theologian, translator, contributor to MP (1878)
+
+[ODNB]

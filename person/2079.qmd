@@ -1,0 +1,8 @@
+---
+id: 2079
+full-name: Miss Barlow
+last-name: Barlow
+prefix: Miss
+title: Miss Barlow
+dates: —
+---

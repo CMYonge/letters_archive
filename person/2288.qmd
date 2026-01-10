@@ -1,0 +1,11 @@
+---
+id: 2288
+full-name: Hon. and Rt. Rev. Lo Arthur Charles Hervey
+first-name: Arthur Charles
+last-name: Hervey
+prefix: Hon. and Rt. Rev. Lo
+title: Hon. and Rt. Rev. Lo Arthur Charles Hervey
+dates: (1808-1894)
+---
+
+Bishop of Bath and Wells

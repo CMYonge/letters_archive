@@ -1,0 +1,26 @@
+---
+id: 2403
+title: To Elizabeth Missing Sewell
+date: '1817-03-31'
+display-date: March 31st 1817 [1871]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Elizabeth Missing Sewell
+manuscript-location: 'MS UCLA: collection 100: box 95'
+---
+
+My dear [Miss Sewell](/person/1301),
+
+Could you be so kind as first to send on a card the name of anyone to write to at Freshwater about lodgings for a fortnight or so, or if that great Alum bay hotel is thought well of.[^1] [Mrs Elgie](/person/474)[^2] wants a little airing after her winter of illness, and I fancy Bonchurch would be too relaxing for her, but if there are any lodgings anywhere you specially recommend it would be a kindness to mention them, and the sort of rate of price.
+
+It is only [Mr](/person/478) and Mrs Elgie, not the children.
+
+If you are gone from home, perhaps one of your sisters would be so kind as to set down particulars.
+
+Yours sincerely,
+
+C M Yonge
+
+
+[^1]: Perhaps the Royal Needles Hotel, Alum Bay, from which Marconi sent the first wireless transmission in 1897.
+[^2]: Catharine Elgie, wife of the curate of Otterbourne.

@@ -1,0 +1,9 @@
+---
+id: 319
+title: \'The truest gentility.\' By Charlotte M. Yonge
+author: Charlotte Mary Yonge
+date: '1897'
+genre: Non-fiction
+publication-format: Article in Journal
+publisher: <i>The Girls\' Quarterly</i> (April 1897)124-5
+---

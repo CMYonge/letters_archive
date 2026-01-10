@@ -1,0 +1,13 @@
+---
+id: 456
+full-name: The Rt. Rev. Andrew Hunter Dunn
+first-name: Andrew Hunter
+last-name: Dunn
+prefix: The Rt. Rev.
+title: The Rt. Rev. Andrew Hunter Dunn
+dates: (1839-1914)
+---
+
+Bishop of Quebec
+
+He was Bishop of Quebec 1892-1914

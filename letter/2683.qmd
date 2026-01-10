@@ -1,0 +1,22 @@
+---
+id: 2683
+title: To George Lillie Craik
+date: '1879-07-14'
+display-date: July 14th 1879
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To George Lillie Craik
+manuscript-location: 'MS British Library Add MSS 54921: 104'
+---
+
+Dear [Mr Craik](/person/379)
+I will soon send material for the other pages. I have a queer little drama half written, and one or two other things that only require to be got into shape[^1]
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: This was extra material to make up the collection of previously published stories which appeared as [Bye-Words](/book/135) (1879).
+
+The \'queer little drama\' was \'The Campbells are Coming\'.

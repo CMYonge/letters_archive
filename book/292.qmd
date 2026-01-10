@@ -1,0 +1,11 @@
+---
+id: 292
+title: \'Lifelong Friends\'
+author: Charlotte Mary Yonge
+date: '1894'
+genre: Non-fiction, reminiscences
+publication-format: Article in Journal
+publisher: MP (December 1894) 694-8
+---
+
+Reprinted in Battiscombe and Laski, 181-4.

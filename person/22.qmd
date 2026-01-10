@@ -1,0 +1,11 @@
+---
+id: 22
+full-name: The Rt. Rev. Charles Richard Alford
+first-name: Charles Richard
+last-name: Alford
+prefix: The Rt. Rev.
+title: The Rt. Rev. Charles Richard Alford
+dates: (1816-1898)
+---
+
+Bishop of Victoria, Hong Kong (1867-72).

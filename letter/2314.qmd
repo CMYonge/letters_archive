@@ -1,0 +1,20 @@
+---
+id: 2314
+title: To Sarah Anne Mercier
+date: '1869-04-01'
+display-date: April 1st [1869]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Sarah Anne Mercier
+manuscript-location: MS Princeton University, Parrish Collection, CO171
+---
+
+Dear [Mrs Mercier](/person/990)
+As [Madame Melon](/person/2031) says SHE has not written to you I enclose her note that you may see how the matter stands. I hope she will have a satisfactory answer about the Grand Bienfacteur
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: Black-edged paper.

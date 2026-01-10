@@ -1,0 +1,11 @@
+---
+id: 2236
+full-name: The Rev. ? Roberts
+first-name: '?'
+last-name: Roberts
+prefix: The Rev.
+title: The Rev. ? Roberts
+dates: —
+---
+
+Newton Abbot curate, acting as locum tenens in Otterbourne in 1900

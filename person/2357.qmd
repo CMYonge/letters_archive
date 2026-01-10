@@ -1,0 +1,11 @@
+---
+id: 2357
+full-name: Colonel the Hon. John Colborne
+first-name: John
+last-name: Colborne
+prefix: Colonel the Hon.
+title: Colonel the Hon. John Colborne
+dates: (1830-1890)
+---
+
+cousin of CMY, younger son of the 1st Lord Seaton, a colonel in the Egyptian Army.

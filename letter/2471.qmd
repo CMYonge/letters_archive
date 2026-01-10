@@ -1,0 +1,22 @@
+---
+id: 2471
+title: To the Reverend James Edwards Sewell
+date: '1872-04-21'
+display-date: April 21st 1872 [1873?]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester
+to-name: To the Reverend James Edwards Sewell
+manuscript-location: MS Girton College Cambridge, Yonge X 1
+---
+
+My dear [Mr Warden](/person/1304),[^2]
+I find I cannot well leave home till the 3.30 train on Wednesday, so I hope to be at Oxford at 6.45. I hope this is not so late as to put out your dinner hour as I think it often is at 7.30. I am very glad to hear that [Mr Wither](/person/1544) will be there
+Yours very sincerely
+
+C M Yonge
+
+
+[^1]: With envelope addressed to \'The Revd the Warden/ New College/ Oxford\', postmarked Winchester and Oxford 21 and 22 April 1873.
+[^2]: The Rev.
+
+James Edwards Sewell, Warden of New College, Oxford and brother of Elizabeth Sewell.

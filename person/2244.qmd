@@ -1,0 +1,11 @@
+---
+id: 2244
+full-name: The Rt. Rev. Edward Henry Bickersteth
+first-name: Edward Henry
+last-name: Bickersteth
+prefix: The Rt. Rev.
+title: The Rt. Rev. Edward Henry Bickersteth
+dates: (1825-1906)
+---
+
+Bishop of Exeter 1885-1900

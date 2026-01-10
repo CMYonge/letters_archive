@@ -1,0 +1,25 @@
+---
+id: 3303
+title: To Jemima Blackburn
+date: '1895-11-14'
+display-date: Novr 14th 1895
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne
+to-name: To Jemima Blackburn
+manuscript-location: 'MS University of Illinois, Urbana Champaign: Letter 11.'
+---
+
+My dear [Mrs Blackburn](/person/159),
+The book arrived by second post, just after my letter was gone -
+I see some of my old friends and some new ones, and the wonderful and horrid young cuckoo, though poor little thing it is only its instinct of tidiness - no worse than killing rats![^1] How curious it is that the American Cuckoo should be a decent domestic mother, while the cow bird acts her part.
+
+You have not so many tits as we rejoice in - Oh I see you have the ox eye and the Cole but you do not mention the Marsh, who is very tiny, slender and graceful, and comes about our windows with the nest - What a delightful place the South Kensington room is[^2]
+Yours very sincerely
+
+C M Yonge
+
+
+[^1]: Mrs Hugh Blackburn, Birds from Moidart & Elsewhere (Edinburgh: David Douglas, 1895).
+
+For Blackburn\'s drawing which provided the first evidence that cuckoos threw rival fledglings from the nest, see Robert Fairley, [Jemima: Paintings and Memoirs of a Victorian Lady](/periodical/63) (Edinburgh: Canongate 1988), 54-55.
+[^2]: The bird room in the Natural History Museum.

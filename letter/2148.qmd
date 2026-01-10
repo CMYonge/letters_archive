@@ -1,0 +1,26 @@
+---
+id: 2148
+title: To Edith Coleridge
+date: '1867-01-30'
+display-date: Jan 30th [1867]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Edith Coleridge
+manuscript-location: Harry Ransom Humanities Research Center, University of Texas
+---
+
+My dear [Edith](/person/331),
+For I cannot induce myself to write Miss C and you know we are cousins- so that your beginning did not seem natural.
+
+We are delighted with your drawing, it has just given the look of reverent awe and foreboding that was wanted, and we are very much obliged to you for it - it just takes the place wanted in our book. I was at Winton House yesterday and found the party enjoying those beautiful etchings of Mr [Seymour Haden](/person/602)[^1].
+
+Tell [Christabel](/person/329) very few [Goslings](/topic/104) have come in yet. I shall wait a day or two longer and then send her the Answers - [King Charles](/person/1768) is in the ascendant so far as is fitting today.
+
+She shall have the new questions at the same time - or perhaps you would give them to her – I enclose them at once
+Yours very sincerely
+
+C M Yonge
+
+
+[^1]: Winton House was the home in Winchester of the Rev. [Charles Alexander Johns](/person/769) and his family.
+[^2]: The Goslings had evidently had to answer a question about Charles I. \'Today\' was the anniversary of his execution (30 January 1649).

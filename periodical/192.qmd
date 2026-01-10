@@ -1,0 +1,6 @@
+---
+id: 192
+reference-type: Periodical
+name: <i>Pall Mall Gazette, The</i>
+title: <i>Pall Mall Gazette, The</i>
+---

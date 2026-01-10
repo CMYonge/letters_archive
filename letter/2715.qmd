@@ -1,0 +1,30 @@
+---
+id: 2715
+title: To the Reverend James Duncan
+date: '1880-11-30'
+display-date: Nov 30th [or 3rd?] 1880
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To the Reverend James Duncan
+manuscript-location: MS Yale, Beinecke Library, MSS Vault, Hilles Box 21, Folder Yonge
+---
+
+Dear [Mr Duncan](/person/448)[^1]
+Gray is difficult with all the notes, and so is Anstice, so perhaps they had better come out. I did not mean the poetry to have been numbered as Lessons but to have stood as a sort of embellishment to be learnt or not according to need - or understanding I should rather have omitted the conversation between Arthur and Hubert than the account of the murder of the Princes in the Tower for it is much less real history - but I see ‘O the devil-’ has scandalised somebody though I supposed Dighton did not mean it as an expletive, but to shew how he was driven in spite of better feelings to complete the murder.
+
+It is the first verse describing Henry VI in Southey’s poem that I chiefly care about - if that remain the other parts may stand or not according to space.
+
+If Arthur and Hubert are omitted, might not [Lord Selborne](/person/1129)’s poem stand? I am sure it is much easier and more historical - or is it too ecclesiastical
+
+yours sincerely
+
+C M Yonge
+
+
+[^1]: Duncan was secretary of the National Society, publisher of CMY\'s [English History Reading-Books](/book/150) (1881), which included examples of poetry about historical events.
+
+The book under discussion seems to be Part III, which includes (p.31-2), an extract from Joseph Anstice, \'Richard Coeur de Lion; (p.41-4) an extract from Shakespeare, King John, a conversation between Prince Arthur and Hubert; (p.122-6) Lord Selborne, \'The Founding of St.
+
+Mary\'s College, Winchester, and New College, Oxford\'; and (p.185-7) an extract from Robert Southey, \'Funeral Song for the Princess Charlotte of Wales\'.
+
+The poem by Thomas Gray which was to be omitted was perhaps an extract from \'The Bard\', in which the speaker prophesies the doom of the descendants of Edward I.

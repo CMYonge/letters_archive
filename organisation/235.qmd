@@ -1,0 +1,10 @@
+---
+id: 235
+reference-type: Organisation
+name: Ward, Lock & Co.
+title: Ward, Lock & Co.
+---
+
+Publisher.
+
+Founded in 1854 as Ward and Lock, it is now (2010) part of the Orion group.

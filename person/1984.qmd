@@ -1,0 +1,10 @@
+---
+id: 1984
+full-name: Eugénie de Guérin du Cayla
+first-name: Eugénie de
+last-name: Guérin du Cayla
+title: Eugénie de Guérin du Cayla
+dates: (1805-1848)
+---
+
+diarist

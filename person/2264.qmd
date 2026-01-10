@@ -1,0 +1,9 @@
+---
+id: 2264
+full-name: Ivy
+first-name: Ivy
+title: Ivy
+dates: —
+---
+
+an unidentified member of the Gosling Society

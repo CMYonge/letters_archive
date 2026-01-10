@@ -1,0 +1,10 @@
+---
+id: 107
+title: Aunt Charlotte’s Stories of French History for the Little Ones.
+author: Charlotte Mary Yonge
+date: '1874'
+genre: 'Non-fiction: history'
+publication-format: Book
+publisher: Marcus Ward & Co., Chandos St, W.C. London; and Royal Ulster Works, Belfast.
+illustrator: Illustrated
+---

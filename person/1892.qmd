@@ -1,0 +1,13 @@
+---
+id: 1892
+full-name: The Rev. James Duke Coleridge
+first-name: James Duke
+last-name: Coleridge
+prefix: The Rev.
+title: The Rev. James Duke Coleridge
+dates: (1789-1857)
+---
+
+Rector of Thorverton
+
+He was eldest brother of Sir John Taylor Coleridge and father of Sophia (Coleridge) Martyn. [ODNB]

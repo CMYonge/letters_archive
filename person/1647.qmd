@@ -1,0 +1,10 @@
+---
+id: 1647
+full-name: Mr Green
+last-name: Green
+prefix: Mr
+title: Mr Green
+dates: —
+---
+
+presumably a school inspector

@@ -1,0 +1,11 @@
+---
+id: 13
+title: Two Guardians; or, Home in this World, The By the author of “Henrietta’s Wish,”
+  “Kenneth,” etc.
+author: Charlotte Mary Yonge
+date: '1852'
+genre: Fiction (modern)
+publication-format: Book
+publisher: Joseph Masters, Aldersgate Street, and New Bond Street, London.
+serialization: Serialized in the <i>Churchman’s Companion</i> July 1850-Feb 1852
+---

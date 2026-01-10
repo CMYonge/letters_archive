@@ -1,0 +1,10 @@
+---
+id: 2043
+full-name: 1st Viscount Nelson Horatio Nelson
+first-name: Horatio
+last-name: Nelson
+title: 1st Viscount Nelson Horatio Nelson
+dates: (1758-1805)
+---
+
+naval hero

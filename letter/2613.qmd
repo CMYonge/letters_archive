@@ -1,0 +1,24 @@
+---
+id: 2613
+title: To Constance O'Brien
+date: '1877-12-12'
+display-date: Decr 12th [1877]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Constance O'Brien
+manuscript-location: MS Charlotte Mitchell/1
+---
+
+Dear [Miss O’Brien](/person/1093)
+
+The printers have not sent your proofs in time for you to correct but I still send them to you.[^2]
+
+I think I can get another into February if you will send it to me
+
+yours truly
+
+C M Yonge
+
+
+[^1]: Black-edged paper.
+[^2]: Two of Constance O\' Brien\'s series of articles on \'Shakespeare Talks with Uncritical People\' appeared in MP 25 (January, February 1878).

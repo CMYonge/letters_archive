@@ -1,0 +1,10 @@
+---
+id: 780
+full-name: M. Jones
+first-name: M.
+last-name: Jones
+title: M. Jones
+dates: —
+---
+
+contributor to MP (1862, 65)

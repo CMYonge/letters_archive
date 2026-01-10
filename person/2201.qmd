@@ -1,0 +1,11 @@
+---
+id: 2201
+full-name: The Rev. John William Horsley
+first-name: John William
+last-name: Horsley
+prefix: The Rev.
+title: The Rev. John William Horsley
+dates: (1845-1921)
+---
+
+secretary of the Waifs and Strays Society

@@ -1,0 +1,6 @@
+---
+id: 200
+reference-type: Periodical
+name: <i>North American Review, The</i>
+title: <i>North American Review, The</i>
+---

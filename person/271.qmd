@@ -1,0 +1,10 @@
+---
+id: 271
+full-name: Miss Cassell
+last-name: Cassell
+prefix: Miss
+title: Miss Cassell
+dates: —
+---
+
+possibly a member of the Gosling Society

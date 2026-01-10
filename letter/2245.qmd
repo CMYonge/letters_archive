@@ -1,0 +1,18 @@
+---
+id: 2245
+title: To Alexander Macmillan
+date: '1868-05-11'
+display-date: May 11th [1868]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54920: 197-8'
+---
+
+Dear [Mr Macmillan](/person/939)
+We are rather disturbed at the delay in printing the [Historical Selections](/book/71) as [Miss Sewell](/person/1301) cannot do any corrections after the end of June, and as she has all the books and has looked out all the selections I could not supply her place.
+I suppose the [printers](/organisation/173) are postponing it to something more interesting, but if they cannot go on at once and finish at the end of June it would be convenient to know it.
+
+Yours sincerely
+
+C M Yonge

@@ -1,0 +1,13 @@
+---
+id: 628
+full-name: Dr. John Harris
+first-name: John
+last-name: Harris
+prefix: Dr.
+title: Dr. John Harris
+dates: —
+---
+
+physician
+
+Described by CMY as 'a Plymouth man . .  a small man with a Jewish face and a nervous sensitive manner' [Coleridge, Life 100]

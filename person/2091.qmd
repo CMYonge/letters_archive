@@ -1,0 +1,10 @@
+---
+id: 2091
+full-name: Frances Ridley Havergal
+first-name: Frances Ridley
+last-name: Havergal
+title: Frances Ridley Havergal
+dates: (1836-1879)
+---
+
+hymn-writer

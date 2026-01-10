@@ -1,0 +1,13 @@
+---
+id: 929
+full-name: The Rt. Rev. Charles Frederick Mackenzie
+first-name: Charles Frederick
+last-name: Mackenzie
+prefix: The Rt. Rev.
+title: The Rt. Rev. Charles Frederick Mackenzie
+dates: (1825-1862)
+---
+
+Bishop of the Zambezi, brother of Anne Mackenzie
+
+[ODNB]

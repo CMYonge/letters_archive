@@ -1,0 +1,10 @@
+---
+id: 2
+title: Abbeychurch, or, Self Control and Self Conceit.
+author: Charlotte Mary Yonge
+date: '1844'
+genre: Fiction (modern)
+publication-format: Book
+publisher: James Burns, Portman Street; London, and Henry Mozley and Sons, Derby.
+illustrator: Unsigned frontispiece
+---

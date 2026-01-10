@@ -1,0 +1,11 @@
+---
+id: 788
+full-name: The Rev. John Julian
+first-name: John
+last-name: Julian
+prefix: The Rev.
+title: The Rev. John Julian
+dates: (1839-1913)
+---
+
+Vicar of Wincobank, and author of A Dictionary of Hymnology

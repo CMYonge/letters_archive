@@ -1,0 +1,10 @@
+---
+id: 150
+full-name: Harold Bindloss
+first-name: Harold
+last-name: Bindloss
+title: Harold Bindloss
+dates: (1866-1945)
+---
+
+journalist, novelist of empire, contributor to MP (1899)

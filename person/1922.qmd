@@ -1,0 +1,8 @@
+---
+id: 1922
+full-name: Anne-Paule-Dominique, Marquise de Montagu
+first-name: Anne-Paule-Dominique, Marquise de
+last-name: Montagu
+title: Anne-Paule-Dominique, Marquise de Montagu
+dates: (1766-1839)
+---

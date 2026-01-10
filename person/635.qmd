@@ -1,0 +1,10 @@
+---
+id: 635
+full-name: Robert Harrison
+first-name: Robert
+last-name: Harrison
+title: Robert Harrison
+dates: (1820-1897)
+---
+
+librarian of the London Library, 1857-1893

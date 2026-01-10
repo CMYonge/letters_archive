@@ -1,0 +1,10 @@
+---
+id: 2202
+full-name: 1st Lord Baden-Powel Robert Stephenson Smyth Baden-Powell
+first-name: Robert Stephenson Smyth
+last-name: Baden-Powell
+title: 1st Lord Baden-Powel Robert Stephenson Smyth Baden-Powell
+dates: (1857-1941)
+---
+
+founder of the Scout Movement

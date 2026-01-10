@@ -1,0 +1,25 @@
+---
+id: 2164
+title: To an Unknown Woman
+date: '1867-04-12'
+display-date: April 12th [1867?]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To an Unknown Woman
+manuscript-location: 'MS Princeton University, Parrish Collection, C0171: Box 29:
+  Author Files Wood-Yonge'
+---
+
+Dear Madam
+I am much obliged by your kindness in sending Mr [Nobb](/person/1986)’s letter - It is however the [Melanesian mission](/organisation/30), not the Pitcairners, for which I am collector and it is better not to mix the two arrangements.[^1] [Bishop Patteson](/person/1155)’s sisters sent out what is really worth sending to him, but in general money is more useful than goods, and people have been sending such useless things lately that I wished to check them.[^2]
+I believe [Miss Mackenzie](/person/930) is appointing a receiver for Pitcairners.
+
+Yours much obliged
+
+C M Yonge
+
+
+[^1]: The Bounty survivors on Pitcairn were transferred to Norfolk Island in 1856.
+
+In March 1867 Bishop Patteson began moving his Melanesian Mission to Norfolk Island, where it was intended he should also minister to the Pitcairners.
+[^2]: i.e. in her recent MP [article](/book/289) encouraging support for the Ladies\' Association of the [SPG](/organisation/41) and giving advice on the best kind of donations for various purposes.

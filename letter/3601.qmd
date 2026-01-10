@@ -1,0 +1,19 @@
+---
+id: 3601
+title: To Ann Maria Carter Smith?
+date: '1891-08-10'
+display-date: Aug 10th [1891-1893]
+from-name: Charlotte Mary Yonge
+to-name: To Ann Maria Carter Smith?
+manuscript-location: 'MS UCLA: collection 100: box 95'
+---
+
+My dear [Miss Smith](/person/263)
+Articles addressed to the Ed of [M P](/periodical/52) go to [Miss Coleridge](/person/329).[^1] She has been from home and things go to arrears, which she has hardly made up yet, but I will tell her to see about your paper.
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Joint editorship of the MP began in July 1891. CMY retired from the editorship in December 1893.

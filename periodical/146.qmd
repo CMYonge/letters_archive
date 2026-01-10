@@ -1,0 +1,8 @@
+---
+id: 146
+reference-type: Periodical
+name: <i>Blackwood\'s Edinburgh Magazine</i>
+title: <i>Blackwood\'s Edinburgh Magazine</i>
+---
+
+The magazine published fiction, reviews and articles, and ran 1817-1891.

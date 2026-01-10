@@ -1,0 +1,8 @@
+---
+id: 256
+reference-type: Organisation
+name: George Allen and Sons
+title: George Allen and Sons
+---
+
+A publishing firm founded by George Allen (1832-1907) in 1871.

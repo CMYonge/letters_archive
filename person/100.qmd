@@ -1,0 +1,10 @@
+---
+id: 100
+full-name: S. Ballard
+first-name: S.
+last-name: Ballard
+title: S. Ballard
+dates: —
+---
+
+contributor to MP (1898)

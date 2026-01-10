@@ -1,0 +1,9 @@
+---
+id: 248
+title: Herd-boy and His Hermit, The
+author: Charlotte Mary Yonge
+date: October 1899
+genre: Fiction (historical)
+publication-format: Book
+publisher: 'London: National Society’s Depository, Broad Sanctuary, Westminster.'
+---

@@ -1,0 +1,13 @@
+---
+id: 599
+full-name: Dr James Manby Gully
+first-name: James Manby
+last-name: Gully
+prefix: Dr
+title: Dr James Manby Gully
+dates: (1808-1883)
+---
+
+physician
+
+He founded Malvern hydropathic establishment in the early 1840s, but was ruined by the Bravo case of 1876, which revealed he had had an affair with a patient.

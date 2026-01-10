@@ -1,0 +1,26 @@
+---
+id: 1801
+title: From the Reverend John Keble to Frances Mary Yonge and Charlotte Mary Yonge
+date: '1860-08-08'
+display-date: 8th Aug. 1860.
+from-name: Charlotte Mary Yonge
+from-address: H. V.,
+to-name: From the Reverend John Keble to Frances Mary Yonge and Charlotte Mary Yonge
+manuscript-location: MS location unknown. Printed in <i>[[cmybook:88]Musings over
+  the Christian Year]</i>, xlvii.
+---
+
+[To [FMY](/person/1606) and CMY]My dear Friends,
+Forgive us for not having remembered to write to you yesterday.
+
+Our dear [Sister](/person/796)[^1] departed like a babe from its mother’s arms with hardly a shudder, seemingly in the midst of a sweet sleep which had lasted a great many hours.
+
+God be thanked for her, and may He pour His rich blessings on you and all who love her.
+
+It was at 9.30 yesterday morning; [my wife](/person/795) was poorly, but both she and [my brothers wife](/person/797) seem comfortably rested to-day.
+
+In haste and love, yours always
+[J. K.](/person/798)
+
+
+[^1]: Keble’s eldest sister, Elizabeth Keble (1789/90-7 August 1860).

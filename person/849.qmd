@@ -1,0 +1,11 @@
+---
+id: 849
+full-name: Lieut.-Genl. Sir George St. Patrick Lawrence
+first-name: George St. Patrick
+last-name: Lawrence
+prefix: Lieut.-Genl. Sir
+title: Lieut.-Genl. Sir George St. Patrick Lawrence
+dates: (1804-1884)
+---
+
+contributor to MP (1874)

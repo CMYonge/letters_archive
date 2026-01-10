@@ -1,0 +1,20 @@
+---
+id: 2222
+title: To George Lillie Craik
+date: '1867-12-04'
+display-date: Decr 4th 1867
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To George Lillie Craik
+manuscript-location: 'MS British Library Add MSS 54920: 194'
+---
+
+Dear [Mr Craik](/person/379),
+I hope this letter is a sufficient acknowledgement of the [£25](/topic/160), as I have no receipt stamp at hand and this village does not provide such articles, and as they must not be bought of the unprivileged[^1] I cannot beg or borrow too often from our worthy [neighbours](/person/360) at the shop
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Unprivileged: Those without a license to sell.

@@ -1,0 +1,23 @@
+---
+id: 2021
+title: To Alexander Macmillan
+date: '1865-04-26'
+display-date: April 26th 1865
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54920: 77'
+---
+
+Dear [Mr Macmillan](/person/939),
+Many thanks.
+
+Our letters have crossed but the enclosure was welcome in any way of having it.[^1]
+I hope to finish [Abraham](/topic/177) today and send it
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: A [cheque](/topic/160) for £200.

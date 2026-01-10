@@ -1,0 +1,11 @@
+---
+id: 1778
+full-name: The Right Rev. Henry Phillpotts
+first-name: Henry
+last-name: Phillpotts
+prefix: The Right Rev.
+title: The Right Rev. Henry Phillpotts
+dates: (1778-1869)
+---
+
+Bishop of Exeter

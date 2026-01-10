@@ -1,0 +1,12 @@
+---
+id: 210
+title: Quentin Durward by Sir Walter Scott Edited, with a historical introduction,
+  by CMY
+author: Charlotte Mary Yonge
+date: '1890'
+genre: 'Non-fiction: criticism'
+publication-format: Preface to book
+publisher: 'Boston: Ginn and Company'
+---
+
+Ginn’s Children’s Classics series, in which The Talisman also appeared with a preface by CMY, although she is not credited as its editor.

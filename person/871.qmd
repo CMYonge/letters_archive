@@ -1,0 +1,10 @@
+---
+id: 871
+full-name: Mrs Leslie
+last-name: Leslie
+prefix: Mrs
+title: Mrs Leslie
+dates: —
+---
+
+invited to lunch in 1871

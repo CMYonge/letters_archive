@@ -1,0 +1,6 @@
+---
+id: 1957
+full-name: Person 1957
+title: Person 1957
+dates: —
+---

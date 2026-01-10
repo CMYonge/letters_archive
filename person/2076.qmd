@@ -1,0 +1,8 @@
+---
+id: 2076
+full-name: 3rd Earl of Powis Edward James Herbert
+first-name: Edward James
+last-name: Herbert
+title: 3rd Earl of Powis Edward James Herbert
+dates: (1818-1891)
+---

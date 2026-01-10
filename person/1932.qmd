@@ -1,0 +1,15 @@
+---
+id: 1932
+full-name: Dr George Wilson
+first-name: George
+last-name: Wilson
+prefix: Dr
+title: Dr George Wilson
+dates: (1818-1859)
+---
+
+chemist, museum director and science writer
+
+CMY had probably read John Cairns, \'The late Dr.
+
+George Wilson, of Edinburgh\' Macmillan\'s Magazine I (1860) 199-203.

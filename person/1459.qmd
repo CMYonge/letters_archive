@@ -1,0 +1,11 @@
+---
+id: 1459
+full-name: Lieutenant the Hon. Frederick Walpole
+first-name: Frederick
+last-name: Walpole
+prefix: Lieutenant the Hon.
+title: Lieutenant the Hon. Frederick Walpole
+dates: (1822-1876)
+---
+
+contributor to MP (1851)

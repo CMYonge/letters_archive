@@ -1,0 +1,11 @@
+---
+id: 2441
+full-name: Sir John Robert Mowbray
+first-name: John Robert
+last-name: Mowbray
+prefix: Sir
+title: Sir John Robert Mowbray
+dates: —
+---
+
+M.P. for the University of Oxford

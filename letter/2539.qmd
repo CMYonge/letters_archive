@@ -1,0 +1,18 @@
+---
+id: 2539
+title: To the Reverend Edward Stuart Talbot
+date: '1875-01-01'
+display-date: '[1875?]'
+from-name: Charlotte Mary Yonge
+to-name: To the Reverend Edward Stuart Talbot
+manuscript-location: MS location unknown, fragment printed in Gwendolen Stephenson,
+  [[otherbook:869]<i>Edward Stuart Talbot 1844 - 1934</i>], 1936, 37.
+---
+
+[To the Reverend [Edward Stuart Talbot](/person/1691)]I do not think any scheme succeeds that has not a decided religious object, and in my mind the real difficulty is that this plan seems to be Lectures plus Church, not like the original conception of a College, education primarily for the direct service of religion to which other students were admitted.[^1] If it is to be merely a boarding house on good principles where young ladies may be sent to prepare for examinations, it may be a sound institution worthy of support but not commanding any enthusiasm and likely to depend on the fashions of the day.
+
+But if it were in any way possible to make it in some way an institution dedicated to Heavenly Wisdom, training the daughters of the Church to the more perfect cultivation of their talents for the One great Service whether as educators or mothers of families, then I think there would be such salt of the earth in the College to make it lasting and beloved and to be a real blessing in raising the whole ideal and standard of women.[^2]
+
+
+[^1]: This refers to the plan to found a women\'s college in Oxford which became [Lady Margaret Hall](/organisation/6).
+[^2]: Matthew 5: 13. ‘Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted?’

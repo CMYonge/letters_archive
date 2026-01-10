@@ -1,0 +1,10 @@
+---
+id: 718
+full-name: Mr Hoskins
+last-name: Hoskins
+prefix: Mr
+title: Mr Hoskins
+dates: —
+---
+
+letter to 1877

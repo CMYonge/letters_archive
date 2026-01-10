@@ -1,0 +1,11 @@
+---
+id: 2289
+full-name: The Rev. Edward Protheroe Vaughan
+first-name: Edward Protheroe
+last-name: Vaughan
+prefix: The Rev.
+title: The Rev. Edward Protheroe Vaughan
+dates: (1809/10-1891)
+---
+
+Rector of Wraxall

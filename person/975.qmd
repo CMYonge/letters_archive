@@ -1,0 +1,13 @@
+---
+id: 975
+full-name: The Rev. William Maskell
+first-name: William
+last-name: Maskell
+prefix: The Rev.
+title: The Rev. William Maskell
+dates: (1814?-1890)
+---
+
+historian
+
+Involved in Gorham controversy, he converted to Rome about 1850.

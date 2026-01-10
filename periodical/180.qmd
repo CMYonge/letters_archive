@@ -1,0 +1,6 @@
+---
+id: 180
+reference-type: Periodical
+name: <i>Spectator, The</i>
+title: <i>Spectator, The</i>
+---

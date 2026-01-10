@@ -1,0 +1,11 @@
+---
+id: 2140
+full-name: The Rev. Walter Lock
+first-name: Walter
+last-name: Lock
+prefix: The Rev.
+title: The Rev. Walter Lock
+dates: (1846-1920)
+---
+
+biographer of John Keble and Warden of Keble College, Oxford (1897-1920)

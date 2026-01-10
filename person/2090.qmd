@@ -1,0 +1,11 @@
+---
+id: 2090
+full-name: General Charles Gordon
+first-name: Charles
+last-name: Gordon
+prefix: General
+title: General Charles Gordon
+dates: (1833-1885)
+---
+
+hero of Khartoum

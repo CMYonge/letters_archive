@@ -1,0 +1,9 @@
+---
+id: 255
+title: \'My Reading\' By the Editor
+author: Charlotte Mary Yonge
+date: '1892'
+genre: Non-fiction, literary criticism
+publication-format: Article in Journal
+publisher: <i>Mothers in Council</i> 2:5 (April 1892) 87-94
+---

@@ -1,0 +1,10 @@
+---
+id: 238
+title: Wardship of Steepcombe, The
+author: Charlotte Mary Yonge
+date: September 1896
+genre: Fiction (historical)
+publication-format: Book
+publisher: National Society’s Depository, Broad Sanctuary, London.
+illustrator: Illustrated by W. S. Stacey.
+---

@@ -1,0 +1,29 @@
+---
+id: 2316
+title: To the Reverend Henry Parry Liddon
+date: '1869-06-04'
+display-date: June 4th [1869]
+from-name: Charlotte Mary Yonge
+from-address: New College
+to-name: To the Reverend Henry Parry Liddon
+manuscript-location: MS Keble College, Oxford, Liddon Correspondence 1869 (2:4).
+---
+
+Dear [Mr Liddon](/person/877)
+Thank you for your very kind answer. A letter will be an excellent way of conveying your recollections.[^2] I think considering what Hursley Vicarage was, it would have been perfect treason to have made notes of the daily life and conversation - What seems to me most wanted is something to give an idea of [Mr.
+
+Keble](/person/798)’s greatness and his championship - and this [Sir J Coleridge](/person/344) writing from an equality and without perfect sympathy, has in some degree missed.[^3]
+A fortnight or a month’s time will be quite soon enough for me. I shall be at home I hope on the 12th
+With many thanks
+Yours very truly
+
+C M Yonge
+
+
+[^1]: Blue paper with the printed centred address ‘Elderfield, Otterbourne, Winchester.’ crossed out.
+
+Transcribed by the librarian, Margaret Sarosi.
+[^2]: This was published in MP and collected in [Musings over the Christian Year](/book/88).
+[^3]: CMY refers to Coleridge\'s [A Memoir of the Rev.
+
+John Keble](/organisation/226).

@@ -1,0 +1,10 @@
+---
+id: 605
+full-name: Miss Hale
+last-name: Hale
+prefix: Miss
+title: Miss Hale
+dates: —
+---
+
+interested in the Kebles

@@ -1,0 +1,14 @@
+---
+id: 347
+title: \'Harvest Home in Normandy\' Translated by the Author of the \'Heir of Redclyffe\'
+  from the French of Mde de Witt nee Guizot in Warne\'s Home Annual
+author: Charlotte Mary Yonge
+date: '1868'
+genre: translation
+publication-format: story in collection
+publisher: 'London: Warne'
+---
+
+Warne\'s Home Annual ed.
+
+Laura Valentine

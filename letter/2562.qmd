@@ -1,0 +1,34 @@
+---
+id: 2562
+title: Edward Augustus Freeman to Charlotte Mary Yonge
+date: '1876-09-06'
+display-date: September 6th 1876
+from-name: Charlotte Mary Yonge
+from-address: Somerleaze, Wells.
+to-name: Edward Augustus Freeman to Charlotte Mary Yonge
+manuscript-location: MS Miss Sarah Jardine-Willoughby
+---
+
+My dear Miss Yonge,
+At last I have found a few moments for my regular work.
+
+Between Archaeological Meetings and Servians I have had not time for any NB.
+
+As to Servians and Bulgarians, can't you give us a good word in your [Monthly Packet](/periodical/52)?[^1] I am gathering pretty considerably; but we want help in every quarter, and we want Turks, Jews and such as abet them to be barred in every closet and on every housetop and under every greek ?ha
+Here is a bit of [France](/book/99), with some suggestions.
+
+Where do you get Osterrik, &c? I felt sure that there were no such forms, and that at any right the reich word must be riki, or something ending in i. I asked [Reinhold Pauli](/person/1114), who is staying with me, and he said, as I expected, that there are not, and could not be, any such forms.[^2] So you had better cut them out.
+
+And I do want to bring out more strongly that France (Francia occidentalis sui Latina) is the duchy, and that Karolingia got the name of Francia because the Dukes of Francia became Kings of it.
+I thought of you the other day on Glastonbury-Tor, when [Mrs Pauli](/person/1113) stuck for fear of the winds, and I carried led her up triumphantly.
+I hope now to send on quickly, but I go tomorrow to speak at Cardiff and next week to Oxford.
+yours very truly
+[Edward A Freeman](/person/523)
+
+
+[^1]: Nationalist risings against the Ottoman government in the Balkans led to the Russo-Turkish war of 1877-8.
+
+Freeman had been raising money for Balkan refugees since the previous year, and his son-in-law Arthur Evans had publicized in the Manchester Guardian the work of Paulina Irby (1831-1911) and Priscilla Johnston, who had formerly run a school for Christian girls in Sarajevo, and were now working with refugees on the border with Austrian Slavonia: see Dorothy Anderson, \'Paulina Irby (1831-1911)\' ODNB, and Edward Augustus Freeman, \'The Sufferers in Eastern Europe\' The Times (11 October 1876) 7.
+[^2]: CMY\'s History of France appeared in Macmillan\'s \'Historical Course for Schools\' series, edited by Freeman, and caused them both endless difficulties.
+
+Reinhold Pauli (1823-1882) was a German historian.

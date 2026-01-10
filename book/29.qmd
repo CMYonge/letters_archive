@@ -1,0 +1,13 @@
+---
+id: 29
+title: Instructive Picture Book, or, Lessons from the Vegetable World, The. By the
+  author of “The Heir of Redclyffe,” and “The Herb of the Field”,
+author: Charlotte Mary Yonge
+date: '1857'
+genre: 'Non-fiction: natural history'
+publication-format: Book
+publisher: Edmonston & Douglas, 87 Princes Street, Edinburgh.
+illustrator: Illustrated with 31 coloured plates arranged by Robert M. Stark, Fellow
+  of the Botanical and Royal Physical Societies, Edinburgh and author of “A Popular
+  History of British Mosses”.
+---

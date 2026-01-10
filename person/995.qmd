@@ -1,0 +1,11 @@
+---
+id: 995
+full-name: The Ven. Carew St. John Mildmay
+first-name: Carew St. John
+last-name: Mildmay
+prefix: The Ven.
+title: The Ven. Carew St. John Mildmay
+dates: (1800-1878)
+---
+
+Rector of Chelmsford

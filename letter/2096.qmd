@@ -1,0 +1,40 @@
+---
+id: 2096
+title: To Alexander Macmillan
+date: '1866-01-06'
+display-date: Epiphany [6 January 1866]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54920: 132-3'
+---
+
+My dear [Mr Macmillan](/person/939),
+The books came last night all right - many thanks.
+
+There are some touches to be put to the [Dove in the Eagle’s Nest](/book/62) for which I had better have the proof sheets.
+
+Indeed I think that printers are very apt to make quite gratuitous mistakes in working from what is in type.
+I am told that the Latin word on Ebbo’s tomb is wrong, and ought to be Demum, indeed I believe it should be Tandem, if modern association would permit.[^1] I shall be very happy to let it be on the same terms as the [Clever Woman](/book/58) thank you.
+I should like to talk over the [Sunday library](/topic/145).
+
+Perhaps after Easter, I may be in town, but I do not feel sure.
+
+Meantime the [Chaplet of Pearls](/book/69) creeps on, but not very fast - it is rather play work, and winter is the best time for what is rather tougher. I have been asked to do an educational book for the middle class reading books put forth by the Clarendon press, and this is rather taking up the time for hard work.[^2]
+I have been asked to send a small parcel of books to Sydney.
+
+Do you know if I could send them through some bookseller there - they seem to me too many for separate posting and too few to make an independant [sic] box. [Bishop Patteson](/person/1155) was greatly pleased with Mr Mclear’s Missions
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: The last episode in The Dove in the Eagle\'s Nest, in which a modern traveller sees the tombs of the twins who have died a lifetime apart, appeared in [Macmillan\'s Magazine](/periodical/78) in December 1865.
+
+Ebbo\'s tomb is there (p. 108) inscribed \'Denique\': \'finally\'.
+
+In the printed edition of the novel the tomb is inscribed ‘Demum’: ‘at last’. ‘Tandem’ could also mean ‘at last’ but was frequently translated as \'at length\' and was thus used punningly of two horses harnessed one behind the other to a carriage; it was not yet associated with a two person bicycle.
+[^2]: This does not seem to have been published.
+
+The Clarendon Press series had a prospectus, which advertisements invited readers to send for; possibly the proposed work may be described more fully there.

@@ -1,0 +1,27 @@
+---
+id: 3543
+title: To Edward Augustus Freeman
+date: '1870-06-29'
+display-date: June 29th [1870]
+from-name: Charlotte Mary Yonge
+to-name: To Edward Augustus Freeman
+manuscript-location: 'MS UCLA: collection 100: box 95'
+---
+
+My dear [Sir](/person/523)
+I am much obliged by your kind present of your little book on Wells Cathedral, which I shall read with much pleasure.[^2]
+Here is the number of [Macmillan](/periodical/78) creating further dismay in me by shewing that Scottish scholars at Oxford were not so uncommon as to be dangerou[sly] [text missing at edge] suspicious.[^3]
+With many thanks
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Black-edged paper.
+[^2]: Edward Augustus Freeman, History of the Cathedral Church of Wells (London: Macmillan 1870).
+[^3]: Thomas M.
+
+Lindsay, \'Scotch Students at Oxford Five Hundred Years Ago\' Macmillan\'s Magazine 22 (July 1870) 230.
+
+In CMY\'s novel [The Caged Lion](/book/81), Ch 17, p196, she had incautiously observed \'Oxford and Cambridge were almost the only universities where Scots were not\'.

@@ -1,0 +1,28 @@
+---
+id: 2494
+title: To Alexander Macmillan
+date: '1874-03-15'
+display-date: March 15th [1874]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54920: 246-7'
+---
+
+Dear [Mr Macmillan](/person/939),
+This is all very satisfactory, thank you much.
+
+One thing more.
+
+Should not there be a facsimile of the autograph[^1] - I should like a page of that exquisitely neat distinct writing which never altered from the time it formed itself at Eton - and which spreads into sheets upon sheets of mine and yet I never stumble at a word.
+I must put in a page with a list of the islands arranged in their groups for reference. I can make one from the Reports.
+
+Most of the islands have two names native and discoverer’s, and a good many three native, English and Spanish - and as everybody is always varying the spelling of the native names one gets distracted
+But I will make a list and get the [Bishop of Lichfield](/person/1295) to correct it
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: The letter is about the publication of the [Life of John Coleridge Patteson](/book/102).

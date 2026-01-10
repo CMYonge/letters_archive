@@ -1,0 +1,10 @@
+---
+id: 1813
+full-name: Hugh Miller
+first-name: Hugh
+last-name: Miller
+title: Hugh Miller
+dates: (1802-1856)
+---
+
+geologist

@@ -1,0 +1,27 @@
+---
+id: 2998
+title: To Elizabeth Roberts
+date: '1852-08-14'
+display-date: Aug 14th [1852]
+from-name: Charlotte Mary Yonge
+from-address: Otterbourn
+to-name: To Elizabeth Roberts
+manuscript-location: 'Huntington Library: Yonge Letters'
+---
+
+My dear Madam,
+You see [your paper](/topic/225) was quite in time to be printed with the rest. I am glad St Matthew had the Passion Flower, it is to him that this Church is dedicated.[^1] I have been spending a few days at Salisbury this week, and much enjoying that most beautiful Cathedral, I feel as if I had before never properly appreciated it, only seeing it as a verger led visitor, and not going to it every day, and seeing it continually in my walks.
+
+That perfect cloister is above all things lovely. I also much enjoyed seeing Stonehenge for the first time, and we came home by Ambresbury, where though the nunnery is destroyed there remains a pretty old Church, originally early English, but having undergone much more restoration than is for its good, once in the days of late perpendicular, and once in the days of Church wardens, but now happily a third restoration is taking place under the auspices of [Mr Butterfield](/person/247).
+
+It was pleasant to find that the squire [Sir E Antrobus](/person/47) was living in a farm house, leaving his own to be repaired till the Church is finished.[^2] We gathered a flower in the Church yard which I think the nuns must have bequeathed to puzzle us, it will not answer to anything in [Sir James Smith](/place/150)
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: St.
+
+Matthew, Otterbourne.
+[^2]: Sir Edmund Antrobus, 2nd Bt. (1792-1870), whose seat was the former Amesbury Abbey.

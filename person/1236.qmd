@@ -1,0 +1,10 @@
+---
+id: 1236
+full-name: Mrs. Ricketts
+last-name: Ricketts
+prefix: Mrs.
+title: Mrs. Ricketts
+dates: —
+---
+
+payment to 1855

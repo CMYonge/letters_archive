@@ -1,0 +1,13 @@
+---
+id: 1222
+full-name: The Rev. Richard William Randall
+first-name: Richard William
+last-name: Randall
+prefix: The Rev.
+title: The Rev. Richard William Randall
+dates: (1824-1906)
+---
+
+Vicar of All Saints, Clifton
+
+He became the first vicar of All Saints, Clifton in 1868.

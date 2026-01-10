@@ -1,0 +1,30 @@
+---
+id: 2896
+title: To Arthur Donald Innes
+date: '1888-11-05'
+display-date: Novr 5th 1888
+from-name: Charlotte Mary Yonge
+from-address: Elderfield
+to-name: To Arthur Donald Innes
+manuscript-location: MS Girton College Cambridge, Yonge IV 6
+---
+
+Dear [Mr Innes](/person/744)
+The copies to [Canon Warburton](/person/1466) were for presentation to the Central libraries of our [Diocesan Society for Higher Religious Education](/organisation/48).[^1]
+I imagine that half a sheet will be quite enough, giving me 4 pages besides those for index and title which I always grudge but I cannot tell till I get the list of make up.
+I see Chapman and Hall’s M S will not do. I much dislike stories in dialect and indeed I think everyone does except the author, and philologists.
+
+What shall I do with it?
+I like Pen much better than Tipcat or Our Little Ann.[^2]
+My own feeling is that we can hardly be accountable for respectable advertisements I see A South African farm among them and I believe that is far worse than Robert Elsmere[^3]
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: The copies were probably of CMY\'s [Preparation of Prayer-book Lessons](/book/202).
+[^2]: These were stories by a Smith and Innes author, [Evelyn Whitaker](/person/1492).
+
+In \'A Conversation on Books\' (MP (December 1888), 590, CMY praised Pen and observed, \'Her style is always charming, but there were too great improbabilities in Tip Cat and Little Ann.\'
+[^3]: A reader had complained that her copy of MP had arrived with advertisements for a novel by Mary Augusta Ward, author of the controversial novel Robert Elsmere.

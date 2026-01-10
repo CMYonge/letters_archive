@@ -1,0 +1,28 @@
+---
+id: 3108
+title: To Elizabeth Barnett
+date: '1857-09-28'
+display-date: September 28, 1857.
+from-name: Charlotte Mary Yonge
+from-address: Royal Hospital, Dublin
+to-name: To Elizabeth Barnett
+manuscript-location: MS location unknown.  This fragment printed in Romanes, <i>[[otherbook:241]Appreciation]</i>
+  84-5.
+---
+
+[To [Elizabeth Barnett](/person/113)]The place we are in is a sight in itself - an old house of the Knight Hospitallers, which the great Ormond converted into an Irish Chelsea, making the Commander of the Forces the Master.[^1] It is built round a quadrangle, with a cloister, a chapel, and great hall, all in Louis XIV. style . . . this house occupying one side, with the hall and chapel, the house of the Chaplain, and some of the staff, and the old pensioners. . . .It is very military church-going . . .sitting in a hideous gallery looking down on them [the Lancers].
+
+The pensioners are chiefly R[oman]. C[atholic]., so that there is a very small show of them at church. . . .It was a beautiful scene in the great oaken hall, with [Lord Seaton](/person/313)'s grand figure walking up and down . . .all that he ever was in activity, and alertness, and memory.
+
+The Church matters are wonderfully lax, as might be expected, the Irish Church hardly professing to believe in the Church. . . .Kneeling appears to be unknown. I have seen no provision for it except in the gallery here and in a beautiful church built by [Mr.Sidney Herbert](/person/1783), to which we went yesterday afternoon. [^2]
+Lord Seaton was so kind as to give us . . . a field-day in Phoenix Park.
+
+Only think of being regaled with four regiments of infantry, three of cavalry, and a proportion of artillery, and on a sunshiny day of Irish winds, with the beauteous park for the scene and the Wicklow Hills as background. . . .
+
+We had no visible enemy, but we suffered a repulse in spite of a brilliant charge of the Lancers and Scots Greys, but it was all to get us home to luncheon.
+
+
+[^1]: CMY and her cousin Anne Yonge had gone to Ireland to attend the wedding of their cousin the Hon. [Jane Colborne](/person/1042).
+
+They were staying at the Royal Hospital, Kilmainham, Dublin, founded as a refuge for old soldiers, in imitation of Chelsea Royal Hospital, by James Butler, 1st Duke of Ormond (1610–1688), Lord Lieutenant of Ireland.
+[^2]: Sidney Herbert (1810-1861), later 1st Lord Herbert of Lea, owned estates near Dublin and built several churches there.

@@ -1,0 +1,10 @@
+---
+id: 228
+title: 'Grisly Grisell, or, The Laidly Lady of Whitburn: A Tale of the Wars of the
+  Roses. 2 vols.'
+author: Charlotte Mary Yonge
+date: '1893'
+genre: Fiction (historical)
+publication-format: Book
+publisher: 'London and New York: Macmillan and Company.'
+---

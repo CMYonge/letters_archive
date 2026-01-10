@@ -1,0 +1,8 @@
+---
+id: 265
+reference-type: Organisation
+name: Band of Mercy
+title: Band of Mercy
+---
+
+The Band of Mercy was an organization founded in 1875 to encourage kindness to animals.

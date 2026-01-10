@@ -1,0 +1,11 @@
+---
+id: 2137
+full-name: The Rt. Rev. Edward Denison
+first-name: Edward
+last-name: Denison
+prefix: The Rt. Rev.
+title: The Rt. Rev. Edward Denison
+dates: (1801-1854)
+---
+
+Bishop of Salisbury

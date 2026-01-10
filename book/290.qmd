@@ -1,0 +1,13 @@
+---
+id: 290
+title: \'Lectures on Church History, given at Winchester\' by the Editor
+author: Charlotte Mary Yonge
+date: '1889'
+genre: Non-fiction, theology, history
+publication-format: Articles in Journal
+publisher: MP (January 1889-August 1890)
+---
+
+These articles, which appear as both \'Lectures on church history\' and \'Lectures on English church history\' appeared in two series.
+
+It is not clear who the original audience in Winchester were.

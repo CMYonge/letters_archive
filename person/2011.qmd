@@ -1,0 +1,10 @@
+---
+id: 2011
+full-name: Agnes Jones
+first-name: Agnes
+last-name: Jones
+title: Agnes Jones
+dates: (1832- 19 February 1868)
+---
+
+lady superintendent of the Liverpool Workhouse Infirmary.

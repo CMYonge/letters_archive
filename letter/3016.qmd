@@ -1,0 +1,17 @@
+---
+id: 3016
+title: To Messrs Forbes and Marshall
+date: '1853-01-01'
+display-date: '[1853?]'
+from-name: Charlotte Mary Yonge
+to-name: To Messrs Forbes and Marshall
+manuscript-location: MS  Harry Ransom Humanities Research Center, University of Texas,
+  Austin
+---
+
+Miss Yonge requests Messrs Forbes and Marshall to send for
+Mrs E Barrett Browning’s [poems](/organisation/21)
+The last [Edinburgh review](/periodical/132)
+[Rollo and his race](/topic/177)
+[The Provocations of Mde Palissy](/organisation/111)
+The books at present at Otterbourn shall be returned either on Thursday or the first day after it that Joyce the carrier goes to Southampton

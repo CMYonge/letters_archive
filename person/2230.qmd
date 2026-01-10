@@ -1,0 +1,13 @@
+---
+id: 2230
+full-name: The Rev. Canon John Henchman Crowfoot
+first-name: John Henchman
+last-name: Crowfoot
+prefix: The Rev. Canon
+title: The Rev. Canon John Henchman Crowfoot
+dates: (1841-1926)
+---
+
+Chancellor of Lincoln Cathedral and Principal of Lincoln Theological College
+
+WWW

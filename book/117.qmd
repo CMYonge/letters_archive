@@ -1,0 +1,11 @@
+---
+id: 117
+title: Christmas Mummers and Other Stories, The By Charlotte M. Yonge.
+author: Charlotte Mary Yonge
+date: '1876'
+genre: Fiction
+publication-format: Book
+publisher: 'London: Mozley and Smith'
+---
+
+Reprints ‘The Christmas Mummers’, ‘The Railroad Children’, ‘Leonard the Lion-Heart’, ‘Ben Sylvester’s Word,’ ‘Midsummer Day, or, The Two Churches’, ‘Harriet and her Sister’ and ‘London Pride’.

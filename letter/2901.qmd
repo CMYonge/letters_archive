@@ -1,0 +1,29 @@
+---
+id: 2901
+title: To George Lillie Craik
+date: '1889-02-19'
+display-date: Feb 19th 1889
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne
+to-name: To George Lillie Craik
+manuscript-location: 'MS British Library Add MSS 54921: 171-2'
+---
+
+Dear [Mr Craik](/person/379)
+Here is [the Reputed Changeling](/book/205).
+
+It really is a much better story than [Beechcroft at Rockstone](/book/201) which was chiefly written to run on with the [Monthly Packet](/periodical/52) and satisfy people insatiable of continuations, so that as a young people’s tale it suffers from being treated as a novel.
+
+Has it gone to [Tauchnitz](/person/2124)?
+
+What a curious book Reuben Sachs is!
+
+Is [Amy Levy](/person/2381) a genuine Jew- ?[^1]
+She seems to have stripped off all the illusions, not to say realities! about the race
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Amy Levy, Reuben Sachs: A Sketch (London, Macmillan 1888), a novel about upper middle-class Jewish life in London.

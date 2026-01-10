@@ -1,0 +1,8 @@
+---
+id: 252
+reference-type: Periodical
+name: <i>Glasgow News, The</i>
+title: <i>Glasgow News, The</i>
+---
+
+A Conservative newspaper founded in 1873.

@@ -1,0 +1,18 @@
+---
+id: 2681
+title: To Alexander Macmillan
+date: '1879-07-11'
+display-date: '[11 July 1879]'
+from-name: Charlotte Mary Yonge
+from-address: Elderfield
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54921: 101'
+---
+
+[[To Alexander Macmillan](/person/939)]I send herewith the other tale, Selma’s Secret Sighs in a Christmas number[^2]
+
+C M Yonge
+
+
+[^1]: Postcard addressed to \'A Macmillan Esq/ 30 Bedford Street/ Covent Garden/ London E C.\' and postmarked Winchester, 11 July 1879.
+[^2]: CMY was assembling the stories which were republished as [Bye-Words](/book/135) (1880).

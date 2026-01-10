@@ -1,0 +1,16 @@
+---
+id: 81
+title: Caged Lion, The By Charlotte M. Yonge, author of “The Heir of Redclyffe”.
+author: Charlotte Mary Yonge
+date: '1870'
+genre: Fiction (historical)
+publication-format: Book
+publisher: 'London: Macmillan and Co.'
+serialization: Serialized in<i> MP</i> July 1868-Dec 1869, and before that in the<i>
+  Barnacle</i>, 1866-67.
+illustrator: The illustrations are signed with a monogram.
+---
+
+This seems to be the first publication with “Charlotte M.
+
+Yonge” given as author.

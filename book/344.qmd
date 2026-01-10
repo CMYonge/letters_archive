@@ -1,0 +1,9 @@
+---
+id: 344
+title: '‘Forewarned, Forearmed: In the Person of a Thoughtful Aunt.’ By C.M. Yonge'
+author: Charlotte Mary Yonge
+date: '1901'
+genre: Fiction (modern)
+publication-format: Short Story in Journal
+publisher: <i>Mothers in Council</i> 11.40 (Jan. 1901) 21-26
+---

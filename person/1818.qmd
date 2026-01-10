@@ -1,0 +1,10 @@
+---
+id: 1818
+full-name: William Whewell
+first-name: William
+last-name: Whewell
+title: William Whewell
+dates: (1794-1866)
+---
+
+professor of moral philosophy at Cambridge, 1838-1855, and Master of Trinity College 1841-1866.

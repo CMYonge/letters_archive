@@ -1,0 +1,8 @@
+---
+id: 1842
+full-name: Venetia Digby
+first-name: Venetia
+last-name: Digby
+title: Venetia Digby
+dates: (1600-1633)
+---

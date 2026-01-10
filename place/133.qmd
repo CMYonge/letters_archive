@@ -1,0 +1,10 @@
+---
+id: 133
+reference-type: Place
+name: Pitt Chapel
+title: Pitt Chapel
+---
+
+This chapel in an outlying hamlet of Hursley was built at CMY\'s expense.
+
+It is now a private house.

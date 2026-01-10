@@ -1,0 +1,10 @@
+---
+id: 350
+full-name: Mary Elizabeth Coleridge
+first-name: Mary Elizabeth
+last-name: Coleridge
+title: Mary Elizabeth Coleridge
+dates: (1861-1907)
+---
+
+poet, contributor to MP

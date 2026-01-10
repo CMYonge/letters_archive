@@ -1,0 +1,11 @@
+---
+id: 1109
+full-name: The Rev. Nutcombe Oxenham
+first-name: Nutcombe
+last-name: Oxenham
+prefix: The Rev.
+title: The Rev. Nutcombe Oxenham
+dates: (1811-1859)
+---
+
+Vicar of Modbury

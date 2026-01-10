@@ -1,0 +1,13 @@
+---
+id: 1548
+full-name: The Rev. Algernon Wodehouse
+first-name: Algernon
+last-name: Wodehouse
+prefix: The Rev.
+title: The Rev. Algernon Wodehouse
+dates: (1814-1882)
+---
+
+Rector of Easton
+
+He married (1844) Lady Eleanor Ashburnham (d.1895).

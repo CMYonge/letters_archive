@@ -1,0 +1,12 @@
+---
+id: 2032
+full-name: Francisque Michel
+first-name: Francisque
+last-name: Michel
+title: Francisque Michel
+dates: (1809-1887)
+---
+
+French author and translator
+
+His translations of Tennyson included Viviane (1868) and Genièvre (1868).

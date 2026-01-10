@@ -1,0 +1,9 @@
+---
+id: 265
+title: \'Three Generations- Heredity\' by C. M. Yonge
+author: Charlotte Mary Yonge
+date: '1895'
+genre: Fiction (modern)
+publication-format: Short Story in Journal
+publisher: <i>Mothers in Council</i> 5:18 (April 1895) 74-78
+---

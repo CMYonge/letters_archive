@@ -1,0 +1,8 @@
+---
+id: 249
+reference-type: Organisation
+name: Perry Mason & Co.
+title: Perry Mason & Co.
+---
+
+American publisher, based in Boston.

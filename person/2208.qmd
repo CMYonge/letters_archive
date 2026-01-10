@@ -1,0 +1,11 @@
+---
+id: 2208
+full-name: Sir James Mackintosh
+first-name: James
+last-name: Mackintosh
+prefix: Sir
+title: Sir James Mackintosh
+dates: (1765-1832)
+---
+
+historian

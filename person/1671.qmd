@@ -1,0 +1,11 @@
+---
+id: 1671
+full-name: Fraulein Marie Heller
+first-name: Marie
+last-name: Heller
+prefix: Fraulein
+title: Fraulein Marie Heller
+dates: —
+---
+
+German teacher

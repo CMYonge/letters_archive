@@ -1,0 +1,13 @@
+---
+id: 671
+full-name: Sir Gilbert Redvers Heathcote
+first-name: Gilbert Redvers
+last-name: Heathcote
+prefix: Sir
+title: Sir Gilbert Redvers Heathcote
+dates: (1854-1937)
+---
+
+landowner
+
+He was grandson of Sir William Heathcote, 5th Bt..

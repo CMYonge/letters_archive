@@ -1,0 +1,9 @@
+---
+id: 264
+title: \'What can be done for our women?\' By C. M. Yonge
+author: Charlotte Mary Yonge
+date: '1894'
+genre: Non-fiction
+publication-format: Article in Journal
+publisher: <i>Mothers in Council</i> 4:14 (April 1894) 115-123
+---

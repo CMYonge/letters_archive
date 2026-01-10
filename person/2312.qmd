@@ -1,0 +1,10 @@
+---
+id: 2312
+full-name: John Murray
+first-name: John
+last-name: Murray
+title: John Murray
+dates: (1808-1892)
+---
+
+publisher

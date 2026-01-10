@@ -1,0 +1,20 @@
+---
+id: 2315
+title: To the Reverend John Frewen Moor
+date: '1869-05-29'
+display-date: May 29th [1869]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To the Reverend John Frewen Moor
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e 86.'
+---
+
+My dear [Mr Moor](/person/1046)
+Your letter followed me home from [Brighstone](/place/140) whence I returned on Wednesday. I will give you 10/ for St Pauls church when next I have an opportunity, but on Monday I am going to Oxford and I do not come back till the 12th
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Black-edged paper.

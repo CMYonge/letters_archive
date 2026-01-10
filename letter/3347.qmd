@@ -1,0 +1,19 @@
+---
+id: 3347
+title: To an Unknown Man, perhaps editor of a biographical dictionary.
+date: '1897-05-12'
+display-date: May 12th 1897
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne Winchester
+to-name: To an Unknown Man, perhaps editor of a biographical dictionary.
+manuscript-location: MS Winchester City Council, Historic Resources Centre, LH3801
+---
+
+Dear Sir
+In answer to your enquiries I beg to state that I believe my first publication was about the year 1846.[^1] I edited the [Monthly Packet](/periodical/52) from its commencement in 1851 till 1893. I have never resided anywhere but in this village
+I remain &c
+
+C M Yonge
+
+
+[^1]: In fact [Abbeychurch](/book/2) had appeared in 1844.

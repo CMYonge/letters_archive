@@ -1,0 +1,9 @@
+---
+id: 141
+title: Questions on the Psalms.
+author: Charlotte Mary Yonge
+date: '1881'
+genre: 'Non-Fiction: theology'
+publication-format: Book
+publisher: Walter Smith (late Mozley), 34 King Street, Covent Garden, London.
+---

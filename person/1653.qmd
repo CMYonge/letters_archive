@@ -1,0 +1,13 @@
+---
+id: 1653
+full-name: The Rt. Hon. William Ewart Gladstone
+first-name: William Ewart
+last-name: Gladstone
+prefix: The Rt. Hon.
+title: The Rt. Hon. William Ewart Gladstone
+dates: 1809-1898
+---
+
+Prime Minister
+
+He was loathed and mistrusted by CMY, no doubt because, being High Church and having begun as a Conservative, he should have known better than to associate with liberals and advocates of non-denominational education.

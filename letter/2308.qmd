@@ -1,0 +1,37 @@
+---
+id: 2308
+title: To Alexander Macmillan
+date: '1869-03-07'
+display-date: March 7th [1869]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield
+to-name: To Alexander Macmillan
+manuscript-location: MS Girton College Cambridge, Yonge V 1
+---
+
+Dear [Mr Macmillan](/person/939),
+I believe the[ Little Duke](/book/20) has been translated into French, I am sure I have given leave for it, but I do not always hear whether a translation comes to anything[^2]
+The [Cameos](/book/73) would certainly be the better for an Index, I do not think a genealogical table is wanted
+I find I still have one of your books, besides Julius Caesar. I will return them together.
+
+The gilt edged copy[^3] is very pretty - many thanks for it - I see the others are all more evenly sewn than that first specimen.
+
+The getting up is beautiful, though I do regret St John’s lips[^4]
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Black-edged paper.
+[^2]: Le Petit duc.
+
+Par l\'auteur de \'L\'Héritier de Redclyffe\'.
+
+Traduit par Mme Eugène Bersier. (Paris: Meyrueis 1855).
+[^3]: Of [The Pupils of St.
+
+John the Divine](/book/72).
+
+On 11 August 1868 CMY signed receipts for £200 each for the copyrights of the Cameos and The Pupils. [BL: Add.54920/206 and 207].
+[^4]: CMY disliked [Armitage](/periodical/60)\'s [illustrations](/topic/167) of The Pupils.

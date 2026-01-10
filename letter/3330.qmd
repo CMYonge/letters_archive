@@ -1,0 +1,30 @@
+---
+id: 3330
+title: To an Unknown Woman
+date: '1896-10-16'
+display-date: Oct 16th 1896
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne
+to-name: To an Unknown Woman
+manuscript-location: MS Cheltenham Ladies College 0941
+---
+
+Dear Madam
+I am sorry to say [‘The Mice at Play’](/book/35) is gone out of print and I do not know how to recover it.
+
+There are some nice plays for children by [Miss Jenner](/person/762) called Terra Cotta plays published by Innes, and another set by [Mr A Heathcote](/person/653) called Ragged Robin published by Allen.
+
+The second among the latter is good for little children[^1]
+
+yours truly
+
+C M Yonge
+
+
+[^1]: CMY was evidently consfusing Amabel Jenner, Half-hour Plays: Rumpelstilskin and Other Plays from Old Fairy Tales.
+
+Adapted either for the village school or the drawing-room (London: Smith 1889) and Constance M.
+
+Prevost, Terra Cotta Plays (London, Smith 1888).
+
+The other work mentioned is Arthur Malcolm Heathcote, Ragged Robin and Other Plays for Children (London: Allen 1890).

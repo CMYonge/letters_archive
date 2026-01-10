@@ -1,0 +1,11 @@
+---
+id: 1943
+full-name: Sir George Otto Trevelyan
+first-name: George Otto
+last-name: Trevelyan
+prefix: Sir
+title: Sir George Otto Trevelyan
+dates: (1838-1928)
+---
+
+historian

@@ -1,0 +1,11 @@
+---
+id: 2103
+full-name: The Rev. Thomas Kelly Cheyne
+first-name: Thomas Kelly
+last-name: Cheyne
+prefix: The Rev.
+title: The Rev. Thomas Kelly Cheyne
+dates: (1841-1915)
+---
+
+Oriel Professor of the Interpretation of Scripture at Oxford (1885-1908).

@@ -1,0 +1,28 @@
+---
+id: 2991
+title: To Elizabeth Roberts
+date: '1852-06-04'
+display-date: June 4th [1852]
+from-name: Charlotte Mary Yonge
+from-address: Otterbourn
+to-name: To Elizabeth Roberts
+manuscript-location: 'MS Huntington Library: Yonge Letters'
+---
+
+My dear [Madam](/person/1243)
+We have had friends staying with us, and have been a good deal employed in shewing as much of our Cathedral &c as could be visited in two or three days, or else I should sooner have thanked you for the very pretty poem, which I received on Sunday morning. I like it very much, and will insert it as soon as I have space, I have not had so much German yet as to be afraid of putting in more, but do you not think that an over quantity of German stories and poems often spoils a magazine?
+I was just about to send for [a post office order](/topic/102) for the amount of your quarter’s contribution, when I recollected that as you are not at Carlisle at present, it might not be convenient to you to have an order on that post office, and probably Botcherby does not pay money orders, so I will wait till I hear from you again before I send one.
+I heard a report a little while ago of a proposed restoration of Carlisle Cathedral, I hope there is some truth in it, for I was much dismayed at its naveless condition when I saw it three or four years ago, in the course of an expedition to the Lakes.[^1]
+It is amusing to see how papers on flowers betray the locality of their author, your mention of the gold & purple blossoms of the hearts ease[^2] reminds me how we southern people marvelled at the beautiful large wild hearts ease on the sides of the rail way, whereas in our country, the wild ones are little cream coloured things, no larger than a violet and only in the richest soils with a shade of blue in the upper petals.
+
+Such as they were how ever we had a great love for them, and I suppose they were such as Shakespeare knew as ‘milk white.’[^3]
+I have troubled you with a long gossiping note, but these subjects are so interesting I never know how to leave them
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: It was restored from 1853 to the designs of Ewan Christian.
+[^2]: \'[A Garland for the Year](/topic/225)\' MP 3 (June 1852), 446 \'the gold and purple blossoms of our common heartsease\'.
+[^3]: Midsummer Night’s Dream II, 1, 70-1: ‘a little western flower,/ Before milk-white, now purple with love\'s wound’.

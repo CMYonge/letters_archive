@@ -1,0 +1,21 @@
+---
+id: 2541
+title: To Mary Yonge
+date: '1876-02-12'
+display-date: Febry 12th 1876
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.’
+to-name: To Mary Yonge
+manuscript-location: 'MS fragment Plymouth and West Devon Area Record Office Acc No
+  308: 12-2-76'
+---
+
+My dear [Mary](/person/1626),
+So the dear old [Sir John Coleridge](/person/344) is gone, except [Aunt Jane](/person/627)[^1], I suppose [paper torn off]
+[the reverse reads]
+the most conscientious of natures, and all throughout guarded and raised by his deep religiousness I always think the tender
+
+
+[^1]: Sir John Taylor Coleridge had died on 11 February.
+
+The sentence probably went to say that now Mary\'s [father](/person/1623) had only his sister Jane Harris surviving among his contemporaries.

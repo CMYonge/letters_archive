@@ -1,0 +1,14 @@
+---
+id: 42
+reference-type: Organisation
+name: Universities Mission to Central Africa
+title: Universities Mission to Central Africa
+---
+
+This was the charity, founded in 1858, which sent the Rt.
+
+Rev.
+
+Charles Frederick Mackenzie to the Zambezi.
+
+It merged with the SPG in 1961.

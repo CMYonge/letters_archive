@@ -1,0 +1,11 @@
+---
+id: 1951
+full-name: The Rev. Benjamin Jowett
+first-name: Benjamin
+last-name: Jowett
+prefix: The Rev.
+title: The Rev. Benjamin Jowett
+dates: (1817–1893)
+---
+
+Master of Balliol from 1870, liberal theologian

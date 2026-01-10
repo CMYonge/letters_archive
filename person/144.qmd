@@ -1,0 +1,15 @@
+---
+id: 144
+full-name: The Rev. Edward Lyon Berthon
+first-name: Edward Lyon
+last-name: Berthon
+prefix: The Rev.
+title: The Rev. Edward Lyon Berthon
+dates: (1813-1899)
+---
+
+Vicar of Romsey and inventor of the screw propeller
+
+He married in June 1834 and his wife died in 1865; he was a friend of the Rev. C. A.
+
+Johns; neither his ODNB entry nor his Retrospect shed any light on the scandal described by CMY.

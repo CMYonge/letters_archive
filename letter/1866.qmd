@@ -1,0 +1,16 @@
+---
+id: 1866
+title: To Miss Grigg
+date: '1862-06-25'
+display-date: June 25th 1862
+from-name: Charlotte Mary Yonge
+to-name: To Miss Grigg
+manuscript-location: MS Charlotte Mitchell
+---
+
+Dear [Miss Grigg](/person/586),
+I send a few papers with many thanks to you for dispersing them. [Miss Adams](/person/15) and [her aunt](/person/1870) are arriving today, and in all the troubles of getting into their house this afternoon.
+
+yours sincerely
+
+C M Yonge

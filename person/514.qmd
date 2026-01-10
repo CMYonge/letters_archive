@@ -1,0 +1,11 @@
+---
+id: 514
+full-name: The Rev. J. Fletcher
+first-name: J.
+last-name: Fletcher
+prefix: The Rev.
+title: The Rev. J. Fletcher
+dates: —
+---
+
+contributor to MP (1851)

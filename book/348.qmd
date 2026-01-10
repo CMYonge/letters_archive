@@ -1,0 +1,9 @@
+---
+id: 348
+title: \'Polyglott Parsing\'
+author: Charlotte Mary Yonge
+date: 1869-1870
+genre: Non-fiction; philology
+publication-format: articles in journal
+publisher: <i>MP</i> (July 1869-August 1870)
+---

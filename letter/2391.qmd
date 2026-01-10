@@ -1,0 +1,34 @@
+---
+id: 2391
+title: To Susanna Warren
+date: '1870-10-01'
+display-date: '[1 October 1870]'
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Susanna Warren
+manuscript-location: MS Girton College Cambridge, Yonge XI 4
+---
+
+My dear [Miss Warren](/person/1475),
+Did you see in the [Guardian](/periodical/75) the death of ‘[Elizabeth Jane](/person/797) wife of the Revd [Thomas Keble](/person/801)’?- my own dear [Mrs Keble](/person/795)’s sister.[^2] She had but two days illness, and her husband is left feeble and broken.
+
+Nobody expected him to live through the winter but she was strong healthy person and it seemed as if her life was absolutely necessary to him - I have however written to [the son](/person/799), who will no doubt give his consent.
+
+She is a great loss, she was such a link with Hursley.
+
+She had just been busy about the transferring the Hursley library to [Keble College](/organisation/5). I think there is no doubt of Tom Keble’s[^3] consent, but there may be some delay in its coming as the making arrangements for the care of his father must occupy him much.
+
+Thanks for the Conversion of St Paul I have just sent off St Andrew
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Envelope addressed \'Miss Susanna Warren / Hazlewood/ Kennock/ Bovey Tracey\' postmarked Winchester and Newton Abbot 1 and 3 October 1870.
+[^2]: [John Keble](/person/798) and his brother Thomas married sisters, Charlotte and Elizabeth Clarke.
+[^3]: The Rev.
+
+Thomas Keble jr. was John Keble’s literary executor.
+
+It seems probable that Warren wanted to quote the elder Keble in a contribution she was making to the[Monthly Paper of Sunday Teaching](/periodical/81).

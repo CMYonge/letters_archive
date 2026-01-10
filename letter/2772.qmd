@@ -1,0 +1,18 @@
+---
+id: 2772
+title: To Harper & Bros.
+date: '1883-04-30'
+display-date: April 30th 1883
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Harper & Bros.
+manuscript-location: 'MS Columbia University Library, New York:  Harper Collection'
+---
+
+Messrs [Harper](/organisation/248)
+Gentlemen
+I am much obliged for your [remittance](/topic/172) of [£5](/topic/160) for [Stray Pearls](/book/170)
+
+Yours truly
+
+C M Yonge

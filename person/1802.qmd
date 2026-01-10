@@ -1,0 +1,13 @@
+---
+id: 1802
+full-name: Sir James Paget
+first-name: James
+last-name: Paget
+prefix: Sir
+title: Sir James Paget
+dates: (1814–1899)
+---
+
+physician
+
+He was created a baronet in 1871.

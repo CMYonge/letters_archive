@@ -1,0 +1,11 @@
+---
+id: 231
+title: Girl’s Little Book, The
+author: Charlotte Mary Yonge
+date: '1893'
+genre: 'Non-fiction: advice book'
+publication-format: Booklet
+publisher: 'London: William Skeffington, 163 Piccadilly.'
+---
+
+This is an advice book and has been reprinted in the microfilm series Women and Victorian Values, 1837-1910 Advice Books, Manuals and Journals for Women.

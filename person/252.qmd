@@ -1,0 +1,11 @@
+---
+id: 252
+full-name: Princess Olga Nikolaevna Cantacuzène
+first-name: Olga Nikolaevna
+last-name: Cantacuzène
+prefix: Princess
+title: Princess Olga Nikolaevna Cantacuzène
+dates: (1868-1950)
+---
+
+contributor to MP (1882)

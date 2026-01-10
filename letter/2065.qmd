@@ -1,0 +1,29 @@
+---
+id: 2065
+title: To Alexander Macmillan
+date: '1865-08-13'
+display-date: Aug 13th [1865]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54920: 107-8'
+---
+
+Dear [Mr Macmillan](/person/939),
+Thanks, here are the receipts. I think I once got 5/ in like manner before from the Cape.[^1] I am not able yet to speak with any certainty of our plans.
+
+We have just offered ourselves to my [uncle](/person/1623) for the 8th of September, and there is such a vista of relations to stay with when once we get into Devonshire, that I do not think we shall come to London till the middle or end of October, and that is dependent on whether [Mr](/person/558) and [Mrs Gibbs](/person/1856) have finished some alterations they are making to their house at St Dunstans - so it is not at all worth while to try to make times fit, though if our London visit does come to pass I should be very sorry to miss you.
+
+Could we not accomplish a meeting at the British Museum and looking together at some of the wonderful wood cuts of Maximilian’s time.
+
+In the Nuremberg Chronicle, there is a wood cut of Ulm which would make a delicious frontispiece, and I know I could borrow that, or I suppose it could be copied in the Museum.[^2]
+I fancy a few facsimiles (reduced) of those curious wood cuts such as this and one or two from Theurdanck and the Weise Konig would be very attractive.
+
+Yours sincerely
+
+C M Yonge
+I hope in a few days to send the rest of the [Prince and the Page](/book/61).
+
+
+[^1]: Money received in respect of the sale of [pirated](/topic/172) American editions in the British Empire.
+[^2]: These [illustrations](/topic/167) were intended for the volume edition of [The Dove in the Eagle\'s Nest](/book/62).

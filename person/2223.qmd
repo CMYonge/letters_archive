@@ -1,0 +1,11 @@
+---
+id: 2223
+full-name: Lady Audrey Jane Charlotte Buller
+first-name: Audrey Jane Charlotte
+last-name: Buller
+prefix: Lady
+title: Lady Audrey Jane Charlotte Buller
+dates: (d.1926)
+---
+
+wife of General Sir Redvers Buller (1839-1908), commander in chief during the Boer War.

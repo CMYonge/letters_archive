@@ -1,0 +1,13 @@
+---
+id: 31
+title: 'Marie Therèse de Lamourous: foundress of the house of La Miséricorde at Bourdeaux
+  [sic]. A biography abridged from the Fr. [of F. Pouget] by the author of ‘The Heir
+  of Redclyffe’.'
+author: Charlotte Mary Yonge
+date: '1858'
+genre: Edited translation
+publication-format: Book
+publisher: John W Parker and Son West Strand, London.
+---
+
+The title page may that CMY translated this work herself, which is not the case with all the translations from the French described as ‘edited’ by her.

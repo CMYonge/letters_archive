@@ -1,0 +1,11 @@
+---
+id: 2250
+full-name: Professor the Rev. William Edward Collins
+first-name: William Edward
+last-name: Collins
+prefix: Professor the Rev.
+title: Professor the Rev. William Edward Collins
+dates: (1867–1911)
+---
+
+Professor of Ecclesiastical History at King\'s College London, and subsequently (1904) Bishop of Gibraltar

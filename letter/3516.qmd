@@ -1,0 +1,22 @@
+---
+id: 3516
+title: To Mary Elizabeth Coleridge?
+date: '1870-02-14'
+display-date: Febry 14th [1870s?]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Mary Elizabeth Coleridge?
+manuscript-location: MS Harry Ransom Humanities Research Center, University of Texas,
+  Austin
+---
+
+My dear Cousin Mary[^1],
+I am glad you like my books. I think there are one or two more that you have not seen, [the Stokesley Secret](/book/40) which is about the size of [Countess Kate](/book/44), and is most of it fun, [Kenneth](/book/10), which is about a boy and girl in the Retreat from Moscow, and some short stories for poor children, called [Langley School](/book/9), [Friarswood Post office](/book/36), [Leonard the Lion heart](/book/26) and [Ben Sylvester’s Word](/book/25)
+your affectionate cousin
+
+C M Yonge
+
+
+[^1]: The letter is obviously addressed to a child, and is catalogued in the Coleridge collection at Texas. [Mary Elizabeth Coleridge](/person/350) (1861-1907) is suggested as a possibility.
+
+None of the books mentioned was published later than 1862.

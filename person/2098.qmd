@@ -1,0 +1,11 @@
+---
+id: 2098
+full-name: General Sir Richard Church
+first-name: Richard
+last-name: Church
+prefix: General Sir
+title: General Sir Richard Church
+dates: (1784-1873)
+---
+
+liberator of Greece, uncle of the Very Rev. [Richard William Church](/person/297)

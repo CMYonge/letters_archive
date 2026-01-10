@@ -1,0 +1,10 @@
+---
+id: 2116
+full-name: Lucy Yonge
+first-name: Lucy
+last-name: Yonge
+title: Lucy Yonge
+dates: (1819-1902)
+---
+
+cousin-in-law of CMY, wife of [George Edward Yonge](/person/1611)

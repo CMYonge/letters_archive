@@ -1,0 +1,10 @@
+---
+id: 216
+title: Two Penniless Princesses.
+author: Charlotte Mary Yonge
+date: '1891'
+genre: Fiction (historical)
+publication-format: Book
+publisher: 'London and New York: Macmillan and Co.'
+serialization: Serialized in<i> MP</i> Jan-Dec 1890
+---

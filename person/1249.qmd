@@ -1,0 +1,10 @@
+---
+id: 1249
+full-name: Phil Robinson
+first-name: Phil
+last-name: Robinson
+title: Phil Robinson
+dates: (1847-1902)
+---
+
+writer on natural history, contributor to MP (1894)

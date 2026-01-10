@@ -1,0 +1,10 @@
+---
+id: 1271
+full-name: George Sanger
+first-name: George
+last-name: Sanger
+title: George Sanger
+dates: (1825?-1911)
+---
+
+circus proprietor

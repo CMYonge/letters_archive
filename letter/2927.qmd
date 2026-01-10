@@ -1,0 +1,26 @@
+---
+id: 2927
+title: To an Unknown Woman
+date: '1880-01-10'
+display-date: Jan 10th [1880s?]
+from-name: Charlotte Mary Yonge
+from-address: G F S Elderfield Otterbourne Winchester
+to-name: To an Unknown Woman
+manuscript-location: MS Princeton University, Parrish Collection
+---
+
+Dear Madam
+I do not think your duties are very definite.[^1]
+1st to induce a bookseller within easy reach of your Branch to keep a depôt of [GFS](/organisation/23) literature
+2d To manage the Book slate at festivals
+3d to know the numbers of GFS magazines taken in the Branch
+4th to know whether the girls have access to lending libraries and if books are borrowed from the Diocesan Library to manage the correspondence
+5th To fill up the report for me
+
+Yours truly
+C.M.
+
+Yonge
+
+
+[^1]: As branch organizer of the Girls’ Friendly Society.

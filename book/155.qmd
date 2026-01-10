@@ -1,0 +1,10 @@
+---
+id: 155
+title: Millar, a Mollar, a Ten o’clock Scholar, A
+author: Charlotte Mary Yonge
+date: n.d.
+genre: Fiction
+publication-format: Booklet
+publisher: Walter Smith (late Mozley), 34 King Street, Covent Garden, London.
+serialization: Also in collection, <i>Langley Little Ones</i> (1882)
+---

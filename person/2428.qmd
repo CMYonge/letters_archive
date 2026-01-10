@@ -1,0 +1,10 @@
+---
+id: 2428
+full-name: Mrs Baker
+first-name: Mrs
+last-name: Baker
+title: Mrs Baker
+dates: —
+---
+
+Evidently a friend of Frances Mary Peard\'s.

@@ -1,0 +1,25 @@
+---
+id: 2714
+title: To Harper & Bros.
+date: '1880-11-15'
+display-date: Novr 15th 1880
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Harper & Bros.
+manuscript-location: 'MS Columbia University Library, New York:  Harper Bros Collection'
+---
+
+Messrs [Harper](/person/248)
+I am much obliged for the [£10](/topic/160) for [Love and Life](/book/137) received on the 14th yesterday. I am also much obliged to you for sending me your ‘[paper for young people](/periodical/250).’[^1] I ventured to extract a short poem on the Plumes of Crecy for a [Reading Book for schools](/book/150) making however a few alterations to bring it more into accordance with history than romance[^2]
+Yours faithfully
+C.M.
+
+Yonge
+
+
+[^1]: There is a pencil line beside the mention of the reading book and ‘Is not this worth mention?’ written in pencil.
+
+Underneath, in ink ‘Attended to./ S.S.C.’
+[^2]: Lillie E.
+
+Barr, ‘The Plumes of Creçy’ was included in [English History Reading Books](/book/150) III, 106-9, with a note ‘in Harper’s Young People (slightly altered)’. CMY has reciprocated the American [piracy](/topic/172) of her work.

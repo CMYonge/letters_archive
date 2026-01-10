@@ -1,0 +1,15 @@
+---
+id: 1980
+full-name: The Rev. George Sarawia
+first-name: George
+last-name: Sarawia
+prefix: The Rev.
+title: The Rev. George Sarawia
+dates: (1845-1901)
+---
+
+missionary
+
+When he was ordained in 1873 he became the first Melanesian to be ordained a priest.
+
+He came from Mota.

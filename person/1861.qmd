@@ -1,0 +1,10 @@
+---
+id: 1861
+full-name: Miss Jackson
+last-name: Jackson
+prefix: Miss
+title: Miss Jackson
+dates: —
+---
+
+novelist

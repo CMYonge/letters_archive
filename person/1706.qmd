@@ -1,0 +1,11 @@
+---
+id: 1706
+full-name: The Rt. Rev. George Isaac Huntingford
+first-name: George Isaac
+last-name: Huntingford
+prefix: The Rt. Rev.
+title: The Rt. Rev. George Isaac Huntingford
+dates: (1748-1832)
+---
+
+Bishop of Hereford and Warden of Winchester College

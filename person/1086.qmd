@@ -1,0 +1,10 @@
+---
+id: 1086
+full-name: Florence Nightingale
+first-name: Florence
+last-name: Nightingale
+title: Florence Nightingale
+dates: (1820-1910)
+---
+
+medical reformer

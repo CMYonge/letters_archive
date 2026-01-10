@@ -1,0 +1,9 @@
+---
+id: 126
+title: Story of the Christians and the Moors in Spain, The.
+author: Charlotte Mary Yonge
+date: '1878'
+genre: 'Non-fiction: history'
+publication-format: Book
+publisher: 'London and New York: Macmillan and Company.'
+---

@@ -1,0 +1,6 @@
+---
+id: 220
+reference-type: Periodical
+name: <i>London Society</i>
+title: <i>London Society</i>
+---

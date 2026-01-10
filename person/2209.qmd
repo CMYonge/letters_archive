@@ -1,0 +1,10 @@
+---
+id: 2209
+full-name: Miss Stanford
+first-name: Miss
+last-name: Stanford
+title: Miss Stanford
+dates: —
+---
+
+official of the GFS

@@ -1,0 +1,10 @@
+---
+id: 2124
+full-name: Baron von Tauchnitz Christian Karl Bernhard von Tauchnitz
+first-name: Christian Karl Bernhard
+last-name: von Tauchnitz
+title: Baron von Tauchnitz Christian Karl Bernhard von Tauchnitz
+dates: (1841-1904)
+---
+
+publisher of English books in Leipzig, son of [Christian Bernhard, Baron von Tauchnitz](/person/1396)

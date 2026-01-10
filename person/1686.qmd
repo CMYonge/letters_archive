@@ -1,0 +1,10 @@
+---
+id: 1686
+full-name: George Wither
+first-name: George
+last-name: Wither
+title: George Wither
+dates: (1588-1667)
+---
+
+poet

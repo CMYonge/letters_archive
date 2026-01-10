@@ -1,0 +1,8 @@
+---
+id: 204
+reference-type: Organisation
+name: Scribner
+title: Scribner
+---
+
+American publisher

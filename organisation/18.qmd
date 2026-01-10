@@ -1,0 +1,8 @@
+---
+id: 18
+reference-type: Organisation
+name: British Institution, The
+title: British Institution, The
+---
+
+The British Institution for Promoting the Fine Arts, which flourished 1805-1867, had exhibition galleries at  52 Pall Mall.

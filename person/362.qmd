@@ -1,0 +1,10 @@
+---
+id: 362
+full-name: Old Collins
+last-name: Collins
+prefix: Old
+title: Old Collins
+dates: (fl.19 Sept 1846)
+---
+
+an inhabitant of Otterbourne

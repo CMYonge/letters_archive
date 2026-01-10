@@ -1,0 +1,13 @@
+---
+id: 1252
+full-name: Sir 1st Lord Blachford Frederic Rogers
+first-name: Frederic
+last-name: Rogers
+prefix: Sir
+title: Sir 1st Lord Blachford Frederic Rogers
+dates: (1811-1889)
+---
+
+landowner
+
+He succeeded his father as 8th baronet in 1851 and was created (1871) 1st Lord Blachford; he married (1847) Georgiana Mary Colvile (d. 13 July 1900), they had no children and lived at Blachford Park, near Cornwood [ODNB]

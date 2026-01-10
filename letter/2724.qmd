@@ -1,0 +1,39 @@
+---
+id: 2724
+title: To the Reverend Richard St. John Tyrwhitt
+date: '1881-05-04'
+display-date: May 4th [1881?]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To the Reverend Richard St. John Tyrwhitt
+manuscript-location: 'MS Bodleian Library, Oxford: Ms. Eng. lett. e.116 ff 184-8'
+---
+
+My dear [Mr Tyrwhitt](/person/1428)
+Those Kindergarten books are published by a Froebel society The one I read last was ‘Kindergarten’ Lectures by ladies of the Froebel society, [Miss Shirreff](/person/2330), [Miss Anna Buckland](/person/2331) &c.[^1] Some of the said lectures were sensible There is one on stories including fairy and that though inconsistent with the rest is very good. I think so far as the Kindergarten is an Infant school with a fine name, to which gentry and still more, middle class parents will send their children to be taught little exercise songs, to draw, build with cubes and plait coloured paper they are very desirable and children sent there are- people say- never at a loss for occupation but to adopt the system in toto seems to me a dealing with English children on the German drill system, and insisting on the perfect understanding of every thing which leads to materialism.
+
+However they are pious in a German sort of way about the Liebe Gott, only it is all the vague idea of Fatherhood with no dogmas or mysteries But they think it all very religious.
+
+The general text book is a translation of [Baroness Bulow](/person/2332)’s exposition,[^2] which I tried to read, but I don’t know whether it was my fault or the book’s- I stuck in what seemed to me solemn nonsense especially when I found that das Kind was to be trained to water sham flowers with sham water, to learn to take interest in watering real ones with real water an art in which I never saw a child who did not take quite sufficient interest untrained!
+
+But it is a system of educating- not the pretty plays of the modified Kindergarten in English towns that I mean.
+
+Tho I believe the London School board is taking it up as a whole
+This Kindergarten book and all such others are published by Swann Sonnenschein but I may as well send it to you, only I should have it back in a few days
+I think Miss Buckland mostly excellent, Miss Shirreff shews up the faults.
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Essays on the Kindergarten.
+
+Being a selection of lectures read before the London Froebel Society (1881). CMY\'s mistrust of Emily Shirreff (1814-1897), one of the most prominent campaigners for women\'s education in Victorian Britain, is interesting.
+
+Doubtless her support for non-denominational schools for middle-class girls was disapproved of.
+[^2]: There were a number of English translations of various works by Bertha, Baroness von Marenholtz-Bülow expounding [Friedrich Fröbel](/person/2333)\'s theories on pre-school education. CMY perhaps read one of the translations by Alice M.
+
+Christie called Child and Child-Nature (London: Swan Sonnenschein 1879) or Hand Work and Head Work; Their Relation to one another, and the Reform of Education according to the Principles of Froebel (London: Swan Sonnenschein 1883), translations respectively of Bülow\'s Das Kind und sein Wesen.
+
+Beiträge zum Verständniss der Fröbelschen Erziehungslehre (1868) and Die Arbeit und die neue Erziehung nach Fröbels Methode (1866).

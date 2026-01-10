@@ -1,0 +1,23 @@
+---
+id: 1986
+title: To the Reverend John Frewen Moor
+date: '1864-10-28'
+display-date: Oct 28th 1864
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To the Reverend John Frewen Moor
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e 86.'
+---
+
+My dear [Mr Moor](/person/1046)
+I am sorry to say that I had sent the £600 a year question away, but I think you may safely assume that the clergyman lives in the country, and has a house, and glebe - and that the three sons are of an age to be educated - I cannot get at the propounder of the question, or I would have asked her[^1]
+With many thanks
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: One of the arithmetic questions over which they were cooperating.
+
+See the letters to Moor dated June and 23 November 1864.

@@ -1,0 +1,11 @@
+---
+id: 247
+title: 'John Keble’s Parishes: A History of Hursley and Otterbourne. By Charlotte
+  M. Yonge, An Old Inhabitant.'
+author: Charlotte Mary Yonge
+date: '1898'
+genre: 'Non-fiction: history, topography'
+publication-format: Book
+publisher: 'London and New York: Macmillan and Co.'
+illustrator: Illustrated
+---

@@ -1,0 +1,10 @@
+---
+id: 2266
+full-name: William John Dampier
+first-name: William John
+last-name: Dampier
+title: William John Dampier
+dates: —
+---
+
+brother of [Jane](/person/1345) and [Emily Dampier](/person/404)

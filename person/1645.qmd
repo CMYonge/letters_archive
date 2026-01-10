@@ -1,0 +1,11 @@
+---
+id: 1645
+full-name: Sir Martin Crawley Boevey
+first-name: Martin
+last-name: Crawley Boevey
+prefix: Sir
+title: Sir Martin Crawley Boevey
+dates: 1812-1862
+---
+
+cousin of CMY

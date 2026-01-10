@@ -1,0 +1,10 @@
+---
+id: 220
+full-name: Samuel Budgett
+first-name: Samuel
+last-name: Budgett
+title: Samuel Budgett
+dates: (1794-1851)
+---
+
+subject of the book The Successful Merchant (1852)

@@ -1,0 +1,8 @@
+---
+id: 27
+reference-type: Organisation
+name: Institution for the Employment of Needlewomen, The
+title: Institution for the Employment of Needlewomen, The
+---
+
+This organization was the subject of articles in the Englishwoman’s Journal (1860) and the MP (August 1861).

@@ -1,0 +1,27 @@
+---
+id: 3069
+title: The Reverend John Keble to Charlotte Mary Yonge
+date: '1855-06-29'
+display-date: St. Peter’s Day [29 June], 1855.
+from-name: Charlotte Mary Yonge
+from-address: H.V.,
+to-name: The Reverend John Keble to Charlotte Mary Yonge
+manuscript-location: MS location unknown.  These extracts printed in <i>[[cmybook:88]Musings
+  over the Christian Year]</i> xxxix.
+---
+
+My dear Charlotte,
+We shall send [K.Charles](/organisation/249) back to-morrow or the next day, with many thanks.[^1]
+It is very interesting, but [I](/person/798) own I think the conclusion rather lame and impotent, and I think most people would consider the Marquis as the hero of the Conference.
+I send 4 or 5 copies of our Missionary notice for Wednesday, for those who may be supposed likely to have interest enough in the work to make an offering . . .
+
+Always [your Mother](/person/1606)’s and yours very affly,
+J. K.
+
+
+[^1]: CMY glossed the letter thus in Musings: ‘There is one that reminds me of his having tried to find some book in which the Roman controversy was put in an easy and sound form.
+
+There was some joking between us on the controversy Miss Olivia Primrose had read, being that between Will Atkins and his wife in ‘Robinson Crusoe,’ and it ended in my borrowing for him a book containing the curious argument between King Charles I. and the Marquis of Worcester.’ The reference is to Oliver Goldsmith, [The Vicar of Wakefield](/periodical/73) (1766), Chapter 7: ‘ “I have read a great deal of controversy. I
+have read the disputes between Thwackum and Square; the controversy between Robinson Crusoe and Friday the savage, and I am now employed in reading the controversy in Religious Courtship.”’ The borrowed book was Certamen Religiosum: or, a Conference between His late Majestie Charles King of England, and Henry late Marquess and Earl of Worcester, concerning religion; at His Majesties being at Raglan Castle, 1646.
+
+Wherein the maine differences, now in controversie, between the Papists and the Protestants is no lesse briefly than accuratly discuss’d and bandied (1649); and the supposed participants [Charles I](/person/1768) and [Henry Somerset, fifth Earl and first Marquess of Worcester](/person/1769) (1577–1646).

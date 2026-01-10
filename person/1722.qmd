@@ -1,0 +1,10 @@
+---
+id: 1722
+full-name: Robert Southey
+first-name: Robert
+last-name: Southey
+title: Robert Southey
+dates: (1774-1843)
+---
+
+poet

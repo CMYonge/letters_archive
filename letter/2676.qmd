@@ -1,0 +1,31 @@
+---
+id: 2676
+title: To Alexander Macmillan
+date: '1879-06-24'
+display-date: June 24th [1879]
+from-name: Charlotte Mary Yonge
+from-address: 1 Sussex Sq W[[footnote:1]]
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54921: 94'
+---
+
+My dear [Mr Macmillan](/person/939)
+
+I am here for a day or two, and I hardly think there is any need to take up your time by calling, but I am going to beg for a copy of Dean Church, Spenser, and of Professor Sharpes’ Burns.[^2]
+
+I have never thanked for the English history lectures, of which most of the substance is excellent, but there are a few slips of detail in names &c[^3]
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: This was the home of [Lord Coleridge](/person/343).
+[^2]: Spenser (1879) by the Very Rev. R. W.
+
+Church, Dean of St.
+
+Pauls and Burns (1879) by John Campbell Shairp, Professor of Poetry at Oxford and Principal of St.
+
+Andrews University, were both volumes in Macmillan\'s Men of Letters Series.
+[^3]: Not identified.

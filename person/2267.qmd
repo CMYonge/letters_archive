@@ -1,0 +1,10 @@
+---
+id: 2267
+full-name: Otto Eduard Leopold von Bismarck
+first-name: Otto Eduard Leopold von
+last-name: Bismarck
+title: Otto Eduard Leopold von Bismarck
+dates: 1815-1898
+---
+
+German statesman

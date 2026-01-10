@@ -1,0 +1,10 @@
+---
+id: 232
+title: 'Chimes for the Mothers: A Reading for Each Week in the Year. By Charlotte
+  M. Yonge'
+author: Charlotte Mary Yonge
+date: November 1893
+genre: 'Non-fiction: selection'
+publication-format: Edited book
+publisher: 'London: Wells Gardner, Darton.'
+---

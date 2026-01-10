@@ -1,0 +1,10 @@
+---
+id: 225
+title: Old Woman’s Outlook in a Hampshire Village, An By Charlotte M. Yonge.
+author: Charlotte Mary Yonge
+date: '1892'
+genre: Non-fiction, reminiscences, natural history
+publication-format: Book
+publisher: 'London and New York: Macmillan and Company.'
+serialization: Serialized in<i> MP</i> Jan-Dec 1892
+---

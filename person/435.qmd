@@ -1,0 +1,10 @@
+---
+id: 435
+full-name: Mr Dennis
+last-name: Dennis
+prefix: Mr
+title: Mr Dennis
+dates: —
+---
+
+probably the dispensary doctor in 1838

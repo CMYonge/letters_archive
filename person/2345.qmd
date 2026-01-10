@@ -1,0 +1,10 @@
+---
+id: 2345
+full-name: Pasquale Villari
+first-name: Pasquale
+last-name: Villari
+title: Pasquale Villari
+dates: (1827-1917)
+---
+
+historian

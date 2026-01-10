@@ -1,0 +1,38 @@
+---
+id: 1880
+title: To the Reverend Henry Octavius Coxe
+date: '1862-11-26'
+display-date: Novr 26th 1862
+from-name: Charlotte Mary Yonge
+from-address: Otterbourne, Winchester.
+to-name: To the Reverend Henry Octavius Coxe
+manuscript-location: 'MS Bodleian Library, Oxford: MS Eng. Lett d.418.ff 152-153'
+---
+
+My dear [Mr Coxe](/person/377),
+Many, many thanks for those saints, who were just what I wanted.[^2] Only would you further add to the kindness by telling me, what 'Surius' means. I must quote the authority for that out of the way kind of thing, and I don’t sufficiently understand what this means to put it down.
+
+Were the Maura and Timothy of the Thebaid crucified? I want to know because [Kingsley](/person/816) has a poem called Sta Maura on that subject, the wife’s discourse all night as they hang, & people have supposed it an invention because she is not the same as the Roman Maura - so I ought to mention it.[^3]
+If you have Capgrave’s Irish Saints, please tell me who St Ronan Finn was.[^4] He is most likely to be there.
+
+Also who published your modern ed of the 4 Masters
+Here’s a much worse question- G.
+
+Costard, in 1758 published an improved ed of the Halley’s ed of the latin translation of the Alexandrian philosopher Menelaus’s translation of the treatise of the Sphere.[^5] If you have it, could you find for me Menelaus’s definition of the nadir. I want to know if he describes it 'as a right line subtending the double of an arc'- as at very second hand I hear he does, and whether he then applies it to the point below one’s feet. I should also be glad to know what the word is in arabic, and what it properly meant then, if it is in any Arab lexicon.
+I have been drawn in to help in the M S of the philosophical dictionary[^6] which is the reason of this huge plunge below my depth - There is no hurry at all about the nadir, but 'Surius' I should be glad to have explained because I am using the extract -
+I am sorry to be so troublesome. I wish I could get at that study once a week!
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: With annotation, probably by Coxe.
+[^2]: She had asked for information about Greek saints for her [History of Christian Names](/book/48).
+[^3]: Charles Kingsley, ‘Saint Maura, A.D. 304’ (1852) refers to Saints Maura and Timothy, a husband and wife killed in the Thebaid, Egypt, during the persecutions of Diocletian.
+[^4]: John Capgrave, Augustinian friar, historian and theologian (1393-1464). CMY perhaps refers to the version of his Vita Sanctae Brigidae, published with lives of Saints Columba and Fiacre by Robert Rochford in 1625.
+
+St Ronan Finn was a 7c Irish saint.
+[^5]: Annotated ‘o Donovan’.
+[^6]: Menelaus of Alexandria was a 2c mathematician.
+[^8]: This is perhaps a slip for [\'Philological Dictionary\'](/topic/151).

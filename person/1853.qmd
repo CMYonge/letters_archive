@@ -1,0 +1,10 @@
+---
+id: 1853
+full-name: Robert Bruce
+first-name: Robert
+last-name: Bruce
+title: Robert Bruce
+dates: (1292-1314)
+---
+
+King of Scotland

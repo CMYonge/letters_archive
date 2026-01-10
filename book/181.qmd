@@ -1,0 +1,10 @@
+---
+id: 181
+title: English History Reading Books, Adapted to the Requirements of the New Code.
+  With “the Advanced Part”.
+author: Charlotte Mary Yonge
+date: '1885'
+genre: Non-fiction, history, edited selection
+publication-format: Edited book
+publisher: National Society’s Depository, Broad Sanctuary, London.
+---

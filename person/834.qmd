@@ -1,0 +1,10 @@
+---
+id: 834
+full-name: Andrew Lang
+first-name: Andrew
+last-name: Lang
+title: Andrew Lang
+dates: (1844-1912)
+---
+
+novelist, journalist, contributor to MP (1894-5)

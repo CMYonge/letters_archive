@@ -1,0 +1,10 @@
+---
+id: 1767
+full-name: Mrs Knight
+last-name: Knight
+prefix: Mrs
+title: Mrs Knight
+dates: <i>fl.</i> 1855
+---
+
+an inhabitant of Otterbourne

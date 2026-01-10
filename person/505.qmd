@@ -1,0 +1,12 @@
+---
+id: 505
+full-name: Paul Féval
+first-name: Paul
+last-name: Féval
+title: Paul Féval
+dates: (1816-1887)
+---
+
+French novelist, contributor to MP (1867-8)
+
+The translation of his novel was by FMY.

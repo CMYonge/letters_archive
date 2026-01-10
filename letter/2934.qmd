@@ -1,0 +1,21 @@
+---
+id: 2934
+title: To Anne Yonge
+date: '1837-01-01'
+display-date: '[1837]'
+from-name: Charlotte Mary Yonge
+to-name: To Anne Yonge
+manuscript-location: MS location unknown.  This fragment printed by Coleridge, <i>Life</i>,
+  140.
+---
+
+I wish [you](/person/1582) could see [my young ladies](/book/1), who have advanced to copy-books since they were at [Puslinch](/place/123).
+
+All their uncles, aunts, and cousins are staying with them, and in the midst of all poor Rosalie’s horse threw her, and she had a strain which is keeping her on the sofa.
+
+One evening when everybody but her and her friend Isabella were gone to see the Eddystone, they heard a carriage come to the door, and after some time up came the man with a card on which was written Colonel Melville.
+
+He was their Uncle Frederick who had gone out to India five years before, and in coming back was supposed to have been drowned, as nothing has been heard of him since.[^1]
+
+
+[^1]: This was the story which was afterwards printed and sold as Le Château de Melville (1838).

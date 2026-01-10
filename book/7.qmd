@@ -1,0 +1,15 @@
+---
+id: 7
+title: Harriet and her Sister.
+author: Charlotte Mary Yonge
+date: '1848'
+genre: Fiction (modern)
+publication-format: Booklet
+publisher: John and Charles Mozley, 6, Paternoster Row, London, and Joseph Masters,
+  78, New Bond Street, London
+illustrator: One unsigned plate
+---
+
+There are copies in the NLW and Lambeth Palace Library.
+
+It was reprinted in The Christmas Mummers and Other Stories (1876).

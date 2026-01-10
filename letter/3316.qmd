@@ -1,0 +1,21 @@
+---
+id: 3316
+title: To Frederick Orridge Macmillan
+date: '1896-02-28'
+display-date: Feb 28th 1896
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne
+to-name: To Frederick Orridge Macmillan
+manuscript-location: 'MS British Library  Add MSS 54921: 223'
+---
+
+Dear [Mr Macmillan](/person/942)
+I am very glad of your favourable answer about the [Cameos](/book/240). I shall be glad of the terms you propose - dividing the profits and you taking the risk, my object being to have them continued without expense
+I am delighted to see the faithful and affectionate notice in the new number of the Magazine[^1]
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: The obituary of Alexander Macmillan, sr., who had died on 26 January 1896: ‘Alexander Macmillan’ Macmillan’s Magazine 73 (March 1896) 397-400.

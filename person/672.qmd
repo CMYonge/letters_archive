@@ -1,0 +1,13 @@
+---
+id: 672
+full-name: Sir William Arthur Heathcote
+first-name: William Arthur
+last-name: Heathcote
+prefix: Sir
+title: Sir William Arthur Heathcote
+dates: (1853-1924)
+---
+
+priest
+
+He was grandson of Sir William Heathcote, 5th Bt..

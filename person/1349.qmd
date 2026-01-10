@@ -1,0 +1,9 @@
+---
+id: 1349
+full-name: Marshal duc de Dalmatie Nicolas-Jean de Dieu Soult
+first-name: Nicolas-Jean de Dieu
+last-name: Soult
+prefix: Marshal
+title: Marshal duc de Dalmatie Nicolas-Jean de Dieu Soult
+dates: (1769-1851)
+---

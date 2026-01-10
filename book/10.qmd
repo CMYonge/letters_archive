@@ -1,0 +1,10 @@
+---
+id: 10
+title: Kenneth, or, The Rear Guard of the Grand Army. By the author of “Scenes and
+  Characters,” “Kings of England,” etc.
+author: Charlotte Mary Yonge
+date: '1850'
+genre: Fiction (historical)
+publication-format: Book
+publisher: John Henry Parker, Oxford and London.
+---

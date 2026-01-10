@@ -1,0 +1,10 @@
+---
+id: 1974
+full-name: Thomas Roscoe
+first-name: Thomas
+last-name: Roscoe
+title: Thomas Roscoe
+dates: (1791-1871)
+---
+
+historian

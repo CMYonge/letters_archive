@@ -1,0 +1,21 @@
+---
+id: 2597
+title: To Alexander Macmillan
+date: '1877-09-11'
+display-date: Sept 11th 1877
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54921: 32'
+---
+
+Dear [Mr Macmillan](/person/939)
+Please let me have the rest of the [Primer](/book/353) I thought I had it all, but I cannot find further than what I send.
+I am waiting for [Mr Freeman](/person/523)’s orders before I send back [the French history](/book/99)
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Black-edged paper.

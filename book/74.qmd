@@ -1,0 +1,13 @@
+---
+id: 74
+title: '“Children’s literature of the last century: I. - Nursery books of the eighteenth
+  century.” by Miss Yonge'
+author: Charlotte Mary Yonge
+date: '1869'
+genre: 'Non-fiction: criticism'
+publication-format: Article in Journal
+publisher: Not reprinted in volume form
+serialization: '<i>Macmillan’s Magazine.</i> 20 (May, 1869): 229-237'
+---
+
+An early instance of CMY allowing her name to appear, though not in the form she ultimately adopted.

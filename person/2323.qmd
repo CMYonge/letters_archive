@@ -1,0 +1,12 @@
+---
+id: 2323
+full-name: Kate Greenaway
+first-name: Kate
+last-name: Greenaway
+title: Kate Greenaway
+dates: (1846-1901)
+---
+
+illustrator
+
+The illustrations she contributed to Macmillan\'s collected edition of CMY\'s fiction were not much admired.

@@ -1,0 +1,10 @@
+---
+id: 1807
+full-name: Sister Ellen
+first-name: Ellen
+prefix: Sister
+title: Sister Ellen
+dates: —
+---
+
+a nun at Clewer

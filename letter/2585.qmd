@@ -1,0 +1,15 @@
+---
+id: 2585
+title: To Mr Collier
+date: '1877-06-14'
+display-date: June 14th 1877
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Mr Collier
+manuscript-location: 'MS UCLA: collection 100: box 95'
+---
+
+Miss Yonge would be obliged to [Mr Collier](/person/356) if he would reserve a ticket for her for each day of the Conference.[^1] She encloses stamps for 5/
+
+
+[^1]: The Hampshire Diocesan Conference in Winchester, which opened on Tuesday 26 June 1877.

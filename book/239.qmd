@@ -1,0 +1,13 @@
+---
+id: 239
+title: Release, or, Caroline’s French Kindred, The
+author: Charlotte Mary Yonge
+date: September 1896
+genre: Fiction (historical)
+publication-format: Book
+publisher: 'London and New York: Macmillan and Company.'
+serialization: The first chapter published as ‘Caroline’s Defiance’ in<i> MP</i> Dec
+  1894
+---
+
+This is a sequel to The Chaplet of Pearls and Stray Pearls.

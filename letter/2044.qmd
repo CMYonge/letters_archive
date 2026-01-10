@@ -1,0 +1,20 @@
+---
+id: 2044
+title: To Alexander Macmillan
+date: '1865-06-19'
+display-date: June 19th 1865
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Alexander Macmillan
+manuscript-location: MS British Library
+---
+
+My dear [Mr Macmillan](/person/939),
+Thank you for your note. [Miss Sewell](/person/1301) is coming here to talk the matter over, and sketch our plans next Wednesday week and then I will write again[^1]
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: These were plans for [Historical Selections](/book/71).

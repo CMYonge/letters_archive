@@ -1,0 +1,11 @@
+---
+id: 185
+title: Modern Telemachus, A
+author: Charlotte Mary Yonge
+date: '1886'
+genre: Fiction (historical)
+publication-format: Book
+publisher: 'London and New York: Macmillan and Company.'
+serialization: Serialized in<i> MP</i>, as “A Modern Quest of Ulysses”, Jan-Dec 1886
+illustrator: Illustrated by W. J. Hennessy.
+---

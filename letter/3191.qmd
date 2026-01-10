@@ -1,0 +1,24 @@
+---
+id: 3191
+title: To an Unknown Man
+date: '1892-02-12'
+display-date: Feb 12th 1892
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne Winchester
+to-name: To an Unknown Man
+manuscript-location: MS Princeton University, Parrish Collection
+---
+
+Dear Sir
+I should think [Miss Knapp](/person/2110)’s story would have every chance of attention if you recommended it to [Mr Duncan](/person/448) in person, I have always found that literary work stands on its own merits and on the actual opening for it.[^2]
+I feel quite sure no recommendation from me would be of half the use of your requesting Canon Duncan to let his reader judge of the M S.
+
+That is where the real decision lies, and this is the best time before their number of tales is filled up
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: Black-edged paper.
+[^2]: Canon Duncan was the secretary of the [National Society](/organisation/32) which published stories for children.

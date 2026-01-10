@@ -1,0 +1,9 @@
+---
+id: 260
+title: \'Annunciation, The\' by C.M.Yonge
+author: Charlotte Mary Yonge
+date: '1893'
+genre: verse
+publication-format: Poem in Journal
+publisher: <i>Mothers in Council</i> 3:10 (April 1893) 65-67
+---

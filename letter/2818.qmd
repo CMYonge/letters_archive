@@ -1,0 +1,24 @@
+---
+id: 2818
+title: To Mary Louisa Molesworth
+date: '1885-11-09'
+display-date: Novr 9th [1885]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne Winchester
+to-name: To Mary Louisa Molesworth
+manuscript-location: MS Princeton University, Parrish Collection
+---
+
+Dear [Mrs Molesworth](/person/1028)
+I am very sorry there has been such a delay in answering your letter.
+
+All those directed to the office were delaying in coming to me by a mistake
+I shall be very glad to see your MS if you will still send it to me, it had better come direct here, to save time[^2]
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: Envelope addressed to ‘Mrs Molesworth 85 Lexham Gardens/Kensington/ W London’ postmarked No 10 85.
+[^2]: Mary Louisa Molesworth, \'One Sunday Morning\' MP 3s 11 (April 1886) 327-337.

@@ -1,0 +1,8 @@
+---
+id: 2113
+full-name: Charles Lennard Chute
+first-name: Charles Lennard
+last-name: Chute
+title: Charles Lennard Chute
+dates: 1879-1956
+---

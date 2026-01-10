@@ -1,0 +1,11 @@
+---
+id: 145
+title: Wolf.
+author: Charlotte Mary Yonge
+date: '1881'
+genre: Fiction (modern)
+publication-format: Booklet
+publisher: 'London: Walter Smith (late Mozley), 34 King Street, Covent Garden.'
+---
+
+Also in collection, Lads and Lasses of Langley (1881)

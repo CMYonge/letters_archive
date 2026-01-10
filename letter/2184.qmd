@@ -1,0 +1,15 @@
+---
+id: 2184
+title: To Caroline Louise Alcock
+date: '1867-07-04'
+display-date: July 4th [1867]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Caroline Louise Alcock
+manuscript-location: 'MS UCLA: collection 100: box 95'
+---
+
+Miss Yonge is much obliged to [Miss Alcock](/person/19) for her paper on the [Ladies Home](/organisation/191) which answers a question newly arrived from a correspondent.
+
+
+[^1]: Black-edged paper and envelope postmarked Winchester C Jy 4 67, addressed to “Miss Alcock/39 Green Street/Grosvenor Square/London W”.

@@ -1,0 +1,11 @@
+---
+id: 740
+full-name: The Rev. Henry Neville Hutchinson
+first-name: Henry Neville
+last-name: Hutchinson
+prefix: The Rev.
+title: The Rev. Henry Neville Hutchinson
+dates: (1856-1927)
+---
+
+writer on geology, contributor to MP (1890)

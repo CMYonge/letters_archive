@@ -1,0 +1,10 @@
+---
+id: 1864
+full-name: Mr Chandler
+last-name: Chandler
+prefix: Mr
+title: Mr Chandler
+dates: —
+---
+
+friend of a would-be contributor

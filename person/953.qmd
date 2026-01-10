@@ -1,0 +1,11 @@
+---
+id: 953
+full-name: Count Alessandro Manzoni
+first-name: Alessandro
+last-name: Manzoni
+prefix: Count
+title: Count Alessandro Manzoni
+dates: (1785-1873)
+---
+
+Italian novelist, contributor to MP (1868-9)

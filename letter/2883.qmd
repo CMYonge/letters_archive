@@ -1,0 +1,26 @@
+---
+id: 2883
+title: To Arthur Donald Innes
+date: '1888-06-20'
+display-date: June 20th [1888]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield
+to-name: To Arthur Donald Innes
+manuscript-location: MS Girton College Cambridge, Yonge IV 3
+---
+
+Dear [Mr Innes](/person/744),
+I have just managed to insert time in the notice in my last proof - Is it impossible to consider the separate sheet of class list-?
+
+Church history takes up 5 pp this time, and if another 5pp is absorbed, what will be left of the poor old [M P](/periodical/52)- ?[^1]
+I suppose £25 is the first sum, but it is curious to find how time and trouble in literary matters are in inverse ration to profit. I could write a story worth £100 at once in a quarter of the time this has taken. I should certainly be glad of the £25 on publication
+I send all but the last three chapters
+They are corrected but I am afraid of putting them out of reach[^2]
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: The class list was for those who were following the course on English literature in preparation for the Cambridge Higher Local Examinations, see \'Notices to Correspondents\' MP (June 1888), 595.
+[^2]: The work under discussion here was perhaps [Preparation of Prayer-book Lessons](/book/202) (London: Smith and Innes, 1888), which was still in course of serialization in MP, but whose appearance in volume form was noticed in \'A Conversation on Books\' MP (December 1888), 590.

@@ -1,0 +1,11 @@
+---
+id: 2128
+full-name: Colonel John Rawdon Oldfield
+first-name: John Rawdon
+last-name: Oldfield
+prefix: Colonel
+title: Colonel John Rawdon Oldfield
+dates: —
+---
+
+son of [General Oldfield](/person/1100), and stepson of CMY\'s cousin Delia (Yonge) Oldfield

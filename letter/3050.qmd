@@ -1,0 +1,30 @@
+---
+id: 3050
+title: To John William Parker, Jr.
+date: '1854-07-14'
+display-date: July 14th [1854]
+from-name: Charlotte Mary Yonge
+from-address: Otterbourne
+to-name: To John William Parker, Jr.
+manuscript-location: 'MS Historical Society of Pennsylvania: Gratz Collection: Case
+  10, Box 36. British Authors.  Printed by Green, [[otherbook:75]\''Two Popular Novelists\''].'
+---
+
+Dear [Sir](/person/1143),
+I hope you will receive "[Heartsease](/book/19)” tomorrow, as I shall send it by the South Western early in the day. I shall be glad for it to appear in the same style as the first edition of the [Heir of Redclyffe](/book/15) but I do not think the volumes will be quite so large.
+
+You do not say what number you propose to print, I suppose not fewer than 1500 or 2000. I shall be quite ready to correct the proofs.
+
+One of the mottoes of the chapters was supplied from [Mr F Tennyson's poems](/topic/167) which you kindly sent me, and which arrived just as the lines were needed.
+
+I am glad to hear that the 4th edition of the Heir of Redclyffe has sold off,[^1] I hope the cheap one may meet with equal success.
+
+Yours faithfully
+C. M.
+
+Yonge
+
+
+[^1]: Presumably dated 1854.
+
+The 5th edition is dated 1854.

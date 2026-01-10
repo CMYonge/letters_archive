@@ -1,0 +1,23 @@
+---
+id: 2097
+title: To Miss Erskine
+date: '1866-01-09'
+display-date: Jan 9th [1866]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourn
+to-name: To Miss Erskine
+manuscript-location: 'MS Princeton University, Parrish Collection, CO171: Box 29'
+---
+
+My dear [Miss Erskine](/person/489)
+I have asked Ivanovna to write to you herself as what I know comes chiefly from her.
+
+She is [Miss Johanna Batty](/person/126), I believe her father was a general, and she is very learned in all charities.[^1]
+In haste yours sincerely
+
+C M Yonge
+
+
+[^1]: Ivanovna ontributed to the MP 1861-1891, but chiefly in the 1860s.
+
+She wrote on such topics as Needlewoman’s Institution, Mission Work at Home, Industrial Charities.

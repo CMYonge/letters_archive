@@ -1,0 +1,19 @@
+---
+id: 3137
+title: To an Unknown Man
+date: '1859-10-11'
+display-date: Oct 11th 1859
+from-name: Charlotte Mary Yonge
+from-address: Otterbourne, Winchester.
+to-name: To an Unknown Man
+manuscript-location: 'MS Princeton University, Parrish Collection, C0171: Box 29.'
+---
+
+Sir,
+I have much pleasure in acknowledging the safe arrival of your thank offering for the [Hospital for Sick Children](/organisation/3) in Great Ormond Street. I am this morning forwarding it to the Assistant Secretary [Mr S Whitford](/person/1811), 4, Porter Street Leicester Square. I am sure from the particulars I learn from ladies constantly in the habit of visiting there that it is a most valuable and well conducted charity; and that your donation will be well bestowed.
+
+With thanks for giving me so pleasant a commission, as well as for letting me know the cause
+Yours faithfully
+C.M.
+
+Yonge

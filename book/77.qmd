@@ -1,0 +1,13 @@
+---
+id: 77
+title: Two years of School Life by Madame de Pressensé. Edited by the author of “The
+  Heir of Redclyffe.”
+author: Charlotte Mary Yonge
+date: '1869'
+genre: Edited translation
+publication-format: Edited book
+publisher: 'London: Frederick Warne and Co., Bedford Street, Covent Garden.'
+illustrator: Illustrated
+---
+
+A translation of Élise Françoise de Pressensé, Deux ans au lycée.

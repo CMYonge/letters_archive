@@ -1,0 +1,23 @@
+---
+id: 1998
+title: To Alexander Macmillan
+date: '1864-12-07'
+display-date: Decr 7th [1864]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54920: 60'
+---
+
+Dear [Mr Macmillan](/person/939)
+Please to let me correct two things in the list of presentation copies of the [Golden Deeds](/book/51)
+
+Yours sincerely
+
+C M Yonge
+Miss [Margaret Lonsdale](/person/896)
+28 Westbourne Terrace W
+Miss [Charlotte Fursdon](/person/534)
+Fursdon
+Cadbury
+Tiverton

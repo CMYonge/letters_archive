@@ -1,0 +1,11 @@
+---
+id: 1844
+full-name: The Rev. Francis Simpson
+first-name: Francis
+last-name: Simpson
+prefix: The Rev.
+title: The Rev. Francis Simpson
+dates: —
+---
+
+Vicar of Boynton, father of Mary Emily Simpson

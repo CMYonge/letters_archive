@@ -1,0 +1,8 @@
+---
+id: 1553
+full-name: Mr Woodcock
+last-name: Woodcock
+prefix: Mr
+title: Mr Woodcock
+dates: (fl.9 June 1854)
+---

@@ -1,0 +1,11 @@
+---
+id: 188
+title: Talisman, The by Sir Walter Scott, preface by CMY, edited by Dwight Holbrook
+author: Charlotte Mary Yonge
+date: '1886'
+genre: 'Non-fiction: criticism'
+publication-format: Preface to book
+publisher: 'Boston: Ginn & Co.'
+---
+
+Like Quentin Durward, this appeared in Ginn’s ‘Classics for Children’ series.

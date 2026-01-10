@@ -1,0 +1,23 @@
+---
+id: 3268
+title: To the Reverend John Frederick Watkinson Bullock
+date: '1894-06-22'
+display-date: June 22 [1894?]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield
+to-name: To the Reverend John Frederick Watkinson Bullock
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e.174 ff 173-4'
+---
+
+Dear [Mr Bullock](/person/221),
+Here is Salisbury. I am sorry I could find no more to say about it, the cathedral having been all built at once, and the Bishops not having been memorable except the last four.[^1] Burnet I could not put in![^2] The sunshine on the Altar on the 15th of August is quite true. I have seen it twice
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: CMY refers to the work she was doing for Bullock\'s Daily Lections project.
+
+The last four Bishops of Salisbury had been [Edward Denison](/person/2137), [Walter Kerr Hamilton](/person/2138), [George Moberly](/person/1015) and [John Wordsworth](/person/1567), all High Churchmen.
+[^2]: Gilbert Burnet (1643-1715) was probably both too worldly and too Low Church to please CMY.

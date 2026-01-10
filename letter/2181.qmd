@@ -1,0 +1,50 @@
+---
+id: 2181
+title: To Alexander Macmillan
+date: '1867-06-28'
+display-date: June 28th 1867
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54920: 178-180:'
+---
+
+Dear [Mr Macmillan](/person/939),
+I send you three four [chapters](/book/72) that I have finished.
+
+My plan has come to this and I had been thinking of writing to you or [Miss Martin](/person/971) about it.[^2]
+Chapter I, Description of Ephesus
+II	Work of St Paul at Ephesus
+III	Life of St John up to the dispersion of the Apostles from Jerusalem
+IV	The 2nd visit of St Paul to Ephesus - review of all the chief disciples of Paul & John with the fates of such as perished under Nero
+(Nearly done)
+V	History of St John, and of all his disciples who are traceable, with account of his Epistles & gospel, up to his banishment to Patmos
+VI	Messages of the Angels of the Seven Churches[^3] - with accounts of their state and the Angels thought to be identified.
+VII	Remaining history of St John - with the more obscure personages mentioned tracing the influence of Ephesus (as far as can be) on the early Celtic Christians in Gaul and Ireland.
+VIII	Epistles & Martyrdom of Ignatius[^4]
+IX	Of Polycarp
+X	Subsequent fate of the Seven Churches.
+
+This is the way that it seems to me I could manage it best, and if you approved it might be followed in a year or so by the Church of Alexandria, beginning with Barnabas and Mark.
+
+But I do not feel at all sure that my writing is not more decided on Church arrangements than you will like, and though I have tried to avoid expressions that have conventional party force applied to them, it is too much a matter of conscience with me not to make the foundations that I do believe in.
+I must also - and this will be more the case when I get beyond the time when the Scripture is a guide - take statements without disputing or criticising them, for a book for a child would be unreadable if it went into the pros and cons of authenticity, and nothing would be left of these early times if only the undisputed were taken.
+
+It is difficult to see ones way to the three [designs](/topic/167), but what occurs to me at this moment would be St John in his old age, blessing the little children from his litter[,] Ignatius and the Lions, and Polycarp before the Tribunal, they seem to me the three most characteristic points in the history.
+I am going on with a piece every day, but I have other things on my hands that keep me from getting on fast
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Black-edged paper.
+[^2]: She was working on The Pupils of St.
+
+John the Divine.
+[^3]: The Seven Churches in Asia are listed in Revelation 1:11.
+
+They are Ephesus, Smyrna, Pergamos, Thyatira, Sardis, Philadelphia, and Laodicea.
+[^4]: Ignatius and Polycarp were bishops of Antioch and Smyrna respectively.
+
+Both were pupils of St John and early Christian martyrs.

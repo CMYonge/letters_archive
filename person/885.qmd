@@ -1,0 +1,13 @@
+---
+id: 885
+full-name: The Rev. Dr. Richard Frederick Littledale
+first-name: Richard Frederick
+last-name: Littledale
+prefix: The Rev. Dr.
+title: The Rev. Dr. Richard Frederick Littledale
+dates: (1833-1890)
+---
+
+theologian
+
+The DNB commented on his 'tenacious memory and wide range of reading'.

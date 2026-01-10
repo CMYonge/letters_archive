@@ -1,0 +1,6 @@
+---
+id: 102
+reference-type: Topic
+name: rate of payment of <i>MP</i> contributors
+title: rate of payment of <i>MP</i> contributors
+---

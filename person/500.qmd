@@ -1,0 +1,12 @@
+---
+id: 500
+full-name: Robert B. Farren
+first-name: Robert B.
+last-name: Farren
+title: Robert B. Farren
+dates: (b. 1832)
+---
+
+artist and illustrator
+
+A protégé of Alexander Macmillan, formerly (1861 census) curator of Cambridge geological museum.

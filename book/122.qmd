@@ -1,0 +1,10 @@
+---
+id: 122
+title: Aunt Charlotte’s Stories of German History for the Little Ones.
+author: Charlotte Mary Yonge
+date: '1877'
+genre: 'Non-fiction: history'
+publication-format: Book
+publisher: Marcus Ward & Co., Chandos St, W.C. London; and Royal Ulster Works, Belfast.
+illustrator: Illustrated
+---

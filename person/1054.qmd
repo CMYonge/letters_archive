@@ -1,0 +1,11 @@
+---
+id: 1054
+full-name: The Rev. Arthur Middlemore Morgan
+first-name: Arthur Middlemore
+last-name: Morgan
+prefix: The Rev.
+title: The Rev. Arthur Middlemore Morgan
+dates: (b.1831/2)
+---
+
+contributor to MP (1872-85), Rector of Huish

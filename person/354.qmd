@@ -1,0 +1,11 @@
+---
+id: 354
+full-name: The Rt. Rev. William Hart Coleridge
+first-name: William Hart
+last-name: Coleridge
+prefix: The Rt. Rev.
+title: The Rt. Rev. William Hart Coleridge
+dates: (1789-1849)
+---
+
+Bishop of Barbados, cousin of Sir John Taylor Coleridge

@@ -1,0 +1,10 @@
+---
+id: 715
+full-name: Alice Horton
+first-name: Alice
+last-name: Horton
+title: Alice Horton
+dates: —
+---
+
+contributor to MP (1893)

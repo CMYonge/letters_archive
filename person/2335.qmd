@@ -1,0 +1,9 @@
+---
+id: 2335
+full-name: Sir Arthur Chichester
+first-name: Arthur
+last-name: Chichester
+prefix: Sir
+title: Sir Arthur Chichester
+dates: (1822/3-1898)
+---

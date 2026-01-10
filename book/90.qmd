@@ -1,0 +1,14 @@
+---
+id: 90
+title: Pioneers and Founders, or, Recent Workers in the Mission Field. By C. M. Yonge,
+  author of “The Heir of Redclyffe”.
+author: Charlotte Mary Yonge
+date: '1871'
+genre: 'Non-fiction: biography'
+publication-format: Book
+publisher: 'London: Macmillan and Co.'
+serialization: It appeared in Macmillan\'s Sunday Library of Household Reading
+illustrator: The title page has an engraved portrait of Bishop Reginald Heber.
+---
+
+The preface is dated 17 March 1871.

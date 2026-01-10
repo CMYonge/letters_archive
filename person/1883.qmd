@@ -1,0 +1,9 @@
+---
+id: 1883
+full-name: The Rev. Charles Coleridge Mackarness
+first-name: Charles Coleridge
+last-name: Mackarness
+prefix: The Rev.
+title: The Rev. Charles Coleridge Mackarness
+dates: (1850-1918)
+---

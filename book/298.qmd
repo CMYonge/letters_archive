@@ -1,0 +1,9 @@
+---
+id: 298
+title: \'Fairford and Hursley Windows, The\'
+author: Charlotte Mary Yonge
+date: '1866'
+genre: Non-fiction
+publication-format: Article in Journal
+publisher: <i>MP</i> (June 1866) 483-90
+---

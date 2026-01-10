@@ -1,0 +1,12 @@
+---
+id: 2156
+full-name: Henry Rider Haggard
+first-name: Henry Rider
+last-name: Haggard
+title: Henry Rider Haggard
+dates: (1856-1925)
+---
+
+novelist, author of King Solomon\'s Mines
+
+He was knighted in 1912.

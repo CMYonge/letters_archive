@@ -1,0 +1,10 @@
+---
+id: 195
+title: Chips from the Royal Image, Being fragments of the Eikon Basilike of Charles
+  I. Arranged by A. E. M. Anderson Morshead. Edited by Charlotte M. Yonge.
+author: Charlotte Mary Yonge
+date: '1887'
+genre: 'Non-fiction: edition (by another)'
+publication-format: Edited book
+publisher: 'London: J. Masters & Co.'
+---

@@ -1,0 +1,13 @@
+---
+id: 1981
+full-name: The Rev. Charles Hyde Brooke
+first-name: Charles Hyde
+last-name: Brooke
+prefix: The Rev.
+title: The Rev. Charles Hyde Brooke
+dates: (1841-1926)
+---
+
+missionary in Melanesia
+
+See Blain, Biographical Directory of Anglican Clergy in the South Pacific at www.anglicanhistory.org/nz/blain_directory.pdf

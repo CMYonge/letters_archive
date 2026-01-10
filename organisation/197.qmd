@@ -1,0 +1,8 @@
+---
+id: 197
+reference-type: Organisation
+name: Little Sisters of the Poor, The
+title: Little Sisters of the Poor, The
+---
+
+The Little Sisters of the Poor was a Roman Catholic charitable organization founded in France in 1839.

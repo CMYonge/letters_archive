@@ -1,0 +1,11 @@
+---
+id: 1987
+full-name: The Very Rev. Arthur Penrhyn Stanley
+first-name: Arthur Penrhyn
+last-name: Stanley
+prefix: The Very Rev.
+title: The Very Rev. Arthur Penrhyn Stanley
+dates: (1815-1881)
+---
+
+Dean of Westminster, theologian

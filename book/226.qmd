@@ -1,0 +1,10 @@
+---
+id: 226
+title: That Stick.
+author: Charlotte Mary Yonge
+date: '1892'
+genre: Fiction (modern)
+publication-format: Book
+publisher: 'London and New York: Macmillan and Company.'
+serialization: Serialized in<i> MP</i>, January to December 1891
+---

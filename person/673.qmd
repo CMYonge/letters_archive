@@ -1,0 +1,10 @@
+---
+id: 673
+full-name: Johann Peter Hebel
+first-name: Johann Peter
+last-name: Hebel
+title: Johann Peter Hebel
+dates: (1760-1826)
+---
+
+German author, contributor to MP (1871)

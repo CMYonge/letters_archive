@@ -1,0 +1,24 @@
+---
+id: 3542
+title: To an Unknown Woman
+date: '1864-11-20'
+display-date: Novr 20th.[1864]
+from-name: Charlotte Mary Yonge
+from-address: “Monthly Packet,” 6, Paternoster Row, London, E.C.
+to-name: To an Unknown Woman
+manuscript-location: 'MS UCLA: collection 100: box 95'
+---
+
+Madam
+I was in hopes of being able to tell you of such a training ship as you desire, knowing that there was one under the management in part of a [Mr Chambers](/person/2074), an excellent Churchman but I find that is a Reformatory Ship and that I suppose would hardly be what you wish, but if you would like further enquiries to be made, I could procure Mr Chambers address.[^1]
+
+Yours truly
+
+C M Yonge (Ed [M P](/periodical/52))
+
+
+[^1]: MP (January 1865) \'Notices to Correspondents\' noted \'A Subscriber may be glad to know that funds are being raised to establish a training ship in the Mersey for good destitute boys, on a similar plan to the Akbar Reformatory Ship.
+
+Treasurer, John Clint Esq., Liverpool.’ George H.
+
+Chambers was chairman of the committee of the training ship Worcester (The Times 29 September 1874).

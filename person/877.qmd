@@ -1,0 +1,11 @@
+---
+id: 877
+full-name: The Rev. Canon Henry Parry Liddon
+first-name: Henry Parry
+last-name: Liddon
+prefix: The Rev. Canon
+title: The Rev. Canon Henry Parry Liddon
+dates: (1829-1890)
+---
+
+theologian

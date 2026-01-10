@@ -1,0 +1,11 @@
+---
+id: 149
+full-name: The Rev. Louis Coutier Biggs
+first-name: Louis Coutier
+last-name: Biggs
+prefix: The Rev.
+title: The Rev. Louis Coutier Biggs
+dates: (1840/1-1903)
+---
+
+Rector of Chickerell, hymnologist, contributor to MP (1867,1871)

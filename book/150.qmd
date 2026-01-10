@@ -1,0 +1,10 @@
+---
+id: 150
+title: 'English History Reading Books, adapted to the requirements of the New Code.
+  Parts 1-5. Part 6: The Young Student’s History Reading Book.'
+author: Charlotte Mary Yonge
+date: 1881-1883
+genre: 'Non-fiction: history'
+publication-format: Book
+publisher: 'London: National Society’s Depository, Broad Sanctuary, Westminster.'
+---

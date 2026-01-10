@@ -1,0 +1,17 @@
+---
+id: 3540
+title: To Mrs Swinton
+date: '1875-06-22'
+display-date: June 22 [after 1875]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield
+to-name: To Mrs Swinton
+manuscript-location: 'MS UCLA: collection 100: box 95'
+---
+
+Dear [Mrs Swinton](/person/1388)
+Thank you for your kind card. I hope to appear in the afternoon, but it can hardly be till late as unluckily there is a [G F S](/organisation/23) working committee at 1.30 on the 3d of July but I must get away from it as soon as I can
+
+Yours sincerely
+
+C M Yonge

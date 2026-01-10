@@ -1,0 +1,10 @@
+---
+id: 1282
+full-name: Miss Saunders
+last-name: Saunders
+prefix: Miss
+title: Miss Saunders
+dates: (fl.24 Sept 1846)
+---
+
+governess to the Moberlys

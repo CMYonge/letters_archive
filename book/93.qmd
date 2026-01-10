@@ -1,0 +1,11 @@
+---
+id: 93
+title: 'Cameos from English History: II. The Wars in France. By the author of “The
+  Heir of Redclyffe.”'
+author: Charlotte Mary Yonge
+date: '1871'
+genre: 'Non-fiction: history'
+publication-format: Book
+publisher: 'London and New York: Macmillan and Company.'
+serialization: Individual cameos appeared in<i> MP</i>, irregularly from 1856 to 1889.
+---

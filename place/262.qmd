@@ -1,0 +1,8 @@
+---
+id: 262
+reference-type: Place
+name: Rawalpindi
+title: Rawalpindi
+---
+
+Town in the Punjab, site of an important army base, now in Pakistan and then in British India.

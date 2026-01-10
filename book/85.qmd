@@ -1,0 +1,10 @@
+---
+id: 85
+title: \'Diplomate on the Fall of the First Empire, A\' (Author not named)
+author: Charlotte Mary Yonge
+date: '1871'
+genre: 'Non-fiction: criticism'
+publication-format: Article in Journal
+publisher: Not reprinted in volume form
+serialization: <i>Macmillan’s Magazine.</i> 24 August 1871
+---

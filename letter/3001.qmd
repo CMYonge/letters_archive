@@ -1,0 +1,27 @@
+---
+id: 3001
+title: To Elizabeth Roberts
+date: '1852-10-14'
+display-date: Oct 14th [1852]
+from-name: Charlotte Mary Yonge
+from-address: Otterbourn
+to-name: To Elizabeth Roberts
+manuscript-location: 'MS Huntington Library: Yonge Letters'
+---
+
+Dear [Madam](/person/1243),
+It was Edward I who made the law for planting yew trees in Church yards, at least so I was told by a gentleman who never makes mistakes, and is deeply read in history.[^1] I have looked in vain in [Evelyn’s silva](/periodical/61) and [Loudon’s arboretum](/organisation/109), but I think his information to be trusted.
+
+He says it had been done long before, but it was only in Edwd I’s reign that it became the subject of a statute.
+
+We have a Ch yard yew near us of very great age, and cut exactly into the shape of a mushroom. I have ventured to erase your ‘alas!’ to St Leonard, for a happy death hardly seems to me a subject for that interjection. I also took out the direct reference to [Dr Newman](/person/1084)’s Sermons. I like the beautiful quotation of that very fine sermon but I had rather not acknowledge it.[^2] They have made some strange misprints in the botanical names, but I have not the right ones at hand, and so have left them for you.
+
+Your November verses are much too pretty to spare any of them, I will take care they come in at any rate in this next number. I am sorry we are so near the end of the [Garland](/topic/225). I have enjoyed it so much on my own account, but I must look forward to [Margaret and her mother](/organisation/234). I conclude that you are at Helmington again and direct there
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: The statute ‘Ne Rector prosternat arbores in Caemeterio’ is said to have been passed in 1307.
+[^2]: This was because Newman had become a Roman Catholic and [MP](/periodical/52) did not want the reputation of encouraging conversion.

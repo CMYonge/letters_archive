@@ -1,0 +1,10 @@
+---
+id: 2418
+full-name: Jacques-Bénigne Bossuet
+first-name: Jacques-Bénigne
+last-name: Bossuet
+title: Jacques-Bénigne Bossuet
+dates: (1627-1704)
+---
+
+Bishop of Meaux, theologian

@@ -1,0 +1,10 @@
+---
+id: 1729
+full-name: Mary Howitt
+first-name: Mary
+last-name: Howitt
+title: Mary Howitt
+dates: (1799-1888)
+---
+
+writer

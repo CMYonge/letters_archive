@@ -1,0 +1,10 @@
+---
+id: 2205
+full-name: Mrs Dennis
+first-name: Mrs
+last-name: Dennis
+title: Mrs Dennis
+dates: —
+---
+
+helping at the Mothers\' Meeting in 1899, perhaps the wife of [Mr Dennis](/person/2171)

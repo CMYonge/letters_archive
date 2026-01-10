@@ -1,0 +1,9 @@
+---
+id: 328
+title: \'The Anatomy of Prigs\'. By C.M. Yonge
+author: Charlotte Mary Yonge
+date: '1899'
+genre: Non-fiction
+publication-format: Article in Journal
+publisher: <i>Mothers in Council</i> 9.36 (Oct 1899) 202-207.
+---

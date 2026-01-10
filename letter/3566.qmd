@@ -1,0 +1,24 @@
+---
+id: 3566
+title: To Mary Goldfinch
+date: '1881-02-16'
+display-date: Feb 16th [<i>c</i>.1881[[footnote:2]]]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Mary Goldfinch
+manuscript-location: MS Harry Ransom Humanities Research Center, University of Texas,
+  Austin
+---
+
+Dear Madam
+I am much obliged for the loan of these two books. I have the [Queens of England ](/organisation/157)but not the Queens of Scotland, and the little book about Northamptonshire told me just what I wanted[^3]
+With many thanks
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: Annotated “From Miss Yonge the Authoress to Mary Goldfinch”.
+[^2]: Probably written during the composition of [Unknown to History: A Story of the Captivity of Mary of Scotland](/book/157) (1882).
+[^3]: Agnes Strickland, Lives of the Queens of England From the Norman Conquest 12 vols (London: Colburn 1840-8); Agnes Strickland, Lives of the Queens of Scotland and English Princesses 8 vols (Edinburgh: Blackwood 1850-9).

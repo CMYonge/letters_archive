@@ -1,0 +1,29 @@
+---
+id: 2186
+title: To Alexander Macmillan
+date: '1867-07-09'
+display-date: July 9th [1867]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54920: 183-184'
+---
+
+Dear [Mr Macmillan](/person/939),
+I send up the two next chapters of [St John](/book/72), in case it should be convenient to show [Mr Armitage](/person/60) the description of the scene with the Robber.
+
+Do you mean to have [vignettes](/topic/167)?
+
+If you do the cup with the serpent should come at the end of the last chapter I send you, and the one I am writing now should have the golden candlestick, I should try for Diana for the first if the Ephesian Diana were not so frightful.
+I suppose [Miss Sewell](/person/1301)’s call on you was not accomplished.
+
+It was to depend on whether she decided on going to the Paris exhibition
+I am sorry she did not manage it, as it would have saved time
+
+Yours sincerely
+
+C M Yonge
+Thanks for the [Pall Mall Gazette](/periodical/192), I thought it the most dangerous so I hope the others will be as polite[^1]
+
+
+[^1]: The Pall Mall Gazette (2 July 1867), 11, reviewed [The Danvers Papers](/book/63) in appreciative if slightly patronizing terms.

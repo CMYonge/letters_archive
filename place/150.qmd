@@ -1,0 +1,10 @@
+---
+id: 150
+reference-type: Place
+name: Mota
+title: Mota
+---
+
+An island in the Banks group, part of the Republic of Vanuatu.
+
+Its language was chosen by Patteson as the medium for the conversion of wide areas of Melanesia to Christianity.

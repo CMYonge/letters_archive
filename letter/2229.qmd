@@ -1,0 +1,20 @@
+---
+id: 2229
+title: Alexander Macmillan to Charlotte Mary Yonge
+date: '1868-01-01'
+display-date: Jan [<i>illegible</i>] 1868
+from-name: Charlotte Mary Yonge
+from-address: Bedford Street [<i>illegible</i>]
+to-name: Alexander Macmillan to Charlotte Mary Yonge
+manuscript-location: 'Copy outletter book British Library Add MSS.55387 (2): P. 907'
+---
+
+Dear Miss Yonge
+Yesterday [Mr Craik](/person/379) paid [£200](/topic/160) into [Hoare’s](/organisation/169) in your a/c. [I](/person/939) hope my not telling you before will have caused you no [illegible]
+I am very sorry you do not like the [illustrations](/topic/167).[^1] It is now impossible to get fresh ones done, and pardon me saying I really like them. I hope you will get reconciled to them by and by
+[Rest of letter indecipherable as is the one, dated 22 January 1868, that follows]
+
+
+[^1]: These were presumably [Edward Armitage](/person/60)\'s illustrations for [The Pupils of St.
+
+John the Divine](/book/72) in Macmillan\'s [Sunday Library](/topic/145) series.

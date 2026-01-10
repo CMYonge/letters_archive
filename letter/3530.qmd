@@ -1,0 +1,15 @@
+---
+id: 3530
+title: To an Unknown Person
+date: '1875-01-01'
+display-date: '[after 1875]'
+from-name: Charlotte Mary Yonge
+to-name: To an Unknown Person
+manuscript-location: MS fragment Princeton University, Parrish Collection
+---
+
+the Grange - [Mrs Shipley](/person/2324) called while I was out, decorating yesterday perhaps with a view to [G F S](/organisation/23)
+
+Yours affectionately
+
+C M Yonge

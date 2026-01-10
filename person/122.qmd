@@ -1,0 +1,11 @@
+---
+id: 122
+full-name: Prince Alexander Battenberg
+first-name: Alexander
+last-name: Battenberg
+prefix: Prince
+title: Prince Alexander Battenberg
+dates: (1886-1960)
+---
+
+Marquis of Carisbrooke

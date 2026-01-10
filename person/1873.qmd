@@ -1,0 +1,11 @@
+---
+id: 1873
+full-name: Sir George Grey
+first-name: George
+last-name: Grey
+prefix: Sir
+title: Sir George Grey
+dates: (1812-1898)
+---
+
+Governor of New Zealand 1845-53 and 1861-8, and of Cape Colony 1854-61

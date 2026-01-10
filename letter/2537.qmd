@@ -1,0 +1,20 @@
+---
+id: 2537
+title: To Miss Peterson
+date: '1875-09-29'
+display-date: Sept 29th [1875]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Miss Peterson
+manuscript-location: 'MS UCLA: collection 100: box 95322'
+---
+
+Dear [Madam](/person/1169)
+You will find the history of the [Melanesian Mission](/organisation/30) kept up in the magazines [the Net](/periodical/94) and [Mission Life](/periodical/80).
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: Envelope addressed to ‘Miss Peterson/Cliff Cottage/The Lees/Folkestone’ and postmarked Winchester E SP 29 75.

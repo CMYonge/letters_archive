@@ -1,0 +1,24 @@
+---
+id: 3475
+title: To an unknown woman
+date: '1901-01-04'
+display-date: Jan 4th 1901
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne
+to-name: To an unknown woman
+manuscript-location: MS Princeton University, Parrish Collection
+---
+
+Dear Madam
+The [Last Heartsease Leaves](/book/45) is the little conversation you saw. I let it be reprinted as a contribution to a Church, and it is now to be had from
+[Miss Marriott](/person/958)
+Eastleigh	
+Southampton
+for sixpence.[^1] If you will send her the amount; with postage she will at once forward it to you
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: A Chaplet for Charlotte Yonge, 210, states: \'In 1900 it [Last Heartsease Leaves] was printed separately at Bournemouth, in aid of a church restoration fund.\'

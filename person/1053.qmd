@@ -1,0 +1,10 @@
+---
+id: 1053
+full-name: Miss Moorsom
+last-name: Moorsom
+prefix: Miss
+title: Miss Moorsom
+dates: —
+---
+
+correspondent

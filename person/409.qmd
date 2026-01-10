@@ -1,0 +1,11 @@
+---
+id: 409
+full-name: The Rev. John Llewelyn Davies
+first-name: John Llewelyn
+last-name: Davies
+prefix: The Rev.
+title: The Rev. John Llewelyn Davies
+dates: (1826-1916)
+---
+
+Rector of Christ Church, Marylebone 1856-89, principal of Queens College, Harley St., brother of Emily Davies

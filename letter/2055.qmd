@@ -1,0 +1,22 @@
+---
+id: 2055
+title: To Alexander Macmillan
+date: '1865-07-17'
+display-date: July 17th 1865
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54920: 102'
+---
+
+Dear [Mr Macmillan](/person/939)
+Thanks for repairing the omission. I believe ladies always enjoy gentlemen doing what they are so apt to do themselves.[^1]
+I enclose my [brother](/person/1624)s biscuits, much hoping they may answer the purpose.[^2]
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: He had sent her an unsigned cheque.
+[^2]: JBY wanted to publish an article on the Huntley and Palmer biscuit factory at Reading in Macmillan\'s Magazine.

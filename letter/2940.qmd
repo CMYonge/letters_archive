@@ -1,0 +1,41 @@
+---
+id: 2940
+title: To Anne Yonge
+date: '1838-01-01'
+display-date: '[late December 1838 or early January 1839]'
+from-name: Charlotte Mary Yonge
+to-name: To Anne Yonge
+manuscript-location: MS location unknown.  This fragment printed in Coleridge, <i>Life</i> 136-7.
+---
+
+. . . [Mr.
+
+Wither](/person/1544) has given [Julian](/person/1624), that is, to give him on his birthday,[^1] though I have it now to keep, [Thoughts in Past Years, ](/topic/184)a book of poetry by Mr. [Isaac Williams](/person/1523), a friend of [Mr.
+
+Keble’s](/person/798), and I like it exceedingly.[^2] Mr.
+
+Keble is going to publish a [new version of singing Psalms](/periodical/97), and they are almost ready.[^3] [William](/person/668) and [George](/person/660) Heathcote have a tutor these holidays.
+
+His name is [Mr.
+
+Mules](/person/1069). I think you will be surprised to hear of your old friends the [Young Ladies](/book/1) being in print.
+
+The truth is, that we were somewhat in despair about the [Girls’ School.](/organisation/107) We would have another bazaar if we had not thought that people would be tired of it; so mamma and I were one day looking over my French translations which had all been duly corrected by the old [Monsieur](/person/1088).
+
+They consisted of the Faithful Little Girl, Corylla, Mamma’s New Story without an End, a Fairy Tale of Miss Talbot’s, etc., which, using the Young Ladies as a peg to hang them upon, we thought would do very well to publish for the benefit of the School, so the Young Ladies really made a very pretty story, with the nonsense being taken away as much as we could.[^4] The papa is a Colonel at first and then Jules goes into the army, and the story ends with Aunt Selina, Henrietta, Rosalie and Pauline setting off to join them at Paris, just after Waterloo. I hope the story is not very foolish, but I am in hopes that it has a little better moralité than the French stories by the French themselves usually have.
+
+Now the cost of printing 300 copies will be £30, and when we can get 109 copies taken at 5s. 6d. apiece, the printing will be paid for, and the rest will be clear gain to the School; but as we do not mean to run any risk, it is not to be printed till we have 100 copies promised to be taken, and I want to know how many you think you will be able to dispose of for us. I hope, Anne, you do not think me horribly vain and presumptuous, but I am sure I should be glad to be able to do the slightest thing for the School, and if you find anything very nonsensical, you must remember it was written by your shatter-brained cousin of fifteen.
+
+It is to be called Le Château de Melville, ou Recreations [sic] du Cabinet d’Étude. I am going to have the sheets looked over by M. de Normanville.
+
+About thirty copies we can reckon upon.
+
+Now I have written so much about my own affairs that I am ashamed of it, so all I shall say in this page is, that I most sincerely wish you, dear [Anne](/person/1582), a very happy New Year, in which I hope we shall see each other.
+
+
+[^1]: JBY was going to be nine on 31 January 1839.
+[^2]: Thoughts in Past Years (1838) by the Rev. [Isaac Williams](/person/1523) (1802-1865), the author of the controversial Tract 80 on ‘Reserve in Communicating Religious Knowledge’, which expressed opinions which were at the heart of the aesthetic and religious ideas CMY was brought up with.
+[^3]: One of the changes which Tractarians brought to Anglican services was the suppression of the familiar metrical versions of the Psalms, in the mid-sixteenth-century translations of Sternhold and Hopkins or the New Version of Tate and Brady (1696), which were condemned as inaccurate.
+
+However Keble’s book, The Psalter, or, Psalms of David in English Verse (1838), never achieved wide circulation, and the custom of chanting the prose Prayer Book translations became widespread.
+[^4]: Le Château de Melville was a frame story, constructed around CMY\'s tale \'The Young Ladies\', into which are inserted her French translations of eight stories from various sources, including Lucy Lyttelton Cameron,  [The Faithful Little Girl](/organisation/29) (1826), some version of or sequel to Friedrich Wilhelm Carové, [Das Märchen ohne Ende](/organisation/30), and a fairy tale by Catherine Talbot (1721-1770).

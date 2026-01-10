@@ -1,0 +1,13 @@
+---
+id: 2315
+full-name: The Rev. Thomas Scott
+first-name: Thomas
+last-name: Scott
+prefix: The Rev.
+title: The Rev. Thomas Scott
+dates: (1747-1821)
+---
+
+Rector of Aston Sandford, and author of a biblical commentary The Holy Bible, containing the Old and New Testaments, with Original Notes and Practical Observations 4 vols (1788-1792)
+
+CMY had incorrectly stated in [Pioneers and Founders](/book/90), 96, that Thomas Scott was a Baptist.

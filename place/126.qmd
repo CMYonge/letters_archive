@@ -1,0 +1,8 @@
+---
+id: 126
+reference-type: Place
+name: Beechwood
+title: Beechwood
+---
+
+The home near Sparkwell in Devon of FMY\'s stepbrother Lord Seaton, and his family the Colbornes.

@@ -1,0 +1,9 @@
+---
+id: 123
+full-name: Prince Leopold Henry Battenberg
+first-name: Leopold Henry
+last-name: Battenberg
+prefix: Prince
+title: Prince Leopold Henry Battenberg
+dates: (1889–1922)
+---

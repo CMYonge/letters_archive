@@ -1,0 +1,10 @@
+---
+id: 1111
+full-name: Mr. Owen
+last-name: Owen
+prefix: Mr.
+title: Mr. Owen
+dates: —
+---
+
+correspondent (1857)

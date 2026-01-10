@@ -1,0 +1,12 @@
+---
+id: 26
+full-name: Jean-Jacques Ampère
+first-name: Jean-Jacques
+last-name: Ampère
+title: Jean-Jacques Ampère
+dates: (1800-1864)
+---
+
+French historian
+
+Son of the physicist André Marie Ampère (d. 1836).

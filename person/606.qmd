@@ -1,0 +1,10 @@
+---
+id: 606
+full-name: Ludovic Halévy
+first-name: Ludovic
+last-name: Halévy
+title: Ludovic Halévy
+dates: (1834-1908)
+---
+
+French writer, contributor to MP (1894)

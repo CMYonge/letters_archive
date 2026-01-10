@@ -1,0 +1,10 @@
+---
+id: 17
+reference-type: Organisation
+name: Belgrave Hospital for Children, The
+title: Belgrave Hospital for Children, The
+---
+
+This organisation, founded in Cumberland Street, Pimlico, in 1866, is referred to in MP (January 1871) and in a letter to an unknown woman (1 August ?1871).
+
+It moved to Kennington in the twentieth century, merged in 1948 with King\'s College Hospital, which retains its archives, and was closed in 1985.

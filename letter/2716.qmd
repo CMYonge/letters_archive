@@ -1,0 +1,22 @@
+---
+id: 2716
+title: To A. M. Wattus
+date: '1880-01-01'
+display-date: '[1880?][[footnote:1]]'
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To A. M. Wattus
+manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29: Author
+  Files Wood-Yonge:'
+---
+
+Dear [Madam](/person/1478)
+I hardly know how to answer you, for the having had the Angel of Viareggio is first a reason for not being able to take another story in the same line. I think however that [Griffith and Farran](/organisation/233)- or [Cassell](/organisation/216) or[ Routledge](/organisation/258)- or [Aunt Judy’s Magazine](/periodical/54) would be glad of a child’s story with a little foreign colouring.
+I believe Signora [Linda Villari](/person/1444) is English not American, but I do not know
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: Since this letter refers to Linda Villari\'s \'The Angel of Viareggio\', which was published in MP in the first half of 1880, it seems probable that it dates from shortly after the publication of that story.

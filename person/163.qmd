@@ -1,0 +1,10 @@
+---
+id: 163
+full-name: Emily Blunt
+first-name: Emily
+last-name: Blunt
+title: Emily Blunt
+dates: —
+---
+
+teacher at Miss Finlaison’s school

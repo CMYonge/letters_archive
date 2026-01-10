@@ -1,0 +1,11 @@
+---
+id: 1859
+full-name: Father Frederic William Faber
+first-name: Frederic William
+last-name: Faber
+prefix: Father
+title: Father Frederic William Faber
+dates: 1814-1863
+---
+
+hymn-writer, Roman Catholic convert

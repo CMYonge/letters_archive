@@ -1,0 +1,12 @@
+---
+id: 64
+title: The La Ferronnays Family (Author not named)
+author: Charlotte Mary Yonge
+date: '1867'
+genre: 'Non-fiction: criticism'
+publication-format: Article in journal
+publisher: Not reprinted in volume form
+serialization: <i>Christian Remembrancer</i>, Vol 53, pp-353-388
+---
+
+.

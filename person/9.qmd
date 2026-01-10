@@ -1,0 +1,11 @@
+---
+id: 9
+full-name: Sir Thomas Dyke Acland
+first-name: Thomas Dyke
+last-name: Acland
+prefix: Sir
+title: Sir Thomas Dyke Acland
+dates: (1809-1898)
+---
+
+politician and educationist, father of Agnes (Acland) Anson and brother of Arthur Acland Troyte and Sir Henry Wentworth Acland

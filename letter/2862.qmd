@@ -1,0 +1,27 @@
+---
+id: 2862
+title: To the Marchioness of Salisbury
+date: '1887-09-01'
+display-date: Sept 2d 1887
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne Winchester
+to-name: To the Marchioness of Salisbury
+manuscript-location: MS The Marquess of Salisbury, Hatfield House 3MCH/5/3/2
+---
+
+My dear [Lady Salisbury](/person/548)
+
+When I was at Oxford in the spring I promised [Canon Bright](/person/199) to ask you whether it was true that some papers had been found at Hatfield which threw some light on the genuineness of the Casket Letters of Queen Mary. I thought I would wait to write to you till the whirl of summer occupation had a little gone by, but one might as well wait for a river to run dry (or better perhaps in such a season as this) So I venture to ask if you will be so kind as to ask your [librarian](/person/600)[^1] to tell me whether there has been any such discovery
+
+I remain
+
+yours truly
+
+C M Yonge
+
+And now I see you are at Dieppe.
+
+However I shall let this pursue you!
+
+
+[^1]: Richard Thompson Gunton (1846-1921), librarian at Hatfield House 1878-1921.

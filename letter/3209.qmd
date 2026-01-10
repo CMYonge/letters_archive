@@ -1,0 +1,30 @@
+---
+id: 3209
+title: To Arthur Donald Innes
+date: '1892-12-01'
+display-date: Decr 22d [1892?]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne
+to-name: To Arthur Donald Innes
+manuscript-location: MS Girton College Cambridge, Yonge IV 5
+---
+
+Dear [Mr Innes](/person/744)
+Thank you for your kind letter, I suppose there will always be rubs of opinion when three people representing different generations of thought work together if in general principle they accord; and I know I am apt to despise popularity more than perhaps is fair in fellow workers to whom it is more important
+As long as there is nothing irreverent tending to ‘Higher Criticism[‘] or to trenching on delicacy I am satisfied and when I have been worried it has been from fear of some of these things - [^1]
+My object always was to make the [Packet](/periodical/52) a handmaid to the Church, and I think in the main, it is the same with you.
+I am sorry if I was inadvertently discourteous about the [Outlook](/book/225)[^2]
+I am afraid [Miss Coleridge](/person/329) is very unwell No doubt she has written to you that she is gone to Malvern.
+I once asked you to send on [London Society](/periodical/220) but if you can stop its coming I should be glad.
+
+The story my [friend](/person/1462) was reading turned out so badly that she never wishes to see it again. A good deal is a specimen of what a serial ought not to be.
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: The falling circulation of MP had led to attempts to make it more up-to-date, and to CMY\'s sharing the editorship with Christabel Coleridge.
+[^2]: An Old Woman’s Outlook in a Country Village (London: Macmillan 1892).
+
+Presumably Innes felt that as the sketches had been serialized in MP CMY ought to have offered him the option of publishing them.

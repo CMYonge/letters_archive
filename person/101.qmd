@@ -1,0 +1,10 @@
+---
+id: 101
+full-name: Mrs Ballard
+last-name: Ballard
+prefix: Mrs
+title: Mrs Ballard
+dates: —
+---
+
+listed as a contributor to the Hursley Magazine in 1848

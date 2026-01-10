@@ -1,0 +1,11 @@
+---
+id: 468
+full-name: The Rt. Rev. 3rd Lord Auckland Robert John Eden
+first-name: Robert John
+last-name: Eden
+prefix: The Rt. Rev.
+title: The Rt. Rev. 3rd Lord Auckland Robert John Eden
+dates: (1799-1870)
+---
+
+Bishop of Sodor and Man, 1847-54, and of Bath and Wells, 1854-69

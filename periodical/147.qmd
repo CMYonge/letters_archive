@@ -1,0 +1,8 @@
+---
+id: 147
+reference-type: Periodical
+name: <i>Morning Post, The</i>
+title: <i>Morning Post, The</i>
+---
+
+A daily newspaper which ran 1772-1937.

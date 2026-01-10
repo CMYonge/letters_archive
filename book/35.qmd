@@ -1,0 +1,17 @@
+---
+id: 35
+title: Mice at Play, The. By the author of “The Heir of Redclyffe.”
+author: Charlotte Mary Yonge
+date: '1860'
+genre: Fiction (historical drama)
+publication-format: Booklet
+publisher: Groombridge and Sons, 5, Paternoster Row, London.
+serialization: No. 7 of the Magnet Stories for Summer Days and Winter Nights; 8 vols.,
+  1860-5.
+illustrator: Illustrated. The frontispiece appears to be signed DHF, for David Henry
+  Friston who also illustrated <i>The Strayed Falcon</i>.
+---
+
+Magnet Stories for Summer Days and Winter Nights; 8 vols., 1860-5.
+
+Advertised as “A new story every month - Each complete in itself.”

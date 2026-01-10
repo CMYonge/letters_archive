@@ -1,0 +1,11 @@
+---
+id: 1479
+full-name: The Rt. Rev. Alan Becher Webb
+first-name: Alan Becher
+last-name: Webb
+prefix: The Rt. Rev.
+title: The Rt. Rev. Alan Becher Webb
+dates: (1839-1907)
+---
+
+Bishop of Bloemfontein (1870-1883)

@@ -1,0 +1,10 @@
+---
+id: 1699
+full-name: John Keats
+first-name: John
+last-name: Keats
+title: John Keats
+dates: (1795-1821)
+---
+
+poet

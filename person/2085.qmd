@@ -1,0 +1,10 @@
+---
+id: 2085
+full-name: Mr Buck
+last-name: Buck
+prefix: Mr
+title: Mr Buck
+dates: —
+---
+
+a Devonshire clergyman?

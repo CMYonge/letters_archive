@@ -1,0 +1,29 @@
+---
+id: 2678
+title: To Alexander Macmillan
+date: '1879-07-04'
+display-date: July 4th/1879
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54921: 95-96'
+---
+
+Dear [Mr Macmillan](/person/939)
+
+Thanks for the copy of the [Heir of Redclyffe](/book/15) which is very prettily got up and attractive[^1] I never yet saw an illustrator who would avoid the height of the present fashion
+
+I wonder whether you would think it worth while to publish a little book of stories of mine[^2] chiefly from Christmas numbers of the [Monthly Packet](/periodical/52) four being historical (one not hitherto published) - one modern life, as are also two others which have only been in American papers
+
+Yours sincerely
+
+C M Yonge
+
+Would it be too late to suggest to the illustrator of [Heartsease ](/book/19)that in those days the Guards wore no moustaches?[^3]
+
+I should have thanked you for Spenser and Burns, I was sorry not
+
+
+[^1]: This is a disparaging reference to the illustrations by [Kate Greenaway](/person/2323) in the new collected edition.
+[^2]: CMY is proposing the collection of stories republished as [Bye-Words](/book/135) (1880).
+[^3]: Heartsease was also illustrated by Greenaway.

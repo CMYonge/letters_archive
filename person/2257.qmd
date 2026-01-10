@@ -1,0 +1,11 @@
+---
+id: 2257
+full-name: General Sir Redvers Buller
+first-name: Redvers
+last-name: Buller
+prefix: General Sir
+title: General Sir Redvers Buller
+dates: (1839-1908),
+---
+
+commander in chief during the Boer War.

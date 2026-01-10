@@ -1,0 +1,14 @@
+---
+id: 60
+title: \'Cawnpore\'
+author: Charlotte Mary Yonge
+date: '1865'
+genre: 'Non-Fiction: criticism'
+publication-format: Article in Journal
+publisher: Not reprinted in volume form
+serialization: <i>Literary Churchman</i>
+---
+
+This was a review of Cawnpore by George Otto Trevelyan.
+
+The author was not named.

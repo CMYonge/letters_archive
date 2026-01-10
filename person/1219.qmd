@@ -1,0 +1,10 @@
+---
+id: 1219
+full-name: Richard Quain
+first-name: Richard
+last-name: Quain
+title: Richard Quain
+dates: (1800-1887)
+---
+
+physician

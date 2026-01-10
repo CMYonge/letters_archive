@@ -1,0 +1,13 @@
+---
+id: 1277
+full-name: Admiral Sir Houston Stewart
+first-name: Houston
+last-name: Stewart
+prefix: Admiral Sir
+title: Admiral Sir Houston Stewart
+dates: (1791-1875)
+---
+
+naval officer
+
+He was second in command of the Black Sea fleet in 1855.

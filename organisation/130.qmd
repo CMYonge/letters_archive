@@ -1,0 +1,6 @@
+---
+id: 130
+reference-type: Organisation
+name: Hospital of St. Cross and Almshouse of Noble Poverty, The
+title: Hospital of St. Cross and Almshouse of Noble Poverty, The
+---

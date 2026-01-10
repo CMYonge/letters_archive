@@ -1,0 +1,12 @@
+---
+id: 21
+title: The History of the Life and Death of the Good Knight Sir Thomas Thumb, with
+  divers other matters concerning the court of good King Arthur of Britain. By the
+  author of “The Heir of Redclyffe,” “
+author: Charlotte Mary Yonge
+date: '1855'
+genre: Fiction (historical)
+publication-format: Book
+publisher: 'Thomas Constable and Co., Edinburgh: Hamilton, Adams, and Co, London:.'
+illustrator: Illustrated by J.B [Jemima Blackburn]
+---

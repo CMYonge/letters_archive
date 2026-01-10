@@ -1,0 +1,9 @@
+---
+id: 269
+title: Deacon\'s Book of Dates
+author: Charlotte Mary Yonge
+date: '1888'
+genre: Non-fiction, historical reference book
+publication-format: book
+publisher: 'London: C.W.Deacon & Co'
+---

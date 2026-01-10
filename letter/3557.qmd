@@ -1,0 +1,25 @@
+---
+id: 3557
+title: To Mrs White
+date: '1877-07-09'
+display-date: July 9th [before 1877[[footnote:1]]]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Mrs White
+manuscript-location: MS Harry Ransom Humanities Research Center, University of Texas,
+  Austin
+---
+
+My dear Mrs White
+[Miss Barnett](/person/113)’s niece, [Emma Butler](/person/822), who is here tells me that her Aunt is intending to write an account of your Convalescent home, so that I suppose she is only waiting for time.[^2] If she should fail, I should be very happy to have the account from yourself – or perhaps you have settled it with her – I am afraid my vote for [Earlswood](/organisation/38) is disposed of[^3]
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: This letter must antedate Emma Butler’s marriage in the last quarter of 1877 to Edward Lewis Knight.
+[^2]: There are many references to convalescent homes in MP and it is not possible to identify with any certainty the one referred to here.
+[^3]: The Royal Earlswood Asylum for Idiots opened in 1855.
+
+As a subscriber, CMY had a vote to cast when a vacancy occurred.

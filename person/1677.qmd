@@ -1,0 +1,11 @@
+---
+id: 1677
+full-name: The Rev. John William Fletcher
+first-name: John William
+last-name: Fletcher
+prefix: The Rev.
+title: The Rev. John William Fletcher
+dates: (1729-1789)
+---
+
+Vicar of Madeley, Shropshire

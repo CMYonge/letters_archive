@@ -1,0 +1,27 @@
+---
+id: 3249
+title: To the Reverend John Frederick Watkinson Bullock
+date: '1894-02-15'
+display-date: Feb 15th 1894
+from-name: Charlotte Mary Yonge
+from-address: Elderfield
+to-name: To the Reverend John Frederick Watkinson Bullock
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e.174 ff 135-6'
+---
+
+Dear [Mr Bullock](/person/221),
+I send [Bp Mackenzie](/person/929) whom I had to do in haste because my book was wanted -
+I think I had better take Carnarvon for the leading Cavalier for I can more easily get at his history at present than any other The Memoir of the Verneys I had once from [Mudie](/organisation/137) but I should have long to wait for it again and it is an expensive book, so I will only mention him in the course of what will be an article on the Cavaliers.
+I again must hope you will leave out [Miss Sellon](/person/1294). I know of [Dr Pusey](/person/1215)s’[sic] friendship for her, but his friends thought he did not know all details.
+
+And I think from the time she refused to let [Bp Philpotts](/person/1778) be Visitor she grew masterful[^1]
+I have little doubt that submission even in what she did not approve would have been wholesome in the end.
+I will write Bp Frampton and send it to you[^3]
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: Henry Phillpotts (1778-1869), bishop of Exeter, long one of the few bishops sympathetic to the Tractarian movement, supported Lydia Sellon\'s sisterhood, which was highly controversial.The proposed biographical articles were for the [\'Biographies of Eminent Anglicans\'](/book/358) which formed part of Bullock\'s Daily Lections project but were never in fact published.
+[^3]: Robert Frampton (1622-1708), bishop of Gloucester.

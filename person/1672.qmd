@@ -1,0 +1,11 @@
+---
+id: 1672
+full-name: Sir Walter Scott
+first-name: Walter
+last-name: Scott
+prefix: Sir
+title: Sir Walter Scott
+dates: (1771-1832)
+---
+
+novelist and poet

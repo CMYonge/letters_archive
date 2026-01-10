@@ -1,0 +1,23 @@
+---
+id: 3270
+title: To the Reverend John Frederick Watkinson Bullock
+date: '1894-07-10'
+display-date: July 10th 1894
+from-name: Charlotte Mary Yonge
+from-address: Elderfield
+to-name: To the Reverend John Frederick Watkinson Bullock
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e.174 ff 1'
+---
+
+Dear [Mr Bullock](/person/221),
+St Paul’s Cathedral has outrun St Erkenwold, though the materials you sent me did not include his reconciling SS Theodore and Wilfred as may be found in their lives and which was a grand work. I have not the lists of Bishops of London but I have Nicolls Statistical Review which gives them.
+
+Also Loftie’s London[^1]
+I do not know about [Mr Grimshaw](/person/2139)
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: This was evidently work connected with Bullock\'s Daily Lections project.

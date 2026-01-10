@@ -1,0 +1,11 @@
+---
+id: 2142
+full-name: The Very Rev. Henry Spence
+first-name: Henry
+last-name: Spence
+prefix: The Very Rev.
+title: The Very Rev. Henry Spence
+dates: —
+---
+
+Dean of Gloucester

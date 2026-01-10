@@ -1,0 +1,10 @@
+---
+id: 2095
+full-name: Dorothy Kilner
+first-name: Dorothy
+last-name: Kilner
+title: Dorothy Kilner
+dates: (1755-1836)
+---
+
+writer for children

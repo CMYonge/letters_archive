@@ -1,0 +1,11 @@
+---
+id: 148
+title: 'Beneath the Cross: Readings for Children in Our Lord’s Seven Sayings. By Florence
+  Wilford. Edited by Charlotte M. Yonge. With a preface by the Rev. R.F. Wilson, M.A.,
+  Vicar of Rownhams.'
+author: Charlotte Mary Yonge
+date: '1869'
+genre: 'Non-fiction: theology (by another)'
+publication-format: edited book
+publisher: 'London: J. Masters & Co., 78, New Bond Street'
+---

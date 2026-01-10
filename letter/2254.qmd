@@ -1,0 +1,30 @@
+---
+id: 2254
+title: Alexander Macmillan to Charlotte Mary Yonge
+date: '1868-06-27'
+display-date: June 27 1868
+from-name: Charlotte Mary Yonge
+to-name: Alexander Macmillan to Charlotte Mary Yonge
+manuscript-location: 'Copy outletter book British Library Add MSS.55388 (1): P. 490'
+---
+
+Dear Miss Yonge,
+[I](/person/939) was from home when your note about Index & [Miss Sewell](/person/1606)’s suggestion of a chronological table came to hand.[^1] But I have not been neglecting the suggestion.
+
+We are having a set of proofs made & shall put them into the hands of a competent person and submit the proofs to you.
+
+With regard to announcing volume 3 [Next few lines illegible] the printers want something to do [illegible] and long and we have set them to work on the [Chaplet of Pearls](/book/69).
+
+You need not worry youself with this connection.
+
+Your story will end I suppose about October & we should publish about the same time.[^2]
+I was sorry to miss you when you were in town.
+
+Yours very faithfully
+A.
+
+Macmillan
+
+
+[^1]: These were for the [Historical Selections](/book/71) compiled by CMY and Elizabeth Sewell.
+[^2]: The Chaplet of Pearls was being serialized in [MP](/periodical/52).

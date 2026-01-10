@@ -1,0 +1,22 @@
+---
+id: 2542
+title: To George Lillie Craik
+date: '1876-02-26'
+display-date: Febry 26th 1876
+from-name: Charlotte Mary Yonge
+to-name: To George Lillie Craik
+manuscript-location: 'MS British Library Add MSS 54921: 11'
+---
+
+Dear [Mr Craik](/person/379)
+Could you give me any idea what is the[ value of my copy rights](/topic/160), I do not mean that I want to part with them, but it would be convenient to me to know what is likely to be the full value of my property, and what I could raise by them in case of need[^2]
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: Endorsed \'See my letter.
+
+Feb 29/1\'.
+[^2]: This question is likely to have been prompted by anxiety about the financial situation of CMY\'s brother [Julian](/person/1624).

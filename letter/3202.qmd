@@ -1,0 +1,32 @@
+---
+id: 3202
+title: To Arthur John Butler
+date: '1892-09-19'
+display-date: Sept 19th 1892
+from-name: Charlotte Mary Yonge
+from-address: Elderfield
+to-name: To Arthur John Butler
+manuscript-location: MS Mrs Caroline Fairclough/29
+---
+
+My dear [Arthur](/person/238)
+Humbert was the name of the Dolphin.[^1] I did not know I had put it ambiguously.
+
+There was a Dauphin in Auvergne and in Montpensier, till the last turned into a Duke.
+
+They did bear dolphins, but I don’t think anyone knows whether the arms came from the dolphin or the dolphin from the title. I will either put in the name Humbert or join Count-dauphin with a hyphen in the proof to save confusions.
+
+The usual plan of people is to say that the invasion of England by Lewis the Lion was by the Dauphin.
+
+Do you remember the answer whose I can’t remember to the question which was greatest and have precedence the Prince of Wales or the Dauphin ‘Quantum Delphin balæna Britannica major['] My Latin like Queen Elizabeth’s is rusty, and I can’t remember which case quantum governs
+I condole with [Mrs Butler](/person/239), I think that first going to school makes one of the great wrenches of life[^2]
+
+yours sincerely
+
+C M Yonge
+
+
+[^1]: This presumably refers to an [article](/book/350) on French history she had written for one of the journals published by [Cassell](/organisation/216), for whom Butler worked.
+[^2]: The Butlers had six daughters and one son, William Martin Butler.
+
+It was presumably the latter who was being sent to school

@@ -1,0 +1,10 @@
+---
+id: 243
+title: 'Pilgrimage of the Ben Beriah: A Novel, The'
+author: Charlotte Mary Yonge
+date: '1897'
+genre: Fiction (historical)
+publication-format: Book
+publisher: 'London and New York: Macmillan and Company.'
+serialization: Originally published in the American children\'s magazine <i>St.Nicholas</i>?
+---

@@ -1,0 +1,13 @@
+---
+id: 18
+title: Castle Builders, or, The Deferred Confirmation, The. By the author of “Heartsease,”
+  “The Heir of Redclyffe,” “Scenes and Characters,” etc.
+author: Charlotte Mary Yonge
+date: '1854'
+genre: Fiction (modern)
+publication-format: Book
+publisher: John and Charles Mozley, 6 Paternoster Row, London
+serialization: Serialized in<i> MP</i>, April 1851 to May 1853.
+---
+
+The character of Constance recurs in The Pillars of the House.

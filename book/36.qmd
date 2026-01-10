@@ -1,0 +1,13 @@
+---
+id: 36
+title: Friarswood Post Office. By the author of “The Heir of Redclyffe.”
+author: Charlotte Mary Yonge
+date: '1860'
+genre: Fiction (modern)
+publication-format: Book
+publisher: John and Charles Mozley, 6, Paternoster Row, London. Masters and Co., 78,
+  New Bond Street, London.
+serialization: Serialized in the <i>Magazine for the Young</i>, August 1858 to August
+  1859.
+illustrator: There is one frontispiece signed F. Anderson Sc..
+---

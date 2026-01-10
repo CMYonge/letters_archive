@@ -1,0 +1,31 @@
+---
+id: 2546
+title: To Elizabeth Missing Sewell
+date: '1876-03-01'
+display-date: March 3d 1876
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Elizabeth Missing Sewell
+manuscript-location: 'MS Bodleian Library, Oxford: MSS. Autogr. MSS. Autogr.  d. 33
+  ff 245-6'
+---
+
+My dear [Miss Sewell](/person/1301),
+There is only one chapter of [Heartsease a conversation](/book/45).
+
+It was privately printed twice, and now people are always asking for it, so I am going to put it into the June [Monthly Packet](/periodical/52) though I do not think it is at all worth all the curiosity about it[^1]
+The publisher sent me [Miss Owen](/person/1110)’s book just in time for me to answer a person who wrote to enquire whether the chapters were separately published. I will certainly mention it
+I am afraid I have no autograph of [bishop Patteson](/person/1155)s that I could cut off, his letters all being closely written there is no cutting one off, and as our correspondence did not begin till he was in New Zealand I have no notes, so that I am unable to find one for you
+With my kind regards to [Miss Janetta](/person/1305)
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: This was the additional chapter of [Heartsease](/book/19) which explained what happened to the characters.
+[^2]: A. C.
+
+Owen, who had contributed articles on \'Christian Art\' to MP in 1874-5, had just published The Arts Schools of Mediæval Christendom edited by John Ruskin (London: Mozley & Smith 1876).
+
+He had commended the volume of MP containing these articles in a lecture later published in his The Pleasures of England (1884). CMY does not seem to have recommended it in MP, however.

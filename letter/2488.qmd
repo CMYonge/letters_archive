@@ -1,0 +1,35 @@
+---
+id: 2488
+title: To Arthur John Butler
+date: '1874-02-05'
+display-date: Febry 5th [1874]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Arthur John Butler
+manuscript-location: MS Mrs Caroline Fairclough/25
+---
+
+My dear [Arthur](/person/238)
+I think the redingote is wrong- but the geens and gaskins were worth having.
+
+Why should I not mean the Aryan classifications to be based on Grimm.[^1] I meant it for a pleasing exercise but I fancy only our [spiders](/organisation/116) of a superior order will attack such a web!
+
+Adams is my authority for durst being an old verb like burst, and is he not generally trustworthy?
+
+Certainly I never heard the infinitive.
+
+Do I know about your translation of Aristophanes?
+
+Did I miss it, for I am free to confess that [my sub editor](/person/512) looks at the Spiders’ webs and reports on them
+What does the [Athenaeum](/periodical/170) say to this, which I received this morning?[^2] [‘The Queen’ ](/periodical/241) declared that the only war in this reign I had mentioned was the Abyssinian, a flagrant instance of never looking at the book.[^3]
+Did you see the Aurora last night? I never saw a better.
+yours very sincerely
+
+C M Yonge
+
+
+[^1]: ‘Cobwebs, or, The Monthly Packet Essay Society’ had begun in the issue of January 1873.
+
+The question for February 1874 was ‘Classify the Aryan languages’.
+[^2]: Arthur Butler was a prolific contributor to the Athenaeum.
+[^3]: The reference is probably to her [Aunt Charlotte\'s Stories of English History for the Little Ones](/book/101), which had appeared in time for Christmas 1873.

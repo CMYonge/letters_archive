@@ -1,0 +1,6 @@
+---
+id: 210
+reference-type: Periodical
+name: <i>Girls\' Realm, The</i>
+title: <i>Girls\' Realm, The</i>
+---

@@ -1,0 +1,10 @@
+---
+id: 24
+full-name: Eliza Allen
+first-name: Eliza
+last-name: Allen
+title: Eliza Allen
+dates: —
+---
+
+contributor to MP (1888).

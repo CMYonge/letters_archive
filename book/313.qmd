@@ -1,0 +1,9 @@
+---
+id: 313
+title: '\''Three Generations: The Book Box\'' By The Editor'
+author: Charlotte Mary Yonge
+date: '1896'
+genre: Fiction (modern)
+publication-format: Short Story in Journal
+publisher: <i>Mothers in Council</i> 6.21 (Jan, 1896) 14-21
+---

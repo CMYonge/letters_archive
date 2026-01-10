@@ -1,0 +1,10 @@
+---
+id: 1224
+full-name: Robert Rawlinson
+first-name: Robert
+last-name: Rawlinson
+title: Robert Rawlinson
+dates: (1810-98)
+---
+
+civil engineer.

@@ -1,0 +1,13 @@
+---
+id: 83
+title: Storehouse of Stories, A Edited by Charlotte M. Yonge. First series
+author: Charlotte Mary Yonge
+date: '1870'
+genre: Fiction (by others)
+publication-format: Edited book
+publisher: 'London and New York: Macmillan and Co'
+---
+
+This was an anthology of reprinted eighteenth- and early nineteenth-century children’s stories by various hands; a second series appeared in 1872.
+
+The stories were ‘The History of Philip Quarll’, ‘The Renowned History of little Goody Two-Shoes’, ‘The Governess, or, The Little Female Academy’, ‘Jemima Placid, or, The advantage of good-nature’, ‘The Life and Perambulations of a Mouse’, ‘The Village School’, ‘The Little Queen’ and ‘The History of little Jack’.

@@ -1,0 +1,21 @@
+---
+id: 3118
+title: To Marianne Bigg Wither
+date: '1858-08-27'
+display-date: Aug 27th 1858
+from-name: Charlotte Mary Yonge
+from-address: Otterbourne, Winchester.
+to-name: To Marianne Bigg Wither
+manuscript-location: 'MS Princeton University, Parrish Collection, C0171: Box 29.'
+---
+
+My dear [Marianne](/person/1546)
+“[Teneriffe an Astronomer’s Experiment](/topic/149)” published by Reeve is the proper title of Piazzi Smith,[^2] [I] waited till I could [illegible] perfect in it I should think it a book quite worth sending out, very entertaining, and the writing of a sensible man. I return [Elizabeth](/person/1803)’s book of poetry, which I have been slowly enjoying, it is most beautiful, one upon the scenes of earth coming near heaven is I think my favourite
+Your affectionate
+
+C M Yonge
+I ought to have thanked for the book long ago only I waited for Teneriffe.
+
+
+[^1]: ‘Miss M B Wither’ is written on the back, and a strip of white paper pasted over fold covers some words/letters on first page.
+[^2]: Charles Piazzi Smith, Tenerife, An Astronomer\'s Experiment, or, Specialities of a Residence Above the Clouds (London, Reeve 1858).

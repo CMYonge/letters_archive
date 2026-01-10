@@ -1,0 +1,11 @@
+---
+id: 2365
+full-name: Sir Henry Ponsonby
+first-name: Henry
+last-name: Ponsonby
+prefix: Sir
+title: Sir Henry Ponsonby
+dates: (1825-1895)
+---
+
+private secretary to Queen Victoria

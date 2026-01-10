@@ -1,0 +1,21 @@
+---
+id: 2807
+title: To Ernest Hartley Coleridge
+date: '1885-04-18'
+display-date: April 18th 1885
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne,Winchester.
+to-name: To Ernest Hartley Coleridge
+manuscript-location: MS Harry Ransom Humanities Resource Center, University of Texas
+  at Austin
+---
+
+Dear [Mr Coleridge](/person/336)
+Thank you much for kindly remembering me on this occasion but I do not think I shall be in London at the time.[^1]
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: CMY is declining an invitation to Westminster Abbey to witness the unveiling by James Russell Lowell of a bust of [Samuel Taylor Coleridge](/person/1667) on 7 May 1885.

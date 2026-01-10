@@ -1,0 +1,11 @@
+---
+id: 1843
+full-name: Sir Henry Boynton
+first-name: Henry
+last-name: Boynton
+prefix: Sir
+title: Sir Henry Boynton
+dates: (1811-1869)
+---
+
+relation (not uncle) of Mary Emily Simpson

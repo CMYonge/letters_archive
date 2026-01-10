@@ -1,0 +1,21 @@
+---
+id: 2569
+title: To George Lillie Craik
+date: '1877-01-30'
+display-date: Jany 30th 1877
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To George Lillie Craik
+manuscript-location: 'MS British Library Add MSS 54921: 14'
+---
+
+Dear [Mr Craik](/person/379)
+Many thanks for [this payment](/topic/160), which considering that I had £400 before ought indeed to satisfy me.
+I wonder when [Clay](/organisation/173) means to go on with the [Scripture readings](/book/87)
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: The final volume of CMY\'s Scripture Readings was not in fact published until 1879, but that this was entirely the printer\'s fault is not certain.

@@ -1,0 +1,11 @@
+---
+id: 168
+title: Aunt Charlotte’s Stories of American History for the Little Ones. By Charlotte
+  M. Yonge and H. Hastings Weld, D.D..
+author: Charlotte Mary Yonge
+date: '1883'
+genre: 'Non-fiction: history'
+publication-format: Book
+publisher: 'London: Marcus Ward & Co., Chandos St, W.C. ; and at Belfast and New York'
+illustrator: Illustrated
+---

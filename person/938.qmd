@@ -1,0 +1,11 @@
+---
+id: 938
+full-name: The Rev. A. Macleare
+first-name: A.
+last-name: Macleare
+prefix: The Rev.
+title: The Rev. A. Macleare
+dates: —
+---
+
+payment to 1856

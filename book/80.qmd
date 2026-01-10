@@ -1,0 +1,10 @@
+---
+id: 80
+title: Book of Worthies, gathered from the Old Histories and now written out anew,
+  A By the author of “The Heir of Redclyffe.”
+author: Charlotte Mary Yonge
+date: '1869'
+genre: 'Non-fiction: history'
+publication-format: Book
+publisher: 'London and New York: Macmillan and Company.'
+---

@@ -1,0 +1,16 @@
+---
+id: 22
+reference-type: Organisation
+name: English Church Union, The
+title: English Church Union, The
+---
+
+This organisation was founded in 1859 in protest at the government legislating on church matters.
+
+It supported many of those accused of ritualism under the Public Worship Regulation Act (1874).
+
+The organisation changed its name to the Church Union in 1933, and still exists as a High Church lobby group within the Church of England, currently (2009) resisting the arrival of women bishops.
+
+Some archives are held by Lambeth Palace Library.
+
+Its website is http://www.churchunion.co.uk/

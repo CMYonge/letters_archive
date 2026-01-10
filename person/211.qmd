@@ -1,0 +1,13 @@
+---
+id: 211
+full-name: The Rev. John Cave Brown
+first-name: John Cave
+last-name: Brown
+prefix: The Rev.
+title: The Rev. John Cave Brown
+dates: (1818-1898)
+---
+
+Vicar of Detling, Kent 1843-87
+
+He offered a paper on Lambeth Chapel to MP.

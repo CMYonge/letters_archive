@@ -1,0 +1,18 @@
+---
+id: 3072
+title: To John William Parker, Jr.
+date: '1855-10-11'
+display-date: Oct 11th 1855
+from-name: Charlotte Mary Yonge
+from-address: Otterbourn
+to-name: To John William Parker, Jr.
+manuscript-location: 'MS Princeton University, Parrish Collection,  C0171: Box 29.'
+---
+
+My dear [Sir](/person/1143)
+I am much obliged for the draft for [£300](/topic/160) which I received this morning as well as for the book which accompanied it.
+I am glad to hear that the [Lances of Lynwood](/book/23) have begun to go off so fast
+
+Yours truly
+
+C M Yonge

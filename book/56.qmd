@@ -1,0 +1,9 @@
+---
+id: 56
+title: The Wars of Wapsburgh. By the author of “The Heir of Redclyffe.”
+author: Charlotte Mary Yonge
+date: '1864'
+genre: Fiction (fantasy)
+publication-format: Book
+publisher: Groombridge and Sons, 5, Paternoster Row, London.
+---

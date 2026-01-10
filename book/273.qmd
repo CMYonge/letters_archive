@@ -1,0 +1,9 @@
+---
+id: 273
+title: \'Preface- Arachne in her spectacles\'
+author: Charlotte Mary Yonge
+date: '1875'
+genre: Fiction, didactic allegory
+publication-format: Article in Journal
+publisher: MP (Christmas 1875) [v-vi]
+---

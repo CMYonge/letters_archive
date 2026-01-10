@@ -1,0 +1,10 @@
+---
+id: 110
+full-name: Jane Barlow
+first-name: Jane
+last-name: Barlow
+title: Jane Barlow
+dates: —
+---
+
+contributor to MP (1894-5)

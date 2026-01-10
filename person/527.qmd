@@ -1,0 +1,13 @@
+---
+id: 527
+full-name: The Ven. Richard Hurrell Froude
+first-name: Richard Hurrell
+last-name: Froude
+prefix: The Ven.
+title: The Ven. Richard Hurrell Froude
+dates: (1771-1859)
+---
+
+Rector of Dartington and Archdeacon of Totnes
+
+[ODNB ]

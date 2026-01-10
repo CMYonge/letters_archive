@@ -1,0 +1,13 @@
+---
+id: 64
+full-name: Dr. Thomas Arnold
+first-name: Thomas
+last-name: Arnold
+prefix: Dr.
+title: Dr. Thomas Arnold
+dates: (1795-1842)
+---
+
+headmaster of Rugby School
+
+A lifelong friend of Keble and Sir John Taylor Coleridge.

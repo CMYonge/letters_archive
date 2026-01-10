@@ -1,0 +1,6 @@
+---
+id: 211
+reference-type: Organisation
+name: Girls\' Friendly Society Reading Union
+title: Girls\' Friendly Society Reading Union
+---

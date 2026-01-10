@@ -1,0 +1,20 @@
+---
+id: 3250
+title: To Mrs Egerton
+date: '1894-02-15'
+display-date: Feb 15th 1894
+from-name: Charlotte Mary Yonge
+from-address: '[[other:23]G F S] Elderfield Otterbourne Winchester'
+to-name: To Mrs Egerton
+manuscript-location: 'MS UCLA: collection 100: box 95'
+---
+
+Dear [Mrs Egerton](/person/470)
+Unluckily the matter of the Grants could not come on till the last and I never found you again. I am sorry to say that the Council refused to forward your application as it would be a dangerous precedent to other Branches who might ask for the same grant. I have written to [Mrs Chester](/person/1682) and she may send it to you. I am sorry I had to run away from you, but there was need of my seeing [Miss Chambers](/person/2133) and I hoped you would have spoken when the subject came on.
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: In matching envelope with G F S written in upper left corner and stamp removed, addressed ‘Mrs Egerton/The Cottage/Alresford.’

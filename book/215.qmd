@@ -1,0 +1,9 @@
+---
+id: 215
+title: Seven Heroines of Christendom.
+author: Charlotte Mary Yonge
+date: September 1891
+genre: 'Non-fiction: biography'
+publication-format: Book
+publisher: 'London: Sonnenschein'
+---

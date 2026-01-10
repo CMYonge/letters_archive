@@ -1,0 +1,9 @@
+---
+id: 285
+title: \'East Winds of Lent, The\' by C. M. Yonge
+author: Charlotte Mary Yonge
+date: '1891'
+genre: Non-fiction
+publication-format: Article in Journal
+publisher: MP (March 1891) 272-6
+---

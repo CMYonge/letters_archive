@@ -1,0 +1,9 @@
+---
+id: 63
+title: 'Danvers Papers: An Invention, The By the author of “The Heir of Redclyffe.”'
+author: Charlotte Mary Yonge
+date: '1867.'
+genre: Fiction (historical)
+publication-format: Book
+publisher: 'London: Macmillan and Co.'
+---

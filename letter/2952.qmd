@@ -1,0 +1,58 @@
+---
+id: 2952
+title: To Anne Yonge
+date: '1845-04-19'
+display-date: April 19th [1845[[footnote:1]]]
+from-name: Charlotte Mary Yonge
+from-address: Otterbourn
+to-name: To Anne Yonge
+manuscript-location: MS West Devon Record Office Acc 1092/2.
+---
+
+My dear [Anne](/person/1582)
+It is a very long time since I have had such a nice long letter from you. I think the great Corfu news has given you a spur.
+
+It did take me very much by surprise though certainly if I had been asked to guess which of the Colbornes was going to be married, I should have said[ Jane](/person/1042), and you know she is at an age when two years of Society make more difference than we quiet homely damsels are likely to find out by personal experience.
+
+Even [Mary](/person/351) and [Alethea Coleridge](/person/923) have altered perceptibly in respect of womanly manners, power of talking to strangers &c between seventeen and nineteen, and they though London ladies have not been nearly as much in company as Jane.
+
+It was odd that last time we were in London, Mary Coleridge told me they had seen a report in the paper that a nobleman was going to marry the daughter of a noble Lord high in command in our islands. I wonder whether this is it.
+
+Is [Mr Agnew](/person/18) a Presbyterian?[^2] I see he is twenty seven and has six brothers and two sisters, how charmed [Delia Garstin](/person/546) will be to have one of her beloved Colbornes turned Scotswoman.[^3] I wish Sir Andrew Agnew did not put me in mind of Sir Andrew Aguecheek. [Lord Seaton](/person/313) told [Papa](/person/1631) of it in a letter about other affairs without any injunction to secresy so we have had no scruple in talking of it, besides that when the relations of one are in Scotland and both are at Corfu it cannot hurt their feelings to be talked about here. [Mamma](/person/1606) means to write to Delia Garstin. I am amused to see you in your grandeur one of five sisters looking down upon the Colborne’s ‘small sisterhood,’ while I look up to it as something very great and Mary Coleridge says it cannot signify half so much to [Elizabeth](/person/320) and [Cordelia](/person/319) being two, as it would to her if Alley was to marry.[^4] Do not you know it has often been observed that single misfortunes never come alone?
+
+You see you had better keep a sharp look out if you wish to keep any of your family to yourself I must say nothing has ever made me feel so old as to find a thing which I considered a child actually going to be married. I wish you would come here when [John](/person/1619) makes his visit to [Charles](/person/1601) and have a good talk over of it all. I send you [Alethea Bond](/person/171)’s letter which you must return if you please, [Delia](/person/1099)[^5] says she gives a better account of Margaret to them. [Aunt Duke](/person/1591) comes to us the second week in May.
+
+We have just had a very charming visit from Mary Coleridge whose [brother](/person/343) dropped her here on his way to [Miss Seymour](/person/341).[^6] She is now with [the Kebles](/person/798).
+
+She gives a very bad account of [Frances Patteson](/person/1151), and both the boys have had typhus fever.[^7] Poor [Julian](/person/1624) went on Thursday morning to luncheon first with [Mrs Moore](/person/1051).[^8] Monday is the day of the [Ampfield](/place/124) Consecration festivities and we are to dine with the Kebles after it.
+
+Are you doing anything for [aunt Anne](/person/1179)’s bazaar.[^9] I hope to make a map of the royal pedigree for it. [Eliza Hooper](/person/710) was married last Tuesday to one [James Littlefield](/person/886) to whom she has been engaged for a long time.[^10] I quite forgot to ask Mary C about [Margaret Catchpole](/organisation/37), but I believe it is in our book club.[^11] They have set up a book club at [Hursley](/place/127) for what [Mr Wither](/person/1544) terms ‘the middle classes’, there are twelve members, and they have a good many books of travels, histories, Englishman’s library &c and they may buy the books at half price at the end of the year.
+
+The primroses are beautiful but we have very little besides
+your very affectionate
+CMY
+
+
+[^1]: Endorsed in another hand ‘1845’.
+[^2]: Jane Colborne (1826/7-1919) had evidently become engaged to Andrew Agnew (1818-1892), who succeeded his father as 8th baronet in 1849.
+
+The marriage did not take place, and he married Lady Louisa Noel (d. 1883) in August 1846.
+[^3]: The Garstins were an Irish family, to which Anne’s maternal grandmother had belonged.
+
+There are several references to Delia Garstin in these early letters, see above To Anne Yonge (21 October 1844).
+
+If she was, as there suggested, Cordelia Garstin (1798/9-1867), then her sister Mary (d.1863) was married to William Hay (1788-1876) of Duns Castle, co.
+
+Berwick, which might account for her enthusiasm for Scotland.
+[^4]: Jane Colborne’s elder sisters were Elizabeth (1819-1882) and Cordelia Colborne (1825/6-1862); Mary Coleridge had a younger sister Alethea (1826-1909).
+[^5]: Alethea Duke (Yonge) Bond (1817-1847) and Cordelia Anne Duke Yonge (1807-1864), who is the second Delia mentioned in this letter, were the daughters of the Rev.
+
+Duke Yonge (1779-1836) and Cordelia Colborne (‘Aunt Duke’) (1775-1856).
+
+Margaret may have been a daughter of Alethea Bond; if so she did not survive her mother, who left no issue.
+[^6]: John Duke Coleridge (1820-1894) was on his way to visit his fiancée Jane Fortescue Seymour (1824/5-1878) in the Isle of Wight; they married on 11 August 1846.
+[^7]: Frances Sophia Coleridge Patteson (1825/6-1913) was a first cousin of Mary Coleridge’s; ‘the boys’ were her brothers [John Coleridge Patteson](/person/1155) (1827-1871), the future Bishop of Melanesia, and [James Henry Patteson](/person/1152) (b.1829).
+[^8]: i.e. in the absence of his father he had to give his arm to their lady guest.
+[^9]: Anne Duke (Yonge) Pode (c. 1800-1845), sister of WCY.
+[^10]: Probably James Littlefield (b. 1815/6), agricultural labourer, of Otterbourne, who was lodging at Hole Mill, Allbrook, with the parents of Eliza Hooper (b. 1815/6) at the time of the 1841 census.
+[^11]: Richard Cobbold, The History of Margaret Catchpole: A Suffolk Girl (1845).

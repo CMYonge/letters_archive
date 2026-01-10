@@ -1,0 +1,10 @@
+---
+id: 234
+reference-type: Organisation
+name: Society of Women Writers and Journalists, The
+title: Society of Women Writers and Journalists, The
+---
+
+Founded in 1894.
+
+See its website at http://www.swwj.co.uk/history.htm

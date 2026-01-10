@@ -1,0 +1,19 @@
+---
+id: 2787
+title: To William Wynyard
+date: '1884-02-29'
+display-date: Feb 29th 1884
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To William Wynyard
+manuscript-location: MS Charlotte Mitchell/4
+---
+
+Dear [Mr Wynyard](/person/1574)
+I enclose my subscription for Chandler’s Ford.[^1] I am glad it is safely set on foot
+yours very truly
+
+C M Yonge
+
+
+[^1]: This letter to a neighbour probably relates to the appeal for a mission room, or temporary church, in the village of Chandler\'s Ford, near Otterbourne, which is mentioned in the Hampshire Advertiser (22 March 1884), 8.

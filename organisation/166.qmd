@@ -1,0 +1,8 @@
+---
+id: 166
+reference-type: Organisation
+name: Molyneux Female Blind Asylum
+title: Molyneux Female Blind Asylum
+---
+
+This Protestant charity seems likely to be the Dublin blind asylum CMY refers to.

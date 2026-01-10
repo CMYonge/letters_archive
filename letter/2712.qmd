@@ -1,0 +1,17 @@
+---
+id: 2712
+title: To the Commissioners of Customs and Excise?
+date: '1880-09-30'
+display-date: Sept 30th 1880
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To the Commissioners of Customs and Excise?
+manuscript-location: 'MS Princeton University, Parrish Collection: C0171: Box 29'
+---
+
+I hearby authorize the importation of a copy of my work [Byewords](/book/135) printed by [Baron Tauchnitz](/person/1396)[^1]
+
+C M Yonge
+
+
+[^1]: The Leipzig publisher Tauchnitz had an \'English Authors\' series of small format reprints of English books which circulated cheaply on the Continent in paper covers, but copyright law was supposed to prevent travellers bringing them back to England.

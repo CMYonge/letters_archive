@@ -1,0 +1,6 @@
+---
+id: 169
+reference-type: Organisation
+name: Hoare\'s Bank
+title: Hoare\'s Bank
+---

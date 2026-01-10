@@ -1,0 +1,22 @@
+---
+id: 2892
+title: To an Unknown Woman
+date: '1888-10-06'
+display-date: Oct 6th 1888
+from-name: Charlotte Mary Yonge
+from-address: Elderfield
+to-name: To an Unknown Woman
+manuscript-location: MS Yale, Beinecke Library,  Osborn Files 41.21
+---
+
+Dear Madam
+I am exceedingly sorry for this, but I have nothing to do with those advertisements which are entirely [the publisher](/person/744)’s affair [^1] I will send him your letter at once
+
+yours truly
+
+C M Yonge
+
+
+[^1]: CMY\'s correspondent had evidently complained about the advertisement in MP of a book by [Mary Ward](/person/1467), whose Robert Elsmere was a novel about a clergyman\'s loss of faith.
+
+See below, letter to Innes (1 November 1888).

@@ -1,0 +1,13 @@
+---
+id: 588
+full-name: Sir George Grove
+first-name: George
+last-name: Grove
+prefix: Sir
+title: Sir George Grove
+dates: (1820-1900)
+---
+
+assistant editor of Macmillan's Magazine
+
+He was assistant editor from 1866; famous as the editor of the Dictionary of Music; he was knighted in 1883.

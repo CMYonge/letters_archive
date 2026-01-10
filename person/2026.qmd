@@ -1,0 +1,13 @@
+---
+id: 2026
+full-name: The Rev. Charles Bice
+first-name: Charles
+last-name: Bice
+prefix: The Rev.
+title: The Rev. Charles Bice
+dates: (1844-1922)
+---
+
+Melanesian missionary, later Vicar of Murrurundi, NSW
+
+See Blain, Biographical Dictionary of Anglicans in the Pacific at http://anglicanhistory.org/nz/blain_directory/directory.pdf

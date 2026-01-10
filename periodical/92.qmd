@@ -1,0 +1,8 @@
+---
+id: 92
+reference-type: Periodical
+name: <i>Morning Herald, The</i>
+title: <i>Morning Herald, The</i>
+---
+
+This was a daily newspaper published in London which ran 1780-1869.

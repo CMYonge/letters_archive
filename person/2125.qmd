@@ -1,0 +1,11 @@
+---
+id: 2125
+full-name: Major-General Sir Robert Murdoch Smith
+first-name: Robert Murdoch
+last-name: Smith
+prefix: Major-General Sir
+title: Major-General Sir Robert Murdoch Smith
+dates: (1835-1900)
+---
+
+Director of the Edinburgh Museum of Science

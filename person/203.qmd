@@ -1,0 +1,13 @@
+---
+id: 203
+full-name: Sir Benjamin Collins Brodie
+first-name: Benjamin Collins
+last-name: Brodie
+prefix: Sir
+title: Sir Benjamin Collins Brodie
+dates: (1783-1862)
+---
+
+physician
+
+He was created a baronet in 1834. [ODNB]

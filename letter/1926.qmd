@@ -1,0 +1,26 @@
+---
+id: 1926
+title: To Alexander Macmillan
+date: '1864-01-18'
+display-date: Jany 18th 1864
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54920: 13-14'
+---
+
+Dear [Sir](/person/939),
+I found the other day that Messrs [Longman](/organisation/153)’s delay in transferring my books to you was rendering it difficult for the retail booksellers to procure them - I therefore wrote to them a day or two ago to urge on the completion of the arrangements and I hope you may soon be able to let me know that this has been done.
+
+How soon do you think it would be advisable to begin printing the [Trial](/book/53)?
+
+It will finish in the [Monthly Packet](/periodical/52) in April or May. I would make a push for its doing so in April if this were best, and in that case I suppose you would begin printing at once and I would send you the other chapters- I have an alteration or two to make in what I sent you, but this can be done in the proofs.
+
+My [brother](/person/1624) mentioned to me the project of which you spoke to him of a little book of [Golden Deeds](/book/51),[^2] it is one that I should have much pleasure in carrying out
+Yours faithfully
+C.M.
+
+Yonge
+
+
+[^1]: Black-edged paper.

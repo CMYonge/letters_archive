@@ -1,0 +1,9 @@
+---
+id: 124
+full-name: Prince Maurice Battenberg
+first-name: Maurice
+last-name: Battenberg
+prefix: Prince
+title: Prince Maurice Battenberg
+dates: (1891-1914)
+---

@@ -1,0 +1,11 @@
+---
+id: 984
+full-name: The Rt. Rev. Samuel Allen McCoskry
+first-name: Samuel Allen
+last-name: McCoskry
+prefix: The Rt. Rev.
+title: The Rt. Rev. Samuel Allen McCoskry
+dates: (1804-1886)
+---
+
+episcopal Bishop of Michigan

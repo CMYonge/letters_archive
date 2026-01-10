@@ -1,0 +1,13 @@
+---
+id: 199
+full-name: The Rev. William Bright
+first-name: William
+last-name: Bright
+prefix: The Rev.
+title: The Rev. William Bright
+dates: (1824-1901)
+---
+
+historian, hymnwriter and contributor to MP (1868-70)
+
+[ODNB]

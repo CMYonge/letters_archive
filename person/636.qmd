@@ -1,0 +1,11 @@
+---
+id: 636
+full-name: The Rev. William Dann Harrison
+first-name: William Dann
+last-name: Harrison
+prefix: The Rev.
+title: The Rev. William Dann Harrison
+dates: —
+---
+
+Vicar of South Stoneham

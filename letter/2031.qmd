@@ -1,0 +1,23 @@
+---
+id: 2031
+title: To Eliza Callahan Cleveland
+date: '1865-05-10'
+display-date: May 10th 1865
+from-name: Charlotte Mary Yonge
+to-name: To Eliza Callahan Cleveland
+manuscript-location: 'MS Princeton University, Parrish Collection, C0171: Box 29'
+---
+
+My dear [Miss Cleveland](/person/307),
+Thank you for your very interesting despatch, which we read with much enjoyment.[^1] The account of the Freedmen is especially interesting, and I feel quite sorry to have to put it off so long, as I shall be obliged to do, in order to get to the end of the Southern journal. I shall however have a letter written from Philadelphia in the next number, giving the account of the general mourning there, coming full in the heat of the moment, it seems to be a time for putting in such a letter.[^2] I am much obliged for the photographs, which are very interesting.
+
+What a fine face [Mr Putnam](/person/1217)’s is, and your touching sketches of their lives make the faces much more remarkable, I have quite an American gallery of photographs, including the three little children whose [father](/person/1941) was found grasping their likeness on the battle field.
+
+With many thanks and kind regards to [Mrs Cleveland](/person/1939)
+Yours very truly
+
+C M Yonge
+
+
+[^1]: We have not succeeded in identifying this, which may not have been published.
+[^2]: The mourning was for the death of Abraham Lincoln on 14 April 1865.

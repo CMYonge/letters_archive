@@ -1,0 +1,10 @@
+---
+id: 76
+full-name: Jane Austen
+first-name: Jane
+last-name: Austen
+title: Jane Austen
+dates: (1775-1817)
+---
+
+novelist

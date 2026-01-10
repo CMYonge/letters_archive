@@ -1,0 +1,10 @@
+---
+id: 140
+reference-type: Place
+name: Brighstone
+title: Brighstone
+---
+
+A village on the Isle of Wight of which the Rev.
+
+George Moberly was rector between 1868 and 1869.

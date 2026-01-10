@@ -1,0 +1,28 @@
+---
+id: 2708
+title: To Francis Turner Palgrave
+date: '1880-05-12'
+display-date: May 12 1880
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Francis Turner Palgrave
+manuscript-location: 'MS Princeton University, Parrish Collection, Princeton: C0171:
+  Box 29'
+---
+
+My dear [Mr Palgrave](/person/1124)
+You will think there is no end to the books I am doing, but the [National Society](/organisation/32) has set me on making [a historical Reader](/book/150) for schools interspersed - after Reader fashion with poems.
+
+May I have an extract from your verses about Charles’s flight.
+
+They are so much easier than Wordsworth’s sonnet- and may I borrow one or two more from that same book?[^1] The Montfort one, I think but I am not sure of any other.[^2]
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: The reading of the words ‘Charles’s flight’ is conjectural, but CMY included Palgrave’s ‘The Fugitive King’. about the flight of Charles I after the battle of Naseby in 1645, in English History Reading Books IV.
+
+The reference to Wordsworth is presumably to Ecclesiastical Sonnets 46, ‘Troubles of Charles the First’.
+[^2]: ‘A Ballad of Evesham’, also from Palgrave\'s The Visions of England (1880), was included in English History Reading Books III.

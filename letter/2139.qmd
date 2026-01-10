@@ -1,0 +1,37 @@
+---
+id: 2139
+title: To Alexander Macmillan
+date: '1866-11-19'
+display-date: Novr 19th 1866
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54920: 168-169'
+---
+
+Dear [Mr Macmillan](/person/939),
+You will think there is no end to my tormenting you, but Mr [Hugo Borges](/person/174) of Cambridge has been writing to me rather urgently on behalf of his friend Mr [Otto Franke](/person/522), of whom I dare say you have heard, to ask me to let him translate any future novel into German.[^1] I answered that what I had in hand was going into your [Magazine](/periodical/78), and he replies that this is just what will suit him as he wants it for a Magazine of translated foreign novels (Roman Magazin des Auslande) and if you will let him have early sheets, he desires me to name my own terms for permission to translate.
+
+I never was paid anything before for permission to translate and I have no idea what the terms should be.
+
+Can you tell me -?
+
+I suppose there is no chance of the said [Chaplet](/book/69) being wanted by you for six months at least.
+
+Thank you greatly for not leaving me to the [tender mercies](/topic/172) of America.
+
+Whatever I receive from thence, I consider as so much out of the fire.
+
+I like the size of the page of the [Historical Readings](/book/71). I will send you up to the end of the first division as soon as I have had a little more correspondence with my colleague, and I think I must have the introduction back to adapt.
+
+I will send the [cameos](/book/73) as soon as I can look them out.
+
+Have you cast your eye over those specimens of Readings on the Books of the Bible. I think I sent those on Leviticus, Numbers and Deuteronomy[^2]
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Otto Franke (b.1842) was the author of a work on Catullus.
+[^2]: These were probably the articles by [Frances Mary Peard](/person/1160), originally published in the [Monthly Paper of Sunday Teaching](/periodical/81), which CMY wanted Macmillan to publish in his [Sunday Library](/topic/145) series.

@@ -1,0 +1,12 @@
+---
+id: 143
+title: 'Aunt Charlotte’s Evenings at Home with the Poets : A Collection of Poems for
+  the Young, with Conversations, Arranged in Twenty-Five Evenings. By Charlotte M.
+  Yonge, author of “The Heir of Redcl'
+author: Charlotte Mary Yonge
+date: '1881'
+genre: 'Non-fiction: critical anthology'
+publication-format: Edited book
+publisher: Marcus Ward & Co., Chandos St, W.C. London; and Royal Ulster Works, Belfast.
+illustrator: Illustrated by Mrs J. W. Whymper.
+---

@@ -1,0 +1,27 @@
+---
+id: 3255
+title: To the Reverend John Frederick Watkinson Bullock
+date: '1894-03-19'
+display-date: March 19 1894
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne Winchester
+to-name: To the Reverend John Frederick Watkinson Bullock
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e.174 ff 143-4'
+---
+
+Dear [Mr Bullock](/person/221),
+If you can wait a little while for St Maurice I will send him to you but I am very busy just now, and could not turn my mind to it immediately. I have Baring Gould and [Alban Butler](/organisation/27) both also Fleury[^2]
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: Envelope addressed to ‘The Revd J.F.
+
+Bullock/Radwinter Rectory/Saffron Walden.
+
+Postmark MR 19/94.
+[^2]: CMY perhaps refers to Claude Fleury, Histoire ecclesiastique (1691-1720) ; she may have known it in Newman’s translation, The Ecclesiastical History of M. l\'abbé Fleury, from the Second Ecumenical Council to the end of the Fourth Century (Oxford: Parker 1842-4).
+
+She is talking about the work she was doing for Bullock\'s Daily Lections project.

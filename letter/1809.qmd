@@ -1,0 +1,31 @@
+---
+id: 1809
+title: To Alice Arbuthnot Moberly
+date: '1860-12-01'
+display-date: Dec. 1860
+from-name: Charlotte Mary Yonge
+to-name: To Alice Arbuthnot Moberly
+manuscript-location: MS location unknown. This fragment printed in <i>[[otherbook:122]Dulce
+  Domum}</i>, 163-4.
+---
+
+My dear [Alice](/person/1025),
+I trow you are not expecting me to-night, and a great pity it is, but it will be mitigated if [Dr.
+
+Moberly](/person/1015) will only be so kind as to lend us the lecture to read at home, in which case the Institution shall honestly have the price of our tickets.[^1] If you will tell the cart to call we will send in Froude, vol v., and ‘Cornwallis.’[^2] I am afraid you are not in the way of the glory of the snow.
+
+It was like a succession of fairy palaces all the way to church this morning, and we have just come in from revelling in it by the lovely little crescent moon, with the sunset light far away.
+
+Even waggons have not stained it yet, and the hill is one great twelfth cake: and the cabbages are divided into Esquimaux huts and lawyers’ wigs. I am afraid that [Mrs.
+
+Moberly](/person/1019) feels the cold, and still more afraid that [Mrs.
+
+Keble](/person/795) does . . .
+
+
+[^1]: The Hampshire Telegraph reported (22 December 1860) that the Rev.
+
+George Moberly had given on Thursday 20 December a lecture on \'Earl Waltheof and Norman Winchester\' in aid of \'the fund for the establishment of a new and enlarged refuge for penitent females\', i.e. [the Winchester Female Refuge](/organisation/49).
+[^2]: Volumes 5 and 6 of J.A.
+
+Froude’s History of England from the Fall of Wolsey to the Death of Elizabeth (later renamed to the Defeat of the Spanish Armada) appeared in 1860.

@@ -1,0 +1,11 @@
+---
+id: 1814
+full-name: Sir Arthur Helps
+first-name: Arthur
+last-name: Helps
+prefix: Sir
+title: Sir Arthur Helps
+dates: (1813-1875)
+---
+
+writer

@@ -1,0 +1,10 @@
+---
+id: 2399
+full-name: Mother Shipton
+first-name: Mother
+last-name: Shipton
+title: Mother Shipton
+dates: (<i>fl.</i> 1530)
+---
+
+prophetess

@@ -1,0 +1,17 @@
+---
+id: 3387
+title: To an Unknown Woman
+date: '1898-11-29'
+display-date: Novr 29 1898
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne
+to-name: To an Unknown Woman
+manuscript-location: MS Charlotte Mitchell/30
+---
+
+Dear Madam
+I am sorry to say that [Mrs Perowne](/person/1663)’s paper is too late to appear in this number
+
+yours truly
+
+C M Yonge

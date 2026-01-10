@@ -1,0 +1,13 @@
+---
+id: 138
+title: 'Gold Dust : A Collection of Golden Counsels for the Sanctification of Daily
+  Life. Translated and abridged from the French, by E.L.E.B. With a preface by Charlotte
+  M. Yonge.'
+author: Charlotte Mary Yonge
+date: '1880'
+genre: 'Non-fiction: preface'
+publication-format: Preface to book
+publisher: 'London: J. Masters & Co., 78, New Bond Street'
+---
+
+E.L.E.B. is possibly CMY’s neighbour Ella L.E.Burlton.

@@ -1,0 +1,11 @@
+---
+id: 1329
+full-name: The Rev. James Skinner
+first-name: James
+last-name: Skinner
+prefix: The Rev.
+title: The Rev. James Skinner
+dates: (1818-1881)
+---
+
+Vicar of Newland, Worcs. and founder of the English Church Union

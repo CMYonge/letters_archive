@@ -1,0 +1,15 @@
+---
+id: 2365
+title: To the Reverend -- Fielder
+date: '1870-01-08'
+display-date: Jan 8th 1870 [corrected from 1869]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To the Reverend -- Fielder
+manuscript-location: 'MS UCLA: collection 100: box 95'
+---
+
+Miss Yonge begs to return her best thanks on behalf of [Bishop Patteson](/person/1155) to [Mr Fielder](/person/510) and his congregation for their Epiphany contribution to the [Melanesian Mission](/organisation/30)
+
+
+[^1]: Black-edged paper.

@@ -1,0 +1,11 @@
+---
+id: 337
+title: ‘A very friendly leaf.’
+author: Charlotte Mary Yonge
+date: '1901'
+genre: Non-fiction
+publication-format: Article in Journal
+publisher: <i>Friendly Leaves</i></i> (January 1901) 45-46.
+---
+
+This series, \'Leaves for the Months\', is identified as by CMY in an obituary in Friendly Leaves, April 1901.

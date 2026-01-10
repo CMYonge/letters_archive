@@ -1,0 +1,12 @@
+---
+id: 1220
+full-name: Mabel Quiller Couch
+first-name: Mabel
+last-name: Quiller Couch
+title: Mabel Quiller Couch
+dates: contributor to <i>MP</i> (1894, 98)
+---
+
+novelist
+
+She was a sister of Sir Arthur Quiller-Couch (1863-1944).

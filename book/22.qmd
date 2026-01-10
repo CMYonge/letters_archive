@@ -1,0 +1,12 @@
+---
+id: 22
+title: Railroad Children, The. By the author of “The Heir of Redclyffe,” “Scenes and
+  Characters,” &c.
+author: Charlotte Mary Yonge
+date: '1855'
+genre: Fiction (modern)
+publication-format: Book
+publisher: John and Charles Mozley, 6, Paternoster Row, London; Masters and Co., 78,
+  New Bond Street, London.
+serialization: Serialized in <i>the Magazine for the Young</i> April - December 1849.
+---

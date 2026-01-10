@@ -1,0 +1,27 @@
+---
+id: 2781
+title: To James Sutherland Cotton
+date: '1883-10-19'
+display-date: Oct 19th 1883
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To James Sutherland Cotton
+manuscript-location: 'MS UCLA: collection 100: box 95'
+---
+
+[Sir](/person/2354),
+Allow me to thank you for your notice of my recent [volume](/book/174) of ‘Cameos of English history.’ But let me observe that Freitag derives the word sometimes spelt Lanzknechts as ‘Landsknechts’—free men of the country.
+
+Miss Strickland, in her [Life of Anne of Denmark](/organisation/157), states that, though Oslo as Upslo afterwards had a Cathedral and was known as Christiana, both James’s letters, and the contemporary chroniclers describe the place as a small dreary village. I have no original authority at hand, but Miss Strickland evidently looked into the matter; and as there was another performance of the ceremony at Kronenberg, it is plain that Oslo could not then have been considered to possess the National Cathedral.
+
+The conversations between Ballard and his fellows are not from my imagination but from the evidence laid before Elizabeth, and whether true or not, are certainly historical.
+I remain
+Yours &c
+
+C M Yonge
+
+
+[^1]: The words ‘life’ in ‘Life of Anne of Denmark’ and ‘but’ in ‘But let me observe’ are lowercased but have the first letter double-underscored as if to uppercase them—this and other marks may have been done by the printer if the letter was published in the correspondence columns of the periodical.
+
+The letter is endorsed ‘Corresp./’ ‘Cameos of English History’ ’
+[^2]: James Sutherland Cotton (1847-1918) was the editor of the [Academy](/periodical/246), where this letter appeared (27 October 1883), 283, in response to a review (13 October 1883), 244, of CMY\'s [Cameos from English History V: England and Spain](/book/174), criticizing her spelling and introduction of anecdotes.

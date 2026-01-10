@@ -1,0 +1,10 @@
+---
+id: 803
+full-name: Thomas Keightley
+first-name: Thomas
+last-name: Keightley
+title: Thomas Keightley
+dates: (1789-1872)
+---
+
+author of The Fairy Mythology, contributor to MP (1851)

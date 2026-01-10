@@ -1,0 +1,10 @@
+---
+id: 1916
+full-name: John O’Donovan
+first-name: John
+last-name: O’Donovan
+title: John O’Donovan
+dates: (1809-1861)
+---
+
+Celticist

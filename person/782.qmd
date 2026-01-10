@@ -1,0 +1,10 @@
+---
+id: 782
+full-name: Owen Jones
+first-name: Owen
+last-name: Jones
+title: Owen Jones
+dates: (1809-1874)
+---
+
+designer and decorator

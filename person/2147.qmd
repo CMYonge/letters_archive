@@ -1,0 +1,10 @@
+---
+id: 2147
+full-name: Anne Hicks
+first-name: Anne
+last-name: Hicks
+title: Anne Hicks
+dates: (b.1852/3)
+---
+
+sister of Edmund Hicks

@@ -1,0 +1,10 @@
+---
+id: 330
+title: ‘Forget-Me-Nots.\' By Charlotte M. Yonge
+author: Charlotte Mary Yonge
+date: '1900'
+genre: Fiction (modern)
+publication-format: Serial story in journal
+publisher: <i>Friendly Leaves</i> (January -November 1900)
+serialization: Not reprinted in volume form
+---

@@ -1,0 +1,20 @@
+---
+id: 2144
+title: To Alexander Macmillan
+date: '1867-01-07'
+display-date: Jan 7th [1867]
+from-name: Charlotte Mary Yonge
+to-name: To Alexander Macmillan
+manuscript-location: MS University of Iowa; MsL/Y56ma1
+---
+
+Dear [Mr Macmillan](/person/939)
+Please be so kind as to direct on this letter.
+I am taking the [Chaplet of Pearls](/book/69) to have a final reading by its greatest critics[^1]
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Perhaps [Mary Anne Dyson](/person/464) (who is known to have encouraged CMY to make Eustacie less adult) and her [sister-in-law](/person/462).

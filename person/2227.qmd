@@ -1,0 +1,13 @@
+---
+id: 2227
+full-name: The Rev. Canon John James Lias
+first-name: John James
+last-name: Lias
+prefix: The Rev. Canon
+title: The Rev. Canon John James Lias
+dates: (1824-1923)
+---
+
+Chancellor of Llandaff Cathedral
+
+His obituary is in The Times (19 March 1923).

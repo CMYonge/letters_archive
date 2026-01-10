@@ -1,0 +1,13 @@
+---
+id: 1091
+full-name: The Rev. Dr. George Nott
+first-name: George
+last-name: Nott
+prefix: The Rev. Dr.
+title: The Rev. Dr. George Nott
+dates: (1767-1841)
+---
+
+Italian scholar
+
+His books were sold in Winchester in January 1842. [ODNB]

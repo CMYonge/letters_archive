@@ -1,0 +1,25 @@
+---
+id: 1992
+title: To the Reverend Henry Octavius Coxe
+date: '1864-11-10'
+display-date: Novr 10th 1864
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To the Reverend Henry Octavius Coxe
+manuscript-location: 'MS Bodleian Library, Oxford: MS Eng. Lett d.418.ff 154-155'
+---
+
+My dear [Mr Cox](/person/377) [sic],
+I dare say you will be so kind as to give me a morning in a Bodleian den some day next week[^1] -
+Would you be so kind as to order for me anything you can find about Maximilian I of Germany - and about the city of Ulm in his time - I want as much anecdote and scenery as I can lay my hands on, wishing to represent him cutting capers on the Cathedral tower.
+I have Cox’s house of Austria, and that is all my present stock in trade - English and French books by preference if you please
+Hoping that this is not a very troublesome request
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: CMY and her mother were planning to stay with the Warden at New College. (See letter to Macmillan dated 11 November 1864).
+
+She was looking for background material for [The Dove in the Eagle’s Nest](/book/62) which she had just begun to write.

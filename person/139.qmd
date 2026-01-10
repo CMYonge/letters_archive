@@ -1,0 +1,11 @@
+---
+id: 139
+full-name: The Rev. Arthur Christopher Benson
+first-name: Arthur Christopher
+last-name: Benson
+prefix: The Rev.
+title: The Rev. Arthur Christopher Benson
+dates: (1862-1925)
+---
+
+writer, son of Archbishop Benson, contributor to MP (1896)

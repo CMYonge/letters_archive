@@ -1,0 +1,11 @@
+---
+id: 568
+full-name: The Hon. Sir 1st Lord Stanmore Arthur Charles Hamilton Gordon
+first-name: Arthur Charles Hamilton
+last-name: Gordon
+prefix: The Hon. Sir
+title: The Hon. Sir 1st Lord Stanmore Arthur Charles Hamilton Gordon
+dates: (1829–1912)
+---
+
+colonial governor

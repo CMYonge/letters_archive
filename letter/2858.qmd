@@ -1,0 +1,21 @@
+---
+id: 2858
+title: To Mary Drew
+date: '1887-04-15'
+display-date: April 15th [1887?[[footnote:1]]]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne Winchester
+to-name: To Mary Drew
+manuscript-location: 'MS British Library: Mary Gladstone Papers. Add MSS 46252: 10-11.'
+---
+
+Dear [Mrs Drew](/person/443),
+I was out all yesterday and could not answer your kind letter, nor thank you for the excellent paper, which I have ventured to take to [Mrs Sumner](/person/1381), who is really the parent of the [Mother’s Union](/organisation/31). I could not use it for the [Monthly Packet](/periodical/52) as I am obliged scrupulously to keep that for young girls’ reading; but there is a yet undeveloped notion of starting some kind of paper, leaflet or the like for the Mothers and if this were done, I hope we might have the use of your admirable paper.
+
+Mrs Sumner has brought into the Mother’s Union most of the tradesmen’s wives of all degrees, and this seem to be very helpful
+Yours very truly
+
+C M Yonge
+
+
+[^1]: The letter must postdate Mary Drew\'s marriage on 25 December 1885, and predate the letter to her of 1 February 1888 which refers to the forthcoming publication of the [Mothers\' Union Journal](/periodical/93).

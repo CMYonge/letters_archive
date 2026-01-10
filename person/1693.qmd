@@ -1,0 +1,11 @@
+---
+id: 1693
+full-name: Sir Thomas Baring
+first-name: Thomas
+last-name: Baring
+prefix: Sir
+title: Sir Thomas Baring
+dates: 1772-1848
+---
+
+of Stratton, Hants.

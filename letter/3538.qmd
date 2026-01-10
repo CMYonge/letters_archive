@@ -1,0 +1,23 @@
+---
+id: 3538
+title: To Emily or Jane Mary Dampier
+date: '1870-01-01'
+display-date: '[<i>c</i>. 1870?]'
+from-name: Charlotte Mary Yonge
+to-name: To Emily or Jane Mary Dampier
+manuscript-location: 'MS UCLA: collection 100: box 95'
+---
+
+My dear [Miss Dampier](/person/1345),
+Here are your books with many thanks, and the Scotch one.
+
+It is the Edinburgh baillie who is worth reading—the other is horrid. I will get the rest of Mademoiselle as soon as I can and send her or bring her.[^1]
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Perhaps Mémoires de Mademoiselle de Montpensier ed.
+
+Adolphe Cheruel 4 vols (Paris: Charpentier 1858-9).

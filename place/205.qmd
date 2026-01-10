@@ -1,0 +1,8 @@
+---
+id: 205
+reference-type: Place
+name: Val Richer
+title: Val Richer
+---
+
+The home in Normandy of [Guizot](/person/597) and his family.

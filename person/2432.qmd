@@ -1,0 +1,10 @@
+---
+id: 2432
+full-name: Charles Henry Pearson
+first-name: Charles Henry
+last-name: Pearson
+title: Charles Henry Pearson
+dates: (1830-1894)
+---
+
+historian

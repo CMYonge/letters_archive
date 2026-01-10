@@ -1,0 +1,12 @@
+---
+id: 1433
+full-name: Frederick Warne
+first-name: Frederick
+last-name: Warne
+title: Frederick Warne
+dates: (1825-1901)
+---
+
+publisher
+
+He had offices at 15 Bedford Street, next door to Macmillan.

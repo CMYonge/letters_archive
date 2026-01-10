@@ -1,0 +1,16 @@
+---
+id: 2485
+title: To an Unknown Woman
+date: '1873-12-15'
+display-date: Decr 15th 1873
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To an Unknown Woman
+manuscript-location: 'MS Columbia University Library, New York:  Ray Coll'
+---
+
+Dear Madam
+I am much obliged in the name of the [Melanesian Mission](/organisation/30) for your subscription, but I am afraid I must ask you to exchange it for one on Winchester as there is no money order office here and they will not cash it at Winchester
+
+Yours truly
+Charlotte Yonge

@@ -1,0 +1,8 @@
+---
+id: 2006
+full-name: Miss Terle
+last-name: Terle
+prefix: Miss
+title: Miss Terle
+dates: —
+---

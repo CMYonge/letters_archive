@@ -1,0 +1,9 @@
+---
+id: 2276
+full-name: Cherry
+first-name: Cherry
+title: Cherry
+dates: —
+---
+
+an unidentified member of the Gosling Society

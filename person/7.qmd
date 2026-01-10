@@ -1,0 +1,13 @@
+---
+id: 7
+full-name: Sir Henry Wentworth Acland
+first-name: Henry Wentworth
+last-name: Acland
+prefix: Sir
+title: Sir Henry Wentworth Acland
+dates: (1815-1900)
+---
+
+physician
+
+Brother of Arthur Acland Troyte and of Sir Thomas Dyke Acland. [ODNB]

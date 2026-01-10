@@ -1,0 +1,10 @@
+---
+id: 104
+full-name: John Barfoot
+first-name: John
+last-name: Barfoot
+title: John Barfoot
+dates: ( )
+---
+
+carpenter in Otterbourne

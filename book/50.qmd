@@ -1,0 +1,9 @@
+---
+id: 50
+title: Eugénie de Guérin. (Author not named)
+author: Charlotte Mary Yonge
+date: '1864'
+genre: 'Non-fiction: criticism'
+publication-format: Article in Journal
+publisher: <i>Christian Remembrancer</i>, Vol. 47, pp. 1-26.
+---

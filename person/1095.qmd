@@ -1,0 +1,10 @@
+---
+id: 1095
+full-name: Countess of Airlie Mabell Frances Elizabeth Ogilvy
+first-name: Mabell Frances Elizabeth
+last-name: Ogilvy
+title: Countess of Airlie Mabell Frances Elizabeth Ogilvy
+dates: (1866-1956)
+---
+
+courtier

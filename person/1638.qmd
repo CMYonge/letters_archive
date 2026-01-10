@@ -1,0 +1,10 @@
+---
+id: 1638
+full-name: Helen Zimmern
+first-name: Helen
+last-name: Zimmern
+title: Helen Zimmern
+dates: (1846-1934)
+---
+
+contributor to MP (1892-6), author

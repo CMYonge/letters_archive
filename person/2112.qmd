@@ -1,0 +1,11 @@
+---
+id: 2112
+full-name: The Very Rev. Carey Brock
+first-name: Carey
+last-name: Brock
+prefix: The Very Rev.
+title: The Very Rev. Carey Brock
+dates: 1824-1892)
+---
+
+Dean of Guernsey, father of the Rev. [Henry Brock](/person/201), Vicar of Otterbourne

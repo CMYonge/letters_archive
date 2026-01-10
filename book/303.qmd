@@ -1,0 +1,11 @@
+---
+id: 303
+title: \'The American Sanitary Commission\'
+author: Charlotte Mary Yonge
+date: '1866'
+genre: Non-fiction
+publication-format: Article in Journal
+publisher: '<i>Christian Remembrancer</i> Vol 52 (Oct. 1866): 296-323'
+---
+
+Identified in a letter (20-03-1869) to Alexander Macmillan, MS British Library Add MSS 54920: 227-8

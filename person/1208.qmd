@@ -1,0 +1,13 @@
+---
+id: 1208
+full-name: The Rev. Bartholomew Price
+first-name: Bartholomew
+last-name: Price
+prefix: The Rev.
+title: The Rev. Bartholomew Price
+dates: (1818-1898)
+---
+
+mathematician
+
+Sedleian professor of natural philosophy at Oxford University and (from 1892) master of Pembroke College Oxford; he was married to Amy Eliza Cole.

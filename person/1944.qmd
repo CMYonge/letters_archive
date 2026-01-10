@@ -1,0 +1,11 @@
+---
+id: 1944
+full-name: Captain Thomas Mayne Reid
+first-name: Thomas Mayne
+last-name: Reid
+prefix: Captain
+title: Captain Thomas Mayne Reid
+dates: (1818-1883)
+---
+
+author of adventure stories for boys from 1850

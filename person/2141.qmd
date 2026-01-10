@@ -1,0 +1,11 @@
+---
+id: 2141
+full-name: The Rt. Rev. Charles John Ellicott
+first-name: Charles John
+last-name: Ellicott
+prefix: The Rt. Rev.
+title: The Rt. Rev. Charles John Ellicott
+dates: (1816-1905
+---
+
+Bishop of Gloucester

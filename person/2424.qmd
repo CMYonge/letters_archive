@@ -1,0 +1,10 @@
+---
+id: 2424
+full-name: James Wyatt
+first-name: James
+last-name: Wyatt
+title: James Wyatt
+dates: (1746-1813)
+---
+
+architect, restorer of Salisbury Cathedral 1789-92.

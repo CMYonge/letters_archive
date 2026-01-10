@@ -1,0 +1,12 @@
+---
+id: 82
+title: 'European History: Narrated in a series of Historical Selections from the Best
+  Authorities 2 vols. Selected and arranged by E.M. Sewell and C.M. Yonge'
+author: Charlotte Mary Yonge
+date: '1870'
+genre: 'Non-fiction: history (by others)'
+publication-format: Edited book
+publisher: 'London and New York: Macmillan and Co.'
+---
+
+The first volume of this title is a renamed version of Historical Selections: A Series of Readings from the Best Authorities in English and European History (1868).

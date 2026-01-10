@@ -1,0 +1,24 @@
+---
+id: 2666
+title: To Walter Besant
+date: '1879-03-18'
+display-date: March 18th 1879
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Walter Besant
+manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
+---
+
+Dear [Sir](/person/1652)
+I am obliged by your letter, but the terms are much below what I am generally in the habit of receiving e.g. I have two pence royalty on that little [Primer of French history](/book/353) which sells for a shilling
+Neither should I wish much to under take Sir Philip Sidney, feeling the subject rather hackneyed[^1]
+I remain
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: This letter probably relates to Besant\'s editorship (with W. J.
+
+Brodribb) of The New Plutarch Series, \'Lives of those who have made the history of the world\', published by Ward.

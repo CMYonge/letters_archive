@@ -1,0 +1,12 @@
+---
+id: 201
+title: Beechcroft at Rockstone. 2 vols.
+author: Charlotte Mary Yonge
+date: '1888'
+genre: Fiction (modern)
+publication-format: Book
+publisher: 'London and New York: Macmillan and Company.'
+serialization: Serialized in<i> MP</i> January 1887- Dec 1888
+---
+
+This is a sequel to Scenes and Characters and The Two Sides of the Shield.

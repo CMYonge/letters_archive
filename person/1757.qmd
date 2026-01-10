@@ -1,0 +1,13 @@
+---
+id: 1757
+full-name: Rear-Admiral Sir Edmund Lyons
+first-name: Edmund
+last-name: Lyons
+prefix: Rear-Admiral Sir
+title: Rear-Admiral Sir Edmund Lyons
+dates: (1790-1858)
+---
+
+naval officer
+
+Second-in-command of the British fleet during the Crimean War.

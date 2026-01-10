@@ -1,0 +1,21 @@
+---
+id: 2706
+title: To the Reverend John Frewen Moor
+date: '1880-04-05'
+display-date: April 5th 1880
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne,Winchester.
+to-name: To the Reverend John Frewen Moor
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e 86.'
+---
+
+My dear [Mr Moor](/person/1046)
+Thank you much. I send the papers. I have hopes for this time, if there is no fresh very sad case in the way. I cannot call this case like a very bad one of great poverty though I should be exceedingly glad if it succeeded[^1]
+I enclose my subscription
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: This letter seems to be concerned with voting for a candidate for charity.

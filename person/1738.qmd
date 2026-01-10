@@ -1,0 +1,9 @@
+---
+id: 1738
+full-name: Duc de Nemours Louis
+first-name: Louis
+title: Duc de Nemours Louis
+dates: (1814-1896)
+---
+
+son of Louis Philippe

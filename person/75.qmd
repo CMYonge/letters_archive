@@ -1,0 +1,10 @@
+---
+id: 75
+full-name: Mrs Attwood
+last-name: Attwood
+prefix: Mrs
+title: Mrs Attwood
+dates: (fl. 9 March 1859)
+---
+
+domestic servant

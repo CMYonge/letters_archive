@@ -1,0 +1,8 @@
+---
+id: 1988
+full-name: Alexandrine de La Ferronnays
+first-name: Alexandrine de
+last-name: La Ferronnays
+title: Alexandrine de La Ferronnays
+dates: (1808-1848)
+---

@@ -1,0 +1,11 @@
+---
+id: 307
+title: \'paper on boy literature\'
+author: Charlotte Mary Yonge
+date: '1865'
+genre: literary criticism
+publication-format: Article in Journal
+publisher: <i>Literary Churchman</i>
+---
+
+Mentioned to Alexander Macmillan and not yet identified.

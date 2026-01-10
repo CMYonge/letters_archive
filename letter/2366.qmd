@@ -1,0 +1,24 @@
+---
+id: 2366
+title: To Sarah Anne Mercier
+date: '1870-01-08'
+display-date: Jan 8th [1870]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Sarah Anne Mercier
+manuscript-location: 'MS Princeton University, Parrish Collection, C0171: Box 29'
+---
+
+Dear [Mrs Mercier](/person/990),
+I enclose a cheque for the remainder of Campanella and send at the same time a proof of Mr Peabody, hoping you will not sacrifice the modest request which seems to me too good to be lost.
+
+Thank you for [Miss Tucker’](/person/1424)s address I hope she has heard from [Mr Warne](/person/1433) by this time[^2]
+
+Yours sincerely
+
+C M Yonge
+Lady Betty is an admirable story
+
+
+[^1]: Black-edged paper.
+[^2]: Miss Tucker may perhaps have been author of one of the [Victoria Tales and Stories](/book/211) series edited by CMY and published by Warne.

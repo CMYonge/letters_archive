@@ -1,0 +1,11 @@
+---
+id: 1885
+full-name: Captain Charles Augustus Manning
+first-name: Charles Augustus
+last-name: Manning
+prefix: Captain
+title: Captain Charles Augustus Manning
+dates: (b.1800/1)
+---
+
+Lord Lieutenant of the Isle of Wight and Governor of Portland Castle

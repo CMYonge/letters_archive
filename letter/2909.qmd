@@ -1,0 +1,26 @@
+---
+id: 2909
+title: To Arthur Llewelyn Roberts
+date: '1889-06-19'
+display-date: June 19th 1889
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne Winchester
+to-name: To Arthur Llewelyn Roberts
+manuscript-location: MS RLF Archive, File 2311.  World Microfilms  Reel 93.
+---
+
+[Sir](/person/2384),
+I hope it will be possible for the Council of the [Royal Literary Fund ](/organisation/257)favorably to consider the application on behalf of Miss [Florence Wilford](/person/1520).[^2]
+I have known her for nearly thirty years as a person of great merit, personally, and considerable talent and industry as a writer of works of excellent tone.
+
+More than ordinary troubles in her family have left her very reduced means, and have tried her health and spirits most severely, through most blameless and unselfish conduct, and steady exertions on her part attacks of insanity have, during the last few years, rendered mental exertions more difficult, or rather, impossible and there can scarcely be a case more worthy of consideration
+I remain &c
+
+C M Yonge
+Author of [the Heir of Redclyffe](/book/15) &c
+
+
+[^1]: Arthur Llewelyn Roberts (1855-1919), Secretary of the Royal Literary Fund from 1884 to his death.
+[^2]: The other letters in the file tell the distressing story of Florence Wilford, who had suffered from mental illness intermittently since 1883 and was currently in a private asylum.
+
+Her application was refused on the grounds ‘authorship insufficient’, which seems rather harsh since she had published sixteen books since 1858.

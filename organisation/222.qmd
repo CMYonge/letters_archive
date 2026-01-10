@@ -1,0 +1,8 @@
+---
+id: 222
+reference-type: Organisation
+name: Church of England Women\'s Help Society, The
+title: Church of England Women\'s Help Society, The
+---
+
+Founded in 1879.

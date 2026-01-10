@@ -1,0 +1,10 @@
+---
+id: 1836
+full-name: Hannah More
+first-name: Hannah
+last-name: More
+title: Hannah More
+dates: (1745-1833)
+---
+
+writer

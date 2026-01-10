@@ -1,0 +1,11 @@
+---
+id: 1906
+full-name: The Rt. Rev. Frederic Barker
+first-name: Frederic
+last-name: Barker
+prefix: The Rt. Rev.
+title: The Rt. Rev. Frederic Barker
+dates: (1808-1882)
+---
+
+Anglican Bishop of Sydney, Australia (1854-1882)

@@ -1,0 +1,9 @@
+---
+id: 268
+title: \'John Keble\'
+author: Charlotte Mary Yonge
+date: '1888'
+genre: Non-fiction, biographical article
+publication-format: Article in Journal
+publisher: <i>Atalanta</i> (May 1888) 466-71
+---

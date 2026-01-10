@@ -1,0 +1,8 @@
+---
+id: 186
+reference-type: Organisation
+name: Winnington Hall School
+title: Winnington Hall School
+---
+
+This girls\' school was run by Margaret Alexis Bell, a friend of John Ruskin, who took a great interest in it.

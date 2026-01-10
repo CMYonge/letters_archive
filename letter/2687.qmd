@@ -1,0 +1,20 @@
+---
+id: 2687
+title: To an Unknown Man
+date: '1870-11-15'
+display-date: Novr 15th [1870s?]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To an Unknown Man
+manuscript-location: 'MS Bodleian Library, Oxford: Ms. Eng. lett. d.328 ff198-9'
+---
+
+Sir,
+I am obliged by your interesting paper on the Lambeth Chapel. I should like to insert it but, I cannot tell when I shall be able to do so, so if you are in haste for its appearance I had better not retain it[^1]
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: No paper in MP on this subject has been identified.

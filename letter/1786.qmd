@@ -1,0 +1,23 @@
+---
+id: 1786
+title: To John William Parker, Jr.
+date: '1860-03-16'
+display-date: March 16th 1860
+from-name: Charlotte Mary Yonge
+from-address: Otterbourne, Winchester.
+to-name: To John William Parker, Jr.
+manuscript-location: 'Princeton University, Parrish Collection, C0171: Box 29'
+---
+
+My dear [Sir](/person/1143)
+
+If you are writing to [Tauchnitz](/person/1396),[^1] I hope you will be kind enough to express my best thanks for the very curious and prettily got up book which I am much obliged to you for forwarding to me, the binding is beautiful, and there is much interest in the comparison of the contents. I thank you too for the enclosed review of [Miss Roberts](/person/1244)’ book. I have not heard from her for so long that I begin to think she must be on her way home, and so do not write to her
+
+Yours faithfully
+
+C.M.
+
+Yonge
+
+
+[^1]: A Leipzig publishing firm, headed by Bernhard, Baron von Tauchnitz (1816-1895), which circulated paperback reprints of many English novels on the continent.

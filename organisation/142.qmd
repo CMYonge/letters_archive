@@ -1,0 +1,8 @@
+---
+id: 142
+reference-type: Organisation
+name: Daniel Appleton and Co.
+title: Daniel Appleton and Co.
+---
+
+American publisher, based in New York

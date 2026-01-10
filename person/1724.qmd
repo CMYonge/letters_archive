@@ -1,0 +1,10 @@
+---
+id: 1724
+full-name: Harriet Martineau
+first-name: Harriet
+last-name: Martineau
+title: Harriet Martineau
+dates: (1802-1876)
+---
+
+writer and journalist

@@ -1,0 +1,8 @@
+---
+id: 77
+reference-type: Periodical
+name: <i>Little Folks</i>
+title: <i>Little Folks</i>
+---
+
+This was a children’s magazine (1871-1933).

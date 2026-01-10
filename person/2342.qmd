@@ -1,0 +1,11 @@
+---
+id: 2342
+full-name: The Ven. William Brise Ady
+first-name: William Brise
+last-name: Ady
+prefix: The Ven.
+title: The Ven. William Brise Ady
+dates: (d.1882)
+---
+
+Rector of Little Baddow and Archdeacon of Colchester

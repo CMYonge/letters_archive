@@ -1,0 +1,21 @@
+---
+id: 3524
+title: To an Unknown Woman
+date: '1868-02-17'
+display-date: Feb 17th [1868]
+from-name: Charlotte Mary Yonge
+to-name: To an Unknown Woman
+manuscript-location: MS Princeton University, Parrish Collection
+---
+
+Dear Madam,
+There is nothing more difficult than to get a translation especially a French translation taken. I know Madame Therèse and a very pretty book it is, but I should think most of the persons who could appreciate it could read it in French.
+
+The story now being translated in the [Monthly Packet](/periodical/52) has long been out of print and was little known in England. I do not I confess see much hope at present, but if [Mr Bell ](/person/1930)advises your sending it to [Mrs Gatty](/person/549), I should think you had better do so, as a publisher may exercise influence in its favour and certainly his advice is not to be neglected[^1]
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: Margaret Gatty was the editor of [Aunt Judy’s Magazine](/periodical/54), published by Bell.

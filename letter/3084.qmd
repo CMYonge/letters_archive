@@ -1,0 +1,37 @@
+---
+id: 3084
+title: To Anna Butler
+date: '1856-03-01'
+display-date: '[March-October 1856?[[footnote:1]]]'
+from-name: Charlotte Mary Yonge
+to-name: To Anna Butler
+manuscript-location: MS Mrs Caroline Fairclough/9
+---
+
+My dear [Miss Butler](/person/237)
+I must thank you for the motto, I have a certain liking for Götz partly for [Sir W Scott](/person/1672)’s sake[^2] I believe omission /or rather deferring is better than mincing after all, but it is hard to manage to fit all into 80 pages, where the grave, the useful and the gay must each have a fair share, and the dull gets put off & put off till our deferred correspondent sends a piteous entreaty being rabid beneath and MS swells up in print beyond reckoning. I must ask [Mr Mozley](/person/1065) if he can set up the rest of [Likes & Dislikes](/organisation/248) without too much havoc in his types, for it inconveniences him to have too many absorbed.
+
+Did you ever pronounce the cz sounds in Polish and are they as bad to speak as to spell.
+
+When you have no other motto you might take [Southey](/person/1722) about
+A terrible man with a terrible name
+A name that by sight you know very well
+But no one can speak
+& no one can spell.[^3]
+I congratulate you on your Scandinavian book.[^4]
+
+yours sincerely
+
+C M Yonge
+
+
+[^1]: It is not entirely clear where this letter belongs in the sequence.
+
+Evidently Likes and Dislikes was still coming out, and its last episode was published in the issue of November 1856.
+
+But there was also a discussion in the following year about the second part of the book, which CMY decided not to publish in MP.
+[^2]: Goethe’s play [Götz von Berlichingen](/periodical/71) (1773) was an influence on Scott, who translated it.
+[^3]: Robert Southey, ‘The March to Moscow’.
+[^4]: This has proved hard to identify, but one possibility is [Old Danish Ballads, Translated from Grimm’s collection by an Amateur](/organisation/6) (London: Hope 1856), a theory which receives some slight support from the reference to [N.F.S.
+
+Grundtvig](/person/1770) (who was also interested in ballads) in an earlier letter.

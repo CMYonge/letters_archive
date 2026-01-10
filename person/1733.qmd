@@ -1,0 +1,9 @@
+---
+id: 1733
+full-name: Prince Lucien Bonaparte
+first-name: Lucien
+last-name: Bonaparte
+prefix: Prince
+title: Prince Lucien Bonaparte
+dates: (1813-1891)
+---

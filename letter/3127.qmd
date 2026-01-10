@@ -1,0 +1,39 @@
+---
+id: 3127
+title: To Ann Maria Carter Smith
+date: '1859-04-01'
+display-date: April 2d 1859
+from-name: Charlotte Mary Yonge
+from-address: Otterbourne, Winchester.
+to-name: To Ann Maria Carter Smith
+manuscript-location: MS Westcountry Studies Library, Exeter/ Yonge 1859/1
+---
+
+My dear [Miss Smith](/person/263),
+I like it very much, and am exceedingly ready for some more, much wishing to know Johnny’s fate.
+
+Mr and Mrs Arnold are both admirable of their kind, and so is Mary. I am sure her like is often found, as I am afraid Frank’s is too - everybody can remember some dreadful boy before the age of chivalry.
+
+We delight too in Sir Hector and his daughter. I like large families in stories myself, but I don’t know what those who cry out at mine will say to your two sets.
+
+Never mind that though, except that I am not clear whether there were both a Mary and an Agnes Merivale, or whether she is sometimes the one, sometimes the other.
+
+One bit I think you might mend, namely the Vicar’s exhortation to Robert - it may be my bad reading, but it seemed to me rather involved, and not quite proportional to the effect it produced.
+
+Then - I am almost ashamed to be so minute but such things are taken hold of if not corrected - your verbs to lie and to lay are sometimes in confusion, especially where Robert is concerned, and in your writing you are very apt to leave out the conjunction that in connecting your sentences. I have often had to add it in the proofs in the [Monthly Packet.](/periodical/52) I mention all this, because if you let [Parker](/person/1143) bring out so good a story as this you put yourself much more in the way of critics, and good English is a thing by which men judge so much.
+
+This I think is all I have to observe just now. I will only thank you for the pleasure we have had in the reading so far. I am inclined to pity Robert the most at present.
+
+Johnnie’s illness must have been such a disappointment to him.
+
+Medically, did you ever know such a family of spines? I am visiting on you the scolding I got for my treatment of [Sophy Kendal’s](/book/38).[^2] I think too that your dates require revision, for little Amabel could not have been 4 in 1854- as I won’t pretend not to have seen through your scratch. I never knew of her having a namesake, but Verena had several, a much less convenient name.[^3] My only doubt in going to Parker would be whether the story would not seem too much for the young to class with the [Dorothy](/organisation/43) set of novelettes.[^4] If you could have it done up like the [Daisy Chain](/book/24) which it much more resembles it might indicate its character
+
+yours sincerely
+
+C M Yonge
+
+
+[^1]: Envelope addressed to Miss Ann Smith / Charlton Rectory/ London/ SE and postmarked Winchester 2 April 1859 and London SE 4 April 1859.
+[^2]: Sophy Kendal is a character in CMY’s novel The Young Step-Mother, or, A Chronicle of Mistakes (serialized in MP 1856-60 and published 1861).
+[^3]: Smith has evidently named a character after Amabel Edmondstone, the heroine of [The Heir of Redclyffe](/book/15) (1853), who names her own daughter Mary Verena, in allusion to La Motte Fouqué’s [Sintram](/topic/102).
+[^4]: Parker had published Dorothy: A Tale (1856), an anonymous work by Margaret Agnes Colvile (later Paul), and, this letter implies, a series of similar works in the same format.

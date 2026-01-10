@@ -1,0 +1,26 @@
+---
+id: 2396
+title: To Alexander Macmillan
+date: '1870-12-31'
+display-date: Decr 31st [1870]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library. Add MSS 54920: 244-5'
+---
+
+Dear [Mr Macmillan](/person/939)
+Do you not think that the [parallel history](/book/89)[^1] should come out in time for Schools to set themselves up with this winter.
+
+The one I wrote it for is crying out for it, and it seems in vain to wait for a neater finish to France than the fall of the Empire.
+I am glad you give hopes of clearing off the old [History of Christian Names](/book/48) I have them bristling with corrections, and I should begin by cutting out large pieces of the book - but alas, I have acquired no further knowledge of the Keltic names - always the weakest point in the book.
+
+Only I do know that some part is more desperately wrong than the rest.
+I have been writing to [Miss Martin](/person/971) about the [Founders and Pioneers](/book/90). I believe they are ready now.
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Her A Parallel History of France and England, consisting of Outlines and Dates (London: Macmillan 1871) was on the verge of publication.

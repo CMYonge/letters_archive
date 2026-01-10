@@ -1,0 +1,11 @@
+---
+id: 1950
+full-name: Sir John Richardson
+first-name: John
+last-name: Richardson
+prefix: Sir
+title: Sir John Richardson
+dates: (1787–1865)
+---
+
+physician and Arctic explorer, father of Sarah Harriet Selwyn

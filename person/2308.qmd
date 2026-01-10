@@ -1,0 +1,11 @@
+---
+id: 2308
+full-name: Sir Allen Young
+first-name: Allen
+last-name: Young
+prefix: Sir
+title: Sir Allen Young
+dates: (1827-1915)
+---
+
+sailor and Arctic explorer

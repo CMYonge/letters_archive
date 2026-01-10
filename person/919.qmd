@@ -1,0 +1,10 @@
+---
+id: 919
+full-name: John MacCulloch
+first-name: John
+last-name: MacCulloch
+title: John MacCulloch
+dates: (1773-1835)
+---
+
+physician and geologist, contributor to MP (1853)

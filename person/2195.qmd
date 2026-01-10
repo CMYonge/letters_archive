@@ -1,0 +1,10 @@
+---
+id: 2195
+full-name: Francis Frith
+first-name: Francis
+last-name: Frith
+title: Francis Frith
+dates: (1822-1898)
+---
+
+photographer

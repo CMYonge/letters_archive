@@ -1,0 +1,11 @@
+---
+id: 1074
+full-name: Sir James Augustus Henry Murray
+first-name: James Augustus Henry
+last-name: Murray
+prefix: Sir
+title: Sir James Augustus Henry Murray
+dates: (1837–1915)
+---
+
+editor of the Oxford English Dictionary

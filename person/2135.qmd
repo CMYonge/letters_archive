@@ -1,0 +1,10 @@
+---
+id: 2135
+full-name: Marie Corelli
+first-name: Marie
+last-name: Corelli
+title: Marie Corelli
+dates: (1855-1924)
+---
+
+novelist

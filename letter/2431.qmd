@@ -1,0 +1,22 @@
+---
+id: 2431
+title: To Elizabeth Missing Sewell
+date: '1870-01-01'
+display-date: '[1870]'
+from-name: Charlotte Mary Yonge
+to-name: To Elizabeth Missing Sewell
+manuscript-location: 'MS UCLA: collection 100: box 95'
+---
+
+My dear [Miss Sewell](/person/1301)
+What do you say to the name, and the page—as we have in the 1st Crusade, shall you have Gibbon’s first Crusaders at Constantinople.[^1]
+(N.B.—Gibbon did not blunder about the Athanasian Creed, but the American Church was not in his time.)
+And is Anselm to come in.
+I have sent for the introduction to re write [sic] it.
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: This letter evidently refers to the joint editorial work on [European History](/book/82) (1870), the second of two anthologies of excerpts from historical writings which CMY and Sewell had published.

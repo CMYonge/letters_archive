@@ -1,0 +1,10 @@
+---
+id: 2271
+full-name: Marianne Jacob
+first-name: Marianne
+last-name: Jacob
+title: Marianne Jacob
+dates: (b.1824/5)
+---
+
+sister-in-law of [Edith Jacob](/person/749)

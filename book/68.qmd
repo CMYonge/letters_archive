@@ -1,0 +1,12 @@
+---
+id: 68
+title: New Ground (Kaffirland). “By the author of “The Heir of Redclyffe.”
+author: Charlotte Mary Yonge
+date: '1868'
+genre: Fiction (modern)
+publication-format: Book
+publisher: John and Charles Mozley, 6, Paternoster Row, Masters and Co., 78, New Bond
+  Street
+serialization: Serialized in the <i>Magazine for the Young</i>, January 1863 to November
+  1866.
+---

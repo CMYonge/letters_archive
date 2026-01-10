@@ -1,0 +1,20 @@
+---
+id: 2321
+title: To Jean Ingelow
+date: '1869-06-17'
+display-date: June 17th [1869?]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Jean Ingelow
+manuscript-location: 'MS New York Public Library: Berg Collection'
+---
+
+Dear [Miss Ingelow](/person/741)
+I enclose a note from a friend of mine, a young clergyman’s wife, who is as you see trying to raise the money for an Organ for her husband’s Church in the close neighbourhood of the White Horse of Berkshire
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Black-edged paper.

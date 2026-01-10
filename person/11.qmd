@@ -1,0 +1,12 @@
+---
+id: 11
+full-name: Mrs Adams
+last-name: Adams
+prefix: Mrs
+title: Mrs Adams
+dates: (fl. 7 December 1857)
+---
+
+probably a parishioner of the Rev.
+
+Richard Carter Smith in Woolwich

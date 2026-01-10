@@ -1,0 +1,26 @@
+---
+id: 18100
+title: To George Lillie Craik
+date: '1886-12-11'
+display-date: Decr 11th [1886]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield
+to-name: To George Lillie Craik
+manuscript-location: 'MS British Library Add MSS 54921: 159-160'
+---
+
+Dear Mr Craik
+I do not think I ever got the Dedication back from Balmoral I know I have seen it in type, and that it needed no correction and so - on receiving your telegram, I wrote to [Clarke](/organisation/251).[^1]
+I did not think there was any occasion for a preface and I do not think the Queen’s name should be introduced without special permission which it would take long to get, and most likely might not be granted.
+I will however send a few words to Clarke saying that I can claim accuracy for the Outline as it has been carefully revised by the best authority.
+
+As tomorrow does not affect Edinburgh post, he will get [it] in time, and I will write it so clearly that he need not send a proof. I will tell him so.
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: This relates to the publication of CMY\'s [Victorian Half-Century](/book/189), published to celebrate Queen Victoria\'s Golden Jubilee and dedicated to her daughters.
+
+Clark was the printer.

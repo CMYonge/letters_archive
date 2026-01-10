@@ -1,0 +1,8 @@
+---
+id: 201
+reference-type: Organisation
+name: Girton College
+title: Girton College
+---
+
+Founded in Hitchin in 1869 and moved to Cambridge in 1873.

@@ -1,0 +1,6 @@
+---
+id: 170
+reference-type: Periodical
+name: <i>Athenaeum, The</i>
+title: <i>Athenaeum, The</i>
+---

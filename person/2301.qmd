@@ -1,0 +1,13 @@
+---
+id: 2301
+full-name: The Rev. Canon Frederick Beadon
+first-name: Frederick
+last-name: Beadon
+prefix: The Rev. Canon
+title: The Rev. Canon Frederick Beadon
+dates: (1777-1879)
+---
+
+Rector of North Stoneham and Canon of Wells Cathedral, centenarian
+
+ODNB

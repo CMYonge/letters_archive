@@ -1,0 +1,22 @@
+---
+id: 3611
+title: To an Unknown Woman
+date: '1892-03-11'
+display-date: March 11th [1892-1893?][[footnote:1]]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne
+to-name: To an Unknown Woman
+manuscript-location: MS Charlotte Mitchell/25
+---
+
+Dear Madam
+If my [coadjutors](/person/229) can make room your paper shall go [in](/periodical/52) but there is a sad crowd of appeals
+
+yours truly
+
+C M Yonge
+
+
+[^1]: ‘Coadjutors’ presumably means [A.D.
+
+Innes](/person/744) and [Christabel Coleridge](/person/329), and suggests the letter dates from about 1893.

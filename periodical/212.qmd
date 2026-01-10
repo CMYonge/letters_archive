@@ -1,0 +1,6 @@
+---
+id: 212
+reference-type: Periodical
+name: <i>Schoolmistress, The</i>
+title: <i>Schoolmistress, The</i>
+---

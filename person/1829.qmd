@@ -1,0 +1,11 @@
+---
+id: 1829
+full-name: Lady Christian Henrietta Caroline Acland
+first-name: Christian Henrietta Caroline
+last-name: Acland
+prefix: Lady
+title: Lady Christian Henrietta Caroline Acland
+dates: (1750-1815)
+---
+
+diarist

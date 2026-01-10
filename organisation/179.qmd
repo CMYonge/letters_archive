@@ -1,0 +1,10 @@
+---
+id: 179
+reference-type: Organisation
+name: Ticknor and Fields
+title: Ticknor and Fields
+---
+
+American publisher.
+
+They published the work of Henry Kingsley.

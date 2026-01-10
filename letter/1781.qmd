@@ -1,0 +1,35 @@
+---
+id: 1781
+title: To John William Parker, Jr.
+date: '1860-01-13'
+display-date: Jany 13th 1860
+from-name: Charlotte Mary Yonge
+from-address: Otterbourne, Winchester.
+to-name: To John William Parker, Jr.
+manuscript-location: 'Princeton Univeristy, Parrish Collection, C0171: Box 29'
+---
+
+My dear [Sir](/person/1143),
+
+Some time ago you told me you could make arrangement for the publication of my books in America more satisfactory than the present with [Messrs Appleton](/organisation/142).
+
+I could not, neither can I now, avail myself of your kindness for myself, but I think it would be worth while to make arrangement for [Miss Roberts](/person/1244)’ book, Mlle Mori[^1]; I suppose there would still be time to send sheets to thei agent [sic] of an American house, and I believe that Italian liberty is sufficiently interesting in the States to make the tale likely to be popular there.
+
+The more I see of it in the course of correcting the press,[^2] the more I think it likely to be successful, the latter part is full of interest, and all to whom I have shown any portion think well of it.
+
+I hope the review of Aggesden Vicarage in the [Saturday](/periodical/99) was not damaging - It has considerable irony but not ill natured[^3]
+
+Yours faithfully
+
+C.M.
+
+Yonge
+
+
+[^1]: Mademoiselle Mori : A Tale of Modern Rome. 2 vols (London: John W.
+
+Parker and Son 1860).
+[^2]: In CMY’s letter to Parker in October 1859 she asked him to reconsider publishing Mademoiselle Mori, Roberts having “left it in my hands, to endeavour to procure its publication” while she was abroad.
+
+It seems that Parker had accepted the book and Yonge was now correcting the proofs.
+[^3]: See letters to Ann Carter Smith of 6 and 10 January 1860.

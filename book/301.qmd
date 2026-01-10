@@ -1,0 +1,11 @@
+---
+id: 301
+title: \'Thoughts on Pictures\'
+author: Charlotte Mary Yonge
+date: '1853'
+genre: Non-fiction, art criticism
+publication-format: Article in Journal
+publisher: <i>Magazine for the Young</i> (March 1853-October 1856)
+---
+
+There is a fictional frame story into which the descriptions of pictures are fitted.

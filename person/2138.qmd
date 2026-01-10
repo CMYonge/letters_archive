@@ -1,0 +1,11 @@
+---
+id: 2138
+full-name: The Rt. Rev. Walter Kerr Hamilton
+first-name: Walter Kerr
+last-name: Hamilton
+prefix: The Rt. Rev.
+title: The Rt. Rev. Walter Kerr Hamilton
+dates: (1808-1869)
+---
+
+Bishop of Salisbury

@@ -1,0 +1,8 @@
+---
+id: 191
+reference-type: Organisation
+name: Ladies\' Home, 21 Abbey Road, St. John\'s Wood, The
+title: Ladies\' Home, 21 Abbey Road, St. John\'s Wood, The
+---
+
+This charitable institution was described by [Caroline Alcock](/person/19) in \'The Ladies\' Home\' MP (August 1867) 179-80.

@@ -1,0 +1,10 @@
+---
+id: 7
+reference-type: Organisation
+name: Newnham College
+title: Newnham College
+---
+
+Founded as a hall for women students in 1871, and now a college of Cambridge University.
+
+There is a history by Gillian Sutherland on its website at http://www.newn.cam.ac.uk/about-newnham/College-History/History/content/History-of-the-college

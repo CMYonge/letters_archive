@@ -1,0 +1,11 @@
+---
+id: 2104
+full-name: The Hon. Alice Constantia Maria Colborne
+first-name: Alice Constantia Maria
+last-name: Colborne
+prefix: The Hon.
+title: The Hon. Alice Constantia Maria Colborne
+dates: (1861/2-1943)
+---
+
+cousin of CMY, niece of [Jane Montgomery Moore](/person/1042)

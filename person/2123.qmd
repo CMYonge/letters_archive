@@ -1,0 +1,10 @@
+---
+id: 2123
+full-name: William Norgate
+first-name: William
+last-name: Norgate
+title: William Norgate
+dates: (b. Tichborne 1832/3)
+---
+
+father of [Anne Norgate](/person/917)

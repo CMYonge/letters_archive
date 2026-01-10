@@ -1,0 +1,27 @@
+---
+id: 3254
+title: To the Reverend John Frederick Watkinson Bullock
+date: '1894-03-07'
+display-date: March 7th 1894
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne
+to-name: To the Reverend John Frederick Watkinson Bullock
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e.174 ff 141-2'
+---
+
+Dear [Mr Bullock](/person/221),
+I send [Fletcher](/person/1677) and [Lady Falkland](/person/2408) with your copy of [Fletcher](/topic/213) for which I am much obliged.[^1] I am afraid his life has turned out much too long as hers is too short.
+
+If it has to be cut down the bit about his noble birth could best be spared.
+
+His last Communion is wonderfully beautiful	
+
+Yours truly
+
+C M Yonge
+I am returning the copy to [Mr Churton](/person/303)
+
+
+[^1]: CMY was writing lives of the Rev.
+
+John William Fletcher and of Lettice, Viscountess Falkland, as part of the [\'Biographies of Eminent Anglicans\'](/book/358) which were to form part of Bullock\'s unfinished Daily Lections project.

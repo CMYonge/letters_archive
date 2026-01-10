@@ -1,0 +1,22 @@
+---
+id: 2919
+title: To James Augustus Henry Murray
+date: '1889-09-21'
+display-date: Sept 21st 1889
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne Winchester
+to-name: To James Augustus Henry Murray
+manuscript-location: 'MS Historical Society of Pennsylvania: Gratz Collection: Case
+  12, Box 4: Foreign Hymn Writers'
+---
+
+Dear [Sir](/person/1074)
+I send the quotation with another still more to the purpose- but I should not put in two ds- as certainly Hampshire always calls the plant cli-ders.[^1] However no doubt there is authority.
+I was sorry to drop the[ dictionary work](/topic/151) but occupations thickened on me so that I could not keep it up
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: The OED entry for \'clithers\' defined as \'Another name of the plant clivers or cleavers\' includes illustrative quotations from both [The Heir of Redclyffe](/book/15) and [The Herb of the Field](/book/17), both referring to the plant as ‘cliders’.

@@ -1,0 +1,11 @@
+---
+id: 2412
+full-name: The Rt. Rev. Edward Ralph Johnson
+first-name: Edward Ralph
+last-name: Johnson
+prefix: The Rt. Rev.
+title: The Rt. Rev. Edward Ralph Johnson
+dates: (1828-1912)
+---
+
+Bishop of Calcutta, 1876-1898

@@ -1,0 +1,13 @@
+---
+id: 620
+full-name: The Rt. Hon Viscount Cranbrook, Gathorne Hardy
+first-name: Gathorne
+last-name: Hardy
+prefix: The Rt. Hon
+title: The Rt. Hon Viscount Cranbrook, Gathorne Hardy
+dates: (1814-1906)
+---
+
+conservative politician
+
+He was created (1878) Viscount Cranbrook and (1892) 1st Earl of Cranbrook. [ODNB]

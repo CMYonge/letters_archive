@@ -1,0 +1,8 @@
+---
+id: 136
+reference-type: Organisation
+name: Thomas Constable & Co.
+title: Thomas Constable & Co.
+---
+
+publishers

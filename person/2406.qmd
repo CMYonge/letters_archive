@@ -1,0 +1,10 @@
+---
+id: 2406
+full-name: John St. Loe Strachey
+first-name: John St. Loe
+last-name: Strachey
+title: John St. Loe Strachey
+dates: (1860-1927)
+---
+
+editor of the Spectator (1898-1925)

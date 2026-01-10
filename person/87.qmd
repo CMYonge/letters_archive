@@ -1,0 +1,10 @@
+---
+id: 87
+full-name: Mrs Backhurst
+last-name: Backhurst
+prefix: Mrs
+title: Mrs Backhurst
+dates: (fl.15 March 1852)
+---
+
+mother of Fanny Backhurst

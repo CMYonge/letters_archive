@@ -1,0 +1,10 @@
+---
+id: 2211
+full-name: Edward Augustus Arnold
+first-name: Edward Augustus
+last-name: Arnold
+title: Edward Augustus Arnold
+dates: (1857-1942)
+---
+
+publisher

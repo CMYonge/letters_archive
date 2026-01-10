@@ -1,0 +1,11 @@
+---
+id: 1969
+full-name: The Rev. Henry William Burrows
+first-name: Henry William
+last-name: Burrows
+prefix: The Rev.
+title: The Rev. Henry William Burrows
+dates: (1815/6-1892)
+---
+
+Vicar of Christ Church, Albany Street, later Canon of Rochester

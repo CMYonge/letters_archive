@@ -1,0 +1,11 @@
+---
+id: 282
+title: \'Conversation on Pictures, A\' by C. M. Yonge
+author: Charlotte Mary Yonge
+date: '1882'
+genre: Non-fiction, art criticism
+publication-format: Article in Journal
+publisher: MP (June 1882) 586-90
+---
+
+It describes her impressions of the Royal Academy Summer Exhibition of 1882.

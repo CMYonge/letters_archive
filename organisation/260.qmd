@@ -1,0 +1,8 @@
+---
+id: 260
+reference-type: Organisation
+name: W. F. Tillotson & Son
+title: W. F. Tillotson & Son
+---
+
+Publishers of syndicated fiction and newspapers.

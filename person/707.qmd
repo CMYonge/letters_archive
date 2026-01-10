@@ -1,0 +1,11 @@
+---
+id: 707
+full-name: The Rev. Francis James Holland
+first-name: Francis James
+last-name: Holland
+prefix: The Rev.
+title: The Rev. Francis James Holland
+dates: (1828–1907)
+---
+
+educationist

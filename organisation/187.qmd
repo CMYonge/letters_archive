@@ -1,0 +1,8 @@
+---
+id: 187
+reference-type: Organisation
+name: Jacob and Johnson
+title: Jacob and Johnson
+---
+
+A Winchester bookseller, still (2010) in business as a stationer in the High Street, Winchester.

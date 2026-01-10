@@ -1,0 +1,11 @@
+---
+id: 1758
+full-name: The Rev. Francis Edward Paget
+first-name: Francis Edward
+last-name: Paget
+prefix: The Rev.
+title: The Rev. Francis Edward Paget
+dates: (1806-1882)
+---
+
+Rector of Elford, Staffs. 1835-1882, Tractarian novelist,

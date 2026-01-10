@@ -1,0 +1,11 @@
+---
+id: 140
+full-name: The Rt. Rev. Edward White Benson
+first-name: Edward White
+last-name: Benson
+prefix: The Rt. Rev.
+title: The Rt. Rev. Edward White Benson
+dates: (14 July 1829-11 Oct 1896)
+---
+
+Bishop of Truro and later Archbishop of Canterbury

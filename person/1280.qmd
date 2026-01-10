@@ -1,0 +1,11 @@
+---
+id: 1280
+full-name: The Rt. Rev. Anthony Wilson Thorold
+first-name: Anthony Wilson
+last-name: Thorold
+prefix: The Rt. Rev.
+title: The Rt. Rev. Anthony Wilson Thorold
+dates: (1825–1895)
+---
+
+Bishop of Winchester 1890-1895

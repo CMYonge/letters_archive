@@ -1,0 +1,11 @@
+---
+id: 815
+full-name: The Very Rev. George William Kitchin
+first-name: George William
+last-name: Kitchin
+prefix: The Very Rev.
+title: The Very Rev. George William Kitchin
+dates: —
+---
+
+Dean of Winchester from 1883

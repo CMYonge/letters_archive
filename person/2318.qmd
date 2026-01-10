@@ -1,0 +1,13 @@
+---
+id: 2318
+full-name: The Rev. Reginald Fitzhugh Bigg Wither
+first-name: Reginald Fitzhugh
+last-name: Bigg Wither
+prefix: The Rev.
+title: The Rev. Reginald Fitzhugh Bigg Wither
+dates: (1842-1929)
+---
+
+Rector of Worting, nephew of the Rev.
+
+William Bigg Wither

@@ -1,0 +1,9 @@
+---
+id: 137
+title: 'Love and Life: An Old Story in Eighteenth Century Costume. 2 vols.'
+author: Charlotte Mary Yonge
+date: '1880'
+genre: Fiction (historical)
+publication-format: Book
+publisher: 'London and New York: Macmillan and Company.'
+---

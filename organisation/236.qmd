@@ -1,0 +1,8 @@
+---
+id: 236
+reference-type: Organisation
+name: Marcus Ward and Co.
+title: Marcus Ward and Co.
+---
+
+publisher of books and greetings cards 1802-1899.

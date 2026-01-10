@@ -1,0 +1,26 @@
+---
+id: 2407
+title: To Elizabeth Missing Sewell
+date: '1869-05-14'
+display-date: May 14th [1869]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Elizabeth Missing Sewell
+manuscript-location: 'MS UCLA: collection 100: box 95'
+---
+
+My dear [Miss Sewell](/person/1301),
+Will Friday the 21st suit you for my coming for a conference?
+
+If you think there is any thing for me to bring let me know before Wednesday. I am going, I believe, to New College on the 31st, so that I can take anything for you.[^2]
+I don’t like to give up the French spelling of the names, I don’t think Count of is a parallel, since that is translated, but I like calling people as they were christened, and it is convenient as a rule in shewing each man’s nationality without specifying it.
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Black-edged paper.
+[^2]: This letter is dated on the assumption that the conference referred to was over the [second series](/book/82) of their Historical Selections, and that it took place during CMY\'s May 1869 visit to the Moberlys at Brighstone.
+
+It appears that CMY intending subsequently to stay at New College with Sewell\'s brother [Edwards](/person/1304) and sister [Janetta Sewell](/person/1305).

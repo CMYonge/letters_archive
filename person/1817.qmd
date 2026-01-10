@@ -1,0 +1,10 @@
+---
+id: 1817
+full-name: Isabella Lucy Bishop
+first-name: Isabella Lucy
+last-name: Bishop
+title: Isabella Lucy Bishop
+dates: (1831-1904)
+---
+
+travel-writer

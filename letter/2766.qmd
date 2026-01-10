@@ -1,0 +1,44 @@
+---
+id: 2766
+title: To John Duke Pode
+date: '1882-12-21'
+display-date: Decr 21st 1882
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To John Duke Pode
+manuscript-location: MS Stanford University Library, British Authors  M121
+---
+
+My dear [John](/person/1184)
+Thank you for your curious extract about names. I have one this morning from an Italian newspaper sent by [Mrs Church](/person/296), which beats everything. I translate it for your behalf- ‘The celebrated English Authoress of the [Era di Ratcliffe](/book/15) is dead.
+
+Her name was Jong but in recognition of her talents, the Queen Victoria made her a Viscountess.
+
+She married the English ambassador at Constantinople but has continued until lately to write most beautiful romances’[^1] I hope it will make [Augusta laugh](/person/1180), I am so sorry she is so entirely laid up.[^2] I think we may be well satisfied with our new [Archbishop](/person/140) who is a real man of power and goodness - but Cornwall will be left lamenting.[^3] I shall send [Beatrice](/person/1181)’s big card by the same post as this according to the [Guardian](/periodical/75)’s piteous appeal to spare the poor postmen on Christmas day.
+
+There is a smaller one inside with moss, which seems to me a wonderful specimen.
+
+Two or three packets of those mossy ones were sent me for notice in the [Monthly Packet](/periodical/52)
+[Julian](/person/1624) is pretty well and as usual painting china
+your affectionate cousin
+
+C M Yonge
+
+
+[^1]: The newspaper was no doubt responding in its garbled way to the death of Eliza, Viscountess Stratford de Redcliffe (1807-25 Nov 1882), the widow of Sir [Stratford Canning](/person/1373), Viscount Stratford de Redcliffe (1786-1880) British ambassador in Constantinople 1842-52.
+
+The Italian text is printed by Coleridge, [Life](/organisation/40), 380: ‘E morta la celebre scrittice Inglese, Era di Ratcliffe.
+
+Suo nome era Jong, ma in recognizione di suvi talente, la Regina Vittoria l\'ha fatto Viscontessa.
+
+Sposo [sic] l\'ambasuatore Inglese a Costantinopole ma nin lascio [sic] di scrivere bellissimi Romanzi fui a poco tempo fa.’
+[^2]: Among the Yonge MSS in Plymouth are some sad apologetic letters from Augusta Pode to her husband promising to be more cheerful in future.
+
+She seems to have suffered from depression.
+
+Both Podes were first cousin to CMY.
+[^3]: The Rt.
+
+Rev.
+
+Edward White Benson, Bishop of Truro, Cornwall, was appointed to succeed Archibald Tait (who had died on 3 December 1882) as Archbishop of Canterbury.

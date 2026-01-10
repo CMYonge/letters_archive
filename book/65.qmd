@@ -1,0 +1,10 @@
+---
+id: 65
+title: Folk Lore and Old Stories (Author not named)
+author: Charlotte Mary Yonge
+date: '1867'
+genre: 'Non-fiction: history'
+publication-format: Article in Journal
+publisher: Not reprinted in volume form
+serialization: <i>Christian Remembrancer</i>, Vol. 54, pp.33-83.
+---

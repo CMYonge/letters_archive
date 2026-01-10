@@ -1,0 +1,10 @@
+---
+id: 2110
+full-name: Miss Knapp
+first-name: Miss
+last-name: Knapp
+title: Miss Knapp
+dates: —
+---
+
+would-be author

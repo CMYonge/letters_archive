@@ -1,0 +1,12 @@
+---
+id: 67
+title: Six Cushions, The By the author of “The Heir of Redclyffe.”
+author: Charlotte Mary Yonge
+date: '1867'
+genre: Fiction (modern)
+publication-format: Book
+publisher: John and Charles Mozley, 6, Paternoster Row, London. Masters and Co., 78,
+  New Bond Street, London.
+serialization: Serialized in<i> MP</i> Jan-December 1866
+illustrator: The single frontispiece seems to be signed G Peen.
+---

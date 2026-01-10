@@ -1,0 +1,8 @@
+---
+id: 65
+reference-type: Periodical
+name: <i>Constitutional Press</i>
+title: <i>Constitutional Press</i>
+---
+
+This magazine, which ran 1859-60, was published by Saunders & Otley; they serialized Hopes and Fears.

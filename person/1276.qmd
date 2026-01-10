@@ -1,0 +1,13 @@
+---
+id: 1276
+full-name: Lord 1st Lord Raglan Fitzroy Somerset
+first-name: Fitzroy
+last-name: Somerset
+prefix: Lord
+title: Lord 1st Lord Raglan Fitzroy Somerset
+dates: (1788-1855)
+---
+
+army officer
+
+He commanded the British troops in the Crimea.

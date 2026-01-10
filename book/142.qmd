@@ -1,0 +1,9 @@
+---
+id: 142
+title: Questions on the Prayer Book.
+author: Charlotte Mary Yonge
+date: '1881'
+genre: 'Non-Fiction: theology'
+publication-format: Book
+publisher: Walter Smith (late Mozley), 34 King Street, Covent Garden, London.
+---

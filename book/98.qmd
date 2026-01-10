@@ -1,0 +1,11 @@
+---
+id: 98
+title: 'In Memoriam Bishop Patteson: Being with Additions the Substance of a Memoir
+  Published in the ‘Literary Churchman’.'
+author: Charlotte Mary Yonge
+date: '1872'
+genre: Non-fiction; biography
+publication-format: Booklet
+publisher: 'London: William Skeffington, 163 Piccadilly.'
+serialization: Based on the memoir CMY had published in the <i>Literary Churchman</i>
+---

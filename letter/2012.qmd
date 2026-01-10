@@ -1,0 +1,28 @@
+---
+id: 2012
+title: To Alexander Macmillan
+date: '1865-03-01'
+display-date: March 23d 1865
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54920: 69-70'
+---
+
+My dear [Mr Macmillan](/person/939),
+I think I ought to refer to you a request I have had from Dr and Mrs Vaughan[^1] for leave to put two of the stories in [Golden Deeds](/book/51) i.e. 'The last fight in the Colyseum', and the faithful slaves of Haïti into a [Unknown Reference 392]book of readings] for National Schools acknowledging where they come from, but I conclude that you have no objection.
+
+When there is a reprint, I have another faithful slave to put in who maintained his mistress by hair dressing in New York.
+
+Thank you for the [Clever Woman](/book/58)’s arrival.
+
+She looks very well and attractive, but I am prepared for all the critics doubting her reformation
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Probably the Rev. [Charles John Vaughan](/person/1439) (1816-1897), vicar of Doncaster and former headmaster of Harrow School, and his wife Catherine Maria (Stanley) Vaughan (1821-1899).
+
+Mrs Vaughan edited An Advanced Reading Book for Girls (1866).

@@ -1,0 +1,10 @@
+---
+id: 1928
+full-name: William Boxall
+first-name: William
+last-name: Boxall
+title: William Boxall
+dates: (1800-1879)
+---
+
+Director of the National Gallery

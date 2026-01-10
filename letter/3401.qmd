@@ -1,0 +1,24 @@
+---
+id: 3401
+title: To the Reverend John Frewen Moor
+date: '1899-05-05'
+display-date: May 5 [1899]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne
+to-name: To the Reverend John Frewen Moor
+manuscript-location: 'MS Bodleian Library, Oxford: MS English Letters: e 86.'
+---
+
+My dear [Mr Moor](/person/1046)
+Many thanks for being so kind as to send me [your book](/place/124). I am glad it has prospered enough to come to another edition-
+I think that the notice of [Mr Wither](/person/1544)’s birth was as it stood in the Hants’ paper I suppose it came from the roll at Winchester though I certainly thought he would have been 90 in November -
+I am glad your German expedition was fairly satisfactory
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Envelope addressed to ‘The Revd/ J F Moor/ Glencairn/ Chiselhurst.
+
+Postmarked Winchester My 5/99.

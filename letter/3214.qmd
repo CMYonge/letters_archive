@@ -1,0 +1,22 @@
+---
+id: 3214
+title: To George Lillie Craik
+date: '1893-02-01'
+display-date: Feb 1st 1893
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne
+to-name: To George Lillie Craik
+manuscript-location: 'MS British Library  Add MSS 54921: 193-4'
+---
+
+Dear [Mr Craik](/person/379)
+I return the receipt with many thanks.
+I quite agree to your decision about the [Rubies of St Lo](/book/234) not being attached to [Grisly Grisell](/book/228) as the only connection between them is that Henry VI is mentioned in each.
+I could add a chapter at the end to Grisly Grisell, as I was afraid to wind up all the characters lest it should be too long, but it may perhaps be better to finish where it does on the principle of not ‘rhyming to that dull elf’[^1]
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: Walter Scott, [Marmion](/organisation/247) (1808) 6, 618-9: ‘I do not rhyme to that dull elf,/ Who cannot image to himself . . ‘

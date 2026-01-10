@@ -1,0 +1,11 @@
+---
+id: 346
+title: Review of John Inglesant
+author: Charlotte Mary Yonge
+date: 1880?
+genre: literary criticism
+publication-format: Article in Journal
+publisher: <i>Guardian, The</i>
+---
+
+CMY refers to reviewing John Inglesant in The Guardian in a letter to Sir Walter Besant (?1899).

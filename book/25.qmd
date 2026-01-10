@@ -1,0 +1,12 @@
+---
+id: 25
+title: Ben Sylvester’s Word. By the author of “The Heir of Redclyffe,” “The Railroad
+  Children,” &c.
+author: Charlotte Mary Yonge
+date: '1856'
+genre: Fiction (modern)
+publication-format: Booklet
+publisher: John and Charles Mozley, 6, Paternoster Row, London. Masters and Co., 78,
+  New Bond Street, London.
+serialization: Serialized in the <i>Magazine for the Young</i>, March to June 1856
+---

@@ -1,0 +1,9 @@
+---
+id: 325
+title: The Queen-Woman.\' By C.M. Yonge
+author: Charlotte Mary Yonge
+date: '1899'
+genre: Non-fiction
+publication-format: Article in Journal
+publisher: <i>Mothers in Council</i> 9.34 (April 1899) 65-71.
+---

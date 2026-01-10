@@ -1,0 +1,25 @@
+---
+id: 2700
+title: To a member of the Neale family?
+date: '1880-02-21'
+display-date: Feb 21st 1880
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester
+to-name: To a member of the Neale family?
+manuscript-location: MS Lambeth Palace Library MS 2677 f.114
+---
+
+Dear Madam
+[Bishop Jenner](/person/758) tells me that I should apply to you for permission to use two of [Dr Neale](/person/1078)’s Songs of the Trades in a little [book of poetry](/book/143) for children which I am putting together for Marcus Ward The Songs of the Engine Driver and the Silk Thrower are those that I mean, and I may perhaps also wish to have the Ironfounder, as well as the ballad of Aristomenes[^1] in the Greek history tales.
+
+Hoping that you see no objection to my thus using them, I remain,
+yours respectfully
+
+C M Yonge
+
+
+[^1]: J. M.
+
+Neale, Songs and Ballads for Manufacturers (London: Burns 1846). ‘Aristomenes and the Fox’ was published in J.M.
+
+Neale, Stories from Heathen Mythology and Greek History for the Use of Christian Children (London: Masters 1847).

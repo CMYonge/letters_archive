@@ -1,0 +1,24 @@
+---
+id: 2690
+title: To Blanche Catherine Medhurst
+date: '1878-01-01'
+display-date: '[1878?]'
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Blanche Catherine Medhurst
+manuscript-location: 'MS Princeton University, Parrish Collection C0171: Box 29'
+---
+
+Dear [Miss Medhurst](/person/988),
+Thank you for your kindness to [Emmeline](/person/1358).[^1] I believe she is coming down here for a month to recruit if [her brother](/person/2287) can spare her. I hope it is only want of love, but [her aunt](/person/1359) is anxious because loss of voice was the beginning of illness with [another aunt](/person/1361) - a school mistress - who went into a decline and the thought of whom prevented us from pressing Emmeline to be a school mistress.
+I am sorry to hear of the break up of your home in Dorset square. I am afraid you will miss all your old habits very much[^2]
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: Emmeline Spratt was the niece of CMY’s maid Harriet Spratt.
+[^2]: Blanche Medhurst was living with her mother, grandmother and two elder sisters at 29 Dorset Square at the time of the 1871 census.
+
+The grandmother’s death was registered in the first quarter of 1878.

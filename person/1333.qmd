@@ -1,0 +1,12 @@
+---
+id: 1333
+full-name: Jane Small
+first-name: Jane
+last-name: Small
+title: Jane Small
+dates: (fl. 1849)
+---
+
+pupil at Otterbourne school
+
+Probably the sister of Marianne Small.

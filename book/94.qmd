@@ -1,0 +1,12 @@
+---
+id: 94
+title: Mystery of the Cavern, The (Published with reprint of Abbeychurch). By the
+  author of “The Heir of Redclyffe.”
+author: Charlotte Mary Yonge
+date: '1872'
+genre: Fiction (historical)
+publication-format: Book
+publisher: John and Charles Mozley, Paternoster Row, London. Joseph Masters, New Bond
+  Street, London.
+serialization: Serialized in<i> MP</i>, January to December 1867.
+---

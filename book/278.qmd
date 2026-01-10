@@ -1,0 +1,9 @@
+---
+id: 278
+title: \'Charles Kingsley\' by C. M. Yonge
+author: Charlotte Mary Yonge
+date: '1891'
+genre: non-fiction, review
+publication-format: Article in Journal
+publisher: MP (September 1891) 283-290
+---

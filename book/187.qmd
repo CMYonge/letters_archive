@@ -1,0 +1,9 @@
+---
+id: 187
+title: Little Rick-Burners, The
+author: Charlotte Mary Yonge
+date: '1886'
+genre: Fiction
+publication-format: Booklet
+publisher: 'London: William Skeffington, 163 Piccadilly.'
+---

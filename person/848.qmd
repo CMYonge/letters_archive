@@ -1,0 +1,11 @@
+---
+id: 848
+full-name: The Hon. Emily Lawless
+first-name: Emily
+last-name: Lawless
+prefix: The Hon.
+title: The Hon. Emily Lawless
+dates: (1845-1913)
+---
+
+novelist, contributor to MP (1895)

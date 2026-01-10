@@ -1,0 +1,11 @@
+---
+id: 890
+full-name: The Rev. William Arthur Longlands
+first-name: William Arthur
+last-name: Longlands
+prefix: The Rev.
+title: The Rev. William Arthur Longlands
+dates: (1830/1-1910)
+---
+
+vicar of Eastleigh 1868-9

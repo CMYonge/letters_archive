@@ -1,0 +1,6 @@
+---
+id: 195
+reference-type: Place
+name: All Saints, Babbacombe
+title: All Saints, Babbacombe
+---

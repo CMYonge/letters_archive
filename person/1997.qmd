@@ -1,0 +1,10 @@
+---
+id: 1997
+full-name: Prince Arthur
+first-name: Arthur
+prefix: Prince
+title: Prince Arthur
+dates: (1850-1942)
+---
+
+Duke of Connaught, son of Queen Victoria

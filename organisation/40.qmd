@@ -1,0 +1,14 @@
+---
+id: 40
+reference-type: Organisation
+name: Society for the Promotion of Christian Knowledge, The
+title: Society for the Promotion of Christian Knowledge, The
+---
+
+This charity, founded to promote Christianity at home and abroad in 1698, has long had and still has a substantial publishing arm. CMY planned to get it to publish a series of county histories (3, 5 November 1860).
+
+Unlike many of her friends, she did not write for it.
+
+Its archives are held in Cambridge University Library.
+
+See http://www.spck.org.uk/about-spck/archives/

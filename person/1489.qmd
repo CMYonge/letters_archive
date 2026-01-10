@@ -1,0 +1,10 @@
+---
+id: 1489
+full-name: Mr West
+last-name: West
+prefix: Mr
+title: Mr West
+dates: (fl.1871)
+---
+
+cordially invited to lunch

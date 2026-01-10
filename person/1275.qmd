@@ -1,0 +1,11 @@
+---
+id: 1275
+full-name: The Rev. Charles Simeon
+first-name: Charles
+last-name: Simeon
+prefix: The Rev.
+title: The Rev. Charles Simeon
+dates: (1759-1836)
+---
+
+Vicar of Holy Trinity, Cambridge

@@ -1,0 +1,13 @@
+---
+id: 1523
+full-name: The Rev. Isaac Williams
+first-name: Isaac
+last-name: Williams
+prefix: The Rev.
+title: The Rev. Isaac Williams
+dates: (1802-1865)
+---
+
+poet, friend of Keble, autobiographer
+
+[ODNB]

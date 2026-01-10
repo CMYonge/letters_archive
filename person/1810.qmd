@@ -1,0 +1,10 @@
+---
+id: 1810
+full-name: Charlotte Brontë
+first-name: Charlotte
+last-name: Brontë
+title: Charlotte Brontë
+dates: (1816-1855)
+---
+
+novelist

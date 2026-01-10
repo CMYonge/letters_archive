@@ -1,0 +1,12 @@
+---
+id: 1260
+full-name: William Roscoe
+first-name: William
+last-name: Roscoe
+title: William Roscoe
+dates: (1753-1831)
+---
+
+historian
+
+He was the author of a life of Lorenzo de' Medici (1796) [DNB]

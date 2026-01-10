@@ -1,0 +1,9 @@
+---
+id: 288
+title: \'Introductory Letter\'
+author: Charlotte Mary Yonge
+date: '1851'
+genre: Non-fiction
+publication-format: Article in Journal
+publisher: MP (January 1851) i-iv
+---

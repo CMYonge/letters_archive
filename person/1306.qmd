@@ -1,0 +1,13 @@
+---
+id: 1306
+full-name: The Rev. William Sewell
+first-name: William
+last-name: Sewell
+prefix: The Rev.
+title: The Rev. William Sewell
+dates: (23 Jan 1804-14 Nov 1874)
+---
+
+brother of Elizabeth Sewell, contributor to MP (1872)
+
+[ODNB]

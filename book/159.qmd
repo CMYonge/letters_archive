@@ -1,0 +1,12 @@
+---
+id: 159
+title: Given to Hospitality.
+author: Charlotte Mary Yonge
+date: '1882'
+genre: 'Non-fiction: advice to charity workers'
+publication-format: Pamphlet
+publisher: Walter Smith (late Mozley), 34 King Street, Covent Garden, London.
+serialization: Reprinted from<i> MP</i> May 1882
+---
+
+A pamphlet encouraging people to have convalescents to stay.

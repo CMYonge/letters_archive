@@ -1,0 +1,13 @@
+---
+id: 1732
+full-name: The Rt. Rev. William Grant Broughton
+first-name: William Grant
+last-name: Broughton
+prefix: The Rt. Rev.
+title: The Rt. Rev. William Grant Broughton
+dates: (1788-1853)
+---
+
+Bishop of Australia
+
+He was buried in the nave of Canterbury Cathedral on 26 February 1853.

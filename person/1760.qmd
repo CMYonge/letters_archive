@@ -1,0 +1,11 @@
+---
+id: 1760
+full-name: Dr. Samuel Johnson
+first-name: Samuel
+last-name: Johnson
+prefix: Dr.
+title: Dr. Samuel Johnson
+dates: (1709-1784)
+---
+
+critic and lexicographer

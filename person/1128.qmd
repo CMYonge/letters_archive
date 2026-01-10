@@ -1,0 +1,11 @@
+---
+id: 1128
+full-name: The Ven Edwin Palmer
+first-name: Edwin
+last-name: Palmer
+prefix: The Ven
+title: The Ven Edwin Palmer
+dates: (1824-1895)
+---
+
+archdeacon of Oxford

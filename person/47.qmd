@@ -1,0 +1,13 @@
+---
+id: 47
+full-name: Sir Edward Antrobus
+first-name: Edward
+last-name: Antrobus
+prefix: Sir
+title: Sir Edward Antrobus
+dates: (1792-4 May 1870)
+---
+
+landowner
+
+He succeeded his uncle by special remainder, 1826, and was succeeded by his son and namesake (1818-1899).

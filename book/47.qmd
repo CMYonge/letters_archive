@@ -1,0 +1,13 @@
+---
+id: 47
+title: Sea Spleenwort and Other Stories, The. By the author of “The Heir of Redclyffe.”
+author: Charlotte Mary Yonge
+date: '1862'
+genre: Fiction
+publication-format: Book
+publisher: Groombridge and Sons, 5, Paternoster Row, London.
+serialization: Appeared originally in the Magnet Stories for Summer Days and Winter
+  Nights; 8 vols., 1860-5.
+---
+
+This contained ‘The Sea Spleenwort’, ‘The Mice at Play’ and ‘The Strayed Falcon’. A number of other Magnet stories by others seem also to have been bound up in this way and published in Groombridge’s gift book series (in which Historical Dramas also appeared).

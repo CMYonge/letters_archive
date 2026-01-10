@@ -1,0 +1,13 @@
+---
+id: 1652
+full-name: Sir Walter Besant
+first-name: Walter
+last-name: Besant
+prefix: Sir
+title: Sir Walter Besant
+dates: 1836-1901
+---
+
+novelist and founder of the Society of Authors
+
+He was knighted in 1895.

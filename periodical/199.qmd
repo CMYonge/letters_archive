@@ -1,0 +1,6 @@
+---
+id: 199
+reference-type: Periodical
+name: <i>Fraser\'s Magazine</i>
+title: <i>Fraser\'s Magazine</i>
+---

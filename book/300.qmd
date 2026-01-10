@@ -1,0 +1,13 @@
+---
+id: 300
+title: \'One Tragedy averted by Another\'
+author: Charlotte Mary Yonge
+date: '1880'
+genre: Non-fiction, translation
+publication-format: Article in Journal
+publisher: MP (May 1880) 499-510
+---
+
+This is described as \'abridged from the French [of Emile Souvestre] by Charlotte M.
+
+Yonge\'.

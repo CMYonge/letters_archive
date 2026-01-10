@@ -1,0 +1,8 @@
+---
+id: 259
+reference-type: Periodical
+name: <i>National Review, The</i>
+title: <i>National Review, The</i>
+---
+
+A conservative journal founded in 1883.

@@ -1,0 +1,13 @@
+---
+id: 268
+full-name: The Rev. Canon Thomas Thellusson Carter
+first-name: Thomas Thellusson
+last-name: Carter
+prefix: The Rev. Canon
+title: The Rev. Canon Thomas Thellusson Carter
+dates: (1808-1901)
+---
+
+Rector of Clewer and founder of the Clewer sisterhood, contributor to MP (1867)
+
+[ODNB]

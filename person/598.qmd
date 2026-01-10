@@ -1,0 +1,13 @@
+---
+id: 598
+full-name: Sir William Withey Gull
+first-name: William Withey
+last-name: Gull
+prefix: Sir
+title: Sir William Withey Gull
+dates: (1816-1890)
+---
+
+physician
+
+He gained his MD in 1846, was FRCP, was created a baronet 1872, and left £344,000 [ODNB]

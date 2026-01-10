@@ -1,0 +1,11 @@
+---
+id: 78
+full-name: The Rev. James Edward Austen Leigh
+first-name: James Edward
+last-name: Austen Leigh
+prefix: The Rev.
+title: The Rev. James Edward Austen Leigh
+dates: (1794-1874)
+---
+
+nephew and biographer of Jane Austen

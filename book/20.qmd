@@ -1,0 +1,12 @@
+---
+id: 20
+title: Little Duke, or, Richard the Fearless, The. By the author of “The Heir of Redclyffe”,
+  “The Kings of England.”
+author: Charlotte Mary Yonge
+date: '1854'
+genre: Fiction (historical)
+publication-format: Book
+publisher: John W Parker and Son, West Strand, London
+serialization: Serialized in<i> MP</i>, January to October 1851
+illustrator: With illustrations, drawn and lithographed by J.B. [Jemima Blackburn]
+---

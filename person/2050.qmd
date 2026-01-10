@@ -1,0 +1,10 @@
+---
+id: 2050
+full-name: John Bewick
+first-name: John
+last-name: Bewick
+title: John Bewick
+dates: —
+---
+
+engraver of Blossoms of Morality, brother of the engraver Thomas Bewick

@@ -1,0 +1,19 @@
+---
+id: 7267
+title: To Mr Chandler
+date: '1875-07-13'
+display-date: July 13th 1875
+from-name: Charlotte Mary Yonge
+to-name: To Mr Chandler
+manuscript-location: MS Jonathon Waugh
+---
+
+Dear [Mr Chandler](/person/1864)
+I think your friends MS is Vallombrosa but there is no address on it, and another about a Family Adventure in Normandy equally unaddressed has come to me, so that I am not sure which is which[^1] Both are good but I like Vallombrosa best and gladly accept it. I am just starting for a few days at Salisbury
+
+yours truly
+
+C M Yonge
+
+
+[^1]: Neither article has been identified in [MP](/periodical/52).

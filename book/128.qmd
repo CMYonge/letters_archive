@@ -1,0 +1,9 @@
+---
+id: 128
+title: 'Burnt Out: A Story for Mothers’ Meetings.'
+author: Charlotte Mary Yonge
+date: '1879'
+genre: Fiction (modern)
+publication-format: Book
+publisher: Walter Smith (late Mozley), 6 Paternoster Row, London.
+---

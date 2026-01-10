@@ -1,0 +1,12 @@
+---
+id: 2360
+full-name: Jane Harper
+first-name: Jane
+last-name: Harper
+title: Jane Harper
+dates: —
+---
+
+friend of Gertrude Walter
+
+Mother of two children.

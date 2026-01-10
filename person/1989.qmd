@@ -1,0 +1,9 @@
+---
+id: 1989
+full-name: Sir Edward Strachey
+first-name: Edward
+last-name: Strachey
+prefix: Sir
+title: Sir Edward Strachey
+dates: (1812-1901)
+---

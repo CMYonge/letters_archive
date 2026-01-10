@@ -1,0 +1,26 @@
+---
+id: 2790
+title: To Constance Frederica Gordon Cumming
+date: '1884-05-05'
+display-date: May 5th [1884]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield
+to-name: To Constance Frederica Gordon Cumming
+manuscript-location: MS Cambridge University Library Add 4251 (B)/1539
+---
+
+Dear [Miss Gordon Cumming](/person/571)
+I had an intimation from the [publisher](/person/1344) that he is going to change printers, and so that I must finish up all there is in type before August.
+
+This is keeping you, as well as many other papers back, but I hope to be able to get them in then.[^1]
+Something unexpected always happens when one hopes one has comfortable space Miss Sewell’s letters went on two numbers more than I reckoned on.
+I have just got Granite Crags
+
+yours truly
+
+C M Yonge
+
+
+[^1]: The existing printer was [Clay](/organisation/173), the new one [Clowes](/organisation/245).
+
+The article referred to here as awaiting publication was perhaps \'Cawnpore and Lucknow\' MP (October 1884), 358-376.

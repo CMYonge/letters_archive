@@ -1,0 +1,26 @@
+---
+id: 3263
+title: To Anne Isabella Ritchie
+date: '1894-05-08'
+display-date: May 8th [1894?]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne Winchester
+to-name: To Anne Isabella Ritchie
+manuscript-location: MS Eton College, 2ALS to ATR
+---
+
+Dear [Mrs Ritchie](/person/1240)
+How kind in you to write me such a pleasant letter. I like to know that the companions of my life have been beloved by other people. I had actually begun for my own pleasure another link in the Daisy Chain for the [Monthly Packet](/periodical/52) but it was decided that it would weary the public.[^1]
+I am much enjoying your recollections. I hope you have a great many more still to come.
+I was sorry this morning to find that the so called [‘Sara Tytler’](/person/802) is in so much need of a pension. [Mr Besant](/person/1652) is sending round a petition for her.[^2] It seems strange that she should never have been able to make more than a £162 a year, when everyone knew her name, and her books are always wholesome and often clever, though in awkward language.
+
+But publishers are inscrutable! I have just seen a MSS full of ability, and by a practised hand rejected by the [publisher](/organisation/230) of Pretty Miss Smith where the uncle of an heiress tries to drive her out of her mind by letting owls loose in her bed room at night
+However, I did not mean to write so much shop, only to say that if you are in these parts I should be delighted to see you and I am generally at home
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: This was [The Long Vacation](/book/235), a sequel to [The Daisy Chain](/book/24).
+[^2]: Henrietta Keddie (1827-1914) was the author under the name \'Sarah Tytler\' of more than seventy volumes of fiction, mainly for girls, from 1865; she applied to the Royal Literary Fund five times between 1894 and 1913.

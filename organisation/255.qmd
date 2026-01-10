@@ -1,0 +1,8 @@
+---
+id: 255
+reference-type: Organisation
+name: Primrose League, The
+title: Primrose League, The
+---
+
+A political organisation founded in 1883 to encourage support for the Conservative party and disbanded in 2004.

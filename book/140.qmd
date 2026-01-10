@@ -1,0 +1,10 @@
+---
+id: 140
+title: Practical Work in Sunday Schools. By Miss Yonge, author of “The Heir of Redclyffe”.
+author: Charlotte Mary Yonge
+date: '1881'
+genre: Non-fiction, theology, advice to church workers
+publication-format: Booklet
+publisher: National Society’s Depository, Broad Sanctuary, London.
+serialization: In a series of <i>Religious Manuals for Sunday and Day School Teaching</i>
+---

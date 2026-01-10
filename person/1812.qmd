@@ -1,0 +1,10 @@
+---
+id: 1812
+full-name: Joseph Addison
+first-name: Joseph
+last-name: Addison
+title: Joseph Addison
+dates: (1672-1719)
+---
+
+writer

@@ -1,0 +1,11 @@
+---
+id: 2217
+full-name: The Rt. Rev. and Hon Arthur Temple Lyttelton
+first-name: Arthur Temple
+last-name: Lyttelton
+prefix: The Rt. Rev. and Hon
+title: The Rt. Rev. and Hon Arthur Temple Lyttelton
+dates: (1852-1903)
+---
+
+suffragan Bishop of Southampton from 1898

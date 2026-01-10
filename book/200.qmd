@@ -1,0 +1,10 @@
+---
+id: 200
+title: Nurse’s Memories.
+author: Charlotte Mary Yonge
+date: '1888'
+genre: Fiction
+publication-format: Book
+publisher: 'London: Eyre and Spottiswoode'
+illustrator: Illustrated by Frederick Marriott and Florence Maplestone.
+---

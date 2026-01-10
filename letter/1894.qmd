@@ -1,0 +1,26 @@
+---
+id: 1894
+title: To François Pierre Guillaume Guizot
+date: '1863-06-29'
+display-date: June 29th 1863
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourn Winchester England
+to-name: To François Pierre Guillaume Guizot
+manuscript-location: MS Archives Nationales
+---
+
+[Sir](/person/597),
+Some time ago you were kind enough to mention, in a letter to [Mrs Austin](/person/1879),[^1] the life of [Madam de Montagu](/person/1922)[^2] as one that would be very desirable among the ‘[biographies of good women](/book/43)’ that I have been attempting to collect for the improvement of young girls; I have ventured to desire my publisher to send you a copy of the first series that you may see at what I have aimed; I am now attempting a [second collection](/book/57) to which the life of [Madame du Mornay](/person/1880) has already been contributed and it is also promised the life of [Margaret Roper](/person/1881) by one of her descendants, as well as those of several other bright lights, both English and French as well as German. I am thus induced to ask you whether there is any chance of my being able to obtain a sight of the memoir and permission to translate and perhaps abridge it, since I suppose there can be few if any survivors of those members of the family on whose account it was only privately printed.
+
+If you could kindly put me in the way of obtaining the memoir and leave to make use of it, or inform me to whom to apply on the subject, I should be under great obligations to you.
+I remain respectfully yours
+
+Charlotte M Yonge
+
+
+[^1]: Sarah Austin (1793–1867) had translated several of Guizot’s books into English.
+[^2]: The second series of Biographies of Good Women (1865) included CMY’s own account of the lives of Anne-Paule-Dominique (de Noailles), marquise de Montagu (1766-1839), Marie-Adrienne-Françoise, marquise de La Fayette (1759-1807) and their three sisters.
+
+The introduction acknowledges the permission of the Duc de Noailles to extract the biographies from Anne-Paule-Dominique de Noailles, marquise de Montagu (Paris: Laine et Havard 1864).
+
+This privately printed work, anonymously edited by Auguste Callet, was published in 1865 and became the subject of litigation between him and the duke over the credit of the authorship.

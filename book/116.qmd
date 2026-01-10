@@ -1,0 +1,11 @@
+---
+id: 116
+title: Aunt Charlotte’s Stories of Greek History for the Little Ones.
+author: Charlotte Mary Yonge
+date: '1876'
+genre: 'Non-fiction: history'
+publication-format: Book
+publisher: 'London: Marcus Ward & Co., Chandos St, Strand; and Royal Ulster Works,
+  Belfast.'
+illustrator: Illustrated
+---

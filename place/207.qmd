@@ -1,0 +1,8 @@
+---
+id: 207
+reference-type: Place
+name: Tyntesfield
+title: Tyntesfield
+---
+
+The home in Somerset of [William Gibbs](/person/560) and his wife, CMY\'s cousin [Matilda Blanche Crawley Boevey](/person/557).

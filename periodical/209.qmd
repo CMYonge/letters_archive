@@ -1,0 +1,6 @@
+---
+id: 209
+reference-type: Periodical
+name: <i>Hampshire Chronicle, The</i>
+title: <i>Hampshire Chronicle, The</i>
+---

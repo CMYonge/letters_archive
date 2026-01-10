@@ -1,0 +1,10 @@
+---
+id: 999
+full-name: C. Miller
+first-name: C.
+last-name: Miller
+title: C. Miller
+dates: —
+---
+
+contributor to MP (1871)

@@ -1,0 +1,11 @@
+---
+id: 110
+title: Lady Hester, or, Ursula’s Narrative.
+author: Charlotte Mary Yonge
+date: '1874'
+genre: Fiction (modern)
+publication-format: Book
+publisher: 'London and New York: Macmillan and Company.'
+---
+
+The Tauchnitz edition of this book (Leipzig 1874) also includes The Mouth of the Leamy.

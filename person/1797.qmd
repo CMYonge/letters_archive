@@ -1,0 +1,11 @@
+---
+id: 1797
+full-name: The Right Rev. Richard Whately
+first-name: Richard
+last-name: Whately
+prefix: The Right Rev.
+title: The Right Rev. Richard Whately
+dates: (1787–1863)
+---
+
+Archbishop of Dublin from 1831

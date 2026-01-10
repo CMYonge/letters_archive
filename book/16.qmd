@@ -1,0 +1,11 @@
+---
+id: 16
+title: 'Landmarks of History 2. Middle Ages: from the Reign of Charlemagne to that
+  of Charles V. By the author of “The Kings of England,” etc.'
+author: Charlotte Mary Yonge
+date: '1853'
+genre: 'Non-fiction: history'
+publication-format: Book
+publisher: John and Charles Mozley, Paternoster Row, London; J.H. Parker, Oxford;
+  and 337, Strand; London; Joseph Masters, 78, New Bond Street, London.
+---

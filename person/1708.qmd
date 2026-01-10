@@ -1,0 +1,11 @@
+---
+id: 1708
+full-name: The Rev. William Henry Gunner
+first-name: William Henry
+last-name: Gunner
+prefix: The Rev.
+title: The Rev. William Henry Gunner
+dates: (1812-1859)
+---
+
+master at Winchester College

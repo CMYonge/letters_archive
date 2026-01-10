@@ -1,0 +1,11 @@
+---
+id: 2438
+full-name: The Rev. William Champion Streatfeild
+first-name: William Champion
+last-name: Streatfeild
+prefix: The Rev.
+title: The Rev. William Champion Streatfeild
+dates: 1839-1912
+---
+
+Rector of Kingsworthy, grandfather of the novelist Noel Streatfeild.

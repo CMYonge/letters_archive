@@ -1,0 +1,25 @@
+---
+id: 2604
+title: To George Lillie Craik
+date: '1877-11-05'
+display-date: Novr 5th 1877
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To George Lillie Craik
+manuscript-location: 'MS British Library Add MSS 54921: 36-37'
+---
+
+Dear [Mr Craik](/person/379)
+It is a beautiful engraving, and I am much obliged for your kind proposal.
+
+But I don’t think anything can be made of the ladies of the Crusades for those about whom much is known were not very edifying characters and the good ones are pretty much lost in the light of their husbands.
+
+But what would you think of a history of the wars between the Spaniards and Moors- from the Moorish conquest of Spain to the Spanish siege of Granada. I do not think it is much known, and it would be capable of being made into a romantic history full of brilliant stories of both parties[^2]
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: Black-edged paper.
+[^2]: This idea became CMY\'s [The Story of the Christians and the Moors in Spain.](/book/126)

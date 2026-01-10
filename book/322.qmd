@@ -1,0 +1,11 @@
+---
+id: 322
+title: '\''Three Generations: In Praise of Dulness\'''
+author: Charlotte Mary Yonge
+date: '1898'
+genre: Fiction (modern)
+publication-format: Short Story in Journal
+publisher: <i>Mothers in Council</i> 8.29 (Jan 1898) 38-46
+---
+
+No author is given but it is part of a series written by CMY

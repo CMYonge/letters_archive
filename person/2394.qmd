@@ -1,0 +1,10 @@
+---
+id: 2394
+full-name: Eliza? Fisher
+first-name: Eliza?
+last-name: Fisher
+title: Eliza? Fisher
+dates: (d.1880)
+---
+
+wife of [Walter Fisher](/person/513)

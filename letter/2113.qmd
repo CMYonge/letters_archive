@@ -1,0 +1,17 @@
+---
+id: 2113
+title: To an Unknown Person
+date: '1866-04-07'
+display-date: '[7? April 1866]'
+from-name: Charlotte Mary Yonge
+to-name: To an Unknown Person
+manuscript-location: MS location unknown. Printed in Romanes, <i>[[otherbook:241]Appreciation]</i>
+  p. 103
+---
+
+It was the one bright, beautiful day of a cold, wet spring, and the celandines spread and glistened like stars round the grave where we laid him, and bade him our last 'God be with you' with the 23rd Psalm, and went home, hoping that he would not blame us for irreverence for thinking of him in words applied to the first saint who bore his name: 'He was a burning and a shining light, and ye were willing for a season to rejoice in his light.'[^1]
+
+
+[^1]: The [funeral](/topic/184) of [John Keble](/person/798) took place at All Saints, Hursley, on Friday 6 April 1866.
+
+The text is John 5:35.

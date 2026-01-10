@@ -1,0 +1,20 @@
+---
+id: 3575
+title: To an Unknown Person
+date: '1892-01-01'
+display-date: '[after 1892]'
+from-name: Charlotte Mary Yonge
+from-address: 70 Kensington Gardens Square
+to-name: To an Unknown Person
+manuscript-location: MS Charlotte Mitchell/20
+---
+
+Dear Madam
+I shall be out all day tomorrow, and from 11 o’clock both Friday and Saturday, and I go away on Saturday so I hardly like to propose your taking the trouble of calling so early
+
+yours truly
+
+C M Yonge
+
+
+[^1]: Black-edged paper.

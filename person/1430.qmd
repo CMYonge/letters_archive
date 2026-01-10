@@ -1,0 +1,10 @@
+---
+id: 1430
+full-name: Ludwig Uhland
+first-name: Ludwig
+last-name: Uhland
+title: Ludwig Uhland
+dates: (1787-1862)
+---
+
+German poet, contributor to MP (1861-7)

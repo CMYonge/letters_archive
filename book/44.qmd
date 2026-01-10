@@ -1,0 +1,14 @@
+---
+id: 44
+title: Countess Kate. By the author of “The Heir of Redclyffe.”
+author: Charlotte Mary Yonge
+date: '1862'
+genre: Fiction (modern)
+publication-format: Book
+publisher: John and Charles Mozley, 6, Paternoster Row, London. Masters and Co., 78,
+  New Bond Street, London.
+serialization: Serialized in the <i>Magazine for the Young</i>, October 1861 to December
+  1862
+---
+
+The heroine also appears in The Pillars of the House.

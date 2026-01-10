@@ -1,0 +1,11 @@
+---
+id: 222
+full-name: The Rev. John William Burgon
+first-name: John William
+last-name: Burgon
+prefix: The Rev.
+title: The Rev. John William Burgon
+dates: (1813-1888)
+---
+
+theologian, dean of Chichester from 1875

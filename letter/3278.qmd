@@ -1,0 +1,20 @@
+---
+id: 3278
+title: To Frederick Orridge Macmillan
+date: '1894-12-31'
+display-date: Decr 31 1894
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne
+to-name: To Frederick Orridge Macmillan
+manuscript-location: 'MS British Library  Add MSS 54921: 212'
+---
+
+Dear [Mr Macmillan](/person/942)
+I shall be very happy to receive [£50 ](/topic/160)for the American copyright of [‘A Long Vacation’](/book/237)
+
+Yours truly
+
+C M Yonge
+
+
+[^1]: Endorsed \'Brett has agreed to pay £60 vide his letter of Dec 24/94\'.

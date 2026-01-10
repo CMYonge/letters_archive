@@ -1,0 +1,10 @@
+---
+id: 733
+full-name: Alexander Humboldt
+first-name: Alexander
+last-name: Humboldt
+title: Alexander Humboldt
+dates: (1769-1859)
+---
+
+contributor to MP (1851)

@@ -1,0 +1,11 @@
+---
+id: 1422
+full-name: Miss Emma Tucker
+first-name: Emma
+last-name: Tucker
+prefix: Miss
+title: Miss Emma Tucker
+dates: —
+---
+
+inhabitant of Otterbourne in 1838

@@ -1,0 +1,10 @@
+---
+id: 12
+title: Mrs Elderney’s School
+author: Charlotte Mary Yonge
+date: '1850'
+genre: Fiction (modern)
+publication-format: Serial in Journal
+publisher: Published in the <i>Magazine for the Young</i> Jan 1850-Jan 1852
+serialization: only appeared as a serial
+---

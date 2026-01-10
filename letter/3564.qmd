@@ -1,0 +1,35 @@
+---
+id: 3564
+title: To Elizabeth Missing Sewell
+date: '1867-09-29'
+display-date: Michaelmas [29 September ?1867]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Elizabeth Missing Sewell
+manuscript-location: MS  Harry Ransom Humanities Research Center, University of Texas,
+  Austin
+---
+
+My dear [Miss Sewell](/person/1301)
+(What a horrible pen) We shall be very glad to see you whenever you can come to us in the autumn.
+
+We have no engagement in the way. I will try to get the life of St Bernard – but the [London Library](/organisation/29) but I cannot say it is better than other libraries for the ease of getting books.[^1] wonder if he is among Lamartine’s biographies some of which are telling, and I do not think they are very badly translated.
+
+But as you say this is a period when eloquent histories are scarce – Pray let us know as soon as you see your way to us.
+
+We have no engagement between next week and December.
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: Sic: CMY apparently lost the thread of her sentence when turning the page.
+
+An excerpt from James C.
+
+Morison, Life and Times of St.
+
+Bernard appeared in the second volume of [European History](/book/82) (1871).
+
+It is tempting to date the letter to 1869, but the use of the word \'we\' seems to place it definitely before the death of CMY\'s mother.

@@ -1,0 +1,22 @@
+---
+id: 2279
+title: To Ellen Julia Johns
+date: '1868-10-08'
+display-date: Oct 8th [1868]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Ellen Julia Johns
+manuscript-location: MS University of Delaware
+---
+
+My dear [Mrs Johns](/person/772)
+Thank you warmly for your kind note. I can see that both as daughter and as mother you have more than a common fellow feeling for the sorrow.[^1] In fact, I think the present loss is softened by the long weaning as it were which the slow dimming of the faculties led to, with quite as much affection and clings, but without the power of response - and latterly the weariness of great debility had been so distressing, that I cannot but be thankful that the yet more painful steps downwards were spared, but the call which secured sudden death at last.
+
+With love to [Katie](/person/887) and thanks for your kindness
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: The sorrow was for the death of her mother [FMY](/person/1606) on 28 September 1868.

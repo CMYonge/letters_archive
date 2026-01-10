@@ -1,0 +1,10 @@
+---
+id: 289
+title: \'Ladies\' Association, or, Great Causes helped by Small Means, The\' by the
+  Editor
+author: Charlotte Mary Yonge
+date: '1867'
+genre: Non-fiction
+publication-format: Article in Journal
+publisher: MP (May 1867) 510-14
+---

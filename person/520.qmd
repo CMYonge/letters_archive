@@ -1,0 +1,10 @@
+---
+id: 520
+full-name: William Warde Fowler
+first-name: William Warde
+last-name: Fowler
+title: William Warde Fowler
+dates: (1847-1921)
+---
+
+historian of Rome, contributor to MP (1890-3)

@@ -1,0 +1,12 @@
+---
+id: 17
+title: Herb of the Field, The By the author of “The Kings of England”, “Langley School”,
+  “Scenes and Characters”, etc..
+author: Charlotte Mary Yonge
+date: '1853'
+genre: 'Non-fiction: natural history'
+publication-format: Book
+publisher: John and Charles Mozley, 6, Paternoster Row, London.
+serialization: Serialized as “Chapters on Flowers” in the<i> Magazine for the Young,</i>
+  Feb 1850-Dec 1852
+---

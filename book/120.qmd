@@ -1,0 +1,10 @@
+---
+id: 120
+title: Three Brides, The 2 vols
+author: Charlotte Mary Yonge
+date: '1876'
+genre: Fiction (modern)
+publication-format: Book
+publisher: 'London and New York: Macmillan and Company.'
+serialization: Serialized in<i> MP</i> Jan 1874-June 1876
+---

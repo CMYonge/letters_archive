@@ -1,0 +1,21 @@
+---
+id: 3583
+title: To an Unknown Woman
+date: '1880-08-08'
+display-date: Aug 8th [1880s?]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield
+to-name: To an Unknown Woman
+manuscript-location: MS Helen Schinske
+---
+
+Dear Madam
+I am sorry I mistook but indeed I would not think of your copying out the index for me, as I really know pretty well by long use where to find anything that I want so that I lose no time over it.[^1]
+I should be very sorry to give you all the trouble.
+
+Yours truly,
+
+C M Yonge
+
+
+[^1]: Her correspondent is evidently offering to index the [Monthly Packet](/periodical/52).

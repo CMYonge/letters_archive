@@ -1,0 +1,24 @@
+---
+id: 1993
+title: To Alexander Macmillan
+date: '1864-11-11'
+display-date: Novr 11th [1864]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54920: 52-53'
+---
+
+Dear [Mr Macmillan](/person/939)
+If you think this [preface](/book/51) will do, please send it to the printer.
+I thought some acknowledgment of the sources was due -- and some hint too of what is less authenticated.
+I have wound up with a suggestion about penny readings,[^1] as I think the book might be useful for it, but if this is not advisable it may come out.
+
+From Monday to Saturday of next week we shall be staying with the [Warden](/person/1304) of New College at Oxford, then at home again
+Yours very truly
+C. M.
+
+Yonge
+
+
+[^1]: Penny Readings were a form of village entertainment where poems and passages from prose works both fiction and non-fiction were read aloud, as dramatically and entertainingly as possible, to an audience who paid a penny to attend. CMY had a section about the choice of readings in her booklet [What Books to Lend and What to Give](/book/196) (1887).

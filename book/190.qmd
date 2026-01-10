@@ -1,0 +1,12 @@
+---
+id: 190
+title: Teachings on the Catechism for the Little Ones. By Charlotte Mary Yonge.
+author: Charlotte Mary Yonge
+date: '1886'
+genre: 'Non-fiction: theology'
+publication-format: Book
+publisher: 'London: Walter Smith, 34 King Street, Covent Garden'
+serialization: Serialized in the <i>Monthly Paper of Sunday Teaching
+---
+
+The preface is dated 30 December 1885, and explains that these lessons had appeared originally in the Monthly Paper of Sunday Teaching.

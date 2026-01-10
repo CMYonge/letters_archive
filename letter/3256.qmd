@@ -1,0 +1,29 @@
+---
+id: 3256
+title: To Lady Mary ?
+date: '1894-03-19'
+display-date: March 19th 1894
+from-name: Charlotte Mary Yonge
+from-address: Elderfield Otterbourne
+to-name: To Lady Mary ?
+manuscript-location: 'MS UCLA: collection 100: box 95'
+---
+
+My dear Lady Mary
+I am afraid I never heard of the name of Filian, unless it comes from the Scottish Saint Filam, St Fillan’s cave, Glenfillan.
+
+But that was a man, a Fifeshire abbot to whose good will the Scots attributed their victory at Bannockburn.
+
+At least so says [Alban Butler](/organisation/27) and Baring Gould, and the latter gives as date 7th century, I cannot get nearer.
+
+Somehow I believe there was no capital F in old time and you know some Foulkeses spelt their name ffoulkes.
+
+Our F is only the first letter with the second being up inside.[^1] If there is a Scottish connection it might account for the Filian, but I once read that about the time of Henry III people took to indulging in fanciful invented names for their daughters, so it may have come from thence.
+
+Yours sincerely
+
+C M Yonge
+A Gaelic scholar might tell you the meaning
+
+
+[^1]: There is a sketch in illustration.

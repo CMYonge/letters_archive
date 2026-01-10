@@ -1,0 +1,21 @@
+---
+id: 2423
+title: To Mary Eliza Bramston
+date: '1871-11-21'
+display-date: Novr 21st [1871?]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Mary Eliza Bramston
+manuscript-location: MS Winchester City Council, Historic Resources Centre LH803.4
+---
+
+My dear [Miss Bramston](/person/198)[^1]
+I shall have much pleasure in dining with you next Thursday It is lucky the [lectures](/topic/240) are over today, or it would not have been easy to manage it[^2]
+
+yours sincerely
+
+C M Yonge
+
+
+[^1]: Mary Bramston is recorded in the 1871 census living in Winchester with her brother [John](/person/196) who was a master at [Winchester College](/organisation/50).
+[^2]: The Englishwoman’s Review 1 (January 1870), 27 notes, \'Lectures to ladies on English literature are to be given by Professor Morley, at Winchester in the autumn.\'

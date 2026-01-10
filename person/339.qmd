@@ -1,0 +1,13 @@
+---
+id: 339
+full-name: Father Henry James Coleridge
+first-name: Henry James
+last-name: Coleridge
+prefix: Father
+title: Father Henry James Coleridge
+dates: (1822-1893)
+---
+
+Son of Sir John Taylor Coleridge, brother of Mary Coleridge
+
+He converted to Rome (1852) and became a Jesuit; he was editor of The Month 1865-81. [ODNB]

@@ -1,0 +1,13 @@
+---
+id: 1926
+full-name: Sir Francis Grant
+first-name: Francis
+last-name: Grant
+prefix: Sir
+title: Sir Francis Grant
+dates: (1803-1878)
+---
+
+painter
+
+He was knighted in 1866.

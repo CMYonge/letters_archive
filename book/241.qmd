@@ -1,0 +1,11 @@
+---
+id: 241
+title: Sintram and his Companions and Undine By Friedrich, Baron La Motte Fouqué.
+  With introduction by Charlotte M. Yonge.
+author: Charlotte Mary Yonge
+date: '1896'
+genre: 'Non-fiction: criticism'
+publication-format: Preface to book
+publisher: 'London: Gardner, Darton & Co.'
+illustrator: Illustrated by Gordon Browne.
+---

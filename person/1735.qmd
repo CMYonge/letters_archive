@@ -1,0 +1,9 @@
+---
+id: 1735
+full-name: Napoleon
+first-name: Napoleon
+title: Napoleon
+dates: (1801-1874)
+---
+
+duc de Montebello

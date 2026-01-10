@@ -1,0 +1,10 @@
+---
+id: 305
+full-name: Mrs. Cleaver
+last-name: Cleaver
+prefix: Mrs.
+title: Mrs. Cleaver
+dates: —
+---
+
+invited to lunch (1871)

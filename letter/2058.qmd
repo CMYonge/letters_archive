@@ -1,0 +1,29 @@
+---
+id: 2058
+title: To Alexander Macmillan
+date: '1865-07-28'
+display-date: July 28th [1865]
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54920: 103-4'
+---
+
+My dear [Mr Macmillan](/person/939)
+I send the rest of the MS of the [Dove in the Eagle’s Nest](/book/62) as it is all finished now, and I shall be going from home about the beginning of September into Devonshire first, and then perhaps to London some time in October - when I hope I may see you.
+
+How soon will the last chapters of the [Prince and the Page](/book/61) be wanted?
+
+Since it began to come out I have found that Simon de Montfort really had a son called Richard who is unaccounted for. I suspect Wilfred’s name ought to be changed all through, but I am not sure whether this is of consequence enough to make it worth while.[^1]
+People did not mind such things when [Sir Walter Scott](/person/1672) called Aubrey de Vere Arthur, but they are more particular now.[^2]
+If the Dove is ever published alone, I wonder how it would be to put in some of the woodcuts from Theurdanck, Maximilian’s own queer illustrated allegory of his life,[^3] from which I have taken some adventures. I have the book here now and his killing the bear, and leaping the chasm are quaint beyond description
+Are your party going to make an expedition this year-?
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: This was done.
+[^2]: Scott did this in Anne of Geierstein.
+[^3]: The book, first printed in 1517, now attributed in part to Maximilian’s chaplain Melchior Pfintzing, appears under various titles; CMY used more than one edition.

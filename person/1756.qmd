@@ -1,0 +1,11 @@
+---
+id: 1756
+full-name: The Rev. William Gresley
+first-name: William
+last-name: Gresley
+prefix: The Rev.
+title: The Rev. William Gresley
+dates: (1801-1876)
+---
+
+clergyman and author

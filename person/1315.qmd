@@ -1,0 +1,15 @@
+---
+id: 1315
+full-name: The Rev. Orby Shipley
+first-name: Orby
+last-name: Shipley
+prefix: The Rev.
+title: The Rev. Orby Shipley
+dates: (1832-1916)
+---
+
+theologian, son of the Rev.
+
+Charles Shipley
+
+[ODNB]

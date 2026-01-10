@@ -1,0 +1,9 @@
+---
+id: 2295
+full-name: Napoleon III
+first-name: Napoleon III
+title: Napoleon III
+dates: (1808-1873)
+---
+
+Emperor of France

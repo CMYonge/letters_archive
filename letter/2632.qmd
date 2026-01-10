@@ -1,0 +1,20 @@
+---
+id: 2632
+title: To Alexander Macmillan
+date: '1878-05-10'
+display-date: May 10th 1878
+from-name: Charlotte Mary Yonge
+from-address: Elderfield, Otterbourne, Winchester.
+to-name: To Alexander Macmillan
+manuscript-location: 'MS British Library Add MSS 54921: 114-115'
+---
+
+My dear [Mr Macmillan](/person/939)
+I must send you my warmest thanks for the very noble life which you have sent me, which I am sure must leave a deep impression on all who read it. I think the letter at p 262 is one that cannot be read without peculiar admiration and reverence - as so entirely the antidote of the spirit of self help.[^1]
+
+Yours sincerely
+
+C M Yonge
+
+
+[^1]: The book is unidentified.

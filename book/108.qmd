@@ -1,0 +1,10 @@
+---
+id: 108
+title: Scripture Readings for Schools and Families. With Comments. The Kings and the
+  Prophets.
+author: Charlotte Mary Yonge
+date: '1874'
+genre: 'Non-fiction: theology'
+publication-format: Selection with comments
+publisher: 'London and New York: Macmillan and Co'
+---

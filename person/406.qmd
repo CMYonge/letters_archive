@@ -1,0 +1,13 @@
+---
+id: 406
+full-name: Monseigneur Georges Darboy
+first-name: Georges
+last-name: Darboy
+prefix: Monseigneur
+title: Monseigneur Georges Darboy
+dates: (1813-1871)
+---
+
+Archbishop of Paris
+
+He was assassinated during the Paris Commune.

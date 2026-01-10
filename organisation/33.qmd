@@ -1,0 +1,8 @@
+---
+id: 33
+reference-type: Organisation
+name: Orphans Home, Plymouth, The
+title: Orphans Home, Plymouth, The
+---
+
+This was founded by Lydia Sellon in the 1840s as part of the wide-ranging programme of her sisterhood, the Devonport Sisters of Mercy, later the Society of the Most Holy Trinity.

@@ -1,0 +1,10 @@
+---
+id: 66
+title: Lord Seaton and his Regiment (Author not named)
+author: Charlotte Mary Yonge
+date: '1867'
+genre: 'Non-fiction: biography'
+publication-format: Article in Journal
+publisher: Not reprinted in volume form
+serialization: <i>Christian Remembrancer</i>, Vol 54, pp. 239-285.
+---

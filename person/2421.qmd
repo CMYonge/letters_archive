@@ -1,0 +1,10 @@
+---
+id: 2421
+full-name: Georges Danton
+first-name: Georges
+last-name: Danton
+title: Georges Danton
+dates: (1759-1794)
+---
+
+French statesman

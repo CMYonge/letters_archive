@@ -1,0 +1,10 @@
+---
+id: 413
+full-name: Mrs Dawson
+last-name: Dawson
+prefix: Mrs
+title: Mrs Dawson
+dates: —
+---
+
+contributor to MP (1890)

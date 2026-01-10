@@ -1,0 +1,10 @@
+---
+id: 1678
+full-name: Mr Barker
+last-name: Barker
+prefix: Mr
+title: Mr Barker
+dates: —
+---
+
+perhaps a neighbour of Mary Yonge\'s

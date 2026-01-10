@@ -1,0 +1,10 @@
+---
+id: 2196
+full-name: John Bacon
+first-name: John
+last-name: Bacon
+title: John Bacon
+dates: (1777-1859)
+---
+
+sculptor

@@ -1,0 +1,15 @@
+---
+id: 2933
+title: To Anne Yonge
+date: '1836-03-01'
+display-date: '[March 1836]'
+from-name: Charlotte Mary Yonge
+to-name: To Anne Yonge
+manuscript-location: MS location unknown.  This fragment printed by Coleridge, <i>[[otherbook:40]Life]</i>,
+  124.
+---
+
+One of the things I have to do for [M. de Normanville](/person/1088)[^1] is to write a story in French, and [my story](/book/1) goes on for ever and ever . . . my poor little girls meet with all sorts of dangers.
+
+
+[^1]: F. de Normanville (b. 1770/1), her French and Italian teacher, an émigré from the French Revolution.

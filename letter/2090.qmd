@@ -1,0 +1,33 @@
+---
+id: 2090
+title: The Reverend John Keble to Charlotte Mary Yonge
+date: '1865-12-28'
+display-date: Holy Innocents [28? December], 1865.
+from-name: Charlotte Mary Yonge
+from-address: Bournemouth,
+to-name: The Reverend John Keble to Charlotte Mary Yonge
+manuscript-location: MS location unknown. Printed in <i>[[cmybook:88]Musings over
+  the Christian Year]</i>, liii-liv.
+---
+
+My dear Child,
+[I](/person/798) am sorry to say that my dearest [wife](/person/795) is unable to write you a little Christmas greeting as she had hoped, and as you simply have earned by your better than best behaviour in writing to her so regularly, for which we can never love and thank you enough. I wish I could say that she is at all better, but her breathing and palpitations become, I fear, more and more troublesome, and she suffers much from faintness at night.
+
+However, she was yesterday moved into the sitting-room for seven hours, to-day she has not as yet, 4 p. m.
+
+And now what shall I say, and what will you think, of our not returning that noble letter from Melanesia which you enclosed to us, and which, as you expected, came the same day with a most precious one to me.[^1] Alas! we have searched up and down and have not been able to find either since Sunday evening last. I am sadly afraid the irreparable loss is owing to some shocking carelessness of mine, for our young ladies say they were last seen in my possession.
+
+So, I fear, I must go on with a remorseful heart, bearing the blame of both the misplaces. I wish it were not a sample of the matters mostly laid up in my memory. C. is still sanguine as to the letters turning up, but I dare not be.
+
+Many thanks for the comfortable account of your little niece [Margaret](/person/1592), her [mother](/person/1604) and all; and I must add my special thanks for the new series of ‘[Good Women](/book/57),’ the nicest new book I have seen since ‘[Golden Deeds](/book/51).’[^2] I believe we are going to send for our [Martha](/person/1967) to help [Anne](/person/1968) to nurse, and I have not much time to write this letter, so I must make an end, with a most hearty and loving Christmas greeting to you both and all.
+
+Your most affte,
+J. K.
+
+
+[^1]: These letters would have been from the [Rt.
+
+Rev.
+
+John Coleridge Patteson](/person/1155).
+[^2]: Margaret Yonge had in fact died on 14 December. CMY\'s account to the Kebles had perhaps been deliberately optimistic, since she had described her niece\'s condition as \'hopeless\' as early as 8 December.

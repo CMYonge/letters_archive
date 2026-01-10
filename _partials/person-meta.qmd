@@ -1,0 +1,5 @@
+::: {.entity-meta}
+{{< if-meta "full-name" >}}**Name:** {{< meta full-name >}}  {{< /if-meta >}}
+{{< if-meta "dates" >}}**Dates:** {{< meta dates >}}  {{< /if-meta >}}
+{{< if-meta "title" >}}**Title:** {{< meta title >}}{{< /if-meta >}}
+:::

@@ -1,0 +1,22 @@
+---
+id: 1974
+title: To an Unknown Woman
+date: '1864-09-12'
+display-date: Sept 12th 1864
+from-name: Charlotte Mary Yonge
+from-address: Elderfield
+to-name: To an Unknown Woman
+manuscript-location: MS University of Sheffield Library
+---
+
+Dear Madam,
+I have read the papers you enclosed with much interest but I am afraid that I can hardly make them available at the present time.[^1] They are written so much in the style of the former generation that they would hardly suit this one, excepting the Rivers, and that is too much of a fragment.
+
+With many thanks therefore I return them
+
+yours faithfully
+
+C M Yonge
+
+
+[^1]: CMY judges them unsuitable for [MP.](/periodical/52)
