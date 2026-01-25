@@ -12,6 +12,9 @@ Charlotte Mary Yonge was a prolific English novelist, best known for her family 
 
 This website contains 1,918 letters from Charlotte Mary Yonge's correspondence, originally compiled and digitized by the Centre for 21st Century Humanities at the University of Newcastle, Australia. The letters span her lifetime and provide insight into Victorian literary culture, education, and religious life.
 
+## Copyright
+The text of Yonge's unpublished manuscripts is out of copyright, but the compilation, the annotation and the textual, editorial, and introductory matter are the copyright of the editors, Charlotte Mitchell, Ellen Jordan and Helen Schinske , whose work should be acknowledged in any quotation or reproduction of this work. 
+
 ### Features
 
 - **Searchable Letters**: Browse and search through all letters by date, correspondent, or content
@@ -32,7 +35,7 @@ This website contains 1,918 letters from Charlotte Mary Yonge's correspondence, 
 
 When citing letters from this collection, please use the following format:
 
-> Charlotte Mary Yonge, Letter to [Recipient], [Date], The Letters of Charlotte Mary Yonge Digital Collection, [URL].
+> Charlotte Mary Yonge, Letter to [Recipient], [Date], The Letters of Charlotte Mary Yonge Digital Collection, [URL]. Edited by Charlotte Mitchell, Ellen Jordan and Helen Schinske.
 
 ---
 
