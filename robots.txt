@@ -1,1 +1,1 @@
-Sitemap: https://CMYonge.github.io/letters/sitemap.xml
+Sitemap: https://CMYonge.github.io/letters_archive/sitemap.xml
