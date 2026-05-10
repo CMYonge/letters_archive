@@ -1,3 +1,6 @@
+# Archived May 2026
+Cristian's original Python code is archived here. Clare has created new repo for /letters. This will hold the extracted letters and her R code for extracting these from SQL dump (NB Cristain worked directly with original data in database).
+
 # Quarto Migration Toolkit
 
 Scripts and docs for migrating the Charlotte Mary Yonge WordPress corpus into this Quarto-driven static archive. The migration is intentionally a one-off operation: once the Quarto site is generated, editors maintain the Markdown files directly and the helper JSON/YAML “glue” files from earlier experiments are no longer produced.
